@@ -1065,35 +1065,34 @@ button:hover {
   padding: 0 8px;
   display: flex;
   justify-content: flex-start;
-  gap: 8px;
+  gap: 0;
   background: transparent;
   border: none;
+  border-bottom: 1px solid #cccccc;
 }
 
 .navbar .tabs button {
-  background: #ffffff !important;
-  border: 1px solid #cccccc;
-  border-bottom: 2px solid transparent;
-  border-radius: 4px 4px 0 0;
-  padding: 2px 12px;
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  border-radius: 0;
+  padding: 6px 12px;
   font-size: 0.9rem;
-  color: #000000 !important;
+  color: #555;
   cursor: pointer;
   white-space: nowrap;
-  transition: background-color 0.2s ease-in-out, border-color 0.2s;
+  transition: color 0.2s, border-color 0.2s;
 }
 
 .navbar .tabs button.active {
-  background: #e4ede8 !important;
-  /* subtle highlight */
-  color: #000000 !important;
-  border-color: #7aa68c;
-  border-bottom-width: 2px;
+  color: #000;
+  border-bottom-color: #7aa68c;
   font-weight: 600;
 }
 
 .navbar .tabs button:hover:not(.active) {
-  background: #f2f2f2;
+  color: #000;
+  background: none;
 }
 
 
