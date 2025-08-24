@@ -1059,7 +1059,7 @@ button:hover {
 /* ─────────────────────────────────────────────────────────────────────────────
    3) Tabs pulled left & higher contrast
 ───────────────────────────────────────────────────────────────────────────── */
-#goalsView .navbar .tabs {
+.navbar .tabs {
   width: 100%;
   margin: 0;
   padding: 0 8px;
@@ -1070,7 +1070,7 @@ button:hover {
   border: none;
 }
 
-#goalsView .navbar .tabs button {
+.navbar .tabs button {
   background: #ffffff !important;
   border: 1px solid #cccccc;
   border-bottom: 2px solid transparent;
@@ -1083,7 +1083,7 @@ button:hover {
   transition: background-color 0.2s ease-in-out, border-color 0.2s;
 }
 
-#goalsView .navbar .tabs button.active {
+.navbar .tabs button.active {
   background: #e4ede8 !important;
   /* subtle highlight */
   color: #000000 !important;
@@ -1092,7 +1092,7 @@ button:hover {
   font-weight: 600;
 }
 
-#goalsView .navbar .tabs button:hover:not(.active) {
+.navbar .tabs button:hover:not(.active) {
   background: #f2f2f2;
 }
 
