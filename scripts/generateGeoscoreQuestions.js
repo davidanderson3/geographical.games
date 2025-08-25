@@ -1,6 +1,38 @@
 #!/usr/bin/env node
 const fs = require("fs");
 const path = require("path");
+const admin = require("firebase-admin");
+
+const SERVICE_ACCOUNT_PATH = "./serviceAccountKey.json";
+if (!fs.existsSync(SERVICE_ACCOUNT_PATH)) {
+  console.error(`\u2717 Missing service account key at ${SERVICE_ACCOUNT_PATH}`);
+  process.exit(1);
+}
+const serviceAccount = require(SERVICE_ACCOUNT_PATH);
+
+const isEmulator = !!process.env.FIRESTORE_EMULATOR_HOST;
+if (isEmulator) {
+  console.warn(`\u26A0\uFE0F FIRESTORE_EMULATOR_HOST=${process.env.FIRESTORE_EMULATOR_HOST}`);
+} else {
+  console.log("\uD83D\uDD12 Connecting to Firestore");
+}
+
+const projectId =
+  serviceAccount.project_id ||
+  process.env.GCLOUD_PROJECT ||
+  process.env.GOOGLE_CLOUD_PROJECT;
+
+try {
+  admin.initializeApp({
+    credential: admin.credential.cert(serviceAccount),
+    projectId,
+  });
+} catch (err) {
+  console.error("Failed to initialize Firebase Admin SDK:", err.message);
+  process.exit(1);
+}
+
+const db = admin.firestore();
 
 const TOT_MENTIONS_PER_STATE = 250;
 const ZIPF_S = 1.25;
@@ -274,6 +306,8 @@ async function main(){
   console.log(`Per-state CSVs in ./states_wiki/ (e.g., states_wiki/KS.csv)`);
 
   const questions = [];
+  const batch = db.batch();
+  const coll = db.collection("geoscoreQuestions");
   for(const [st,rows] of byState.entries()){
     const answers = rows
       .slice()
@@ -283,11 +317,16 @@ async function main(){
         score: r.est_mentions,
         count: r.est_mentions
       }));
-    questions.push({
+    const doc = {
       question: `Name a city in ${STATE_NAMES[st] || st}`,
       answers
-    });
+    };
+    questions.push(doc);
+    const docRef = coll.doc(st);
+    batch.set(docRef, doc);
   }
+  await batch.commit();
+  console.log(`Synced ${questions.length} questions to Firestore collection geoscoreQuestions`);
   fs.writeFileSync("geoscore_questions.json", JSON.stringify(questions, null, 2), "utf8");
   console.log(`Wrote geoscore_questions.json with ${questions.length} questions`);
 }
