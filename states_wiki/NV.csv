@@ -1,0 +1,20 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+NV,3240000,Las Vegas,incorporated,25,A,641903,"Las Vegas, NV",0,1,91,0.364,Las Vegas city
+NV,3231900,Henderson,incorporated,25,A,317610,"Henderson, NV",0,2,38,0.152,Henderson city
+NV,3260600,Reno,incorporated,25,A,264165,"Reno, NV",0,3,23,0.092,Reno city
+NV,3251800,North Las Vegas,incorporated,25,A,262527,"North Las Vegas, NV",0,4,16,0.064,North Las Vegas city
+NV,3268400,Sparks,incorporated,25,A,108445,"Sparks, NV",0,5,12,0.048,Sparks city
+NV,3209700,Carson City,incorporated,00,A,58639,"Carson City, NV",0,6,15,0.06,Carson City
+NV,3224900,Fernley,incorporated,25,A,22895,"Fernley, NV",0,7,8,0.032,Fernley city
+NV,3222500,Elko,incorporated,25,A,20564,"Elko, NV",0,8,7,0.028,Elko city
+NV,3246000,Mesquite,incorporated,25,A,20471,"Mesquite, NV",0,9,6,0.024,Mesquite city
+NV,3206500,Boulder City,incorporated,25,A,14885,"Boulder City, NV",0,10,5,0.02,Boulder City city
+NV,3224100,Fallon,incorporated,25,A,9327,"Fallon, NV",0,11,5,0.02,Fallon city
+NV,3284800,Winnemucca,incorporated,25,A,8431,"Winnemucca, NV",0,12,4,0.016,Winnemucca city
+NV,3283730,West Wendover,incorporated,25,A,4512,"West Wendover, NV",0,13,4,0.016,West Wendover city
+NV,3223500,Ely,incorporated,25,A,3924,"Ely, NV",0,14,3,0.012,Ely city
+NV,3285400,Yerington,incorporated,25,A,3121,"Yerington, NV",0,15,3,0.012,Yerington city
+NV,3208900,Carlin,incorporated,25,A,2050,"Carlin, NV",0,16,3,0.012,Carlin city
+NV,3243000,Lovelock,incorporated,25,A,1805,"Lovelock, NV",0,17,3,0.012,Lovelock city
+NV,3283000,Wells,incorporated,25,A,1237,"Wells, NV",0,18,2,0.008,Wells city
+NV,3208500,Caliente,incorporated,25,A,990,"Caliente, NV",0,19,2,0.008,Caliente city

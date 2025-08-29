@@ -1,5 +1,5 @@
 let locationId = '';
-const GEO_MAIN_VERSION = '20250829-2';
+const GEO_MAIN_VERSION = '20250901';
 try { console.log('GeoLayers main.js version', GEO_MAIN_VERSION); } catch {}
 
 // Last-resort safety: wrap Leaflet's latLng and default GeoJSON converter
@@ -31,6 +31,14 @@ try {
     }
   }
 } catch {}
+
+// Global error hook to surface any remaining NaN traces
+try {
+  window.addEventListener('error', (e) => {
+    try { console.error('GeoLayers window error:', e && (e.message || e.error)); } catch {}
+  });
+} catch {}
+
 let finished = false;
 const guess = document.getElementById('guess');
 let map;
@@ -43,7 +51,6 @@ function safeCoordsToLatLng(coords){
   const lng = Number(Array.isArray(coords) ? coords[0] : undefined);
   const lat = Number(Array.isArray(coords) ? coords[1] : undefined);
   if (!isFinite(lng) || !isFinite(lat)) {
-    // Fallback to a harmless coordinate; better than throwing and breaking render
     return L.latLng(0, 0);
   }
   return L.latLng(lat, lng);
@@ -131,10 +138,22 @@ function loadCountry() {
   try { console.log('GeoLayers loading', locationId); } catch {}
   Promise.all([
     fetch(`data/${locationId}/outline.geojson`).then(r => r.ok ? r.json() : { type:'FeatureCollection', features: [] }).catch(() => ({ type:'FeatureCollection', features: [] })),
-    fetch(`data/${locationId}/rivers.geojson`).then(r => r.ok ? r.json() : { type:'FeatureCollection', features: [] }).catch(() => ({ type:'FeatureCollection', features: [] }))
+    (async () => {
+      try {
+        const r1 = await fetch(`data/${locationId}/rivers_highres.geojson`);
+        if (r1.ok) return r1.json();
+      } catch {}
+      try {
+        const r2 = await fetch(`data/${locationId}/rivers.geojson`);
+        if (r2.ok) return r2.json();
+      } catch {}
+      return { type:'FeatureCollection', features: [] };
+    })()
   ]).then(([outlineGeo, riversGeo]) => {
     if (!map) {
+      // Initialize with a safe default view so resize/getCenter never sees undefined zoom
       map = L.map('map', { zoomControl: false, attributionControl: false, center: [20, 0], zoom: 2 });
+      try { map.on('resize', (ev) => { try { console.log('Map resize event, zoom=', map.getZoom()); } catch {} }); } catch {}
     } else {
       map.eachLayer(l => map.removeLayer(l));
     }
@@ -155,22 +174,42 @@ function loadCountry() {
       riversLayer = L.geoJSON({ type:'FeatureCollection', features: [] });
     }
 
-    // Fit the map view to the country's outline dimensions with a small padding
-    const bounds = outline.getBounds();
-    if (bounds && bounds.isValid && bounds.isValid()) {
-      map.fitBounds(bounds, { padding: [20, 20] });
+    // Defer fitBounds until container has real size to avoid Infinity zoom
+    const ensureSized = () => {
+      try {
+        const el = map.getContainer();
+        if (!el) return false;
+        const w = el.clientWidth|0, h = el.clientHeight|0;
+        return w > 0 && h > 0;
+      } catch { return false; }
+    };
+    const applyView = () => {
+      const bounds = outline.getBounds();
+      if (bounds && bounds.isValid && bounds.isValid()) {
+        map.fitBounds(bounds, { padding: [20, 20] });
+      } else {
+        map.setView([20, 0], 2);
+      }
+      // Add layers after view set
+      if (layerMode === 'outline') {
+        outline.addTo(map);
+      } else if (layerMode === 'rivers') {
+        riversLayer.addTo(map);
+      } else {
+        outline.addTo(map);
+        riversLayer.addTo(map);
+      }
+    };
+    if (ensureSized()) {
+      applyView();
     } else {
-      map.setView([20, 0], 2);
-    }
-
-    // Conditionally add layers for debugging
-    if (layerMode === 'outline') {
-      outline.addTo(map);
-    } else if (layerMode === 'rivers') {
-      riversLayer.addTo(map);
-    } else {
-      outline.addTo(map);
-      riversLayer.addTo(map);
+      let tries = 0;
+      const t = setInterval(() => {
+        if (ensureSized() || tries++ > 40) { // up to ~2s
+          clearInterval(t);
+          applyView();
+        }
+      }, 50);
     }
   }).catch(() => {
     if (!map) {

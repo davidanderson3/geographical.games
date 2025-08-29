@@ -1,0 +1,58 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+DE,1077580,Wilmington,incorporated,25,A,70898,"Wilmington, DE",0,1,75,0.3,Wilmington city
+DE,1021200,Dover,incorporated,25,A,39403,"Dover, DE",0,2,46,0.184,Dover city
+DE,1050670,Newark,incorporated,25,A,30601,"Newark, DE",0,3,19,0.076,Newark city
+DE,1047030,Middletown,incorporated,43,A,23192,"Middletown, DE",0,4,13,0.052,Middletown town
+DE,1067310,Smyrna,incorporated,43,A,12883,"Smyrna, DE",0,5,10,0.04,Smyrna town
+DE,1047420,Milford,incorporated,25,A,11190,"Milford, DE",0,6,8,0.032,Milford city
+DE,1064320,Seaford,incorporated,25,A,7957,"Seaford, DE",0,7,7,0.028,Seaford city
+DE,1029090,Georgetown,incorporated,43,A,7134,"Georgetown, DE",0,8,6,0.024,Georgetown town
+DE,1047940,Millsboro,incorporated,43,A,6863,"Millsboro, DE",0,9,5,0.02,Millsboro town
+DE,1024540,Elsmere,incorporated,43,A,6229,"Elsmere, DE",0,10,4,0.016,Elsmere town
+DE,1050800,New Castle,incorporated,25,A,5551,"New Castle, DE",0,11,4,0.016,New Castle city
+DE,1015440,Clayton,incorporated,43,A,3961,"Clayton, DE",0,12,3,0.012,Clayton town
+DE,1041310,Laurel,incorporated,43,A,3865,"Laurel, DE",0,13,2,0.008,Laurel town
+DE,1033120,Harrington,incorporated,25,A,3774,"Harrington, DE",0,14,3,0.012,Harrington city
+DE,1010760,Camden,incorporated,43,A,3715,"Camden, DE",0,15,3,0.012,Camden town
+DE,1041830,Lewes,incorporated,25,A,3303,"Lewes, DE",0,16,2,0.008,Lewes city
+DE,1048330,Milton,incorporated,43,A,3291,"Milton, DE",0,17,2,0.008,Milton town
+DE,1064840,Selbyville,incorporated,43,A,2878,"Selbyville, DE",0,18,1,0.004,Selbyville town
+DE,1072510,Townsend,incorporated,43,A,2717,"Townsend, DE",0,19,2,0.008,Townsend town
+DE,1053920,Ocean View,incorporated,43,A,2636,"Ocean View, DE",0,20,2,0.008,Ocean View town
+DE,1008680,Bridgeville,incorporated,43,A,2568,"Bridgeville, DE",0,21,2,0.008,Bridgeville town
+DE,1020380,Delmar,incorporated,43,A,2027,"Delmar, DE",0,22,2,0.008,Delmar town
+DE,1014660,Cheswold,incorporated,43,A,1923,"Cheswold, DE",0,23,1,0.004,Cheswold town
+DE,1019730,Delaware City,incorporated,25,A,1885,"Delaware City, DE",0,24,1,0.004,Delaware City city
+DE,1048200,Millville,incorporated,43,A,1825,"Millville, DE",0,25,1,0.004,Millville town
+DE,1081350,Wyoming,incorporated,43,A,1680,"Wyoming, DE",0,26,1,0.004,Wyoming town
+DE,1026620,Felton,incorporated,43,A,1316,"Felton, DE",0,27,1,0.004,Felton town
+DE,1004650,Bellefonte,incorporated,43,A,1225,"Bellefonte, DE",0,28,1,0.004,Bellefonte town
+DE,1006730,Blades,incorporated,43,A,1179,"Blades, DE",0,29,0,0,Blades town
+DE,1060290,Rehoboth Beach,incorporated,25,A,1108,"Rehoboth Beach, DE",0,30,0,0,Rehoboth Beach city
+DE,1028440,Frederica,incorporated,43,A,1073,"Frederica, DE",0,31,0,0,Frederica town
+DE,1031560,Greenwood,incorporated,43,A,990,"Greenwood, DE",0,32,1,0.004,Greenwood town
+DE,1005690,Bethany Beach,incorporated,43,A,954,"Bethany Beach, DE",0,33,1,0.004,Bethany Beach town
+DE,1051190,Newport,incorporated,43,A,910,"Newport, DE",0,34,1,0.004,Newport town
+DE,1018950,Dagsboro,incorporated,43,A,870,"Dagsboro, DE",0,35,1,0.004,Dagsboro town
+DE,1028310,Frankford,incorporated,43,A,790,"Frankford, DE",0,36,1,0.004,Frankford town
+DE,1024020,Ellendale,incorporated,43,A,487,"Ellendale, DE",0,37,1,0.004,Ellendale town
+DE,1067700,South Bethany,incorporated,43,A,451,"South Bethany, DE",0,38,1,0.004,South Bethany town
+DE,1001400,Arden,incorporated,47,A,430,"Arden, DE",0,39,1,0.004,Arden village
+DE,1036760,Houston,incorporated,43,A,381,"Houston, DE",0,40,1,0.004,Houston town
+DE,1054050,Odessa,incorporated,43,A,366,"Odessa, DE",0,41,1,0.004,Odessa town
+DE,1020900,Dewey Beach,incorporated,43,A,353,"Dewey Beach, DE",0,42,1,0.004,Dewey Beach town
+DE,1026880,Fenwick Island,incorporated,43,A,343,"Fenwick Island, DE",0,43,1,0.004,Fenwick Island town
+DE,1007250,Bowers,incorporated,43,A,278,"Bowers, DE",0,44,1,0.004,Bowers town
+DE,1044430,Magnolia,incorporated,43,A,277,"Magnolia, DE",0,45,1,0.004,Magnolia town
+DE,1001660,Ardentown,incorporated,47,A,255,"Ardentown, DE",0,46,1,0.004,Ardentown village
+DE,1005820,Bethel,incorporated,43,A,239,"Bethel, DE",0,47,1,0.004,Bethel town
+DE,1001530,Ardencroft,incorporated,47,A,226,"Ardencroft, DE",0,48,1,0.004,Ardencroft village
+DE,1067050,Slaughter Beach,incorporated,43,A,218,"Slaughter Beach, DE",0,49,1,0.004,Slaughter Beach town
+DE,1039100,Kenton,incorporated,43,A,215,"Kenton, DE",0,50,1,0.004,Kenton town
+DE,1042870,Little Creek,incorporated,43,A,195,"Little Creek, DE",0,51,1,0.004,Little Creek town
+DE,1080830,Woodside,incorporated,43,A,190,"Woodside, DE",0,52,1,0.004,Woodside town
+DE,1041700,Leipsic,incorporated,43,A,178,"Leipsic, DE",0,53,1,0.004,Leipsic town
+DE,1074330,Viola,incorporated,43,A,140,"Viola, DE",0,54,1,0.004,Viola town
+DE,1033900,Henlopen Acres,incorporated,43,A,139,"Henlopen Acres, DE",0,55,0,0,Henlopen Acres town
+DE,1025840,Farmington,incorporated,43,A,92,"Farmington, DE",0,56,0,0,Farmington town
+DE,1033250,Hartly,incorporated,43,A,73,"Hartly, DE",0,57,0,0,Hartly town

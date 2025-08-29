@@ -1,0 +1,553 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+NC,3712000,Charlotte,incorporated,25,A,874579,"Charlotte, NC",0,1,64,0.256,Charlotte city
+NC,3755000,Raleigh,incorporated,25,A,467665,"Raleigh, NC",0,2,41,0.164,Raleigh city
+NC,3728000,Greensboro,incorporated,25,A,299035,"Greensboro, NC",0,3,17,0.068,Greensboro city
+NC,3719000,Durham,incorporated,25,A,283506,"Durham, NC",0,4,11,0.044,Durham city
+NC,3775000,Winston-Salem,incorporated,25,A,249545,"Winston-Salem, NC",0,5,8,0.032,Winston-Salem city
+NC,3722920,Fayetteville,incorporated,25,A,208501,"Fayetteville, NC",0,6,8,0.032,Fayetteville city
+NC,3710740,Cary,incorporated,43,A,174721,"Cary, NC",0,7,7,0.028,Cary town
+NC,3774440,Wilmington,incorporated,25,A,115451,"Wilmington, NC",0,8,6,0.024,Wilmington city
+NC,3731400,High Point,incorporated,25,A,114059,"High Point, NC",0,9,4,0.016,High Point city
+NC,3714100,Concord,incorporated,25,A,105240,"Concord, NC",0,10,5,0.02,Concord city
+NC,3702140,Asheville,incorporated,25,A,94589,"Asheville, NC",0,11,3,0.012,Asheville city
+NC,3728080,Greenville,incorporated,25,A,87521,"Greenville, NC",0,12,4,0.016,Greenville city
+NC,3725580,Gastonia,incorporated,25,A,80411,"Gastonia, NC",0,13,4,0.016,Gastonia city
+NC,3734200,Jacksonville,incorporated,25,A,72723,"Jacksonville, NC",0,14,2,0.008,Jacksonville city
+NC,3711800,Chapel Hill,incorporated,43,A,61960,"Chapel Hill, NC",0,15,2,0.008,Chapel Hill town
+NC,3733120,Huntersville,incorporated,43,A,61376,"Huntersville, NC",0,16,3,0.012,Huntersville town
+NC,3701520,Apex,incorporated,43,A,58780,"Apex, NC",0,17,3,0.012,Apex town
+NC,3709060,Burlington,incorporated,25,A,57303,"Burlington, NC",0,18,3,0.012,Burlington city
+NC,3757500,Rocky Mount,incorporated,25,A,54341,"Rocky Mount, NC",0,19,3,0.012,Rocky Mount city
+NC,3735200,Kannapolis,incorporated,25,A,53114,"Kannapolis, NC",0,20,2,0.008,Kannapolis city
+NC,3744220,Mooresville,incorporated,43,A,50193,"Mooresville, NC",0,21,1,0.004,Mooresville town
+NC,3774540,Wilson,incorporated,25,A,47851,"Wilson, NC",0,22,1,0.004,Wilson city
+NC,3770540,Wake Forest,incorporated,43,A,47601,"Wake Forest, NC",0,23,1,0.004,Wake Forest town
+NC,3731060,Hickory,incorporated,25,A,43490,"Hickory, NC",0,24,1,0.004,Hickory city
+NC,3732260,Holly Springs,incorporated,43,A,41239,"Holly Springs, NC",0,25,1,0.004,Holly Springs town
+NC,3733560,Indian Trail,incorporated,43,A,39997,"Indian Trail, NC",0,26,1,0.004,Indian Trail town
+NC,3758860,Salisbury,incorporated,25,A,35540,"Salisbury, NC",0,27,1,0.004,Salisbury city
+NC,3743920,Monroe,incorporated,25,A,34562,"Monroe, NC",0,28,2,0.008,Monroe city
+NC,3725300,Fuquay-Varina,incorporated,43,A,34152,"Fuquay-Varina, NC",0,29,2,0.008,Fuquay-Varina town
+NC,3726880,Goldsboro,incorporated,25,A,33657,"Goldsboro, NC",0,30,2,0.008,Goldsboro city
+NC,3714700,Cornelius,incorporated,43,A,31412,"Cornelius, NC",0,31,2,0.008,Cornelius town
+NC,3746340,New Bern,incorporated,25,A,31291,"New Bern, NC",0,32,2,0.008,New Bern city
+NC,3725480,Garner,incorporated,43,A,31159,"Garner, NC",0,33,2,0.008,Garner town
+NC,3759280,Sanford,incorporated,25,A,30261,"Sanford, NC",0,34,2,0.008,Sanford city
+NC,3744520,Morrisville,incorporated,43,A,29630,"Morrisville, NC",0,35,2,0.008,Morrisville town
+NC,3741960,Matthews,incorporated,43,A,29435,"Matthews, NC",0,36,2,0.008,Matthews town
+NC,3764740,Statesville,incorporated,25,A,28419,"Statesville, NC",0,37,2,0.008,Statesville city
+NC,3767420,Thomasville,incorporated,25,A,27183,"Thomasville, NC",0,38,2,0.008,Thomasville city
+NC,3702080,Asheboro,incorporated,25,A,27156,"Asheboro, NC",0,39,2,0.008,Asheboro city
+NC,3743480,Mint Hill,incorporated,43,A,26450,"Mint Hill, NC",0,40,2,0.008,Mint Hill town
+NC,3735600,Kernersville,incorporated,43,A,26449,"Kernersville, NC",0,41,2,0.008,Kernersville town
+NC,3712860,Clayton,incorporated,43,A,26307,"Clayton, NC",0,42,2,0.008,Clayton town
+NC,3737680,Leland,incorporated,43,A,22908,"Leland, NC",0,43,2,0.008,Leland town
+NC,3761200,Shelby,incorporated,25,A,21918,"Shelby, NC",0,44,2,0.008,Shelby city
+NC,3710620,Carrboro,incorporated,43,A,21295,"Carrboro, NC",0,45,2,0.008,Carrboro town
+NC,3712960,Clemmons,incorporated,47,A,21163,"Clemmons, NC",0,46,2,0.008,Clemmons village
+NC,3771460,Waxhaw,incorporated,43,A,20534,"Waxhaw, NC",0,47,2,0.008,Waxhaw town
+NC,3735920,Kinston,incorporated,25,A,19900,"Kinston, NC",0,48,1,0.004,Kinston city
+NC,3738060,Lexington,incorporated,25,A,19632,"Lexington, NC",0,49,1,0.004,Lexington city
+NC,3736080,Knightdale,incorporated,43,A,19435,"Knightdale, NC",0,50,1,0.004,Knightdale town
+NC,3707080,Boone,incorporated,43,A,19092,"Boone, NC",0,51,0,0,Boone town
+NC,3739700,Lumberton,incorporated,25,A,19025,"Lumberton, NC",0,52,0,0,Lumberton city
+NC,3729800,Harrisburg,incorporated,43,A,18967,"Harrisburg, NC",0,53,0,0,Harrisburg town
+NC,3720580,Elizabeth City,incorporated,25,A,18631,"Elizabeth City, NC",0,54,0,0,Elizabeth City city
+NC,3737760,Lenoir,incorporated,25,A,18352,"Lenoir, NC",0,55,0,0,Lenoir city
+NC,3732640,Hope Mills,incorporated,43,A,17808,"Hope Mills, NC",0,56,0,0,Hope Mills town
+NC,3742240,Mebane,incorporated,25,A,17797,"Mebane, NC",0,57,0,0,Mebane city
+NC,3744960,Mount Holly,incorporated,25,A,17703,"Mount Holly, NC",0,58,0,0,Mount Holly city
+NC,3751940,Pinehurst,incorporated,47,A,17581,"Pinehurst, NC",0,59,0,0,Pinehurst village
+NC,3744400,Morganton,incorporated,25,A,17474,"Morganton, NC",0,60,0,0,Morganton city
+NC,3727280,Graham,incorporated,25,A,17157,"Graham, NC",0,61,0,0,Graham city
+NC,3730120,Havelock,incorporated,25,A,16621,"Havelock, NC",0,62,0,0,Havelock city
+NC,3700680,Albemarle,incorporated,25,A,16432,"Albemarle, NC",0,63,0,0,Albemarle city
+NC,3764420,Stallings,incorporated,43,A,16112,"Stallings, NC",0,64,0,0,Stallings town
+NC,3763120,Southern Pines,incorporated,43,A,15545,"Southern Pines, NC",0,65,0,0,Southern Pines town
+NC,3720080,Eden,incorporated,25,A,15421,"Eden, NC",0,66,0,0,Eden city
+NC,3756900,Roanoke Rapids,incorporated,25,A,15229,"Roanoke Rapids, NC",0,67,0,0,Roanoke Rapids city
+NC,3730720,Hendersonville,incorporated,25,A,15137,"Hendersonville, NC",0,68,0,0,Hendersonville city
+NC,3716400,Davidson,incorporated,43,A,15106,"Davidson, NC",0,69,0,0,Davidson town
+NC,3730660,Henderson,incorporated,25,A,15060,"Henderson, NC",0,70,0,0,Henderson city
+NC,3704840,Belmont,incorporated,25,A,15010,"Belmont, NC",0,71,0,0,Belmont city
+NC,3737220,Laurinburg,incorporated,25,A,14978,"Laurinburg, NC",0,72,0,0,Laurinburg city
+NC,3755900,Reidsville,incorporated,25,A,14583,"Reidsville, NC",0,73,0,0,Reidsville city
+NC,3738040,Lewisville,incorporated,43,A,13381,"Lewisville, NC",0,74,0,0,Lewisville town
+NC,3771680,Weddington,incorporated,43,A,13181,"Weddington, NC",0,75,0,0,Weddington town
+NC,3747000,Newton,incorporated,25,A,13148,"Newton, NC",0,76,0,0,Newton city
+NC,3701720,Archdale,incorporated,25,A,11907,"Archdale, NC",0,77,0,0,Archdale city
+NC,3764180,Spring Lake,incorporated,43,A,11660,"Spring Lake, NC",0,78,0,0,Spring Lake town
+NC,3721095,Elon,incorporated,43,A,11336,"Elon, NC",0,79,0,0,Elon town
+NC,3762520,Smithfield,incorporated,43,A,11292,"Smithfield, NC",0,80,0,0,Smithfield town
+NC,3735880,Kings Mountain,incorporated,25,A,11142,"Kings Mountain, NC",0,81,0,0,Kings Mountain city
+NC,3738320,Lincolnton,incorporated,25,A,11091,"Lincolnton, NC",0,82,0,0,Lincolnton city
+NC,3765580,Summerfield,incorporated,43,A,10951,"Summerfield, NC",0,83,0,0,Summerfield town
+NC,3766700,Tarboro,incorporated,43,A,10721,"Tarboro, NC",0,84,0,0,Tarboro town
+NC,3744800,Mount Airy,incorporated,25,A,10676,"Mount Airy, NC",0,85,0,0,Mount Airy city
+NC,3752220,Pineville,incorporated,43,A,10602,"Pineville, NC",0,86,0,0,Pineville town
+NC,3775060,Winterville,incorporated,43,A,10462,"Winterville, NC",0,87,0,0,Winterville town
+NC,3771500,Waynesville,incorporated,43,A,10140,"Waynesville, NC",0,88,0,0,Waynesville town
+NC,3771220,Washington,incorporated,25,A,9875,"Washington, NC",0,89,0,0,Washington city
+NC,3771860,Wendell,incorporated,43,A,9793,"Wendell, NC",0,90,0,0,Wendell town
+NC,3731620,Hillsborough,incorporated,43,A,9660,"Hillsborough, NC",0,91,0,0,Hillsborough town
+NC,3744320,Morehead City,incorporated,43,A,9556,"Morehead City, NC",0,92,0,0,Morehead City town
+NC,3757640,Rolesville,incorporated,43,A,9475,"Rolesville, NC",0,93,0,0,Rolesville town
+NC,3757260,Rockingham,incorporated,25,A,9243,"Rockingham, NC",0,94,0,0,Rockingham city
+NC,3725980,Gibsonville,incorporated,43,A,8920,"Gibsonville, NC",0,95,0,0,Gibsonville town
+NC,3771940,Wesley Chapel,incorporated,47,A,8681,"Wesley Chapel, NC",0,96,0,0,Wesley Chapel village
+NC,3749800,Oxford,incorporated,25,A,8628,"Oxford, NC",0,97,0,0,Oxford city
+NC,3700160,Aberdeen,incorporated,43,A,8516,"Aberdeen, NC",0,98,0,0,Aberdeen town
+NC,3718320,Dunn,incorporated,25,A,8446,"Dunn, NC",0,99,0,0,Dunn city
+NC,3706140,Black Mountain,incorporated,43,A,8426,"Black Mountain, NC",0,100,0,0,Black Mountain town
+NC,3714340,Conover,incorporated,25,A,8421,"Conover, NC",0,101,0,0,Conover city
+NC,3709360,Butner,incorporated,43,A,8397,"Butner, NC",0,102,0,0,Butner town
+NC,3748345,Oak Island,incorporated,43,A,8396,"Oak Island, NC",0,103,0,0,Oak Island town
+NC,3713240,Clinton,incorporated,25,A,8383,"Clinton, NC",0,104,0,0,Clinton city
+NC,3758160,Roxboro,incorporated,25,A,8134,"Roxboro, NC",0,105,0,0,Roxboro city
+NC,3723760,Fletcher,incorporated,43,A,7987,"Fletcher, NC",0,106,0,0,Fletcher town
+NC,3775280,Woodfin,incorporated,43,A,7936,"Woodfin, NC",0,107,0,0,Woodfin town
+NC,3707720,Brevard,incorporated,25,A,7744,"Brevard, NC",0,108,0,0,Brevard city
+NC,3741420,Marion,incorporated,25,A,7717,"Marion, NC",0,109,0,0,Marion city
+NC,3761860,Siler City,incorporated,43,A,7702,"Siler City, NC",0,110,0,0,Siler City town
+NC,3735720,Kill Devil Hills,incorporated,43,A,7656,"Kill Devil Hills, NC",0,111,0,0,Kill Devil Hills town
+NC,3748480,Oak Ridge,incorporated,43,A,7474,"Oak Ridge, NC",0,112,0,0,Oak Ridge town
+NC,3724080,Forest City,incorporated,43,A,7377,"Forest City, NC",0,113,0,0,Forest City town
+NC,3735760,King,incorporated,25,A,7197,"King, NC",0,114,0,0,King city
+NC,3743260,Mills River,incorporated,43,A,7078,"Mills River, NC",0,115,0,0,Mills River town
+NC,3768400,Trinity,incorporated,25,A,7006,"Trinity, NC",0,116,0,0,Trinity city
+NC,3776220,Zebulon,incorporated,43,A,6903,"Zebulon, NC",0,117,0,0,Zebulon town
+NC,3769260,Unionville,incorporated,43,A,6643,"Unionville, NC",0,118,0,0,Unionville town
+NC,3710500,Carolina Beach,incorporated,43,A,6564,"Carolina Beach, NC",0,119,0,0,Carolina Beach town
+NC,3758630,St. James,incorporated,43,A,6529,"St. James, NC",0,120,0,0,St. James town
+NC,3741720,Marvin,incorporated,47,A,6358,"Marvin, NC",0,121,0,0,Marvin village
+NC,3760320,Selma,incorporated,43,A,6317,"Selma, NC",0,122,0,0,Selma town
+NC,3712340,Cherryville,incorporated,25,A,6078,"Cherryville, NC",0,123,0,0,Cherryville city
+NC,3729160,Hamlet,incorporated,25,A,6025,"Hamlet, NC",0,124,0,0,Hamlet city
+NC,3706760,Boiling Spring Lakes,incorporated,25,A,5943,"Boiling Spring Lakes, NC",0,125,0,0,Boiling Spring Lakes city
+NC,3716180,Dallas,incorporated,43,A,5927,"Dallas, NC",0,126,0,0,Dallas town
+NC,3765040,Stokesdale,incorporated,43,A,5924,"Stokesdale, NC",0,127,0,0,Stokesdale town
+NC,3743720,Mocksville,incorporated,43,A,5900,"Mocksville, NC",0,128,0,0,Mocksville town
+NC,3770660,Walkertown,incorporated,43,A,5692,"Walkertown, NC",0,129,0,0,Walkertown town
+NC,3746000,Nashville,incorporated,43,A,5632,"Nashville, NC",0,130,0,0,Nashville town
+NC,3705220,Bessemer City,incorporated,25,A,5428,"Bessemer City, NC",0,131,0,0,Bessemer City city
+NC,3715260,Cramerton,incorporated,43,A,5296,"Cramerton, NC",0,132,0,0,Cramerton town
+NC,3701400,Angier,incorporated,43,A,5265,"Angier, NC",0,133,0,0,Angier town
+NC,3774220,Williamston,incorporated,43,A,5248,"Williamston, NC",0,134,0,0,Williamston town
+NC,3739280,Long View,incorporated,43,A,5088,"Long View, NC",0,135,0,0,Long View town
+NC,3759540,Sawmills,incorporated,43,A,5020,"Sawmills, NC",0,136,0,0,Sawmills town
+NC,3770380,Wadesboro,incorporated,43,A,5008,"Wadesboro, NC",0,137,0,0,Wadesboro town
+NC,3752760,Pleasant Garden,incorporated,43,A,5000,"Pleasant Garden, NC",0,138,0,0,Pleasant Garden town
+NC,3773140,Whispering Pines,incorporated,47,A,4987,"Whispering Pines, NC",0,139,0,0,Whispering Pines village
+NC,3702840,Ayden,incorporated,43,A,4977,"Ayden, NC",0,140,0,0,Ayden town
+NC,3727420,Granite Falls,incorporated,43,A,4965,"Granite Falls, NC",0,141,0,0,Granite Falls town
+NC,3700500,Ahoskie,incorporated,43,A,4891,"Ahoskie, NC",0,142,0,0,Ahoskie town
+NC,3715320,Creedmoor,incorporated,25,A,4866,"Creedmoor, NC",0,143,0,0,Creedmoor city
+NC,3701760,Archer Lodge,incorporated,43,A,4797,"Archer Lodge, NC",0,144,0,0,Archer Lodge town
+NC,3773660,Whiteville,incorporated,25,A,4766,"Whiteville, NC",0,145,0,0,Whiteville city
+NC,3742860,Midway,incorporated,43,A,4742,"Midway, NC",0,146,0,0,Midway town
+NC,3738220,Lillington,incorporated,43,A,4735,"Lillington, NC",0,147,0,0,Lillington town
+NC,3769520,Valdese,incorporated,43,A,4689,"Valdese, NC",0,148,0,0,Valdese town
+NC,3742760,Midland,incorporated,43,A,4684,"Midland, NC",0,149,0,0,Midland town
+NC,3706800,Boiling Springs,incorporated,43,A,4615,"Boiling Springs, NC",0,150,0,0,Boiling Springs town
+NC,3755080,Randleman,incorporated,25,A,4595,"Randleman, NC",0,151,0,0,Randleman city
+NC,3710550,Carolina Shores,incorporated,43,A,4588,"Carolina Shores, NC",0,152,0,0,Carolina Shores town
+NC,3771560,Weaverville,incorporated,43,A,4567,"Weaverville, NC",0,153,0,0,Weaverville town
+NC,3754580,Raeford,incorporated,25,A,4559,"Raeford, NC",0,154,0,0,Raeford city
+NC,3721740,Erwin,incorporated,43,A,4542,"Erwin, NC",0,155,0,0,Erwin town
+NC,3738860,Locust,incorporated,25,A,4537,"Locust, NC",0,156,0,0,Locust city
+NC,3752660,Pittsboro,incorporated,43,A,4537,"Pittsboro, NC",0,157,0,0,Pittsboro town
+NC,3755260,Ranlo,incorporated,43,A,4511,"Ranlo, NC",0,158,0,0,Ranlo town
+NC,3704260,Beaufort,incorporated,43,A,4464,"Beaufort, NC",0,159,0,0,Beaufort town
+NC,3722820,Farmville,incorporated,43,A,4461,"Farmville, NC",0,160,0,0,Farmville town
+NC,3720120,Edenton,incorporated,43,A,4460,"Edenton, NC",0,161,0,0,Edenton town
+NC,3712480,China Grove,incorporated,43,A,4434,"China Grove, NC",0,162,0,0,China Grove town
+NC,3710240,Canton,incorporated,43,A,4422,"Canton, NC",0,163,0,0,Canton town
+NC,3747880,North Wilkesboro,incorporated,43,A,4382,"North Wilkesboro, NC",0,164,0,0,North Wilkesboro town
+NC,3746860,Newport,incorporated,43,A,4364,"Newport, NC",0,165,0,0,Newport town
+NC,3763880,Spindale,incorporated,43,A,4225,"Spindale, NC",0,166,0,0,Spindale town
+NC,3745100,Mount Olive,incorporated,43,A,4198,"Mount Olive, NC",0,167,0,0,Mount Olive town
+NC,3760800,Shallotte,incorporated,43,A,4185,"Shallotte, NC",0,168,0,0,Shallotte town
+NC,3724640,Franklin,incorporated,43,A,4175,"Franklin, NC",0,169,0,0,Franklin town
+NC,3765900,Sunset Beach,incorporated,43,A,4175,"Sunset Beach, NC",0,170,0,0,Sunset Beach town
+NC,3732180,Holly Ridge,incorporated,43,A,4171,"Holly Ridge, NC",0,171,0,0,Holly Ridge town
+NC,3720620,Elkin,incorporated,43,A,4122,"Elkin, NC",0,172,0,0,Elkin town
+NC,3768340,Trent Woods,incorporated,43,A,4074,"Trent Woods, NC",0,173,0,0,Trent Woods town
+NC,3774760,Wingate,incorporated,43,A,4055,"Wingate, NC",0,174,0,0,Wingate town
+NC,3763400,Southport,incorporated,25,A,3971,"Southport, NC",0,175,0,0,Southport city
+NC,3705040,Benson,incorporated,43,A,3967,"Benson, NC",0,176,0,0,Benson town
+NC,3764500,Stanley,incorporated,43,A,3963,"Stanley, NC",0,177,0,0,Stanley town
+NC,3766040,Surf City,incorporated,43,A,3867,"Surf City, NC",0,178,0,0,Surf City town
+NC,3721160,Emerald Isle,incorporated,43,A,3847,"Emerald Isle, NC",0,179,0,0,Emerald Isle town
+NC,3766520,Tabor City,incorporated,43,A,3781,"Tabor City, NC",0,180,0,0,Tabor City town
+NC,3732980,Hudson,incorporated,43,A,3780,"Hudson, NC",0,181,0,0,Hudson town
+NC,3766360,Swansboro,incorporated,43,A,3744,"Swansboro, NC",0,182,0,0,Swansboro town
+NC,3740660,Maiden,incorporated,43,A,3736,"Maiden, NC",0,183,0,0,Maiden town
+NC,3725380,Gamewell,incorporated,43,A,3702,"Gamewell, NC",0,184,0,0,Gamewell town
+NC,3768500,Troutman,incorporated,43,A,3698,"Troutman, NC",0,185,0,0,Troutman town
+NC,3736860,Landis,incorporated,43,A,3690,"Landis, NC",0,186,0,0,Landis town
+NC,3736060,Kitty Hawk,incorporated,43,A,3689,"Kitty Hawk, NC",0,187,0,0,Kitty Hawk town
+NC,3774020,Wilkesboro,incorporated,43,A,3687,"Wilkesboro, NC",0,188,0,0,Wilkesboro town
+NC,3734300,Jamestown,incorporated,43,A,3668,"Jamestown, NC",0,189,0,0,Jamestown town
+NC,3719740,Eastover,incorporated,43,A,3656,"Eastover, NC",0,190,0,0,Eastover town
+NC,3739480,Lowell,incorporated,25,A,3654,"Lowell, NC",0,191,0,0,Lowell city
+NC,3758460,Rutherfordton,incorporated,43,A,3640,"Rutherfordton, NC",0,192,0,0,Rutherfordton town
+NC,3774680,Windsor,incorporated,43,A,3582,"Windsor, NC",0,193,0,0,Windsor town
+NC,3723600,Flat Rock,incorporated,47,A,3486,"Flat Rock, NC",0,194,0,0,Flat Rock village
+NC,3722500,Fairview,incorporated,43,A,3456,"Fairview, NC",0,195,0,0,Fairview town
+NC,3770720,Wallace,incorporated,43,A,3413,"Wallace, NC",0,196,0,0,Wallace town
+NC,3758360,Rural Hall,incorporated,43,A,3351,"Rural Hall, NC",0,197,0,0,Rural Hall town
+NC,3755640,Red Oak,incorporated,43,A,3342,"Red Oak, NC",0,198,0,0,Red Oak town
+NC,3753040,Plymouth,incorporated,43,A,3320,"Plymouth, NC",0,199,0,0,Plymouth town
+NC,3763760,Spencer,incorporated,43,A,3308,"Spencer, NC",0,200,0,0,Spencer town
+NC,3720600,Elizabethtown,incorporated,43,A,3296,"Elizabethtown, NC",0,201,0,0,Elizabethtown town
+NC,3736512,Lake Park,incorporated,47,A,3269,"Lake Park, NC",0,202,0,0,Lake Park village
+NC,3745880,Nags Head,incorporated,43,A,3168,"Nags Head, NC",0,203,0,0,Nags Head town
+NC,3743360,Mineral Springs,incorporated,43,A,3159,"Mineral Springs, NC",0,204,0,0,Mineral Springs town
+NC,3727870,Green Level,incorporated,43,A,3152,"Green Level, NC",0,205,0,0,Green Level town
+NC,3705135,Bermuda Run,incorporated,43,A,3120,"Bermuda Run, NC",0,206,0,0,Bermuda Run town
+NC,3763130,Southern Shores,incorporated,43,A,3090,"Southern Shores, NC",0,207,0,0,Southern Shores town
+NC,3708960,Burgaw,incorporated,43,A,3088,"Burgaw, NC",0,208,0,0,Burgaw town
+NC,3755660,Red Springs,incorporated,43,A,3087,"Red Springs, NC",0,209,0,0,Red Springs town
+NC,3739360,Louisburg,incorporated,43,A,3064,"Louisburg, NC",0,210,0,0,Louisburg town
+NC,3770740,Wallburg,incorporated,43,A,3051,"Wallburg, NC",0,211,0,0,Wallburg town
+NC,3775960,Yadkinville,incorporated,43,A,2995,"Yadkinville, NC",0,212,0,0,Yadkinville town
+NC,3727440,Granite Quarry,incorporated,43,A,2984,"Granite Quarry, NC",0,213,0,0,Granite Quarry town
+NC,3756710,River Bend,incorporated,43,A,2902,"River Bend, NC",0,214,0,0,River Bend town
+NC,3768520,Troy,incorporated,43,A,2850,"Troy, NC",0,215,0,0,Troy town
+NC,3751080,Pembroke,incorporated,43,A,2823,"Pembroke, NC",0,216,0,0,Pembroke town
+NC,3710680,Carthage,incorporated,43,A,2775,"Carthage, NC",0,217,0,0,Carthage town
+NC,3771160,Warsaw,incorporated,43,A,2733,"Warsaw, NC",0,218,0,0,Warsaw town
+NC,3709530,Cajah's Mountain,incorporated,43,A,2722,"Cajah's Mountain, NC",0,219,0,0,Cajah's Mountain town
+NC,3771900,Wentworth,incorporated,43,A,2662,"Wentworth, NC",0,220,0,0,Wentworth town
+NC,3738100,Liberty,incorporated,43,A,2655,"Liberty, NC",0,221,0,0,Liberty town
+NC,3745640,Murfreesboro,incorporated,43,A,2619,"Murfreesboro, NC",0,222,0,0,Murfreesboro town
+NC,3736400,La Grange,incorporated,43,A,2595,"La Grange, NC",0,223,0,0,La Grange town
+NC,3766500,Sylva,incorporated,43,A,2578,"Sylva, NC",0,224,0,0,Sylva town
+NC,3767720,Tobaccoville,incorporated,47,A,2578,"Tobaccoville, NC",0,225,0,0,Tobaccoville village
+NC,3774580,Wilson's Mills,incorporated,43,A,2534,"Wilson's Mills, NC",0,226,0,0,Wilson's Mills town
+NC,3741640,Marshville,incorporated,43,A,2522,"Marshville, NC",0,227,0,0,Marshville town
+NC,3775820,Wrightsville Beach,incorporated,43,A,2473,"Wrightsville Beach, NC",0,228,0,0,Wrightsville Beach town
+NC,3724720,Franklinton,incorporated,43,A,2456,"Franklinton, NC",0,229,0,0,Franklinton town
+NC,3728200,Grifton,incorporated,43,A,2448,"Grifton, NC",0,230,0,0,Grifton town
+NC,3766460,Swepsonville,incorporated,43,A,2445,"Swepsonville, NC",0,231,0,0,Swepsonville town
+NC,3742060,Mayodan,incorporated,43,A,2418,"Mayodan, NC",0,232,0,0,Mayodan town
+NC,3704950,Belville,incorporated,43,A,2406,"Belville, NC",0,233,0,0,Belville town
+NC,3747980,Norwood,incorporated,43,A,2367,"Norwood, NC",0,234,0,0,Norwood town
+NC,3766960,Taylorsville,incorporated,43,A,2320,"Taylorsville, NC",0,235,0,0,Taylorsville town
+NC,3734840,Jonesville,incorporated,43,A,2308,"Jonesville, NC",0,236,0,0,Jonesville town
+NC,3757340,Rockwell,incorporated,43,A,2302,"Rockwell, NC",0,237,0,0,Rockwell town
+NC,3756360,Richlands,incorporated,43,A,2287,"Richlands, NC",0,238,0,0,Richlands town
+NC,3730260,Haw River,incorporated,43,A,2252,"Haw River, NC",0,239,0,0,Haw River town
+NC,3737160,Laurel Park,incorporated,43,A,2250,"Laurel Park, NC",0,240,0,0,Laurel Park town
+NC,3753140,Polkton,incorporated,43,A,2250,"Polkton, NC",0,241,0,0,Polkton town
+NC,3710260,Cape Carteret,incorporated,43,A,2224,"Cape Carteret, NC",0,242,0,0,Cape Carteret town
+NC,3764260,Spruce Pine,incorporated,43,A,2194,"Spruce Pine, NC",0,243,0,0,Spruce Pine town
+NC,3722360,Fairmont,incorporated,43,A,2191,"Fairmont, NC",0,244,0,0,Fairmont town
+NC,3736220,Kure Beach,incorporated,43,A,2191,"Kure Beach, NC",0,245,0,0,Kure Beach town
+NC,3724520,Four Oaks,incorporated,43,A,2158,"Four Oaks, NC",0,246,0,0,Four Oaks town
+NC,3713360,Coats,incorporated,43,A,2155,"Coats, NC",0,247,0,0,Coats town
+NC,3740560,Madison,incorporated,43,A,2129,"Madison, NC",0,248,0,0,Madison town
+NC,3748040,Oakboro,incorporated,43,A,2128,"Oakboro, NC",0,249,0,0,Oakboro town
+NC,3742020,Maxton,incorporated,43,A,2110,"Maxton, NC",0,250,0,0,Maxton town
+NC,3752020,Pine Level,incorporated,43,A,2046,"Pine Level, NC",0,251,0,0,Pine Level town
+NC,3758720,St. Pauls,incorporated,43,A,2045,"St. Pauls, NC",0,252,0,0,St. Pauls town
+NC,3702960,Badin,incorporated,43,A,2024,"Badin, NC",0,253,0,0,Badin town
+NC,3776200,Youngsville,incorporated,43,A,2016,"Youngsville, NC",0,254,0,0,Youngsville town
+NC,3709540,Calabash,incorporated,43,A,2011,"Calabash, NC",0,255,0,0,Calabash town
+NC,3741620,Mars Hill,incorporated,43,A,2007,"Mars Hill, NC",0,256,0,0,Mars Hill town
+NC,3776000,Yanceyville,incorporated,43,A,1937,"Yanceyville, NC",0,257,0,0,Yanceyville town
+NC,3730900,Hertford,incorporated,43,A,1934,"Hertford, NC",0,258,0,0,Hertford town
+NC,3721360,Enfield,incorporated,43,A,1865,"Enfield, NC",0,259,0,0,Enfield town
+NC,3706000,Biscoe,incorporated,43,A,1848,"Biscoe, NC",0,260,0,0,Biscoe town
+NC,3763680,Sparta,incorporated,43,A,1834,"Sparta, NC",0,261,0,0,Sparta town
+NC,3755040,Ramseur,incorporated,43,A,1774,"Ramseur, NC",0,262,0,0,Ramseur town
+NC,3711340,Cedar Point,incorporated,43,A,1764,"Cedar Point, NC",0,263,0,0,Cedar Point town
+NC,3717860,Drexel,incorporated,43,A,1760,"Drexel, NC",0,264,0,0,Drexel town
+NC,3761060,Sharpsburg,incorporated,43,A,1697,"Sharpsburg, NC",0,265,0,0,Sharpsburg town
+NC,3712720,Claremont,incorporated,25,A,1692,"Claremont, NC",0,266,0,0,Claremont city
+NC,3740600,Maggie Valley,incorporated,43,A,1687,"Maggie Valley, NC",0,267,0,0,Maggie Valley town
+NC,3731500,Hildebran,incorporated,43,A,1679,"Hildebran, NC",0,268,0,0,Hildebran town
+NC,3745140,Mount Pleasant,incorporated,43,A,1671,"Mount Pleasant, NC",0,269,0,0,Mount Pleasant town
+NC,3701380,Andrews,incorporated,43,A,1667,"Andrews, NC",0,270,0,0,Andrews town
+NC,3706240,Bladenboro,incorporated,43,A,1648,"Bladenboro, NC",0,271,0,0,Bladenboro town
+NC,3759780,Scotland Neck,incorporated,43,A,1640,"Scotland Neck, NC",0,272,0,0,Scotland Neck town
+NC,3734440,Jefferson,incorporated,43,A,1622,"Jefferson, NC",0,273,0,0,Jefferson town
+NC,3709140,Burnsville,incorporated,43,A,1614,"Burnsville, NC",0,274,0,0,Burnsville town
+NC,3730620,Hemby Bridge,incorporated,43,A,1614,"Hemby Bridge, NC",0,275,0,0,Hemby Bridge town
+NC,3745660,Murphy,incorporated,43,A,1608,"Murphy, NC",0,276,0,0,Murphy town
+NC,3741060,Manteo,incorporated,43,A,1600,"Manteo, NC",0,277,0,0,Manteo town
+NC,3770780,Walnut Cove,incorporated,43,A,1586,"Walnut Cove, NC",0,278,0,0,Walnut Cove town
+NC,3764460,Stanfield,incorporated,43,A,1585,"Stanfield, NC",0,279,0,0,Stanfield town
+NC,3711640,Chadbourn,incorporated,43,A,1574,"Chadbourn, NC",0,280,0,0,Chadbourn town
+NC,3719860,East Spencer,incorporated,43,A,1567,"East Spencer, NC",0,281,0,0,East Spencer town
+NC,3768580,Tryon,incorporated,43,A,1562,"Tryon, NC",0,282,0,0,Tryon town
+NC,3708480,Bryson City,incorporated,43,A,1558,"Bryson City, NC",0,283,0,0,Bryson City town
+NC,3714280,Connelly Springs,incorporated,43,A,1529,"Connelly Springs, NC",0,284,0,0,Connelly Springs town
+NC,3726200,Glen Alpine,incorporated,43,A,1529,"Glen Alpine, NC",0,285,0,0,Glen Alpine town
+NC,3716980,Denton,incorporated,43,A,1494,"Denton, NC",0,286,0,0,Denton town
+NC,3735540,Kenly,incorporated,43,A,1491,"Kenly, NC",0,287,0,0,Kenly town
+NC,3762760,Snow Hill,incorporated,43,A,1481,"Snow Hill, NC",0,288,0,0,Snow Hill town
+NC,3751840,Pinebluff,incorporated,43,A,1473,"Pinebluff, NC",0,289,0,0,Pinebluff town
+NC,3717340,Dobson,incorporated,43,A,1462,"Dobson, NC",0,290,0,0,Dobson town
+NC,3771780,Weldon,incorporated,43,A,1444,"Weldon, NC",0,291,0,0,Weldon town
+NC,3751820,Pilot Mountain,incorporated,43,A,1440,"Pilot Mountain, NC",0,292,0,0,Pilot Mountain town
+NC,3704640,Belhaven,incorporated,43,A,1410,"Belhaven, NC",0,293,0,0,Belhaven town
+NC,3705880,Biltmore Forest,incorporated,43,A,1409,"Biltmore Forest, NC",0,294,0,0,Biltmore Forest town
+NC,3752000,Pine Knoll Shores,incorporated,43,A,1388,"Pine Knoll Shores, NC",0,295,0,0,Pine Knoll Shores town
+NC,3706500,Blowing Rock,incorporated,43,A,1376,"Blowing Rock, NC",0,296,0,0,Blowing Rock town
+NC,3705460,Bethel,incorporated,43,A,1373,"Bethel, NC",0,297,0,0,Bethel town
+NC,3757860,Rose Hill,incorporated,43,A,1371,"Rose Hill, NC",0,298,0,0,Rose Hill town
+NC,3713280,Clyde,incorporated,43,A,1368,"Clyde, NC",0,299,0,0,Clyde town
+NC,3746060,Navassa,incorporated,43,A,1367,"Navassa, NC",0,300,0,0,Navassa town
+NC,3736500,Lake Lure,incorporated,43,A,1365,"Lake Lure, NC",0,301,0,0,Lake Lure town
+NC,3702500,Atlantic Beach,incorporated,43,A,1364,"Atlantic Beach, NC",0,302,0,0,Atlantic Beach town
+NC,3753820,Princeton,incorporated,43,A,1315,"Princeton, NC",0,303,0,0,Princeton town
+NC,3764160,Spring Hope,incorporated,43,A,1309,"Spring Hope, NC",0,304,0,0,Spring Hope town
+NC,3765100,Stoneville,incorporated,43,A,1308,"Stoneville, NC",0,305,0,0,Stoneville town
+NC,3736640,Lake Waccamaw,incorporated,43,A,1296,"Lake Waccamaw, NC",0,306,0,0,Lake Waccamaw town
+NC,3724570,Foxfire,incorporated,47,A,1288,"Foxfire, NC",0,307,0,0,Foxfire village
+NC,3772540,West Jefferson,incorporated,43,A,1279,"West Jefferson, NC",0,308,0,0,West Jefferson town
+NC,3764840,Stedman,incorporated,43,A,1277,"Stedman, NC",0,309,0,0,Stedman town
+NC,3757100,Robersonville,incorporated,43,A,1269,"Robersonville, NC",0,310,0,0,Robersonville town
+NC,3708080,Broadway,incorporated,43,A,1267,"Broadway, NC",0,311,0,0,Broadway town
+NC,3753840,Princeville,incorporated,43,A,1254,"Princeville, NC",0,312,0,0,Princeville town
+NC,3758440,Rutherford College,incorporated,43,A,1226,"Rutherford College, NC",0,313,0,0,Rutherford College town
+NC,3720980,Elm City,incorporated,43,A,1218,"Elm City, NC",0,314,0,0,Elm City town
+NC,3752140,Pinetops,incorporated,43,A,1200,"Pinetops, NC",0,315,0,0,Pinetops town
+NC,3724740,Franklinville,incorporated,43,A,1197,"Franklinville, NC",0,316,0,0,Franklinville town
+NC,3724900,Fremont,incorporated,43,A,1196,"Fremont, NC",0,317,0,0,Fremont town
+NC,3707140,Boonville,incorporated,43,A,1185,"Boonville, NC",0,318,0,0,Boonville town
+NC,3744900,Mount Gilead,incorporated,43,A,1171,"Mount Gilead, NC",0,319,0,0,Mount Gilead town
+NC,3757000,Robbins,incorporated,43,A,1168,"Robbins, NC",0,320,0,0,Robbins town
+NC,3757800,Roseboro,incorporated,43,A,1163,"Roseboro, NC",0,321,0,0,Roseboro town
+NC,3703960,Bayboro,incorporated,43,A,1161,"Bayboro, NC",0,322,0,0,Bayboro town
+NC,3705660,Beulaville,incorporated,43,A,1116,"Beulaville, NC",0,323,0,0,Beulaville town
+NC,3770820,Walnut Creek,incorporated,47,A,1084,"Walnut Creek, NC",0,324,0,0,Walnut Creek village
+NC,3717520,Dortches,incorporated,43,A,1082,"Dortches, NC",0,325,0,0,Dortches town
+NC,3731360,Highlands,incorporated,43,A,1072,"Highlands, NC",0,326,0,0,Highlands town
+NC,3713980,Columbus,incorporated,43,A,1060,"Columbus, NC",0,327,0,0,Columbus town
+NC,3703500,Banner Elk,incorporated,43,A,1049,"Banner Elk, NC",0,328,0,0,Banner Elk town
+NC,3739600,Lucama,incorporated,43,A,1036,"Lucama, NC",0,329,0,0,Lucama town
+NC,3725560,Gaston,incorporated,43,A,1008,"Gaston, NC",0,330,0,0,Gaston town
+NC,3747845,North Topsail Beach,incorporated,43,A,1005,"North Topsail Beach, NC",0,331,0,0,North Topsail Beach town
+NC,3756240,Rhodhiss,incorporated,43,A,997,"Rhodhiss, NC",0,332,0,0,Rhodhiss town
+NC,3700640,Alamance,incorporated,47,A,988,"Alamance, NC",0,333,0,0,Alamance village
+NC,3708420,Brunswick,incorporated,43,A,973,"Brunswick, NC",0,334,0,0,Brunswick town
+NC,3764940,Stem,incorporated,43,A,960,"Stem, NC",0,335,0,0,Stem town
+NC,3769840,Vass,incorporated,43,A,952,"Vass, NC",0,336,0,0,Vass town
+NC,3714460,Cooleemee,incorporated,43,A,940,"Cooleemee, NC",0,337,0,0,Cooleemee town
+NC,3731960,Holden Beach,incorporated,43,A,921,"Holden Beach, NC",0,338,0,0,Holden Beach town
+NC,3747240,Norlina,incorporated,43,A,920,"Norlina, NC",0,339,0,0,Norlina town
+NC,3742700,Middlesex,incorporated,43,A,912,"Middlesex, NC",0,340,0,0,Middlesex town
+NC,3725540,Garysburg,incorporated,43,A,904,"Garysburg, NC",0,341,0,0,Garysburg town
+NC,3744100,Montreat,incorporated,43,A,901,"Montreat, NC",0,342,0,0,Montreat town
+NC,3756440,Rich Square,incorporated,43,A,894,"Rich Square, NC",0,343,0,0,Rich Square town
+NC,3739880,McAdenville,incorporated,43,A,890,"McAdenville, NC",0,344,0,0,McAdenville town
+NC,3758140,Rowland,incorporated,43,A,885,"Rowland, NC",0,345,0,0,Rowland town
+NC,3749380,Oriental,incorporated,43,A,880,"Oriental, NC",0,346,0,0,Oriental town
+NC,3769680,Vanceboro,incorporated,43,A,869,"Vanceboro, NC",0,347,0,0,Vanceboro town
+NC,3748700,Ocean Isle Beach,incorporated,43,A,867,"Ocean Isle Beach, NC",0,348,0,0,Ocean Isle Beach town
+NC,3720840,Ellerbe,incorporated,43,A,864,"Ellerbe, NC",0,349,0,0,Ellerbe town
+NC,3704960,Belwood,incorporated,43,A,857,"Belwood, NC",0,350,0,0,Belwood town
+NC,3771100,Warrenton,incorporated,43,A,851,"Warrenton, NC",0,351,0,0,Warrenton town
+NC,3713000,Cleveland,incorporated,43,A,846,"Cleveland, NC",0,352,0,0,Cleveland town
+NC,3773300,White Lake,incorporated,43,A,843,"White Lake, NC",0,353,0,0,White Lake town
+NC,3740640,Magnolia,incorporated,43,A,831,"Magnolia, NC",0,354,0,0,Magnolia town
+NC,3722600,Faith,incorporated,43,A,819,"Faith, NC",0,355,0,0,Faith town
+NC,3742100,Maysville,incorporated,43,A,818,"Maysville, NC",0,356,0,0,Maysville town
+NC,3710120,Candor,incorporated,43,A,813,"Candor, NC",0,357,0,0,Candor town
+NC,3748920,Old Fort,incorporated,43,A,811,"Old Fort, NC",0,358,0,0,Old Fort town
+NC,3764580,Star,incorporated,43,A,806,"Star, NC",0,359,0,0,Star town
+NC,3728400,Grover,incorporated,43,A,802,"Grover, NC",0,360,0,0,Grover town
+NC,3722560,Faison,incorporated,43,A,784,"Faison, NC",0,361,0,0,Faison town
+NC,3741580,Marshall,incorporated,43,A,777,"Marshall, NC",0,362,0,0,Marshall town
+NC,3735460,Kenansville,incorporated,43,A,770,"Kenansville, NC",0,363,0,0,Kenansville town
+NC,3751040,Peletier,incorporated,43,A,769,"Peletier, NC",0,364,0,0,Peletier town
+NC,3702580,Aulander,incorporated,43,A,763,"Aulander, NC",0,365,0,0,Aulander town
+NC,3755460,Red Cross,incorporated,43,A,762,"Red Cross, NC",0,366,0,0,Red Cross town
+NC,3764560,Stantonsburg,incorporated,43,A,762,"Stantonsburg, NC",0,367,0,0,Stantonsburg town
+NC,3714400,Conway,incorporated,43,A,752,"Conway, NC",0,368,0,0,Conway town
+NC,3718060,Duck,incorporated,43,A,742,"Duck, NC",0,369,0,0,Duck town
+NC,3701000,Alliance,incorporated,43,A,733,"Alliance, NC",0,370,0,0,Alliance town
+NC,3720780,Ellenboro,incorporated,43,A,723,"Ellenboro, NC",0,371,0,0,Ellenboro town
+NC,3712580,Chocowinity,incorporated,43,A,722,"Chocowinity, NC",0,372,0,0,Chocowinity town
+NC,3746740,Newland,incorporated,43,A,715,"Newland, NC",0,373,0,0,Newland town
+NC,3751780,Pikeville,incorporated,43,A,712,"Pikeville, NC",0,374,0,0,Pikeville town
+NC,3722240,Fair Bluff,incorporated,43,A,709,"Fair Bluff, NC",0,375,0,0,Fair Bluff town
+NC,3747860,Northwest,incorporated,25,A,703,"Northwest, NC",0,376,0,0,Northwest city
+NC,3710980,Catawba,incorporated,43,A,702,"Catawba, NC",0,377,0,0,Catawba town
+NC,3758020,Rosman,incorporated,43,A,701,"Rosman, NC",0,378,0,0,Rosman town
+NC,3706740,Bogue,incorporated,43,A,695,"Bogue, NC",0,379,0,0,Bogue town
+NC,3706080,Black Creek,incorporated,43,A,692,"Black Creek, NC",0,380,0,0,Black Creek town
+NC,3727520,Grantsboro,incorporated,43,A,692,"Grantsboro, NC",0,381,0,0,Grantsboro town
+NC,3717325,Dobbins Heights,incorporated,43,A,687,"Dobbins Heights, NC",0,382,0,0,Dobbins Heights town
+NC,3760180,Sedalia,incorporated,43,A,676,"Sedalia, NC",0,383,0,0,Sedalia town
+NC,3704510,Beech Mountain,incorporated,43,A,675,"Beech Mountain, NC",0,384,0,0,Beech Mountain town
+NC,3735890,Kingstown,incorporated,43,A,656,"Kingstown, NC",0,385,0,0,Kingstown town
+NC,3743580,Misenheimer,incorporated,47,A,650,"Misenheimer, NC",0,386,0,0,Misenheimer village
+NC,3770340,Wade,incorporated,43,A,638,"Wade, NC",0,387,0,0,Wade town
+NC,3719320,East Bend,incorporated,43,A,634,"East Bend, NC",0,388,0,0,East Bend town
+NC,3766980,Taylortown,incorporated,43,A,634,"Taylortown, NC",0,389,0,0,Taylortown town
+NC,3758920,Saluda,incorporated,25,A,631,"Saluda, NC",0,390,0,0,Saluda city
+NC,3775080,Winton,incorporated,43,A,629,"Winton, NC",0,391,0,0,Winton town
+NC,3722720,Fallston,incorporated,43,A,627,"Fallston, NC",0,392,0,0,Fallston town
+NC,3773160,Whitakers,incorporated,43,A,627,"Whitakers, NC",0,393,0,0,Whitakers town
+NC,3770480,Wagram,incorporated,43,A,615,"Wagram, NC",0,394,0,0,Wagram town
+NC,3712780,Clarkton,incorporated,43,A,614,"Clarkton, NC",0,395,0,0,Clarkton town
+NC,3713940,Columbia,incorporated,43,A,610,"Columbia, NC",0,396,0,0,Columbia town
+NC,3746820,New London,incorporated,43,A,607,"New London, NC",0,397,0,0,New London town
+NC,3757020,Robbinsville,incorporated,43,A,597,"Robbinsville, NC",0,398,0,0,Robbinsville town
+NC,3725460,Garland,incorporated,43,A,595,"Garland, NC",0,399,0,0,Garland town
+NC,3731440,High Shoals,incorporated,25,A,595,"High Shoals, NC",0,400,0,0,High Shoals city
+NC,3747020,Newton Grove,incorporated,43,A,585,"Newton Grove, NC",0,401,0,0,Newton Grove town
+NC,3773760,Whitsett,incorporated,43,A,584,"Whitsett, NC",0,402,0,0,Whitsett town
+NC,3756340,Richfield,incorporated,43,A,582,"Richfield, NC",0,403,0,0,Richfield town
+NC,3750700,Patterson Springs,incorporated,43,A,571,"Patterson Springs, NC",0,404,0,0,Patterson Springs town
+NC,3737260,Lawndale,incorporated,43,A,570,"Lawndale, NC",0,405,0,0,Lawndale town
+NC,3703020,Bailey,incorporated,43,A,568,"Bailey, NC",0,406,0,0,Bailey town
+NC,3727780,Greenevers,incorporated,43,A,567,"Greenevers, NC",0,407,0,0,Greenevers town
+NC,3738680,Littleton,incorporated,43,A,559,"Littleton, NC",0,408,0,0,Littleton town
+NC,3775340,Woodland,incorporated,43,A,557,"Woodland, NC",0,409,0,0,Woodland town
+NC,3774720,Winfall,incorporated,43,A,555,"Winfall, NC",0,410,0,0,Winfall town
+NC,3729640,Harmony,incorporated,43,A,543,"Harmony, NC",0,411,0,0,Harmony town
+NC,3720700,Elk Park,incorporated,43,A,542,"Elk Park, NC",0,412,0,0,Elk Park town
+NC,3759980,Seaboard,incorporated,43,A,542,"Seaboard, NC",0,413,0,0,Seaboard town
+NC,3749600,Ossipee,incorporated,43,A,536,"Ossipee, NC",0,414,0,0,Ossipee town
+NC,3743440,Minnesott Beach,incorporated,43,A,530,"Minnesott Beach, NC",0,415,0,0,Minnesott Beach town
+NC,3769795,Varnamtown,incorporated,43,A,525,"Varnamtown, NC",0,416,0,0,Varnamtown town
+NC,3732840,Hot Springs,incorporated,43,A,520,"Hot Springs, NC",0,417,0,0,Hot Springs town
+NC,3706860,Bolton,incorporated,43,A,519,"Bolton, NC",0,418,0,0,Bolton town
+NC,3753160,Polkville,incorporated,25,A,516,"Polkville, NC",0,419,0,0,Polkville city
+NC,3750340,Parkton,incorporated,43,A,504,"Parkton, NC",0,420,0,0,Parkton town
+NC,3757740,Roper,incorporated,43,A,485,"Roper, NC",0,421,0,0,Roper town
+NC,3730280,Hayesville,incorporated,43,A,461,"Hayesville, NC",0,422,0,0,Hayesville town
+NC,3768040,Topsail Beach,incorporated,43,A,461,"Topsail Beach, NC",0,423,0,0,Topsail Beach town
+NC,3742620,Micro,incorporated,43,A,458,"Micro, NC",0,424,0,0,Micro town
+NC,3758840,Salemburg,incorporated,43,A,457,"Salemburg, NC",0,425,0,0,Salemburg town
+NC,3702620,Aurora,incorporated,43,A,455,"Aurora, NC",0,426,0,0,Aurora town
+NC,3752400,Pink Hill,incorporated,43,A,451,"Pink Hill, NC",0,427,0,0,Pink Hill town
+NC,3703100,Bakersville,incorporated,43,A,450,"Bakersville, NC",0,428,0,0,Bakersville town
+NC,3725940,Gibson,incorporated,43,A,449,"Gibson, NC",0,429,0,0,Gibson town
+NC,3767000,Teachey,incorporated,43,A,448,"Teachey, NC",0,430,0,0,Teachey town
+NC,3708140,Brookford,incorporated,43,A,442,"Brookford, NC",0,431,0,0,Brookford town
+NC,3701420,Ansonville,incorporated,43,A,440,"Ansonville, NC",0,432,0,0,Ansonville town
+NC,3757700,Ronda,incorporated,43,A,438,"Ronda, NC",0,433,0,0,Ronda town
+NC,3734000,Jackson,incorporated,43,A,430,"Jackson, NC",0,434,0,0,Jackson town
+NC,3759135,Sandyfield,incorporated,43,A,430,"Sandyfield, NC",0,435,0,0,Sandyfield town
+NC,3738030,Lewiston Woodville,incorporated,43,A,426,"Lewiston Woodville, NC",0,436,0,0,Lewiston Woodville town
+NC,3734320,Jamesville,incorporated,43,A,424,"Jamesville, NC",0,437,0,0,Jamesville town
+NC,3719300,East Arcadia,incorporated,43,A,418,"East Arcadia, NC",0,438,0,0,East Arcadia town
+NC,3731920,Hoffman,incorporated,43,A,418,"Hoffman, NC",0,439,0,0,Hoffman town
+NC,3758620,St. Helena,incorporated,47,A,417,"St. Helena, NC",0,440,0,0,St. Helena village
+NC,3701640,Arapahoe,incorporated,43,A,416,"Arapahoe, NC",0,441,0,0,Arapahoe town
+NC,3732540,Hookerton,incorporated,43,A,413,"Hookerton, NC",0,442,0,0,Hookerton town
+NC,3739960,Macclesfield,incorporated,43,A,413,"Macclesfield, NC",0,443,0,0,Macclesfield town
+NC,3737040,Lattimore,incorporated,43,A,406,"Lattimore, NC",0,444,0,0,Lattimore town
+NC,3764380,Staley,incorporated,43,A,397,"Staley, NC",0,445,0,0,Staley town
+NC,3710960,Caswell Beach,incorporated,43,A,395,"Caswell Beach, NC",0,446,0,0,Caswell Beach town
+NC,3738200,Lilesville,incorporated,43,A,395,"Lilesville, NC",0,447,0,0,Lilesville town
+NC,3771240,Washington Park,incorporated,43,A,392,"Washington Park, NC",0,448,0,0,Washington Park town
+NC,3750820,Peachland,incorporated,43,A,390,"Peachland, NC",0,449,0,0,Peachland town
+NC,3762040,Simpson,incorporated,47,A,390,"Simpson, NC",0,450,0,0,Simpson village
+NC,3728240,Grimesland,incorporated,43,A,386,"Grimesland, NC",0,451,0,0,Grimesland town
+NC,3724440,Fountain,incorporated,43,A,385,"Fountain, NC",0,452,0,0,Fountain town
+NC,3715020,Cove City,incorporated,43,A,378,"Cove City, NC",0,453,0,0,Cove City town
+NC,3771600,Webster,incorporated,43,A,372,"Webster, NC",0,454,0,0,Webster town
+NC,3765530,Sugar Mountain,incorporated,47,A,371,"Sugar Mountain, NC",0,455,0,0,Sugar Mountain village
+NC,3707220,Bostic,incorporated,43,A,355,"Bostic, NC",0,456,0,0,Bostic town
+NC,3759340,Saratoga,incorporated,43,A,353,"Saratoga, NC",0,457,0,0,Saratoga town
+NC,3707860,Bridgeton,incorporated,43,A,349,"Bridgeton, NC",0,458,0,0,Bridgeton town
+NC,3717660,Dover,incorporated,43,A,349,"Dover, NC",0,459,0,0,Dover town
+NC,3758420,Ruth,incorporated,43,A,347,"Ruth, NC",0,460,0,0,Ruth town
+NC,3705340,Bethania,incorporated,43,A,344,"Bethania, NC",0,461,0,0,Bethania town
+NC,3744560,Morven,incorporated,43,A,329,"Morven, NC",0,462,0,0,Morven town
+NC,3708860,Bunn,incorporated,43,A,327,"Bunn, NC",0,463,0,0,Bunn town
+NC,3709760,Calypso,incorporated,43,A,327,"Calypso, NC",0,464,0,0,Calypso town
+NC,3722620,Falcon,incorporated,43,A,324,"Falcon, NC",0,465,0,0,Falcon town
+NC,3765320,Stovall,incorporated,43,A,324,"Stovall, NC",0,466,0,0,Stovall town
+NC,3760505,Seven Devils,incorporated,43,A,313,"Seven Devils, NC",0,467,0,0,Seven Devils town
+NC,3770320,Waco,incorporated,43,A,310,"Waco, NC",0,468,0,0,Waco town
+NC,3729120,Hamilton,incorporated,43,A,306,"Hamilton, NC",0,469,0,0,Hamilton town
+NC,3710760,Casar,incorporated,43,A,305,"Casar, NC",0,470,0,0,Casar town
+NC,3724170,Forest Hills,incorporated,47,A,303,"Forest Hills, NC",0,471,0,0,Forest Hills village
+NC,3711352,Cedar Rock,incorporated,47,A,301,"Cedar Rock, NC",0,472,0,0,Cedar Rock village
+NC,3702460,Atkinson,incorporated,43,A,296,"Atkinson, NC",0,473,0,0,Atkinson town
+NC,3744160,Mooresboro,incorporated,43,A,293,"Mooresboro, NC",0,474,0,0,Mooresboro town
+NC,3743860,Momeyer,incorporated,43,A,277,"Momeyer, NC",0,475,0,0,Momeyer town
+NC,3755940,Rennert,incorporated,43,A,275,"Rennert, NC",0,476,0,0,Rennert town
+NC,3762060,Sims,incorporated,43,A,275,"Sims, NC",0,477,0,0,Sims town
+NC,3703150,Bald Head Island,incorporated,47,A,268,"Bald Head Island, NC",0,478,0,0,Bald Head Island village
+NC,3731860,Hobgood,incorporated,43,A,268,"Hobgood, NC",0,479,0,0,Hobgood town
+NC,3753200,Pollocksville,incorporated,43,A,268,"Pollocksville, NC",0,480,0,0,Pollocksville town
+NC,3713460,Cofield,incorporated,47,A,267,"Cofield, NC",0,481,0,0,Cofield village
+NC,3718040,Dublin,incorporated,43,A,267,"Dublin, NC",0,482,0,0,Dublin town
+NC,3725680,Gatesville,incorporated,43,A,267,"Gatesville, NC",0,483,0,0,Gatesville town
+NC,3748060,Oak City,incorporated,43,A,266,"Oak City, NC",0,484,0,0,Oak City town
+NC,3710860,Castalia,incorporated,43,A,264,"Castalia, NC",0,485,0,0,Castalia town
+NC,3759090,Sandy Creek,incorporated,43,A,248,"Sandy Creek, NC",0,486,0,0,Sandy Creek town
+NC,3769720,Vandemere,incorporated,43,A,246,"Vandemere, NC",0,487,0,0,Vandemere town
+NC,3703840,Bath,incorporated,43,A,245,"Bath, NC",0,488,0,0,Bath town
+NC,3709800,Cameron,incorporated,43,A,244,"Cameron, NC",0,489,0,0,Cameron town
+NC,3750540,Parmele,incorporated,43,A,243,"Parmele, NC",0,490,0,0,Parmele town
+NC,3768320,Trenton,incorporated,43,A,238,"Trenton, NC",0,491,0,0,Trenton town
+NC,3760080,Seagrove,incorporated,43,A,235,"Seagrove, NC",0,492,0,0,Seagrove town
+NC,3726920,Goldston,incorporated,43,A,234,"Goldston, NC",0,493,0,0,Goldston town
+NC,3733460,Indian Beach,incorporated,43,A,223,"Indian Beach, NC",0,494,0,0,Indian Beach town
+NC,3713560,Colerain,incorporated,43,A,217,"Colerain, NC",0,495,0,0,Colerain town
+NC,3721960,Eureka,incorporated,43,I,214,"Eureka, NC",0,496,0,0,Eureka town
+NC,3765120,Stonewall,incorporated,43,A,214,"Stonewall, NC",0,497,0,0,Stonewall town
+NC,3717180,Dillsboro,incorporated,43,A,213,"Dillsboro, NC",0,498,0,0,Dillsboro town
+NC,3768740,Turkey,incorporated,43,A,213,"Turkey, NC",0,499,0,0,Turkey town
+NC,3715420,Creswell,incorporated,43,A,207,"Creswell, NC",0,500,0,0,Creswell town
+NC,3735360,Kelford,incorporated,43,A,203,"Kelford, NC",0,501,0,0,Kelford town
+NC,3714200,Conetoe,incorporated,43,A,198,"Conetoe, NC",0,502,0,0,Conetoe town
+NC,3719140,Earl,incorporated,43,A,198,"Earl, NC",0,503,0,0,Earl town
+NC,3770860,Walstonburg,incorporated,43,A,193,"Walstonburg, NC",0,504,0,0,Walstonburg town
+NC,3760560,Severn,incorporated,43,A,191,"Severn, NC",0,505,0,0,Severn town
+NC,3716240,Danbury,incorporated,43,A,189,"Danbury, NC",0,506,0,0,Danbury town
+NC,3753680,Powellsville,incorporated,43,A,189,"Powellsville, NC",0,507,0,0,Powellsville town
+NC,3758180,Roxobel,incorporated,43,A,187,"Roxobel, NC",0,508,0,0,Roxobel town
+NC,3702320,Askewville,incorporated,43,A,184,"Askewville, NC",0,509,0,0,Askewville town
+NC,3771320,Watha,incorporated,43,A,181,"Watha, NC",0,510,0,0,Watha town
+NC,3728920,Halifax,incorporated,43,A,170,"Halifax, NC",0,511,0,0,Halifax town
+NC,3702700,Autryville,incorporated,43,A,167,"Autryville, NC",0,512,0,0,Autryville town
+NC,3706660,Boardman,incorporated,43,A,166,"Boardman, NC",0,513,0,0,Boardman town
+NC,3750080,Pantego,incorporated,43,A,164,"Pantego, NC",0,514,0,0,Pantego town
+NC,3729680,Harrells,incorporated,43,A,160,"Harrells, NC",0,515,0,0,Harrells town
+NC,3743300,Milton,incorporated,43,A,155,"Milton, NC",0,516,0,0,Milton town
+NC,3739420,Love Valley,incorporated,43,A,154,"Love Valley, NC",0,517,0,0,Love Valley town
+NC,3722040,Everetts,incorporated,43,A,150,"Everetts, NC",0,518,0,0,Everetts town
+NC,3706820,Bolivia,incorporated,43,A,149,"Bolivia, NC",0,519,0,0,Bolivia town
+NC,3742480,Mesic,incorporated,43,A,144,"Mesic, NC",0,520,0,0,Mesic town
+NC,3715580,Crossnore,incorporated,43,A,143,"Crossnore, NC",0,521,0,0,Crossnore town
+NC,3712460,Chimney Rock Village,incorporated,47,A,140,"Chimney Rock Village, NC",0,522,0,0,Chimney Rock Village village
+NC,3738360,Linden,incorporated,43,A,136,"Linden, NC",0,523,0,0,Linden town
+NC,3736020,Kittrell,incorporated,43,A,132,"Kittrell, NC",0,524,0,0,Kittrell town
+NC,3711620,Cerro Gordo,incorporated,43,A,131,"Cerro Gordo, NC",0,525,0,0,Cerro Gordo town
+NC,3726740,Godwin,incorporated,43,A,128,"Godwin, NC",0,526,0,0,Godwin town
+NC,3736960,Lansing,incorporated,43,A,126,"Lansing, NC",0,527,0,0,Lansing town
+NC,3753900,Proctorville,incorporated,43,A,121,"Proctorville, NC",0,528,0,0,Proctorville town
+NC,3741380,Marietta,incorporated,43,A,111,"Marietta, NC",0,529,0,0,Marietta town
+NC,3740540,Macon,incorporated,43,A,110,"Macon, NC",0,530,0,0,Macon town
+NC,3742640,Middleburg,incorporated,43,A,101,"Middleburg, NC",0,531,0,0,Middleburg town
+NC,3747260,Norman,incorporated,43,A,100,"Norman, NC",0,532,0,0,Norman town
+NC,3727324,Grandfather Village,incorporated,47,A,95,"Grandfather Village, NC",0,533,0,0,Grandfather Village village
+NC,3740140,McDonald,incorporated,43,A,94,"McDonald, NC",0,534,0,0,McDonald town
+NC,3740240,McFarlan,incorporated,43,A,94,"McFarlan, NC",0,535,0,0,McFarlan town
+NC,3766740,Tar Heel,incorporated,43,A,90,"Tar Heel, NC",0,536,0,0,Tar Heel town
+NC,3704180,Bear Grass,incorporated,43,A,89,"Bear Grass, NC",0,537,0,0,Bear Grass town
+NC,3729720,Harrellsville,incorporated,43,A,85,"Harrellsville, NC",0,538,0,0,Harrellsville town
+NC,3739680,Lumber Bridge,incorporated,43,A,82,"Lumber Bridge, NC",0,539,0,0,Lumber Bridge town
+NC,3714060,Como,incorporated,43,A,67,"Como, NC",0,540,0,0,Como town
+NC,3737000,Lasker,incorporated,43,A,64,"Lasker, NC",0,541,0,0,Lasker town
+NC,3763720,Speed,incorporated,43,A,63,"Speed, NC",0,542,0,0,Speed town
+NC,3755340,Raynham,incorporated,43,A,60,"Raynham, NC",0,543,0,0,Raynham town
+NC,3749460,Orrum,incorporated,43,A,59,"Orrum, NC",0,544,0,0,Orrum town
+NC,3760540,Seven Springs,incorporated,43,A,55,"Seven Springs, NC",0,545,0,0,Seven Springs town
+NC,3730040,Hassell,incorporated,43,A,49,"Hassell, NC",0,546,0,0,Hassell town
+NC,3722640,Falkland,incorporated,43,A,47,"Falkland, NC",0,547,0,0,Falkland town
+NC,3736514,Lake Santeetlah,incorporated,43,A,38,"Lake Santeetlah, NC",0,548,0,0,Lake Santeetlah town
+NC,3737640,Leggett,incorporated,43,A,37,"Leggett, NC",0,549,0,0,Leggett town
+NC,3723980,Fontana Dam,incorporated,43,A,13,"Fontana Dam, NC",0,550,0,0,Fontana Dam town
+NC,3716820,Dellview,incorporated,43,I,6,"Dellview, NC",0,551,0,0,Dellview town
+NC,3763780,Spencer Mountain,incorporated,43,I,0,"Spencer Mountain, NC",0,552,0,0,Spencer Mountain town

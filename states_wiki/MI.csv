@@ -1,0 +1,534 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+MI,2622000,Detroit,incorporated,25,A,639111,"Detroit, MI",0,1,65,0.26,Detroit city
+MI,2634000,Grand Rapids,incorporated,25,A,198917,"Grand Rapids, MI",0,2,28,0.112,Grand Rapids city
+MI,2684000,Warren,incorporated,25,A,139387,"Warren, MI",0,3,18,0.072,Warren city
+MI,2676460,Sterling Heights,incorporated,25,A,134346,"Sterling Heights, MI",0,4,13,0.052,Sterling Heights city
+MI,2603000,Ann Arbor,incorporated,25,A,123851,"Ann Arbor, MI",0,5,10,0.04,Ann Arbor city
+MI,2646000,Lansing,incorporated,25,A,112644,"Lansing, MI",0,6,10,0.04,Lansing city
+MI,2621000,Dearborn,incorporated,25,A,109976,"Dearborn, MI",0,7,7,0.028,Dearborn city
+MI,2649000,Livonia,incorporated,25,A,95535,"Livonia, MI",0,8,6,0.024,Livonia city
+MI,2680700,Troy,incorporated,25,A,87294,"Troy, MI",0,9,4,0.016,Troy city
+MI,2686000,Westland,incorporated,25,A,85420,"Westland, MI",0,10,5,0.02,Westland city
+MI,2627440,Farmington Hills,incorporated,25,A,83986,"Farmington Hills, MI",0,11,3,0.012,Farmington Hills city
+MI,2629000,Flint,incorporated,25,A,81252,"Flint, MI",0,12,4,0.016,Flint city
+MI,2674900,Southfield,incorporated,25,A,76618,"Southfield, MI",0,13,4,0.016,Southfield city
+MI,2688940,Wyoming,incorporated,25,A,76501,"Wyoming, MI",0,14,2,0.008,Wyoming city
+MI,2669035,Rochester Hills,incorporated,25,A,76300,"Rochester Hills, MI",0,15,2,0.008,Rochester Hills city
+MI,2642160,Kalamazoo,incorporated,25,A,73598,"Kalamazoo, MI",0,16,2,0.008,Kalamazoo city
+MI,2659440,Novi,incorporated,25,A,66243,"Novi, MI",0,17,3,0.012,Novi city
+MI,2679000,Taylor,incorporated,25,A,63409,"Taylor, MI",0,18,3,0.012,Taylor city
+MI,2621020,Dearborn Heights,incorporated,25,A,63292,"Dearborn Heights, MI",0,19,3,0.012,Dearborn Heights city
+MI,2665440,Pontiac,incorporated,25,A,61606,"Pontiac, MI",0,20,3,0.012,Pontiac city
+MI,2670760,St. Clair Shores,incorporated,25,A,58874,"St. Clair Shores, MI",0,21,1,0.004,St. Clair Shores city
+MI,2670040,Royal Oak,incorporated,25,A,58211,"Royal Oak, MI",0,22,1,0.004,Royal Oak city
+MI,2642820,Kentwood,incorporated,25,A,54304,"Kentwood, MI",0,23,1,0.004,Kentwood city
+MI,2605920,Battle Creek,incorporated,25,A,52721,"Battle Creek, MI",0,24,1,0.004,Battle Creek city
+MI,2665560,Portage,incorporated,25,A,48891,"Portage, MI",0,25,1,0.004,Portage city
+MI,2624120,East Lansing,incorporated,25,A,47741,"East Lansing, MI",0,26,3,0.012,East Lansing city
+MI,2669800,Roseville,incorporated,25,A,47710,"Roseville, MI",0,27,1,0.004,Roseville city
+MI,2670520,Saginaw,incorporated,25,A,44202,"Saginaw, MI",0,28,1,0.004,Saginaw city
+MI,2653780,Midland,incorporated,25,A,42547,"Midland, MI",0,29,2,0.008,Midland city
+MI,2647800,Lincoln Park,incorporated,25,A,40245,"Lincoln Park, MI",0,30,2,0.008,Lincoln Park city
+MI,2656320,Muskegon,incorporated,25,A,38318,"Muskegon, MI",0,31,2,0.008,Muskegon city
+MI,2638640,Holland,incorporated,25,A,34378,"Holland, MI",0,32,2,0.008,Holland city
+MI,2624290,Eastpointe,incorporated,25,A,34318,"Eastpointe, MI",0,33,2,0.008,Eastpointe city
+MI,2606020,Bay City,incorporated,25,A,32661,"Bay City, MI",0,34,2,0.008,Bay City city
+MI,2641420,Jackson,incorporated,25,A,31309,"Jackson, MI",0,35,2,0.008,Jackson city
+MI,2674960,Southgate,incorporated,25,A,30014,"Southgate, MI",0,36,2,0.008,Southgate city
+MI,2612060,Burton,incorporated,25,A,29715,"Burton, MI",0,37,2,0.008,Burton city
+MI,2659920,Oak Park,incorporated,25,A,29560,"Oak Park, MI",0,38,2,0.008,Oak Park city
+MI,2665820,Port Huron,incorporated,25,A,28983,"Port Huron, MI",0,39,2,0.008,Port Huron city
+MI,2601380,Allen Park,incorporated,25,A,28638,"Allen Park, MI",0,40,2,0.008,Allen Park city
+MI,2650560,Madison Heights,incorporated,25,A,28468,"Madison Heights, MI",0,41,2,0.008,Madison Heights city
+MI,2636280,Hamtramck,incorporated,25,A,28433,"Hamtramck, MI",0,42,2,0.008,Hamtramck city
+MI,2631420,Garden City,incorporated,25,A,27380,"Garden City, MI",0,43,2,0.008,Garden City city
+MI,2640680,Inkster,incorporated,25,A,26088,"Inkster, MI",0,44,2,0.008,Inkster city
+MI,2669420,Romulus,incorporated,25,A,25178,"Romulus, MI",0,45,2,0.008,Romulus city
+MI,2682960,Walker,incorporated,25,A,25132,"Walker, MI",0,46,2,0.008,Walker city
+MI,2688900,Wyandotte,incorporated,25,A,25058,"Wyandotte, MI",0,47,2,0.008,Wyandotte city
+MI,2659140,Norton Shores,incorporated,25,A,25030,"Norton Shores, MI",0,48,2,0.008,Norton Shores city
+MI,2604105,Auburn Hills,incorporated,25,A,24360,"Auburn Hills, MI",0,49,2,0.008,Auburn Hills city
+MI,2608640,Birmingham,incorporated,25,A,21813,"Birmingham, MI",0,50,1,0.004,Birmingham city
+MI,2656020,Mount Pleasant,incorporated,25,A,21688,"Mount Pleasant, MI",0,51,1,0.004,Mount Pleasant city
+MI,2689140,Ypsilanti,incorporated,25,A,20648,"Ypsilanti, MI",0,52,1,0.004,Ypsilanti city
+MI,2600440,Adrian,incorporated,25,A,20645,"Adrian, MI",0,53,0,0,Adrian city
+MI,2651900,Marquette,incorporated,25,A,20629,"Marquette, MI",0,54,0,0,Marquette city
+MI,2655020,Monroe,incorporated,25,A,20462,"Monroe, MI",0,55,0,0,Monroe city
+MI,2627880,Ferndale,incorporated,25,A,19190,"Ferndale, MI",0,56,0,0,Ferndale city
+MI,2680420,Trenton,incorporated,25,A,18544,"Trenton, MI",0,57,0,0,Trenton city
+MI,2684940,Wayne,incorporated,25,A,17713,"Wayne, MI",0,58,0,0,Wayne city
+MI,2688140,Wixom,incorporated,25,A,17193,"Wixom, MI",0,59,0,0,Wixom city
+MI,2635580,Grosse Pointe Woods,incorporated,25,A,16487,"Grosse Pointe Woods, MI",0,60,0,0,Grosse Pointe Woods city
+MI,2634160,Grandville,incorporated,25,A,16083,"Grandville, MI",0,61,0,0,Grandville city
+MI,2655820,Mount Clemens,incorporated,25,A,15697,"Mount Clemens, MI",0,62,0,0,Mount Clemens city
+MI,2680340,Traverse City,incorporated,25,A,15678,"Traverse City, MI",0,63,0,0,Traverse City city
+MI,2636700,Harper Woods,incorporated,25,A,15492,"Harper Woods, MI",0,64,0,0,Harper Woods city
+MI,2607660,Berkley,incorporated,25,A,15194,"Berkley, MI",0,65,0,0,Berkley city
+MI,2637420,Hazel Park,incorporated,25,A,14983,"Hazel Park, MI",0,66,0,0,Hazel Park city
+MI,2630420,Fraser,incorporated,25,A,14726,"Fraser, MI",0,67,0,0,Fraser city
+MI,2661940,Owosso,incorporated,25,A,14714,"Owosso, MI",0,68,0,0,Owosso city
+MI,2617020,Coldwater,incorporated,25,A,13822,"Coldwater, MI",0,69,0,0,Coldwater city
+MI,2640860,Ionia,incorporated,25,A,13378,"Ionia, MI",0,70,0,0,Ionia city
+MI,2671740,Sault Ste. Marie,incorporated,25,A,13337,"Sault Ste. Marie, MI",0,71,0,0,Sault Ste. Marie city
+MI,2669020,Rochester,incorporated,25,A,13035,"Rochester, MI",0,72,0,0,Rochester city
+MI,2688380,Woodhaven,incorporated,25,A,12941,"Woodhaven, MI",0,73,0,0,Woodhaven city
+MI,2652940,Melvindale,incorporated,25,A,12851,"Melvindale, MI",0,74,0,0,Melvindale city
+MI,2668880,Riverview,incorporated,25,A,12490,"Riverview, MI",0,75,0,0,Riverview city
+MI,2626360,Escanaba,incorporated,25,A,12450,"Escanaba, MI",0,76,0,0,Escanaba city
+MI,2657100,New Baltimore,incorporated,25,A,12117,"New Baltimore, MI",0,77,0,0,New Baltimore city
+MI,2627760,Fenton,incorporated,25,A,12050,"Fenton, MI",0,78,0,0,Fenton city
+MI,2657760,Niles,incorporated,25,A,11988,"Niles, MI",0,79,0,0,Niles city
+MI,2675100,South Lyon,incorporated,25,A,11746,"South Lyon, MI",0,80,0,0,South Lyon city
+MI,2627380,Farmington,incorporated,25,A,11597,"Farmington, MI",0,81,0,0,Farmington city
+MI,2635540,Grosse Pointe Park,incorporated,25,A,11595,"Grosse Pointe Park, MI",0,82,0,0,Grosse Pointe Park city
+MI,2616160,Clawson,incorporated,25,A,11389,"Clawson, MI",0,83,0,0,Clawson city
+MI,2623980,East Grand Rapids,incorporated,25,A,11371,"East Grand Rapids, MI",0,84,0,0,East Grand Rapids city
+MI,2676960,Sturgis,incorporated,25,A,11082,"Sturgis, MI",0,85,0,0,Sturgis city
+MI,2633340,Grand Haven,incorporated,25,A,11011,"Grand Haven, MI",0,86,0,0,Grand Haven city
+MI,2608160,Beverly Hills,incorporated,47,A,10584,"Beverly Hills, MI",0,87,0,0,Beverly Hills village
+MI,2628360,Flat Rock,incorporated,25,A,10541,"Flat Rock, MI",0,88,0,0,Flat Rock city
+MI,2612320,Cadillac,incorporated,25,A,10371,"Cadillac, MI",0,89,0,0,Cadillac city
+MI,2601740,Alpena,incorporated,25,A,10197,"Alpena, MI",0,90,0,0,Alpena city
+MI,2635520,Grosse Pointe Farms,incorporated,25,A,10148,"Grosse Pointe Farms, MI",0,91,0,0,Grosse Pointe Farms city
+MI,2639540,Howell,incorporated,25,A,10068,"Howell, MI",0,92,0,0,Howell city
+MI,2652080,Marysville,incorporated,25,A,9997,"Marysville, MI",0,93,0,0,Marysville city
+MI,2656360,Muskegon Heights,incorporated,25,A,9917,"Muskegon Heights, MI",0,94,0,0,Muskegon Heights city
+MI,2601540,Alma,incorporated,25,A,9488,"Alma, MI",0,95,0,0,Alma city
+MI,2665060,Plymouth,incorporated,25,A,9370,"Plymouth, MI",0,96,0,0,Plymouth city
+MI,2624740,Ecorse,incorporated,25,A,9305,"Ecorse, MI",0,97,0,0,Ecorse city
+MI,2614820,Charlotte,incorporated,25,A,9299,"Charlotte, MI",0,98,0,0,Charlotte city
+MI,2607520,Benton Harbor,incorporated,25,A,9103,"Benton Harbor, MI",0,99,0,0,Benton Harbor city
+MI,2646040,Lapeer,incorporated,25,A,9023,"Lapeer, MI",0,100,0,0,Lapeer city
+MI,2638180,Highland Park,incorporated,25,A,8977,"Highland Park, MI",0,101,0,0,Highland Park city
+MI,2671140,Saline,incorporated,25,A,8948,"Saline, MI",0,102,0,0,Saline city
+MI,2635100,Greenville,incorporated,25,A,8816,"Greenville, MI",0,103,0,0,Greenville city
+MI,2679120,Tecumseh,incorporated,25,A,8680,"Tecumseh, MI",0,104,0,0,Tecumseh city
+MI,2614320,Center Line,incorporated,25,A,8552,"Center Line, MI",0,105,0,0,Center Line city
+MI,2653020,Menominee,incorporated,25,A,8488,"Menominee, MI",0,106,0,0,Menominee city
+MI,2629200,Flushing,incorporated,25,A,8411,"Flushing, MI",0,107,0,0,Flushing city
+MI,2639360,Houghton,incorporated,25,A,8386,"Houghton, MI",0,108,0,0,Houghton city
+MI,2652180,Mason,incorporated,25,A,8283,"Mason, MI",0,109,0,0,Mason city
+MI,2633280,Grand Blanc,incorporated,25,A,8091,"Grand Blanc, MI",0,110,0,0,Grand Blanc city
+MI,2638460,Hillsdale,incorporated,25,A,8036,"Hillsdale, MI",0,111,0,0,Hillsdale city
+MI,2679760,Three Rivers,incorporated,25,A,7973,"Three Rivers, MI",0,112,0,0,Three Rivers city
+MI,2670960,St. Joseph,incorporated,25,A,7856,"St. Joseph, MI",0,113,0,0,St. Joseph city
+MI,2633420,Grand Ledge,incorporated,25,A,7784,"Grand Ledge, MI",0,114,0,0,Grand Ledge city
+MI,2608300,Big Rapids,incorporated,25,A,7727,"Big Rapids, MI",0,115,0,0,Big Rapids city
+MI,2600980,Albion,incorporated,25,A,7700,"Albion, MI",0,116,0,0,Albion city
+MI,2670940,St. Johns,incorporated,25,A,7698,"St. Johns, MI",0,117,0,0,St. Johns city
+MI,2649640,Ludington,incorporated,25,A,7655,"Ludington, MI",0,118,0,0,Ludington city
+MI,2639800,Hudsonville,incorporated,25,A,7629,"Hudsonville, MI",0,119,0,0,Hudsonville city
+MI,2640960,Iron Mountain,incorporated,25,A,7518,"Iron Mountain, MI",0,120,0,0,Iron Mountain city
+MI,2637120,Hastings,incorporated,25,A,7514,"Hastings, MI",0,121,0,0,Hastings city
+MI,2610620,Brighton,incorporated,25,A,7446,"Brighton, MI",0,122,0,0,Brighton city
+MI,2683060,Walled Lake,incorporated,25,A,7250,"Walled Lake, MI",0,123,0,0,Walled Lake city
+MI,2668760,River Rouge,incorporated,25,A,7224,"River Rouge, MI",0,124,0,0,River Rouge city
+MI,2671000,St. Louis,incorporated,25,A,7010,"St. Louis, MI",0,125,0,0,St. Louis city
+MI,2651940,Marshall,incorporated,25,A,6822,"Marshall, MI",0,126,0,0,Marshall city
+MI,2653960,Milford,incorporated,47,A,6520,"Milford, MI",0,127,0,0,Milford village
+MI,2640000,Huntington Woods,incorporated,25,A,6388,"Huntington Woods, MI",0,128,0,0,Huntington Woods city
+MI,2650720,Manistee,incorporated,25,A,6259,"Manistee, MI",0,129,0,0,Manistee city
+MI,2669080,Rockford,incorporated,25,A,6142,"Rockford, MI",0,130,0,0,Rockford city
+MI,2641220,Ishpeming,incorporated,25,A,6140,"Ishpeming, MI",0,131,0,0,Ishpeming city
+MI,2658980,Northville,incorporated,25,A,6119,"Northville, MI",0,132,0,0,Northville city
+MI,2657380,New Haven,incorporated,47,A,6097,"New Haven, MI",0,133,0,0,New Haven village
+MI,2653920,Milan,incorporated,25,A,6079,"Milan, MI",0,134,0,0,Milan city
+MI,2638700,Holly,incorporated,47,A,5997,"Holly, MI",0,135,0,0,Holly village
+MI,2606900,Belding,incorporated,25,A,5938,"Belding, MI",0,136,0,0,Belding city
+MI,2677700,Swartz Creek,incorporated,25,A,5897,"Swartz Creek, MI",0,137,0,0,Swartz Creek city
+MI,2668380,Richmond,incorporated,25,A,5878,"Richmond, MI",0,138,0,0,Richmond city
+MI,2663820,Petoskey,incorporated,25,A,5877,"Petoskey, MI",0,139,0,0,Petoskey city
+MI,2622880,Dowagiac,incorporated,25,A,5721,"Dowagiac, MI",0,140,0,0,Dowagiac city
+MI,2689260,Zeeland,incorporated,25,A,5719,"Zeeland, MI",0,141,0,0,Zeeland city
+MI,2635480,Grosse Pointe,incorporated,25,A,5678,"Grosse Pointe, MI",0,142,0,0,Grosse Pointe city
+MI,2615020,Chelsea,incorporated,25,A,5467,"Chelsea, MI",0,143,0,0,Chelsea city
+MI,2670680,St. Clair,incorporated,25,A,5464,"St. Clair, MI",0,144,0,0,St. Clair city
+MI,2623380,Dundee,incorporated,47,A,5323,"Dundee, MI",0,145,0,0,Dundee village
+MI,2675700,Springfield,incorporated,25,A,5292,"Springfield, MI",0,146,0,0,Springfield city
+MI,2632300,Gladstone,incorporated,25,A,5257,"Gladstone, MI",0,147,0,0,Gladstone city
+MI,2681540,Utica,incorporated,25,A,5245,"Utica, MI",0,148,0,0,Utica city
+MI,2601260,Allegan,incorporated,25,A,5222,"Allegan, MI",0,149,0,0,Allegan city
+MI,2624540,Eaton Rapids,incorporated,25,A,5203,"Eaton Rapids, MI",0,150,0,0,Eaton Rapids city
+MI,2619880,Davison,incorporated,25,A,5143,"Davison, MI",0,151,0,0,Davison city
+MI,2643300,Kingsford,incorporated,25,A,5139,"Kingsford, MI",0,152,0,0,Kingsford city
+MI,2641060,Ironwood,incorporated,25,A,5045,"Ironwood, MI",0,153,0,0,Ironwood city
+MI,2632020,Gibraltar,incorporated,25,A,4997,"Gibraltar, MI",0,154,0,0,Gibraltar city
+MI,2630200,Frankenmuth,incorporated,25,A,4987,"Frankenmuth, MI",0,155,0,0,Frankenmuth city
+MI,2618020,Coopersville,incorporated,25,A,4828,"Coopersville, MI",0,156,0,0,Coopersville city
+MI,2622120,DeWitt,incorporated,25,A,4776,"DeWitt, MI",0,157,0,0,DeWitt city
+MI,2615000,Cheboygan,incorporated,25,A,4770,"Cheboygan, MI",0,158,0,0,Cheboygan city
+MI,2656860,Negaunee,incorporated,25,A,4627,"Negaunee, MI",0,159,0,0,Negaunee city
+MI,2688260,Wolverine Lake,incorporated,47,A,4544,"Wolverine Lake, MI",0,160,0,0,Wolverine Lake village
+MI,2630700,Fremont,incorporated,25,A,4516,"Fremont, MI",0,161,0,0,Fremont city
+MI,2636300,Hancock,incorporated,25,A,4501,"Hancock, MI",0,162,0,0,Hancock city
+MI,2622160,Dexter,incorporated,25,A,4500,"Dexter, MI",0,163,0,0,Dexter city
+MI,2609180,Bloomfield Hills,incorporated,25,A,4460,"Bloomfield Hills, MI",0,164,0,0,Bloomfield Hills city
+MI,2684880,Wayland,incorporated,25,A,4435,"Wayland, MI",0,165,0,0,Wayland city
+MI,2613420,Caro,incorporated,25,A,4328,"Caro, MI",0,166,0,0,Caro city
+MI,2611400,Buchanan,incorporated,25,A,4300,"Buchanan, MI",0,167,0,0,Buchanan city
+MI,2653760,Middleville,incorporated,47,A,4295,"Middleville, MI",0,168,0,0,Middleville village
+MI,2631720,Gaylord,incorporated,25,A,4286,"Gaylord, MI",0,169,0,0,Gaylord city
+MI,2675420,Sparta,incorporated,47,A,4244,"Sparta, MI",0,170,0,0,Sparta village
+MI,2601180,Algonac,incorporated,25,A,4196,"Algonac, MI",0,171,0,0,Algonac city
+MI,2669520,Roosevelt Park,incorporated,25,A,4172,"Roosevelt Park, MI",0,172,0,0,Roosevelt Park city
+MI,2647820,Linden,incorporated,25,A,4142,"Linden, MI",0,173,0,0,Linden city
+MI,2649540,Lowell,incorporated,25,A,4142,"Lowell, MI",0,174,0,0,Lowell city
+MI,2661620,Otsego,incorporated,25,A,4120,"Otsego, MI",0,175,0,0,Otsego city
+MI,2658640,North Muskegon,incorporated,25,A,4093,"North Muskegon, MI",0,176,0,0,North Muskegon city
+MI,2646320,Lathrup Village,incorporated,25,A,4088,"Lathrup Village, MI",0,177,0,0,Lathrup Village city
+MI,2651600,Marine City,incorporated,25,A,4079,"Marine City, MI",0,178,0,0,Marine City city
+MI,2607020,Belleville,incorporated,25,A,4008,"Belleville, MI",0,179,0,0,Belleville city
+MI,2674980,South Haven,incorporated,25,A,3964,"South Haven, MI",0,180,0,0,South Haven city
+MI,2687420,Williamston,incorporated,25,A,3819,"Williamston, MI",0,181,0,0,Williamston city
+MI,2609820,Boyne City,incorporated,25,A,3816,"Boyne City, MI",0,182,0,0,Boyne City city
+MI,2665860,Portland,incorporated,25,A,3796,"Portland, MI",0,183,0,0,Portland city
+MI,2664740,Plainwell,incorporated,25,A,3788,"Plainwell, MI",0,184,0,0,Plainwell city
+MI,2669400,Romeo,incorporated,47,A,3767,"Romeo, MI",0,185,0,0,Romeo village
+MI,2682300,Vicksburg,incorporated,47,A,3706,"Vicksburg, MI",0,186,0,0,Vicksburg village
+MI,2640320,Imlay City,incorporated,25,A,3703,"Imlay City, MI",0,187,0,0,Imlay City city
+MI,2614200,Cedar Springs,incorporated,25,A,3627,"Cedar Springs, MI",0,188,0,0,Cedar Springs city
+MI,2623500,Durand,incorporated,25,A,3507,"Durand, MI",0,189,0,0,Durand city
+MI,2662020,Oxford,incorporated,47,A,3492,"Oxford, MI",0,190,0,0,Oxford village
+MI,2626420,Essexville,incorporated,25,A,3379,"Essexville, MI",0,191,0,0,Essexville city
+MI,2662980,Paw Paw,incorporated,47,A,3362,"Paw Paw, MI",0,192,0,0,Paw Paw village
+MI,2609000,Blissfield,incorporated,47,A,3277,"Blissfield, MI",0,193,0,0,Blissfield village
+MI,2615920,Clare,incorporated,25,A,3254,"Clare, MI",0,194,0,0,Clare city
+MI,2669180,Rockwood,incorporated,25,A,3240,"Rockwood, MI",0,195,0,0,Rockwood city
+MI,2655960,Mount Morris,incorporated,25,A,3170,"Mount Morris, MI",0,196,0,0,Mount Morris city
+MI,2630340,Franklin,incorporated,47,A,3139,"Franklin, MI",0,197,0,0,Franklin village
+MI,2632320,Gladwin,incorporated,25,A,3069,"Gladwin, MI",0,198,0,0,Gladwin city
+MI,2666100,Potterville,incorporated,25,A,3055,"Potterville, MI",0,199,0,0,Potterville city
+MI,2618300,Corunna,incorporated,25,A,3046,"Corunna, MI",0,200,0,0,Corunna city
+MI,2604740,Bad Axe,incorporated,25,A,3021,"Bad Axe, MI",0,201,0,0,Bad Axe city
+MI,2640980,Iron River,incorporated,25,A,3007,"Iron River, MI",0,202,0,0,Iron River city
+MI,2627960,Ferrysburg,incorporated,25,A,2952,"Ferrysburg, MI",0,203,0,0,Ferrysburg city
+MI,2630060,Fowlerville,incorporated,47,A,2951,"Fowlerville, MI",0,204,0,0,Fowlerville village
+MI,2686780,Whitehall,incorporated,25,A,2909,"Whitehall, MI",0,205,0,0,Whitehall city
+MI,2644940,Lake Orion,incorporated,47,A,2876,"Lake Orion, MI",0,206,0,0,Lake Orion village
+MI,2641340,Ithaca,incorporated,25,A,2853,"Ithaca, MI",0,207,0,0,Ithaca city
+MI,2669260,Rogers City,incorporated,25,A,2850,"Rogers City, MI",0,208,0,0,Rogers City city
+MI,2601660,Almont,incorporated,47,A,2846,"Almont, MI",0,209,0,0,Almont village
+MI,2659220,Norway,incorporated,25,A,2840,"Norway, MI",0,210,0,0,Norway city
+MI,2650760,Manistique,incorporated,25,A,2828,"Manistique, MI",0,211,0,0,Manistique city
+MI,2642460,Keego Harbor,incorporated,25,A,2764,"Keego Harbor, MI",0,212,0,0,Keego Harbor city
+MI,2681840,Vassar,incorporated,25,A,2727,"Vassar, MI",0,213,0,0,Vassar city
+MI,2671540,Sandusky,incorporated,25,A,2709,"Sandusky, MI",0,214,0,0,Sandusky city
+MI,2624420,East Tawas,incorporated,25,A,2663,"East Tawas, MI",0,215,0,0,East Tawas city
+MI,2682453,Village of Grosse Pointe Shores,incorporated,25,A,2647,"Village of Grosse Pointe Shores, MI",0,216,0,0,Village of Grosse Pointe Shores city
+MI,2664900,Pleasant Ridge,incorporated,25,A,2627,"Pleasant Ridge, MI",0,217,0,0,Pleasant Ridge city
+MI,2652380,Mattawan,incorporated,47,A,2550,"Mattawan, MI",0,218,0,0,Mattawan village
+MI,2616620,Clio,incorporated,25,A,2525,"Clio, MI",0,219,0,0,Clio city
+MI,2616480,Clinton,incorporated,47,A,2517,"Clinton, MI",0,220,0,0,Clinton village
+MI,2636960,Hartford,incorporated,25,A,2515,"Hartford, MI",0,221,0,0,Hartford city
+MI,2675820,Spring Lake,incorporated,47,A,2497,"Spring Lake, MI",0,222,0,0,Spring Lake village
+MI,2613880,Cass City,incorporated,47,A,2494,"Cass City, MI",0,223,0,0,Cass City village
+MI,2667820,Reed City,incorporated,25,A,2490,"Reed City, MI",0,224,0,0,Reed City city
+MI,2657080,Newaygo,incorporated,25,A,2471,"Newaygo, MI",0,225,0,0,Newaygo city
+MI,2615140,Chesaning,incorporated,47,A,2430,"Chesaning, MI",0,226,0,0,Chesaning village
+MI,2655100,Montague,incorporated,25,A,2417,"Montague, MI",0,227,0,0,Montague city
+MI,2639720,Hudson,incorporated,25,A,2415,"Hudson, MI",0,228,0,0,Hudson city
+MI,2664140,Pinckney,incorporated,47,A,2415,"Pinckney, MI",0,229,0,0,Pinckney village
+MI,2685580,West Branch,incorporated,25,A,2351,"West Branch, MI",0,230,0,0,West Branch city
+MI,2614780,Charlevoix,incorporated,25,A,2348,"Charlevoix, MI",0,231,0,0,Charlevoix city
+MI,2613220,Carleton,incorporated,47,A,2326,"Carleton, MI",0,232,0,0,Carleton village
+MI,2618920,Croswell,incorporated,25,A,2322,"Croswell, MI",0,233,0,0,Croswell city
+MI,2610860,Bronson,incorporated,25,A,2307,"Bronson, MI",0,234,0,0,Bronson city
+MI,2670840,St. Ignace,incorporated,25,A,2306,"St. Ignace, MI",0,235,0,0,St. Ignace city
+MI,2655500,Morenci,incorporated,25,A,2270,"Morenci, MI",0,236,0,0,Morenci city
+MI,2624020,East Jordan,incorporated,25,A,2239,"East Jordan, MI",0,237,0,0,East Jordan city
+MI,2661020,Orchard Lake Village,incorporated,25,A,2238,"Orchard Lake Village, MI",0,238,0,0,Orchard Lake Village city
+MI,2641920,Jonesville,incorporated,25,A,2176,"Jonesville, MI",0,239,0,0,Jonesville city
+MI,2636800,Harrison,incorporated,25,A,2150,"Harrison, MI",0,240,0,0,Harrison city
+MI,2642260,Kalkaska,incorporated,47,A,2132,"Kalkaska, MI",0,241,0,0,Kalkaska village
+MI,2610580,Bridgman,incorporated,25,A,2096,"Bridgman, MI",0,242,0,0,Bridgman city
+MI,2663700,Perry,incorporated,25,A,2091,"Perry, MI",0,243,0,0,Perry city
+MI,2604080,Auburn,incorporated,25,A,2068,"Auburn, MI",0,244,0,0,Auburn city
+MI,2636920,Hart,incorporated,25,A,2053,"Hart, MI",0,245,0,0,Hart city
+MI,2631260,Galesburg,incorporated,25,A,2049,"Galesburg, MI",0,246,0,0,Galesburg city
+MI,2650660,Manchester,incorporated,47,A,2037,"Manchester, MI",0,247,0,0,Manchester village
+MI,2632980,Goodrich,incorporated,47,A,2022,"Goodrich, MI",0,248,0,0,Goodrich village
+MI,2605140,Bangor,incorporated,25,A,2016,"Bangor, MI",0,249,0,0,Bangor city
+MI,2644880,Lake Odessa,incorporated,47,A,1994,"Lake Odessa, MI",0,250,0,0,Lake Odessa village
+MI,2670640,St. Charles,incorporated,47,A,1992,"St. Charles, MI",0,251,0,0,St. Charles village
+MI,2656200,Munising,incorporated,25,A,1986,"Munising, MI",0,252,0,0,Munising city
+MI,2613140,Capac,incorporated,47,A,1983,"Capac, MI",0,253,0,0,Capac village
+MI,2672840,Shelby,incorporated,47,A,1964,"Shelby, MI",0,254,0,0,Shelby village
+MI,2617840,Constantine,incorporated,47,A,1947,"Constantine, MI",0,255,0,0,Constantine village
+MI,2647180,Leslie,incorporated,25,A,1927,"Leslie, MI",0,256,0,0,Leslie city
+MI,2662340,Parchment,incorporated,25,A,1926,"Parchment, MI",0,257,0,0,Parchment city
+MI,2607860,Berrien Springs,incorporated,47,A,1910,"Berrien Springs, MI",0,258,0,0,Berrien Springs village
+MI,2689000,Yale,incorporated,25,A,1903,"Yale, MI",0,259,0,0,Yale city
+MI,2605320,Baraga,incorporated,47,A,1883,"Baraga, MI",0,260,0,0,Baraga village
+MI,2645540,L'Anse,incorporated,47,A,1874,"L'Anse, MI",0,261,0,0,L'Anse village
+MI,2634640,Grayling,incorporated,25,A,1867,"Grayling, MI",0,262,0,0,Grayling city
+MI,2646360,Laurium,incorporated,47,A,1864,"Laurium, MI",0,263,0,0,Laurium village
+MI,2651820,Marlette,incorporated,25,A,1855,"Marlette, MI",0,264,0,0,Marlette city
+MI,2646500,Lawton,incorporated,47,A,1850,"Lawton, MI",0,265,0,0,Lawton village
+MI,2639500,Howard City,incorporated,47,A,1835,"Howard City, MI",0,266,0,0,Howard City village
+MI,2678140,Tawas City,incorporated,25,A,1834,"Tawas City, MI",0,267,0,0,Tawas City city
+MI,2644715,Lake Isabella,incorporated,47,A,1829,"Lake Isabella, MI",0,268,0,0,Lake Isabella village
+MI,2607960,Bessemer,incorporated,25,A,1805,"Bessemer, MI",0,269,0,0,Bessemer city
+MI,2627740,Fennville,incorporated,25,A,1745,"Fennville, MI",0,270,0,0,Fennville city
+MI,2655280,Montrose,incorporated,25,A,1743,"Montrose, MI",0,271,0,0,Montrose city
+MI,2626640,Evart,incorporated,25,A,1742,"Evart, MI",0,272,0,0,Evart city
+MI,2677860,Sylvan Lake,incorporated,25,A,1723,"Sylvan Lake, MI",0,273,0,0,Sylvan Lake city
+MI,2672180,Sebewaing,incorporated,47,A,1721,"Sebewaing, MI",0,274,0,0,Sebewaing village
+MI,2686920,White Pigeon,incorporated,47,A,1718,"White Pigeon, MI",0,275,0,0,White Pigeon village
+MI,2681360,Union City,incorporated,47,A,1714,"Union City, MI",0,276,0,0,Union City village
+MI,2613900,Cassopolis,incorporated,47,A,1712,"Cassopolis, MI",0,277,0,0,Cassopolis village
+MI,2657220,New Buffalo,incorporated,25,A,1708,"New Buffalo, MI",0,278,0,0,New Buffalo city
+MI,2682780,Wakefield,incorporated,25,A,1702,"Wakefield, MI",0,279,0,0,Wakefield city
+MI,2603520,Armada,incorporated,47,A,1684,"Armada, MI",0,280,0,0,Armada village
+MI,2684500,Watervliet,incorporated,25,A,1669,"Watervliet, MI",0,281,0,0,Watervliet city
+MI,2621040,Decatur,incorporated,47,A,1651,"Decatur, MI",0,282,0,0,Decatur village
+MI,2612480,Caledonia,incorporated,47,A,1622,"Caledonia, MI",0,283,0,0,Caledonia village
+MI,2636460,Harbor Beach,incorporated,25,A,1604,"Harbor Beach, MI",0,284,0,0,Harbor Beach city
+MI,2619140,Crystal Falls,incorporated,25,A,1598,"Crystal Falls, MI",0,285,0,0,Crystal Falls city
+MI,2675280,South Rockwood,incorporated,47,A,1587,"South Rockwood, MI",0,286,0,0,South Rockwood village
+MI,2638920,Homer,incorporated,47,A,1575,"Homer, MI",0,287,0,0,Homer village
+MI,2666640,Quincy,incorporated,47,A,1554,"Quincy, MI",0,288,0,0,Quincy village
+MI,2656680,Nashville,incorporated,47,A,1537,"Nashville, MI",0,289,0,0,Nashville village
+MI,2689320,Zilwaukee,incorporated,25,A,1534,"Zilwaukee, MI",0,290,0,0,Zilwaukee city
+MI,2625320,Elk Rapids,incorporated,47,A,1529,"Elk Rapids, MI",0,291,0,0,Elk Rapids village
+MI,2608540,Birch Run,incorporated,47,A,1525,"Birch Run, MI",0,292,0,0,Birch Run village
+MI,2660580,Olivet,incorporated,25,A,1517,"Olivet, MI",0,293,0,0,Olivet city
+MI,2661860,Ovid,incorporated,25,A,1481,"Ovid, MI",0,294,0,0,Ovid city
+MI,2686680,White Cloud,incorporated,25,A,1479,"White Cloud, MI",0,295,0,0,White Cloud city
+MI,2672960,Shepherd,incorporated,47,A,1469,"Shepherd, MI",0,296,0,0,Shepherd village
+MI,2671860,Schoolcraft,incorporated,47,A,1466,"Schoolcraft, MI",0,297,0,0,Schoolcraft village
+MI,2617320,Coloma,incorporated,25,A,1465,"Coloma, MI",0,298,0,0,Coloma city
+MI,2676120,Standish,incorporated,25,A,1458,"Standish, MI",0,299,0,0,Standish city
+MI,2657140,Newberry,incorporated,47,A,1446,"Newberry, MI",0,300,0,0,Newberry village
+MI,2643340,Kingsley,incorporated,47,A,1431,"Kingsley, MI",0,301,0,0,Kingsley village
+MI,2644200,Laingsburg,incorporated,25,A,1424,"Laingsburg, MI",0,302,0,0,Laingsburg city
+MI,2647980,Litchfield,incorporated,25,A,1399,"Litchfield, MI",0,303,0,0,Litchfield city
+MI,2649700,Luna Pier,incorporated,25,A,1382,"Luna Pier, MI",0,304,0,0,Luna Pier city
+MI,2622740,Douglas,incorporated,25,A,1378,"Douglas, MI",0,305,0,0,Douglas city
+MI,2661220,Ortonville,incorporated,47,A,1376,"Ortonville, MI",0,306,0,0,Ortonville village
+MI,2671660,Saranac,incorporated,47,A,1376,"Saranac, MI",0,307,0,0,Saranac village
+MI,2679720,Three Oaks,incorporated,47,A,1370,"Three Oaks, MI",0,308,0,0,Three Oaks village
+MI,2672080,Scottville,incorporated,25,A,1356,"Scottville, MI",0,309,0,0,Scottville city
+MI,2676220,Stanton,incorporated,25,A,1348,"Stanton, MI",0,310,0,0,Stanton city
+MI,2650620,Mancelona,incorporated,47,A,1344,"Mancelona, MI",0,311,0,0,Mancelona village
+MI,2645340,Lakewood Club,incorporated,47,A,1340,"Lakewood Club, MI",0,312,0,0,Lakewood Club village
+MI,2614460,Centreville,incorporated,47,A,1319,"Centreville, MI",0,313,0,0,Centreville village
+MI,2611000,Brooklyn,incorporated,47,A,1313,"Brooklyn, MI",0,314,0,0,Brooklyn village
+MI,2607060,Bellevue,incorporated,47,A,1308,"Bellevue, MI",0,315,0,0,Bellevue village
+MI,2667280,Ravenna,incorporated,47,A,1308,"Ravenna, MI",0,316,0,0,Ravenna village
+MI,2625040,Edwardsburg,incorporated,47,A,1304,"Edwardsburg, MI",0,317,0,0,Edwardsburg village
+MI,2611180,Brown City,incorporated,25,A,1302,"Brown City, MI",0,318,0,0,Brown City city
+MI,2685080,Webberville,incorporated,47,A,1288,"Webberville, MI",0,319,0,0,Webberville village
+MI,2660860,Ontonagon,incorporated,47,A,1285,"Ontonagon, MI",0,320,0,0,Ontonagon village
+MI,2636560,Harbor Springs,incorporated,25,A,1274,"Harbor Springs, MI",0,321,0,0,Harbor Springs city
+MI,2617100,Coleman,incorporated,25,A,1262,"Coleman, MI",0,322,0,0,Coleman city
+MI,2642780,Kent City,incorporated,47,A,1262,"Kent City, MI",0,323,0,0,Kent City village
+MI,2667900,Reese,incorporated,47,A,1261,"Reese, MI",0,324,0,0,Reese village
+MI,2650880,Manton,incorporated,25,A,1258,"Manton, MI",0,325,0,0,Manton city
+MI,2630260,Frankfort,incorporated,25,A,1252,"Frankfort, MI",0,326,0,0,Frankfort city
+MI,2676560,Stockbridge,incorporated,47,A,1244,"Stockbridge, MI",0,327,0,0,Stockbridge village
+MI,2610160,Breckenridge,incorporated,47,A,1238,"Breckenridge, MI",0,328,0,0,Breckenridge village
+MI,2630040,Fowler,incorporated,47,A,1226,"Fowler, MI",0,329,0,0,Fowler village
+MI,2664060,Pigeon,incorporated,47,A,1222,"Pigeon, MI",0,330,0,0,Pigeon village
+MI,2625000,Edmore,incorporated,47,A,1210,"Edmore, MI",0,331,0,0,Edmore village
+MI,2664160,Pinconning,incorporated,25,A,1204,"Pinconning, MI",0,332,0,0,Pinconning city
+MI,2617360,Colon,incorporated,47,A,1199,"Colon, MI",0,333,0,0,Colon village
+MI,2663800,Petersburg,incorporated,25,A,1171,"Petersburg, MI",0,334,0,0,Petersburg city
+MI,2676500,Stevensville,incorporated,47,A,1147,"Stevensville, MI",0,335,0,0,Stevensville village
+MI,2606660,Beaverton,incorporated,25,A,1145,"Beaverton, MI",0,336,0,0,Beaverton city
+MI,2622380,Dimondale,incorporated,47,A,1134,"Dimondale, MI",0,337,0,0,Dimondale village
+MI,2608460,Bingham Farms,incorporated,47,A,1124,"Bingham Farms, MI",0,338,0,0,Bingham Farms village
+MI,2613600,Carson City,incorporated,25,A,1120,"Carson City, MI",0,339,0,0,Carson City city
+MI,2634480,Grass Lake,incorporated,47,A,1105,"Grass Lake, MI",0,340,0,0,Grass Lake village
+MI,2631000,Fruitport,incorporated,47,A,1103,"Fruitport, MI",0,341,0,0,Fruitport village
+MI,2658080,North Branch,incorporated,47,A,1096,"North Branch, MI",0,342,0,0,North Branch village
+MI,2667500,Reading,incorporated,25,A,1094,"Reading, MI",0,343,0,0,Reading city
+MI,2617740,Concord,incorporated,47,A,1085,"Concord, MI",0,344,0,0,Concord village
+MI,2652960,Memphis,incorporated,25,A,1084,"Memphis, MI",0,345,0,0,Memphis city
+MI,2651460,Marcellus,incorporated,47,A,1074,"Marcellus, MI",0,346,0,0,Marcellus village
+MI,2606980,Bellaire,incorporated,47,A,1053,"Bellaire, MI",0,347,0,0,Bellaire village
+MI,2637860,Hesperia,incorporated,47,A,1034,"Hesperia, MI",0,348,0,0,Hesperia village
+MI,2654220,Millington,incorporated,47,A,1028,"Millington, MI",0,349,0,0,Millington village
+MI,2645240,Lakeview,incorporated,47,A,1024,"Lakeview, MI",0,350,0,0,Lakeview village
+MI,2623140,Dryden,incorporated,47,A,1023,"Dryden, MI",0,351,0,0,Dryden village
+MI,2644780,Lake Linden,incorporated,47,A,1014,"Lake Linden, MI",0,352,0,0,Lake Linden village
+MI,2660840,Onsted,incorporated,47,A,988,"Onsted, MI",0,353,0,0,Onsted village
+MI,2669540,Roscommon,incorporated,47,A,981,"Roscommon, MI",0,354,0,0,Roscommon village
+MI,2646440,Lawrence,incorporated,47,A,964,"Lawrence, MI",0,355,0,0,Lawrence village
+MI,2614400,Central Lake,incorporated,47,A,960,"Central Lake, MI",0,356,0,0,Central Lake village
+MI,2634360,Grant,incorporated,25,A,952,"Grant, MI",0,357,0,0,Grant city
+MI,2655560,Morrice,incorporated,47,A,949,"Morrice, MI",0,358,0,0,Morrice village
+MI,2668240,Richland,incorporated,47,A,946,"Richland, MI",0,359,0,0,Richland village
+MI,2604120,Au Gres,incorporated,25,A,945,"Au Gres, MI",0,360,0,0,Au Gres city
+MI,2647280,Lexington,incorporated,47,A,943,"Lexington, MI",0,361,0,0,Lexington village
+MI,2603880,Athens,incorporated,47,A,936,"Athens, MI",0,362,0,0,Athens village
+MI,2625780,Elsie,incorporated,47,A,930,"Elsie, MI",0,363,0,0,Elsie village
+MI,2682450,Village of Clarkston,incorporated,25,A,928,"Village of Clarkston, MI",0,364,0,0,Village of Clarkston city
+MI,2686120,Westphalia,incorporated,47,A,924,"Westphalia, MI",0,365,0,0,Westphalia village
+MI,2652540,Mayville,incorporated,47,A,922,"Mayville, MI",0,366,0,0,Mayville village
+MI,2604940,Baldwin,incorporated,47,A,902,"Baldwin, MI",0,367,0,0,Baldwin village
+MI,2621180,Deerfield,incorporated,47,A,901,"Deerfield, MI",0,368,0,0,Deerfield village
+MI,2660680,Onaway,incorporated,25,A,890,"Onaway, MI",0,369,0,0,Onaway city
+MI,2663540,Pentwater,incorporated,47,A,890,"Pentwater, MI",0,370,0,0,Pentwater village
+MI,2652980,Mendon,incorporated,47,A,881,"Mendon, MI",0,371,0,0,Mendon village
+MI,2627500,Farwell,incorporated,47,A,880,"Farwell, MI",0,372,0,0,Farwell village
+MI,2621100,Deckerville,incorporated,47,A,877,"Deckerville, MI",0,373,0,0,Deckerville village
+MI,2605500,Baroda,incorporated,47,A,875,"Baroda, MI",0,374,0,0,Baroda village
+MI,2671700,Saugatuck,incorporated,25,A,865,"Saugatuck, MI",0,375,0,0,Saugatuck city
+MI,2604160,Augusta,incorporated,47,A,864,"Augusta, MI",0,376,0,0,Augusta village
+MI,2632640,Gobles,incorporated,25,A,851,"Gobles, MI",0,377,0,0,Gobles city
+MI,2650320,Mackinaw City,incorporated,47,A,846,"Mackinaw City, MI",0,378,0,0,Mackinaw City village
+MI,2673660,Shoreham,incorporated,47,A,844,"Shoreham, MI",0,379,0,0,Shoreham village
+MI,2681200,Ubly,incorporated,47,A,836,"Ubly, MI",0,380,0,0,Ubly village
+MI,2644480,Lake City,incorporated,25,A,829,"Lake City, MI",0,381,0,0,Lake City city
+MI,2661600,Otisville,incorporated,47,A,819,"Otisville, MI",0,382,0,0,Otisville village
+MI,2676380,Stephenson,incorporated,25,A,816,"Stephenson, MI",0,383,0,0,Stephenson city
+MI,2671560,Sanford,incorporated,47,A,813,"Sanford, MI",0,384,0,0,Sanford village
+MI,2613860,Caspian,incorporated,25,A,805,"Caspian, MI",0,385,0,0,Caspian city
+MI,2625360,Elkton,incorporated,47,A,796,"Elkton, MI",0,386,0,0,Elkton village
+MI,2651660,Marion,incorporated,47,A,789,"Marion, MI",0,387,0,0,Marion village
+MI,2662740,Parma,incorporated,47,A,780,"Parma, MI",0,388,0,0,Parma village
+MI,2600860,Alanson,incorporated,47,A,778,"Alanson, MI",0,389,0,0,Alanson village
+MI,2675860,Springport,incorporated,47,A,776,"Springport, MI",0,390,0,0,Springport village
+MI,2611480,Buckley,incorporated,47,A,775,"Buckley, MI",0,391,0,0,Buckley village
+MI,2663300,Pellston,incorporated,47,A,774,"Pellston, MI",0,392,0,0,Pellston village
+MI,2649900,Lyons,incorporated,47,A,763,"Lyons, MI",0,393,0,0,Lyons village
+MI,2611920,Burr Oak,incorporated,47,A,753,"Burr Oak, MI",0,394,0,0,Burr Oak village
+MI,2675220,South Range,incorporated,47,A,750,"South Range, MI",0,395,0,0,South Range village
+MI,2682020,Vernon,incorporated,47,A,738,"Vernon, MI",0,396,0,0,Vernon village
+MI,2681960,Vermontville,incorporated,47,A,716,"Vermontville, MI",0,397,0,0,Vermontville village
+MI,2616440,Climax,incorporated,47,A,712,"Climax, MI",0,398,0,0,Climax village
+MI,2617460,Columbiaville,incorporated,47,A,702,"Columbiaville, MI",0,399,0,0,Columbiaville village
+MI,2673100,Sheridan,incorporated,47,A,692,"Sheridan, MI",0,400,0,0,Sheridan village
+MI,2653180,Merrill,incorporated,47,A,663,"Merrill, MI",0,401,0,0,Merrill village
+MI,2679160,Tekonsha,incorporated,47,A,653,"Tekonsha, MI",0,402,0,0,Tekonsha village
+MI,2613760,Caseville,incorporated,25,A,652,"Caseville, MI",0,403,0,0,Caseville city
+MI,2656080,Muir,incorporated,47,A,646,"Muir, MI",0,404,0,0,Muir village
+MI,2649980,McBain,incorporated,25,A,637,"McBain, MI",0,405,0,0,McBain city
+MI,2665680,Port Austin,incorporated,47,A,622,"Port Austin, MI",0,406,0,0,Port Austin village
+MI,2612580,Calumet,incorporated,47,A,621,"Calumet, MI",0,407,0,0,Calumet village
+MI,2639180,Hopkins,incorporated,47,A,615,"Hopkins, MI",0,408,0,0,Hopkins village
+MI,2677600,Suttons Bay,incorporated,47,A,613,"Suttons Bay, MI",0,409,0,0,Suttons Bay village
+MI,2638380,Hillman,incorporated,47,A,605,"Hillman, MI",0,410,0,0,Hillman village
+MI,2653340,Metamora,incorporated,47,A,594,"Metamora, MI",0,411,0,0,Metamora village
+MI,2663260,Peck,incorporated,47,A,593,"Peck, MI",0,412,0,0,Peck village
+MI,2650280,Mackinac Island,incorporated,25,A,583,"Mackinac Island, MI",0,413,0,0,Mackinac Island city
+MI,2669680,Rose City,incorporated,25,A,577,"Rose City, MI",0,414,0,0,Rose City city
+MI,2600380,Addison,incorporated,47,A,573,"Addison, MI",0,415,0,0,Addison village
+MI,2651200,Maple Rapids,incorporated,47,A,573,"Maple Rapids, MI",0,416,0,0,Maple Rapids village
+MI,2665900,Port Sanilac,incorporated,47,A,567,"Port Sanilac, MI",0,417,0,0,Port Sanilac village
+MI,2657520,New Lothrop,incorporated,47,A,565,"New Lothrop, MI",0,418,0,0,New Lothrop village
+MI,2624580,Eau Claire,incorporated,47,A,552,"Eau Claire, MI",0,419,0,0,Eau Claire village
+MI,2607580,Benzonia,incorporated,47,A,551,"Benzonia, MI",0,420,0,0,Benzonia village
+MI,2612260,Byron,incorporated,47,A,545,"Byron, MI",0,421,0,0,Byron village
+MI,2652440,Maybee,incorporated,47,A,545,"Maybee, MI",0,422,0,0,Maybee village
+MI,2630580,Freeport,incorporated,47,A,542,"Freeport, MI",0,423,0,0,Freeport village
+MI,2610760,Britton,incorporated,47,A,537,"Britton, MI",0,424,0,0,Britton village
+MI,2619780,Dansville,incorporated,47,A,529,"Dansville, MI",0,425,0,0,Dansville village
+MI,2656140,Mulliken,incorporated,47,A,525,"Mulliken, MI",0,426,0,0,Mulliken village
+MI,2671360,Sand Lake,incorporated,47,A,522,"Sand Lake, MI",0,427,0,0,Sand Lake village
+MI,2677420,Sunfield,incorporated,47,A,518,"Sunfield, MI",0,428,0,0,Sunfield village
+MI,2655540,Morley,incorporated,47,A,517,"Morley, MI",0,429,0,0,Morley village
+MI,2627080,Fairgrove,incorporated,47,A,514,"Fairgrove, MI",0,430,0,0,Fairgrove village
+MI,2609220,Bloomingdale,incorporated,47,A,513,"Bloomingdale, MI",0,431,0,0,Bloomingdale village
+MI,2631300,Galien,incorporated,47,A,513,"Galien, MI",0,432,0,0,Galien village
+MI,2646880,Lennon,incorporated,47,A,509,"Lennon, MI",0,433,0,0,Lennon village
+MI,2603740,Ashley,incorporated,47,A,508,"Ashley, MI",0,434,0,0,Ashley village
+MI,2642240,Kaleva,incorporated,47,A,507,"Kaleva, MI",0,435,0,0,Kaleva village
+MI,2682880,Waldron,incorporated,47,A,505,"Waldron, MI",0,436,0,0,Waldron village
+MI,2663900,Pewamo,incorporated,47,A,503,"Pewamo, MI",0,437,0,0,Pewamo village
+MI,2681700,Vanderbilt,incorporated,47,A,498,"Vanderbilt, MI",0,438,0,0,Vanderbilt village
+MI,2612760,Camden,incorporated,47,A,496,"Camden, MI",0,439,0,0,Camden village
+MI,2658740,Northport,incorporated,47,A,496,"Northport, MI",0,440,0,0,Northport village
+MI,2605080,Bancroft,incorporated,47,A,484,"Bancroft, MI",0,441,0,0,Bancroft village
+MI,2681420,Unionville,incorporated,47,A,481,"Unionville, MI",0,442,0,0,Unionville village
+MI,2676420,Sterling,incorporated,47,A,474,"Sterling, MI",0,443,0,0,Sterling village
+MI,2636380,Hanover,incorporated,47,A,472,"Hanover, MI",0,444,0,0,Hanover village
+MI,2613620,Carsonville,incorporated,47,A,465,"Carsonville, MI",0,445,0,0,Carsonville village
+MI,2669880,Rothbury,incorporated,47,A,462,"Rothbury, MI",0,446,0,0,Rothbury village
+MI,2628000,Fife Lake,incorporated,47,A,456,"Fife Lake, MI",0,447,0,0,Fife Lake village
+MI,2657920,North Adams,incorporated,47,A,452,"North Adams, MI",0,448,0,0,North Adams village
+MI,2679600,Thompsonville,incorporated,47,A,451,"Thompsonville, MI",0,449,0,0,Thompsonville village
+MI,2657280,New Era,incorporated,47,A,446,"New Era, MI",0,450,0,0,New Era village
+MI,2636860,Harrisville,incorporated,25,A,437,"Harrisville, MI",0,451,0,0,Harrisville city
+MI,2661760,Otter Lake,incorporated,47,A,426,"Otter Lake, MI",0,452,0,0,Otter Lake village
+MI,2614260,Cement City,incorporated,47,A,424,"Cement City, MI",0,453,0,0,Cement City village
+MI,2643220,Kinde,incorporated,47,A,421,"Kinde, MI",0,454,0,0,Kinde village
+MI,2624060,Eastlake,incorporated,47,A,415,"Eastlake, MI",0,455,0,0,Eastlake village
+MI,2687140,Whittemore,incorporated,25,A,414,"Whittemore, MI",0,456,0,0,Whittemore city
+MI,2616140,Clarksville,incorporated,47,A,411,"Clarksville, MI",0,457,0,0,Clarksville village
+MI,2605580,Barryton,incorporated,47,A,405,"Barryton, MI",0,458,0,0,Barryton village
+MI,2626460,Estral Beach,incorporated,47,A,403,"Estral Beach, MI",0,459,0,0,Estral Beach village
+MI,2643380,Kingston,incorporated,47,A,399,"Kingston, MI",0,460,0,0,Kingston village
+MI,2660740,Onekama,incorporated,47,A,399,"Onekama, MI",0,461,0,0,Onekama village
+MI,2653320,Mesick,incorporated,47,A,397,"Mesick, MI",0,462,0,0,Mesick village
+MI,2663660,Perrinton,incorporated,47,A,393,"Perrinton, MI",0,463,0,0,Perrinton village
+MI,2688420,Woodland,incorporated,47,A,391,"Woodland, MI",0,464,0,0,Woodland village
+MI,2652760,Mecosta,incorporated,47,A,386,"Mecosta, MI",0,465,0,0,Mecosta village
+MI,2666140,Powers,incorporated,47,A,381,"Powers, MI",0,466,0,0,Powers village
+MI,2631200,Gaines,incorporated,47,A,377,"Gaines, MI",0,467,0,0,Gaines village
+MI,2646940,Leonard,incorporated,47,A,377,"Leonard, MI",0,468,0,0,Leonard village
+MI,2651980,Martin,incorporated,47,A,377,"Martin, MI",0,469,0,0,Martin village
+MI,2639660,Hubbardston,incorporated,47,A,369,"Hubbardston, MI",0,470,0,0,Hubbardston village
+MI,2625420,Ellsworth,incorporated,47,A,367,"Ellsworth, MI",0,471,0,0,Ellsworth village
+MI,2625980,Empire,incorporated,47,A,362,"Empire, MI",0,472,0,0,Empire village
+MI,2609840,Boyne Falls,incorporated,47,A,358,"Boyne Falls, MI",0,473,0,0,Boyne Falls village
+MI,2669640,Rosebush,incorporated,47,A,353,"Rosebush, MI",0,474,0,0,Rosebush village
+MI,2600700,Akron,incorporated,47,A,349,"Akron, MI",0,475,0,0,Akron village
+MI,2637820,Hersey,incorporated,47,A,347,"Hersey, MI",0,476,0,0,Hersey village
+MI,2606460,Bear Lake,incorporated,47,A,342,"Bear Lake, MI",0,477,0,0,Bear Lake village
+MI,2639080,Honor,incorporated,47,A,337,"Honor, MI",0,478,0,0,Honor village
+MI,2649740,Luther,incorporated,47,A,332,"Luther, MI",0,479,0,0,Luther village
+MI,2625180,Elberta,incorporated,47,A,329,"Elberta, MI",0,480,0,0,Elberta village
+MI,2655220,Montgomery,incorporated,47,A,322,"Montgomery, MI",0,481,0,0,Montgomery village
+MI,2631180,Gagetown,incorporated,47,A,321,"Gagetown, MI",0,482,0,0,Gagetown village
+MI,2681680,Vandalia,incorporated,47,A,318,"Vandalia, MI",0,483,0,0,Vandalia village
+MI,2605660,Barton Hills,incorporated,47,A,316,"Barton Hills, MI",0,484,0,0,Barton Hills village
+MI,2613820,Casnovia,incorporated,47,A,316,"Casnovia, MI",0,485,0,0,Casnovia village
+MI,2631160,Gaastra,incorporated,25,A,316,"Gaastra, MI",0,486,0,0,Gaastra city
+MI,2608100,Beulah,incorporated,47,A,313,"Beulah, MI",0,487,0,0,Beulah village
+MI,2616280,Clayton,incorporated,47,A,311,"Clayton, MI",0,488,0,0,Clayton village
+MI,2633260,Grand Beach,incorporated,47,A,310,"Grand Beach, MI",0,489,0,0,Grand Beach village
+MI,2688240,Wolverine,incorporated,47,A,309,"Wolverine, MI",0,490,0,0,Wolverine village
+MI,2647560,Lincoln,incorporated,47,A,305,"Lincoln, MI",0,491,0,0,Lincoln village
+MI,2616420,Clifford,incorporated,47,A,300,"Clifford, MI",0,492,0,0,Clifford village
+MI,2659860,Oakley,incorporated,47,A,299,"Oakley, MI",0,493,0,0,Oakley village
+MI,2665800,Port Hope,incorporated,47,A,293,"Port Hope, MI",0,494,0,0,Port Hope village
+MI,2644440,Lake Angelus,incorporated,25,A,287,"Lake Angelus, MI",0,495,0,0,Lake Angelus city
+MI,2673420,Sherwood,incorporated,47,A,285,"Sherwood, MI",0,496,0,0,Sherwood village
+MI,2611800,Burlington,incorporated,47,A,281,"Burlington, MI",0,497,0,0,Burlington village
+MI,2661920,Owendale,incorporated,47,A,275,"Owendale, MI",0,498,0,0,Owendale village
+MI,2660660,Omer,incorporated,25,A,274,"Omer, MI",0,499,0,0,Omer city
+MI,2644460,Lake Ann,incorporated,47,A,273,"Lake Ann, MI",0,500,0,0,Lake Ann village
+MI,2619420,Custer,incorporated,47,A,272,"Custer, MI",0,501,0,0,Custer village
+MI,2666000,Posen,incorporated,47,A,270,"Posen, MI",0,502,0,0,Posen village
+MI,2680960,Tustin,incorporated,47,A,270,"Tustin, MI",0,503,0,0,Tustin village
+MI,2621780,De Tour Village,incorporated,47,A,263,"De Tour Village, MI",0,504,0,0,De Tour Village village
+MI,2647100,Le Roy,incorporated,47,A,260,"Le Roy, MI",0,505,0,0,Le Roy village
+MI,2625940,Emmett,incorporated,47,A,258,"Emmett, MI",0,506,0,0,Emmett village
+MI,2683020,Walkerville,incorporated,47,A,246,"Walkerville, MI",0,507,0,0,Walkerville village
+MI,2603200,Applegate,incorporated,47,A,241,"Applegate, MI",0,508,0,0,Applegate village
+MI,2664020,Pierson,incorporated,47,A,229,"Pierson, MI",0,509,0,0,Pierson village
+MI,2666300,Prescott,incorporated,47,A,217,"Prescott, MI",0,510,0,0,Prescott village
+MI,2610180,Breedsville,incorporated,47,A,202,"Breedsville, MI",0,511,0,0,Breedsville village
+MI,2601300,Allen,incorporated,47,A,201,"Allen, MI",0,512,0,0,Allen village
+MI,2619560,Daggett,incorporated,47,A,201,"Daggett, MI",0,513,0,0,Daggett village
+MI,2653500,Michiana,incorporated,47,A,200,"Michiana, MI",0,514,0,0,Michiana village
+MI,2618040,Copemish,incorporated,47,A,195,"Copemish, MI",0,515,0,0,Copemish village
+MI,2676240,Stanwood,incorporated,47,A,194,"Stanwood, MI",0,516,0,0,Stanwood village
+MI,2614940,Chatham,incorporated,47,A,193,"Chatham, MI",0,517,0,0,Chatham village
+MI,2650000,McBride,incorporated,47,A,189,"McBride, MI",0,518,0,0,McBride village
+MI,2618080,Copper City,incorporated,47,A,187,"Copper City, MI",0,519,0,0,Copper City village
+MI,2613400,Carney,incorporated,47,A,179,"Carney, MI",0,520,0,0,Carney village
+MI,2631380,Garden,incorporated,47,A,174,"Garden, MI",0,521,0,0,Garden village
+MI,2629940,Fountain,incorporated,47,A,170,"Fountain, MI",0,522,0,0,Fountain village
+MI,2654120,Millersburg,incorporated,47,A,169,"Millersburg, MI",0,523,0,0,Millersburg village
+MI,2654560,Minden City,incorporated,47,A,165,"Minden City, MI",0,524,0,0,Minden City village
+MI,2630600,Free Soil,incorporated,47,A,158,"Free Soil, MI",0,525,0,0,Free Soil village
+MI,2636720,Harrietta,incorporated,47,A,151,"Harrietta, MI",0,526,0,0,Harrietta village
+MI,2652920,Melvin,incorporated,47,A,148,"Melvin, MI",0,527,0,0,Melvin village
+MI,2681020,Twining,incorporated,47,A,130,"Twining, MI",0,528,0,0,Twining village
+MI,2600620,Ahmeek,incorporated,47,A,127,"Ahmeek, MI",0,529,0,0,Ahmeek village
+MI,2601800,Alpha,incorporated,47,A,126,"Alpha, MI",0,530,0,0,Alpha village
+MI,2623560,Eagle,incorporated,47,A,122,"Eagle, MI",0,531,0,0,Eagle village
+MI,2680820,Turner,incorporated,47,A,121,"Turner, MI",0,532,0,0,Turner village
+MI,2629660,Forestville,incorporated,47,A,104,"Forestville, MI",0,533,0,0,Forestville village

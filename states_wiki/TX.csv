@@ -1,0 +1,1229 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+TX,4835000,Houston,incorporated,25,A,2304580,"Houston, TX",0,1,63,0.252,Houston city
+TX,4865000,San Antonio,incorporated,25,A,1434625,"San Antonio, TX",0,2,26,0.104,San Antonio city
+TX,4819000,Dallas,incorporated,25,A,1304379,"Dallas, TX",0,3,17,0.068,Dallas city
+TX,4805000,Austin,incorporated,25,A,961855,"Austin, TX",0,4,18,0.072,Austin city
+TX,4827000,Fort Worth,incorporated,25,A,918915,"Fort Worth, TX",0,5,8,0.032,Fort Worth city
+TX,4824000,El Paso,incorporated,25,A,678815,"El Paso, TX",0,6,8,0.032,El Paso city
+TX,4804000,Arlington,incorporated,25,A,394266,"Arlington, TX",0,7,6,0.024,Arlington city
+TX,4817000,Corpus Christi,incorporated,25,A,317863,"Corpus Christi, TX",0,8,6,0.024,Corpus Christi city
+TX,4858016,Plano,incorporated,25,A,285494,"Plano, TX",0,9,4,0.016,Plano city
+TX,4845000,Lubbock,incorporated,25,A,257141,"Lubbock, TX",0,10,5,0.02,Lubbock city
+TX,4837000,Irving,incorporated,25,A,256684,"Irving, TX",0,11,3,0.012,Irving city
+TX,4841464,Laredo,incorporated,25,A,255205,"Laredo, TX",0,12,4,0.016,Laredo city
+TX,4829000,Garland,incorporated,25,A,246018,"Garland, TX",0,13,4,0.016,Garland city
+TX,4827684,Frisco,incorporated,25,A,200509,"Frisco, TX",0,14,2,0.008,Frisco city
+TX,4803000,Amarillo,incorporated,25,A,200393,"Amarillo, TX",0,15,2,0.008,Amarillo city
+TX,4830464,Grand Prairie,incorporated,25,A,196100,"Grand Prairie, TX",0,16,3,0.012,Grand Prairie city
+TX,4845744,McKinney,incorporated,25,A,195308,"McKinney, TX",0,17,3,0.012,McKinney city
+TX,4810768,Brownsville,incorporated,25,A,186738,"Brownsville, TX",0,18,3,0.012,Brownsville city
+TX,4839148,Killeen,incorporated,25,A,153095,"Killeen, TX",0,19,3,0.012,Killeen city
+TX,4856000,Pasadena,incorporated,25,A,151950,"Pasadena, TX",0,20,2,0.008,Pasadena city
+TX,4847892,Mesquite,incorporated,25,A,150108,"Mesquite, TX",0,21,2,0.008,Mesquite city
+TX,4845384,McAllen,incorporated,25,A,142210,"McAllen, TX",0,22,1,0.004,McAllen city
+TX,4819972,Denton,incorporated,25,A,139869,"Denton, TX",0,23,1,0.004,Denton city
+TX,4876000,Waco,incorporated,25,A,138486,"Waco, TX",0,24,1,0.004,Waco city
+TX,4813024,Carrollton,incorporated,25,A,133434,"Carrollton, TX",0,25,1,0.004,Carrollton city
+TX,4848072,Midland,incorporated,25,A,132524,"Midland, TX",0,26,1,0.004,Midland city
+TX,4856348,Pearland,incorporated,25,A,125828,"Pearland, TX",0,27,1,0.004,Pearland city
+TX,4801000,Abilene,incorporated,25,A,125182,"Abilene, TX",0,28,2,0.008,Abilene city
+TX,4815976,College Station,incorporated,25,A,120511,"College Station, TX",0,29,2,0.008,College Station city
+TX,4861796,Richardson,incorporated,25,A,119469,"Richardson, TX",0,30,2,0.008,Richardson city
+TX,4863500,Round Rock,incorporated,25,A,119468,"Round Rock, TX",0,31,2,0.008,Round Rock city
+TX,4807000,Beaumont,incorporated,25,A,115282,"Beaumont, TX",0,32,2,0.008,Beaumont city
+TX,4853388,Odessa,incorporated,25,A,114428,"Odessa, TX",0,33,2,0.008,Odessa city
+TX,4841980,League City,incorporated,25,A,114392,"League City, TX",0,34,2,0.008,League City city
+TX,4842508,Lewisville,incorporated,25,A,111822,"Lewisville, TX",0,35,2,0.008,Lewisville city
+TX,4870808,Sugar Land,incorporated,25,A,111026,"Sugar Land, TX",0,36,2,0.008,Sugar Land city
+TX,4874144,Tyler,incorporated,25,A,105995,"Tyler, TX",0,37,2,0.008,Tyler city
+TX,4801924,Allen,incorporated,25,A,104627,"Allen, TX",0,38,2,0.008,Allen city
+TX,4879000,Wichita Falls,incorporated,25,A,102316,"Wichita Falls, TX",0,39,2,0.008,Wichita Falls city
+TX,4822660,Edinburg,incorporated,25,A,100243,"Edinburg, TX",0,40,2,0.008,Edinburg city
+TX,4864472,San Angelo,incorporated,25,A,99893,"San Angelo, TX",0,41,2,0.008,San Angelo city
+TX,4850820,New Braunfels,incorporated,25,A,90403,"New Braunfels, TX",0,42,2,0.008,New Braunfels city
+TX,4816432,Conroe,incorporated,25,A,89956,"Conroe, TX",0,43,2,0.008,Conroe city
+TX,4848768,Mission,incorporated,25,A,85778,"Mission, TX",0,44,2,0.008,Mission city
+TX,4810912,Bryan,incorporated,25,A,83980,"Bryan, TX",0,45,2,0.008,Bryan city
+TX,4806128,Baytown,incorporated,25,A,83701,"Baytown, TX",0,46,2,0.008,Baytown city
+TX,4872176,Temple,incorporated,25,A,82073,"Temple, TX",0,47,2,0.008,Temple city
+TX,4843888,Longview,incorporated,25,A,81638,"Longview, TX",0,48,1,0.004,Longview city
+TX,4857200,Pharr,incorporated,25,A,79715,"Pharr, TX",0,49,1,0.004,Pharr city
+TX,4813552,Cedar Park,incorporated,25,A,77595,"Cedar Park, TX",0,50,1,0.004,Cedar Park city
+TX,4826232,Flower Mound,incorporated,43,A,75956,"Flower Mound, TX",0,51,1,0.004,Flower Mound town
+TX,4848804,Missouri City,incorporated,25,A,74259,"Missouri City, TX",0,52,1,0.004,Missouri City city
+TX,4846452,Mansfield,incorporated,25,A,72602,"Mansfield, TX",0,53,1,0.004,Mansfield city
+TX,4832372,Harlingen,incorporated,25,A,71829,"Harlingen, TX",0,54,1,0.004,Harlingen city
+TX,4852356,North Richland Hills,incorporated,25,A,69917,"North Richland Hills, TX",0,55,1,0.004,North Richland Hills city
+TX,4865600,San Marcos,incorporated,25,A,67553,"San Marcos, TX",0,56,1,0.004,San Marcos city
+TX,4829336,Georgetown,incorporated,25,A,67176,"Georgetown, TX",0,57,1,0.004,Georgetown city
+TX,4875428,Victoria,incorporated,25,A,65534,"Victoria, TX",0,58,1,0.004,Victoria city
+TX,4857176,Pflugerville,incorporated,25,A,65191,"Pflugerville, TX",0,59,1,0.004,Pflugerville city
+TX,4863572,Rowlett,incorporated,25,A,62535,"Rowlett, TX",0,60,0,0,Rowlett city
+TX,4824768,Euless,incorporated,25,A,61032,"Euless, TX",0,61,0,0,Euless city
+TX,4842016,Leander,incorporated,25,A,59202,"Leander, TX",0,62,0,0,Leander city
+TX,4880356,Wylie,incorporated,25,A,57526,"Wylie, TX",0,63,0,0,Wylie city
+TX,4820092,DeSoto,incorporated,25,A,56145,"DeSoto, TX",0,64,0,0,DeSoto city
+TX,4858820,Port Arthur,incorporated,25,A,56039,"Port Arthur, TX",0,65,0,0,Port Arthur city
+TX,4828068,Galveston,incorporated,25,A,53695,"Galveston, TX",0,66,0,0,Galveston city
+TX,4872392,Texas City,incorporated,25,A,51898,"Texas City, TX",0,67,0,0,Texas City city
+TX,4830644,Grapevine,incorporated,25,A,50631,"Grapevine, TX",0,68,0,0,Grapevine city
+TX,4807132,Bedford,incorporated,25,A,49928,"Bedford, TX",0,69,0,0,Bedford city
+TX,4813492,Cedar Hill,incorporated,25,A,49148,"Cedar Hill, TX",0,70,0,0,Cedar Hill city
+TX,4811428,Burleson,incorporated,25,A,47641,"Burleson, TX",0,71,0,0,Burleson city
+TX,4862828,Rockwall,incorporated,25,A,47251,"Rockwall, TX",0,72,0,0,Rockwall city
+TX,4843012,Little Elm,incorporated,25,A,46453,"Little Elm, TX",0,73,0,0,Little Elm city
+TX,4831928,Haltom City,incorporated,25,A,46073,"Haltom City, TX",0,74,0,0,Haltom City city
+TX,4835528,Huntsville,incorporated,25,A,45941,"Huntsville, TX",0,75,0,0,Huntsville city
+TX,4838632,Keller,incorporated,25,A,45776,"Keller, TX",0,76,0,0,Keller city
+TX,4839952,Kyle,incorporated,25,A,45697,"Kyle, TX",0,77,0,0,Kyle city
+TX,4872530,The Colony,incorporated,25,A,44534,"The Colony, TX",0,78,0,0,The Colony city
+TX,4867496,Sherman,incorporated,25,A,43645,"Sherman, TX",0,79,0,0,Sherman city
+TX,4816612,Coppell,incorporated,25,A,42983,"Coppell, TX",0,80,0,0,Coppell city
+TX,4866128,Schertz,incorporated,25,A,42002,"Schertz, TX",0,81,0,0,Schertz city
+TX,4841212,Lancaster,incorporated,25,A,41275,"Lancaster, TX",0,82,0,0,Lancaster city
+TX,4827648,Friendswood,incorporated,25,A,41213,"Friendswood, TX",0,83,0,0,Friendswood city
+TX,4876816,Waxahachie,incorporated,25,A,41140,"Waxahachie, TX",0,84,0,0,Waxahachie city
+TX,4821628,Duncanville,incorporated,25,A,40706,"Duncanville, TX",0,85,0,0,Duncanville city
+TX,4835576,Hurst,incorporated,25,A,40413,"Hurst, TX",0,86,0,0,Hurst city
+TX,4877272,Weslaco,incorporated,25,A,40160,"Weslaco, TX",0,87,0,0,Weslaco city
+TX,4863284,Rosenberg,incorporated,25,A,38282,"Rosenberg, TX",0,88,0,0,Rosenberg city
+TX,4816624,Copperas Cove,incorporated,25,A,36670,"Copperas Cove, TX",0,89,0,0,Copperas Cove city
+TX,4872368,Texarkana,incorporated,25,A,36193,"Texarkana, TX",0,90,0,0,Texarkana city
+TX,4825452,Farmers Branch,incorporated,25,A,35991,"Farmers Branch, TX",0,91,0,0,Farmers Branch city
+TX,4865516,San Juan,incorporated,25,A,35294,"San Juan, TX",0,92,0,0,San Juan city
+TX,4848096,Midlothian,incorporated,25,A,35125,"Midlothian, TX",0,93,0,0,Midlothian city
+TX,4841440,La Porte,incorporated,25,A,35124,"La Porte, TX",0,94,0,0,La Porte city
+TX,4819792,Del Rio,incorporated,25,A,34673,"Del Rio, TX",0,95,0,0,Del Rio city
+TX,4819624,Deer Park,incorporated,25,A,34495,"Deer Park, TX",0,96,0,0,Deer Park city
+TX,4868636,Socorro,incorporated,25,A,34306,"Socorro, TX",0,97,0,0,Socorro city
+TX,4845072,Lufkin,incorporated,25,A,34143,"Lufkin, TX",0,98,0,0,Lufkin city
+TX,4832312,Harker Heights,incorporated,25,A,33097,"Harker Heights, TX",0,99,0,0,Harker Heights city
+TX,4814920,Cibolo,incorporated,25,A,32276,"Cibolo, TX",0,100,0,0,Cibolo city
+TX,4850256,Nacogdoches,incorporated,25,A,32147,"Nacogdoches, TX",0,101,0,0,Nacogdoches city
+TX,4815364,Cleburne,incorporated,25,A,31352,"Cleburne, TX",0,102,0,0,Cleburne city
+TX,4869032,Southlake,incorporated,25,A,31265,"Southlake, TX",0,103,0,0,Southlake city
+TX,4876864,Weatherford,incorporated,25,A,30854,"Weatherford, TX",0,104,0,0,Weatherford city
+TX,4859696,Prosper,incorporated,43,A,30174,"Prosper, TX",0,105,0,0,Prosper town
+TX,4866644,Seguin,incorporated,25,A,29433,"Seguin, TX",0,106,0,0,Seguin city
+TX,4840588,Lake Jackson,incorporated,25,A,28177,"Lake Jackson, TX",0,107,0,0,Lake Jackson city
+TX,4830920,Greenville,incorporated,25,A,28164,"Greenville, TX",0,108,0,0,Greenville city
+TX,4821892,Eagle Pass,incorporated,25,A,28130,"Eagle Pass, TX",0,109,0,0,Eagle Pass city
+TX,4805372,Balch Springs,incorporated,25,A,27685,"Balch Springs, TX",0,110,0,0,Balch Springs city
+TX,4835624,Hutto,incorporated,25,A,27577,"Hutto, TX",0,111,0,0,Hutto city
+TX,4816468,Converse,incorporated,25,A,27466,"Converse, TX",0,112,0,0,Converse city
+TX,4864064,Sachse,incorporated,25,A,27103,"Sachse, TX",0,113,0,0,Sachse city
+TX,4802272,Alvin,incorporated,25,A,27098,"Alvin, TX",0,114,0,0,Alvin city
+TX,4808236,Big Spring,incorporated,25,A,26144,"Big Spring, TX",0,115,0,0,Big Spring city
+TX,4815988,Colleyville,incorporated,25,A,26057,"Colleyville, TX",0,116,0,0,Colleyville city
+TX,4839352,Kingsville,incorporated,25,A,25402,"Kingsville, TX",0,117,0,0,Kingsville city
+TX,4874492,University Park,incorporated,25,A,25278,"University Park, TX",0,118,0,0,University Park city
+TX,4817060,Corsicana,incorporated,25,A,25109,"Corsicana, TX",0,119,0,0,Corsicana city
+TX,4865036,San Benito,incorporated,25,A,24861,"San Benito, TX",0,120,0,0,San Benito city
+TX,4807552,Benbrook,incorporated,25,A,24520,"Benbrook, TX",0,121,0,0,Benbrook city
+TX,4819900,Denison,incorporated,25,A,24479,"Denison, TX",0,122,0,0,Denison city
+TX,4855080,Paris,incorporated,25,A,24476,"Paris, TX",0,123,0,0,Paris city
+TX,4839040,Kerrville,incorporated,25,A,24278,"Kerrville, TX",0,124,0,0,Kerrville city
+TX,4864112,Saginaw,incorporated,25,A,23890,"Saginaw, TX",0,125,0,0,Saginaw city
+TX,4876672,Watauga,incorporated,25,A,23650,"Watauga, TX",0,126,0,0,Watauga city
+TX,4826604,Forney,incorporated,25,A,23455,"Forney, TX",0,127,0,0,Forney city
+TX,4846776,Marshall,incorporated,25,A,23392,"Marshall, TX",0,128,0,0,Marshall city
+TX,4807492,Belton,incorporated,25,A,23054,"Belton, TX",0,129,0,0,Belton city
+TX,4816696,Corinth,incorporated,25,A,22634,"Corinth, TX",0,130,0,0,Corinth city
+TX,4834832,Horizon City,incorporated,25,A,22489,"Horizon City, TX",0,131,0,0,Horizon City city
+TX,4838476,Katy,incorporated,25,A,21894,"Katy, TX",0,132,0,0,Katy city
+TX,4850100,Murphy,incorporated,25,A,21013,"Murphy, TX",0,133,0,0,Murphy city
+TX,4870208,Stephenville,incorporated,25,A,20897,"Stephenville, TX",0,134,0,0,Stephenville city
+TX,4820344,Dickinson,incorporated,25,A,20847,"Dickinson, TX",0,135,0,0,Dickinson city
+TX,4858904,Portland,incorporated,25,A,20383,"Portland, TX",0,136,0,0,Portland city
+TX,4857980,Plainview,incorporated,25,A,20187,"Plainview, TX",0,137,0,0,Plainview city
+TX,4824348,Ennis,incorporated,25,A,20159,"Ennis, TX",0,138,0,0,Ennis city
+TX,4874408,Universal City,incorporated,25,A,19720,"Universal City, TX",0,139,0,0,Universal City city
+TX,4801576,Alamo,incorporated,25,A,19493,"Alamo, TX",0,140,0,0,Alamo city
+TX,4803264,Angleton,incorporated,25,A,19429,"Angleton, TX",0,141,0,0,Angleton city
+TX,4854132,Orange,incorporated,25,A,19324,"Orange, TX",0,142,0,0,Orange city
+TX,4840984,Lakeway,incorporated,25,A,19189,"Lakeway, TX",0,143,0,0,Lakeway city
+TX,4810780,Brownwood,incorporated,25,A,18862,"Brownwood, TX",0,144,0,0,Brownwood city
+TX,4850580,Nederland,incorporated,25,A,18856,"Nederland, TX",0,145,0,0,Nederland city
+TX,4854708,Palestine,incorporated,25,A,18544,"Palestine, TX",0,146,0,0,Palestine city
+TX,4866428,Seagoville,incorporated,25,A,18446,"Seagoville, TX",0,147,0,0,Seagoville city
+TX,4878544,White Settlement,incorporated,25,A,18269,"White Settlement, TX",0,148,0,0,White Settlement city
+TX,4802212,Alton,incorporated,25,A,18198,"Alton, TX",0,149,0,0,Alton city
+TX,4817960,Crowley,incorporated,25,A,18070,"Crowley, TX",0,150,0,0,Crowley city
+TX,4805984,Bay City,incorporated,25,A,18061,"Bay City, TX",0,151,0,0,Bay City city
+TX,4841116,La Marque,incorporated,25,A,18030,"La Marque, TX",0,152,0,0,La Marque city
+TX,4825572,Fate,incorporated,25,A,17958,"Fate, TX",0,153,0,0,Fate city
+TX,4801852,Alice,incorporated,25,A,17891,"Alice, TX",0,154,0,0,Alice city
+TX,4809160,Boerne,incorporated,25,A,17850,"Boerne, TX",0,155,0,0,Boerne city
+TX,4869908,Stafford,incorporated,25,A,17666,"Stafford, TX",0,156,0,0,Stafford city
+TX,4872284,Terrell,incorporated,25,A,17465,"Terrell, TX",0,157,0,0,Terrell city
+TX,4827984,Gainesville,incorporated,25,A,17394,"Gainesville, TX",0,158,0,0,Gainesville city
+TX,4810156,Brenham,incorporated,25,A,17369,"Brenham, TX",0,159,0,0,Brenham city
+TX,4831328,Groves,incorporated,25,A,17335,"Groves, TX",0,160,0,0,Groves city
+TX,4807300,Bellaire,incorporated,25,A,17202,"Bellaire, TX",0,161,0,0,Bellaire city
+TX,4859576,Princeton,incorporated,25,A,17027,"Princeton, TX",0,162,0,0,Princeton city
+TX,4803300,Anna,incorporated,25,A,16896,"Anna, TX",0,163,0,0,Anna city
+TX,4854912,Pampa,incorporated,25,A,16867,"Pampa, TX",0,164,0,0,Pampa city
+TX,4827876,Fulshear,incorporated,25,A,16856,"Fulshear, TX",0,165,0,0,Fulshear city
+TX,4820884,Donna,incorporated,25,A,16797,"Donna, TX",0,166,0,0,Donna city
+TX,4835348,Humble,incorporated,25,A,16795,"Humble, TX",0,167,0,0,Humble city
+TX,4813684,Celina,incorporated,25,A,16739,"Celina, TX",0,168,0,0,Celina city
+TX,4801240,Addison,incorporated,43,A,16661,"Addison, TX",0,169,0,0,Addison town
+TX,4871948,Taylor,incorporated,25,A,16267,"Taylor, TX",0,170,0,0,Taylor city
+TX,4847700,Mercedes,incorporated,25,A,16258,"Mercedes, TX",0,171,0,0,Mercedes city
+TX,4869020,South Houston,incorporated,25,A,16153,"South Houston, TX",0,172,0,0,South Houston city
+TX,4829168,Gatesville,incorporated,25,A,16135,"Gatesville, TX",0,173,0,0,Gatesville city
+TX,4849800,Mount Pleasant,incorporated,25,A,16047,"Mount Pleasant, TX",0,174,0,0,Mount Pleasant city
+TX,4833428,Hewitt,incorporated,25,A,16026,"Hewitt, TX",0,175,0,0,Hewitt city
+TX,4870904,Sulphur Springs,incorporated,25,A,15941,"Sulphur Springs, TX",0,176,0,0,Sulphur Springs city
+TX,4833848,Highland Village,incorporated,25,A,15899,"Highland Village, TX",0,177,0,0,Highland Village city
+TX,4854804,Palmview,incorporated,25,A,15830,"Palmview, TX",0,178,0,0,Palmview city
+TX,4829840,Glenn Heights,incorporated,25,A,15819,"Glenn Heights, TX",0,179,0,0,Glenn Heights city
+TX,4843096,Live Oak,incorporated,25,A,15781,"Live Oak, TX",0,180,0,0,Live Oak city
+TX,4862168,Rio Grande City,incorporated,25,A,15317,"Rio Grande City, TX",0,181,0,0,Rio Grande City city
+TX,4874588,Uvalde,incorporated,25,A,15217,"Uvalde, TX",0,182,0,0,Uvalde city
+TX,4811080,Buda,incorporated,25,A,15108,"Buda, TX",0,183,0,0,Buda city
+TX,4833320,Hereford,incorporated,25,A,14972,"Hereford, TX",0,184,0,0,Hereford city
+TX,4877956,West University Place,incorporated,25,A,14955,"West University Place, TX",0,185,0,0,West University Place city
+TX,4812532,Canyon,incorporated,25,A,14836,"Canyon, TX",0,186,0,0,Canyon city
+TX,4848684,Mineral Wells,incorporated,25,A,14820,"Mineral Wells, TX",0,187,0,0,Mineral Wells city
+TX,4821556,Dumas,incorporated,25,A,14501,"Dumas, TX",0,188,0,0,Dumas city
+TX,4843240,Lockhart,incorporated,25,A,14379,"Lockhart, TX",0,189,0,0,Lockhart city
+TX,4861196,Red Oak,incorporated,25,A,14222,"Red Oak, TX",0,190,0,0,Red Oak city
+TX,4837216,Jacksonville,incorporated,25,A,13997,"Jacksonville, TX",0,191,0,0,Jacksonville city
+TX,4833560,Hidalgo,incorporated,25,A,13964,"Hidalgo, TX",0,192,0,0,Hidalgo city
+TX,4826544,Forest Hill,incorporated,25,A,13955,"Forest Hill, TX",0,193,0,0,Forest Hill city
+TX,4847496,Melissa,incorporated,25,A,13901,"Melissa, TX",0,194,0,0,Melissa city
+TX,4858940,Port Neches,incorporated,25,A,13692,"Port Neches, TX",0,195,0,0,Port Neches city
+TX,4873710,Trophy Club,incorporated,43,A,13688,"Trophy Club, TX",0,196,0,0,Trophy Club town
+TX,4807192,Beeville,incorporated,25,A,13669,"Beeville, TX",0,197,0,0,Beeville city
+TX,4846440,Manor,incorporated,25,A,13652,"Manor, TX",0,198,0,0,Manor city
+TX,4866392,Seabrook,incorporated,25,A,13618,"Seabrook, TX",0,199,0,0,Seabrook city
+TX,4845120,Lumberton,incorporated,25,A,13554,"Lumberton, TX",0,200,0,0,Lumberton city
+TX,4863668,Royse City,incorporated,25,A,13508,"Royse City, TX",0,201,0,0,Royse City city
+TX,4803216,Andrews,incorporated,25,A,13487,"Andrews, TX",0,202,0,0,Andrews city
+TX,4839124,Kilgore,incorporated,25,A,13376,"Kilgore, TX",0,203,0,0,Kilgore city
+TX,4805168,Azle,incorporated,25,A,13369,"Azle, TX",0,204,0,0,Azle city
+TX,4833212,Henderson,incorporated,25,A,13271,"Henderson, TX",0,205,0,0,Henderson city
+TX,4804504,Athens,incorporated,25,A,12857,"Athens, TX",0,206,0,0,Athens city
+TX,4865726,Santa Fe,incorporated,25,A,12735,"Santa Fe, TX",0,207,0,0,Santa Fe city
+TX,4842448,Levelland,incorporated,25,A,12652,"Levelland, TX",0,208,0,0,Levelland city
+TX,4809556,Borger,incorporated,25,A,12551,"Borger, TX",0,209,0,0,Borger city
+TX,4876948,Webster,incorporated,25,A,12499,"Webster, TX",0,210,0,0,Webster city
+TX,4862588,Robinson,incorporated,25,A,12443,"Robinson, TX",0,211,0,0,Robinson city
+TX,4822864,El Campo,incorporated,25,A,12350,"El Campo, TX",0,212,0,0,El Campo city
+TX,4873316,Tomball,incorporated,25,A,12341,"Tomball, TX",0,213,0,0,Tomball city
+TX,4861892,Richmond,incorporated,25,A,11627,"Richmond, TX",0,214,0,0,Richmond city
+TX,4863020,Roma,incorporated,25,A,11561,"Roma, TX",0,215,0,0,Roma city
+TX,4858916,Port Lavaca,incorporated,25,A,11557,"Port Lavaca, TX",0,216,0,0,Port Lavaca city
+TX,4842388,Leon Valley,incorporated,25,A,11542,"Leon Valley, TX",0,217,0,0,Leon Valley city
+TX,4868624,Snyder,incorporated,25,A,11438,"Snyder, TX",0,218,0,0,Snyder city
+TX,4830416,Granbury,incorporated,25,A,10958,"Granbury, TX",0,219,0,0,Granbury city
+TX,4866704,Selma,incorporated,25,A,10952,"Selma, TX",0,220,0,0,Selma city
+TX,4811368,Burkburnett,incorporated,25,A,10939,"Burkburnett, TX",0,221,0,0,Burkburnett city
+TX,4827348,Fredericksburg,incorporated,25,A,10875,"Fredericksburg, TX",0,222,0,0,Fredericksburg city
+TX,4827996,Galena Park,incorporated,25,A,10740,"Galena Park, TX",0,223,0,0,Galena Park city
+TX,4827420,Freeport,incorporated,25,A,10696,"Freeport, TX",0,224,0,0,Freeport city
+TX,4858280,Pleasanton,incorporated,25,A,10648,"Pleasanton, TX",0,225,0,0,Pleasanton city
+TX,4871540,Sweetwater,incorporated,25,A,10622,"Sweetwater, TX",0,226,0,0,Sweetwater city
+TX,4815652,Clute,incorporated,25,A,10604,"Clute, TX",0,227,0,0,Clute city
+TX,4807408,Bellmead,incorporated,25,A,10494,"Bellmead, TX",0,228,0,0,Bellmead city
+TX,4809328,Bonham,incorporated,25,A,10408,"Bonham, TX",0,229,0,0,Bonham city
+TX,4825224,Fairview,incorporated,43,A,10372,"Fairview, TX",0,230,0,0,Fairview town
+TX,4860836,Raymondville,incorporated,25,A,10236,"Raymondville, TX",0,231,0,0,Raymondville city
+TX,4862600,Robstown,incorporated,25,A,10143,"Robstown, TX",0,232,0,0,Robstown city
+TX,4865360,San Elizario,incorporated,25,A,10116,"San Elizario, TX",0,233,0,0,San Elizario city
+TX,4875308,Vernon,incorporated,25,A,10078,"Vernon, TX",0,234,0,0,Vernon city
+TX,4862804,Rockport,incorporated,25,A,10070,"Rockport, TX",0,235,0,0,Rockport city
+TX,4846500,Manvel,incorporated,25,A,9992,"Manvel, TX",0,236,0,0,Manvel city
+TX,4825168,Fair Oaks Ranch,incorporated,25,A,9833,"Fair Oaks Ranch, TX",0,237,0,0,Fair Oaks Ranch city
+TX,4875476,Vidor,incorporated,25,A,9789,"Vidor, TX",0,238,0,0,Vidor city
+TX,4823044,Elgin,incorporated,25,A,9784,"Elgin, TX",0,239,0,0,Elgin city
+TX,4832984,Heath,incorporated,25,A,9769,"Heath, TX",0,240,0,0,Heath city
+TX,4805864,Bastrop,incorporated,25,A,9688,"Bastrop, TX",0,241,0,0,Bastrop city
+TX,4862504,Roanoke,incorporated,25,A,9665,"Roanoke, TX",0,242,0,0,Roanoke city
+TX,4837156,Jacinto City,incorporated,25,A,9613,"Jacinto City, TX",0,243,0,0,Jacinto City city
+TX,4810252,Bridge City,incorporated,25,A,9546,"Bridge City, TX",0,244,0,0,Bridge City city
+TX,4836008,Ingleside,incorporated,25,A,9519,"Ingleside, TX",0,245,0,0,Ingleside city
+TX,4880224,Woodway,incorporated,25,A,9383,"Woodway, TX",0,246,0,0,Woodway city
+TX,4807156,Bee Cave,incorporated,25,A,9144,"Bee Cave, TX",0,247,0,0,Bee Cave city
+TX,4816240,Commerce,incorporated,25,A,9090,"Commerce, TX",0,248,0,0,Commerce city
+TX,4833146,Helotes,incorporated,25,A,9030,"Helotes, TX",0,249,0,0,Helotes city
+TX,4810720,Brownfield,incorporated,25,A,8936,"Brownfield, TX",0,250,0,0,Brownfield city
+TX,4840264,Lago Vista,incorporated,25,A,8896,"Lago Vista, TX",0,251,0,0,Lago Vista city
+TX,4833824,Highland Park,incorporated,43,A,8864,"Highland Park, TX",0,252,0,0,Highland Park town
+TX,4865408,Sanger,incorporated,25,A,8839,"Sanger, TX",0,253,0,0,Sanger city
+TX,4819432,Dayton,incorporated,25,A,8777,"Dayton, TX",0,254,0,0,Dayton city
+TX,4830392,Graham,incorporated,25,A,8732,"Graham, TX",0,255,0,0,Graham city
+TX,4841164,Lamesa,incorporated,25,A,8674,"Lamesa, TX",0,256,0,0,Lamesa city
+TX,4878136,Wharton,incorporated,25,A,8627,"Wharton, TX",0,257,0,0,Wharton city
+TX,4861844,Richland Hills,incorporated,25,A,8621,"Richland Hills, TX",0,258,0,0,Richland Hills city
+TX,4838896,Kennedale,incorporated,25,A,8517,"Kennedale, TX",0,259,0,0,Kennedale city
+TX,4856912,Perryton,incorporated,25,A,8492,"Perryton, TX",0,260,0,0,Perryton city
+TX,4826808,Fort Stockton,incorporated,25,A,8466,"Fort Stockton, TX",0,261,0,0,Fort Stockton city
+TX,4818524,Dalhart,incorporated,25,A,8447,"Dalhart, TX",0,262,0,0,Dalhart city
+TX,4834676,Hondo,incorporated,25,A,8289,"Hondo, TX",0,263,0,0,Hondo city
+TX,4842568,Liberty,incorporated,25,A,8279,"Liberty, TX",0,264,0,0,Liberty city
+TX,4878388,Whitehouse,incorporated,25,A,8257,"Whitehouse, TX",0,265,0,0,Whitehouse city
+TX,4834088,Hillsboro,incorporated,25,A,8221,"Hillsboro, TX",0,266,0,0,Hillsboro city
+TX,4859336,Prairie View,incorporated,25,A,8184,"Prairie View, TX",0,267,0,0,Prairie View city
+TX,4836092,Iowa Colony,incorporated,47,A,8154,"Iowa Colony, TX",0,268,0,0,Iowa Colony village
+TX,4839448,Kirby,incorporated,25,A,8142,"Kirby, TX",0,269,0,0,Kirby city
+TX,4818092,Cuero,incorporated,25,A,8128,"Cuero, TX",0,270,0,0,Cuero city
+TX,4844116,Los Fresnos,incorporated,25,A,8114,"Los Fresnos, TX",0,271,0,0,Los Fresnos city
+TX,4803600,Aransas Pass,incorporated,25,A,7941,"Aransas Pass, TX",0,272,0,0,Aransas Pass city
+TX,4837612,Jersey Village,incorporated,25,A,7921,"Jersey Village, TX",0,273,0,0,Jersey Village city
+TX,4871156,Sunnyvale,incorporated,43,A,7893,"Sunnyvale, TX",0,274,0,0,Sunnyvale town
+TX,4838080,Joshua,incorporated,25,A,7891,"Joshua, TX",0,275,0,0,Joshua city
+TX,4848936,Monahans,incorporated,25,A,7836,"Monahans, TX",0,276,0,0,Monahans city
+TX,4840516,Lake Dallas,incorporated,25,A,7708,"Lake Dallas, TX",0,277,0,0,Lake Dallas city
+TX,4859748,Providence Village,incorporated,43,A,7691,"Providence Village, TX",0,278,0,0,Providence Village town
+TX,4849068,Mont Belvieu,incorporated,25,A,7654,"Mont Belvieu, TX",0,279,0,0,Mont Belvieu city
+TX,4862384,River Oaks,incorporated,25,A,7646,"River Oaks, TX",0,280,0,0,River Oaks city
+TX,4850472,Navasota,incorporated,25,A,7643,"Navasota, TX",0,281,0,0,Navasota city
+TX,4845012,Lucas,incorporated,25,A,7612,"Lucas, TX",0,282,0,0,Lucas city
+TX,4815436,Cleveland,incorporated,25,A,7471,"Cleveland, TX",0,283,0,0,Cleveland city
+TX,4801600,Alamo Heights,incorporated,25,A,7357,"Alamo Heights, TX",0,284,0,0,Alamo Heights city
+TX,4856384,Pearsall,incorporated,25,A,7325,"Pearsall, TX",0,285,0,0,Pearsall city
+TX,4834220,Hitchcock,incorporated,25,A,7301,"Hitchcock, TX",0,286,0,0,Hitchcock city
+TX,4841188,Lampasas,incorporated,25,A,7291,"Lampasas, TX",0,287,0,0,Lampasas city
+TX,4826160,Floresville,incorporated,25,A,7203,"Floresville, TX",0,288,0,0,Floresville city
+TX,4830116,Gonzales,incorporated,25,A,7165,"Gonzales, TX",0,289,0,0,Gonzales city
+TX,4846584,Marble Falls,incorporated,25,A,7037,"Marble Falls, TX",0,290,0,0,Marble Falls city
+TX,4840168,Lacy-Lakeview,incorporated,25,A,6988,"Lacy-Lakeview, TX",0,291,0,0,Lacy-Lakeview city
+TX,4866764,Seminole,incorporated,25,A,6988,"Seminole, TX",0,292,0,0,Seminole city
+TX,4867832,Silsbee,incorporated,25,A,6935,"Silsbee, TX",0,293,0,0,Silsbee city
+TX,4847916,Mexia,incorporated,25,A,6893,"Mexia, TX",0,294,0,0,Mexia city
+TX,4837420,Jasper,incorporated,25,A,6884,"Jasper, TX",0,295,0,0,Jasper city
+TX,4866464,Sealy,incorporated,25,A,6839,"Sealy, TX",0,296,0,0,Sealy city
+TX,4840204,La Feria,incorporated,25,A,6817,"La Feria, TX",0,297,0,0,La Feria city
+TX,4838488,Kaufman,incorporated,25,A,6797,"Kaufman, TX",0,298,0,0,Kaufman city
+TX,4813108,Carthage,incorporated,25,A,6569,"Carthage, TX",0,299,0,0,Carthage city
+TX,4819528,Decatur,incorporated,25,A,6538,"Decatur, TX",0,300,0,0,Decatur city
+TX,4836104,Iowa Park,incorporated,25,A,6535,"Iowa Park, TX",0,301,0,0,Iowa Park city
+TX,4856696,Penitas,incorporated,25,A,6460,"Penitas, TX",0,302,0,0,Penitas city
+TX,4811464,Burnet,incorporated,25,A,6436,"Burnet, TX",0,303,0,0,Burnet city
+TX,4879408,Willis,incorporated,25,A,6431,"Willis, TX",0,304,0,0,Willis city
+TX,4838548,Keene,incorporated,25,A,6387,"Keene, TX",0,305,0,0,Keene city
+TX,4818020,Crystal City,incorporated,25,A,6354,"Crystal City, TX",0,306,0,0,Crystal City city
+TX,4817744,Crockett,incorporated,25,A,6332,"Crockett, TX",0,307,0,0,Crockett city
+TX,4839004,Kermit,incorporated,25,A,6267,"Kermit, TX",0,308,0,0,Kermit city
+TX,4878436,White Oak,incorporated,25,A,6225,"White Oak, TX",0,309,0,0,White Oak city
+TX,4831592,Gun Barrel City,incorporated,25,A,6190,"Gun Barrel City, TX",0,310,0,0,Gun Barrel City city
+TX,4824912,Everman,incorporated,25,A,6154,"Everman, TX",0,311,0,0,Everman city
+TX,4829660,Gladewater,incorporated,25,A,6134,"Gladewater, TX",0,312,0,0,Gladewater city
+TX,4842820,Lindale,incorporated,25,A,6059,"Lindale, TX",0,313,0,0,Lindale city
+TX,4802104,Alpine,incorporated,25,A,6035,"Alpine, TX",0,314,0,0,Alpine city
+TX,4822720,Edna,incorporated,25,A,5987,"Edna, TX",0,315,0,0,Edna city
+TX,4876096,Wake Village,incorporated,25,A,5945,"Wake Village, TX",0,316,0,0,Wake Village city
+TX,4843024,Littlefield,incorporated,25,A,5943,"Littlefield, TX",0,317,0,0,Littlefield city
+TX,4810264,Bridgeport,incorporated,25,A,5923,"Bridgeport, TX",0,318,0,0,Bridgeport city
+TX,4851708,Nolanville,incorporated,25,A,5917,"Nolanville, TX",0,319,0,0,Nolanville city
+TX,4880560,Yoakum,incorporated,25,A,5908,"Yoakum, TX",0,320,0,0,Yoakum city
+TX,4879672,Windcrest,incorporated,25,A,5865,"Windcrest, TX",0,321,0,0,Windcrest city
+TX,4868180,Slaton,incorporated,25,A,5858,"Slaton, TX",0,322,0,0,Slaton city
+TX,4814668,Childress,incorporated,25,A,5737,"Childress, TX",0,323,0,0,Childress city
+TX,4811224,Bulverde,incorporated,25,A,5692,"Bulverde, TX",0,324,0,0,Bulverde city
+TX,4824036,Elsa,incorporated,25,A,5668,"Elsa, TX",0,325,0,0,Elsa city
+TX,4843132,Livingston,incorporated,43,A,5640,"Livingston, TX",0,326,0,0,Livingston town
+TX,4835612,Hutchins,incorporated,25,A,5607,"Hutchins, TX",0,327,0,0,Hutchins city
+TX,4845096,Luling,incorporated,25,A,5599,"Luling, TX",0,328,0,0,Luling city
+TX,4879972,Wolfforth,incorporated,25,A,5521,"Wolfforth, TX",0,329,0,0,Wolfforth city
+TX,4868036,Sinton,incorporated,25,A,5504,"Sinton, TX",0,330,0,0,Sinton city
+TX,4839928,Krum,incorporated,25,A,5483,"Krum, TX",0,331,0,0,Krum city
+TX,4846740,Marlin,incorporated,25,A,5462,"Marlin, TX",0,332,0,0,Marlin city
+TX,4855152,Parker,incorporated,25,A,5462,"Parker, TX",0,333,0,0,Parker city
+TX,4865660,Sansom Park,incorporated,25,A,5454,"Sansom Park, TX",0,334,0,0,Sansom Park city
+TX,4809640,Bowie,incorporated,25,A,5448,"Bowie, TX",0,335,0,0,Bowie city
+TX,4804516,Atlanta,incorporated,25,A,5433,"Atlanta, TX",0,336,0,0,Atlanta city
+TX,4833200,Hempstead,incorporated,25,A,5430,"Hempstead, TX",0,337,0,0,Hempstead city
+TX,4850376,Nassau Bay,incorporated,25,A,5347,"Nassau Bay, TX",0,338,0,0,Nassau Bay city
+TX,4862672,Rockdale,incorporated,25,A,5323,"Rockdale, TX",0,339,0,0,Rockdale city
+TX,4845672,McGregor,incorporated,25,A,5321,"McGregor, TX",0,340,0,0,McGregor city
+TX,4812040,Cameron,incorporated,25,A,5306,"Cameron, TX",0,341,0,0,Cameron city
+TX,4863848,Rusk,incorporated,25,A,5285,"Rusk, TX",0,342,0,0,Rusk city
+TX,4859540,Primera,incorporated,43,A,5257,"Primera, TX",0,343,0,0,Primera town
+TX,4813732,Center,incorporated,25,A,5221,"Center, TX",0,344,0,0,Center city
+TX,4852212,Northlake,incorporated,43,A,5201,"Northlake, TX",0,345,0,0,Northlake town
+TX,4810132,Breckenridge,incorporated,25,A,5187,"Breckenridge, TX",0,346,0,0,Breckenridge city
+TX,4849968,Muleshoe,incorporated,25,A,5160,"Muleshoe, TX",0,347,0,0,Muleshoe city
+TX,4830584,Granite Shoals,incorporated,25,A,5129,"Granite Shoals, TX",0,348,0,0,Granite Shoals city
+TX,4809916,Brady,incorporated,25,A,5118,"Brady, TX",0,349,0,0,Brady city
+TX,4865344,Sandy Oaks,incorporated,25,A,5075,"Sandy Oaks, TX",0,350,0,0,Sandy Oaks city
+TX,4810636,Brookshire,incorporated,25,A,5066,"Brookshire, TX",0,351,0,0,Brookshire city
+TX,4872296,Terrell Hills,incorporated,25,A,5045,"Terrell Hills, TX",0,352,0,0,Terrell Hills city
+TX,4858892,Port Isabel,incorporated,25,A,5028,"Port Isabel, TX",0,353,0,0,Port Isabel city
+TX,4804600,Aubrey,incorporated,25,A,5006,"Aubrey, TX",0,354,0,0,Aubrey city
+TX,4879576,Wilmer,incorporated,25,A,4974,"Wilmer, TX",0,355,0,0,Wilmer city
+TX,4829432,Giddings,incorporated,25,A,4969,"Giddings, TX",0,356,0,0,Giddings city
+TX,4879492,Willow Park,incorporated,25,A,4936,"Willow Park, TX",0,357,0,0,Willow Park city
+TX,4812988,Carrizo Springs,incorporated,25,A,4892,"Carrizo Springs, TX",0,358,0,0,Carrizo Springs city
+TX,4801744,Aledo,incorporated,25,A,4858,"Aledo, TX",0,359,0,0,Aledo city
+TX,4835228,Hudson,incorporated,25,A,4849,"Hudson, TX",0,360,0,0,Hudson city
+TX,4829564,Gilmer,incorporated,25,A,4843,"Gilmer, TX",0,361,0,0,Gilmer city
+TX,4848648,Mineola,incorporated,25,A,4823,"Mineola, TX",0,362,0,0,Mineola city
+TX,4859636,Progreso,incorporated,25,A,4807,"Progreso, TX",0,363,0,0,Progreso city
+TX,4859012,Post,incorporated,25,A,4790,"Post, TX",0,364,0,0,Post city
+TX,4861904,Richwood,incorporated,25,A,4781,"Richwood, TX",0,365,0,0,Richwood city
+TX,4847337,Meadows Place,incorporated,25,A,4767,"Meadows Place, TX",0,366,0,0,Meadows Place city
+TX,4802260,Alvarado,incorporated,25,A,4739,"Alvarado, TX",0,367,0,0,Alvarado city
+TX,4833476,Hickory Creek,incorporated,43,A,4718,"Hickory Creek, TX",0,368,0,0,Hickory Creek town
+TX,4841056,Lake Worth,incorporated,25,A,4711,"Lake Worth, TX",0,369,0,0,Lake Worth city
+TX,4821424,Dripping Springs,incorporated,25,A,4650,"Dripping Springs, TX",0,370,0,0,Dripping Springs city
+TX,4849392,Morgan's Point Resort,incorporated,25,A,4636,"Morgan's Point Resort, TX",0,371,0,0,Morgan's Point Resort city
+TX,4850808,New Boston,incorporated,25,A,4612,"New Boston, TX",0,372,0,0,New Boston city
+TX,4825368,Falfurrias,incorporated,25,A,4609,"Falfurrias, TX",0,373,0,0,Falfurrias city
+TX,4832972,Hearne,incorporated,25,A,4544,"Hearne, TX",0,374,0,0,Hearne city
+TX,4873868,Tulia,incorporated,25,A,4473,"Tulia, TX",0,375,0,0,Tulia city
+TX,4819984,Denver City,incorporated,43,A,4470,"Denver City, TX",0,376,0,0,Denver City town
+TX,4841800,Lavon,incorporated,25,A,4469,"Lavon, TX",0,377,0,0,Lavon city
+TX,4820308,Diboll,incorporated,25,A,4457,"Diboll, TX",0,378,0,0,Diboll city
+TX,4840384,La Joya,incorporated,25,A,4457,"La Joya, TX",0,379,0,0,La Joya city
+TX,4862138,Rio Bravo,incorporated,25,A,4450,"Rio Bravo, TX",0,380,0,0,Rio Bravo city
+TX,4845996,Madisonville,incorporated,25,A,4420,"Madisonville, TX",0,381,0,0,Madisonville city
+TX,4838332,Justin,incorporated,25,A,4409,"Justin, TX",0,382,0,0,Justin city
+TX,4803768,Argyle,incorporated,25,A,4403,"Argyle, TX",0,383,0,0,Argyle city
+TX,4854684,Palacios,incorporated,25,A,4395,"Palacios, TX",0,384,0,0,Palacios city
+TX,4840276,La Grange,incorporated,25,A,4391,"La Grange, TX",0,385,0,0,La Grange city
+TX,4835480,Hunters Creek Village,incorporated,25,A,4385,"Hunters Creek Village, TX",0,386,0,0,Hunters Creek Village city
+TX,4857476,Pilot Point,incorporated,25,A,4381,"Pilot Point, TX",0,387,0,0,Pilot Point city
+TX,4874924,Van Alstyne,incorporated,25,A,4369,"Van Alstyne, TX",0,388,0,0,Van Alstyne city
+TX,4875236,Venus,incorporated,43,A,4361,"Venus, TX",0,389,0,0,Venus town
+TX,4853130,Oak Point,incorporated,25,A,4357,"Oak Point, TX",0,390,0,0,Oak Point city
+TX,4857908,Pittsburg,incorporated,25,A,4335,"Pittsburg, TX",0,391,0,0,Pittsburg city
+TX,4847040,Mathis,incorporated,25,A,4333,"Mathis, TX",0,392,0,0,Mathis city
+TX,4820152,Devine,incorporated,25,A,4324,"Devine, TX",0,393,0,0,Devine city
+TX,4854444,Ovilla,incorporated,25,A,4304,"Ovilla, TX",0,394,0,0,Ovilla city
+TX,4831904,Hallsville,incorporated,25,A,4277,"Hallsville, TX",0,395,0,0,Hallsville city
+TX,4834862,Horseshoe Bay,incorporated,25,A,4257,"Horseshoe Bay, TX",0,396,0,0,Horseshoe Bay city
+TX,4812496,Canton,incorporated,25,A,4229,"Canton, TX",0,397,0,0,Canton city
+TX,4869830,Spring Valley Village,incorporated,25,A,4229,"Spring Valley Village, TX",0,398,0,0,Spring Valley Village city
+TX,4816192,Comanche,incorporated,25,A,4211,"Comanche, TX",0,399,0,0,Comanche city
+TX,4807432,Bellville,incorporated,25,A,4206,"Bellville, TX",0,400,0,0,Bellville city
+TX,4828248,Garden Ridge,incorporated,25,A,4186,"Garden Ridge, TX",0,401,0,0,Garden Ridge city
+TX,4837168,Jacksboro,incorporated,25,A,4184,"Jacksboro, TX",0,402,0,0,Jacksboro city
+TX,4820464,Dimmitt,incorporated,25,A,4171,"Dimmitt, TX",0,403,0,0,Dimmitt city
+TX,4827660,Friona,incorporated,25,A,4171,"Friona, TX",0,404,0,0,Friona city
+TX,4838116,Jourdanton,incorporated,25,A,4094,"Jourdanton, TX",0,405,0,0,Jourdanton city
+TX,4878532,Whitesboro,incorporated,25,A,4074,"Whitesboro, TX",0,406,0,0,Whitesboro city
+TX,4845324,Mabank,incorporated,43,A,4050,"Mabank, TX",0,407,0,0,Mabank town
+TX,4811836,Caldwell,incorporated,25,A,3993,"Caldwell, TX",0,408,0,0,Caldwell city
+TX,4816120,Colorado City,incorporated,25,A,3991,"Colorado City, TX",0,409,0,0,Colorado City city
+TX,4813276,Castle Hills,incorporated,25,A,3978,"Castle Hills, TX",0,410,0,0,Castle Hills city
+TX,4868456,Smithville,incorporated,25,A,3922,"Smithville, TX",0,411,0,0,Smithville city
+TX,4815916,Coleman,incorporated,25,A,3912,"Coleman, TX",0,412,0,0,Coleman city
+TX,4870868,Sullivan City,incorporated,25,A,3908,"Sullivan City, TX",0,413,0,0,Sullivan City city
+TX,4815004,Cisco,incorporated,25,A,3883,"Cisco, TX",0,414,0,0,Cisco city
+TX,4817504,Crandall,incorporated,25,A,3860,"Crandall, TX",0,415,0,0,Crandall city
+TX,4877746,Weston Lakes,incorporated,25,A,3853,"Weston Lakes, TX",0,416,0,0,Weston Lakes city
+TX,4811300,Bunker Hill Village,incorporated,25,A,3822,"Bunker Hill Village, TX",0,417,0,0,Bunker Hill Village city
+TX,4815796,Cockrell Hill,incorporated,25,A,3815,"Cockrell Hill, TX",0,418,0,0,Cockrell Hill city
+TX,4850352,Nash,incorporated,25,A,3814,"Nash, TX",0,419,0,0,Nash city
+TX,4815676,Clyde,incorporated,25,A,3811,"Clyde, TX",0,420,0,0,Clyde city
+TX,4822588,Edgecliff Village,incorporated,43,A,3788,"Edgecliff Village, TX",0,421,0,0,Edgecliff Village town
+TX,4865180,San Diego,incorporated,25,A,3748,"San Diego, TX",0,422,0,0,San Diego city
+TX,4879564,Wills Point,incorporated,25,A,3747,"Wills Point, TX",0,423,0,0,Wills Point city
+TX,4817216,Cotulla,incorporated,25,A,3718,"Cotulla, TX",0,424,0,0,Cotulla city
+TX,4871960,Taylor Lake Village,incorporated,25,A,3704,"Taylor Lake Village, TX",0,425,0,0,Taylor Lake Village city
+TX,4816168,Columbus,incorporated,25,A,3699,"Columbus, TX",0,426,0,0,Columbus city
+TX,4803432,Anthony,incorporated,43,A,3671,"Anthony, TX",0,427,0,0,Anthony town
+TX,4842664,Liberty Hill,incorporated,25,A,3646,"Liberty Hill, TX",0,428,0,0,Liberty Hill city
+TX,4877416,West Columbia,incorporated,25,A,3644,"West Columbia, TX",0,429,0,0,West Columbia city
+TX,4831280,Groesbeck,incorporated,25,A,3631,"Groesbeck, TX",0,430,0,0,Groesbeck city
+TX,4871492,Sweeny,incorporated,25,A,3626,"Sweeny, TX",0,431,0,0,Sweeny city
+TX,4805456,Ballinger,incorporated,25,A,3619,"Ballinger, TX",0,432,0,0,Ballinger city
+TX,4825488,Farmersville,incorporated,25,A,3612,"Farmersville, TX",0,433,0,0,Farmersville city
+TX,4822132,Eastland,incorporated,25,A,3609,"Eastland, TX",0,434,0,0,Eastland city
+TX,4835084,Howe,incorporated,43,A,3571,"Howe, TX",0,435,0,0,Howe town
+TX,4845804,McLendon-Chisholm,incorporated,25,A,3562,"McLendon-Chisholm, TX",0,436,0,0,McLendon-Chisholm city
+TX,4867268,Shavano Park,incorporated,25,A,3524,"Shavano Park, TX",0,437,0,0,Shavano Park city
+TX,4840336,Laguna Vista,incorporated,43,A,3520,"Laguna Vista, TX",0,438,0,0,Laguna Vista town
+TX,4867400,Shenandoah,incorporated,25,A,3499,"Shenandoah, TX",0,439,0,0,Shenandoah city
+TX,4817516,Crane,incorporated,25,A,3478,"Crane, TX",0,440,0,0,Crane city
+TX,4838860,Kenedy,incorporated,25,A,3473,"Kenedy, TX",0,441,0,0,Kenedy city
+TX,4815472,Clifton,incorporated,25,A,3465,"Clifton, TX",0,442,0,0,Clifton city
+TX,4877752,West Orange,incorporated,25,A,3459,"West Orange, TX",0,443,0,0,West Orange city
+TX,4879816,Winnsboro,incorporated,25,A,3455,"Winnsboro, TX",0,444,0,0,Winnsboro city
+TX,4861592,Reno,incorporated,25,A,3454,"Reno, TX",0,445,0,0,Reno city
+TX,4877632,West Lake Hills,incorporated,25,A,3444,"West Lake Hills, TX",0,446,0,0,West Lake Hills city
+TX,4821844,Eagle Lake,incorporated,25,A,3442,"Eagle Lake, TX",0,447,0,0,Eagle Lake city
+TX,4872020,Teague,incorporated,25,A,3384,"Teague, TX",0,448,0,0,Teague city
+TX,4821484,Dublin,incorporated,25,A,3359,"Dublin, TX",0,449,0,0,Dublin city
+TX,4843144,Llano,incorporated,25,A,3325,"Llano, TX",0,450,0,0,Llano city
+TX,4811212,Bullard,incorporated,43,A,3318,"Bullard, TX",0,451,0,0,Bullard town
+TX,4814224,Chandler,incorporated,25,A,3275,"Chandler, TX",0,452,0,0,Chandler city
+TX,4820428,Dilley,incorporated,25,A,3274,"Dilley, TX",0,453,0,0,Dilley city
+TX,4859396,Presidio,incorporated,25,A,3264,"Presidio, TX",0,454,0,0,Presidio city
+TX,4806200,Beach City,incorporated,25,A,3221,"Beach City, TX",0,455,0,0,Beach City city
+TX,4833578,Hideaway,incorporated,25,A,3201,"Hideaway, TX",0,456,0,0,Hideaway city
+TX,4808392,Bishop,incorporated,25,A,3174,"Bishop, TX",0,457,0,0,Bishop city
+TX,4869476,Spearman,incorporated,25,A,3171,"Spearman, TX",0,458,0,0,Spearman city
+TX,4834628,Hollywood Park,incorporated,43,A,3130,"Hollywood Park, TX",0,459,0,0,Hollywood Park town
+TX,4857800,Piney Point Village,incorporated,25,A,3128,"Piney Point Village, TX",0,460,0,0,Piney Point Village city
+TX,4865648,San Saba,incorporated,25,A,3117,"San Saba, TX",0,461,0,0,San Saba city
+TX,4833284,Henrietta,incorporated,25,A,3111,"Henrietta, TX",0,462,0,0,Henrietta city
+TX,4838452,Karnes City,incorporated,25,A,3111,"Karnes City, TX",0,463,0,0,Karnes City city
+TX,4830476,Grand Saline,incorporated,25,A,3107,"Grand Saline, TX",0,464,0,0,Grand Saline city
+TX,4823164,El Lago,incorporated,25,A,3090,"El Lago, TX",0,465,0,0,El Lago city
+TX,4832696,Haskell,incorporated,25,A,3089,"Haskell, TX",0,466,0,0,Haskell city
+TX,4850628,Needville,incorporated,25,A,3089,"Needville, TX",0,467,0,0,Needville city
+TX,4821904,Early,incorporated,25,A,3087,"Early, TX",0,468,0,0,Early city
+TX,4869800,Springtown,incorporated,25,A,3064,"Springtown, TX",0,469,0,0,Springtown city
+TX,4811692,Cactus,incorporated,25,A,3057,"Cactus, TX",0,470,0,0,Cactus city
+TX,4853190,Oak Ridge North,incorporated,25,A,3057,"Oak Ridge North, TX",0,471,0,0,Oak Ridge North city
+TX,4821028,Double Oak,incorporated,43,A,3054,"Double Oak, TX",0,472,0,0,Double Oak town
+TX,4803336,Annetta,incorporated,43,A,3041,"Annetta, TX",0,473,0,0,Annetta town
+TX,4854048,Onalaska,incorporated,25,A,3020,"Onalaska, TX",0,474,0,0,Onalaska city
+TX,4819570,DeCordova,incorporated,25,A,3007,"DeCordova, TX",0,475,0,0,DeCordova city
+TX,4854000,Olney,incorporated,25,A,3007,"Olney, TX",0,476,0,0,Olney city
+TX,4851648,Nocona,incorporated,25,A,3002,"Nocona, TX",0,477,0,0,Nocona city
+TX,4816204,Combes,incorporated,43,A,2999,"Combes, TX",0,478,0,0,Combes town
+TX,4831715,Hackberry,incorporated,43,A,2973,"Hackberry, TX",0,479,0,0,Hackberry town
+TX,4808212,Big Lake,incorporated,25,A,2965,"Big Lake, TX",0,480,0,0,Big Lake city
+TX,4867136,Shallowater,incorporated,25,A,2964,"Shallowater, TX",0,481,0,0,Shallowater city
+TX,4813312,Castroville,incorporated,25,A,2954,"Castroville, TX",0,482,0,0,Castroville city
+TX,4845288,Lytle,incorporated,25,A,2914,"Lytle, TX",0,483,0,0,Lytle city
+TX,4869980,Stamford,incorporated,25,A,2907,"Stamford, TX",0,484,0,0,Stamford city
+TX,4858808,Port Aransas,incorporated,25,A,2904,"Port Aransas, TX",0,485,0,0,Port Aransas city
+TX,4831952,Hamilton,incorporated,25,A,2895,"Hamilton, TX",0,486,0,0,Hamilton city
+TX,4861604,Reno,incorporated,25,A,2878,"Reno, TX",0,487,0,0,Reno city
+TX,4810072,Brazoria,incorporated,25,A,2866,"Brazoria, TX",0,488,0,0,Brazoria city
+TX,4800160,Abernathy,incorporated,25,A,2865,"Abernathy, TX",0,489,0,0,Abernathy city
+TX,4815160,Clarksville,incorporated,25,A,2857,"Clarksville, TX",0,490,0,0,Clarksville city
+TX,4825104,Fairfield,incorporated,25,A,2850,"Fairfield, TX",0,491,0,0,Fairfield city
+TX,4879624,Wimberley,incorporated,25,A,2839,"Wimberley, TX",0,492,0,0,Wimberley city
+TX,4860544,Rancho Viejo,incorporated,43,A,2838,"Rancho Viejo, TX",0,493,0,0,Rancho Viejo town
+TX,4841788,La Villa,incorporated,25,A,2804,"La Villa, TX",0,494,0,0,La Villa city
+TX,4871684,Taft,incorporated,25,A,2801,"Taft, TX",0,495,0,0,Taft city
+TX,4859084,Poteet,incorporated,25,A,2795,"Poteet, TX",0,496,0,0,Poteet city
+TX,4825752,Ferris,incorporated,25,A,2788,"Ferris, TX",0,497,0,0,Ferris city
+TX,4867100,Shady Shores,incorporated,43,A,2764,"Shady Shores, TX",0,498,0,0,Shady Shores town
+TX,4805384,Balcones Heights,incorporated,25,A,2746,"Balcones Heights, TX",0,499,0,0,Balcones Heights city
+TX,4822528,Edcouch,incorporated,25,A,2732,"Edcouch, TX",0,500,0,0,Edcouch city
+TX,4831868,Hallettsville,incorporated,25,A,2731,"Hallettsville, TX",0,501,0,0,Hallettsville city
+TX,4861436,Refugio,incorporated,43,A,2712,"Refugio, TX",0,502,0,0,Refugio town
+TX,4875668,Vinton,incorporated,47,A,2684,"Vinton, TX",0,503,0,0,Vinton village
+TX,4876228,Waller,incorporated,25,A,2682,"Waller, TX",0,504,0,0,Waller city
+TX,4826268,Floydada,incorporated,25,A,2675,"Floydada, TX",0,505,0,0,Floydada city
+TX,4874912,Van,incorporated,25,A,2664,"Van, TX",0,506,0,0,Van city
+TX,4829876,Glen Rose,incorporated,25,A,2659,"Glen Rose, TX",0,507,0,0,Glen Rose city
+TX,4870040,Stanton,incorporated,25,A,2657,"Stanton, TX",0,508,0,0,Stanton city
+TX,4866188,Schulenburg,incorporated,25,A,2633,"Schulenburg, TX",0,509,0,0,Schulenburg city
+TX,4872578,The Hills,incorporated,47,A,2613,"The Hills, TX",0,510,0,0,The Hills village
+TX,4854780,Palmhurst,incorporated,25,A,2601,"Palmhurst, TX",0,511,0,0,Palmhurst city
+TX,4824552,Escobares,incorporated,25,A,2588,"Escobares, TX",0,512,0,0,Escobares city
+TX,4878076,Westworth Village,incorporated,25,A,2585,"Westworth Village, TX",0,513,0,0,Westworth Village city
+TX,4866968,Seymour,incorporated,25,A,2575,"Seymour, TX",0,514,0,0,Seymour city
+TX,4855020,Pantego,incorporated,43,A,2568,"Pantego, TX",0,515,0,0,Pantego town
+TX,4822905,El Cenizo,incorporated,25,A,2540,"El Cenizo, TX",0,516,0,0,El Cenizo city
+TX,4877332,West,incorporated,25,A,2531,"West, TX",0,517,0,0,West city
+TX,4818464,Daingerfield,incorporated,25,A,2522,"Daingerfield, TX",0,518,0,0,Daingerfield city
+TX,4834736,Hooks,incorporated,25,A,2518,"Hooks, TX",0,519,0,0,Hooks city
+TX,4855008,Panorama Village,incorporated,25,A,2515,"Panorama Village, TX",0,520,0,0,Panorama Village city
+TX,4868756,Sonora,incorporated,25,A,2502,"Sonora, TX",0,521,0,0,Sonora city
+TX,4871756,Talty,incorporated,43,A,2500,"Talty, TX",0,522,0,0,Talty town
+TX,4849860,Mount Vernon,incorporated,43,A,2491,"Mount Vernon, TX",0,523,0,0,Mount Vernon town
+TX,4859132,Pottsboro,incorporated,43,A,2488,"Pottsboro, TX",0,524,0,0,Pottsboro town
+TX,4847796,Merkel,incorporated,43,A,2471,"Merkel, TX",0,525,0,0,Merkel town
+TX,4827432,Freer,incorporated,25,A,2461,"Freer, TX",0,526,0,0,Freer city
+TX,4859384,Premont,incorporated,25,A,2455,"Premont, TX",0,527,0,0,Premont city
+TX,4838248,Junction,incorporated,25,A,2451,"Junction, TX",0,528,0,0,Junction city
+TX,4865768,Santa Rosa,incorporated,43,A,2450,"Santa Rosa, TX",0,529,0,0,Santa Rosa town
+TX,4858664,Ponder,incorporated,43,A,2442,"Ponder, TX",0,530,0,0,Ponder town
+TX,4880212,Woodville,incorporated,43,A,2403,"Woodville, TX",0,531,0,0,Woodville town
+TX,4864268,Salado,incorporated,47,A,2394,"Salado, TX",0,532,0,0,Salado village
+TX,4808860,Blue Mound,incorporated,25,A,2393,"Blue Mound, TX",0,533,0,0,Blue Mound city
+TX,4854744,Palmer,incorporated,43,A,2393,"Palmer, TX",0,534,0,0,Palmer town
+TX,4854960,Panhandle,incorporated,43,A,2378,"Panhandle, TX",0,535,0,0,Panhandle town
+TX,4871708,Tahoka,incorporated,25,A,2375,"Tahoka, TX",0,536,0,0,Tahoka city
+TX,4873748,Troy,incorporated,25,A,2375,"Troy, TX",0,537,0,0,Troy city
+TX,4833068,Hedwig Village,incorporated,25,A,2370,"Hedwig Village, TX",0,538,0,0,Hedwig Village city
+TX,4838020,Jonestown,incorporated,25,A,2365,"Jonestown, TX",0,539,0,0,Jonestown city
+TX,4846056,Magnolia,incorporated,25,A,2359,"Magnolia, TX",0,540,0,0,Magnolia city
+TX,4879876,Winters,incorporated,25,A,2345,"Winters, TX",0,541,0,0,Winters city
+TX,4873664,Trinity,incorporated,25,A,2343,"Trinity, TX",0,542,0,0,Trinity city
+TX,4851588,Nixon,incorporated,25,A,2341,"Nixon, TX",0,543,0,0,Nixon city
+TX,4812412,Canadian,incorporated,25,A,2339,"Canadian, TX",0,544,0,0,Canadian city
+TX,4860632,Ranger,incorporated,25,A,2300,"Ranger, TX",0,545,0,0,Ranger city
+TX,4803372,Anson,incorporated,25,A,2294,"Anson, TX",0,546,0,0,Anson city
+TX,4819084,Dalworthington Gardens,incorporated,25,A,2293,"Dalworthington Gardens, TX",0,547,0,0,Dalworthington Gardens city
+TX,4822984,Electra,incorporated,25,A,2292,"Electra, TX",0,548,0,0,Electra city
+TX,4860044,Quanah,incorporated,25,A,2279,"Quanah, TX",0,549,0,0,Quanah city
+TX,4854432,Overton,incorporated,25,A,2275,"Overton, TX",0,550,0,0,Overton city
+TX,4819672,De Leon,incorporated,25,A,2258,"De Leon, TX",0,551,0,0,De Leon city
+TX,4853376,Odem,incorporated,25,A,2255,"Odem, TX",0,552,0,0,Odem city
+TX,4845228,Lyford,incorporated,25,A,2249,"Lyford, TX",0,553,0,0,Lyford city
+TX,4816216,Combine,incorporated,25,A,2245,"Combine, TX",0,554,0,0,Combine city
+TX,4857608,Pinehurst,incorporated,25,A,2232,"Pinehurst, TX",0,555,0,0,Pinehurst city
+TX,4864172,St. Hedwig,incorporated,43,A,2227,"St. Hedwig, TX",0,556,0,0,St. Hedwig town
+TX,4821988,East Bernard,incorporated,25,A,2218,"East Bernard, TX",0,557,0,0,East Bernard city
+TX,4835732,Idalou,incorporated,25,A,2193,"Idalou, TX",0,558,0,0,Idalou city
+TX,4853988,Olmos Park,incorporated,25,A,2180,"Olmos Park, TX",0,559,0,0,Olmos Park city
+TX,4846224,Malakoff,incorporated,25,A,2179,"Malakoff, TX",0,560,0,0,Malakoff city
+TX,4873352,Tool,incorporated,25,A,2175,"Tool, TX",0,561,0,0,Tool city
+TX,4835254,Hudson Oaks,incorporated,25,A,2174,"Hudson Oaks, TX",0,562,0,0,Hudson Oaks city
+TX,4829348,George West,incorporated,25,A,2171,"George West, TX",0,563,0,0,George West city
+TX,4866440,Seagraves,incorporated,25,A,2153,"Seagraves, TX",0,564,0,0,Seagraves city
+TX,4867640,Shiner,incorporated,25,A,2127,"Shiner, TX",0,565,0,0,Shiner city
+TX,4846968,Mason,incorporated,25,A,2121,"Mason, TX",0,566,0,0,Mason city
+TX,4838068,Josephine,incorporated,25,A,2119,"Josephine, TX",0,567,0,0,Josephine city
+TX,4867424,Shepherd,incorporated,25,A,2105,"Shepherd, TX",0,568,0,0,Shepherd city
+TX,4877020,Weimar,incorporated,25,A,2076,"Weimar, TX",0,569,0,0,Weimar city
+TX,4869140,South Padre Island,incorporated,43,A,2066,"South Padre Island, TX",0,570,0,0,South Padre Island town
+TX,4810197,Briarcliff,incorporated,47,A,2062,"Briarcliff, TX",0,571,0,0,Briarcliff village
+TX,4831820,Hale Center,incorporated,25,A,2062,"Hale Center, TX",0,572,0,0,Hale Center city
+TX,4831616,Gunter,incorporated,25,A,2060,"Gunter, TX",0,573,0,0,Gunter city
+TX,4856640,Pelican Bay,incorporated,25,A,2049,"Pelican Bay, TX",0,574,0,0,Pelican Bay city
+TX,4847616,Memphis,incorporated,25,A,2048,"Memphis, TX",0,575,0,0,Memphis city
+TX,4839460,Kirbyville,incorporated,25,A,2036,"Kirbyville, TX",0,576,0,0,Kirbyville city
+TX,4803708,Arcola,incorporated,25,A,2034,"Arcola, TX",0,577,0,0,Arcola city
+TX,4835492,Huntington,incorporated,25,A,2025,"Huntington, TX",0,578,0,0,Huntington city
+TX,4862180,Rio Hondo,incorporated,25,A,2021,"Rio Hondo, TX",0,579,0,0,Rio Hondo city
+TX,4873724,Troup,incorporated,25,A,2006,"Troup, TX",0,580,0,0,Troup city
+TX,4843066,Little River-Academy,incorporated,25,A,1992,"Little River-Academy, TX",0,581,0,0,Little River-Academy city
+TX,4878664,Whitney,incorporated,43,A,1992,"Whitney, TX",0,582,0,0,Whitney town
+TX,4854012,Olton,incorporated,25,A,1989,"Olton, TX",0,583,0,0,Olton city
+TX,4842352,Leonard,incorporated,25,A,1987,"Leonard, TX",0,584,0,0,Leonard city
+TX,4839868,Kountze,incorporated,25,A,1981,"Kountze, TX",0,585,0,0,Kountze city
+TX,4803144,Anahuac,incorporated,25,A,1980,"Anahuac, TX",0,586,0,0,Anahuac city
+TX,4828080,Ganado,incorporated,25,A,1975,"Ganado, TX",0,587,0,0,Ganado city
+TX,4837984,Jones Creek,incorporated,47,A,1975,"Jones Creek, TX",0,588,0,0,Jones Creek village
+TX,4832720,Haslet,incorporated,25,A,1952,"Haslet, TX",0,589,0,0,Haslet city
+TX,4849128,Montgomery,incorporated,25,A,1948,"Montgomery, TX",0,590,0,0,Montgomery city
+TX,4860188,Quitman,incorporated,25,A,1942,"Quitman, TX",0,591,0,0,Quitman city
+TX,4875032,Van Horn,incorporated,43,A,1941,"Van Horn, TX",0,592,0,0,Van Horn town
+TX,4870544,Stratford,incorporated,25,A,1939,"Stratford, TX",0,593,0,0,Stratford city
+TX,4837072,Italy,incorporated,43,A,1926,"Italy, TX",0,594,0,0,Italy town
+TX,4865024,San Augustine,incorporated,25,A,1920,"San Augustine, TX",0,595,0,0,San Augustine city
+TX,4816564,Cooper,incorporated,25,A,1911,"Cooper, TX",0,596,0,0,Cooper city
+TX,4876636,Waskom,incorporated,25,A,1910,"Waskom, TX",0,597,0,0,Waskom city
+TX,4847330,Meadowlakes,incorporated,25,A,1907,"Meadowlakes, TX",0,598,0,0,Meadowlakes city
+TX,4877152,Wellington,incorporated,25,A,1896,"Wellington, TX",0,599,0,0,Wellington city
+TX,4877896,West Tawakoni,incorporated,25,A,1895,"West Tawakoni, TX",0,600,0,0,West Tawakoni city
+TX,4830512,Grandview,incorporated,25,A,1879,"Grandview, TX",0,601,0,0,Grandview city
+TX,4808104,Beverly Hills,incorporated,25,A,1878,"Beverly Hills, TX",0,602,0,0,Beverly Hills city
+TX,4815112,Clarendon,incorporated,25,A,1877,"Clarendon, TX",0,603,0,0,Clarendon city
+TX,4837528,Jefferson,incorporated,25,A,1875,"Jefferson, TX",0,604,0,0,Jefferson city
+TX,4816036,Collinsville,incorporated,43,A,1866,"Collinsville, TX",0,605,0,0,Collinsville town
+TX,4823272,Elmendorf,incorporated,25,A,1862,"Elmendorf, TX",0,606,0,0,Elmendorf city
+TX,4827696,Fritch,incorporated,25,A,1859,"Fritch, TX",0,607,0,0,Fritch city
+TX,4801648,Albany,incorporated,25,A,1854,"Albany, TX",0,608,0,0,Albany city
+TX,4869272,Southside Place,incorporated,25,A,1835,"Southside Place, TX",0,609,0,0,Southside Place city
+TX,4831964,Hamlin,incorporated,25,A,1831,"Hamlin, TX",0,610,0,0,Hamlin city
+TX,4845432,McCamey,incorporated,25,A,1831,"McCamey, TX",0,611,0,0,McCamey city
+TX,4842844,Linden,incorporated,25,A,1825,"Linden, TX",0,612,0,0,Linden city
+TX,4859096,Poth,incorporated,43,A,1819,"Poth, TX",0,613,0,0,Poth town
+TX,4880584,Yorktown,incorporated,25,A,1810,"Yorktown, TX",0,614,0,0,Yorktown city
+TX,4838776,Kemah,incorporated,25,A,1807,"Kemah, TX",0,615,0,0,Kemah city
+TX,4867160,Shamrock,incorporated,25,A,1789,"Shamrock, TX",0,616,0,0,Shamrock city
+TX,4846620,Marfa,incorporated,25,A,1788,"Marfa, TX",0,617,0,0,Marfa city
+TX,4836032,Ingram,incorporated,25,A,1787,"Ingram, TX",0,618,0,0,Ingram city
+TX,4844020,Lorena,incorporated,25,A,1785,"Lorena, TX",0,619,0,0,Lorena city
+TX,4863044,Roman Forest,incorporated,25,A,1781,"Roman Forest, TX",0,620,0,0,Roman Forest city
+TX,4868828,Sour Lake,incorporated,25,A,1773,"Sour Lake, TX",0,621,0,0,Sour Lake city
+TX,4880058,Woodcreek,incorporated,25,A,1770,"Woodcreek, TX",0,622,0,0,Woodcreek city
+TX,4811116,Buffalo,incorporated,25,A,1767,"Buffalo, TX",0,623,0,0,Buffalo city
+TX,4839916,Krugerville,incorporated,25,A,1766,"Krugerville, TX",0,624,0,0,Krugerville city
+TX,4806060,Bayou Vista,incorporated,25,A,1763,"Bayou Vista, TX",0,625,0,0,Bayou Vista city
+TX,4868708,Somerset,incorporated,25,A,1756,"Somerset, TX",0,626,0,0,Somerset city
+TX,4837396,Jarrell,incorporated,25,A,1753,"Jarrell, TX",0,627,0,0,Jarrell city
+TX,4846824,Mart,incorporated,25,A,1748,"Mart, TX",0,628,0,0,Mart city
+TX,4817852,Cross Roads,incorporated,43,A,1744,"Cross Roads, TX",0,629,0,0,Cross Roads town
+TX,4831064,Gregory,incorporated,25,A,1740,"Gregory, TX",0,630,0,0,Gregory city
+TX,4830056,Goldthwaite,incorporated,25,A,1738,"Goldthwaite, TX",0,631,0,0,Goldthwaite city
+TX,4816636,Copper Canyon,incorporated,43,A,1731,"Copper Canyon, TX",0,632,0,0,Copper Canyon town
+TX,4805768,Bartonville,incorporated,43,A,1725,"Bartonville, TX",0,633,0,0,Bartonville town
+TX,4878628,Whitewright,incorporated,43,A,1725,"Whitewright, TX",0,634,0,0,Whitewright town
+TX,4834700,Honey Grove,incorporated,25,A,1715,"Honey Grove, TX",0,635,0,0,Honey Grove city
+TX,4871180,Sunray,incorporated,25,A,1707,"Sunray, TX",0,636,0,0,Sunray city
+TX,4809628,Bovina,incorporated,25,A,1699,"Bovina, TX",0,637,0,0,Bovina city
+TX,4849464,Morton,incorporated,25,A,1690,"Morton, TX",0,638,0,0,Morton city
+TX,4844308,Lowry Crossing,incorporated,25,A,1689,"Lowry Crossing, TX",0,639,0,0,Lowry Crossing city
+TX,4869548,Splendora,incorporated,25,A,1683,"Splendora, TX",0,640,0,0,Splendora city
+TX,4808536,Blanco,incorporated,25,A,1682,"Blanco, TX",0,641,0,0,Blanco city
+TX,4819120,Danbury,incorporated,25,A,1671,"Danbury, TX",0,642,0,0,Danbury city
+TX,4860356,Ralls,incorporated,25,A,1665,"Ralls, TX",0,643,0,0,Ralls city
+TX,4870340,Stinnett,incorporated,25,A,1650,"Stinnett, TX",0,644,0,0,Stinnett city
+TX,4840744,Lakeside,incorporated,43,A,1649,"Lakeside, TX",0,645,0,0,Lakeside town
+TX,4856156,Patton Village,incorporated,25,A,1647,"Patton Village, TX",0,646,0,0,Patton Village city
+TX,4805732,Bartlett,incorporated,25,A,1633,"Bartlett, TX",0,647,0,0,Bartlett city
+TX,4851372,Newton,incorporated,25,A,1633,"Newton, TX",0,648,0,0,Newton city
+TX,4861700,Rhome,incorporated,25,A,1630,"Rhome, TX",0,649,0,0,Rhome city
+TX,4837780,Johnson City,incorporated,25,A,1627,"Johnson City, TX",0,650,0,0,Johnson City city
+TX,4877620,Westlake,incorporated,43,A,1623,"Westlake, TX",0,651,0,0,Westlake town
+TX,4830080,Goliad,incorporated,25,A,1620,"Goliad, TX",0,652,0,0,Goliad city
+TX,4807864,Bertram,incorporated,25,A,1616,"Bertram, TX",0,653,0,0,Bertram city
+TX,4827288,Franklin,incorporated,25,A,1614,"Franklin, TX",0,654,0,0,Franklin city
+TX,4803696,Archer City,incorporated,25,A,1601,"Archer City, TX",0,655,0,0,Archer City city
+TX,4874216,Uhland,incorporated,25,A,1588,"Uhland, TX",0,656,0,0,Uhland city
+TX,4835300,Hughes Springs,incorporated,25,A,1575,"Hughes Springs, TX",0,657,0,0,Hughes Springs city
+TX,4822960,Eldorado,incorporated,25,A,1574,"Eldorado, TX",0,658,0,0,Eldorado city
+TX,4867688,Shoreacres,incorporated,25,A,1566,"Shoreacres, TX",0,659,0,0,Shoreacres city
+TX,4837084,Itasca,incorporated,25,A,1562,"Itasca, TX",0,660,0,0,Itasca city
+TX,4853115,Oak Leaf,incorporated,25,A,1552,"Oak Leaf, TX",0,661,0,0,Oak Leaf city
+TX,4810648,Brookside Village,incorporated,25,A,1548,"Brookside Village, TX",0,662,0,0,Brookside Village city
+TX,4863782,Runaway Bay,incorporated,25,A,1546,"Runaway Bay, TX",0,663,0,0,Runaway Bay city
+TX,4805552,Bangs,incorporated,25,A,1540,"Bangs, TX",0,664,0,0,Bangs city
+TX,4849932,Muenster,incorporated,25,A,1536,"Muenster, TX",0,665,0,0,Muenster city
+TX,4822612,Edgewood,incorporated,43,A,1530,"Edgewood, TX",0,666,0,0,Edgewood town
+TX,4819648,De Kalb,incorporated,25,A,1527,"De Kalb, TX",0,667,0,0,De Kalb city
+TX,4814404,Charlotte,incorporated,25,A,1524,"Charlotte, TX",0,668,0,0,Charlotte city
+TX,4834532,Holliday,incorporated,25,A,1524,"Holliday, TX",0,669,0,0,Holliday city
+TX,4827888,Fulton,incorporated,43,A,1523,"Fulton, TX",0,670,0,0,Fulton town
+TX,4807420,Bells,incorporated,43,A,1521,"Bells, TX",0,671,0,0,Bells town
+TX,4838992,Kerens,incorporated,25,A,1505,"Kerens, TX",0,672,0,0,Kerens city
+TX,4843252,Lockney,incorporated,43,A,1498,"Lockney, TX",0,673,0,0,Lockney town
+TX,4811716,Caddo Mills,incorporated,25,A,1495,"Caddo Mills, TX",0,674,0,0,Caddo Mills city
+TX,4817768,Crosbyton,incorporated,25,A,1492,"Crosbyton, TX",0,675,0,0,Crosbyton city
+TX,4878208,Wheeler,incorporated,25,A,1487,"Wheeler, TX",0,676,0,0,Wheeler city
+TX,4805336,Baird,incorporated,25,A,1479,"Baird, TX",0,677,0,0,Baird city
+TX,4817036,Corrigan,incorporated,43,A,1477,"Corrigan, TX",0,678,0,0,Corrigan town
+TX,4872872,Three Rivers,incorporated,25,A,1474,"Three Rivers, TX",0,679,0,0,Three Rivers city
+TX,4863008,Rollingwood,incorporated,25,A,1467,"Rollingwood, TX",0,680,0,0,Rollingwood city
+TX,4830632,Grapeland,incorporated,25,A,1465,"Grapeland, TX",0,681,0,0,Grapeland city
+TX,4829972,Godley,incorporated,25,A,1450,"Godley, TX",0,682,0,0,Godley city
+TX,4809448,Booker,incorporated,43,A,1437,"Booker, TX",0,683,0,0,Booker town
+TX,4825548,Farwell,incorporated,25,A,1425,"Farwell, TX",0,684,0,0,Farwell city
+TX,4809748,Boyd,incorporated,43,A,1416,"Boyd, TX",0,685,0,0,Boyd town
+TX,4860140,Quinlan,incorporated,25,A,1414,"Quinlan, TX",0,686,0,0,Quinlan city
+TX,4810828,Bruceville-Eddy,incorporated,25,A,1413,"Bruceville-Eddy, TX",0,687,0,0,Bruceville-Eddy city
+TX,4854798,Palm Valley,incorporated,25,A,1413,"Palm Valley, TX",0,688,0,0,Palm Valley city
+TX,4870376,Stockdale,incorporated,25,A,1413,"Stockdale, TX",0,689,0,0,Stockdale city
+TX,4817208,Cottonwood Shores,incorporated,25,A,1403,"Cottonwood Shores, TX",0,690,0,0,Cottonwood Shores city
+TX,4808812,Blossom,incorporated,25,A,1402,"Blossom, TX",0,691,0,0,Blossom city
+TX,4843684,Lone Star,incorporated,25,A,1400,"Lone Star, TX",0,692,0,0,Lone Star city
+TX,4879948,Wolfe City,incorporated,25,A,1399,"Wolfe City, TX",0,693,0,0,Wolfe City city
+TX,4860080,Queen City,incorporated,25,A,1397,"Queen City, TX",0,694,0,0,Queen City city
+TX,4847760,Meridian,incorporated,25,A,1396,"Meridian, TX",0,695,0,0,Meridian city
+TX,4835180,Hubbard,incorporated,25,A,1394,"Hubbard, TX",0,696,0,0,Hubbard city
+TX,4804672,Aurora,incorporated,25,A,1390,"Aurora, TX",0,697,0,0,Aurora city
+TX,4850316,Naples,incorporated,25,A,1387,"Naples, TX",0,698,0,0,Naples city
+TX,4850920,New Fairview,incorporated,25,A,1386,"New Fairview, TX",0,699,0,0,New Fairview city
+TX,4849200,Moody,incorporated,25,A,1376,"Moody, TX",0,700,0,0,Moody city
+TX,4866908,Seven Points,incorporated,25,A,1370,"Seven Points, TX",0,701,0,0,Seven Points city
+TX,4864004,Sabinal,incorporated,25,A,1364,"Sabinal, TX",0,702,0,0,Sabinal city
+TX,4857968,Plains,incorporated,43,A,1355,"Plains, TX",0,703,0,0,Plains town
+TX,4802284,Alvord,incorporated,43,A,1351,"Alvord, TX",0,704,0,0,Alvord town
+TX,4817648,Cresson,incorporated,25,A,1349,"Cresson, TX",0,705,0,0,Cresson city
+TX,4847628,Menard,incorporated,25,A,1348,"Menard, TX",0,706,0,0,Menard city
+TX,4871924,Tatum,incorporated,25,A,1342,"Tatum, TX",0,707,0,0,Tatum city
+TX,4809868,Brackettville,incorporated,25,A,1341,"Brackettville, TX",0,708,0,0,Brackettville city
+TX,4833548,Hico,incorporated,25,A,1335,"Hico, TX",0,709,0,0,Hico city
+TX,4863464,Rotan,incorporated,25,A,1332,"Rotan, TX",0,710,0,0,Rotan city
+TX,4880044,Woodbranch,incorporated,25,A,1330,"Woodbranch, TX",0,711,0,0,Woodbranch city
+TX,4837112,Ivanhoe,incorporated,25,A,1327,"Ivanhoe, TX",0,712,0,0,Ivanhoe city
+TX,4880176,Woodsboro,incorporated,43,A,1319,"Woodsboro, TX",0,713,0,0,Woodsboro town
+TX,4853824,Old River-Winfree,incorporated,25,A,1315,"Old River-Winfree, TX",0,714,0,0,Old River-Winfree city
+TX,4850760,Nevada,incorporated,25,A,1314,"Nevada, TX",0,715,0,0,Nevada city
+TX,4868720,Somerville,incorporated,25,A,1312,"Somerville, TX",0,716,0,0,Somerville city
+TX,4826028,Flatonia,incorporated,43,A,1308,"Flatonia, TX",0,717,0,0,Flatonia town
+TX,4863188,Rosebud,incorporated,25,A,1296,"Rosebud, TX",0,718,0,0,Rosebud city
+TX,4876240,Wallis,incorporated,25,A,1292,"Wallis, TX",0,719,0,0,Wallis city
+TX,4823140,Elkhart,incorporated,43,A,1287,"Elkhart, TX",0,720,0,0,Elkhart town
+TX,4871060,Sundown,incorporated,25,A,1283,"Sundown, TX",0,721,0,0,Sundown city
+TX,4832816,Hawkins,incorporated,25,A,1274,"Hawkins, TX",0,722,0,0,Hawkins city
+TX,4863176,Roscoe,incorporated,25,A,1271,"Roscoe, TX",0,723,0,0,Roscoe city
+TX,4872776,Thorndale,incorporated,25,A,1263,"Thorndale, TX",0,724,0,0,Thorndale city
+TX,4814704,China,incorporated,25,A,1260,"China, TX",0,725,0,0,China city
+TX,4858586,Point Venture,incorporated,47,A,1260,"Point Venture, TX",0,726,0,0,Point Venture village
+TX,4815328,Clear Lake Shores,incorporated,25,A,1258,"Clear Lake Shores, TX",0,727,0,0,Clear Lake Shores city
+TX,4846848,Martindale,incorporated,25,A,1253,"Martindale, TX",0,728,0,0,Martindale city
+TX,4824216,Emory,incorporated,25,A,1251,"Emory, TX",0,729,0,0,Emory city
+TX,4829408,Gholson,incorporated,25,A,1250,"Gholson, TX",0,730,0,0,Gholson city
+TX,4850040,Munday,incorporated,25,A,1246,"Munday, TX",0,731,0,0,Munday city
+TX,4858448,Plum Grove,incorporated,25,A,1245,"Plum Grove, TX",0,732,0,0,Plum Grove city
+TX,4808224,Big Sandy,incorporated,43,A,1231,"Big Sandy, TX",0,733,0,0,Big Sandy town
+TX,4874732,Valley Mills,incorporated,25,A,1229,"Valley Mills, TX",0,734,0,0,Valley Mills city
+TX,4840288,La Grulla,incorporated,25,A,1222,"La Grulla, TX",0,735,0,0,La Grulla city
+TX,4842532,Lexington,incorporated,43,A,1217,"Lexington, TX",0,736,0,0,Lexington town
+TX,4810756,Brownsboro,incorporated,25,A,1212,"Brownsboro, TX",0,737,0,0,Brownsboro city
+TX,4861736,Rice,incorporated,25,A,1203,"Rice, TX",0,738,0,0,Rice city
+TX,4850400,Natalia,incorporated,25,A,1202,"Natalia, TX",0,739,0,0,Natalia city
+TX,4860672,Ransom Canyon,incorporated,43,A,1189,"Ransom Canyon, TX",0,740,0,0,Ransom Canyon town
+TX,4815196,Claude,incorporated,25,A,1186,"Claude, TX",0,741,0,0,Claude city
+TX,4807528,Benavides,incorporated,25,A,1183,"Benavides, TX",0,742,0,0,Benavides city
+TX,4830548,Granger,incorporated,25,A,1183,"Granger, TX",0,743,0,0,Granger city
+TX,4808872,Blue Ridge,incorporated,25,A,1180,"Blue Ridge, TX",0,744,0,0,Blue Ridge city
+TX,4874132,Tye,incorporated,25,A,1176,"Tye, TX",0,745,0,0,Tye city
+TX,4875764,Von Ormy,incorporated,25,A,1174,"Von Ormy, TX",0,746,0,0,Von Ormy city
+TX,4854528,Oyster Creek,incorporated,25,A,1173,"Oyster Creek, TX",0,747,0,0,Oyster Creek city
+TX,4826136,Florence,incorporated,25,A,1171,"Florence, TX",0,748,0,0,Florence city
+TX,4854168,Orange Grove,incorporated,25,A,1165,"Orange Grove, TX",0,749,0,0,Orange Grove city
+TX,4838800,Kempner,incorporated,25,A,1146,"Kempner, TX",0,750,0,0,Kempner city
+TX,4873112,Tioga,incorporated,43,A,1142,"Tioga, TX",0,751,0,0,Tioga town
+TX,4814716,China Grove,incorporated,43,A,1141,"China Grove, TX",0,752,0,0,China Grove town
+TX,4824828,Eustace,incorporated,25,A,1137,"Eustace, TX",0,753,0,0,Eustace city
+TX,4831412,Gruver,incorporated,25,A,1130,"Gruver, TX",0,754,0,0,Gruver city
+TX,4838788,Kemp,incorporated,25,A,1129,"Kemp, TX",0,755,0,0,Kemp city
+TX,4827300,Frankston,incorporated,43,A,1126,"Frankston, TX",0,756,0,0,Frankston town
+TX,4870232,Sterling City,incorporated,25,A,1121,"Sterling City, TX",0,757,0,0,Sterling City city
+TX,4862924,Rogers,incorporated,43,A,1113,"Rogers, TX",0,758,0,0,Rogers town
+TX,4854216,Ore City,incorporated,25,A,1108,"Ore City, TX",0,759,0,0,Ore City city
+TX,4872989,Tiki Island,incorporated,47,A,1106,"Tiki Island, TX",0,760,0,0,Tiki Island village
+TX,4822552,Eden,incorporated,25,A,1100,"Eden, TX",0,761,0,0,Eden city
+TX,4850772,Newark,incorporated,25,A,1096,"Newark, TX",0,762,0,0,Newark city
+TX,4808128,Bevil Oaks,incorporated,25,A,1089,"Bevil Oaks, TX",0,763,0,0,Bevil Oaks city
+TX,4818260,Cut and Shoot,incorporated,25,A,1087,"Cut and Shoot, TX",0,764,0,0,Cut and Shoot city
+TX,4840756,Lakeside City,incorporated,43,A,1082,"Lakeside City, TX",0,765,0,0,Lakeside City town
+TX,4837252,Jamaica Beach,incorporated,25,A,1078,"Jamaica Beach, TX",0,766,0,0,Jamaica Beach city
+TX,4841764,La Vernia,incorporated,25,A,1077,"La Vernia, TX",0,767,0,0,La Vernia city
+TX,4840108,LaCoste,incorporated,25,A,1077,"LaCoste, TX",0,768,0,0,LaCoste city
+TX,4857615,Pine Island,incorporated,43,A,1077,"Pine Island, TX",0,769,0,0,Pine Island town
+TX,4834508,Holland,incorporated,43,A,1075,"Holland, TX",0,770,0,0,Holland town
+TX,4809172,Bogata,incorporated,25,A,1074,"Bogata, TX",0,771,0,0,Bogata city
+TX,4839700,Knox City,incorporated,43,A,1065,"Knox City, TX",0,772,0,0,Knox City town
+TX,4854600,Paducah,incorporated,43,A,1063,"Paducah, TX",0,773,0,0,Paducah town
+TX,4862108,Riesel,incorporated,25,A,1062,"Riesel, TX",0,774,0,0,Riesel city
+TX,4836128,Iraan,incorporated,25,A,1055,"Iraan, TX",0,775,0,0,Iraan city
+TX,4842868,Lindsay,incorporated,25,A,1045,"Lindsay, TX",0,776,0,0,Lindsay city
+TX,4846692,Marion,incorporated,25,A,1034,"Marion, TX",0,777,0,0,Marion city
+TX,4833188,Hemphill,incorporated,25,A,1029,"Hemphill, TX",0,778,0,0,Hemphill city
+TX,4802188,Alto,incorporated,43,A,1027,"Alto, TX",0,779,0,0,Alto town
+TX,4862564,Robert Lee,incorporated,25,A,1027,"Robert Lee, TX",0,780,0,0,Robert Lee city
+TX,4856996,Petersburg,incorporated,25,A,1014,"Petersburg, TX",0,781,0,0,Petersburg city
+TX,4865672,Santa Anna,incorporated,43,A,1014,"Santa Anna, TX",0,782,0,0,Santa Anna town
+TX,4844128,Los Indios,incorporated,43,A,1008,"Los Indios, TX",0,783,0,0,Los Indios town
+TX,4862240,Rio Vista,incorporated,25,A,1008,"Rio Vista, TX",0,784,0,0,Rio Vista city
+TX,4866416,Seadrift,incorporated,25,A,995,"Seadrift, TX",0,785,0,0,Seadrift city
+TX,4864220,St. Paul,incorporated,43,A,992,"St. Paul, TX",0,786,0,0,St. Paul town
+TX,4834502,Holiday Lakes,incorporated,43,A,991,"Holiday Lakes, TX",0,787,0,0,Holiday Lakes town
+TX,4872188,Tenaha,incorporated,43,A,989,"Tenaha, TX",0,788,0,0,Tenaha town
+TX,4873076,Timpson,incorporated,25,A,989,"Timpson, TX",0,789,0,0,Timpson city
+TX,4880296,Wortham,incorporated,43,A,980,"Wortham, TX",0,790,0,0,Wortham town
+TX,4869104,Southmayd,incorporated,25,A,978,"Southmayd, TX",0,791,0,0,Southmayd city
+TX,4847088,Maud,incorporated,25,A,977,"Maud, TX",0,792,0,0,Maud city
+TX,4830308,Gorman,incorporated,25,A,976,"Gorman, TX",0,793,0,0,Gorman city
+TX,4840696,Lakeport,incorporated,25,A,976,"Lakeport, TX",0,794,0,0,Lakeport city
+TX,4858088,Pleak,incorporated,47,A,971,"Pleak, TX",0,795,0,0,Pleak village
+TX,4844032,Lorenzo,incorporated,25,A,964,"Lorenzo, TX",0,796,0,0,Lorenzo city
+TX,4811992,Calvert,incorporated,25,A,962,"Calvert, TX",0,797,0,0,Calvert city
+TX,4851168,New London,incorporated,25,A,958,"New London, TX",0,798,0,0,New London city
+TX,4814620,Chico,incorporated,25,A,946,"Chico, TX",0,799,0,0,Chico city
+TX,4861172,Red Lick,incorporated,25,A,946,"Red Lick, TX",0,800,0,0,Red Lick city
+TX,4815700,Coahoma,incorporated,43,A,945,"Coahoma, TX",0,801,0,0,Coahoma town
+TX,4850200,Mustang Ridge,incorporated,25,A,944,"Mustang Ridge, TX",0,802,0,0,Mustang Ridge city
+TX,4833968,Hill Country Village,incorporated,25,A,942,"Hill Country Village, TX",0,803,0,0,Hill Country Village city
+TX,4873268,Tolar,incorporated,25,A,941,"Tolar, TX",0,804,0,0,Tolar city
+TX,4870772,Sudan,incorporated,25,A,940,"Sudan, TX",0,805,0,0,Sudan city
+TX,4847268,Maypearl,incorporated,25,A,939,"Maypearl, TX",0,806,0,0,Maypearl city
+TX,4803072,Ames,incorporated,25,A,937,"Ames, TX",0,807,0,0,Ames city
+TX,4854024,Omaha,incorporated,25,A,936,"Omaha, TX",0,808,0,0,Omaha city
+TX,4810528,Bronte,incorporated,43,A,933,"Bronte, TX",0,809,0,0,Bronte town
+TX,4876024,Waelder,incorporated,25,A,933,"Waelder, TX",0,810,0,0,Waelder city
+TX,4873328,Tom Bean,incorporated,25,A,930,"Tom Bean, TX",0,811,0,0,Tom Bean city
+TX,4815544,Clint,incorporated,43,A,923,"Clint, TX",0,812,0,0,Clint town
+TX,4818476,Daisetta,incorporated,25,A,923,"Daisetta, TX",0,813,0,0,Daisetta city
+TX,4831340,Groveton,incorporated,25,A,918,"Groveton, TX",0,814,0,0,Groveton city
+TX,4878316,White Deer,incorporated,43,A,918,"White Deer, TX",0,815,0,0,White Deer town
+TX,4879768,Wink,incorporated,25,A,915,"Wink, TX",0,816,0,0,Wink city
+TX,4851396,New Waverly,incorporated,25,A,914,"New Waverly, TX",0,817,0,0,New Waverly city
+TX,4803540,Anton,incorporated,25,A,907,"Anton, TX",0,818,0,0,Anton city
+TX,4813900,Centerville,incorporated,25,A,905,"Centerville, TX",0,819,0,0,Centerville city
+TX,4821928,Earth,incorporated,25,A,901,"Earth, TX",0,820,0,0,Earth city
+TX,4817816,Cross Plains,incorporated,43,A,899,"Cross Plains, TX",0,821,0,0,Cross Plains town
+TX,4822168,East Mountain,incorporated,25,A,899,"East Mountain, TX",0,822,0,0,East Mountain city
+TX,4804156,Arp,incorporated,25,A,892,"Arp, TX",0,823,0,0,Arp city
+TX,4863788,Runge,incorporated,43,A,892,"Runge, TX",0,824,0,0,Runge town
+TX,4857644,Pineland,incorporated,25,A,888,"Pineland, TX",0,825,0,0,Pineland city
+TX,4817564,Crawford,incorporated,43,A,887,"Crawford, TX",0,826,0,0,Crawford town
+TX,4864184,Saint Jo,incorporated,25,A,881,"Saint Jo, TX",0,827,0,0,Saint Jo city
+TX,4875188,Vega,incorporated,25,A,879,"Vega, TX",0,828,0,0,Vega city
+TX,4848396,Miles,incorporated,25,A,875,"Miles, TX",0,829,0,0,Miles city
+TX,4862816,Rocksprings,incorporated,43,A,874,"Rocksprings, TX",0,830,0,0,Rocksprings town
+TX,4832576,Hart,incorporated,25,A,869,"Hart, TX",0,831,0,0,Hart city
+TX,4825068,Fairchilds,incorporated,47,A,864,"Fairchilds, TX",0,832,0,0,Fairchilds village
+TX,4869848,Spur,incorporated,25,A,863,"Spur, TX",0,833,0,0,Spur city
+TX,4873652,Trinidad,incorporated,25,A,860,"Trinidad, TX",0,834,0,0,Trinidad city
+TX,4810144,Bremond,incorporated,25,A,858,"Bremond, TX",0,835,0,0,Bremond city
+TX,4808788,Blooming Grove,incorporated,43,A,857,"Blooming Grove, TX",0,836,0,0,Blooming Grove town
+TX,4849560,Moulton,incorporated,43,A,854,"Moulton, TX",0,837,0,0,Moulton town
+TX,4861340,Redwater,incorporated,25,A,853,"Redwater, TX",0,838,0,0,Redwater city
+TX,4877176,Wells,incorporated,43,A,853,"Wells, TX",0,839,0,0,Wells town
+TX,4874048,Tuscola,incorporated,25,A,850,"Tuscola, TX",0,840,0,0,Tuscola city
+TX,4851336,New Summerfield,incorporated,25,A,843,"New Summerfield, TX",0,841,0,0,New Summerfield city
+TX,4835918,Indian Lake,incorporated,43,A,839,"Indian Lake, TX",0,842,0,0,Indian Lake town
+TX,4805528,Bandera,incorporated,25,A,829,"Bandera, TX",0,843,0,0,Bandera city
+TX,4829036,Garrett,incorporated,43,A,829,"Garrett, TX",0,844,0,0,Garrett town
+TX,4807852,Berryville,incorporated,43,A,824,"Berryville, TX",0,845,0,0,Berryville town
+TX,4822276,East Tawakoni,incorporated,25,A,824,"East Tawakoni, TX",0,846,0,0,East Tawakoni city
+TX,4815892,Coldspring,incorporated,25,A,819,"Coldspring, TX",0,847,0,0,Coldspring city
+TX,4834148,Hilshire Village,incorporated,25,A,816,"Hilshire Village, TX",0,848,0,0,Hilshire Village city
+TX,4872824,Thrall,incorporated,25,A,816,"Thrall, TX",0,849,0,0,Thrall city
+TX,4819420,Dawson,incorporated,43,A,815,"Dawson, TX",0,850,0,0,Dawson town
+TX,4813672,Celeste,incorporated,25,A,809,"Celeste, TX",0,851,0,0,Celeste city
+TX,4833020,Hebron,incorporated,43,A,803,"Hebron, TX",0,852,0,0,Hebron town
+TX,4876348,Walnut Springs,incorporated,25,A,795,"Walnut Springs, TX",0,853,0,0,Walnut Springs city
+TX,4837648,Jewett,incorporated,25,A,793,"Jewett, TX",0,854,0,0,Jewett city
+TX,4804408,Aspermont,incorporated,43,A,789,"Aspermont, TX",0,855,0,0,Aspermont town
+TX,4829060,Garrison,incorporated,25,A,789,"Garrison, TX",0,856,0,0,Garrison city
+TX,4815172,Clarksville City,incorporated,25,A,780,"Clarksville City, TX",0,857,0,0,Clarksville City city
+TX,4860668,Rankin,incorporated,25,A,780,"Rankin, TX",0,858,0,0,Rankin city
+TX,4816552,Coolidge,incorporated,43,A,778,"Coolidge, TX",0,859,0,0,Coolidge town
+TX,4865690,Santa Clara,incorporated,25,A,778,"Santa Clara, TX",0,860,0,0,Santa Clara city
+TX,4805288,Bailey's Prairie,incorporated,47,A,775,"Bailey's Prairie, TX",0,861,0,0,Bailey's Prairie village
+TX,4853160,Oak Ridge,incorporated,43,A,771,"Oak Ridge, TX",0,862,0,0,Oak Ridge town
+TX,4817948,Crowell,incorporated,25,A,769,"Crowell, TX",0,863,0,0,Crowell city
+TX,4832240,Hardin,incorporated,25,A,768,"Hardin, TX",0,864,0,0,Hardin city
+TX,4862486,Road Runner,incorporated,43,A,766,"Road Runner, TX",0,865,0,0,Road Runner town
+TX,4839680,Knollwood,incorporated,25,A,764,"Knollwood, TX",0,866,0,0,Knollwood city
+TX,4862252,Rising Star,incorporated,43,A,756,"Rising Star, TX",0,867,0,0,Rising Star town
+TX,4843516,Lometa,incorporated,25,A,753,"Lometa, TX",0,868,0,0,Lometa city
+TX,4847832,Mertzon,incorporated,25,A,747,"Mertzon, TX",0,869,0,0,Mertzon city
+TX,4858532,Point,incorporated,25,A,745,"Point, TX",0,870,0,0,Point city
+TX,4873592,Trenton,incorporated,25,A,743,"Trenton, TX",0,871,0,0,Trenton city
+TX,4856276,Payne Springs,incorporated,43,A,741,"Payne Springs, TX",0,872,0,0,Payne Springs town
+TX,4871228,Sunrise Beach Village,incorporated,25,A,739,"Sunrise Beach Village, TX",0,873,0,0,Sunrise Beach Village city
+TX,4822516,Ector,incorporated,25,A,737,"Ector, TX",0,874,0,0,Ector city
+TX,4874756,Valley View,incorporated,25,A,737,"Valley View, TX",0,875,0,0,Valley View city
+TX,4856485,Pecan Hill,incorporated,25,A,735,"Pecan Hill, TX",0,876,0,0,Pecan Hill city
+TX,4837684,Joaquin,incorporated,25,A,734,"Joaquin, TX",0,877,0,0,Joaquin city
+TX,4850916,New Deal,incorporated,43,A,730,"New Deal, TX",0,878,0,0,New Deal town
+TX,4816252,Como,incorporated,43,A,728,"Como, TX",0,879,0,0,Como town
+TX,4819924,Dennis,incorporated,43,A,727,"Dennis, TX",0,880,0,0,Dennis town
+TX,4872896,Throckmorton,incorporated,43,A,727,"Throckmorton, TX",0,881,0,0,Throckmorton town
+TX,4804300,Asherton,incorporated,25,A,722,"Asherton, TX",0,882,0,0,Asherton city
+TX,4807108,Beckville,incorporated,25,A,722,"Beckville, TX",0,883,0,0,Beckville city
+TX,4848408,Milford,incorporated,43,A,722,"Milford, TX",0,884,0,0,Milford town
+TX,4866008,Savoy,incorporated,25,A,712,"Savoy, TX",0,885,0,0,Savoy city
+TX,4820128,Detroit,incorporated,43,A,704,"Detroit, TX",0,886,0,0,Detroit town
+TX,4853436,O'Donnell,incorporated,25,A,704,"O'Donnell, TX",0,887,0,0,O'Donnell city
+TX,4877056,Weir,incorporated,25,A,699,"Weir, TX",0,888,0,0,Weir city
+TX,4811380,Burke,incorporated,25,A,691,"Burke, TX",0,889,0,0,Burke city
+TX,4865372,San Felipe,incorporated,43,A,691,"San Felipe, TX",0,890,0,0,San Felipe town
+TX,4866368,Scurry,incorporated,43,A,688,"Scurry, TX",0,891,0,0,Scurry town
+TX,4840804,Lake Tanglewood,incorporated,47,A,686,"Lake Tanglewood, TX",0,892,0,0,Lake Tanglewood village
+TX,4801396,Agua Dulce,incorporated,25,A,685,"Agua Dulce, TX",0,893,0,0,Agua Dulce city
+TX,4871324,Sunset Valley,incorporated,25,A,683,"Sunset Valley, TX",0,894,0,0,Sunset Valley city
+TX,4821436,Driscoll,incorporated,25,A,680,"Driscoll, TX",0,895,0,0,Driscoll city
+TX,4818128,Cumby,incorporated,25,A,679,"Cumby, TX",0,896,0,0,Cumby city
+TX,4803084,Amherst,incorporated,25,A,678,"Amherst, TX",0,897,0,0,Amherst city
+TX,4843354,Log Cabin,incorporated,25,A,678,"Log Cabin, TX",0,898,0,0,Log Cabin city
+TX,4830380,Graford,incorporated,25,A,669,"Graford, TX",0,899,0,0,Graford city
+TX,4851492,Niederwald,incorporated,25,A,668,"Niederwald, TX",0,900,0,0,Niederwald city
+TX,4845780,McLean,incorporated,43,A,665,"McLean, TX",0,901,0,0,McLean town
+TX,4851036,New Hope,incorporated,43,A,661,"New Hope, TX",0,902,0,0,New Hope town
+TX,4850796,New Berlin,incorporated,25,A,656,"New Berlin, TX",0,903,0,0,New Berlin city
+TX,4867964,Simonton,incorporated,25,A,647,"Simonton, TX",0,904,0,0,Simonton city
+TX,4844176,Lott,incorporated,25,A,644,"Lott, TX",0,905,0,0,Lott city
+TX,4843636,Lone Oak,incorporated,25,A,643,"Lone Oak, TX",0,906,0,0,Lone Oak city
+TX,4858556,Point Blank,incorporated,25,A,643,"Point Blank, TX",0,907,0,0,Point Blank city
+TX,4877788,Westover Hills,incorporated,43,A,641,"Westover Hills, TX",0,908,0,0,Westover Hills town
+TX,4871384,Surfside Beach,incorporated,25,A,640,"Surfside Beach, TX",0,909,0,0,Surfside Beach city
+TX,4841050,Lakewood Village,incorporated,25,A,635,"Lakewood Village, TX",0,910,0,0,Lakewood Village city
+TX,4867904,Silverton,incorporated,25,A,629,"Silverton, TX",0,911,0,0,Silverton city
+TX,4805612,Bardwell,incorporated,25,A,625,"Bardwell, TX",0,912,0,0,Bardwell city
+TX,4879828,Winona,incorporated,43,A,623,"Winona, TX",0,913,0,0,Winona town
+TX,4849600,Mountain City,incorporated,25,A,622,"Mountain City, TX",0,914,0,0,Mountain City city
+TX,4803342,Annetta South,incorporated,43,A,621,"Annetta South, TX",0,915,0,0,Annetta South town
+TX,4827768,Frost,incorporated,25,A,620,"Frost, TX",0,916,0,0,Frost city
+TX,4850876,New Chapel Hill,incorporated,25,A,620,"New Chapel Hill, TX",0,917,0,0,New Chapel Hill city
+TX,4830092,Golinda,incorporated,25,A,618,"Golinda, TX",0,918,0,0,Golinda city
+TX,4852902,Oak Grove,incorporated,43,A,617,"Oak Grove, TX",0,919,0,0,Oak Grove town
+TX,4838872,Kenefick,incorporated,43,A,615,"Kenefick, TX",0,920,0,0,Kenefick town
+TX,4836020,Ingleside on the Bay,incorporated,25,A,614,"Ingleside on the Bay, TX",0,921,0,0,Ingleside on the Bay city
+TX,4851756,Noonday,incorporated,25,A,612,"Noonday, TX",0,922,0,0,Noonday city
+TX,4806272,Beasley,incorporated,25,A,608,"Beasley, TX",0,923,0,0,Beasley city
+TX,4858568,Point Comfort,incorporated,25,A,603,"Point Comfort, TX",0,924,0,0,Point Comfort city
+TX,4880728,Zavalla,incorporated,25,A,603,"Zavalla, TX",0,925,0,0,Zavalla city
+TX,4832156,Happy,incorporated,43,A,602,"Happy, TX",0,926,0,0,Happy town
+TX,4847316,Meadow,incorporated,43,A,601,"Meadow, TX",0,927,0,0,Meadow town
+TX,4840180,Ladonia,incorporated,43,A,597,"Ladonia, TX",0,928,0,0,Ladonia town
+TX,4839904,Kress,incorporated,25,A,596,"Kress, TX",0,929,0,0,Kress city
+TX,4862612,Roby,incorporated,25,A,591,"Roby, TX",0,930,0,0,Roby city
+TX,4869932,Stagecoach,incorporated,43,A,580,"Stagecoach, TX",0,931,0,0,Stagecoach town
+TX,4844260,Lovelady,incorporated,25,A,570,"Lovelady, TX",0,932,0,0,Lovelady city
+TX,4847004,Matador,incorporated,43,A,569,"Matador, TX",0,933,0,0,Matador town
+TX,4863752,Rule,incorporated,43,A,561,"Rule, TX",0,934,0,0,Rule town
+TX,4872800,Thorntonville,incorporated,43,A,561,"Thorntonville, TX",0,935,0,0,Thorntonville town
+TX,4875752,Volente,incorporated,47,A,561,"Volente, TX",0,936,0,0,Volente village
+TX,4818224,Cushing,incorporated,25,A,557,"Cushing, TX",0,937,0,0,Cushing city
+TX,4803340,Annetta North,incorporated,43,A,554,"Annetta North, TX",0,938,0,0,Annetta North town
+TX,4803564,Appleby,incorporated,25,A,552,"Appleby, TX",0,939,0,0,Appleby city
+TX,4831292,Groom,incorporated,43,A,552,"Groom, TX",0,940,0,0,Groom town
+TX,4820020,Deport,incorporated,25,A,550,"Deport, TX",0,941,0,0,Deport city
+TX,4814680,Chillicothe,incorporated,25,A,549,"Chillicothe, TX",0,942,0,0,Chillicothe city
+TX,4863584,Roxton,incorporated,25,A,548,"Roxton, TX",0,943,0,0,Roxton city
+TX,4856108,Pattison,incorporated,25,A,547,"Pattison, TX",0,944,0,0,Pattison city
+TX,4832840,Hawley,incorporated,25,A,545,"Hawley, TX",0,945,0,0,Hawley city
+TX,4811128,Buffalo Gap,incorporated,43,A,543,"Buffalo Gap, TX",0,946,0,0,Buffalo Gap town
+TX,4812112,Campbell,incorporated,25,A,542,"Campbell, TX",0,947,0,0,Campbell city
+TX,4816048,Colmesneil,incorporated,25,A,542,"Colmesneil, TX",0,948,0,0,Colmesneil city
+TX,4824240,Encinal,incorporated,25,A,540,"Encinal, TX",0,949,0,0,Encinal city
+TX,4870580,Strawn,incorporated,25,A,540,"Strawn, TX",0,950,0,0,Strawn city
+TX,4847988,Miami,incorporated,25,A,539,"Miami, TX",0,951,0,0,Miami city
+TX,4865636,San Perlita,incorporated,25,A,538,"San Perlita, TX",0,952,0,0,San Perlita city
+TX,4850868,Newcastle,incorporated,25,A,526,"Newcastle, TX",0,953,0,0,Newcastle city
+TX,4817336,Cove,incorporated,25,A,525,"Cove, TX",0,954,0,0,Cove city
+TX,4862408,Riverside,incorporated,25,A,522,"Riverside, TX",0,955,0,0,Riverside city
+TX,4865552,San Leanna,incorporated,47,A,522,"San Leanna, TX",0,956,0,0,San Leanna village
+TX,4812388,Camp Wood,incorporated,25,A,517,"Camp Wood, TX",0,957,0,0,Camp Wood city
+TX,4850076,Murchison,incorporated,25,A,516,"Murchison, TX",0,958,0,0,Murchison city
+TX,4810090,Brazos Country,incorporated,25,A,514,"Brazos Country, TX",0,959,0,0,Brazos Country city
+TX,4825392,Falls City,incorporated,25,A,514,"Falls City, TX",0,960,0,0,Falls City city
+TX,4857044,Petrolia,incorporated,25,A,514,"Petrolia, TX",0,961,0,0,Petrolia city
+TX,4837468,Jayton,incorporated,25,A,511,"Jayton, TX",0,962,0,0,Jayton city
+TX,4810216,Briaroaks,incorporated,25,A,507,"Briaroaks, TX",0,963,0,0,Briaroaks city
+TX,4868576,Snook,incorporated,25,A,506,"Snook, TX",0,964,0,0,Snook city
+TX,4842940,Lipan,incorporated,25,A,505,"Lipan, TX",0,965,0,0,Lipan city
+TX,4849728,Mount Enterprise,incorporated,25,A,505,"Mount Enterprise, TX",0,966,0,0,Mount Enterprise city
+TX,4843996,Loraine,incorporated,43,A,504,"Loraine, TX",0,967,0,0,Loraine town
+TX,4822192,Easton,incorporated,25,A,499,"Easton, TX",0,968,0,0,Easton city
+TX,4857524,Pine Forest,incorporated,25,A,499,"Pine Forest, TX",0,969,0,0,Pine Forest city
+TX,4851840,Normangee,incorporated,43,A,495,"Normangee, TX",0,970,0,0,Normangee town
+TX,4871732,Talco,incorporated,25,A,494,"Talco, TX",0,971,0,0,Talco city
+TX,4831100,Grey Forest,incorporated,25,A,492,"Grey Forest, TX",0,972,0,0,Grey Forest city
+TX,4819456,Dean,incorporated,25,A,488,"Dean, TX",0,973,0,0,Dean city
+TX,4808260,Big Wells,incorporated,25,A,483,"Big Wells, TX",0,974,0,0,Big Wells city
+TX,4870076,Star Harbor,incorporated,25,A,482,"Star Harbor, TX",0,975,0,0,Star Harbor city
+TX,4827804,Fruitvale,incorporated,25,A,476,"Fruitvale, TX",0,976,0,0,Fruitvale city
+TX,4806140,Bayview,incorporated,43,A,475,"Bayview, TX",0,977,0,0,Bayview town
+TX,4843120,Liverpool,incorporated,25,A,475,"Liverpool, TX",0,978,0,0,Liverpool city
+TX,4855056,Paradise,incorporated,25,A,475,"Paradise, TX",0,979,0,0,Paradise city
+TX,4868300,Smiley,incorporated,25,A,475,"Smiley, TX",0,980,0,0,Smiley city
+TX,4801636,Alba,incorporated,43,A,473,"Alba, TX",0,981,0,0,Alba town
+TX,4830272,Gordon,incorporated,25,A,470,"Gordon, TX",0,982,0,0,Gordon city
+TX,4851720,Nome,incorporated,25,A,469,"Nome, TX",0,983,0,0,Nome city
+TX,4811155,Buffalo Springs Lake,incorporated,47,A,468,"Buffalo Springs Lake, TX",0,984,0,0,Buffalo Springs Lake village
+TX,4858040,Plantersville,incorporated,25,A,464,"Plantersville, TX",0,985,0,0,Plantersville city
+TX,4817612,Creedmoor,incorporated,25,A,458,"Creedmoor, TX",0,986,0,0,Creedmoor city
+TX,4839844,Kosse,incorporated,43,A,458,"Kosse, TX",0,987,0,0,Kosse town
+TX,4824864,Evant,incorporated,43,A,455,"Evant, TX",0,988,0,0,Evant town
+TX,4811644,Byers,incorporated,25,A,454,"Byers, TX",0,989,0,0,Byers city
+TX,4849356,Morgan,incorporated,25,A,454,"Morgan, TX",0,990,0,0,Morgan city
+TX,4832810,Hawk Cove,incorporated,25,A,452,"Hawk Cove, TX",0,991,0,0,Hawk Cove city
+TX,4872476,Texline,incorporated,43,A,448,"Texline, TX",0,992,0,0,Texline town
+TX,4840472,Lake City,incorporated,43,A,447,"Lake City, TX",0,993,0,0,Lake City town
+TX,4803288,Angus,incorporated,25,A,444,"Angus, TX",0,994,0,0,Angus city
+TX,4853520,Oglesby,incorporated,25,A,441,"Oglesby, TX",0,995,0,0,Oglesby city
+TX,4868504,Smyer,incorporated,43,A,441,"Smyer, TX",0,996,0,0,Smyer town
+TX,4874312,Union Grove,incorporated,25,A,441,"Union Grove, TX",0,997,0,0,Union Grove city
+TX,4820540,DISH,incorporated,43,A,437,"DISH, TX",0,998,0,0,DISH town
+TX,4879612,Wilson,incorporated,25,A,434,"Wilson, TX",0,999,0,0,Wilson city
+TX,4842028,Leary,incorporated,25,A,433,"Leary, TX",0,1000,0,0,Leary city
+TX,4810960,Bryson,incorporated,25,A,430,"Bryson, TX",0,1001,0,0,Bryson city
+TX,4863140,Ropesville,incorporated,25,A,430,"Ropesville, TX",0,1002,0,0,Ropesville city
+TX,4873030,Timbercreek Canyon,incorporated,47,A,430,"Timbercreek Canyon, TX",0,1003,0,0,Timbercreek Canyon village
+TX,4879036,Wickett,incorporated,43,A,422,"Wickett, TX",0,1004,0,0,Wickett town
+TX,4879720,Winfield,incorporated,25,A,422,"Winfield, TX",0,1005,0,0,Winfield city
+TX,4805072,Avery,incorporated,43,A,421,"Avery, TX",0,1006,0,0,Avery town
+TX,4872788,Thornton,incorporated,43,A,421,"Thornton, TX",0,1007,0,0,Thornton town
+TX,4842148,Lefors,incorporated,43,A,420,"Lefors, TX",0,1008,0,0,Lefors town
+TX,4831880,Hallsburg,incorporated,25,A,419,"Hallsburg, TX",0,1009,0,0,Hallsburg city
+TX,4833794,Highland Haven,incorporated,25,A,418,"Highland Haven, TX",0,1010,0,0,Highland Haven city
+TX,4866284,Scotland,incorporated,25,A,413,"Scotland, TX",0,1011,0,0,Scotland city
+TX,4869120,South Mountain,incorporated,43,A,411,"South Mountain, TX",0,1012,0,0,South Mountain town
+TX,4861616,Retreat,incorporated,43,A,410,"Retreat, TX",0,1013,0,0,Retreat town
+TX,4805468,Balmorhea,incorporated,25,A,408,"Balmorhea, TX",0,1014,0,0,Balmorhea city
+TX,4853217,Oak Valley,incorporated,43,A,406,"Oak Valley, TX",0,1015,0,0,Oak Valley town
+TX,4880440,Yantis,incorporated,43,A,405,"Yantis, TX",0,1016,0,0,Yantis town
+TX,4848372,Mildred,incorporated,43,A,399,"Mildred, TX",0,1017,0,0,Mildred town
+TX,4806242,Bear Creek,incorporated,47,A,397,"Bear Creek, TX",0,1018,0,0,Bear Creek village
+TX,4839940,Kurten,incorporated,43,A,395,"Kurten, TX",0,1019,0,0,Kurten town
+TX,4868120,Skellytown,incorporated,43,A,394,"Skellytown, TX",0,1020,0,0,Skellytown town
+TX,4876924,Webberville,incorporated,47,A,394,"Webberville, TX",0,1021,0,0,Webberville village
+TX,4831628,Gustine,incorporated,43,A,392,"Gustine, TX",0,1022,0,0,Gustine town
+TX,4848336,Milano,incorporated,25,A,390,"Milano, TX",0,1023,0,0,Milano city
+TX,4853232,Oakwood,incorporated,43,A,389,"Oakwood, TX",0,1024,0,0,Oakwood town
+TX,4865612,San Patricio,incorporated,25,A,384,"San Patricio, TX",0,1025,0,0,San Patricio city
+TX,4809004,Blum,incorporated,43,A,383,"Blum, TX",0,1026,0,0,Blum town
+TX,4870406,Stockton Bend,incorporated,25,A,380,"Stockton Bend, TX",0,1027,0,0,Stockton Bend city
+TX,4878328,Whiteface,incorporated,43,A,375,"Whiteface, TX",0,1028,0,0,Whiteface town
+TX,4802044,Alma,incorporated,43,A,373,"Alma, TX",0,1029,0,0,Alma town
+TX,4826328,Follett,incorporated,25,A,373,"Follett, TX",0,1030,0,0,Follett city
+TX,4805084,Avinger,incorporated,43,A,371,"Avinger, TX",0,1031,0,0,Avinger town
+TX,4814776,Chireno,incorporated,25,A,370,"Chireno, TX",0,1032,0,0,Chireno city
+TX,4835072,Howardwick,incorporated,25,A,370,"Howardwick, TX",0,1033,0,0,Howardwick city
+TX,4848564,Millsap,incorporated,43,A,370,"Millsap, TX",0,1034,0,0,Millsap town
+TX,4874372,Union Valley,incorporated,25,A,370,"Union Valley, TX",0,1035,0,0,Union Valley city
+TX,4808596,Blanket,incorporated,43,A,369,"Blanket, TX",0,1036,0,0,Blanket town
+TX,4820680,Dodd City,incorporated,43,A,369,"Dodd City, TX",0,1037,0,0,Dodd City town
+TX,4811020,Buckholts,incorporated,43,A,365,"Buckholts, TX",0,1038,0,0,Buckholts town
+TX,4817917,Cross Timber,incorporated,43,A,362,"Cross Timber, TX",0,1039,0,0,Cross Timber town
+TX,4807144,Bedias,incorporated,25,A,361,"Bedias, TX",0,1040,0,0,Bedias city
+TX,4820140,Devers,incorporated,25,A,361,"Devers, TX",0,1041,0,0,Devers city
+TX,4835636,Huxley,incorporated,25,A,361,"Huxley, TX",0,1042,0,0,Huxley city
+TX,4858400,Pleasant Valley,incorporated,43,A,357,"Pleasant Valley, TX",0,1043,0,0,Pleasant Valley town
+TX,4833608,Higgins,incorporated,25,A,356,"Higgins, TX",0,1044,0,0,Higgins city
+TX,4842400,Leroy,incorporated,25,A,354,"Leroy, TX",0,1045,0,0,Leroy city
+TX,4800100,Abbott,incorporated,25,A,352,"Abbott, TX",0,1046,0,0,Abbott city
+TX,4824228,Enchanted Oaks,incorporated,43,A,347,"Enchanted Oaks, TX",0,1047,0,0,Enchanted Oaks town
+TX,4817429,Coyote Flats,incorporated,25,A,345,"Coyote Flats, TX",0,1048,0,0,Coyote Flats city
+TX,4838848,Kendleton,incorporated,25,A,343,"Kendleton, TX",0,1049,0,0,Kendleton city
+TX,4860176,Quitaque,incorporated,25,A,342,"Quitaque, TX",0,1050,0,0,Quitaque city
+TX,4879696,Windthorst,incorporated,43,A,342,"Windthorst, TX",0,1051,0,0,Windthorst town
+TX,4830440,Grandfalls,incorporated,43,A,340,"Grandfalls, TX",0,1052,0,0,Grandfalls town
+TX,4822744,Edom,incorporated,25,A,339,"Edom, TX",0,1053,0,0,Edom city
+TX,4840450,Lake Bridgeport,incorporated,25,A,339,"Lake Bridgeport, TX",0,1054,0,0,Lake Bridgeport city
+TX,4840738,Lakeside,incorporated,43,A,338,"Lakeside, TX",0,1055,0,0,Lakeside town
+TX,4814860,Christine,incorporated,43,A,337,"Christine, TX",0,1056,0,0,Christine town
+TX,4865066,Sanctuary,incorporated,43,A,337,"Sanctuary, TX",0,1057,0,0,Sanctuary town
+TX,4851792,Nordheim,incorporated,25,A,336,"Nordheim, TX",0,1058,0,0,Nordheim city
+TX,4864088,Sadler,incorporated,25,A,336,"Sadler, TX",0,1059,0,0,Sadler city
+TX,4829108,Gary City,incorporated,43,A,335,"Gary City, TX",0,1060,0,0,Gary City town
+TX,4866332,Scottsville,incorporated,25,A,334,"Scottsville, TX",0,1061,0,0,Scottsville city
+TX,4861508,Reklaw,incorporated,25,A,332,"Reklaw, TX",0,1062,0,0,Reklaw city
+TX,4851012,New Home,incorporated,25,A,326,"New Home, TX",0,1063,0,0,New Home city
+TX,4863200,Rose City,incorporated,25,A,326,"Rose City, TX",0,1064,0,0,Rose City city
+TX,4830752,Grays Prairie,incorporated,47,A,325,"Grays Prairie, TX",0,1065,0,0,Grays Prairie village
+TX,4863272,Rose Hill Acres,incorporated,25,A,325,"Rose Hill Acres, TX",0,1066,0,0,Rose Hill Acres city
+TX,4808752,Bloomburg,incorporated,43,A,321,"Bloomburg, TX",0,1067,0,0,Bloomburg town
+TX,4811968,Callisburg,incorporated,25,A,321,"Callisburg, TX",0,1068,0,0,Callisburg city
+TX,4828008,Gallatin,incorporated,25,A,321,"Gallatin, TX",0,1069,0,0,Gallatin city
+TX,4873124,Tira,incorporated,43,A,319,"Tira, TX",0,1070,0,0,Tira town
+TX,4876576,Warren City,incorporated,25,A,319,"Warren City, TX",0,1071,0,0,Warren City city
+TX,4873964,Turkey,incorporated,25,A,317,"Turkey, TX",0,1072,0,0,Turkey city
+TX,4842004,Leakey,incorporated,25,A,315,"Leakey, TX",0,1073,0,0,Leakey city
+TX,4824816,Eureka,incorporated,25,A,313,"Eureka, TX",0,1074,0,0,Eureka city
+TX,4854192,Orchard,incorporated,25,A,313,"Orchard, TX",0,1075,0,0,Orchard city
+TX,4836068,Iola,incorporated,25,A,311,"Iola, TX",0,1076,0,0,Iola city
+TX,4841872,Lawn,incorporated,43,A,311,"Lawn, TX",0,1077,0,0,Lawn town
+TX,4850496,Nazareth,incorporated,25,A,310,"Nazareth, TX",0,1078,0,0,Nazareth city
+TX,4819288,Darrouzett,incorporated,43,A,309,"Darrouzett, TX",0,1079,0,0,Darrouzett town
+TX,4836140,Iredell,incorporated,25,A,305,"Iredell, TX",0,1080,0,0,Iredell city
+TX,4863404,Rosser,incorporated,47,A,301,"Rosser, TX",0,1081,0,0,Rosser village
+TX,4811536,Burton,incorporated,25,A,297,"Burton, TX",0,1082,0,0,Burton city
+TX,4873580,Trent,incorporated,43,A,295,"Trent, TX",0,1083,0,0,Trent town
+TX,4807396,Bellevue,incorporated,25,A,289,"Bellevue, TX",0,1084,0,0,Bellevue city
+TX,4817312,Coupland,incorporated,25,A,289,"Coupland, TX",0,1085,0,0,Coupland city
+TX,4859192,Poynor,incorporated,43,A,287,"Poynor, TX",0,1086,0,0,Poynor town
+TX,4813198,Cashion Community,incorporated,25,A,286,"Cashion Community, TX",0,1087,0,0,Cashion Community city
+TX,4830608,Granjeno,incorporated,25,A,283,"Granjeno, TX",0,1088,0,0,Granjeno city
+TX,4877740,Weston,incorporated,25,A,283,"Weston, TX",0,1089,0,0,Weston city
+TX,4849692,Mount Calm,incorporated,25,A,282,"Mount Calm, TX",0,1090,0,0,Mount Calm city
+TX,4812736,Carbon,incorporated,43,A,281,"Carbon, TX",0,1091,0,0,Carbon town
+TX,4814260,Channing,incorporated,25,A,281,"Channing, TX",0,1092,0,0,Channing city
+TX,4871966,Taylor Landing,incorporated,25,A,278,"Taylor Landing, TX",0,1093,0,0,Taylor Landing city
+TX,4817540,Cranfills Gap,incorporated,25,A,277,"Cranfills Gap, TX",0,1094,0,0,Cranfills Gap city
+TX,4806104,Bayside,incorporated,43,A,275,"Bayside, TX",0,1095,0,0,Bayside town
+TX,4833044,Hedley,incorporated,25,A,275,"Hedley, TX",0,1096,0,0,Hedley city
+TX,4849380,Morgan's Point,incorporated,25,A,273,"Morgan's Point, TX",0,1097,0,0,Morgan's Point city
+TX,4850724,Nesbitt,incorporated,43,I,273,"Nesbitt, TX",0,1098,0,0,Nesbitt town
+TX,4838884,Kennard,incorporated,25,A,272,"Kennard, TX",0,1099,0,0,Kennard city
+TX,4814584,Chester,incorporated,43,A,270,"Chester, TX",0,1100,0,0,Chester town
+TX,4835984,Industry,incorporated,25,A,268,"Industry, TX",0,1101,0,0,Industry city
+TX,4854726,Palisades,incorporated,47,A,268,"Palisades, TX",0,1102,0,0,Palisades village
+TX,4805720,Barstow,incorporated,25,A,265,"Barstow, TX",0,1103,0,0,Barstow city
+TX,4801108,Ackerly,incorporated,25,A,264,"Ackerly, TX",0,1104,0,0,Ackerly city
+TX,4817372,Covington,incorporated,25,A,261,"Covington, TX",0,1105,0,0,Covington city
+TX,4808488,Blackwell,incorporated,25,A,258,"Blackwell, TX",0,1106,0,0,Blackwell city
+TX,4845048,Lueders,incorporated,25,A,258,"Lueders, TX",0,1107,0,0,Lueders city
+TX,4872464,Texhoma,incorporated,25,A,258,"Texhoma, TX",0,1108,0,0,Texhoma city
+TX,4859642,Progreso Lakes,incorporated,25,A,257,"Progreso Lakes, TX",0,1109,0,0,Progreso Lakes city
+TX,4860644,Rangerville,incorporated,47,I,255,"Rangerville, TX",0,1110,0,0,Rangerville village
+TX,4861820,Richland,incorporated,43,A,255,"Richland, TX",0,1111,0,0,Richland town
+TX,4815820,Coffee City,incorporated,43,A,249,"Coffee City, TX",0,1112,0,0,Coffee City town
+TX,4830224,Goodrich,incorporated,25,A,248,"Goodrich, TX",0,1113,0,0,Goodrich city
+TX,4862636,Rochester,incorporated,43,A,248,"Rochester, TX",0,1114,0,0,Rochester town
+TX,4870604,Streetman,incorporated,43,A,248,"Streetman, TX",0,1115,0,0,Streetman town
+TX,4825644,Fayetteville,incorporated,25,A,246,"Fayetteville, TX",0,1116,0,0,Fayetteville city
+TX,4819708,Dell City,incorporated,25,A,245,"Dell City, TX",0,1117,0,0,Dell City city
+TX,4863380,Ross,incorporated,25,A,245,"Ross, TX",0,1118,0,0,Ross city
+TX,4812916,Carmine,incorporated,25,A,244,"Carmine, TX",0,1119,0,0,Carmine city
+TX,4861880,Richland Springs,incorporated,43,A,244,"Richland Springs, TX",0,1120,0,0,Richland Springs town
+TX,4853154,Oak Ridge,incorporated,43,A,242,"Oak Ridge, TX",0,1121,0,0,Oak Ridge town
+TX,4846260,Malone,incorporated,43,A,237,"Malone, TX",0,1122,0,0,Malone town
+TX,4854636,Paint Rock,incorporated,43,A,237,"Paint Rock, TX",0,1123,0,0,Paint Rock town
+TX,4830044,Goldsmith,incorporated,25,A,236,"Goldsmith, TX",0,1124,0,0,Goldsmith city
+TX,4841644,Latexo,incorporated,25,A,232,"Latexo, TX",0,1125,0,0,Latexo city
+TX,4850448,Navarro,incorporated,43,A,232,"Navarro, TX",0,1126,0,0,Navarro town
+TX,4877164,Wellman,incorporated,25,A,230,"Wellman, TX",0,1127,0,0,Wellman city
+TX,4872080,Tehuacana,incorporated,43,A,228,"Tehuacana, TX",0,1128,0,0,Tehuacana town
+TX,4879919,Wixon Valley,incorporated,25,A,228,"Wixon Valley, TX",0,1129,0,0,Wixon Valley city
+TX,4832906,Hays,incorporated,25,A,227,"Hays, TX",0,1130,0,0,Hays city
+TX,4849320,Moran,incorporated,25,A,226,"Moran, TX",0,1131,0,0,Moran city
+TX,4826640,Forsan,incorporated,25,A,225,"Forsan, TX",0,1132,0,0,Forsan city
+TX,4851984,North Cleveland,incorporated,25,A,225,"North Cleveland, TX",0,1133,0,0,North Cleveland city
+TX,4848720,Mingus,incorporated,25,A,223,"Mingus, TX",0,1134,0,0,Mingus city
+TX,4805264,Bailey,incorporated,25,A,220,"Bailey, TX",0,1135,0,0,Bailey city
+TX,4805708,Barry,incorporated,25,A,220,"Barry, TX",0,1136,0,0,Barry city
+TX,4854075,Opdyke West,incorporated,43,A,220,"Opdyke West, TX",0,1137,0,0,Opdyke West town
+TX,4820332,Dickens,incorporated,25,A,219,"Dickens, TX",0,1138,0,0,Dickens city
+TX,4880188,Woodson,incorporated,43,A,219,"Woodson, TX",0,1139,0,0,Woodson town
+TX,4862528,Roaring Springs,incorporated,43,A,217,"Roaring Springs, TX",0,1140,0,0,Roaring Springs town
+TX,4808398,Bishop Hills,incorporated,43,A,211,"Bishop Hills, TX",0,1141,0,0,Bishop Hills town
+TX,4816540,Cool,incorporated,25,A,211,"Cool, TX",0,1142,0,0,Cool city
+TX,4821112,Douglassville,incorporated,43,A,211,"Douglassville, TX",0,1143,0,0,Douglassville town
+TX,4865345,Sandy Point,incorporated,25,A,207,"Sandy Point, TX",0,1144,0,0,Sandy Point city
+TX,4868978,South Frydek,incorporated,25,A,207,"South Frydek, TX",0,1145,0,0,South Frydek city
+TX,4869608,Spring Branch,incorporated,25,A,206,"Spring Branch, TX",0,1146,0,0,Spring Branch city
+TX,4812895,Carl's Corner,incorporated,43,A,201,"Carl's Corner, TX",0,1147,0,0,Carl's Corner town
+TX,4877380,Westbrook,incorporated,25,A,201,"Westbrook, TX",0,1148,0,0,Westbrook city
+TX,4807636,Benjamin,incorporated,25,A,196,"Benjamin, TX",0,1149,0,0,Benjamin city
+TX,4803192,Anderson,incorporated,25,A,193,"Anderson, TX",0,1150,0,0,Anderson city
+TX,4870052,Staples,incorporated,25,A,193,"Staples, TX",0,1151,0,0,Staples city
+TX,4879684,Windom,incorporated,43,A,189,"Windom, TX",0,1152,0,0,Windom town
+TX,4812472,Caney City,incorporated,43,A,187,"Caney City, TX",0,1153,0,0,Caney City town
+TX,4824168,Emhouse,incorporated,43,A,187,"Emhouse, TX",0,1154,0,0,Emhouse town
+TX,4880144,Woodloch,incorporated,43,A,186,"Woodloch, TX",0,1155,0,0,Woodloch town
+TX,4803360,Annona,incorporated,43,A,184,"Annona, TX",0,1156,0,0,Annona town
+TX,4810384,Broaddus,incorporated,43,A,184,"Broaddus, TX",0,1157,0,0,Broaddus town
+TX,4817200,Cottonwood,incorporated,25,A,181,"Cottonwood, TX",0,1158,0,0,Cottonwood city
+TX,4846752,Marquez,incorporated,25,A,181,"Marquez, TX",0,1159,0,0,Marquez city
+TX,4809388,Bonney,incorporated,47,A,180,"Bonney, TX",0,1160,0,0,Bonney village
+TX,4856672,Penelope,incorporated,43,A,180,"Penelope, TX",0,1161,0,0,Penelope town
+TX,4830188,Goodlow,incorporated,25,A,178,"Goodlow, TX",0,1162,0,0,Goodlow city
+TX,4856468,Pecan Gap,incorporated,25,A,178,"Pecan Gap, TX",0,1163,0,0,Pecan Gap city
+TX,4841848,La Ward,incorporated,25,A,176,"La Ward, TX",0,1164,0,0,La Ward city
+TX,4860752,Ravenna,incorporated,25,A,175,"Ravenna, TX",0,1165,0,0,Ravenna city
+TX,4847460,Megargel,incorporated,43,A,174,"Megargel, TX",0,1166,0,0,Megargel town
+TX,4848180,Midway,incorporated,25,A,173,"Midway, TX",0,1167,0,0,Midway city
+TX,4837924,Jolly,incorporated,25,A,172,"Jolly, TX",0,1168,0,0,Jolly city
+TX,4877044,Weinert,incorporated,25,A,172,"Weinert, TX",0,1169,0,0,Weinert city
+TX,4811656,Bynum,incorporated,43,A,171,"Bynum, TX",0,1170,0,0,Bynum town
+TX,4810708,Browndell,incorporated,25,A,160,"Browndell, TX",0,1171,0,0,Browndell city
+TX,4849272,Moore Station,incorporated,25,A,160,"Moore Station, TX",0,1172,0,0,Moore Station city
+TX,4830296,Goree,incorporated,25,A,158,"Goree, TX",0,1173,0,0,Goree city
+TX,4872740,Thompsons,incorporated,43,A,156,"Thompsons, TX",0,1174,0,0,Thompsons town
+TX,4842340,Leona,incorporated,25,A,151,"Leona, TX",0,1175,0,0,Leona city
+TX,4869764,Springlake,incorporated,43,A,145,"Springlake, TX",0,1176,0,0,Springlake town
+TX,4847820,Mertens,incorporated,43,A,144,"Mertens, TX",0,1177,0,0,Mertens town
+TX,4848858,Mobile City,incorporated,25,A,142,"Mobile City, TX",0,1178,0,0,Mobile City city
+TX,4839292,Kingsbury,incorporated,25,A,132,"Kingsbury, TX",0,1179,0,0,Kingsbury city
+TX,4865384,Sanford,incorporated,43,A,132,"Sanford, TX",0,1180,0,0,Sanford town
+TX,4849992,Mullin,incorporated,43,A,130,"Mullin, TX",0,1181,0,0,Mullin town
+TX,4801324,Adrian,incorporated,25,A,128,"Adrian, TX",0,1182,0,0,Adrian city
+TX,4847568,Melvin,incorporated,43,A,123,"Melvin, TX",0,1183,0,0,Melvin town
+TX,4852668,Novice,incorporated,25,A,122,"Novice, TX",0,1184,0,0,Novice city
+TX,4824636,Estelline,incorporated,43,A,121,"Estelline, TX",0,1185,0,0,Estelline town
+TX,4873224,Todd Mission,incorporated,25,A,121,"Todd Mission, TX",0,1186,0,0,Todd Mission city
+TX,4832684,Harwood,incorporated,43,I,120,"Harwood, TX",0,1187,0,0,Harwood town
+TX,4805036,Austwell,incorporated,25,A,118,"Austwell, TX",0,1188,0,0,Austwell city
+TX,4818152,Cuney,incorporated,43,A,116,"Cuney, TX",0,1189,0,0,Cuney town
+TX,4846668,Marietta,incorporated,43,A,115,"Marietta, TX",0,1190,0,0,Marietta town
+TX,4803588,Aquilla,incorporated,25,A,101,"Aquilla, TX",0,1191,0,0,Aquilla city
+TX,4839520,Kirvin,incorporated,43,A,101,"Kirvin, TX",0,1192,0,0,Kirvin town
+TX,4863476,Round Mountain,incorporated,43,A,101,"Round Mountain, TX",0,1193,0,0,Round Mountain town
+TX,4859168,Powell,incorporated,43,A,99,"Powell, TX",0,1194,0,0,Powell town
+TX,4820716,Dodson,incorporated,43,A,93,"Dodson, TX",0,1195,0,0,Dodson town
+TX,4853304,O'Brien,incorporated,25,A,91,"O'Brien, TX",0,1196,0,0,O'Brien city
+TX,4873196,Toco,incorporated,25,A,91,"Toco, TX",0,1197,0,0,Toco city
+TX,4857056,Petronila,incorporated,25,A,89,"Petronila, TX",0,1198,0,0,Petronila city
+TX,4848852,Mobeetie,incorporated,25,A,87,"Mobeetie, TX",0,1199,0,0,Mobeetie city
+TX,4863524,Round Top,incorporated,43,A,87,"Round Top, TX",0,1200,0,0,Round Top town
+TX,4822708,Edmonson,incorporated,43,A,86,"Edmonson, TX",0,1201,0,0,Edmonson town
+TX,4874240,Uncertain,incorporated,25,A,85,"Uncertain, TX",0,1202,0,0,Uncertain city
+TX,4862870,Rocky Mound,incorporated,43,A,78,"Rocky Mound, TX",0,1203,0,0,Rocky Mound town
+TX,4874648,Valentine,incorporated,43,A,73,"Valentine, TX",0,1204,0,0,Valentine town
+TX,4859996,Pyote,incorporated,43,A,72,"Pyote, TX",0,1205,0,0,Pyote town
+TX,4820848,Domino,incorporated,43,A,71,"Domino, TX",0,1206,0,0,Domino town
+TX,4848478,Miller's Cove,incorporated,43,A,71,"Miller's Cove, TX",0,1207,0,0,Miller's Cove town
+TX,4871356,Sun Valley,incorporated,25,A,70,"Sun Valley, TX",0,1208,0,0,Sun Valley city
+TX,4820932,Dorchester,incorporated,25,A,69,"Dorchester, TX",0,1209,0,0,Dorchester city
+TX,4866884,Seven Oaks,incorporated,25,A,68,"Seven Oaks, TX",0,1210,0,0,Seven Oaks city
+TX,4851444,Neylandville,incorporated,43,A,67,"Neylandville, TX",0,1211,0,0,Neylandville town
+TX,4859984,Putnam,incorporated,43,A,63,"Putnam, TX",0,1212,0,0,Putnam town
+TX,4873496,Toyah,incorporated,43,A,61,"Toyah, TX",0,1213,0,0,Toyah town
+TX,4840888,Lakeview,incorporated,43,A,60,"Lakeview, TX",0,1214,0,0,Lakeview town
+TX,4819435,Dayton Lakes,incorporated,25,A,45,"Dayton Lakes, TX",0,1215,0,0,Dayton Lakes city
+TX,4869560,Spofford,incorporated,25,A,41,"Spofford, TX",0,1216,0,0,Spofford city
+TX,4844170,Los Ybanez,incorporated,25,A,28,"Los Ybanez, TX",0,1217,0,0,Los Ybanez city
+TX,4860164,Quintana,incorporated,43,A,26,"Quintana, TX",0,1218,0,0,Quintana town
+TX,4835816,Impact,incorporated,43,A,22,"Impact, TX",0,1219,0,0,Impact town
+TX,4817021,Corral City,incorporated,43,A,0,"Corral City, TX",0,1220,0,0,Corral City town
+TX,4821031,Double Horn,incorporated,25,A,0,"Double Horn, TX",0,1221,0,0,Double Horn city
+TX,4823176,Ellinger,incorporated,25,A,0,"Ellinger, TX",0,1222,0,0,Ellinger city
+TX,4834018,Hillcrest Village,incorporated,25,A,0,"Hillcrest Village, TX",0,1223,0,0,Hillcrest Village city
+TX,4850184,Mustang,incorporated,43,I,0,"Mustang, TX",0,1224,0,0,Mustang town
+TX,4856432,Peaster,incorporated,43,A,0,"Peaster, TX",0,1225,0,0,Peaster town
+TX,4858502,Poetry,incorporated,43,A,0,"Poetry, TX",0,1226,0,0,Poetry town
+TX,4859065,Post Oak Bend,incorporated,25,A,0,"Post Oak Bend, TX",0,1227,0,0,Post Oak Bend city
+TX,4873493,Town of Pecos,incorporated,25,A,0,"Town of Pecos, TX",0,1228,0,0,Town of Pecos city

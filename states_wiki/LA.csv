@@ -1,0 +1,306 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+LA,2255000,New Orleans,incorporated,25,A,383997,"New Orleans, LA",0,1,66,0.264,New Orleans city
+LA,2205000,Baton Rouge,incorporated,25,B,227470,"Baton Rouge, LA",0,2,42,0.168,Baton Rouge city
+LA,2270000,Shreveport,incorporated,25,A,187593,"Shreveport, LA",0,3,16,0.064,Shreveport city
+LA,2240735,Lafayette,incorporated,25,B,121374,"Lafayette, LA",0,4,11,0.044,Lafayette city
+LA,2241155,Lake Charles,incorporated,25,A,84872,"Lake Charles, LA",0,5,10,0.04,Lake Charles city
+LA,2239475,Kenner,incorporated,25,A,66448,"Kenner, LA",0,6,8,0.032,Kenner city
+LA,2208920,Bossier City,incorporated,25,A,62701,"Bossier City, LA",0,7,7,0.028,Bossier City city
+LA,2251410,Monroe,incorporated,25,A,47702,"Monroe, LA",0,8,6,0.024,Monroe city
+LA,2200975,Alexandria,incorporated,25,A,45275,"Alexandria, LA",0,9,4,0.016,Alexandria city
+LA,2236255,Houma,incorporated,25,N,33406,"Houma, LA",0,10,5,0.02,Houma city
+LA,2213960,Central,incorporated,25,A,29565,"Central, LA",0,11,3,0.012,Central city
+LA,2270805,Slidell,incorporated,25,A,28781,"Slidell, LA",0,12,4,0.016,Slidell city
+LA,2254035,New Iberia,incorporated,25,A,28555,"New Iberia, LA",0,13,4,0.016,New Iberia city
+LA,2266655,Ruston,incorporated,25,A,22166,"Ruston, LA",0,14,2,0.008,Ruston city
+LA,2273640,Sulphur,incorporated,25,A,21809,"Sulphur, LA",0,15,2,0.008,Sulphur city
+LA,2232755,Hammond,incorporated,25,A,19584,"Hammond, LA",0,16,2,0.008,Hammond city
+LA,2283405,Zachary,incorporated,25,A,19316,"Zachary, LA",0,17,3,0.012,Zachary city
+LA,2253545,Natchitoches,incorporated,25,A,18039,"Natchitoches, LA",0,18,3,0.012,Natchitoches city
+LA,2231915,Gretna,incorporated,25,A,17814,"Gretna, LA",0,19,3,0.012,Gretna city
+LA,2275425,Thibodaux,incorporated,25,A,15948,"Thibodaux, LA",0,20,2,0.008,Thibodaux city
+LA,2283335,Youngsville,incorporated,25,A,15929,"Youngsville, LA",0,21,1,0.004,Youngsville city
+LA,2258045,Opelousas,incorporated,25,A,15786,"Opelousas, LA",0,22,1,0.004,Opelousas city
+LA,2260530,Pineville,incorporated,25,A,14384,"Pineville, LA",0,23,1,0.004,Pineville city
+LA,2210075,Broussard,incorporated,25,A,13417,"Broussard, LA",0,24,1,0.004,Broussard city
+LA,2248225,Mandeville,incorporated,25,A,13192,"Mandeville, LA",0,25,1,0.004,Mandeville city
+LA,2280955,West Monroe,incorporated,25,A,13103,"West Monroe, LA",0,26,1,0.004,West Monroe city
+LA,2203985,Baker,incorporated,25,A,12455,"Baker, LA",0,27,1,0.004,Baker city
+LA,2229850,Gonzales,incorporated,25,A,12231,"Gonzales, LA",0,28,1,0.004,Gonzales city
+LA,2250885,Minden,incorporated,25,A,11928,"Minden, LA",0,29,2,0.008,Minden city
+LA,2218650,Crowley,incorporated,25,A,11710,"Crowley, LA",0,30,2,0.008,Crowley city
+LA,2218125,Covington,incorporated,25,A,11564,"Covington, LA",0,31,2,0.008,Covington city
+LA,2252040,Morgan City,incorporated,25,A,11472,"Morgan City, LA",0,32,2,0.008,Morgan City city
+LA,2200100,Abbeville,incorporated,25,A,11186,"Abbeville, LA",0,33,2,0.008,Abbeville city
+LA,2208150,Bogalusa,incorporated,25,A,10659,"Bogalusa, LA",0,34,2,0.008,Bogalusa city
+LA,2220610,DeRidder,incorporated,25,A,9852,"DeRidder, LA",0,35,2,0.008,DeRidder city
+LA,2238355,Jennings,incorporated,25,A,9837,"Jennings, LA",0,36,2,0.008,Jennings city
+LA,2204685,Bastrop,incorporated,25,A,9691,"Bastrop, LA",0,37,2,0.008,Bastrop city
+LA,2224565,Eunice,incorporated,25,A,9422,"Eunice, LA",0,38,2,0.008,Eunice city
+LA,2220435,Denham Springs,incorporated,25,A,9286,"Denham Springs, LA",0,39,2,0.008,Denham Springs city
+LA,2212665,Carencro,incorporated,25,A,9272,"Carencro, LA",0,40,2,0.008,Carencro city
+LA,2232930,Harahan,incorporated,25,A,9116,"Harahan, LA",0,41,2,0.008,Harahan city
+LA,2281165,Westwego,incorporated,25,A,8568,"Westwego, LA",0,42,2,0.008,Westwego city
+LA,2268475,Scott,incorporated,25,A,8119,"Scott, LA",0,43,2,0.008,Scott city
+LA,2261615,Ponchatoula,incorporated,25,A,7822,"Ponchatoula, LA",0,44,2,0.008,Ponchatoula city
+LA,2209340,Breaux Bridge,incorporated,25,A,7513,"Breaux Bridge, LA",0,45,2,0.008,Breaux Bridge city
+LA,2263645,Rayne,incorporated,25,A,7236,"Rayne, LA",0,46,2,0.008,Rayne city
+LA,2200415,Addis,incorporated,43,A,6731,"Addis, LA",0,47,1,0.004,Addis town
+LA,2227155,Franklin,incorporated,25,A,6728,"Franklin, LA",0,48,1,0.004,Franklin city
+LA,2221240,Donaldsonville,incorporated,25,A,6695,"Donaldsonville, LA",0,49,1,0.004,Donaldsonville city
+LA,2256540,Oakdale,incorporated,25,A,6692,"Oakdale, LA",0,50,0,0,Oakdale city
+LA,2267250,St. Gabriel,incorporated,25,A,6433,"St. Gabriel, LA",0,51,0,0,St. Gabriel city
+LA,2279240,Walker,incorporated,43,A,6374,"Walker, LA",0,52,0,0,Walker town
+LA,2278715,Ville Platte,incorporated,25,A,6303,"Ville Platte, LA",0,53,0,0,Ville Platte city
+LA,2274690,Tallulah,incorporated,25,A,6286,"Tallulah, LA",0,54,0,0,Tallulah city
+LA,2260880,Plaquemine,incorporated,25,A,6269,"Plaquemine, LA",0,55,0,0,Plaquemine city
+LA,2259340,Patterson,incorporated,25,A,5931,"Patterson, LA",0,56,0,0,Patterson city
+LA,2243010,Leesville,incorporated,25,A,5649,"Leesville, LA",0,57,0,0,Leesville city
+LA,2267600,St. Martinville,incorporated,25,A,5379,"St. Martinville, LA",0,58,0,0,St. Martinville city
+LA,2230515,Grambling,incorporated,25,A,5239,"Grambling, LA",0,59,0,0,Grambling city
+LA,2248750,Marksville,incorporated,25,A,5065,"Marksville, LA",0,60,0,0,Marksville city
+LA,2261790,Port Allen,incorporated,25,A,4939,"Port Allen, LA",0,61,0,0,Port Allen city
+LA,2282495,Winnsboro,incorporated,25,A,4862,"Winnsboro, LA",0,62,0,0,Winnsboro city
+LA,2238075,Jeanerette,incorporated,25,A,4813,"Jeanerette, LA",0,63,0,0,Jeanerette city
+LA,2272485,Springhill,incorporated,25,A,4801,"Springhill, LA",0,64,0,0,Springhill city
+LA,2280815,Westlake,incorporated,25,A,4781,"Westlake, LA",0,65,0,0,Westlake city
+LA,2207100,Berwick,incorporated,43,A,4771,"Berwick, LA",0,66,0,0,Berwick town
+LA,2248365,Mansfield,incorporated,25,A,4714,"Mansfield, LA",0,67,0,0,Mansfield city
+LA,2255105,New Roads,incorporated,25,A,4549,"New Roads, LA",0,68,0,0,New Roads city
+LA,2233420,Haughton,incorporated,43,A,4539,"Haughton, LA",0,69,0,0,Haughton town
+LA,2239055,Kaplan,incorporated,25,A,4352,"Kaplan, LA",0,70,0,0,Kaplan city
+LA,2215465,Church Point,incorporated,43,A,4179,"Church Point, LA",0,71,0,0,Church Point town
+LA,2238285,Jena,incorporated,43,A,4155,"Jena, LA",0,72,0,0,Jena town
+LA,2282460,Winnfield,incorporated,25,A,4153,"Winnfield, LA",0,73,0,0,Winnfield city
+LA,2238670,Jonesboro,incorporated,43,A,4106,"Jonesboro, LA",0,74,0,0,Jonesboro town
+LA,2278470,Vidalia,incorporated,43,A,4027,"Vidalia, LA",0,75,0,0,Vidalia town
+LA,2201885,Amite City,incorporated,43,A,4005,"Amite City, LA",0,76,0,0,Amite City town
+LA,2237830,Jackson,incorporated,43,A,3990,"Jackson, LA",0,77,0,0,Jackson town
+LA,2204055,Ball,incorporated,43,A,3961,"Ball, LA",0,78,0,0,Ball town
+LA,2264660,Richwood,incorporated,43,A,3881,"Richwood, LA",0,79,0,0,Richwood town
+LA,2227190,Franklinton,incorporated,43,A,3662,"Franklinton, LA",0,80,0,0,Franklinton town
+LA,2241400,Lake Providence,incorporated,43,A,3587,"Lake Providence, LA",0,81,0,0,Lake Providence town
+LA,2207730,Blanchard,incorporated,43,A,3538,"Blanchard, LA",0,82,0,0,Blanchard town
+LA,2237445,Iowa,incorporated,43,A,3436,"Iowa, LA",0,83,0,0,Iowa town
+LA,2278820,Vinton,incorporated,43,A,3400,"Vinton, LA",0,84,0,0,Vinton town
+LA,2225160,Farmerville,incorporated,43,A,3366,"Farmerville, LA",0,85,0,0,Farmerville town
+LA,2263680,Rayville,incorporated,43,A,3347,"Rayville, LA",0,86,0,0,Rayville town
+LA,2210950,Bunkie,incorporated,25,A,3346,"Bunkie, LA",0,87,0,0,Bunkie city
+LA,2280430,Welsh,incorporated,43,A,3333,"Welsh, LA",0,88,0,0,Welsh town
+LA,2225440,Ferriday,incorporated,43,A,3189,"Ferriday, LA",0,89,0,0,Ferriday town
+LA,2231705,Greenwood,incorporated,43,A,3166,"Greenwood, LA",0,90,0,0,Greenwood town
+LA,2220575,DeQuincy,incorporated,25,A,3144,"DeQuincy, LA",0,91,0,0,DeQuincy city
+LA,2246720,Lutcher,incorporated,43,A,3133,"Lutcher, LA",0,92,0,0,Lutcher town
+LA,2278890,Vivian,incorporated,43,A,3073,"Vivian, LA",0,93,0,0,Vivian town
+LA,2248085,Mamou,incorporated,43,A,2936,"Mamou, LA",0,94,0,0,Mamou town
+LA,2230550,Gramercy,incorporated,43,A,2932,"Gramercy, LA",0,95,0,0,Gramercy town
+LA,2274060,Sunset,incorporated,43,A,2909,"Sunset, LA",0,96,0,0,Sunset town
+LA,2235870,Homer,incorporated,43,A,2747,"Homer, LA",0,97,0,0,Homer town
+LA,2202655,Arcadia,incorporated,43,A,2746,"Arcadia, LA",0,98,0,0,Arcadia town
+LA,2200240,Abita Springs,incorporated,43,A,2631,"Abita Springs, LA",0,99,0,0,Abita Springs town
+LA,2220190,Delhi,incorporated,43,A,2622,"Delhi, LA",0,100,0,0,Delhi town
+LA,2241050,Lake Arthur,incorporated,43,A,2595,"Lake Arthur, LA",0,101,0,0,Lake Arthur town
+LA,2210600,Brusly,incorporated,43,A,2578,"Brusly, LA",0,102,0,0,Brusly town
+LA,2248470,Many,incorporated,43,A,2571,"Many, LA",0,103,0,0,Many town
+LA,2259445,Pearl River,incorporated,43,A,2565,"Pearl River, LA",0,104,0,0,Pearl River town
+LA,2244900,Lockport,incorporated,43,A,2490,"Lockport, LA",0,105,0,0,Lockport town
+LA,2273395,Stonewall,incorporated,43,A,2273,"Stonewall, LA",0,106,0,0,Stonewall town
+LA,2254175,New Llano,incorporated,43,A,2213,"New Llano, LA",0,107,0,0,New Llano town
+LA,2239755,Kinder,incorporated,43,A,2170,"Kinder, LA",0,108,0,0,Kinder town
+LA,2239545,Kentwood,incorporated,43,A,2145,"Kentwood, LA",0,109,0,0,Kentwood town
+LA,2249240,Maurice,incorporated,47,A,2118,"Maurice, LA",0,110,0,0,Maurice village
+LA,2206925,Benton,incorporated,43,A,2048,"Benton, LA",0,111,0,0,Benton town
+LA,2233525,Haynesville,incorporated,43,A,2039,"Haynesville, LA",0,112,0,0,Haynesville town
+LA,2224180,Erath,incorporated,43,A,2028,"Erath, LA",0,113,0,0,Erath town
+LA,2217880,Cottonport,incorporated,43,A,2023,"Cottonport, LA",0,114,0,0,Cottonport town
+LA,2273255,Sterlington,incorporated,43,A,1980,"Sterlington, LA",0,115,0,0,Sterlington town
+LA,2244655,Livingston,incorporated,43,A,1877,"Livingston, LA",0,116,0,0,Livingston town
+LA,2238092,Jean Lafitte,incorporated,43,A,1809,"Jean Lafitte, LA",0,117,0,0,Jean Lafitte town
+LA,2220155,Delcambre,incorporated,43,A,1793,"Delcambre, LA",0,118,0,0,Delcambre town
+LA,2204020,Baldwin,incorporated,43,A,1762,"Baldwin, LA",0,119,0,0,Baldwin town
+LA,2283125,Woodworth,incorporated,43,A,1762,"Woodworth, LA",0,120,0,0,Woodworth town
+LA,2229640,Golden Meadow,incorporated,43,A,1761,"Golden Meadow, LA",0,121,0,0,Golden Meadow town
+LA,2218055,Coushatta,incorporated,43,A,1752,"Coushatta, LA",0,122,0,0,Coushatta town
+LA,2261825,Port Barre,incorporated,43,A,1751,"Port Barre, LA",0,123,0,0,Port Barre town
+LA,2238775,Jonesville,incorporated,43,A,1728,"Jonesville, LA",0,124,0,0,Jonesville town
+LA,2281375,White Castle,incorporated,43,A,1722,"White Castle, LA",0,125,0,0,White Castle town
+LA,2283685,Zwolle,incorporated,43,A,1638,"Zwolle, LA",0,126,0,0,Zwolle town
+LA,2237025,Independence,incorporated,43,A,1635,"Independence, LA",0,127,0,0,Independence town
+LA,2233875,Henderson,incorporated,43,A,1617,"Henderson, LA",0,128,0,0,Henderson town
+LA,2267215,St. Francisville,incorporated,43,A,1557,"St. Francisville, LA",0,129,0,0,St. Francisville town
+LA,2266200,Rosepine,incorporated,43,A,1519,"Rosepine, LA",0,130,0,0,Rosepine town
+LA,2271225,Sorrento,incorporated,43,A,1514,"Sorrento, LA",0,131,0,0,Sorrento town
+LA,2260495,Pine Prairie,incorporated,47,A,1490,"Pine Prairie, LA",0,132,0,0,Pine Prairie village
+LA,2270525,Simmesport,incorporated,43,A,1468,"Simmesport, LA",0,133,0,0,Simmesport town
+LA,2256820,Oak Grove,incorporated,43,A,1441,"Oak Grove, LA",0,134,0,0,Oak Grove town
+LA,2216375,Colfax,incorporated,43,A,1428,"Colfax, LA",0,135,0,0,Colfax town
+LA,2257450,Oberlin,incorporated,43,A,1402,"Oberlin, LA",0,136,0,0,Oberlin town
+LA,2264905,Ringgold,incorporated,43,A,1379,"Ringgold, LA",0,137,0,0,Ringgold town
+LA,2207030,Bernice,incorporated,43,A,1356,"Bernice, LA",0,138,0,0,Bernice town
+LA,2215990,Clinton,incorporated,43,A,1340,"Clinton, LA",0,139,0,0,Clinton town
+LA,2245040,Logansport,incorporated,43,A,1340,"Logansport, LA",0,140,0,0,Logansport town
+LA,2222255,Duson,incorporated,43,A,1326,"Duson, LA",0,141,0,0,Duson town
+LA,2248400,Mansura,incorporated,43,A,1320,"Mansura, LA",0,142,0,0,Mansura town
+LA,2237410,Iota,incorporated,43,A,1304,"Iota, LA",0,143,0,0,Iota town
+LA,2257905,Olla,incorporated,43,A,1295,"Olla, LA",0,144,0,0,Olla town
+LA,2200835,Albany,incorporated,43,A,1235,"Albany, LA",0,145,0,0,Albany town
+LA,2204580,Basile,incorporated,43,A,1214,"Basile, LA",0,146,0,0,Basile town
+LA,2244690,Livonia,incorporated,43,A,1212,"Livonia, LA",0,147,0,0,Livonia town
+LA,2239685,Killian,incorporated,43,A,1177,"Killian, LA",0,148,0,0,Killian town
+LA,2232055,Gueydan,incorporated,43,A,1165,"Gueydan, LA",0,149,0,0,Gueydan town
+LA,2270175,Sibley,incorporated,43,A,1127,"Sibley, LA",0,150,0,0,Sibley town
+LA,2229220,Glenmora,incorporated,43,A,1087,"Glenmora, LA",0,151,0,0,Glenmora town
+LA,2227435,French Settlement,incorporated,47,A,1073,"French Settlement, LA",0,152,0,0,French Settlement village
+LA,2215780,Clarks,incorporated,47,A,1052,"Clarks, LA",0,153,0,0,Clarks village
+LA,2270770,Slaughter,incorporated,43,A,1035,"Slaughter, LA",0,154,0,0,Slaughter town
+LA,2203110,Arnaudville,incorporated,43,A,1009,"Arnaudville, LA",0,155,0,0,Arnaudville town
+LA,2230830,Grand Isle,incorporated,43,A,1005,"Grand Isle, LA",0,156,0,0,Grand Isle town
+LA,2223620,Elton,incorporated,43,A,992,"Elton, LA",0,157,0,0,Elton town
+LA,2215290,Choudrant,incorporated,47,A,989,"Choudrant, LA",0,158,0,0,Choudrant village
+LA,2251970,Moreauville,incorporated,47,A,984,"Moreauville, LA",0,159,0,0,Moreauville village
+LA,2250010,Merryville,incorporated,43,A,967,"Merryville, LA",0,160,0,0,Merryville town
+LA,2226280,Fordoche,incorporated,43,A,910,"Fordoche, LA",0,161,0,0,Fordoche town
+LA,2221800,Dubach,incorporated,43,A,908,"Dubach, LA",0,162,0,0,Dubach town
+LA,2240280,Krotz Springs,incorporated,43,A,904,"Krotz Springs, LA",0,163,0,0,Krotz Springs town
+LA,2257590,Oil City,incorporated,43,A,901,"Oil City, LA",0,164,0,0,Oil City town
+LA,2260670,Plain Dealing,incorporated,43,A,893,"Plain Dealing, LA",0,165,0,0,Plain Dealing town
+LA,2248610,Maringouin,incorporated,43,A,891,"Maringouin, LA",0,166,0,0,Maringouin town
+LA,2209165,Boyce,incorporated,43,A,888,"Boyce, LA",0,167,0,0,Boyce town
+LA,2212280,Campti,incorporated,43,A,887,"Campti, LA",0,168,0,0,Campti town
+LA,2253930,Newellton,incorporated,43,A,886,"Newellton, LA",0,169,0,0,Newellton town
+LA,2266165,Roseland,incorporated,43,A,880,"Roseland, LA",0,170,0,0,Roseland town
+LA,2243395,Leonville,incorporated,43,A,868,"Leonville, LA",0,171,0,0,Leonville town
+LA,2201920,Anacoco,incorporated,47,A,851,"Anacoco, LA",0,172,0,0,Anacoco village
+LA,2247560,Madisonville,incorporated,43,A,850,"Madisonville, LA",0,173,0,0,Madisonville town
+LA,2242800,Lecompte,incorporated,43,A,845,"Lecompte, LA",0,174,0,0,Lecompte town
+LA,2267495,St. Joseph,incorporated,43,A,831,"St. Joseph, LA",0,175,0,0,St. Joseph town
+LA,2270630,Simsboro,incorporated,47,A,803,"Simsboro, LA",0,176,0,0,Simsboro village
+LA,2217915,Cotton Valley,incorporated,43,A,787,"Cotton Valley, LA",0,177,0,0,Cotton Valley town
+LA,2230760,Grand Coteau,incorporated,43,A,776,"Grand Coteau, LA",0,178,0,0,Grand Coteau town
+LA,2228835,Gibsland,incorporated,43,A,773,"Gibsland, LA",0,179,0,0,Gibsland town
+LA,2234015,Hessmer,incorporated,47,A,772,"Hessmer, LA",0,180,0,0,Hessmer village
+LA,2282565,Wisner,incorporated,43,A,771,"Wisner, LA",0,181,0,0,Wisner town
+LA,2226140,Folsom,incorporated,47,A,769,"Folsom, LA",0,182,0,0,Folsom village
+LA,2249730,Melville,incorporated,43,A,759,"Melville, LA",0,183,0,0,Melville town
+LA,2251830,Mooringsport,incorporated,43,A,748,"Mooringsport, LA",0,184,0,0,Mooringsport town
+LA,2279870,Washington,incorporated,43,A,742,"Washington, LA",0,185,0,0,Washington town
+LA,2268125,Sarepta,incorporated,43,A,717,"Sarepta, LA",0,186,0,0,Sarepta town
+LA,2218790,Cullen,incorporated,43,A,716,"Cullen, LA",0,187,0,0,Cullen town
+LA,2277490,Urania,incorporated,43,A,698,"Urania, LA",0,188,0,0,Urania town
+LA,2224460,Estherwood,incorporated,47,A,694,"Estherwood, LA",0,189,0,0,Estherwood village
+LA,2221590,Doyline,incorporated,47,A,674,"Doyline, LA",0,190,0,0,Doyline village
+LA,2266060,Rosedale,incorporated,47,A,664,"Rosedale, LA",0,191,0,0,Rosedale village
+LA,2245670,Loreauville,incorporated,47,A,658,"Loreauville, LA",0,192,0,0,Loreauville village
+LA,2262105,Port Vincent,incorporated,47,A,646,"Port Vincent, LA",0,193,0,0,Port Vincent village
+LA,2259165,Parks,incorporated,47,A,640,"Parks, LA",0,194,0,0,Parks village
+LA,2275670,Tickfaw,incorporated,47,A,635,"Tickfaw, LA",0,195,0,0,Tickfaw village
+LA,2231565,Greensburg,incorporated,43,A,629,"Greensburg, LA",0,196,0,0,Greensburg town
+LA,2248260,Mangham,incorporated,43,A,624,"Mangham, LA",0,197,0,0,Mangham town
+LA,2248645,Marion,incorporated,43,A,623,"Marion, LA",0,198,0,0,Marion town
+LA,2251620,Montgomery,incorporated,43,A,622,"Montgomery, LA",0,199,0,0,Montgomery town
+LA,2261055,Pleasant Hill,incorporated,47,A,617,"Pleasant Hill, LA",0,200,0,0,Pleasant Hill village
+LA,2226420,Forest Hill,incorporated,47,A,605,"Forest Hill, LA",0,201,0,0,Forest Hill village
+LA,2252320,Morse,incorporated,47,A,599,"Morse, LA",0,202,0,0,Morse village
+LA,2270595,Simpson,incorporated,47,A,585,"Simpson, LA",0,203,0,0,Simpson village
+LA,2215850,Clayton,incorporated,43,A,584,"Clayton, LA",0,204,0,0,Clayton town
+LA,2212420,Cankton,incorporated,47,A,583,"Cankton, LA",0,205,0,0,Cankton village
+LA,2264765,Ridgecrest,incorporated,43,A,583,"Ridgecrest, LA",0,206,0,0,Ridgecrest town
+LA,2225860,Florien,incorporated,47,A,553,"Florien, LA",0,207,0,0,Florien village
+LA,2232020,Grosse Tete,incorporated,47,A,548,"Grosse Tete, LA",0,208,0,0,Grosse Tete village
+LA,2279940,Waterproof,incorporated,43,A,541,"Waterproof, LA",0,209,0,0,Waterproof town
+LA,2253370,Napoleonville,incorporated,47,A,540,"Napoleonville, LA",0,210,0,0,Napoleonville village
+LA,2262770,Provencal,incorporated,47,A,528,"Provencal, LA",0,211,0,0,Provencal village
+LA,2252075,Morganza,incorporated,47,A,525,"Morganza, LA",0,212,0,0,Morganza village
+LA,2248925,Martin,incorporated,47,A,524,"Martin, LA",0,213,0,0,Martin village
+LA,2249870,Mermentau,incorporated,47,A,516,"Mermentau, LA",0,214,0,0,Mermentau village
+LA,2264590,Richmond,incorporated,47,A,511,"Richmond, LA",0,215,0,0,Richmond village
+LA,2214485,Chatham,incorporated,43,A,491,"Chatham, LA",0,216,0,0,Chatham town
+LA,2249905,Mer Rouge,incorporated,47,A,491,"Mer Rouge, LA",0,217,0,0,Mer Rouge village
+LA,2253510,Natchez,incorporated,47,A,489,"Natchez, LA",0,218,0,0,Natchez village
+LA,2278540,Vienna,incorporated,43,A,483,"Vienna, LA",0,219,0,0,Vienna town
+LA,2214660,Cheneyville,incorporated,43,A,468,"Cheneyville, LA",0,220,0,0,Cheneyville town
+LA,2221765,Dry Prong,incorporated,47,A,455,"Dry Prong, LA",0,221,0,0,Dry Prong village
+LA,2228940,Gilbert,incorporated,47,A,449,"Gilbert, LA",0,222,0,0,Gilbert village
+LA,2231250,Grayson,incorporated,47,A,449,"Grayson, LA",0,223,0,0,Grayson village
+LA,2238985,Junction City,incorporated,47,A,437,"Junction City, LA",0,224,0,0,Junction City village
+LA,2236045,Hornbeck,incorporated,43,A,430,"Hornbeck, LA",0,225,0,0,Hornbeck town
+LA,2229745,Goldonna,incorporated,47,A,428,"Goldonna, LA",0,226,0,0,Goldonna village
+LA,2272415,Springfield,incorporated,43,A,427,"Springfield, LA",0,227,0,0,Springfield town
+LA,2274760,Tangipahoa,incorporated,47,A,425,"Tangipahoa, LA",0,228,0,0,Tangipahoa village
+LA,2223235,Elizabeth,incorporated,47,A,417,"Elizabeth, LA",0,229,0,0,Elizabeth village
+LA,2261580,Pollock,incorporated,43,A,394,"Pollock, LA",0,230,0,0,Pollock town
+LA,2276685,Turkey Creek,incorporated,47,A,394,"Turkey Creek, LA",0,231,0,0,Turkey Creek village
+LA,2273955,Sun,incorporated,47,A,392,"Sun, LA",0,232,0,0,Sun village
+LA,2235100,Hodge,incorporated,47,A,382,"Hodge, LA",0,233,0,0,Hodge village
+LA,2217215,Converse,incorporated,47,A,379,"Converse, LA",0,234,0,0,Converse village
+LA,2270245,Sicily Island,incorporated,47,A,366,"Sicily Island, LA",0,235,0,0,Sicily Island village
+LA,2224145,Epps,incorporated,47,A,358,"Epps, LA",0,236,0,0,Epps village
+LA,2239650,Kilbourne,incorporated,47,A,351,"Kilbourne, LA",0,237,0,0,Kilbourne village
+LA,2282215,Wilson,incorporated,47,A,348,"Wilson, LA",0,238,0,0,Wilson village
+LA,2271820,South Mansfield,incorporated,47,A,333,"South Mansfield, LA",0,239,0,0,South Mansfield village
+LA,2277910,Varnado,incorporated,47,A,330,"Varnado, LA",0,240,0,0,Varnado village
+LA,2215745,Clarence,incorporated,47,A,326,"Clarence, LA",0,241,0,0,Clarence village
+LA,2226350,Forest,incorporated,47,A,304,"Forest, LA",0,242,0,0,Forest village
+LA,2276615,Tullos,incorporated,43,A,304,"Tullos, LA",0,243,0,0,Tullos town
+LA,2255910,North Hodge,incorporated,47,A,296,"North Hodge, LA",0,244,0,0,North Hodge village
+LA,2221170,Dodson,incorporated,47,A,294,"Dodson, LA",0,245,0,0,Dodson village
+LA,2221135,Dixie Inn,incorporated,47,A,293,"Dixie Inn, LA",0,246,0,0,Dixie Inn village
+LA,2256295,Norwood,incorporated,47,A,279,"Norwood, LA",0,247,0,0,Norwood village
+LA,2216830,Columbia,incorporated,43,A,277,"Columbia, LA",0,248,0,0,Columbia town
+LA,2228660,Georgetown,incorporated,47,A,277,"Georgetown, LA",0,249,0,0,Georgetown village
+LA,2233210,Harrisonburg,incorporated,47,A,277,"Harrisonburg, LA",0,250,0,0,Harrisonburg village
+LA,2216655,Collinston,incorporated,47,A,274,"Collinston, LA",0,251,0,0,Collinston village
+LA,2232650,Hall Summit,incorporated,47,A,268,"Hall Summit, LA",0,252,0,0,Hall Summit village
+LA,2267880,Saline,incorporated,47,A,265,"Saline, LA",0,253,0,0,Saline village
+LA,2214450,Chataignier,incorporated,47,A,259,"Chataignier, LA",0,254,0,0,Chataignier village
+LA,2202165,Angie,incorporated,47,A,258,"Angie, LA",0,255,0,0,Angie village
+LA,2246370,Lucky,incorporated,47,A,251,"Lucky, LA",0,256,0,0,Lucky village
+LA,2221835,Dubberly,incorporated,47,A,250,"Dubberly, LA",0,257,0,0,Dubberly village
+LA,2205945,Belcher,incorporated,47,A,248,"Belcher, LA",0,258,0,0,Belcher village
+LA,2236150,Hosston,incorporated,47,A,244,"Hosston, LA",0,259,0,0,Hosston village
+LA,2239085,Keachi,incorporated,43,A,243,"Keachi, LA",0,260,0,0,Keachi town
+LA,2211930,Calvin,incorporated,47,A,242,"Calvin, LA",0,261,0,0,Calvin village
+LA,2218295,Creola,incorporated,47,A,242,"Creola, LA",0,262,0,0,Creola village
+LA,2203320,Athens,incorporated,47,A,237,"Athens, LA",0,263,0,0,Athens village
+LA,2220330,Delta,incorporated,47,A,232,"Delta, LA",0,264,0,0,Delta village
+LA,2213260,Castor,incorporated,47,A,230,"Castor, LA",0,265,0,0,Castor village
+LA,2225335,Fenton,incorporated,47,A,226,"Fenton, LA",0,266,0,0,Fenton village
+LA,2260985,Plaucheville,incorporated,47,A,221,"Plaucheville, LA",0,267,0,0,Plaucheville village
+LA,2264100,Reeves,incorporated,47,A,221,"Reeves, LA",0,268,0,0,Reeves village
+LA,2230690,Grand Cane,incorporated,47,A,217,"Grand Cane, LA",0,269,0,0,Grand Cane village
+LA,2236885,Ida,incorporated,47,A,217,"Ida, LA",0,270,0,0,Ida village
+LA,2224775,Evergreen,incorporated,43,A,215,"Evergreen, LA",0,271,0,0,Evergreen town
+LA,2233735,Heflin,incorporated,47,A,213,"Heflin, LA",0,272,0,0,Heflin village
+LA,2204615,Baskin,incorporated,47,A,210,"Baskin, LA",0,273,0,0,Baskin village
+LA,2222465,East Hodge,incorporated,47,A,204,"East Hodge, LA",0,274,0,0,East Hodge village
+LA,2222850,Edgefield,incorporated,47,A,204,"Edgefield, LA",0,275,0,0,Edgefield village
+LA,2247315,McNary,incorporated,47,A,201,"McNary, LA",0,276,0,0,McNary village
+LA,2255420,Noble,incorporated,47,A,200,"Noble, LA",0,277,0,0,Noble village
+LA,2225615,Fisher,incorporated,47,A,197,"Fisher, LA",0,278,0,0,Fisher village
+LA,2251690,Montpelier,incorporated,47,A,196,"Montpelier, LA",0,279,0,0,Montpelier village
+LA,2203145,Ashland,incorporated,47,A,194,"Ashland, LA",0,280,0,0,Ashland village
+LA,2265710,Rodessa,incorporated,47,A,192,"Rodessa, LA",0,281,0,0,Rodessa village
+LA,2207205,Bienville,incorporated,47,A,191,"Bienville, LA",0,282,0,0,Bienville village
+LA,2244235,Lisbon,incorporated,47,A,173,"Lisbon, LA",0,283,0,0,Lisbon village
+LA,2208535,Bonita,incorporated,47,A,170,"Bonita, LA",0,284,0,0,Bonita village
+LA,2263120,Quitman,incorporated,47,A,160,"Quitman, LA",0,285,0,0,Quitman village
+LA,2269455,Shongaloo,incorporated,47,A,151,"Shongaloo, LA",0,286,0,0,Shongaloo village
+LA,2203390,Atlanta,incorporated,47,A,149,"Atlanta, LA",0,287,0,0,Atlanta village
+LA,2260565,Pioneer,incorporated,47,A,149,"Pioneer, LA",0,288,0,0,Pioneer village
+LA,2272800,Stanley,incorporated,47,A,132,"Stanley, LA",0,289,0,0,Stanley village
+LA,2224215,Eros,incorporated,43,A,130,"Eros, LA",0,290,0,0,Eros town
+LA,2272170,Spearsville,incorporated,47,A,126,"Spearsville, LA",0,291,0,0,Spearsville village
+LA,2257205,Oak Ridge,incorporated,47,A,124,"Oak Ridge, LA",0,292,0,0,Oak Ridge village
+LA,2229010,Gilliam,incorporated,47,A,123,"Gilliam, LA",0,293,0,0,Gilliam village
+LA,2221450,Downsville,incorporated,47,A,120,"Downsville, LA",0,294,0,0,Downsville village
+LA,2265325,Robeline,incorporated,47,A,117,"Robeline, LA",0,295,0,0,Robeline village
+LA,2245460,Longstreet,incorporated,47,A,115,"Longstreet, LA",0,296,0,0,Longstreet village
+LA,2270385,Sikes,incorporated,47,A,112,"Sikes, LA",0,297,0,0,Sikes village
+LA,2243920,Lillie,incorporated,47,A,111,"Lillie, LA",0,298,0,0,Lillie village
+LA,2262245,Powhatan,incorporated,47,A,101,"Powhatan, LA",0,299,0,0,Powhatan village
+LA,2237935,Jamestown,incorporated,47,A,100,"Jamestown, LA",0,300,0,0,Jamestown village
+LA,2258780,Palmetto,incorporated,47,A,92,"Palmetto, LA",0,301,0,0,Palmetto village
+LA,2210705,Bryceland,incorporated,47,A,87,"Bryceland, LA",0,302,0,0,Bryceland village
+LA,2252740,Mount Lebanon,incorporated,43,A,66,"Mount Lebanon, LA",0,303,0,0,Mount Lebanon town
+LA,2252565,Mound,incorporated,47,A,12,"Mound, LA",0,304,0,0,Mound village
+LA,2267303,St. George,incorporated,25,A,0,"St. George, LA",0,305,0,0,St. George city

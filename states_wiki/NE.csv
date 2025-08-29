@@ -1,0 +1,529 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+NE,3137000,Omaha,incorporated,25,A,486051,"Omaha, NE",0,1,64,0.256,Omaha city
+NE,3128000,Lincoln,incorporated,25,A,291082,"Lincoln, NE",0,2,41,0.164,Lincoln city
+NE,3103950,Bellevue,incorporated,25,A,64176,"Bellevue, NE",0,3,17,0.068,Bellevue city
+NE,3119595,Grand Island,incorporated,25,A,53131,"Grand Island, NE",0,4,11,0.044,Grand Island city
+NE,3125055,Kearney,incorporated,25,A,33790,"Kearney, NE",0,5,8,0.032,Kearney city
+NE,3117670,Fremont,incorporated,25,A,27141,"Fremont, NE",0,6,8,0.032,Fremont city
+NE,3121415,Hastings,incorporated,25,A,25152,"Hastings, NE",0,7,7,0.028,Hastings city
+NE,3134615,Norfolk,incorporated,25,A,24955,"Norfolk, NE",0,8,6,0.024,Norfolk city
+NE,3138295,Papillion,incorporated,25,A,24159,"Papillion, NE",0,9,4,0.016,Papillion city
+NE,3110110,Columbus,incorporated,25,A,24028,"Columbus, NE",0,10,5,0.02,Columbus city
+NE,3135000,North Platte,incorporated,25,A,23390,"North Platte, NE",0,11,3,0.012,North Platte city
+NE,3126385,La Vista,incorporated,25,A,16746,"La Vista, NE",0,12,4,0.016,La Vista city
+NE,3144245,Scottsbluff,incorporated,25,A,14436,"Scottsbluff, NE",0,13,4,0.016,Scottsbluff city
+NE,3146030,South Sioux City,incorporated,25,A,14043,"South Sioux City, NE",0,14,2,0.008,South Sioux City city
+NE,3103390,Beatrice,incorporated,25,A,12261,"Beatrice, NE",0,15,2,0.008,Beatrice city
+NE,3126910,Lexington,incorporated,25,A,10348,"Lexington, NE",0,16,3,0.012,Lexington city
+NE,3118580,Gering,incorporated,25,A,8564,"Gering, NE",0,17,3,0.012,Gering city
+NE,3100905,Alliance,incorporated,25,A,8151,"Alliance, NE",0,18,3,0.012,Alliance city
+NE,3154045,York,incorporated,25,A,8066,"York, NE",0,19,3,0.012,York city
+NE,3105350,Blair,incorporated,25,A,7790,"Blair, NE",0,20,2,0.008,Blair city
+NE,3144420,Seward,incorporated,25,A,7643,"Seward, NE",0,21,1,0.004,Seward city
+NE,3129925,McCook,incorporated,25,A,7446,"McCook, NE",0,22,1,0.004,McCook city
+NE,3133705,Nebraska City,incorporated,25,A,7222,"Nebraska City, NE",0,23,1,0.004,Nebraska City city
+NE,3111370,Crete,incorporated,25,A,7099,"Crete, NE",0,24,1,0.004,Crete city
+NE,3144035,Schuyler,incorporated,25,A,6547,"Schuyler, NE",0,25,1,0.004,Schuyler city
+NE,3139345,Plattsmouth,incorporated,25,A,6544,"Plattsmouth, NE",0,26,1,0.004,Plattsmouth city
+NE,3140605,Ralston,incorporated,25,A,6494,"Ralston, NE",0,27,1,0.004,Ralston city
+NE,3145295,Sidney,incorporated,25,A,6410,"Sidney, NE",0,28,2,0.008,Sidney city
+NE,3151840,Wayne,incorporated,25,A,5973,"Wayne, NE",0,29,2,0.008,Wayne city
+NE,3122640,Holdrege,incorporated,25,A,5515,"Holdrege, NE",0,30,2,0.008,Holdrege city
+NE,3108605,Chadron,incorporated,25,A,5206,"Chadron, NE",0,31,2,0.008,Chadron city
+NE,3120260,Gretna,incorporated,25,A,5083,"Gretna, NE",0,32,2,0.008,Gretna city
+NE,3135980,Ogallala,incorporated,25,A,4878,"Ogallala, NE",0,33,2,0.008,Ogallala city
+NE,3150965,Wahoo,incorporated,25,A,4818,"Wahoo, NE",0,34,2,0.008,Wahoo city
+NE,3102690,Aurora,incorporated,25,A,4678,"Aurora, NE",0,35,2,0.008,Aurora city
+NE,3151770,Waverly,incorporated,25,A,4279,"Waverly, NE",0,36,2,0.008,Waverly city
+NE,3116655,Falls City,incorporated,25,A,4133,"Falls City, NE",0,37,2,0.008,Falls City city
+NE,3111020,Cozad,incorporated,25,A,3988,"Cozad, NE",0,38,2,0.008,Cozad city
+NE,3116410,Fairbury,incorporated,25,A,3970,"Fairbury, NE",0,39,2,0.008,Fairbury city
+NE,3137105,O'Neill,incorporated,25,A,3581,"O'Neill, NE",0,40,2,0.008,O'Neill city
+NE,3106610,Broken Bow,incorporated,25,A,3506,"Broken Bow, NE",0,41,2,0.008,Broken Bow city
+NE,3152575,West Point,incorporated,25,A,3500,"West Point, NE",0,42,2,0.008,West Point city
+NE,3119385,Gothenburg,incorporated,25,A,3478,"Gothenburg, NE",0,43,2,0.008,Gothenburg city
+NE,3102655,Auburn,incorporated,25,A,3470,"Auburn, NE",0,44,2,0.008,Auburn city
+NE,3132340,Minden,incorporated,25,A,3118,"Minden, NE",0,45,2,0.008,Minden city
+NE,3102305,Ashland,incorporated,25,A,3086,"Ashland, NE",0,46,2,0.008,Ashland city
+NE,3108535,Central City,incorporated,25,A,3039,"Central City, NE",0,47,2,0.008,Central City city
+NE,3150020,Valley,incorporated,25,A,3037,"Valley, NE",0,48,1,0.004,Valley city
+NE,3112315,David City,incorporated,25,A,2995,"David City, NE",0,49,1,0.004,David City city
+NE,3149950,Valentine,incorporated,25,A,2633,"Valentine, NE",0,50,1,0.004,Valentine city
+NE,3122325,Hickman,incorporated,25,A,2607,"Hickman, NE",0,51,0,0,Hickman city
+NE,3143265,St. Paul,incorporated,25,A,2416,"St. Paul, NE",0,52,0,0,St. Paul city
+NE,3125475,Kimball,incorporated,25,A,2290,"Kimball, NE",0,53,0,0,Kimball city
+NE,3130240,Madison,incorporated,25,A,2283,"Madison, NE",0,54,0,0,Madison city
+NE,3132060,Milford,incorporated,25,A,2155,"Milford, NE",0,55,0,0,Milford city
+NE,3118405,Geneva,incorporated,25,A,2136,"Geneva, NE",0,56,0,0,Geneva city
+NE,3137280,Ord,incorporated,25,A,2113,"Ord, NE",0,57,0,0,Ord city
+NE,3112000,Dakota City,incorporated,25,A,2081,"Dakota City, NE",0,58,0,0,Dakota City city
+NE,3123690,Imperial,incorporated,25,A,2068,"Imperial, NE",0,59,0,0,Imperial city
+NE,3104405,Bennington,incorporated,25,A,2026,"Bennington, NE",0,60,0,0,Bennington city
+NE,3148235,Syracuse,incorporated,25,A,1941,"Syracuse, NE",0,61,0,0,Syracuse city
+NE,3152960,Wilber,incorporated,25,A,1937,"Wilber, NE",0,62,0,0,Wilber city
+NE,3118615,Gibbon,incorporated,25,A,1878,"Gibbon, NE",0,63,0,0,Gibbon city
+NE,3139100,Pierce,incorporated,25,A,1845,"Pierce, NE",0,64,0,0,Pierce city
+NE,3147815,Superior,incorporated,25,A,1825,"Superior, NE",0,65,0,0,Superior city
+NE,3148515,Tekamah,incorporated,25,A,1714,"Tekamah, NE",0,66,0,0,Tekamah city
+NE,3100555,Albion,incorporated,25,A,1699,"Albion, NE",0,67,0,0,Albion city
+NE,3148480,Tecumseh,incorporated,25,A,1694,"Tecumseh, NE",0,68,0,0,Tecumseh city
+NE,3100415,Ainsworth,incorporated,25,A,1616,"Ainsworth, NE",0,69,0,0,Ainsworth city
+NE,3132410,Mitchell,incorporated,25,A,1548,"Mitchell, NE",0,70,0,0,Mitchell city
+NE,3133775,Neligh,incorporated,25,A,1536,"Neligh, NE",0,71,0,0,Neligh city
+NE,3151070,Wakefield,incorporated,25,A,1522,"Wakefield, NE",0,72,0,0,Wakefield city
+NE,3146800,Stanton,incorporated,25,A,1520,"Stanton, NE",0,73,0,0,Stanton city
+NE,3121275,Hartington,incorporated,25,A,1517,"Hartington, NE",0,74,0,0,Hartington city
+NE,3119350,Gordon,incorporated,25,A,1504,"Gordon, NE",0,75,0,0,Gordon city
+NE,3146520,Springfield,incorporated,25,A,1501,"Springfield, NE",0,76,0,0,Springfield city
+NE,3121905,Hebron,incorporated,25,A,1458,"Hebron, NE",0,77,0,0,Hebron city
+NE,3106295,Bridgeport,incorporated,25,A,1454,"Bridgeport, NE",0,78,0,0,Bridgeport city
+NE,3147955,Sutton,incorporated,25,A,1447,"Sutton, NE",0,79,0,0,Sutton city
+NE,3140710,Ravenna,incorporated,25,A,1441,"Ravenna, NE",0,80,0,0,Ravenna city
+NE,3153835,Wymore,incorporated,25,A,1377,"Wymore, NE",0,81,0,0,Wymore city
+NE,3135490,Oakland,incorporated,25,A,1369,"Oakland, NE",0,82,0,0,Oakland city
+NE,3154115,Yutan,incorporated,25,A,1347,"Yutan, NE",0,83,0,0,Yutan city
+NE,3129260,Louisville,incorporated,25,A,1319,"Louisville, NE",0,84,0,0,Louisville city
+NE,3147920,Sutherland,incorporated,47,A,1313,"Sutherland, NE",0,85,0,0,Sutherland village
+NE,3102550,Atkinson,incorporated,25,A,1306,"Atkinson, NE",0,86,0,0,Atkinson city
+NE,3101990,Arlington,incorporated,47,A,1300,"Arlington, NE",0,87,0,0,Arlington village
+NE,3139170,Plainview,incorporated,25,A,1282,"Plainview, NE",0,88,0,0,Plainview city
+NE,3134720,North Bend,incorporated,25,A,1279,"North Bend, NE",0,89,0,0,North Bend city
+NE,3117810,Fullerton,incorporated,25,A,1244,"Fullerton, NE",0,90,0,0,Fullerton city
+NE,3153450,Wisner,incorporated,25,A,1239,"Wisner, NE",0,91,0,0,Wisner city
+NE,3119910,Grant,incorporated,25,A,1197,"Grant, NE",0,92,0,0,Grant city
+NE,3103250,Battle Creek,incorporated,25,A,1194,"Battle Creek, NE",0,93,0,0,Battle Creek city
+NE,3153660,Wood River,incorporated,25,A,1172,"Wood River, NE",0,94,0,0,Wood River city
+NE,3111230,Creighton,incorporated,25,A,1147,"Creighton, NE",0,95,0,0,Creighton city
+NE,3147465,Stromsburg,incorporated,25,A,1143,"Stromsburg, NE",0,96,0,0,Stromsburg city
+NE,3103285,Bayard,incorporated,25,A,1140,"Bayard, NE",0,97,0,0,Bayard city
+NE,3138750,Pender,incorporated,47,A,1115,"Pender, NE",0,98,0,0,Pender village
+NE,3117145,Fort Calhoun,incorporated,25,A,1108,"Fort Calhoun, NE",0,99,0,0,Fort Calhoun city
+NE,3107345,Burwell,incorporated,25,A,1087,"Burwell, NE",0,100,0,0,Burwell city
+NE,3104300,Bennet,incorporated,47,A,1082,"Bennet, NE",0,101,0,0,Bennet village
+NE,3122080,Henderson,incorporated,25,A,1080,"Henderson, NE",0,102,0,0,Henderson city
+NE,3107730,Cambridge,incorporated,25,A,1071,"Cambridge, NE",0,103,0,0,Cambridge city
+NE,3114100,Eagle,incorporated,47,A,1065,"Eagle, NE",0,104,0,0,Eagle village
+NE,3148585,Terrytown,incorporated,25,A,1057,"Terrytown, NE",0,105,0,0,Terrytown city
+NE,3129470,Loup City,incorporated,25,A,1053,"Loup City, NE",0,106,0,0,Loup City city
+NE,3100975,Alma,incorporated,25,A,1043,"Alma, NE",0,107,0,0,Alma city
+NE,3144700,Shelton,incorporated,47,A,1034,"Shelton, NE",0,108,0,0,Shelton village
+NE,3152015,Weeping Water,incorporated,25,A,1029,"Weeping Water, NE",0,109,0,0,Weeping Water city
+NE,3101780,Arapahoe,incorporated,25,A,1002,"Arapahoe, NE",0,110,0,0,Arapahoe city
+NE,3148935,Tilden,incorporated,25,A,992,"Tilden, NE",0,111,0,0,Tilden city
+NE,3105455,Bloomfield,incorporated,25,A,986,"Bloomfield, NE",0,112,0,0,Bloomfield city
+NE,3115360,Elm Creek,incorporated,47,A,979,"Elm Creek, NE",0,113,0,0,Elm Creek village
+NE,3126350,Laurel,incorporated,25,A,972,"Laurel, NE",0,114,0,0,Laurel city
+NE,3140920,Red Cloud,incorporated,25,A,962,"Red Cloud, NE",0,115,0,0,Red Cloud city
+NE,3117775,Friend,incorporated,25,A,954,"Friend, NE",0,116,0,0,Friend city
+NE,3121345,Harvard,incorporated,25,A,951,"Harvard, NE",0,117,0,0,Harvard city
+NE,3117530,Franklin,incorporated,25,A,941,"Franklin, NE",0,118,0,0,Franklin city
+NE,3151665,Waterloo,incorporated,47,A,935,"Waterloo, NE",0,119,0,0,Waterloo village
+NE,3132830,Morrill,incorporated,47,A,934,"Morrill, NE",0,120,0,0,Morrill village
+NE,3108570,Ceresco,incorporated,47,A,919,"Ceresco, NE",0,121,0,0,Ceresco village
+NE,3125160,Kenesaw,incorporated,47,A,919,"Kenesaw, NE",0,122,0,0,Kenesaw village
+NE,3153275,Winnebago,incorporated,47,A,916,"Winnebago, NE",0,123,0,0,Winnebago village
+NE,3139695,Ponca,incorporated,25,A,907,"Ponca, NE",0,124,0,0,Ponca city
+NE,3118475,Genoa,incorporated,25,A,894,"Genoa, NE",0,125,0,0,Genoa city
+NE,3140675,Randolph,incorporated,25,A,879,"Randolph, NE",0,126,0,0,Randolph city
+NE,3137525,Osceola,incorporated,25,A,875,"Osceola, NE",0,127,0,0,Osceola city
+NE,3138575,Pawnee City,incorporated,25,A,865,"Pawnee City, NE",0,128,0,0,Pawnee City city
+NE,3123025,Hooper,incorporated,25,A,857,"Hooper, NE",0,129,0,0,Hooper city
+NE,3123480,Humphrey,incorporated,25,A,857,"Humphrey, NE",0,130,0,0,Humphrey city
+NE,3108885,Chappell,incorporated,25,A,844,"Chappell, NE",0,131,0,0,Chappell city
+NE,3144280,Scribner,incorporated,25,A,843,"Scribner, NE",0,132,0,0,Scribner city
+NE,3111195,Crawford,incorporated,25,A,840,"Crawford, NE",0,133,0,0,Crawford city
+NE,3115710,Emerson,incorporated,47,A,840,"Emerson, NE",0,134,0,0,Emerson village
+NE,3149915,Utica,incorporated,47,A,840,"Utica, NE",0,135,0,0,Utica village
+NE,3129855,Lyons,incorporated,25,A,824,"Lyons, NE",0,136,0,0,Lyons city
+NE,3107625,Cairo,incorporated,47,A,822,"Cairo, NE",0,137,0,0,Cairo village
+NE,3104230,Benkelman,incorporated,25,A,821,"Benkelman, NE",0,138,0,0,Benkelman city
+NE,3142775,Rushville,incorporated,25,A,816,"Rushville, NE",0,139,0,0,Rushville city
+NE,3113365,Doniphan,incorporated,47,A,809,"Doniphan, NE",0,140,0,0,Doniphan village
+NE,3137560,Oshkosh,incorporated,25,A,809,"Oshkosh, NE",0,141,0,0,Oshkosh city
+NE,3111825,Curtis,incorporated,25,A,806,"Curtis, NE",0,142,0,0,Curtis city
+NE,3105560,Blue Hill,incorporated,25,A,805,"Blue Hill, NE",0,143,0,0,Blue Hill city
+NE,3123445,Humboldt,incorporated,25,A,800,"Humboldt, NE",0,144,0,0,Humboldt city
+NE,3137595,Osmond,incorporated,25,A,794,"Osmond, NE",0,145,0,0,Osmond city
+NE,3122045,Hemingford,incorporated,47,A,787,"Hemingford, NE",0,146,0,0,Hemingford village
+NE,3111440,Crofton,incorporated,25,A,756,"Crofton, NE",0,147,0,0,Crofton city
+NE,3112840,Deshler,incorporated,25,A,752,"Deshler, NE",0,148,0,0,Deshler city
+NE,3124950,Juniata,incorporated,47,A,748,"Juniata, NE",0,149,0,0,Juniata village
+NE,3109375,Clay Center,incorporated,25,A,735,"Clay Center, NE",0,150,0,0,Clay Center city
+NE,3102830,Axtell,incorporated,47,A,732,"Axtell, NE",0,151,0,0,Axtell village
+NE,3143055,St. Edward,incorporated,25,A,725,"St. Edward, NE",0,152,0,0,St. Edward city
+NE,3137910,Oxford,incorporated,47,A,718,"Oxford, NE",0,153,0,0,Oxford village
+NE,3114730,Elgin,incorporated,25,A,717,"Elgin, NE",0,154,0,0,Elgin city
+NE,3132305,Minatare,incorporated,25,A,715,"Minatare, NE",0,155,0,0,Minatare city
+NE,3144595,Shelby,incorporated,47,A,710,"Shelby, NE",0,156,0,0,Shelby village
+NE,3104615,Bertrand,incorporated,47,A,709,"Bertrand, NE",0,157,0,0,Bertrand village
+NE,3151245,Walthill,incorporated,47,A,682,"Walthill, NE",0,158,0,0,Walthill village
+NE,3134230,Newman Grove,incorporated,25,A,667,"Newman Grove, NE",0,159,0,0,Newman Grove city
+NE,3115570,Elwood,incorporated,47,A,658,"Elwood, NE",0,160,0,0,Elwood village
+NE,3115430,Elmwood,incorporated,47,A,654,"Elmwood, NE",0,161,0,0,Elmwood village
+NE,3116935,Firth,incorporated,47,A,649,"Firth, NE",0,162,0,0,Firth village
+NE,3122290,Hershey,incorporated,47,A,649,"Hershey, NE",0,163,0,0,Hershey village
+NE,3138960,Peru,incorporated,25,A,648,"Peru, NE",0,164,0,0,Peru city
+NE,3100625,Alda,incorporated,47,A,647,"Alda, NE",0,165,0,0,Alda village
+NE,3109200,Clarkson,incorporated,25,A,641,"Clarkson, NE",0,166,0,0,Clarkson city
+NE,3131395,Mead,incorporated,47,A,617,"Mead, NE",0,167,0,0,Mead village
+NE,3108150,Cedar Bluffs,incorporated,47,A,615,"Cedar Bluffs, NE",0,168,0,0,Cedar Bluffs village
+NE,3103635,Beemer,incorporated,47,A,611,"Beemer, NE",0,169,0,0,Beemer village
+NE,3113295,Dodge,incorporated,47,A,611,"Dodge, NE",0,170,0,0,Dodge village
+NE,3113435,Dorchester,incorporated,47,A,610,"Dorchester, NE",0,171,0,0,Dorchester village
+NE,3137770,Overton,incorporated,47,A,607,"Overton, NE",0,172,0,0,Overton village
+NE,3100240,Adams,incorporated,47,A,604,"Adams, NE",0,173,0,0,Adams village
+NE,3121730,Hay Springs,incorporated,47,A,599,"Hay Springs, NE",0,174,0,0,Hay Springs village
+NE,3120190,Greenwood,incorporated,47,A,595,"Greenwood, NE",0,175,0,0,Greenwood village
+NE,3150125,Valparaiso,incorporated,47,A,595,"Valparaiso, NE",0,176,0,0,Valparaiso village
+NE,3102095,Arnold,incorporated,47,A,592,"Arnold, NE",0,177,0,0,Arnold village
+NE,3116550,Fairmont,incorporated,47,A,592,"Fairmont, NE",0,178,0,0,Fairmont village
+NE,3151735,Wausa,incorporated,47,A,592,"Wausa, NE",0,179,0,0,Wausa village
+NE,3107660,Callaway,incorporated,47,A,563,"Callaway, NE",0,180,0,0,Callaway village
+NE,3123340,Howells,incorporated,47,A,561,"Howells, NE",0,181,0,0,Howells village
+NE,3150370,Verdigre,incorporated,47,A,554,"Verdigre, NE",0,182,0,0,Verdigre village
+NE,3151700,Wauneta,incorporated,47,A,549,"Wauneta, NE",0,183,0,0,Wauneta village
+NE,3103215,Bassett,incorporated,25,A,538,"Bassett, NE",0,184,0,0,Bassett city
+NE,3103495,Beaver City,incorporated,25,A,537,"Beaver City, NE",0,185,0,0,Beaver City city
+NE,3109865,Coleridge,incorporated,47,A,537,"Coleridge, NE",0,186,0,0,Coleridge village
+NE,3111615,Culbertson,incorporated,47,A,534,"Culbertson, NE",0,187,0,0,Culbertson village
+NE,3138190,Palmyra,incorporated,47,A,534,"Palmyra, NE",0,188,0,0,Palmyra village
+NE,3122920,Homer,incorporated,47,A,532,"Homer, NE",0,189,0,0,Homer village
+NE,3113015,De Witt,incorporated,47,A,530,"De Witt, NE",0,190,0,0,De Witt village
+NE,3123830,Indianola,incorporated,25,A,524,"Indianola, NE",0,191,0,0,Indianola city
+NE,3116340,Exeter,incorporated,47,A,523,"Exeter, NE",0,192,0,0,Exeter village
+NE,3138610,Paxton,incorporated,47,A,516,"Paxton, NE",0,193,0,0,Paxton village
+NE,3149145,Trenton,incorporated,47,A,516,"Trenton, NE",0,194,0,0,Trenton village
+NE,3110635,Cortland,incorporated,47,A,504,"Cortland, NE",0,195,0,0,Cortland village
+NE,3133250,Mullen,incorporated,47,A,500,"Mullen, NE",0,196,0,0,Mullen village
+NE,3143685,Sargent,incorporated,25,A,500,"Sargent, NE",0,197,0,0,Sargent city
+NE,3103005,Bancroft,incorporated,47,A,496,"Bancroft, NE",0,198,0,0,Bancroft village
+NE,3147500,Stuart,incorporated,47,A,486,"Stuart, NE",0,199,0,0,Stuart village
+NE,3133425,Murray,incorporated,47,A,480,"Murray, NE",0,200,0,0,Murray village
+NE,3147150,Sterling,incorporated,47,A,480,"Sterling, NE",0,201,0,0,Sterling village
+NE,3108185,Cedar Creek,incorporated,47,A,465,"Cedar Creek, NE",0,202,0,0,Cedar Creek village
+NE,3101535,Ansley,incorporated,47,A,459,"Ansley, NE",0,203,0,0,Ansley village
+NE,3130345,Malcolm,incorporated,47,A,457,"Malcolm, NE",0,204,0,0,Malcolm village
+NE,3133880,Nelson,incorporated,25,A,456,"Nelson, NE",0,205,0,0,Nelson city
+NE,3129960,McCool Junction,incorporated,47,A,453,"McCool Junction, NE",0,206,0,0,McCool Junction village
+NE,3138160,Palmer,incorporated,47,A,439,"Palmer, NE",0,207,0,0,Palmer village
+NE,3126560,Leigh,incorporated,47,A,435,"Leigh, NE",0,208,0,0,Leigh village
+NE,3120785,Hampton,incorporated,47,A,432,"Hampton, NE",0,209,0,0,Hampton village
+NE,3114450,Edgar,incorporated,25,A,428,"Edgar, NE",0,210,0,0,Edgar city
+NE,3143475,Santee,incorporated,47,A,424,"Santee, NE",0,211,0,0,Santee village
+NE,3106015,Boys Town,incorporated,47,A,410,"Boys Town, NE",0,212,0,0,Boys Town village
+NE,3112525,Decatur,incorporated,47,A,410,"Decatur, NE",0,213,0,0,Decatur village
+NE,3146135,Spalding,incorporated,47,A,408,"Spalding, NE",0,214,0,0,Spalding village
+NE,3146275,Spencer,incorporated,47,A,408,"Spencer, NE",0,215,0,0,Spencer village
+NE,3104020,Bellwood,incorporated,47,A,407,"Bellwood, NE",0,216,0,0,Bellwood village
+NE,3118825,Giltner,incorporated,47,A,406,"Giltner, NE",0,217,0,0,Giltner village
+NE,3120050,Greeley Center,incorporated,47,A,402,"Greeley Center, NE",0,218,0,0,Greeley Center village
+NE,3104895,Big Springs,incorporated,47,A,394,"Big Springs, NE",0,219,0,0,Big Springs village
+NE,3113890,Duncan,incorporated,47,A,392,"Duncan, NE",0,220,0,0,Duncan village
+NE,3129085,Loomis,incorporated,47,A,391,"Loomis, NE",0,221,0,0,Loomis village
+NE,3116165,Eustis,incorporated,47,A,389,"Eustis, NE",0,222,0,0,Eustis village
+NE,3106085,Brady,incorporated,47,A,383,"Brady, NE",0,223,0,0,Brady village
+NE,3108220,Cedar Rapids,incorporated,47,A,382,"Cedar Rapids, NE",0,224,0,0,Cedar Rapids village
+NE,3125230,Kennard,incorporated,47,A,381,"Kennard, NE",0,225,0,0,Kennard village
+NE,3123970,Inglewood,incorporated,47,A,380,"Inglewood, NE",0,226,0,0,Inglewood village
+NE,3153380,Winside,incorporated,47,A,379,"Winside, NE",0,227,0,0,Winside village
+NE,3122430,Hildreth,incorporated,47,A,377,"Hildreth, NE",0,228,0,0,Hildreth village
+NE,3103530,Beaver Crossing,incorporated,47,A,375,"Beaver Crossing, NE",0,229,0,0,Beaver Crossing village
+NE,3116270,Ewing,incorporated,47,A,373,"Ewing, NE",0,230,0,0,Ewing village
+NE,3134370,Niobrara,incorporated,47,A,365,"Niobrara, NE",0,231,0,0,Niobrara village
+NE,3139590,Plymouth,incorporated,47,A,364,"Plymouth, NE",0,232,0,0,Plymouth village
+NE,3137210,Orchard,incorporated,47,A,363,"Orchard, NE",0,233,0,0,Orchard village
+NE,3139450,Pleasanton,incorporated,47,A,361,"Pleasanton, NE",0,234,0,0,Pleasanton village
+NE,3141480,Rising City,incorporated,47,A,356,"Rising City, NE",0,235,0,0,Rising City village
+NE,3100870,Allen,incorporated,47,A,355,"Allen, NE",0,236,0,0,Allen village
+NE,3145085,Shickley,incorporated,47,A,347,"Shickley, NE",0,237,0,0,Shickley village
+NE,3139660,Polk,incorporated,47,A,346,"Polk, NE",0,238,0,0,Polk village
+NE,3109165,Clarks,incorporated,47,A,344,"Clarks, NE",0,239,0,0,Clarks village
+NE,3131780,Merna,incorporated,47,A,343,"Merna, NE",0,240,0,0,Merna village
+NE,3139870,Potter,incorporated,47,A,342,"Potter, NE",0,241,0,0,Potter village
+NE,3137420,Orleans,incorporated,47,A,341,"Orleans, NE",0,242,0,0,Orleans village
+NE,3106120,Brainard,incorporated,47,A,336,"Brainard, NE",0,243,0,0,Brainard village
+NE,3139310,Platte Center,incorporated,47,A,333,"Platte Center, NE",0,244,0,0,Platte Center village
+NE,3138995,Petersburg,incorporated,47,A,332,"Petersburg, NE",0,245,0,0,Petersburg village
+NE,3106785,Brule,incorporated,47,A,331,"Brule, NE",0,246,0,0,Brule village
+NE,3116445,Fairfield,incorporated,25,A,330,"Fairfield, NE",0,247,0,0,Fairfield city
+NE,3152995,Wilcox,incorporated,47,A,330,"Wilcox, NE",0,248,0,0,Wilcox village
+NE,3109445,Clearwater,incorporated,47,A,320,"Clearwater, NE",0,249,0,0,Clearwater village
+NE,3139030,Phillips,incorporated,47,A,320,"Phillips, NE",0,250,0,0,Phillips village
+NE,3145400,Silver Creek,incorporated,47,A,320,"Silver Creek, NE",0,251,0,0,Silver Creek village
+NE,3110390,Cook,incorporated,47,A,319,"Cook, NE",0,252,0,0,Cook village
+NE,3112245,Davenport,incorporated,47,A,319,"Davenport, NE",0,253,0,0,Davenport village
+NE,3151175,Wallace,incorporated,47,A,318,"Wallace, NE",0,254,0,0,Wallace village
+NE,3128420,Lodgepole,incorporated,47,A,312,"Lodgepole, NE",0,255,0,0,Lodgepole village
+NE,3134300,Nickerson,incorporated,47,A,312,"Nickerson, NE",0,256,0,0,Nickerson village
+NE,3147395,Stratton,incorporated,47,A,310,"Stratton, NE",0,257,0,0,Stratton village
+NE,3124670,Johnson,incorporated,47,A,309,"Johnson, NE",0,258,0,0,Johnson village
+NE,3129050,Long Pine,incorporated,25,A,305,"Long Pine, NE",0,259,0,0,Long Pine city
+NE,3144070,Scotia,incorporated,47,A,301,"Scotia, NE",0,260,0,0,Scotia village
+NE,3132585,Monroe,incorporated,47,A,296,"Monroe, NE",0,261,0,0,Monroe village
+NE,3149530,Unadilla,incorporated,47,A,296,"Unadilla, NE",0,262,0,0,Unadilla village
+NE,3150895,Waco,incorporated,47,A,296,"Waco, NE",0,263,0,0,Waco village
+NE,3138130,Palisade,incorporated,47,A,294,"Palisade, NE",0,264,0,0,Palisade village
+NE,3139975,Prague,incorporated,47,A,291,"Prague, NE",0,265,0,0,Prague village
+NE,3108675,Chambers,incorporated,47,A,288,"Chambers, NE",0,266,0,0,Chambers village
+NE,3131465,Meadow Grove,incorporated,47,A,287,"Meadow Grove, NE",0,267,0,0,Meadow Grove village
+NE,3107485,Butte,incorporated,47,A,286,"Butte, NE",0,268,0,0,Butte village
+NE,3112070,Dalton,incorporated,47,A,284,"Dalton, NE",0,269,0,0,Dalton village
+NE,3101850,Arcadia,incorporated,47,A,283,"Arcadia, NE",0,270,0,0,Arcadia village
+NE,3128105,Lindsay,incorporated,47,A,283,"Lindsay, NE",0,271,0,0,Lindsay village
+NE,3105630,Blue Springs,incorporated,25,A,282,"Blue Springs, NE",0,272,0,0,Blue Springs city
+NE,3106820,Bruning,incorporated,47,A,281,"Bruning, NE",0,273,0,0,Bruning village
+NE,3120470,Hadar,incorporated,47,A,280,"Hadar, NE",0,274,0,0,Hadar village
+NE,3135385,Oakdale,incorporated,47,A,276,"Oakdale, NE",0,275,0,0,Oakdale village
+NE,3106050,Bradshaw,incorporated,47,A,273,"Bradshaw, NE",0,276,0,0,Bradshaw village
+NE,3112140,Dannebrog,incorporated,47,A,273,"Dannebrog, NE",0,277,0,0,Dannebrog village
+NE,3107870,Campbell,incorporated,47,A,272,"Campbell, NE",0,278,0,0,Campbell village
+NE,3126420,Lawrence,incorporated,47,A,272,"Lawrence, NE",0,279,0,0,Lawrence village
+NE,3134090,Newcastle,incorporated,47,A,272,"Newcastle, NE",0,280,0,0,Newcastle village
+NE,3103180,Bartley,incorporated,47,A,270,"Bartley, NE",0,281,0,0,Bartley village
+NE,3133320,Murdock,incorporated,47,A,270,"Murdock, NE",0,282,0,0,Murdock village
+NE,3120610,Hallam,incorporated,47,A,268,"Hallam, NE",0,283,0,0,Hallam village
+NE,3146870,Stapleton,incorporated,47,A,267,"Stapleton, NE",0,284,0,0,Stapleton village
+NE,3109270,Clatonia,incorporated,47,A,263,"Clatonia, NE",0,285,0,0,Clatonia village
+NE,3123235,Hoskins,incorporated,47,A,263,"Hoskins, NE",0,286,0,0,Hoskins village
+NE,3142355,Roseland,incorporated,47,A,263,"Roseland, NE",0,287,0,0,Roseland village
+NE,3131325,Maywood,incorporated,47,A,262,"Maywood, NE",0,288,0,0,Maywood village
+NE,3108780,Chapman,incorporated,47,A,260,"Chapman, NE",0,289,0,0,Chapman village
+NE,3119070,Glenvil,incorporated,47,A,260,"Glenvil, NE",0,290,0,0,Glenvil village
+NE,3135735,Odell,incorporated,47,A,260,"Odell, NE",0,291,0,0,Odell village
+NE,3129715,Lyman,incorporated,47,A,259,"Lyman, NE",0,292,0,0,Lyman village
+NE,3131220,Maxwell,incorporated,47,A,257,"Maxwell, NE",0,293,0,0,Maxwell village
+NE,3134825,North Loup,incorporated,47,A,254,"North Loup, NE",0,294,0,0,North Loup village
+NE,3145610,Snyder,incorporated,47,A,254,"Snyder, NE",0,295,0,0,Snyder village
+NE,3147675,Sumner,incorporated,47,A,252,"Sumner, NE",0,296,0,0,Sumner village
+NE,3152540,Weston,incorporated,47,A,250,"Weston, NE",0,297,0,0,Weston village
+NE,3113085,Diller,incorporated,47,A,247,"Diller, NE",0,298,0,0,Diller village
+NE,3122185,Herman,incorporated,47,A,247,"Herman, NE",0,299,0,0,Herman village
+NE,3141515,Riverdale,incorporated,47,A,247,"Riverdale, NE",0,300,0,0,Riverdale village
+NE,3132200,Milligan,incorporated,47,A,244,"Milligan, NE",0,301,0,0,Milligan village
+NE,3130275,Madrid,incorporated,47,A,242,"Madrid, NE",0,302,0,0,Madrid village
+NE,3149425,Uehling,incorporated,47,A,241,"Uehling, NE",0,303,0,0,Uehling village
+NE,3139135,Pilger,incorporated,47,A,240,"Pilger, NE",0,304,0,0,Pilger village
+NE,3121240,Harrison,incorporated,47,A,239,"Harrison, NE",0,305,0,0,Harrison village
+NE,3146625,Springview,incorporated,47,A,238,"Springview, NE",0,306,0,0,Springview village
+NE,3130730,Marquette,incorporated,47,A,236,"Marquette, NE",0,307,0,0,Marquette village
+NE,3146835,Staplehurst,incorporated,47,A,236,"Staplehurst, NE",0,308,0,0,Staplehurst village
+NE,3138225,Panama,incorporated,47,A,235,"Panama, NE",0,309,0,0,Panama village
+NE,3148270,Table Rock,incorporated,47,A,233,"Table Rock, NE",0,310,0,0,Table Rock village
+NE,3114065,Dwight,incorporated,47,A,229,"Dwight, NE",0,311,0,0,Dwight village
+NE,3152295,Western,incorporated,47,A,227,"Western, NE",0,312,0,0,Western village
+NE,3109095,Chester,incorporated,47,A,224,"Chester, NE",0,313,0,0,Chester village
+NE,3121660,Hayes Center,incorporated,47,A,224,"Hayes Center, NE",0,314,0,0,Hayes Center village
+NE,3153520,Wolbach,incorporated,47,A,224,"Wolbach, NE",0,315,0,0,Wolbach village
+NE,3128350,Litchfield,incorporated,47,A,220,"Litchfield, NE",0,316,0,0,Litchfield village
+NE,3120225,Gresham,incorporated,47,A,219,"Gresham, NE",0,317,0,0,Gresham village
+NE,3139380,Pleasant Dale,incorporated,47,A,218,"Pleasant Dale, NE",0,318,0,0,Pleasant Dale village
+NE,3153905,Wynot,incorporated,47,A,216,"Wynot, NE",0,319,0,0,Wynot village
+NE,3118230,Garland,incorporated,47,A,210,"Garland, NE",0,320,0,0,Garland village
+NE,3148760,Thedford,incorporated,47,A,208,"Thedford, NE",0,321,0,0,Thedford village
+NE,3124355,Jackson,incorporated,47,A,207,"Jackson, NE",0,322,0,0,Jackson village
+NE,3105140,Bladen,incorporated,47,A,205,"Bladen, NE",0,323,0,0,Bladen village
+NE,3104195,Benedict,incorporated,47,A,203,"Benedict, NE",0,324,0,0,Benedict village
+NE,3111090,Craig,incorporated,47,A,202,"Craig, NE",0,325,0,0,Craig village
+NE,3101290,Amherst,incorporated,47,A,201,"Amherst, NE",0,326,0,0,Amherst village
+NE,3122605,Holbrook,incorporated,47,A,201,"Holbrook, NE",0,327,0,0,Holbrook village
+NE,3141830,Roca,incorporated,47,A,201,"Roca, NE",0,328,0,0,Roca village
+NE,3120365,Guide Rock,incorporated,47,A,199,"Guide Rock, NE",0,329,0,0,Guide Rock village
+NE,3102375,Ashton,incorporated,47,A,198,"Ashton, NE",0,330,0,0,Ashton village
+NE,3148305,Talmage,incorporated,47,A,198,"Talmage, NE",0,331,0,0,Talmage village
+NE,3149460,Ulysses,incorporated,47,A,196,"Ulysses, NE",0,332,0,0,Ulysses village
+NE,3149635,Union,incorporated,47,A,195,"Union, NE",0,333,0,0,Union village
+NE,3129750,Lynch,incorporated,47,A,194,"Lynch, NE",0,334,0,0,Lynch village
+NE,3149285,Trumbull,incorporated,47,A,194,"Trumbull, NE",0,335,0,0,Trumbull village
+NE,3114555,Elba,incorporated,47,A,192,"Elba, NE",0,336,0,0,Elba village
+NE,3108010,Carroll,incorporated,47,A,191,"Carroll, NE",0,337,0,0,Carroll village
+NE,3122815,Holstein,incorporated,47,A,191,"Holstein, NE",0,338,0,0,Holstein village
+NE,3112770,Denton,incorporated,47,A,189,"Denton, NE",0,339,0,0,Denton village
+NE,3113190,Dix,incorporated,47,A,187,"Dix, NE",0,340,0,0,Dix village
+NE,3120435,Gurley,incorporated,47,A,187,"Gurley, NE",0,341,0,0,Gurley village
+NE,3139065,Pickrell,incorporated,47,A,186,"Pickrell, NE",0,342,0,0,Pickrell village
+NE,3116725,Farnam,incorporated,47,A,182,"Farnam, NE",0,343,0,0,Farnam village
+NE,3111300,Creston,incorporated,47,A,181,"Creston, NE",0,344,0,0,Creston village
+NE,3119245,Goehner,incorporated,47,A,181,"Goehner, NE",0,345,0,0,Goehner village
+NE,3123270,Howard City (Boelus),incorporated,47,A,181,"Howard City (Boelus), NE",0,346,0,0,Howard City (Boelus) village
+NE,3102795,Avoca,incorporated,47,A,178,"Avoca, NE",0,347,0,0,Avoca village
+NE,3117880,Funk,incorporated,47,A,175,"Funk, NE",0,348,0,0,Funk village
+NE,3126805,Lewellen,incorporated,47,A,175,"Lewellen, NE",0,349,0,0,Lewellen village
+NE,3133740,Nehawka,incorporated,47,A,173,"Nehawka, NE",0,350,0,0,Nehawka village
+NE,3103600,Bee,incorporated,47,A,171,"Bee, NE",0,351,0,0,Bee village
+NE,3109760,Cody,incorporated,47,A,168,"Cody, NE",0,352,0,0,Cody village
+NE,3130415,Manley,incorporated,47,A,167,"Manley, NE",0,353,0,0,Manley village
+NE,3113505,Douglas,incorporated,47,A,166,"Douglas, NE",0,354,0,0,Douglas village
+NE,3138085,Page,incorporated,47,A,166,"Page, NE",0,355,0,0,Page village
+NE,3113855,Dunbar,incorporated,47,A,165,"Dunbar, NE",0,356,0,0,Dunbar village
+NE,3123655,Hyannis,incorporated,47,A,165,"Hyannis, NE",0,357,0,0,Hyannis village
+NE,3150510,Verdon,incorporated,47,A,164,"Verdon, NE",0,358,0,0,Verdon village
+NE,3145225,Shubert,incorporated,47,A,163,"Shubert, NE",0,359,0,0,Shubert village
+NE,3137630,Otoe,incorporated,47,A,161,"Otoe, NE",0,360,0,0,Otoe village
+NE,3124285,Ithaca,incorporated,47,A,160,"Ithaca, NE",0,361,0,0,Ithaca village
+NE,3140780,Raymond,incorporated,47,A,159,"Raymond, NE",0,362,0,0,Raymond village
+NE,3142250,Rosalie,incorporated,47,A,159,"Rosalie, NE",0,363,0,0,Rosalie village
+NE,3146695,Stamford,incorporated,47,A,158,"Stamford, NE",0,364,0,0,Stamford village
+NE,3150230,Venango,incorporated,47,A,157,"Venango, NE",0,365,0,0,Venango village
+NE,3112455,Daykin,incorporated,47,A,153,"Daykin, NE",0,366,0,0,Daykin village
+NE,3123375,Hubbard,incorporated,47,A,153,"Hubbard, NE",0,367,0,0,Hubbard village
+NE,3106890,Brunswick,incorporated,47,A,152,"Brunswick, NE",0,368,0,0,Brunswick village
+NE,3131115,Mason City,incorporated,47,A,151,"Mason City, NE",0,369,0,0,Mason City village
+NE,3100730,Alexandria,incorporated,47,A,148,"Alexandria, NE",0,370,0,0,Alexandria village
+NE,3112420,Dawson,incorporated,47,A,148,"Dawson, NE",0,371,0,0,Dawson village
+NE,3120540,Haigler,incorporated,47,A,145,"Haigler, NE",0,372,0,0,Haigler village
+NE,3142670,Rulo,incorporated,47,A,145,"Rulo, NE",0,373,0,0,Rulo village
+NE,3147115,Stella,incorporated,47,A,145,"Stella, NE",0,374,0,0,Stella village
+NE,3148445,Taylor,incorporated,47,A,141,"Taylor, NE",0,375,0,0,Taylor village
+NE,3106750,Brownville,incorporated,47,A,139,"Brownville, NE",0,376,0,0,Brownville village
+NE,3116760,Farwell,incorporated,47,A,138,"Farwell, NE",0,377,0,0,Farwell village
+NE,3135665,Oconto,incorporated,47,A,138,"Oconto, NE",0,378,0,0,Oconto village
+NE,3146380,Sprague,incorporated,47,A,136,"Sprague, NE",0,379,0,0,Sprague village
+NE,3112280,Davey,incorporated,47,A,135,"Davey, NE",0,380,0,0,Davey village
+NE,3117110,Fordyce,incorporated,47,A,134,"Fordyce, NE",0,381,0,0,Fordyce village
+NE,3141130,Republican City,incorporated,47,A,134,"Republican City, NE",0,382,0,0,Republican City village
+NE,3123200,Hordville,incorporated,47,A,131,"Hordville, NE",0,383,0,0,Hordville village
+NE,3132130,Miller,incorporated,47,A,129,"Miller, NE",0,384,0,0,Miller village
+NE,3151595,Washington,incorporated,47,A,129,"Washington, NE",0,385,0,0,Washington village
+NE,3102200,Arthur,incorporated,47,A,128,"Arthur, NE",0,386,0,0,Arthur village
+NE,3110250,Concord,incorporated,47,A,126,"Concord, NE",0,387,0,0,Concord village
+NE,3122150,Henry,incorporated,47,A,125,"Henry, NE",0,388,0,0,Henry village
+NE,3149880,Upland,incorporated,47,A,125,"Upland, NE",0,389,0,0,Upland village
+NE,3116830,Filley,incorporated,47,A,124,"Filley, NE",0,390,0,0,Filley village
+NE,3106505,Brock,incorporated,47,A,123,"Brock, NE",0,391,0,0,Brock village
+NE,3113750,Du Bois,incorporated,47,A,122,"Du Bois, NE",0,392,0,0,Du Bois village
+NE,3136015,Ohiowa,incorporated,47,A,120,"Ohiowa, NE",0,393,0,0,Ohiowa village
+NE,3132865,Morse Bluff,incorporated,47,A,117,"Morse Bluff, NE",0,394,0,0,Morse Bluff village
+NE,3148900,Thurston,incorporated,47,A,116,"Thurston, NE",0,395,0,0,Thurston village
+NE,3101150,Alvo,incorporated,47,A,115,"Alvo, NE",0,396,0,0,Alvo village
+NE,3107415,Bushnell,incorporated,47,A,115,"Bushnell, NE",0,397,0,0,Bushnell village
+NE,3133950,Nemaha,incorporated,47,A,114,"Nemaha, NE",0,398,0,0,Nemaha village
+NE,3149005,Tobias,incorporated,47,A,114,"Tobias, NE",0,399,0,0,Tobias village
+NE,3103775,Belden,incorporated,47,A,113,"Belden, NE",0,400,0,0,Belden village
+NE,3115920,Endicott,incorporated,47,A,113,"Endicott, NE",0,401,0,0,Endicott village
+NE,3114520,Edison,incorporated,47,A,111,"Edison, NE",0,402,0,0,Edison village
+NE,3105490,Bloomington,incorporated,47,A,110,"Bloomington, NE",0,403,0,0,Bloomington village
+NE,3103145,Bartlett,incorporated,47,A,109,"Bartlett, NE",0,404,0,0,Bartlett village
+NE,3131640,Memphis,incorporated,47,A,109,"Memphis, NE",0,405,0,0,Memphis village
+NE,3101500,Anselmo,incorporated,47,A,108,"Anselmo, NE",0,406,0,0,Anselmo village
+NE,3126630,Leshara,incorporated,47,A,108,"Leshara, NE",0,407,0,0,Leshara village
+NE,3131570,Melbeta,incorporated,47,A,108,"Melbeta, NE",0,408,0,0,Melbeta village
+NE,3110005,Colon,incorporated,47,A,107,"Colon, NE",0,409,0,0,Colon village
+NE,3135700,Octavia,incorporated,47,A,107,"Octavia, NE",0,410,0,0,Octavia village
+NE,3102620,Atlanta,incorporated,47,A,106,"Atlanta, NE",0,411,0,0,Atlanta village
+NE,3119455,Grafton,incorporated,47,A,106,"Grafton, NE",0,412,0,0,Grafton village
+NE,3142810,Ruskin,incorporated,47,A,105,"Ruskin, NE",0,413,0,0,Ruskin village
+NE,3103810,Belgrade,incorporated,47,A,103,"Belgrade, NE",0,414,0,0,Belgrade village
+NE,3115500,Elsie,incorporated,47,A,102,"Elsie, NE",0,415,0,0,Elsie village
+NE,3124530,Jansen,incorporated,47,A,101,"Jansen, NE",0,416,0,0,Jansen village
+NE,3120995,Hardy,incorporated,47,A,97,"Hardy, NE",0,417,0,0,Hardy village
+NE,3106470,Broadwater,incorporated,47,A,95,"Broadwater, NE",0,418,0,0,Broadwater village
+NE,3106855,Bruno,incorporated,47,A,95,"Bruno, NE",0,419,0,0,Bruno village
+NE,3124075,Inman,incorporated,47,A,95,"Inman, NE",0,420,0,0,Inman village
+NE,3128245,Linwood,incorporated,47,A,94,"Linwood, NE",0,421,0,0,Linwood village
+NE,3130380,Malmo,incorporated,47,A,94,"Malmo, NE",0,422,0,0,Malmo village
+NE,3107975,Carleton,incorporated,47,A,92,"Carleton, NE",0,423,0,0,Carleton village
+NE,3110495,Cordova,incorporated,47,A,92,"Cordova, NE",0,424,0,0,Cordova village
+NE,3145680,South Bend,incorporated,47,A,92,"South Bend, NE",0,425,0,0,South Bend village
+NE,3103075,Barneston,incorporated,47,A,90,"Barneston, NE",0,426,0,0,Barneston village
+NE,3116025,Ericson,incorporated,47,A,89,"Ericson, NE",0,427,0,0,Ericson village
+NE,3133530,Naper,incorporated,47,A,89,"Naper, NE",0,428,0,0,Naper village
+NE,3142075,Rockville,incorporated,47,A,89,"Rockville, NE",0,429,0,0,Rockville village
+NE,3143090,St. Helena,incorporated,47,A,89,"St. Helena, NE",0,430,0,0,St. Helena village
+NE,3114380,Eddyville,incorporated,47,A,88,"Eddyville, NE",0,431,0,0,Eddyville village
+NE,3131815,Merriman,incorporated,47,A,87,"Merriman, NE",0,432,0,0,Merriman village
+NE,3102865,Ayr,incorporated,47,A,83,"Ayr, NE",0,433,0,0,Ayr village
+NE,3107555,Byron,incorporated,47,A,83,"Byron, NE",0,434,0,0,Byron village
+NE,3133565,Naponee,incorporated,47,A,83,"Naponee, NE",0,435,0,0,Naponee village
+NE,3143370,Salem,incorporated,47,A,83,"Salem, NE",0,436,0,0,Salem village
+NE,3142145,Rogers,incorporated,47,A,82,"Rogers, NE",0,437,0,0,Rogers village
+NE,3148060,Swanton,incorporated,47,A,82,"Swanton, NE",0,438,0,0,Swanton village
+NE,3121835,Heartwell,incorporated,47,A,81,"Heartwell, NE",0,439,0,0,Heartwell village
+NE,3112105,Danbury,incorporated,47,A,80,"Danbury, NE",0,440,0,0,Danbury village
+NE,3113960,Dunning,incorporated,47,A,80,"Dunning, NE",0,441,0,0,Dunning village
+NE,3108360,Center,incorporated,47,A,79,"Center, NE",0,442,0,0,Center village
+NE,3130940,Martinsburg,incorporated,47,A,78,"Martinsburg, NE",0,443,0,0,Martinsburg village
+NE,3113225,Dixon,incorporated,47,A,77,"Dixon, NE",0,444,0,0,Dixon village
+NE,3107065,Burchard,incorporated,47,A,76,"Burchard, NE",0,445,0,0,Burchard village
+NE,3140430,Prosser,incorporated,47,A,76,"Prosser, NE",0,446,0,0,Prosser village
+NE,3104650,Berwyn,incorporated,47,A,75,"Berwyn, NE",0,447,0,0,Berwyn village
+NE,3130030,McGrew,incorporated,47,A,75,"McGrew, NE",0,448,0,0,McGrew village
+NE,3153240,Wilsonville,incorporated,47,A,75,"Wilsonville, NE",0,449,0,0,Wilsonville village
+NE,3150790,Virginia,incorporated,47,A,74,"Virginia, NE",0,450,0,0,Virginia village
+NE,3151630,Waterbury,incorporated,47,A,72,"Waterbury, NE",0,451,0,0,Waterbury village
+NE,3152085,Wellfleet,incorporated,47,A,72,"Wellfleet, NE",0,452,0,0,Wellfleet village
+NE,3111475,Crookston,incorporated,47,A,71,"Crookston, NE",0,453,0,0,Crookston village
+NE,3106400,Bristow,incorporated,47,A,70,"Bristow, NE",0,454,0,0,Bristow village
+NE,3141375,Richland,incorporated,47,A,70,"Richland, NE",0,455,0,0,Richland village
+NE,3114975,Elk Creek,incorporated,47,A,69,"Elk Creek, NE",0,456,0,0,Elk Creek village
+NE,3110180,Comstock,incorporated,47,A,68,"Comstock, NE",0,457,0,0,Comstock village
+NE,3120680,Halsey,incorporated,47,A,68,"Halsey, NE",0,458,0,0,Halsey village
+NE,3134265,Newport,incorporated,47,A,68,"Newport, NE",0,459,0,0,Newport village
+NE,3100205,Abie,incorporated,47,A,65,"Abie, NE",0,460,0,0,Abie village
+NE,3123410,Hubbell,incorporated,47,A,63,"Hubbell, NE",0,461,0,0,Hubbell village
+NE,3125405,Kilgore,incorporated,47,A,63,"Kilgore, NE",0,462,0,0,Kilgore village
+NE,3152925,Whitney,incorporated,47,A,62,"Whitney, NE",0,463,0,0,Whitney village
+NE,3145575,Smithfield,incorporated,47,A,60,"Smithfield, NE",0,464,0,0,Smithfield village
+NE,3147080,Steinauer,incorporated,47,A,59,"Steinauer, NE",0,465,0,0,Steinauer village
+NE,3131045,Maskell,incorporated,47,A,58,"Maskell, NE",0,466,0,0,Maskell village
+NE,3142495,Royal,incorporated,47,A,58,"Royal, NE",0,467,0,0,Royal village
+NE,3121765,Hazard,incorporated,47,A,57,"Hazard, NE",0,468,0,0,Hazard village
+NE,3141235,Reynolds,incorporated,47,A,57,"Reynolds, NE",0,469,0,0,Reynolds village
+NE,3141760,Riverton,incorporated,47,A,57,"Riverton, NE",0,470,0,0,Riverton village
+NE,3120960,Harbine,incorporated,47,A,56,"Harbine, NE",0,471,0,0,Harbine village
+NE,3118300,Garrison,incorporated,47,A,55,"Garrison, NE",0,472,0,0,Garrison village
+NE,3126875,Lewiston,incorporated,47,A,55,"Lewiston, NE",0,473,0,0,Lewiston village
+NE,3140360,Primrose,incorporated,47,A,55,"Primrose, NE",0,474,0,0,Primrose village
+NE,3135245,Oak,incorporated,47,A,54,"Oak, NE",0,475,0,0,Oak village
+NE,3153345,Winnetoon,incorporated,47,A,54,"Winnetoon, NE",0,476,0,0,Winnetoon village
+NE,3107205,Burr,incorporated,47,A,52,"Burr, NE",0,477,0,0,Burr village
+NE,3148410,Tarnov,incorporated,47,A,52,"Tarnov, NE",0,478,0,0,Tarnov village
+NE,3104160,Belvidere,incorporated,47,A,51,"Belvidere, NE",0,479,0,0,Belvidere village
+NE,3115605,Elyria,incorporated,47,A,50,"Elyria, NE",0,480,0,0,Elyria village
+NE,3137140,Ong,incorporated,47,A,49,"Ong, NE",0,481,0,0,Ong village
+NE,3124740,Johnstown,incorporated,47,A,47,"Johnstown, NE",0,482,0,0,Johnstown village
+NE,3111055,Crab Orchard,incorporated,47,A,46,"Crab Orchard, NE",0,483,0,0,Crab Orchard village
+NE,3115815,Emmet,incorporated,47,A,46,"Emmet, NE",0,484,0,0,Emmet village
+NE,3124915,Julian,incorporated,47,A,46,"Julian, NE",0,485,0,0,Julian village
+NE,3126455,Lebanon,incorporated,47,A,46,"Lebanon, NE",0,486,0,0,Lebanon village
+NE,3153555,Wood Lake,incorporated,47,A,46,"Wood Lake, NE",0,487,0,0,Wood Lake village
+NE,3147010,Steele City,incorporated,47,A,44,"Steele City, NE",0,488,0,0,Steele City village
+NE,3148690,Thayer,incorporated,47,A,44,"Thayer, NE",0,489,0,0,Thayer village
+NE,3130310,Magnet,incorporated,47,A,43,"Magnet, NE",0,490,0,0,Magnet village
+NE,3112945,Deweese,incorporated,47,A,42,"Deweese, NE",0,491,0,0,Deweese village
+NE,3117320,Foster,incorporated,47,A,42,"Foster, NE",0,492,0,0,Foster village
+NE,3109655,Clinton,incorporated,47,A,38,"Clinton, NE",0,493,0,0,Clinton village
+NE,3150335,Verdel,incorporated,47,A,38,"Verdel, NE",0,494,0,0,Verdel village
+NE,3111860,Cushing,incorporated,47,A,37,"Cushing, NE",0,495,0,0,Cushing village
+NE,3126980,Liberty,incorporated,47,A,37,"Liberty, NE",0,496,0,0,Liberty village
+NE,3147850,Surprise,incorporated,47,A,37,"Surprise, NE",0,497,0,0,Surprise village
+NE,3129175,Lorton,incorporated,47,A,35,"Lorton, NE",0,498,0,0,Lorton village
+NE,3143755,Saronville,incorporated,47,A,35,"Saronville, NE",0,499,0,0,Saronville village
+NE,3117950,Gandy,incorporated,47,A,34,"Gandy, NE",0,500,0,0,Gandy village
+NE,3110600,Cornlea,incorporated,47,A,33,"Cornlea, NE",0,501,0,0,Cornlea village
+NE,3123550,Huntley,incorporated,47,A,33,"Huntley, NE",0,502,0,0,Huntley village
+NE,3130065,McLean,incorporated,47,A,33,"McLean, NE",0,503,0,0,McLean village
+NE,3134650,Norman,incorporated,47,A,32,"Norman, NE",0,504,0,0,Norman village
+NE,3147220,Stockham,incorporated,47,A,32,"Stockham, NE",0,505,0,0,Stockham village
+NE,3118720,Gilead,incorporated,47,A,30,"Gilead, NE",0,506,0,0,Gilead village
+NE,3147360,Strang,incorporated,47,A,30,"Strang, NE",0,507,0,0,Strang village
+NE,3110740,Cotesfield,incorporated,47,A,29,"Cotesfield, NE",0,508,0,0,Cotesfield village
+NE,3126175,Lamar,incorporated,47,A,28,"Lamar, NE",0,509,0,0,Lamar village
+NE,3129645,Lushton,incorporated,47,A,28,"Lushton, NE",0,510,0,0,Lushton village
+NE,3120750,Hamlet,incorporated,47,A,27,"Hamlet, NE",0,511,0,0,Hamlet village
+NE,3132760,Moorefield,incorporated,47,A,27,"Moorefield, NE",0,512,0,0,Moorefield village
+NE,3103355,Bazile Mills,incorporated,47,A,26,"Bazile Mills, NE",0,513,0,0,Bazile Mills village
+NE,3147290,Stockville,incorporated,47,A,25,"Stockville, NE",0,514,0,0,Stockville village
+NE,3135560,Obert,incorporated,47,A,22,"Obert, NE",0,515,0,0,Obert village
+NE,3140570,Ragan,incorporated,47,A,22,"Ragan, NE",0,516,0,0,Ragan village
+NE,3103040,Barada,incorporated,47,A,21,"Barada, NE",0,517,0,0,Barada village
+NE,3110985,Cowles,incorporated,47,A,21,"Cowles, NE",0,518,0,0,Cowles village
+NE,3134545,Nora,incorporated,47,A,21,"Nora, NE",0,519,0,0,Nora village
+NE,3122115,Hendley,incorporated,47,A,20,"Hendley, NE",0,520,0,0,Hendley village
+NE,3153415,Winslow,incorporated,47,A,19,"Winslow, NE",0,521,0,0,Winslow village
+NE,3133985,Nenzel,incorporated,47,A,17,"Nenzel, NE",0,522,0,0,Nenzel village
+NE,3145190,Sholes,incorporated,47,A,16,"Sholes, NE",0,523,0,0,Sholes village
+NE,3106260,Brewster,incorporated,47,A,12,"Brewster, NE",0,524,0,0,Brewster village
+NE,3107310,Burton,incorporated,47,A,11,"Burton, NE",0,525,0,0,Burton village
+NE,3101465,Anoka,incorporated,47,A,10,"Anoka, NE",0,526,0,0,Anoka village
+NE,3120295,Gross,incorporated,47,A,3,"Gross, NE",0,527,0,0,Gross village
+NE,3132550,Monowi,incorporated,47,A,2,"Monowi, NE",0,528,0,0,Monowi village

@@ -1,0 +1,464 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+AL,0137000,Huntsville,incorporated,25,A,215006,"Huntsville, AL",0,1,66,0.264,Huntsville city
+AL,0107000,Birmingham,incorporated,25,A,200733,"Birmingham, AL",0,2,27,0.108,Birmingham city
+AL,0151000,Montgomery,incorporated,25,A,200603,"Montgomery, AL",0,3,26,0.104,Montgomery city
+AL,0150000,Mobile,incorporated,25,A,187041,"Mobile, AL",0,4,11,0.044,Mobile city
+AL,0177256,Tuscaloosa,incorporated,25,A,99600,"Tuscaloosa, AL",0,5,10,0.04,Tuscaloosa city
+AL,0135896,Hoover,incorporated,25,A,92606,"Hoover, AL",0,6,8,0.032,Hoover city
+AL,0103076,Auburn,incorporated,25,A,76143,"Auburn, AL",0,7,7,0.028,Auburn city
+AL,0121184,Dothan,incorporated,25,A,71072,"Dothan, AL",0,8,6,0.024,Dothan city
+AL,0120104,Decatur,incorporated,25,A,57938,"Decatur, AL",0,9,4,0.016,Decatur city
+AL,0145784,Madison,incorporated,25,A,56933,"Madison, AL",0,10,5,0.02,Madison city
+AL,0126896,Florence,incorporated,25,A,40184,"Florence, AL",0,11,3,0.012,Florence city
+AL,0178552,Vestavia Hills,incorporated,25,A,39102,"Vestavia Hills, AL",0,12,4,0.016,Vestavia Hills city
+AL,0159472,Phenix City,incorporated,25,A,38816,"Phenix City, AL",0,13,4,0.016,Phenix City city
+AL,0162328,Prattville,incorporated,25,A,37781,"Prattville, AL",0,14,2,0.008,Prattville city
+AL,0128696,Gadsden,incorporated,25,A,33945,"Gadsden, AL",0,15,2,0.008,Gadsden city
+AL,0100820,Alabaster,incorporated,25,A,33284,"Alabaster, AL",0,16,2,0.008,Alabaster city
+AL,0155200,Northport,incorporated,25,A,31125,"Northport, AL",0,17,3,0.012,Northport city
+AL,0157048,Opelika,incorporated,25,A,30995,"Opelika, AL",0,18,3,0.012,Opelika city
+AL,0124184,Enterprise,incorporated,25,A,28711,"Enterprise, AL",0,19,3,0.012,Enterprise city
+AL,0119648,Daphne,incorporated,25,A,27462,"Daphne, AL",0,20,3,0.012,Daphne city
+AL,0135800,Homewood,incorporated,25,A,26414,"Homewood, AL",0,21,1,0.004,Homewood city
+AL,0176944,Trussville,incorporated,25,A,26123,"Trussville, AL",0,22,1,0.004,Trussville city
+AL,0105980,Bessemer,incorporated,25,A,26019,"Bessemer, AL",0,23,1,0.004,Bessemer city
+AL,0102956,Athens,incorporated,25,A,25406,"Athens, AL",0,24,1,0.004,Athens city
+AL,0158848,Pelham,incorporated,25,A,24318,"Pelham, AL",0,25,1,0.004,Pelham city
+AL,0125240,Fairhope,incorporated,25,A,22477,"Fairhope, AL",0,26,1,0.004,Fairhope city
+AL,0151696,Mountain Brook,incorporated,25,A,22461,"Mountain Brook, AL",0,27,1,0.004,Mountain Brook city
+AL,0100988,Albertville,incorporated,25,A,22386,"Albertville, AL",0,28,1,0.004,Albertville city
+AL,0157576,Oxford,incorporated,25,A,22069,"Oxford, AL",0,29,2,0.008,Oxford city
+AL,0101852,Anniston,incorporated,25,A,21564,"Anniston, AL",0,30,2,0.008,Anniston city
+AL,0134024,Helena,incorporated,25,A,20914,"Helena, AL",0,31,2,0.008,Helena city
+AL,0126992,Foley,incorporated,25,A,20335,"Foley, AL",0,32,2,0.008,Foley city
+AL,0162496,Prichard,incorporated,25,A,19322,"Prichard, AL",0,33,2,0.008,Prichard city
+AL,0118976,Cullman,incorporated,25,A,18213,"Cullman, AL",0,34,2,0.008,Cullman city
+AL,0169120,Selma,incorporated,25,A,17971,"Selma, AL",0,35,2,0.008,Selma city
+AL,0176920,Troy,incorporated,25,A,17727,"Troy, AL",0,36,2,0.008,Troy city
+AL,0136448,Hueytown,incorporated,25,A,16776,"Hueytown, AL",0,37,2,0.008,Hueytown city
+AL,0148712,Millbrook,incorporated,25,A,16564,"Millbrook, AL",0,38,2,0.008,Millbrook city
+AL,0111416,Calera,incorporated,25,A,16494,"Calera, AL",0,39,2,0.008,Calera city
+AL,0113264,Center Point,incorporated,25,A,16406,"Center Point, AL",0,40,2,0.008,Center Point city
+AL,0153016,Muscle Shoals,incorporated,25,A,16275,"Muscle Shoals, AL",0,41,2,0.008,Muscle Shoals city
+AL,0168160,Saraland,incorporated,25,A,16171,"Saraland, AL",0,42,2,0.008,Saraland city
+AL,0129056,Gardendale,incorporated,25,A,16044,"Gardendale, AL",0,43,2,0.008,Gardendale city
+AL,0174592,Talladega,incorporated,25,A,15861,"Talladega, AL",0,44,2,0.008,Talladega city
+AL,0168736,Scottsboro,incorporated,25,A,15578,"Scottsboro, AL",0,45,2,0.008,Scottsboro city
+AL,0133448,Hartselle,incorporated,25,A,15455,"Hartselle, AL",0,46,2,0.008,Hartselle city
+AL,0132272,Gulf Shores,incorporated,25,A,15014,"Gulf Shores, AL",0,47,2,0.008,Gulf Shores city
+AL,0114104,Chelsea,incorporated,25,A,14982,"Chelsea, AL",0,48,2,0.008,Chelsea city
+AL,0127616,Fort Payne,incorporated,25,A,14877,"Fort Payne, AL",0,49,1,0.004,Fort Payne city
+AL,0101132,Alexander City,incorporated,25,A,14843,"Alexander City, AL",0,50,1,0.004,Alexander City city
+AL,0138416,Jasper,incorporated,25,A,14572,"Jasper, AL",0,51,1,0.004,Jasper city
+AL,0138272,Jacksonville,incorporated,25,A,14385,"Jacksonville, AL",0,52,0,0,Jacksonville city
+AL,0157648,Ozark,incorporated,25,A,14368,"Ozark, AL",0,53,0,0,Ozark city
+AL,0137864,Irondale,incorporated,25,A,13497,"Irondale, AL",0,54,0,0,Irondale city
+AL,0151096,Moody,incorporated,25,A,13170,"Moody, AL",0,55,0,0,Moody city
+AL,0158896,Pell City,incorporated,25,A,12939,"Pell City, AL",0,56,0,0,Pell City city
+AL,0124568,Eufaula,incorporated,25,A,12882,"Eufaula, AL",0,57,0,0,Eufaula city
+AL,0174352,Sylacauga,incorporated,25,A,12578,"Sylacauga, AL",0,58,0,0,Sylacauga city
+AL,0141968,Leeds,incorporated,25,A,12324,"Leeds, AL",0,59,0,0,Leeds city
+AL,0167056,Russellville,incorporated,25,A,10855,"Russellville, AL",0,60,0,0,Russellville city
+AL,0178204,Valley,incorporated,25,A,10529,"Valley, AL",0,61,0,0,Valley city
+AL,0115256,Clay,incorporated,25,A,10291,"Clay, AL",0,62,0,0,Clay city
+AL,0163288,Rainbow City,incorporated,25,A,10191,"Rainbow City, AL",0,63,0,0,Rainbow City city
+AL,0107912,Boaz,incorporated,25,A,10107,"Boaz, AL",0,64,0,0,Boaz city
+AL,0171976,Spanish Fort,incorporated,25,A,10049,"Spanish Fort, AL",0,65,0,0,Spanish Fort city
+AL,0125120,Fairfield,incorporated,25,A,10000,"Fairfield, AL",0,66,0,0,Fairfield city
+AL,0128552,Fultondale,incorporated,25,A,9876,"Fultondale, AL",0,67,0,0,Fultondale city
+AL,0161008,Pleasant Grove,incorporated,25,A,9544,"Pleasant Grove, AL",0,68,0,0,Pleasant Grove city
+AL,0159760,Pike Road,incorporated,25,A,9439,"Pike Road, AL",0,69,0,0,Pike Road city
+AL,0171832,Southside,incorporated,25,A,9426,"Southside, AL",0,70,0,0,Southside city
+AL,0169648,Sheffield,incorporated,25,A,9403,"Sheffield, AL",0,71,0,0,Sheffield city
+AL,0177304,Tuskegee,incorporated,25,A,9395,"Tuskegee, AL",0,72,0,0,Tuskegee city
+AL,0177280,Tuscumbia,incorporated,25,A,9054,"Tuscumbia, AL",0,73,0,0,Tuscumbia city
+AL,0101708,Andalusia,incorporated,25,A,8805,"Andalusia, AL",0,74,0,0,Andalusia city
+AL,0115136,Clanton,incorporated,25,A,8768,"Clanton, AL",0,75,0,0,Clanton city
+AL,0132416,Guntersville,incorporated,25,A,8553,"Guntersville, AL",0,76,0,0,Guntersville city
+AL,0102116,Arab,incorporated,25,A,8461,"Arab, AL",0,77,0,0,Arab city
+AL,0103004,Atmore,incorporated,25,A,8391,"Atmore, AL",0,78,0,0,Atmore city
+AL,0104660,Bay Minette,incorporated,25,A,8107,"Bay Minette, AL",0,79,0,0,Bay Minette city
+AL,0157144,Orange Beach,incorporated,25,A,8095,"Orange Beach, AL",0,80,0,0,Orange Beach city
+AL,0131912,Greenville,incorporated,25,A,7374,"Greenville, AL",0,81,0,0,Greenville city
+AL,0150312,Montevallo,incorporated,25,A,7229,"Montevallo, AL",0,82,0,0,Montevallo city
+AL,0181720,Wetumpka,incorporated,25,A,7220,"Wetumpka, AL",0,83,0,0,Wetumpka city
+AL,0160648,Pinson,incorporated,25,A,7215,"Pinson, AL",0,84,0,0,Pinson city
+AL,0120296,Demopolis,incorporated,25,A,7162,"Demopolis, AL",0,85,0,0,Demopolis city
+AL,0132848,Hamilton,incorporated,25,A,7042,"Hamilton, AL",0,86,0,0,Hamilton city
+AL,0141296,Lanett,incorporated,25,A,6970,"Lanett, AL",0,87,0,0,Lanett city
+AL,0157000,Oneonta,incorporated,25,A,6938,"Oneonta, AL",0,88,0,0,Oneonta city
+AL,0143120,Lincoln,incorporated,25,A,6845,"Lincoln, AL",0,89,0,0,Lincoln city
+AL,0157120,Opp,incorporated,25,A,6771,"Opp, AL",0,90,0,0,Opp city
+AL,0168352,Satsuma,incorporated,25,A,6749,"Satsuma, AL",0,91,0,0,Satsuma city
+AL,0165208,Robertsdale,incorporated,25,A,6708,"Robertsdale, AL",0,92,0,0,Robertsdale city
+AL,0114392,Chickasaw,incorporated,25,A,6457,"Chickasaw, AL",0,93,0,0,Chickasaw city
+AL,0174976,Tarrant,incorporated,25,A,6124,"Tarrant, AL",0,94,0,0,Tarrant city
+AL,0150192,Monroeville,incorporated,25,A,5951,"Monroeville, AL",0,95,0,0,Monroeville city
+AL,0103028,Attalla,incorporated,25,A,5827,"Attalla, AL",0,96,0,0,Attalla city
+AL,0163336,Rainsville,incorporated,25,A,5505,"Rainsville, AL",0,97,0,0,Rainsville city
+AL,0171190,Smiths Station,incorporated,25,A,5384,"Smiths Station, AL",0,98,0,0,Smiths Station city
+AL,0129992,Glencoe,incorporated,25,A,5372,"Glencoe, AL",0,99,0,0,Glencoe city
+AL,0165040,Roanoke,incorporated,25,A,5311,"Roanoke, AL",0,100,0,0,Roanoke city
+AL,0109208,Brewton,incorporated,25,A,5276,"Brewton, AL",0,101,0,0,Brewton city
+AL,0148376,Midfield,incorporated,25,A,5211,"Midfield, AL",0,102,0,0,Midfield city
+AL,0146696,Margaret,incorporated,25,A,5106,"Margaret, AL",0,103,0,0,Margaret city
+AL,0133856,Headland,incorporated,25,A,4973,"Headland, AL",0,104,0,0,Headland city
+AL,0156400,Odenville,incorporated,25,A,4969,"Odenville, AL",0,105,0,0,Odenville city
+AL,0169240,Semmes,incorporated,25,A,4941,"Semmes, AL",0,106,0,0,Semmes city
+AL,0119360,Daleville,incorporated,25,A,4866,"Daleville, AL",0,107,0,0,Daleville city
+AL,0182992,Winfield,incorporated,25,A,4845,"Winfield, AL",0,108,0,0,Winfield city
+AL,0159640,Piedmont,incorporated,25,A,4787,"Piedmont, AL",0,109,0,0,Piedmont city
+AL,0172600,Springville,incorporated,25,A,4786,"Springville, AL",0,110,0,0,Springville city
+AL,0174688,Tallassee,incorporated,25,A,4763,"Tallassee, AL",0,111,0,0,Tallassee city
+AL,0114464,Childersburg,incorporated,25,A,4754,"Childersburg, AL",0,112,0,0,Childersburg city
+AL,0138152,Jackson,incorporated,25,A,4748,"Jackson, AL",0,113,0,0,Jackson city
+AL,0116768,Columbiana,incorporated,25,A,4462,"Columbiana, AL",0,114,0,0,Columbiana city
+AL,0135392,Hokes Bluff,incorporated,25,A,4446,"Hokes Bluff, AL",0,115,0,0,Hokes Bluff city
+AL,0102320,Argo,incorporated,25,A,4368,"Argo, AL",0,116,0,0,Argo city
+AL,0100460,Adamsville,incorporated,25,A,4366,"Adamsville, AL",0,117,0,0,Adamsville city
+AL,0132704,Haleyville,incorporated,25,A,4361,"Haleyville, AL",0,118,0,0,Haleyville city
+AL,0125840,Fayette,incorporated,25,A,4285,"Fayette, AL",0,119,0,0,Fayette city
+AL,0129464,Geneva,incorporated,25,A,4245,"Geneva, AL",0,120,0,0,Geneva city
+AL,0178232,Valley Grande,incorporated,25,A,4190,"Valley Grande, AL",0,121,0,0,Valley Grande city
+AL,0115064,Citronelle,incorporated,25,A,3946,"Citronelle, AL",0,122,0,0,Citronelle city
+AL,0139856,Kimberly,incorporated,25,A,3841,"Kimberly, AL",0,123,0,0,Kimberly city
+AL,0144608,Loxley,incorporated,25,A,3710,"Loxley, AL",0,124,0,0,Loxley city
+AL,0175960,Thomasville,incorporated,25,A,3649,"Thomasville, AL",0,125,0,0,Thomasville city
+AL,0113648,Centre,incorporated,25,A,3587,"Centre, AL",0,126,0,0,Centre city
+AL,0140928,Lake View,incorporated,25,A,3560,"Lake View, AL",0,127,0,0,Lake View city
+AL,0124808,Evergreen,incorporated,25,A,3520,"Evergreen, AL",0,128,0,0,Evergreen city
+AL,0162472,Priceville,incorporated,25,A,3512,"Priceville, AL",0,129,0,0,Priceville city
+AL,0123296,Elba,incorporated,25,A,3508,"Elba, AL",0,130,0,0,Elba city
+AL,0143720,Livingston,incorporated,25,A,3436,"Livingston, AL",0,131,0,0,Livingston city
+AL,0133976,Heflin,incorporated,25,A,3431,"Heflin, AL",0,132,0,0,Heflin city
+AL,0151600,Moulton,incorporated,25,A,3398,"Moulton, AL",0,133,0,0,Moulton city
+AL,0177880,Union Springs,incorporated,25,A,3358,"Union Springs, AL",0,134,0,0,Union Springs city
+AL,0180352,Weaver,incorporated,25,A,3339,"Weaver, AL",0,135,0,0,Weaver city
+AL,0163576,Red Bay,incorporated,25,A,3232,"Red Bay, AL",0,136,0,0,Red Bay city
+AL,0179944,Warrior,incorporated,25,A,3224,"Warrior, AL",0,137,0,0,Warrior city
+AL,0132968,Hanceville,incorporated,25,A,3217,"Hanceville, AL",0,138,0,0,Hanceville city
+AL,0146768,Marion,incorporated,25,A,3176,"Marion, AL",0,139,0,0,Marion city
+AL,0119336,Dadeville,incorporated,25,A,3084,"Dadeville, AL",0,140,0,0,Dadeville city
+AL,0151648,Moundville,incorporated,43,A,3024,"Moundville, AL",0,141,0,0,Moundville town
+AL,0109136,Brent,incorporated,25,A,2972,"Brent, AL",0,142,0,0,Brent city
+AL,0124664,Eutaw,incorporated,25,A,2937,"Eutaw, AL",0,143,0,0,Eutaw city
+AL,0176824,Triana,incorporated,25,A,2890,"Triana, AL",0,144,0,0,Triana city
+AL,0154168,New Hope,incorporated,25,A,2889,"New Hope, AL",0,145,0,0,New Hope city
+AL,0113672,Centreville,incorporated,25,A,2800,"Centreville, AL",0,146,0,0,Centreville city
+AL,0144728,Luverne,incorporated,25,A,2765,"Luverne, AL",0,147,0,0,Luverne city
+AL,0140672,La Fayette,incorporated,25,A,2684,"La Fayette, AL",0,148,0,0,La Fayette city
+AL,0133424,Hartford,incorporated,25,A,2651,"Hartford, AL",0,149,0,0,Hartford city
+AL,0138608,Jemison,incorporated,25,A,2642,"Jemison, AL",0,150,0,0,Jemison city
+AL,0157504,Owens Cross Roads,incorporated,25,A,2594,"Owens Cross Roads, AL",0,151,0,0,Owens Cross Roads city
+AL,0176872,Trinity,incorporated,25,A,2526,"Trinity, AL",0,152,0,0,Trinity city
+AL,0109808,Brookwood,incorporated,25,A,2504,"Brookwood, AL",0,153,0,0,Brookwood city
+AL,0143264,Lineville,incorporated,25,A,2489,"Lineville, AL",0,154,0,0,Lineville city
+AL,0130496,Good Hope,incorporated,25,A,2483,"Good Hope, AL",0,155,0,0,Good Hope city
+AL,0137465,Indian Springs Village,incorporated,25,A,2481,"Indian Springs Village, AL",0,156,0,0,Indian Springs Village city
+AL,0173848,Sumiton,incorporated,25,A,2444,"Sumiton, AL",0,157,0,0,Sumiton city
+AL,0184096,York,incorporated,25,A,2414,"York, AL",0,158,0,0,York city
+AL,0100124,Abbeville,incorporated,25,A,2358,"Abbeville, AL",0,159,0,0,Abbeville city
+AL,0102908,Ashville,incorporated,25,A,2346,"Ashville, AL",0,160,0,0,Ashville city
+AL,0109400,Brighton,incorporated,25,A,2337,"Brighton, AL",0,161,0,0,Brighton city
+AL,0121136,Dora,incorporated,25,A,2297,"Dora, AL",0,162,0,0,Dora city
+AL,0122216,East Brewton,incorporated,25,A,2293,"East Brewton, AL",0,163,0,0,East Brewton city
+AL,0134096,Henagar,incorporated,25,A,2292,"Henagar, AL",0,164,0,0,Henagar city
+AL,0115376,Clayton,incorporated,25,A,2265,"Clayton, AL",0,165,0,0,Clayton city
+AL,0109328,Bridgeport,incorporated,25,A,2264,"Bridgeport, AL",0,166,0,0,Bridgeport city
+AL,0175096,Taylor,incorporated,25,A,2262,"Taylor, AL",0,167,0,0,Taylor city
+AL,0151456,Morris,incorporated,25,A,2259,"Morris, AL",0,168,0,0,Morris city
+AL,0102836,Ashford,incorporated,25,A,2246,"Ashford, AL",0,169,0,0,Ashford city
+AL,0148400,Midland City,incorporated,25,A,2239,"Midland City, AL",0,170,0,0,Midland City city
+AL,0164920,Riverside,incorporated,25,A,2227,"Riverside, AL",0,171,0,0,Riverside city
+AL,0131720,Greensboro,incorporated,25,A,2218,"Greensboro, AL",0,172,0,0,Greensboro city
+AL,0104684,Bayou La Batre,incorporated,25,A,2204,"Bayou La Batre, AL",0,173,0,0,Bayou La Batre city
+AL,0140072,Kinsey,incorporated,25,A,2203,"Kinsey, AL",0,174,0,0,Kinsey city
+AL,0132224,Guin,incorporated,25,A,2195,"Guin, AL",0,175,0,0,Guin city
+AL,0101228,Aliceville,incorporated,25,A,2177,"Aliceville, AL",0,176,0,0,Aliceville city
+AL,0177904,Uniontown,incorporated,25,A,2107,"Uniontown, AL",0,177,0,0,Uniontown city
+AL,0178264,Vance,incorporated,25,A,2092,"Vance, AL",0,178,0,0,Vance city
+AL,0143336,Lipscomb,incorporated,25,A,2086,"Lipscomb, AL",0,179,0,0,Lipscomb city
+AL,0171040,Slocomb,incorporated,25,A,2082,"Slocomb, AL",0,180,0,0,Slocomb city
+AL,0110240,Brundidge,incorporated,25,A,2073,"Brundidge, AL",0,181,0,0,Brundidge city
+AL,0176080,Thorsby,incorporated,25,A,2064,"Thorsby, AL",0,182,0,0,Thorsby city
+AL,0116600,Collinsville,incorporated,25,A,2059,"Collinsville, AL",0,183,0,0,Collinsville city
+AL,0116000,Coaling,incorporated,25,A,2035,"Coaling, AL",0,184,0,0,Coaling city
+AL,0102860,Ashland,incorporated,43,A,1984,"Ashland, AL",0,185,0,0,Ashland town
+AL,0179008,Vincent,incorporated,43,A,1982,"Vincent, AL",0,186,0,0,Vincent town
+AL,0123320,Elberta,incorporated,43,A,1974,"Elberta, AL",0,187,0,0,Elberta town
+AL,0173080,Stevenson,incorporated,43,A,1955,"Stevenson, AL",0,188,0,0,Stevenson town
+AL,0131384,Graysville,incorporated,25,A,1950,"Graysville, AL",0,189,0,0,Graysville city
+AL,0118304,Creola,incorporated,43,A,1936,"Creola, AL",0,190,0,0,Creola town
+AL,0118088,Cowarts,incorporated,43,A,1930,"Cowarts, AL",0,191,0,0,Cowarts town
+AL,0143240,Linden,incorporated,43,A,1930,"Linden, AL",0,192,0,0,Linden town
+AL,0111512,Camden,incorporated,25,A,1927,"Camden, AL",0,193,0,0,Camden city
+AL,0126848,Florala,incorporated,43,A,1923,"Florala, AL",0,194,0,0,Florala town
+AL,0178480,Vernon,incorporated,43,A,1921,"Vernon, AL",0,195,0,0,Vernon town
+AL,0173728,Sulligent,incorporated,43,A,1879,"Sulligent, AL",0,196,0,0,Sulligent town
+AL,0167800,Samson,incorporated,43,A,1874,"Samson, AL",0,197,0,0,Samson town
+AL,0111032,Butler,incorporated,43,A,1871,"Butler, AL",0,198,0,0,Butler town
+AL,0182848,Wilsonville,incorporated,43,A,1857,"Wilsonville, AL",0,199,0,0,Wilsonville town
+AL,0112760,Cedar Bluff,incorporated,43,A,1845,"Cedar Bluff, AL",0,200,0,0,Cedar Bluff town
+AL,0118856,Crossville,incorporated,43,A,1830,"Crossville, AL",0,201,0,0,Crossville town
+AL,0107456,Blountsville,incorporated,43,A,1826,"Blountsville, AL",0,202,0,0,Blountsville town
+AL,0142472,Level Plains,incorporated,43,A,1825,"Level Plains, AL",0,203,0,0,Level Plains town
+AL,0132080,Grove Hill,incorporated,43,A,1818,"Grove Hill, AL",0,204,0,0,Grove Hill town
+AL,0168280,Sardis City,incorporated,43,A,1814,"Sardis City, AL",0,205,0,0,Sardis City town
+AL,0164152,Rehobeth,incorporated,43,A,1791,"Rehobeth, AL",0,206,0,0,Rehobeth town
+AL,0174400,Sylvania,incorporated,43,A,1790,"Sylvania, AL",0,207,0,0,Sylvania town
+AL,0119744,Dauphin Island,incorporated,43,A,1778,"Dauphin Island, AL",0,208,0,0,Dauphin Island town
+AL,0112016,Carbon Hill,incorporated,25,A,1769,"Carbon Hill, AL",0,209,0,0,Carbon Hill city
+AL,0181504,Westover,incorporated,43,A,1766,"Westover, AL",0,210,0,0,Westover town
+AL,0117368,Cordova,incorporated,43,A,1728,"Cordova, AL",0,211,0,0,Cordova town
+AL,0163216,Ragland,incorporated,43,A,1693,"Ragland, AL",0,212,0,0,Ragland town
+AL,0120008,Deatsville,incorporated,43,A,1679,"Deatsville, AL",0,213,0,0,Deatsville town
+AL,0174424,Sylvan Springs,incorporated,43,A,1653,"Sylvan Springs, AL",0,214,0,0,Sylvan Springs town
+AL,0130736,Gordo,incorporated,43,A,1628,"Gordo, AL",0,215,0,0,Gordo town
+AL,0133256,Harpersville,incorporated,43,A,1614,"Harpersville, AL",0,216,0,0,Harpersville town
+AL,0154480,Newton,incorporated,43,A,1607,"Newton, AL",0,217,0,0,Newton town
+AL,0146264,Malvern,incorporated,43,A,1536,"Malvern, AL",0,218,0,0,Malvern town
+AL,0164104,Reform,incorporated,43,A,1520,"Reform, AL",0,219,0,0,Reform town
+AL,0183640,Woodstock,incorporated,43,A,1472,"Woodstock, AL",0,220,0,0,Woodstock town
+AL,0173872,Summerdale,incorporated,43,A,1468,"Summerdale, AL",0,221,0,0,Summerdale town
+AL,0126824,Flomaton,incorporated,43,A,1466,"Flomaton, AL",0,222,0,0,Flomaton town
+AL,0153856,New Brockton,incorporated,43,A,1428,"New Brockton, AL",0,223,0,0,New Brockton town
+AL,0132560,Hackleburg,incorporated,43,A,1425,"Hackleburg, AL",0,224,0,0,Hackleburg town
+AL,0152608,Mount Vernon,incorporated,43,A,1354,"Mount Vernon, AL",0,225,0,0,Mount Vernon town
+AL,0152848,Munford,incorporated,43,A,1351,"Munford, AL",0,226,0,0,Munford town
+AL,0133640,Hayden,incorporated,43,A,1342,"Hayden, AL",0,227,0,0,Hayden town
+AL,0129560,Georgiana,incorporated,43,A,1324,"Georgiana, AL",0,228,0,0,Georgiana town
+AL,0102260,Ardmore,incorporated,43,A,1321,"Ardmore, AL",0,229,0,0,Ardmore town
+AL,0130640,Goodwater,incorporated,43,A,1291,"Goodwater, AL",0,230,0,0,Goodwater town
+AL,0166216,Rogersville,incorporated,43,A,1286,"Rogersville, AL",0,231,0,0,Rogersville town
+AL,0123656,Elmore,incorporated,43,A,1280,"Elmore, AL",0,232,0,0,Elmore town
+AL,0180376,Webb,incorporated,43,A,1270,"Webb, AL",0,233,0,0,Webb town
+AL,0109736,Brookside,incorporated,43,A,1253,"Brookside, AL",0,234,0,0,Brookside town
+AL,0115472,Cleveland,incorporated,43,A,1245,"Cleveland, AL",0,235,0,0,Cleveland town
+AL,0127520,Fort Deposit,incorporated,43,A,1225,"Fort Deposit, AL",0,236,0,0,Fort Deposit town
+AL,0115640,Clio,incorporated,25,A,1220,"Clio, AL",0,237,0,0,Clio city
+AL,0117176,Coosada,incorporated,43,A,1217,"Coosada, AL",0,238,0,0,Coosada town
+AL,0180928,West Blocton,incorporated,43,A,1217,"West Blocton, AL",0,239,0,0,West Blocton town
+AL,0105932,Berry,incorporated,43,A,1216,"Berry, AL",0,240,0,0,Berry town
+AL,0125648,Falkville,incorporated,43,A,1197,"Falkville, AL",0,241,0,0,Falkville town
+AL,0122816,Eclectic,incorporated,43,A,1193,"Eclectic, AL",0,242,0,0,Eclectic town
+AL,0143888,Locust Fork,incorporated,43,A,1192,"Locust Fork, AL",0,243,0,0,Locust Fork town
+AL,0128312,Frisco City,incorporated,43,A,1170,"Frisco City, AL",0,244,0,0,Frisco City town
+AL,0156472,Ohatchee,incorporated,43,A,1157,"Ohatchee, AL",0,245,0,0,Ohatchee town
+AL,0121280,Double Springs,incorporated,43,A,1119,"Double Springs, AL",0,246,0,0,Double Springs town
+AL,0114008,Chatom,incorporated,43,A,1104,"Chatom, AL",0,247,0,0,Chatom town
+AL,0176584,Town Creek,incorporated,43,A,1052,"Town Creek, AL",0,248,0,0,Town Creek town
+AL,0117824,Cottonwood,incorporated,43,A,1048,"Cottonwood, AL",0,249,0,0,Cottonwood town
+AL,0104852,Bear Creek,incorporated,43,A,1047,"Bear Creek, AL",0,250,0,0,Bear Creek town
+AL,0131096,Grant,incorporated,43,A,1039,"Grant, AL",0,251,0,0,Grant town
+AL,0143648,Littleville,incorporated,43,A,1038,"Littleville, AL",0,252,0,0,Littleville town
+AL,0139784,Killen,incorporated,43,A,1034,"Killen, AL",0,253,0,0,Killen town
+AL,0171280,Snead,incorporated,43,A,1032,"Snead, AL",0,254,0,0,Snead town
+AL,0112304,Carrollton,incorporated,43,A,1023,"Carrollton, AL",0,255,0,0,Carrollton town
+AL,0148808,Millport,incorporated,43,A,1010,"Millport, AL",0,256,0,0,Millport town
+AL,0111680,Camp Hill,incorporated,43,A,1006,"Camp Hill, AL",0,257,0,0,Camp Hill town
+AL,0159496,Phil Campbell,incorporated,43,A,992,"Phil Campbell, AL",0,258,0,0,Phil Campbell town
+AL,0172888,Steele,incorporated,43,A,992,"Steele, AL",0,259,0,0,Steele town
+AL,0158272,Parrish,incorporated,43,A,982,"Parrish, AL",0,260,0,0,Parrish town
+AL,0114152,Cherokee,incorporated,43,A,970,"Cherokee, AL",0,261,0,0,Cherokee town
+AL,0128672,Fyffe,incorporated,43,A,967,"Fyffe, AL",0,262,0,0,Fyffe town
+AL,0101660,Altoona,incorporated,43,A,948,"Altoona, AL",0,263,0,0,Altoona town
+AL,0135632,Hollywood,incorporated,43,A,914,"Hollywood, AL",0,264,0,0,Hollywood town
+AL,0155440,Notasulga,incorporated,43,A,914,"Notasulga, AL",0,265,0,0,Notasulga town
+AL,0142016,Leesburg,incorporated,43,A,911,"Leesburg, AL",0,266,0,0,Leesburg town
+AL,0129608,Geraldine,incorporated,43,A,910,"Geraldine, AL",0,267,0,0,Geraldine town
+AL,0116312,Coker,incorporated,43,A,904,"Coker, AL",0,268,0,0,Coker town
+AL,0162075,Powell,incorporated,43,A,901,"Powell, AL",0,269,0,0,Powell town
+AL,0135560,Holly Pond,incorporated,43,A,851,"Holly Pond, AL",0,270,0,0,Holly Pond town
+AL,0109424,Brilliant,incorporated,43,A,845,"Brilliant, AL",0,271,0,0,Brilliant town
+AL,0151520,Mosses,incorporated,43,A,834,"Mosses, AL",0,272,0,0,Mosses town
+AL,0170896,Skyline,incorporated,43,A,834,"Skyline, AL",0,273,0,0,Skyline town
+AL,0133712,Hayneville,incorporated,43,A,830,"Hayneville, AL",0,274,0,0,Hayneville town
+AL,0109016,Brantley,incorporated,43,A,825,"Brantley, AL",0,275,0,0,Brantley town
+AL,0132440,Gurley,incorporated,43,A,816,"Gurley, AL",0,276,0,0,Gurley town
+AL,0146072,Magnolia Springs,incorporated,43,A,811,"Magnolia Springs, AL",0,277,0,0,Magnolia Springs town
+AL,0181912,White Hall,incorporated,43,A,806,"White Hall, AL",0,278,0,0,White Hall town
+AL,0171496,Somerville,incorporated,43,A,796,"Somerville, AL",0,279,0,0,Somerville town
+AL,0103220,Autaugaville,incorporated,43,A,795,"Autaugaville, AL",0,280,0,0,Autaugaville town
+AL,0174160,Susan Moore,incorporated,43,A,787,"Susan Moore, AL",0,281,0,0,Susan Moore town
+AL,0152776,Mulga,incorporated,43,A,784,"Mulga, AL",0,282,0,0,Mulga town
+AL,0154432,New Site,incorporated,43,A,773,"New Site, AL",0,283,0,0,New Site town
+AL,0179728,Walnut Grove,incorporated,43,A,773,"Walnut Grove, AL",0,284,0,0,Walnut Grove town
+AL,0155992,Oakman,incorporated,43,A,771,"Oakman, AL",0,285,0,0,Oakman town
+AL,0170536,Silverhill,incorporated,43,A,768,"Silverhill, AL",0,286,0,0,Silverhill town
+AL,0121328,Douglas,incorporated,43,A,761,"Douglas, AL",0,287,0,0,Douglas town
+AL,0135152,Hobson City,incorporated,43,A,759,"Hobson City, AL",0,288,0,0,Hobson City town
+AL,0160240,Pine Hill,incorporated,43,A,758,"Pine Hill, AL",0,289,0,0,Pine Hill town
+AL,0169000,Section,incorporated,43,A,756,"Section, AL",0,290,0,0,Section town
+AL,0138248,Jacksons' Gap,incorporated,43,A,747,"Jacksons' Gap, AL",0,291,0,0,Jacksons' Gap town
+AL,0183664,Woodville,incorporated,43,A,746,"Woodville, AL",0,292,0,0,Woodville town
+AL,0129704,Gilbertown,incorporated,43,A,739,"Gilbertown, AL",0,293,0,0,Gilbertown town
+AL,0180496,Wedowee,incorporated,43,A,737,"Wedowee, AL",0,294,0,0,Wedowee town
+AL,0137312,Ider,incorporated,43,A,735,"Ider, AL",0,295,0,0,Ider town
+AL,0142640,Lexington,incorporated,43,A,727,"Lexington, AL",0,296,0,0,Lexington town
+AL,0116744,Columbia,incorporated,43,A,690,"Columbia, AL",0,297,0,0,Columbia town
+AL,0160720,Pisgah,incorporated,43,A,681,"Pisgah, AL",0,298,0,0,Pisgah town
+AL,0142160,Leighton,incorporated,43,A,665,"Leighton, AL",0,299,0,0,Leighton town
+AL,0102428,Ariton,incorporated,43,A,662,"Ariton, AL",0,300,0,0,Ariton town
+AL,0100484,Addison,incorporated,43,A,659,"Addison, AL",0,301,0,0,Addison town
+AL,0179344,Wadley,incorporated,43,A,659,"Wadley, AL",0,302,0,0,Wadley town
+AL,0103676,Baileyton,incorporated,43,A,649,"Baileyton, AL",0,303,0,0,Baileyton town
+AL,0146504,Maplesville,incorporated,43,A,637,"Maplesville, AL",0,304,0,0,Maplesville town
+AL,0103556,Babbie,incorporated,43,A,625,"Babbie, AL",0,305,0,0,Babbie town
+AL,0163984,Reece City,incorporated,43,A,615,"Reece City, AL",0,306,0,0,Reece City town
+AL,0176680,Trafford,incorporated,43,A,613,"Trafford, AL",0,307,0,0,Trafford town
+AL,0144800,Lynn,incorporated,43,A,610,"Lynn, AL",0,308,0,0,Lynn town
+AL,0167920,Sand Rock,incorporated,43,A,591,"Sand Rock, AL",0,309,0,0,Sand Rock town
+AL,0128024,Franklin,incorporated,43,A,590,"Franklin, AL",0,310,0,0,Franklin town
+AL,0124688,Eva,incorporated,43,A,589,"Eva, AL",0,311,0,0,Eva town
+AL,0182872,Wilton,incorporated,43,A,587,"Wilton, AL",0,312,0,0,Wilton town
+AL,0167536,St. Florian,incorporated,43,A,584,"St. Florian, AL",0,313,0,0,St. Florian town
+AL,0181528,West Point,incorporated,43,A,584,"West Point, AL",0,314,0,0,West Point town
+AL,0118040,Courtland,incorporated,43,A,583,"Courtland, AL",0,315,0,0,Courtland town
+AL,0159832,Pinckard,incorporated,43,A,582,"Pinckard, AL",0,316,0,0,Pinckard town
+AL,0140096,Kinston,incorporated,43,A,580,"Kinston, AL",0,317,0,0,Kinston town
+AL,0178240,Valley Head,incorporated,43,A,577,"Valley Head, AL",0,318,0,0,Valley Head town
+AL,0132056,Grimes,incorporated,43,A,573,"Grimes, AL",0,319,0,0,Grimes town
+AL,0155752,Oak Grove,incorporated,43,A,564,"Oak Grove, AL",0,320,0,0,Oak Grove town
+AL,0171900,South Vinemont,incorporated,43,A,558,"South Vinemont, AL",0,321,0,0,South Vinemont town
+AL,0124880,Excel,incorporated,43,A,557,"Excel, AL",0,322,0,0,Excel town
+AL,0159592,Pickensville,incorporated,43,A,557,"Pickensville, AL",0,323,0,0,Pickensville town
+AL,0159088,Perdido Beach,incorporated,43,A,555,"Perdido Beach, AL",0,324,0,0,Perdido Beach town
+AL,0101396,Allgood,incorporated,43,A,548,"Allgood, AL",0,325,0,0,Allgood town
+AL,0120955,Dodge City,incorporated,43,A,548,"Dodge City, AL",0,326,0,0,Dodge City town
+AL,0154600,Newville,incorporated,43,A,544,"Newville, AL",0,327,0,0,Newville town
+AL,0125384,Fairview,incorporated,43,A,543,"Fairview, AL",0,328,0,0,Fairview town
+AL,0129032,Garden City,incorporated,43,A,528,"Garden City, AL",0,329,0,0,Garden City town
+AL,0145496,McKenzie,incorporated,43,A,507,"McKenzie, AL",0,330,0,0,McKenzie town
+AL,0112496,Castleberry,incorporated,43,A,486,"Castleberry, AL",0,331,0,0,Castleberry town
+AL,0155044,North Courtland,incorporated,43,A,483,"North Courtland, AL",0,332,0,0,North Courtland town
+AL,0164776,River Falls,incorporated,43,A,479,"River Falls, AL",0,333,0,0,River Falls town
+AL,0105812,Berlin,incorporated,43,A,476,"Berlin, AL",0,334,0,0,Berlin town
+AL,0115304,Clayhatchee,incorporated,43,A,466,"Clayhatchee, AL",0,335,0,0,Clayhatchee town
+AL,0103364,Avon,incorporated,43,A,465,"Avon, AL",0,336,0,0,Avon town
+AL,0148832,Millry,incorporated,43,A,450,"Millry, AL",0,337,0,0,Millry town
+AL,0127376,Forkland,incorporated,43,A,445,"Forkland, AL",0,338,0,0,Forkland town
+AL,0143816,Lockhart,incorporated,43,A,445,"Lockhart, AL",0,339,0,0,Lockhart town
+AL,0137264,Hytop,incorporated,43,A,441,"Hytop, AL",0,340,0,0,Hytop town
+AL,0139520,Kennedy,incorporated,43,A,435,"Kennedy, AL",0,341,0,0,Kennedy town
+AL,0129944,Glen Allen,incorporated,43,A,433,"Glen Allen, AL",0,342,0,0,Glen Allen town
+AL,0163768,Red Level,incorporated,43,A,432,"Red Level, AL",0,343,0,0,Red Level town
+AL,0143384,Lisman,incorporated,43,A,427,"Lisman, AL",0,344,0,0,Lisman town
+AL,0161038,Pleasant Groves,incorporated,43,A,426,"Pleasant Groves, AL",0,345,0,0,Pleasant Groves town
+AL,0132896,Hammondville,incorporated,43,A,425,"Hammondville, AL",0,346,0,0,Hammondville town
+AL,0163408,Ranburne,incorporated,43,A,422,"Ranburne, AL",0,347,0,0,Ranburne town
+AL,0148424,Midway,incorporated,43,A,421,"Midway, AL",0,348,0,0,Midway town
+AL,0181336,West Jefferson,incorporated,43,A,417,"West Jefferson, AL",0,349,0,0,West Jefferson town
+AL,0134480,Highland Lake,incorporated,43,A,412,"Highland Lake, AL",0,350,0,0,Highland Lake town
+AL,0123488,Elkmont,incorporated,43,A,411,"Elkmont, AL",0,351,0,0,Elkmont town
+AL,0153256,Napier Field,incorporated,43,A,409,"Napier Field, AL",0,352,0,0,Napier Field town
+AL,0134816,Hillsboro,incorporated,43,A,407,"Hillsboro, AL",0,353,0,0,Hillsboro town
+AL,0144344,Louisville,incorporated,43,A,395,"Louisville, AL",0,354,0,0,Louisville town
+AL,0170128,Shorter,incorporated,43,A,385,"Shorter, AL",0,355,0,0,Shorter town
+AL,0153448,Nectar,incorporated,43,A,379,"Nectar, AL",0,356,0,0,Nectar town
+AL,0170416,Silas,incorporated,43,A,377,"Silas, AL",0,357,0,0,Silas town
+AL,0166408,Rosa,incorporated,43,A,376,"Rosa, AL",0,358,0,0,Rosa town
+AL,0170704,Sipsey,incorporated,43,A,363,"Sipsey, AL",0,359,0,0,Sipsey town
+AL,0177352,Twin,incorporated,43,A,359,"Twin, AL",0,360,0,0,Twin town
+AL,0167176,Rutledge,incorporated,43,A,351,"Rutledge, AL",0,361,0,0,Rutledge town
+AL,0137096,Hurtsboro,incorporated,43,A,349,"Hurtsboro, AL",0,362,0,0,Hurtsboro town
+AL,0165472,Rockford,incorporated,43,A,349,"Rockford, AL",0,363,0,0,Rockford town
+AL,0102500,Arley,incorporated,43,A,330,"Arley, AL",0,364,0,0,Arley town
+AL,0121952,Dutton,incorporated,43,A,330,"Dutton, AL",0,365,0,0,Dutton town
+AL,0158968,Pennington,incorporated,43,A,329,"Pennington, AL",0,366,0,0,Pennington town
+AL,0175936,Thomaston,incorporated,43,A,326,"Thomaston, AL",0,367,0,0,Thomaston town
+AL,0178984,Vina,incorporated,43,A,325,"Vina, AL",0,368,0,0,Vina town
+AL,0169840,Shiloh,incorporated,43,A,321,"Shiloh, AL",0,369,0,0,Shiloh town
+AL,0148064,Mentone,incorporated,43,A,319,"Mentone, AL",0,370,0,0,Mentone town
+AL,0147728,Maytown,incorporated,43,A,316,"Maytown, AL",0,371,0,0,Maytown town
+AL,0117968,County Line,incorporated,43,A,311,"County Line, AL",0,372,0,0,County Line town
+AL,0118952,Cuba,incorporated,43,A,306,"Cuba, AL",0,373,0,0,Cuba town
+AL,0108104,Boligee,incorporated,43,A,301,"Boligee, AL",0,374,0,0,Boligee town
+AL,0130760,Gordon,incorporated,43,A,294,"Gordon, AL",0,375,0,0,Gordon town
+AL,0112160,Carolina,incorporated,43,A,286,"Carolina, AL",0,376,0,0,Carolina town
+AL,0121448,Dozier,incorporated,43,A,285,"Dozier, AL",0,377,0,0,Dozier town
+AL,0124256,Epes,incorporated,43,A,272,"Epes, AL",0,378,0,0,Epes town
+AL,0130880,Goshen,incorporated,43,A,269,"Goshen, AL",0,379,0,0,Goshen town
+AL,0135200,Hodges,incorporated,43,A,265,"Hodges, AL",0,380,0,0,Hodges town
+AL,0141368,Langston,incorporated,43,A,265,"Langston, AL",0,381,0,0,Langston town
+AL,0145904,Madrid,incorporated,43,A,265,"Madrid, AL",0,382,0,0,Madrid town
+AL,0116684,Colony,incorporated,43,A,264,"Colony, AL",0,383,0,0,Colony town
+AL,0116264,Coffeeville,incorporated,43,A,263,"Coffeeville, AL",0,384,0,0,Coffeeville town
+AL,0160372,Pine Ridge,incorporated,43,A,263,"Pine Ridge, AL",0,385,0,0,Pine Ridge town
+AL,0179488,Waldo,incorporated,43,A,258,"Waldo, AL",0,386,0,0,Waldo town
+AL,0168016,Sanford,incorporated,43,A,257,"Sanford, AL",0,387,0,0,Sanford town
+AL,0101756,Anderson,incorporated,43,A,254,"Anderson, AL",0,388,0,0,Anderson town
+AL,0130808,Gordonville,incorporated,43,A,245,"Gordonville, AL",0,389,0,0,Gordonville town
+AL,0133904,Heath,incorporated,43,A,236,"Heath, AL",0,390,0,0,Heath town
+AL,0128432,Fruithurst,incorporated,43,A,235,"Fruithurst, AL",0,391,0,0,Fruithurst town
+AL,0164368,Repton,incorporated,43,A,235,"Repton, AL",0,392,0,0,Repton town
+AL,0120392,Detroit,incorporated,43,A,230,"Detroit, AL",0,393,0,0,Detroit town
+AL,0174304,Sweet Water,incorporated,43,A,228,"Sweet Water, AL",0,394,0,0,Sweet Water town
+AL,0100676,Akron,incorporated,43,A,225,"Akron, AL",0,395,0,0,Akron town
+AL,0128504,Fulton,incorporated,43,A,223,"Fulton, AL",0,396,0,0,Fulton town
+AL,0179272,Vredenburgh,incorporated,43,A,222,"Vredenburgh, AL",0,397,0,0,Vredenburgh town
+AL,0107120,Black,incorporated,43,A,221,"Black, AL",0,398,0,0,Black town
+AL,0183400,Woodland,incorporated,43,A,221,"Woodland, AL",0,399,0,0,Woodland town
+AL,0103724,Bakerhill,incorporated,43,A,211,"Bakerhill, AL",0,400,0,0,Bakerhill town
+AL,0183976,Yellow Bluff,incorporated,43,A,208,"Yellow Bluff, AL",0,401,0,0,Yellow Bluff town
+AL,0136088,Horn Hill,incorporated,43,A,207,"Horn Hill, AL",0,402,0,0,Horn Hill town
+AL,0116240,Coffee Springs,incorporated,43,A,206,"Coffee Springs, AL",0,403,0,0,Coffee Springs town
+AL,0123176,Edwardsville,incorporated,43,A,206,"Edwardsville, AL",0,404,0,0,Edwardsville town
+AL,0145472,McIntosh,incorporated,43,A,206,"McIntosh, AL",0,405,0,0,McIntosh town
+AL,0104900,Beatrice,incorporated,43,A,204,"Beatrice, AL",0,406,0,0,Beatrice town
+AL,0128936,Gantt,incorporated,43,A,196,"Gantt, AL",0,407,0,0,Gantt town
+AL,0104948,Beaverton,incorporated,43,A,187,"Beaverton, AL",0,408,0,0,Beaverton town
+AL,0105164,Belk,incorporated,43,A,186,"Belk, AL",0,409,0,0,Belk town
+AL,0153400,Nauvoo,incorporated,43,A,185,"Nauvoo, AL",0,410,0,0,Nauvoo town
+AL,0157696,Paint Rock,incorporated,43,A,182,"Paint Rock, AL",0,411,0,0,Paint Rock town
+AL,0139280,Kansas,incorporated,43,A,180,"Kansas, AL",0,412,0,0,Kansas town
+AL,0177616,Union,incorporated,43,A,180,"Union, AL",0,413,0,0,Union town
+AL,0180064,Waterloo,incorporated,43,A,178,"Waterloo, AL",0,414,0,0,Waterloo town
+AL,0119816,Daviston,incorporated,43,A,174,"Daviston, AL",0,415,0,0,Daviston town
+AL,0108248,Bon Air,incorporated,43,A,172,"Bon Air, AL",0,416,0,0,Bon Air town
+AL,0128768,Gainesville,incorporated,43,A,172,"Gainesville, AL",0,417,0,0,Gainesville town
+AL,0129296,Gaylesville,incorporated,43,A,170,"Gaylesville, AL",0,418,0,0,Gaylesville town
+AL,0157024,Onycha,incorporated,43,A,167,"Onycha, AL",0,419,0,0,Onycha town
+AL,0162688,Providence,incorporated,43,A,167,"Providence, AL",0,420,0,0,Providence town
+AL,0165016,Riverview,incorporated,43,A,163,"Riverview, AL",0,421,0,0,Riverview town
+AL,0140888,Lakeview,incorporated,43,A,161,"Lakeview, AL",0,422,0,0,Lakeview town
+AL,0143744,Loachapoka,incorporated,43,A,160,"Loachapoka, AL",0,423,0,0,Loachapoka town
+AL,0180256,Waverly,incorporated,43,A,159,"Waverly, AL",0,424,0,0,Waverly town
+AL,0103940,Banks,incorporated,43,A,156,"Banks, AL",0,425,0,0,Banks town
+AL,0129392,Geiger,incorporated,43,A,155,"Geiger, AL",0,426,0,0,Geiger town
+AL,0119216,Cusseta,incorporated,43,A,152,"Cusseta, AL",0,427,0,0,Cusseta town
+AL,0130160,Glenwood,incorporated,43,A,152,"Glenwood, AL",0,428,0,0,Glenwood town
+AL,0157240,Orrville,incorporated,43,A,150,"Orrville, AL",0,429,0,0,Orrville town
+AL,0176632,Toxey,incorporated,43,A,145,"Toxey, AL",0,430,0,0,Toxey town
+AL,0174616,Talladega Springs,incorporated,43,A,144,"Talladega Springs, AL",0,431,0,0,Talladega Springs town
+AL,0159880,Pine Apple,incorporated,43,A,143,"Pine Apple, AL",0,432,0,0,Pine Apple town
+AL,0132536,Gu-Win,incorporated,43,A,141,"Gu-Win, AL",0,433,0,0,Gu-Win town
+AL,0123344,Eldridge,incorporated,43,A,136,"Eldridge, AL",0,434,0,0,Eldridge town
+AL,0153784,Newbern,incorporated,43,A,133,"Newbern, AL",0,435,0,0,Newbern town
+AL,0139472,Kellyton,incorporated,43,A,129,"Kellyton, AL",0,436,0,0,Kellyton town
+AL,0161536,Pollard,incorporated,43,A,128,"Pollard, AL",0,437,0,0,Pollard town
+AL,0155152,North Johns,incorporated,43,A,127,"North Johns, AL",0,438,0,0,North Johns town
+AL,0106460,Billingsley,incorporated,43,A,125,"Billingsley, AL",0,439,0,0,Billingsley town
+AL,0126200,Five Points,incorporated,43,A,114,"Five Points, AL",0,440,0,0,Five Points town
+AL,0132656,Haleburg,incorporated,43,A,112,"Haleburg, AL",0,441,0,0,Haleburg town
+AL,0142352,Lester,incorporated,43,A,111,"Lester, AL",0,442,0,0,Lester town
+AL,0142808,Libertyville,incorporated,43,A,108,"Libertyville, AL",0,443,0,0,Libertyville town
+AL,0125816,Faunsdale,incorporated,43,A,90,"Faunsdale, AL",0,444,0,0,Faunsdale town
+AL,0144536,Lowndesboro,incorporated,43,A,89,"Lowndesboro, AL",0,445,0,0,Lowndesboro town
+AL,0107672,Blue Springs,incorporated,43,A,84,"Blue Springs, AL",0,446,0,0,Blue Springs town
+AL,0164656,Ridgeville,incorporated,43,A,83,"Ridgeville, AL",0,447,0,0,Ridgeville town
+AL,0153472,Needham,incorporated,43,A,73,"Needham, AL",0,448,0,0,Needham town
+AL,0153112,Myrtlewood,incorporated,43,A,70,"Myrtlewood, AL",0,449,0,0,Myrtlewood town
+AL,0159328,Petrey,incorporated,43,A,67,"Petrey, AL",0,450,0,0,Petrey town
+AL,0177784,Union Grove,incorporated,43,A,67,"Union Grove, AL",0,451,0,0,Union Grove town
+AL,0112040,Cardiff,incorporated,43,A,52,"Cardiff, AL",0,452,0,0,Cardiff town
+AL,0130448,Goldville,incorporated,43,A,52,"Goldville, AL",0,453,0,0,Goldville town
+AL,0124472,Ethelsville,incorporated,43,A,49,"Ethelsville, AL",0,454,0,0,Ethelsville town
+AL,0151264,Mooresville,incorporated,43,A,47,"Mooresville, AL",0,455,0,0,Mooresville town
+AL,0105692,Benton,incorporated,43,A,41,"Benton, AL",0,456,0,0,Benton town
+AL,0123872,Emelle,incorporated,43,A,32,"Emelle, AL",0,457,0,0,Emelle town
+AL,0145640,McMullen,incorporated,43,A,32,"McMullen, AL",0,458,0,0,McMullen town
+AL,0153376,Natural Bridge,incorporated,43,A,32,"Natural Bridge, AL",0,459,0,0,Natural Bridge town
+AL,0148052,Memphis,incorporated,43,A,29,"Memphis, AL",0,460,0,0,Memphis town
+AL,0119912,Dayton,incorporated,43,A,28,"Dayton, AL",0,461,0,0,Dayton town
+AL,0155848,Oak Hill,incorporated,43,A,14,"Oak Hill, AL",0,462,0,0,Oak Hill town
+AL,0114202,Cherokee Ridge,incorporated,43,A,0,"Cherokee Ridge, AL",0,463,0,0,Cherokee Ridge town

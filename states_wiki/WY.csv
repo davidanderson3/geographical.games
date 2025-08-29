@@ -1,0 +1,100 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+WY,5613900,Cheyenne,incorporated,25,A,65132,"Cheyenne, WY",0,1,99,0.396,Cheyenne city
+WY,5613150,Casper,incorporated,25,A,59038,"Casper, WY",0,2,27,0.108,Casper city
+WY,5631855,Gillette,incorporated,25,A,33403,"Gillette, WY",0,3,17,0.068,Gillette city
+WY,5645050,Laramie,incorporated,25,A,31407,"Laramie, WY",0,4,12,0.048,Laramie city
+WY,5667235,Rock Springs,incorporated,25,A,23526,"Rock Springs, WY",0,5,9,0.036,Rock Springs city
+WY,5669845,Sheridan,incorporated,25,A,18737,"Sheridan, WY",0,6,8,0.032,Sheridan city
+WY,5633740,Green River,incorporated,25,A,11825,"Green River, WY",0,7,6,0.024,Green River city
+WY,5625620,Evanston,incorporated,25,A,11747,"Evanston, WY",0,8,6,0.024,Evanston city
+WY,5640120,Jackson,incorporated,43,A,10760,"Jackson, WY",0,9,4,0.016,Jackson town
+WY,5666220,Riverton,incorporated,25,A,10682,"Riverton, WY",0,10,4,0.016,Riverton city
+WY,5615760,Cody,incorporated,25,A,10028,"Cody, WY",0,11,3,0.012,Cody city
+WY,5663900,Rawlins,incorporated,25,A,8221,"Rawlins, WY",0,12,4,0.016,Rawlins city
+WY,5644760,Lander,incorporated,25,A,7546,"Lander, WY",0,13,3,0.012,Lander city
+WY,5662450,Powell,incorporated,25,A,6419,"Powell, WY",0,14,2,0.008,Powell city
+WY,5621125,Douglas,incorporated,25,A,6386,"Douglas, WY",0,15,2,0.008,Douglas city
+WY,5677530,Torrington,incorporated,25,A,6119,"Torrington, WY",0,16,2,0.008,Torrington city
+WY,5684925,Worland,incorporated,25,A,4773,"Worland, WY",0,17,3,0.012,Worland city
+WY,5610685,Buffalo,incorporated,25,A,4415,"Buffalo, WY",0,18,2,0.008,Buffalo city
+WY,5653460,Mills,incorporated,43,A,4034,"Mills, WY",0,19,2,0.008,Mills town
+WY,5683040,Wheatland,incorporated,43,A,3588,"Wheatland, WY",0,20,2,0.008,Wheatland town
+WY,5656215,Newcastle,incorporated,25,A,3374,"Newcastle, WY",0,21,1,0.004,Newcastle city
+WY,5605245,Bar Nunn,incorporated,43,A,2981,"Bar Nunn, WY",0,22,1,0.004,Bar Nunn town
+WY,5625765,Evansville,incorporated,43,A,2746,"Evansville, WY",0,23,1,0.004,Evansville town
+WY,5676515,Thermopolis,incorporated,43,A,2725,"Thermopolis, WY",0,24,1,0.004,Thermopolis town
+WY,5632435,Glenrock,incorporated,43,A,2420,"Glenrock, WY",0,25,1,0.004,Glenrock town
+WY,5642005,Kemmerer,incorporated,25,A,2415,"Kemmerer, WY",0,26,1,0.004,Kemmerer city
+WY,5647950,Lovell,incorporated,43,A,2243,"Lovell, WY",0,27,1,0.004,Lovell town
+WY,5600245,Afton,incorporated,43,A,2172,"Afton, WY",0,28,1,0.004,Afton town
+WY,5648675,Lyman,incorporated,43,A,2135,"Lyman, WY",0,29,2,0.008,Lyman town
+WY,5661580,Pinedale,incorporated,43,A,2005,"Pinedale, WY",0,30,2,0.008,Pinedale town
+WY,5673180,Star Valley Ranch,incorporated,43,A,1866,"Star Valley Ranch, WY",0,31,2,0.008,Star Valley Ranch town
+WY,5668685,Saratoga,incorporated,43,A,1702,"Saratoga, WY",0,32,2,0.008,Saratoga town
+WY,5633885,Greybull,incorporated,43,A,1651,"Greybull, WY",0,33,1,0.004,Greybull town
+WY,5685015,Wright,incorporated,43,A,1644,"Wright, WY",0,34,1,0.004,Wright town
+WY,5648530,Lusk,incorporated,43,A,1541,"Lusk, WY",0,35,1,0.004,Lusk town
+WY,5605320,Basin,incorporated,43,A,1288,"Basin, WY",0,36,1,0.004,Basin town
+WY,5655345,Mountain View,incorporated,43,A,1278,"Mountain View, WY",0,37,1,0.004,Mountain View town
+WY,5601695,Alpine,incorporated,43,A,1220,"Alpine, WY",0,38,1,0.004,Alpine town
+WY,5661435,Pine Bluffs,incorporated,43,A,1172,"Pine Bluffs, WY",0,39,1,0.004,Pine Bluffs town
+WY,5634320,Guernsey,incorporated,43,A,1130,"Guernsey, WY",0,40,1,0.004,Guernsey town
+WY,5663755,Ranchester,incorporated,43,A,1064,"Ranchester, WY",0,41,1,0.004,Ranchester town
+WY,5674195,Sundance,incorporated,43,A,1032,"Sundance, WY",0,42,1,0.004,Sundance town
+WY,5654185,Moorcroft,incorporated,43,A,946,"Moorcroft, WY",0,43,1,0.004,Moorcroft town
+WY,5621415,Dubois,incorporated,43,A,911,"Dubois, WY",0,44,1,0.004,Dubois town
+WY,5679125,Upton,incorporated,43,A,898,"Upton, WY",0,45,1,0.004,Upton town
+WY,5650415,Marbleton,incorporated,43,A,861,"Marbleton, WY",0,46,1,0.004,Marbleton town
+WY,5619385,Dayton,incorporated,43,A,822,"Dayton, WY",0,47,1,0.004,Dayton town
+WY,5617645,Cowley,incorporated,43,A,762,"Cowley, WY",0,48,1,0.004,Cowley town
+WY,5635335,Hanna,incorporated,43,A,683,"Hanna, WY",0,49,1,0.004,Hanna town
+WY,5611700,Byron,incorporated,43,A,562,"Byron, WY",0,50,0,0,Byron town
+WY,5605625,Bear River,incorporated,43,A,522,"Bear River, WY",0,51,0,0,Bear River town
+WY,5620110,Diamondville,incorporated,43,A,520,"Diamondville, WY",0,52,0,0,Diamondville town
+WY,5615905,Cokeville,incorporated,43,A,502,"Cokeville, WY",0,53,0,0,Cokeville town
+WY,5661610,Pine Haven,incorporated,43,A,493,"Pine Haven, WY",0,54,0,0,Pine Haven town
+WY,5670570,Shoshoni,incorporated,43,A,471,"Shoshoni, WY",0,55,0,0,Shoshoni town
+WY,5624750,Encampment,incorporated,43,A,452,"Encampment, WY",0,56,0,0,Encampment town
+WY,5638960,Hudson,incorporated,43,A,431,"Hudson, WY",0,57,0,0,Hudson town
+WY,5667440,Rolling Hills,incorporated,43,A,427,"Rolling Hills, WY",0,58,0,0,Rolling Hills town
+WY,5604740,Baggs,incorporated,43,A,411,"Baggs, WY",0,59,0,0,Baggs town
+WY,5646790,Lingle,incorporated,43,A,403,"Lingle, WY",0,60,0,0,Lingle town
+WY,5607060,Big Piney,incorporated,43,A,395,"Big Piney, WY",0,61,0,0,Big Piney town
+WY,5643455,La Barge,incorporated,43,A,394,"La Barge, WY",0,62,0,0,La Barge town
+WY,5676370,Thayne,incorporated,43,A,380,"Thayne, WY",0,63,0,0,Thayne town
+WY,5671150,Sinclair,incorporated,43,A,374,"Sinclair, WY",0,64,0,0,Sinclair town
+WY,5643745,LaGrange,incorporated,43,A,372,"LaGrange, WY",0,65,0,0,LaGrange town
+WY,5611265,Burns,incorporated,43,A,356,"Burns, WY",0,66,0,0,Burns town
+WY,5611120,Burlington,incorporated,43,A,314,"Burlington, WY",0,67,0,0,Burlington town
+WY,5639105,Hulett,incorporated,43,A,309,"Hulett, WY",0,68,0,0,Hulett town
+WY,5651720,Meeteetse,incorporated,43,A,309,"Meeteetse, WY",0,69,0,0,Meeteetse town
+WY,5652445,Midwest,incorporated,43,A,285,"Midwest, WY",0,70,0,0,Midwest town
+WY,5641353,Kaycee,incorporated,43,A,247,"Kaycee, WY",0,71,0,0,Kaycee town
+WY,5675790,Ten Sleep,incorporated,43,A,246,"Ten Sleep, WY",0,72,0,0,Ten Sleep town
+WY,5651575,Medicine Bow,incorporated,43,A,245,"Medicine Bow, WY",0,73,0,0,Medicine Bow town
+WY,5632290,Glendo,incorporated,43,A,237,"Glendo, WY",0,74,0,0,Glendo town
+WY,5660130,Pavillion,incorporated,43,A,230,"Pavillion, WY",0,75,0,0,Pavillion town
+WY,5622720,East Thermopolis,incorporated,43,A,229,"East Thermopolis, WY",0,76,0,0,East Thermopolis town
+WY,5667090,Rock River,incorporated,43,A,211,"Rock River, WY",0,77,0,0,Rock River town
+WY,5628230,Fort Laramie,incorporated,43,A,206,"Fort Laramie, WY",0,78,0,0,Fort Laramie town
+WY,5681300,Wamsutter,incorporated,43,A,203,"Wamsutter, WY",0,79,0,0,Wamsutter town
+WY,5674775,Superior,incorporated,43,A,184,"Superior, WY",0,80,0,0,Superior town
+WY,5614165,Chugwater,incorporated,43,A,175,"Chugwater, WY",0,81,0,0,Chugwater town
+WY,5600825,Albin,incorporated,43,A,169,"Albin, WY",0,82,0,0,Albin town
+WY,5619530,Deaver,incorporated,43,A,154,"Deaver, WY",0,83,0,0,Deaver town
+WY,5623155,Edgerton,incorporated,43,A,153,"Edgerton, WY",0,84,0,0,Edgerton town
+WY,5624025,Elk Mountain,incorporated,43,A,150,"Elk Mountain, WY",0,85,0,0,Elk Mountain town
+WY,5629825,Frannie,incorporated,43,A,145,"Frannie, WY",0,86,0,0,Frannie town
+WY,5686665,Yoder,incorporated,43,A,131,"Yoder, WY",0,87,0,0,Yoder town
+WY,5615325,Clearmont,incorporated,43,A,116,"Clearmont, WY",0,88,0,0,Clearmont town
+WY,5632870,Granger,incorporated,43,A,98,"Granger, WY",0,89,0,0,Granger town
+WY,5650270,Manville,incorporated,43,A,92,"Manville, WY",0,90,0,0,Manville town
+WY,5649980,Manderson,incorporated,43,A,88,"Manderson, WY",0,91,0,0,Manderson town
+WY,5642730,Kirby,incorporated,43,A,76,"Kirby, WY",0,92,0,0,Kirby town
+WY,5620690,Dixon,incorporated,43,A,74,"Dixon, WY",0,93,0,0,Dixon town
+WY,5604885,Bairoil,incorporated,43,A,68,"Bairoil, WY",0,94,0,0,Bairoil town
+WY,5666075,Riverside,incorporated,43,A,66,"Riverside, WY",0,95,0,0,Riverside town
+WY,5635625,Hartville,incorporated,43,A,64,"Hartville, WY",0,96,0,0,Hartville town
+WY,5657810,Opal,incorporated,43,A,64,"Opal, WY",0,97,0,0,Opal town
+WY,5679705,Van Tassell,incorporated,43,A,22,"Van Tassell, WY",0,98,0,0,Van Tassell town
+WY,5647805,Lost Springs,incorporated,43,A,6,"Lost Springs, WY",0,99,0,0,Lost Springs town

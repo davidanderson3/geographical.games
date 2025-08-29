@@ -1,0 +1,502 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+AR,0541000,Little Rock,incorporated,25,A,202591,"Little Rock, AR",0,1,87,0.348,Little Rock city
+AR,0523290,Fayetteville,incorporated,25,A,93949,"Fayetteville, AR",0,2,25,0.1,Fayetteville city
+AR,0524550,Fort Smith,incorporated,25,A,89142,"Fort Smith, AR",0,3,16,0.064,Fort Smith city
+AR,0566080,Springdale,incorporated,25,A,84161,"Springdale, AR",0,4,10,0.04,Springdale city
+AR,0535710,Jonesboro,incorporated,25,A,78576,"Jonesboro, AR",0,5,9,0.036,Jonesboro city
+AR,0560410,Rogers,incorporated,25,A,69908,"Rogers, AR",0,6,6,0.024,Rogers city
+AR,0550450,North Little Rock,incorporated,25,A,64591,"North Little Rock, AR",0,7,9,0.036,North Little Rock city
+AR,0515190,Conway,incorporated,25,A,64134,"Conway, AR",0,8,4,0.016,Conway city
+AR,0505320,Bentonville,incorporated,25,A,54164,"Bentonville, AR",0,9,5,0.02,Bentonville city
+AR,0555310,Pine Bluff,incorporated,25,A,41253,"Pine Bluff, AR",0,10,3,0.012,Pine Bluff city
+AR,0533400,Hot Springs,incorporated,25,A,37930,"Hot Springs, AR",0,11,4,0.016,Hot Springs city
+AR,0505290,Benton,incorporated,25,A,35014,"Benton, AR",0,12,4,0.016,Benton city
+AR,0563800,Sherwood,incorporated,25,A,32731,"Sherwood, AR",0,13,2,0.008,Sherwood city
+AR,0504840,Bella Vista,incorporated,25,A,30104,"Bella Vista, AR",0,14,2,0.008,Bella Vista city
+AR,0553390,Paragould,incorporated,25,A,29537,"Paragould, AR",0,15,3,0.012,Paragould city
+AR,0534750,Jacksonville,incorporated,25,A,29477,"Jacksonville, AR",0,16,3,0.012,Jacksonville city
+AR,0568810,Texarkana,incorporated,25,A,29387,"Texarkana, AR",0,17,3,0.012,Texarkana city
+AR,0561670,Russellville,incorporated,25,A,28940,"Russellville, AR",0,18,3,0.012,Russellville city
+AR,0510300,Cabot,incorporated,25,A,26569,"Cabot, AR",0,19,2,0.008,Cabot city
+AR,0574540,West Memphis,incorporated,25,A,24520,"West Memphis, AR",0,20,1,0.004,West Memphis city
+AR,0571480,Van Buren,incorporated,25,A,23218,"Van Buren, AR",0,21,1,0.004,Van Buren city
+AR,0563020,Searcy,incorporated,25,A,22937,"Searcy, AR",0,22,1,0.004,Searcy city
+AR,0509460,Bryant,incorporated,25,A,20663,"Bryant, AR",0,23,1,0.004,Bryant city
+AR,0544600,Maumelle,incorporated,25,A,19251,"Maumelle, AR",0,24,1,0.004,Maumelle city
+AR,0512820,Centerton,incorporated,25,A,17792,"Centerton, AR",0,25,1,0.004,Centerton city
+AR,0521070,El Dorado,incorporated,25,A,17756,"El Dorado, AR",0,26,2,0.008,El Dorado city
+AR,0564370,Siloam Springs,incorporated,25,A,17287,"Siloam Springs, AR",0,27,2,0.008,Siloam Springs city
+AR,0544180,Marion,incorporated,25,A,13752,"Marion, AR",0,28,2,0.008,Marion city
+AR,0507330,Blytheville,incorporated,25,A,13406,"Blytheville, AR",0,29,2,0.008,Blytheville city
+AR,0530460,Harrison,incorporated,25,A,13069,"Harrison, AR",0,30,2,0.008,Harrison city
+AR,0524430,Forrest City,incorporated,25,A,13015,"Forrest City, AR",0,31,2,0.008,Forrest City city
+AR,0547390,Mountain Home,incorporated,25,A,12825,"Mountain Home, AR",0,32,2,0.008,Mountain Home city
+AR,0504030,Batesville,incorporated,25,A,11191,"Batesville, AR",0,33,2,0.008,Batesville city
+AR,0543460,Magnolia,incorporated,25,A,11162,"Magnolia, AR",0,34,2,0.008,Magnolia city
+AR,0543610,Malvern,incorporated,25,A,10867,"Malvern, AR",0,35,2,0.008,Malvern city
+AR,0510720,Camden,incorporated,25,A,10612,"Camden, AR",0,36,2,0.008,Camden city
+AR,0501870,Arkadelphia,incorporated,25,A,10380,"Arkadelphia, AR",0,37,2,0.008,Arkadelphia city
+AR,0541720,Lowell,incorporated,25,A,9839,"Lowell, AR",0,38,2,0.008,Lowell city
+AR,0531190,Helena-West Helena,incorporated,25,A,9519,"Helena-West Helena, AR",0,39,2,0.008,Helena-West Helena city
+AR,0528780,Greenwood,incorporated,25,A,9516,"Greenwood, AR",0,40,2,0.008,Greenwood city
+AR,0514140,Clarksville,incorporated,25,A,9381,"Clarksville, AR",0,41,2,0.008,Clarksville city
+AR,0533190,Hope,incorporated,25,A,8952,"Hope, AR",0,42,2,0.008,Hope city
+AR,0546580,Monticello,incorporated,25,A,8442,"Monticello, AR",0,43,2,0.008,Monticello city
+AR,0504600,Beebe,incorporated,25,A,8437,"Beebe, AR",0,44,2,0.008,Beebe city
+AR,0577090,Wynne,incorporated,25,A,8314,"Wynne, AR",0,45,1,0.004,Wynne city
+AR,0567490,Stuttgart,incorporated,25,A,8264,"Stuttgart, AR",0,46,1,0.004,Stuttgart city
+AR,0549580,Newport,incorporated,25,A,8005,"Newport, AR",0,47,1,0.004,Newport city
+AR,0523170,Farmington,incorporated,25,A,7584,"Farmington, AR",0,48,1,0.004,Farmington city
+AR,0570010,Trumann,incorporated,25,A,7399,"Trumann, AR",0,49,1,0.004,Trumann city
+AR,0556540,Pocahontas,incorporated,25,A,7371,"Pocahontas, AR",0,50,1,0.004,Pocahontas city
+AR,0557170,Prairie Grove,incorporated,25,A,7045,"Prairie Grove, AR",0,51,0,0,Prairie Grove city
+AR,0546970,Morrilton,incorporated,25,A,6992,"Morrilton, AR",0,52,0,0,Morrilton city
+AR,0552580,Osceola,incorporated,25,A,6976,"Osceola, AR",0,53,0,0,Osceola city
+AR,0531090,Heber Springs,incorporated,25,A,6969,"Heber Springs, AR",0,54,0,0,Heber Springs city
+AR,0554200,Pea Ridge,incorporated,25,A,6559,"Pea Ridge, AR",0,55,0,0,Pea Ridge city
+AR,0518490,De Queen,incorporated,25,A,6105,"De Queen, AR",0,56,0,0,De Queen city
+AR,0573130,Ward,incorporated,25,A,6052,"Ward, AR",0,57,0,0,Ward city
+AR,0500970,Alma,incorporated,25,A,5825,"Alma, AR",0,58,0,0,Alma city
+AR,0528510,Greenbrier,incorporated,25,A,5707,"Greenbrier, AR",0,59,0,0,Greenbrier city
+AR,0505560,Berryville,incorporated,25,A,5682,"Berryville, AR",0,60,0,0,Berryville city
+AR,0545170,Mena,incorporated,25,A,5589,"Mena, AR",0,61,0,0,Mena city
+AR,0575170,White Hall,incorporated,25,A,5581,"White Hall, AR",0,62,0,0,White Hall city
+AR,0512340,Cave Springs,incorporated,25,A,5495,"Cave Springs, AR",0,63,0,0,Cave Springs city
+AR,0573310,Warren,incorporated,25,A,5453,"Warren, AR",0,64,0,0,Warren city
+AR,0572890,Walnut Ridge,incorporated,25,A,5384,"Walnut Ridge, AR",0,65,0,0,Walnut Ridge city
+AR,0563710,Sheridan,incorporated,25,A,4920,"Sheridan, AR",0,66,0,0,Sheridan city
+AR,0516240,Crossett,incorporated,25,A,4822,"Crossett, AR",0,67,0,0,Crossett city
+AR,0503640,Barling,incorporated,25,A,4782,"Barling, AR",0,68,0,0,Barling city
+AR,0513450,Cherokee Village,incorporated,25,A,4780,"Cherokee Village, AR",0,69,0,0,Cherokee Village city
+AR,0517380,Dardanelle,incorporated,25,A,4517,"Dardanelle, AR",0,70,0,0,Dardanelle city
+AR,0563470,Shannon Hills,incorporated,25,A,4490,"Shannon Hills, AR",0,71,0,0,Shannon Hills city
+AR,0569740,Tontitown,incorporated,25,A,4301,"Tontitown, AR",0,72,0,0,Tontitown city
+AR,0571960,Vilonia,incorporated,25,A,4288,"Vilonia, AR",0,73,0,0,Vilonia city
+AR,0565630,Southside,incorporated,25,A,4279,"Southside, AR",0,74,0,0,Southside city
+AR,0541420,Lonoke,incorporated,25,A,4276,"Lonoke, AR",0,75,0,0,Lonoke city
+AR,0502380,Ashdown,incorporated,25,A,4261,"Ashdown, AR",0,76,0,0,Ashdown city
+AR,0548560,Nashville,incorporated,25,A,4153,"Nashville, AR",0,77,0,0,Nashville city
+AR,0509100,Brookland,incorporated,25,A,4064,"Brookland, AR",0,78,0,0,Brookland city
+AR,0519990,Dumas,incorporated,25,A,4001,"Dumas, AR",0,79,0,0,Dumas city
+AR,0530640,Haskell,incorporated,25,A,3956,"Haskell, AR",0,80,0,0,Haskell city
+AR,0542770,McGehee,incorporated,25,A,3849,"McGehee, AR",0,81,0,0,McGehee city
+AR,0507720,Booneville,incorporated,25,A,3809,"Booneville, AR",0,82,0,0,Booneville city
+AR,0526290,Gentry,incorporated,25,A,3790,"Gentry, AR",0,83,0,0,Gentry city
+AR,0543820,Manila,incorporated,25,A,3682,"Manila, AR",0,84,0,0,Manila city
+AR,0555130,Piggott,incorporated,25,A,3622,"Piggott, AR",0,85,0,0,Piggott city
+AR,0535500,Johnson,incorporated,25,A,3609,"Johnson, AR",0,86,0,0,Johnson city
+AR,0521190,Elkins,incorporated,25,A,3602,"Elkins, AR",0,87,0,0,Elkins city
+AR,0544120,Marianna,incorporated,25,A,3575,"Marianna, AR",0,88,0,0,Marianna city
+AR,0528360,Gravette,incorporated,25,A,3547,"Gravette, AR",0,89,0,0,Gravette city
+AR,0552970,Ozark,incorporated,25,A,3542,"Ozark, AR",0,90,0,0,Ozark city
+AR,0502860,Austin,incorporated,25,A,3460,"Austin, AR",0,91,0,0,Austin city
+AR,0524220,Fordyce,incorporated,25,A,3396,"Fordyce, AR",0,92,0,0,Fordyce city
+AR,0572380,Waldron,incorporated,25,A,3386,"Waldron, AR",0,93,0,0,Waldron city
+AR,0500580,Alexander,incorporated,25,A,3385,"Alexander, AR",0,94,0,0,Alexander city
+AR,0515460,Corning,incorporated,25,A,3227,"Corning, AR",0,95,0,0,Corning city
+AR,0553480,Paris,incorporated,25,A,3176,"Paris, AR",0,96,0,0,Paris city
+AR,0556990,Pottsville,incorporated,25,A,3140,"Pottsville, AR",0,97,0,0,Pottsville city
+AR,0557260,Prescott,incorporated,25,A,3101,"Prescott, AR",0,98,0,0,Prescott city
+AR,0518790,DeWitt,incorporated,25,A,3056,"DeWitt, AR",0,99,0,0,DeWitt city
+AR,0540120,Little Flock,incorporated,25,A,3055,"Little Flock, AR",0,100,0,0,Little Flock city
+AR,0528600,Green Forest,incorporated,25,A,2972,"Green Forest, AR",0,101,0,0,Green Forest city
+AR,0527700,Gosnell,incorporated,25,A,2910,"Gosnell, AR",0,102,0,0,Gosnell city
+AR,0533970,Huntsville,incorporated,25,A,2879,"Huntsville, AR",0,103,0,0,Huntsville city
+AR,0547540,Mountain View,incorporated,25,A,2877,"Mountain View, AR",0,104,0,0,Mountain View city
+AR,0502590,Atkins,incorporated,25,A,2859,"Atkins, AR",0,105,0,0,Atkins city
+AR,0508950,Brinkley,incorporated,25,A,2700,"Brinkley, AR",0,106,0,0,Brinkley city
+AR,0533580,Hoxie,incorporated,25,A,2598,"Hoxie, AR",0,107,0,0,Hoxie city
+AR,0513300,Charleston,incorporated,25,A,2588,"Charleston, AR",0,108,0,0,Charleston city
+AR,0529500,Hamburg,incorporated,25,A,2536,"Hamburg, AR",0,109,0,0,Hamburg city
+AR,0532650,Holiday Island,incorporated,25,A,2533,"Holiday Island, AR",0,110,0,0,Holiday Island city
+AR,0503280,Bald Knob,incorporated,25,A,2522,"Bald Knob, AR",0,111,0,0,Bald Knob city
+AR,0514260,Clinton,incorporated,25,A,2509,"Clinton, AR",0,112,0,0,Clinton city
+AR,0521730,England,incorporated,25,A,2477,"England, AR",0,113,0,0,England city
+AR,0538890,Lavaca,incorporated,25,A,2450,"Lavaca, AR",0,114,0,0,Lavaca city
+AR,0533370,Horseshoe Bend,incorporated,25,A,2440,"Horseshoe Bend, AR",0,115,0,0,Horseshoe Bend city
+AR,0507630,Bono,incorporated,25,A,2409,"Bono, AR",0,116,0,0,Bono city
+AR,0521430,Elm Springs,incorporated,25,A,2361,"Elm Springs, AR",0,117,0,0,Elm Springs city
+AR,0574360,West Fork,incorporated,25,A,2331,"West Fork, AR",0,118,0,0,West Fork city
+AR,0537780,Lake City,incorporated,25,A,2326,"Lake City, AR",0,119,0,0,Lake City city
+AR,0539970,Lincoln,incorporated,25,A,2294,"Lincoln, AR",0,120,0,0,Lincoln city
+AR,0544210,Marked Tree,incorporated,25,A,2286,"Marked Tree, AR",0,121,0,0,Marked Tree city
+AR,0530400,Harrisburg,incorporated,25,A,2212,"Harrisburg, AR",0,122,0,0,Harrisburg city
+AR,0566440,Star City,incorporated,25,A,2173,"Star City, AR",0,123,0,0,Star City city
+AR,0526050,Gassville,incorporated,25,A,2171,"Gassville, AR",0,124,0,0,Gassville city
+AR,0522240,Eureka Springs,incorporated,25,A,2166,"Eureka Springs, AR",0,125,0,0,Eureka Springs city
+AR,0522660,Fairfield Bay,incorporated,25,A,2108,"Fairfield Bay, AR",0,126,0,0,Fairfield Bay city
+AR,0527670,Goshen,incorporated,43,A,2102,"Goshen, AR",0,127,0,0,Goshen town
+AR,0527310,Glenwood,incorporated,25,A,2068,"Glenwood, AR",0,128,0,0,Glenwood city
+AR,0538170,Lake Village,incorporated,25,A,2065,"Lake Village, AR",0,129,0,0,Lake Village city
+AR,0539010,Leachville,incorporated,25,A,2039,"Leachville, AR",0,130,0,0,Leachville city
+AR,0511500,Carlisle,incorporated,25,A,2033,"Carlisle, AR",0,131,0,0,Carlisle city
+AR,0517320,Danville,incorporated,25,A,2028,"Danville, AR",0,132,0,0,Danville city
+AR,0518520,Dermott,incorporated,25,A,2021,"Dermott, AR",0,133,0,0,Dermott city
+AR,0502740,Augusta,incorporated,25,A,1998,"Augusta, AR",0,134,0,0,Augusta city
+AR,0544750,Mayflower,incorporated,25,A,1984,"Mayflower, AR",0,135,0,0,Mayflower city
+AR,0509790,Bull Shoals,incorporated,25,A,1952,"Bull Shoals, AR",0,136,0,0,Bull Shoals city
+AR,0512280,Cave City,incorporated,25,A,1922,"Cave City, AR",0,137,0,0,Cave City city
+AR,0518550,Des Arc,incorporated,25,A,1905,"Des Arc, AR",0,138,0,0,Des Arc city
+AR,0504180,Bay,incorporated,25,A,1876,"Bay, AR",0,139,0,0,Bay city
+AR,0558490,Rector,incorporated,25,A,1862,"Rector, AR",0,140,0,0,Rector city
+AR,0536040,Judsonia,incorporated,25,A,1854,"Judsonia, AR",0,141,0,0,Judsonia city
+AR,0529200,Gurdon,incorporated,25,A,1840,"Gurdon, AR",0,142,0,0,Gurdon city
+AR,0520320,Earle,incorporated,25,A,1831,"Earle, AR",0,143,0,0,Earle city
+AR,0545080,Melbourne,incorporated,25,A,1830,"Melbourne, AR",0,144,0,0,Melbourne city
+AR,0517740,Decatur,incorporated,25,A,1773,"Decatur, AR",0,145,0,0,Decatur city
+AR,0539370,Lepanto,incorporated,25,A,1732,"Lepanto, AR",0,146,0,0,Lepanto city
+AR,0522180,Eudora,incorporated,25,A,1728,"Eudora, AR",0,147,0,0,Eudora city
+AR,0538290,Lamar,incorporated,25,A,1719,"Lamar, AR",0,148,0,0,Lamar city
+AR,0570100,Tuckerman,incorporated,25,A,1707,"Tuckerman, AR",0,149,0,0,Tuckerman city
+AR,0564730,Smackover,incorporated,25,A,1630,"Smackover, AR",0,150,0,0,Smackover city
+AR,0532200,Highfill,incorporated,43,A,1587,"Highfill, AR",0,151,0,0,Highfill town
+AR,0542500,McCrory,incorporated,25,A,1583,"McCrory, AR",0,152,0,0,McCrory city
+AR,0562150,Salem,incorporated,25,A,1566,"Salem, AR",0,153,0,0,Salem city
+AR,0548200,Mulberry,incorporated,25,A,1543,"Mulberry, AR",0,154,0,0,Mulberry city
+AR,0576970,Wrightsville,incorporated,25,A,1542,"Wrightsville, AR",0,155,0,0,Wrightsville city
+AR,0513990,Clarendon,incorporated,25,A,1526,"Clarendon, AR",0,156,0,0,Clarendon city
+AR,0546400,Monette,incorporated,25,A,1506,"Monette, AR",0,157,0,0,Monette city
+AR,0558580,Redfield,incorporated,25,A,1505,"Redfield, AR",0,158,0,0,Redfield city
+AR,0548290,Murfreesboro,incorporated,25,A,1495,"Murfreesboro, AR",0,159,0,0,Murfreesboro city
+AR,0530940,Hazen,incorporated,25,A,1481,"Hazen, AR",0,160,0,0,Hazen city
+AR,0512520,Cedarville,incorporated,25,A,1424,"Cedarville, AR",0,161,0,0,Cedarville city
+AR,0536430,Kensett,incorporated,25,A,1400,"Kensett, AR",0,162,0,0,Kensett city
+AR,0554710,Perryville,incorporated,25,A,1373,"Perryville, AR",0,163,0,0,Perryville city
+AR,0524010,Flippin,incorporated,25,A,1345,"Flippin, AR",0,164,0,0,Flippin city
+AR,0519600,Dover,incorporated,25,A,1337,"Dover, AR",0,165,0,0,Dover city
+AR,0544300,Marshall,incorporated,25,A,1329,"Marshall, AR",0,166,0,0,Marshall city
+AR,0566320,Stamps,incorporated,25,A,1258,"Stamps, AR",0,167,0,0,Stamps city
+AR,0518940,Diaz,incorporated,25,A,1224,"Diaz, AR",0,168,0,0,Diaz city
+AR,0528660,Greenland,incorporated,25,A,1213,"Greenland, AR",0,169,0,0,Greenland city
+AR,0544240,Marmaduke,incorporated,25,A,1212,"Marmaduke, AR",0,170,0,0,Marmaduke city
+AR,0529650,Hampton,incorporated,25,A,1181,"Hampton, AR",0,171,0,0,Hampton city
+AR,0549010,Newark,incorporated,25,A,1180,"Newark, AR",0,172,0,0,Newark city
+AR,0577330,Yellville,incorporated,25,A,1178,"Yellville, AR",0,173,0,0,Yellville city
+AR,0572350,Waldo,incorporated,25,A,1151,"Waldo, AR",0,174,0,0,Waldo city
+AR,0502470,Ash Flat,incorporated,25,A,1137,"Ash Flat, AR",0,175,0,0,Ash Flat city
+AR,0511410,Caraway,incorporated,25,A,1133,"Caraway, AR",0,176,0,0,Caraway city
+AR,0551060,Oak Grove Heights,incorporated,43,A,1104,"Oak Grove Heights, AR",0,177,0,0,Oak Grove Heights town
+AR,0546040,Mineral Springs,incorporated,25,A,1085,"Mineral Springs, AR",0,178,0,0,Mineral Springs city
+AR,0533760,Hughes,incorporated,25,A,1056,"Hughes, AR",0,179,0,0,Hughes city
+AR,0543880,Mansfield,incorporated,25,A,1053,"Mansfield, AR",0,180,0,0,Mansfield city
+AR,0576820,Wooster,incorporated,43,A,1042,"Wooster, AR",0,181,0,0,Wooster town
+AR,0536670,Kibler,incorporated,25,A,1005,"Kibler, AR",0,182,0,0,Kibler city
+AR,0547690,Mount Ida,incorporated,25,A,996,"Mount Ida, AR",0,183,0,0,Mount Ida city
+AR,0532257,Highland,incorporated,25,A,982,"Highland, AR",0,184,0,0,Highland city
+AR,0524250,Foreman,incorporated,25,A,977,"Foreman, AR",0,185,0,0,Foreman city
+AR,0559480,Rison,incorporated,25,A,967,"Rison, AR",0,186,0,0,Rison city
+AR,0542170,Luxora,incorporated,25,A,942,"Luxora, AR",0,187,0,0,Luxora city
+AR,0541270,London,incorporated,25,A,936,"London, AR",0,188,0,0,London city
+AR,0551560,Ola,incorporated,25,A,934,"Ola, AR",0,189,0,0,Ola city
+AR,0543670,Mammoth Spring,incorporated,25,A,929,"Mammoth Spring, AR",0,190,0,0,Mammoth Spring city
+AR,0533310,Horatio,incorporated,25,A,920,"Horatio, AR",0,191,0,0,Horatio city
+AR,0518970,Dierks,incorporated,25,A,916,"Dierks, AR",0,192,0,0,Dierks city
+AR,0539640,Lewisville,incorporated,25,A,915,"Lewisville, AR",0,193,0,0,Lewisville city
+AR,0510570,Calico Rock,incorporated,25,A,888,"Calico Rock, AR",0,194,0,0,Calico Rock city
+AR,0515490,Cotter,incorporated,25,A,886,"Cotter, AR",0,195,0,0,Cotter city
+AR,0544420,Marvell,incorporated,25,A,855,"Marvell, AR",0,196,0,0,Marvell city
+AR,0528810,Greers Ferry,incorporated,25,A,821,"Greers Ferry, AR",0,197,0,0,Greers Ferry city
+AR,0514500,Coal Hill,incorporated,25,A,820,"Coal Hill, AR",0,198,0,0,Coal Hill city
+AR,0524640,Fouke,incorporated,25,A,808,"Fouke, AR",0,199,0,0,Fouke city
+AR,0520440,East Camden,incorporated,43,A,798,"East Camden, AR",0,200,0,0,East Camden town
+AR,0553600,Parkin,incorporated,25,A,794,"Parkin, AR",0,201,0,0,Parkin city
+AR,0529290,Hackett,incorporated,25,A,784,"Hackett, AR",0,202,0,0,Hackett city
+AR,0510780,Cammack Village,incorporated,25,A,778,"Cammack Village, AR",0,203,0,0,Cammack Village city
+AR,0504420,Bearden,incorporated,25,A,776,"Bearden, AR",0,204,0,0,Bearden city
+AR,0538050,Lakeview,incorporated,25,A,775,"Lakeview, AR",0,205,0,0,Lakeview city
+AR,0520200,Dyer,incorporated,25,A,772,"Dyer, AR",0,206,0,0,Dyer city
+AR,0566860,Stephens,incorporated,25,A,770,"Stephens, AR",0,207,0,0,Stephens city
+AR,0550060,Norphlet,incorporated,25,A,766,"Norphlet, AR",0,208,0,0,Norphlet city
+AR,0575920,Wilson,incorporated,25,A,766,"Wilson, AR",0,209,0,0,Wilson city
+AR,0543280,Madison,incorporated,25,A,759,"Madison, AR",0,210,0,0,Madison city
+AR,0518850,Diamond City,incorporated,25,A,757,"Diamond City, AR",0,211,0,0,Diamond City city
+AR,0529230,Guy,incorporated,25,A,752,"Guy, AR",0,212,0,0,Guy city
+AR,0536310,Keiser,incorporated,25,A,751,"Keiser, AR",0,213,0,0,Keiser city
+AR,0529920,Hardy,incorporated,25,A,743,"Hardy, AR",0,214,0,0,Hardy city
+AR,0543310,Magazine,incorporated,25,A,740,"Magazine, AR",0,215,0,0,Magazine city
+AR,0552430,Oppelo,incorporated,25,A,737,"Oppelo, AR",0,216,0,0,Oppelo city
+AR,0556480,Plumerville,incorporated,25,A,734,"Plumerville, AR",0,217,0,0,Plumerville city
+AR,0568360,Swifton,incorporated,25,A,733,"Swifton, AR",0,218,0,0,Swifton city
+AR,0570700,Tyronza,incorporated,25,A,716,"Tyronza, AR",0,219,0,0,Tyronza city
+AR,0532140,Higginson,incorporated,43,A,705,"Higginson, AR",0,220,0,0,Higginson town
+AR,0501150,Altheimer,incorporated,25,A,696,"Altheimer, AR",0,221,0,0,Altheimer city
+AR,0557950,Quitman,incorporated,25,A,694,"Quitman, AR",0,222,0,0,Quitman city
+AR,0501360,Amity,incorporated,25,A,681,"Amity, AR",0,223,0,0,Amity city
+AR,0508260,Bradford,incorporated,25,A,678,"Bradford, AR",0,224,0,0,Bradford city
+AR,0560020,Rockport,incorporated,25,A,676,"Rockport, AR",0,225,0,0,Rockport city
+AR,0501210,Altus,incorporated,25,A,665,"Altus, AR",0,226,0,0,Altus city
+AR,0527730,Gould,incorporated,25,A,663,"Gould, AR",0,227,0,0,Gould city
+AR,0537300,Knoxville,incorporated,43,A,660,"Knoxville, AR",0,228,0,0,Knoxville town
+AR,0573940,Weiner,incorporated,25,A,647,"Weiner, AR",0,229,0,0,Weiner city
+AR,0534150,Imboden,incorporated,43,A,640,"Imboden, AR",0,230,0,0,Imboden town
+AR,0575500,Wickes,incorporated,43,A,637,"Wickes, AR",0,231,0,0,Wickes town
+AR,0504090,Bauxite,incorporated,43,A,629,"Bauxite, AR",0,232,0,0,Bauxite town
+AR,0543220,McRae,incorporated,25,A,616,"McRae, AR",0,233,0,0,McRae city
+AR,0567730,Sulphur Rock,incorporated,43,A,609,"Sulphur Rock, AR",0,234,0,0,Sulphur Rock town
+AR,0510360,Caddo Valley,incorporated,43,A,595,"Caddo Valley, AR",0,235,0,0,Caddo Valley town
+AR,0541090,Lockesburg,incorporated,25,A,594,"Lockesburg, AR",0,236,0,0,Lockesburg city
+AR,0525750,Garfield,incorporated,25,A,593,"Garfield, AR",0,237,0,0,Garfield city
+AR,0506700,Black Rock,incorporated,25,A,590,"Black Rock, AR",0,238,0,0,Black Rock city
+AR,0507540,Bonanza,incorporated,25,A,587,"Bonanza, AR",0,239,0,0,Bonanza city
+AR,0532710,Holland,incorporated,25,A,586,"Holland, AR",0,240,0,0,Holland city
+AR,0547450,Mountain Pine,incorporated,25,A,585,"Mountain Pine, AR",0,241,0,0,Mountain Pine city
+AR,0568660,Taylor,incorporated,25,A,579,"Taylor, AR",0,242,0,0,Taylor city
+AR,0513540,Cherry Valley,incorporated,25,A,575,"Cherry Valley, AR",0,243,0,0,Cherry Valley city
+AR,0552880,Oxford,incorporated,25,A,573,"Oxford, AR",0,244,0,0,Oxford city
+AR,0526980,Gillett,incorporated,25,A,564,"Gillett, AR",0,245,0,0,Gillett city
+AR,0534900,Jasper,incorporated,25,A,547,"Jasper, AR",0,246,0,0,Jasper city
+AR,0567940,Summit,incorporated,25,A,544,"Summit, AR",0,247,0,0,Summit city
+AR,0515550,Cotton Plant,incorporated,25,A,529,"Cotton Plant, AR",0,248,0,0,Cotton Plant city
+AR,0547300,Mountainburg,incorporated,25,A,528,"Mountainburg, AR",0,249,0,0,Mountainburg city
+AR,0531540,Hermitage,incorporated,25,A,525,"Hermitage, AR",0,250,0,0,Hermitage city
+AR,0518640,De Valls Bluff,incorporated,25,A,520,"De Valls Bluff, AR",0,251,0,0,De Valls Bluff city
+AR,0570430,Turrell,incorporated,25,A,517,"Turrell, AR",0,252,0,0,Turrell city
+AR,0530520,Hartman,incorporated,25,A,516,"Hartman, AR",0,253,0,0,Hartman city
+AR,0520950,Elaine,incorporated,25,A,509,"Elaine, AR",0,254,0,0,Elaine city
+AR,0553150,Palestine,incorporated,25,A,506,"Palestine, AR",0,255,0,0,Palestine city
+AR,0536130,Junction City,incorporated,25,A,503,"Junction City, AR",0,256,0,0,Junction City city
+AR,0553240,Pangburn,incorporated,25,A,500,"Pangburn, AR",0,257,0,0,Pangburn city
+AR,0530490,Hartford,incorporated,25,A,499,"Hartford, AR",0,258,0,0,Hartford city
+AR,0535650,Joiner,incorporated,25,A,498,"Joiner, AR",0,259,0,0,Joiner city
+AR,0527970,Grannis,incorporated,25,A,496,"Grannis, AR",0,260,0,0,Grannis city
+AR,0569830,Traskwood,incorporated,25,A,495,"Traskwood, AR",0,261,0,0,Traskwood city
+AR,0560770,Rose Bud,incorporated,43,A,494,"Rose Bud, AR",0,262,0,0,Rose Bud town
+AR,0533940,Huntington,incorporated,25,A,490,"Huntington, AR",0,263,0,0,Huntington city
+AR,0503040,Avoca,incorporated,43,A,487,"Avoca, AR",0,264,0,0,Avoca town
+AR,0570220,Tull,incorporated,43,A,484,"Tull, AR",0,265,0,0,Tull town
+AR,0567760,Sulphur Springs,incorporated,25,A,481,"Sulphur Springs, AR",0,266,0,0,Sulphur Springs city
+AR,0524700,Fountain Lake,incorporated,43,A,475,"Fountain Lake, AR",0,267,0,0,Fountain Lake town
+AR,0562240,Salesville,incorporated,25,A,473,"Salesville, AR",0,268,0,0,Salesville city
+AR,0555970,Plainview,incorporated,25,A,467,"Plainview, AR",0,269,0,0,Plainview city
+AR,0550000,Norfork,incorporated,25,A,465,"Norfork, AR",0,270,0,0,Norfork city
+AR,0533850,Humphrey,incorporated,25,A,463,"Humphrey, AR",0,271,0,0,Humphrey city
+AR,0515940,Crawfordsville,incorporated,43,A,462,"Crawfordsville, AR",0,272,0,0,Crawfordsville town
+AR,0513120,Central City,incorporated,43,A,461,"Central City, AR",0,273,0,0,Central City town
+AR,0532800,Holly Grove,incorporated,25,A,460,"Holly Grove, AR",0,274,0,0,Holly Grove city
+AR,0539310,Leola,incorporated,43,A,460,"Leola, AR",0,275,0,0,Leola town
+AR,0510450,Caldwell,incorporated,43,A,451,"Caldwell, AR",0,276,0,0,Caldwell town
+AR,0534090,Huttig,incorporated,25,A,448,"Huttig, AR",0,277,0,0,Huttig city
+AR,0526110,Gateway,incorporated,43,A,436,"Gateway, AR",0,278,0,0,Gateway town
+AR,0516930,Cushman,incorporated,25,A,433,"Cushman, AR",0,279,0,0,Cushman city
+AR,0510600,Calion,incorporated,25,A,429,"Calion, AR",0,280,0,0,Calion city
+AR,0505440,Bergman,incorporated,43,A,426,"Bergman, AR",0,281,0,0,Bergman town
+AR,0558250,Ravenden,incorporated,43,A,426,"Ravenden, AR",0,282,0,0,Ravenden town
+AR,0556720,Portia,incorporated,43,A,424,"Portia, AR",0,283,0,0,Portia town
+AR,0522360,Evening Shade,incorporated,25,A,420,"Evening Shade, AR",0,284,0,0,Evening Shade city
+AR,0537660,Lafe,incorporated,43,A,418,"Lafe, AR",0,285,0,0,Lafe town
+AR,0575890,Wilmot,incorporated,25,A,416,"Wilmot, AR",0,286,0,0,Wilmot city
+AR,0521610,Emmet,incorporated,25,A,415,"Emmet, AR",0,287,0,0,Emmet city
+AR,0504900,Bellefonte,incorporated,43,A,411,"Bellefonte, AR",0,288,0,0,Bellefonte town
+AR,0531150,Hector,incorporated,43,A,411,"Hector, AR",0,289,0,0,Hector town
+AR,0567370,Strong,incorporated,25,A,410,"Strong, AR",0,290,0,0,Strong city
+AR,0508290,Bradley,incorporated,25,A,405,"Bradley, AR",0,291,0,0,Bradley city
+AR,0567520,Subiaco,incorporated,43,A,401,"Subiaco, AR",0,292,0,0,Subiaco town
+AR,0575860,Wilmar,incorporated,25,A,395,"Wilmar, AR",0,293,0,0,Wilmar city
+AR,0559180,Reyno,incorporated,25,A,391,"Reyno, AR",0,294,0,0,Reyno city
+AR,0550810,Oak Grove,incorporated,43,A,386,"Oak Grove, AR",0,295,0,0,Oak Grove town
+AR,0517290,Damascus,incorporated,43,A,382,"Damascus, AR",0,296,0,0,Damascus town
+AR,0543100,McNeil,incorporated,25,A,381,"McNeil, AR",0,297,0,0,McNeil city
+AR,0544780,Maynard,incorporated,43,A,379,"Maynard, AR",0,298,0,0,Maynard town
+AR,0545560,Midway,incorporated,43,A,377,"Midway, AR",0,299,0,0,Midway town
+AR,0501990,Arkansas City,incorporated,25,A,376,"Arkansas City, AR",0,300,0,0,Arkansas City city
+AR,0539460,Leslie,incorporated,25,A,375,"Leslie, AR",0,301,0,0,Leslie city
+AR,0501060,Alpena,incorporated,43,A,374,"Alpena, AR",0,302,0,0,Alpena town
+AR,0576190,Winslow,incorporated,25,A,365,"Winslow, AR",0,303,0,0,Winslow city
+AR,0572140,Viola,incorporated,43,A,358,"Viola, AR",0,304,0,0,Viola town
+AR,0565900,Sparkman,incorporated,25,A,355,"Sparkman, AR",0,305,0,0,Sparkman city
+AR,0574330,Western Grove,incorporated,43,A,354,"Western Grove, AR",0,306,0,0,Western Grove town
+AR,0547900,Mount Pleasant,incorporated,43,A,353,"Mount Pleasant, AR",0,307,0,0,Mount Pleasant town
+AR,0505920,Bigelow,incorporated,43,A,352,"Bigelow, AR",0,308,0,0,Bigelow town
+AR,0556270,Pleasant Plains,incorporated,43,A,352,"Pleasant Plains, AR",0,309,0,0,Pleasant Plains town
+AR,0536880,Kingsland,incorporated,25,A,347,"Kingsland, AR",0,310,0,0,Kingsland city
+AR,0530700,Hatfield,incorporated,43,A,345,"Hatfield, AR",0,311,0,0,Hatfield town
+AR,0520230,Dyess,incorporated,43,A,339,"Dyess, AR",0,312,0,0,Dyess town
+AR,0569050,Thornton,incorporated,25,A,339,"Thornton, AR",0,313,0,0,Thornton city
+AR,0514050,Clarkedale,incorporated,25,A,336,"Clarkedale, AR",0,314,0,0,Clarkedale city
+AR,0538110,Lake View,incorporated,25,A,327,"Lake View, AR",0,315,0,0,Lake View city
+AR,0556750,Portland,incorporated,25,A,325,"Portland, AR",0,316,0,0,Portland city
+AR,0515700,Cove,incorporated,43,A,319,"Cove, AR",0,317,0,0,Cove town
+AR,0521820,Enola,incorporated,43,A,318,"Enola, AR",0,318,0,0,Enola town
+AR,0570540,Twin Groves,incorporated,43,A,317,"Twin Groves, AR",0,319,0,0,Twin Groves town
+AR,0504960,Belleville,incorporated,25,A,312,"Belleville, AR",0,320,0,0,Belleville city
+AR,0553990,Patterson,incorporated,25,A,310,"Patterson, AR",0,321,0,0,Patterson city
+AR,0506040,Biggers,incorporated,43,A,305,"Biggers, AR",0,322,0,0,Biggers town
+AR,0525060,Fredonia (Biscoe),incorporated,43,A,305,"Fredonia (Biscoe), AR",0,323,0,0,Fredonia (Biscoe) town
+AR,0527790,Grady,incorporated,25,A,305,"Grady, AR",0,324,0,0,Grady city
+AR,0550030,Norman,incorporated,43,A,303,"Norman, AR",0,325,0,0,Norman town
+AR,0529020,Grubbs,incorporated,25,A,301,"Grubbs, AR",0,326,0,0,Grubbs city
+AR,0508440,Branch,incorporated,25,A,296,"Branch, AR",0,327,0,0,Branch city
+AR,0514950,Colt,incorporated,25,A,293,"Colt, AR",0,328,0,0,Colt city
+AR,0521580,Emerson,incorporated,43,A,293,"Emerson, AR",0,329,0,0,Emerson town
+AR,0546190,Mitchellville,incorporated,25,A,293,"Mitchellville, AR",0,330,0,0,Mitchellville city
+AR,0557230,Prattsville,incorporated,43,A,289,"Prattsville, AR",0,331,0,0,Prattsville town
+AR,0507030,Blevins,incorporated,25,A,288,"Blevins, AR",0,332,0,0,Blevins city
+AR,0518100,Delight,incorporated,25,A,288,"Delight, AR",0,333,0,0,Delight city
+AR,0575980,Wilton,incorporated,25,A,287,"Wilton, AR",0,334,0,0,Wilton city
+AR,0511920,Cash,incorporated,43,A,280,"Cash, AR",0,335,0,0,Cash town
+AR,0574840,Wheatley,incorporated,25,A,279,"Wheatley, AR",0,336,0,0,Wheatley city
+AR,0519450,Donaldson,incorporated,43,A,275,"Donaldson, AR",0,337,0,0,Donaldson town
+AR,0539040,Lead Hill,incorporated,43,A,274,"Lead Hill, AR",0,338,0,0,Lead Hill town
+AR,0545200,Menifee,incorporated,43,A,274,"Menifee, AR",0,339,0,0,Menifee town
+AR,0561040,Rosston,incorporated,43,A,272,"Rosston, AR",0,340,0,0,Rosston town
+AR,0567250,Strawberry,incorporated,43,A,268,"Strawberry, AR",0,341,0,0,Strawberry town
+AR,0533375,Horseshoe Lake,incorporated,43,A,264,"Horseshoe Lake, AR",0,342,0,0,Horseshoe Lake town
+AR,0557080,Poyen,incorporated,43,A,263,"Poyen, AR",0,343,0,0,Poyen town
+AR,0554650,Perry,incorporated,43,A,262,"Perry, AR",0,344,0,0,Perry town
+AR,0542260,Lynn,incorporated,43,A,258,"Lynn, AR",0,345,0,0,Lynn town
+AR,0554620,Perla,incorporated,43,A,257,"Perla, AR",0,346,0,0,Perla town
+AR,0501030,Almyra,incorporated,43,A,256,"Almyra, AR",0,347,0,0,Almyra town
+AR,0522120,Etowah,incorporated,43,A,254,"Etowah, AR",0,348,0,0,Etowah town
+AR,0513750,Chidester,incorporated,25,A,253,"Chidester, AR",0,349,0,0,Chidester city
+AR,0563980,Shirley,incorporated,43,A,248,"Shirley, AR",0,350,0,0,Shirley town
+AR,0562960,Scranton,incorporated,25,A,245,"Scranton, AR",0,351,0,0,Scranton city
+AR,0520830,Edmondson,incorporated,43,A,243,"Edmondson, AR",0,352,0,0,Edmondson town
+AR,0546670,Montrose,incorporated,25,A,243,"Montrose, AR",0,353,0,0,Montrose city
+AR,0539520,Letona,incorporated,43,A,240,"Letona, AR",0,354,0,0,Letona town
+AR,0530790,Havana,incorporated,25,A,239,"Havana, AR",0,355,0,0,Havana city
+AR,0508665,Briarcliff,incorporated,25,A,236,"Briarcliff, AR",0,356,0,0,Briarcliff city
+AR,0506610,Black Oak,incorporated,43,A,233,"Black Oak, AR",0,357,0,0,Black Oak town
+AR,0510900,Campbell Station,incorporated,25,A,232,"Campbell Station, AR",0,358,0,0,Campbell Station city
+AR,0554680,Perrytown,incorporated,43,A,232,"Perrytown, AR",0,359,0,0,Perrytown town
+AR,0531900,Hickory Ridge,incorporated,25,A,228,"Hickory Ridge, AR",0,360,0,0,Hickory Ridge city
+AR,0545500,Midland,incorporated,43,A,227,"Midland, AR",0,361,0,0,Midland town
+AR,0551410,Oil Trough,incorporated,43,A,226,"Oil Trough, AR",0,362,0,0,Oil Trough town
+AR,0511830,Carthage,incorporated,25,A,222,"Carthage, AR",0,363,0,0,Carthage city
+AR,0543370,Magness,incorporated,43,A,220,"Magness, AR",0,364,0,0,Magness town
+AR,0533820,Humnoke,incorporated,25,A,219,"Humnoke, AR",0,365,0,0,Humnoke city
+AR,0561970,St. Francis,incorporated,25,A,218,"St. Francis, AR",0,366,0,0,St. Francis city
+AR,0575560,Widener,incorporated,43,A,212,"Widener, AR",0,367,0,0,Widener town
+AR,0525900,Garner,incorporated,43,A,211,"Garner, AR",0,368,0,0,Garner town
+AR,0530310,Harrell,incorporated,43,A,210,"Harrell, AR",0,369,0,0,Harrell town
+AR,0536550,Keo,incorporated,43,A,207,"Keo, AR",0,370,0,0,Keo town
+AR,0539670,Lexa,incorporated,43,A,207,"Lexa, AR",0,371,0,0,Lexa town
+AR,0561940,St. Charles,incorporated,43,A,207,"St. Charles, AR",0,372,0,0,St. Charles town
+AR,0518370,Denning,incorporated,43,A,200,"Denning, AR",0,373,0,0,Denning town
+AR,0525780,Garland,incorporated,43,A,195,"Garland, AR",0,374,0,0,Garland town
+AR,0518160,Dell,incorporated,43,A,194,"Dell, AR",0,375,0,0,Dell town
+AR,0556600,Pollard,incorporated,25,A,193,"Pollard, AR",0,376,0,0,Pollard city
+AR,0551500,O'Kean,incorporated,43,A,192,"O'Kean, AR",0,377,0,0,O'Kean town
+AR,0564280,Sidney,incorporated,43,A,192,"Sidney, AR",0,378,0,0,Sidney town
+AR,0525030,Franklin,incorporated,43,A,191,"Franklin, AR",0,379,0,0,Franklin town
+AR,0515100,Concord,incorporated,43,A,190,"Concord, AR",0,380,0,0,Concord town
+AR,0569500,Tollette,incorporated,43,A,185,"Tollette, AR",0,381,0,0,Tollette town
+AR,0573550,Watson,incorporated,25,A,185,"Watson, AR",0,382,0,0,Watson city
+AR,0561640,Russell,incorporated,43,A,184,"Russell, AR",0,383,0,0,Russell town
+AR,0568060,Sunset,incorporated,43,A,184,"Sunset, AR",0,384,0,0,Sunset town
+AR,0571390,Valley Springs,incorporated,43,A,183,"Valley Springs, AR",0,385,0,0,Valley Springs town
+AR,0557890,Pyatt,incorporated,43,A,181,"Pyatt, AR",0,386,0,0,Pyatt town
+AR,0523800,Fisher,incorporated,25,A,180,"Fisher, AR",0,387,0,0,Fisher city
+AR,0551290,Oden,incorporated,43,A,180,"Oden, AR",0,388,0,0,Oden town
+AR,0572230,Wabbaseka,incorporated,43,A,180,"Wabbaseka, AR",0,389,0,0,Wabbaseka town
+AR,0546910,Moro,incorporated,43,A,177,"Moro, AR",0,390,0,0,Moro town
+AR,0527040,Gilmore,incorporated,25,A,176,"Gilmore, AR",0,391,0,0,Gilmore city
+AR,0570760,Ulm,incorporated,43,A,175,"Ulm, AR",0,392,0,0,Ulm town
+AR,0528720,Greenway,incorporated,25,A,174,"Greenway, AR",0,393,0,0,Greenway city
+AR,0553510,Parkdale,incorporated,25,A,172,"Parkdale, AR",0,394,0,0,Parkdale city
+AR,0569230,Tillar,incorporated,25,A,172,"Tillar, AR",0,395,0,0,Tillar city
+AR,0574660,West Point,incorporated,43,A,170,"West Point, AR",0,396,0,0,West Point town
+AR,0558160,Ratcliff,incorporated,25,A,167,"Ratcliff, AR",0,397,0,0,Ratcliff city
+AR,0509550,Buckner,incorporated,25,A,165,"Buckner, AR",0,398,0,0,Buckner city
+AR,0560590,Rondo,incorporated,43,A,163,"Rondo, AR",0,399,0,0,Rondo town
+AR,0563110,Sedgwick,incorporated,43,A,163,"Sedgwick, AR",0,400,0,0,Sedgwick town
+AR,0523680,Fifty-Six,incorporated,25,A,158,"Fifty-Six, AR",0,401,0,0,Fifty-Six city
+AR,0525180,Friendship,incorporated,43,A,158,"Friendship, AR",0,402,0,0,Friendship town
+AR,0527010,Gillham,incorporated,43,A,157,"Gillham, AR",0,403,0,0,Gillham town
+AR,0528990,Griffithville,incorporated,43,A,155,"Griffithville, AR",0,404,0,0,Griffithville town
+AR,0512190,Caulksville,incorporated,43,A,154,"Caulksville, AR",0,405,0,0,Caulksville town
+AR,0555580,Pineville,incorporated,43,A,154,"Pineville, AR",0,406,0,0,Pineville town
+AR,0541630,Louann,incorporated,43,A,153,"Louann, AR",0,407,0,0,Louann town
+AR,0534720,Jacksonport,incorporated,43,A,150,"Jacksonport, AR",0,408,0,0,Jacksonport town
+AR,0500250,Adona,incorporated,25,A,149,"Adona, AR",0,409,0,0,Adona city
+AR,0575770,Willisville,incorporated,43,A,148,"Willisville, AR",0,410,0,0,Willisville town
+AR,0537240,Knobel,incorporated,25,A,147,"Knobel, AR",0,411,0,0,Knobel city
+AR,0513570,Chester,incorporated,43,A,144,"Chester, AR",0,412,0,0,Chester town
+AR,0548020,Mount Vernon,incorporated,43,A,144,"Mount Vernon, AR",0,413,0,0,Mount Vernon town
+AR,0500700,Alicia,incorporated,43,A,143,"Alicia, AR",0,414,0,0,Alicia town
+AR,0533490,Houston,incorporated,43,A,143,"Houston, AR",0,415,0,0,Houston town
+AR,0505260,Ben Lomond,incorporated,43,A,140,"Ben Lomond, AR",0,416,0,0,Ben Lomond town
+AR,0509880,Burdette,incorporated,43,A,140,"Burdette, AR",0,417,0,0,Burdette town
+AR,0576010,Winchester,incorporated,43,A,137,"Winchester, AR",0,418,0,0,Winchester town
+AR,0501457,Anthonyville,incorporated,43,A,135,"Anthonyville, AR",0,419,0,0,Anthonyville town
+AR,0542560,McDougal,incorporated,43,A,134,"McDougal, AR",0,420,0,0,McDougal town
+AR,0551350,Ogden,incorporated,25,A,131,"Ogden, AR",0,421,0,0,Ogden city
+AR,0558880,Reed,incorporated,43,A,130,"Reed, AR",0,422,0,0,Reed town
+AR,0561460,Rudy,incorporated,43,A,130,"Rudy, AR",0,423,0,0,Rudy town
+AR,0562030,St. Joe,incorporated,43,A,129,"St. Joe, AR",0,424,0,0,St. Joe town
+AR,0552160,Omaha,incorporated,43,A,128,"Omaha, AR",0,425,0,0,Omaha town
+AR,0546730,Moorefield,incorporated,43,A,126,"Moorefield, AR",0,426,0,0,Moorefield town
+AR,0503940,Bassett,incorporated,43,A,124,"Bassett, AR",0,427,0,0,Bassett town
+AR,0530880,Haynes,incorporated,43,A,122,"Haynes, AR",0,428,0,0,Haynes town
+AR,0507450,Bodcaw,incorporated,43,A,121,"Bodcaw, AR",0,429,0,0,Bodcaw town
+AR,0511890,Casa,incorporated,43,A,120,"Casa, AR",0,430,0,0,Casa town
+AR,0558280,Ravenden Springs,incorporated,43,A,119,"Ravenden Springs, AR",0,431,0,0,Ravenden Springs town
+AR,0507270,Bluff City,incorporated,43,A,118,"Bluff City, AR",0,432,0,0,Bluff City town
+AR,0535040,Jennette,incorporated,43,A,118,"Jennette, AR",0,433,0,0,Jennette town
+AR,0576250,Winthrop,incorporated,25,A,116,"Winthrop, AR",0,434,0,0,Winthrop city
+AR,0525360,Fulton,incorporated,43,A,115,"Fulton, AR",0,435,0,0,Fulton town
+AR,0571510,Vandervoort,incorporated,43,A,115,"Vandervoort, AR",0,436,0,0,Vandervoort town
+AR,0532080,Higden,incorporated,43,A,114,"Higden, AR",0,437,0,0,Higden town
+AR,0501540,Antoine,incorporated,43,A,113,"Antoine, AR",0,438,0,0,Antoine town
+AR,0520920,Egypt,incorporated,43,A,113,"Egypt, AR",0,439,0,0,Egypt town
+AR,0562060,St. Paul,incorporated,43,A,111,"St. Paul, AR",0,440,0,0,St. Paul town
+AR,0502680,Aubrey,incorporated,43,A,108,"Aubrey, AR",0,441,0,0,Aubrey town
+AR,0524670,Fountain Hill,incorporated,43,A,108,"Fountain Hill, AR",0,442,0,0,Fountain Hill town
+AR,0544150,Marie,incorporated,43,A,108,"Marie, AR",0,443,0,0,Marie town
+AR,0554140,Peach Orchard,incorporated,25,A,105,"Peach Orchard, AR",0,444,0,0,Peach Orchard city
+AR,0522450,Everton,incorporated,43,A,104,"Everton, AR",0,445,0,0,Everton town
+AR,0557050,Powhatan,incorporated,43,A,104,"Powhatan, AR",0,446,0,0,Powhatan town
+AR,0533910,Hunter,incorporated,43,A,103,"Hunter, AR",0,447,0,0,Hunter town
+AR,0541450,Lonsdale,incorporated,43,A,103,"Lonsdale, AR",0,448,0,0,Lonsdale town
+AR,0535140,Jericho,incorporated,43,A,98,"Jericho, AR",0,449,0,0,Jericho town
+AR,0567550,Success,incorporated,43,A,98,"Success, AR",0,450,0,0,Success town
+AR,0551530,Okolona,incorporated,43,A,97,"Okolona, AR",0,451,0,0,Okolona town
+AR,0506730,Black Springs,incorporated,43,A,96,"Black Springs, AR",0,452,0,0,Black Springs town
+AR,0555280,Pindall,incorporated,43,A,95,"Pindall, AR",0,453,0,0,Pindall town
+AR,0573370,Washington,incorporated,25,A,94,"Washington, AR",0,454,0,0,Washington city
+AR,0577600,Zinc,incorporated,43,A,92,"Zinc, AR",0,455,0,0,Zinc town
+AR,0529140,Gum Springs,incorporated,43,A,91,"Gum Springs, AR",0,456,0,0,Gum Springs town
+AR,0532470,Hindsville,incorporated,43,A,90,"Hindsville, AR",0,457,0,0,Hindsville town
+AR,0505980,Big Flat,incorporated,43,A,88,"Big Flat, AR",0,458,0,0,Big Flat town
+AR,0507210,Blue Mountain,incorporated,43,A,88,"Blue Mountain, AR",0,459,0,0,Blue Mountain town
+AR,0517140,Daisy,incorporated,43,A,88,"Daisy, AR",0,460,0,0,Daisy town
+AR,0503430,Banks,incorporated,43,A,87,"Banks, AR",0,461,0,0,Banks town
+AR,0515790,Coy,incorporated,43,A,87,"Coy, AR",0,462,0,0,Coy town
+AR,0546100,Minturn,incorporated,43,A,87,"Minturn, AR",0,463,0,0,Minturn town
+AR,0564910,Smithville,incorporated,43,A,87,"Smithville, AR",0,464,0,0,Smithville town
+AR,0500940,Allport,incorporated,43,A,86,"Allport, AR",0,465,0,0,Allport town
+AR,0565480,South Lead Hill,incorporated,43,A,86,"South Lead Hill, AR",0,466,0,0,South Lead Hill town
+AR,0523320,Felsenthal,incorporated,43,A,85,"Felsenthal, AR",0,467,0,0,Felsenthal town
+AR,0504720,Beedeville,incorporated,43,A,84,"Beedeville, AR",0,468,0,0,Beedeville town
+AR,0566200,Springtown,incorporated,43,A,83,"Springtown, AR",0,469,0,0,Springtown town
+AR,0526440,Georgetown,incorporated,43,A,81,"Georgetown, AR",0,470,0,0,Georgetown town
+AR,0575740,Williford,incorporated,43,A,79,"Williford, AR",0,471,0,0,Williford town
+AR,0547030,Morrison Bluff,incorporated,43,A,78,"Morrison Bluff, AR",0,472,0,0,Morrison Bluff town
+AR,0510480,Cale,incorporated,43,A,73,"Cale, AR",0,473,0,0,Cale town
+AR,0570340,Tupelo,incorporated,43,A,70,"Tupelo, AR",0,474,0,0,Tupelo town
+AR,0501270,Amagon,incorporated,43,A,69,"Amagon, AR",0,475,0,0,Amagon town
+AR,0549820,Nimmons,incorporated,43,A,69,"Nimmons, AR",0,476,0,0,Nimmons town
+AR,0529080,Guion,incorporated,43,A,68,"Guion, AR",0,477,0,0,Guion town
+AR,0560380,Roe,incorporated,43,A,68,"Roe, AR",0,478,0,0,Roe town
+AR,0504540,Beaver,incorporated,43,A,67,"Beaver, AR",0,479,0,0,Beaver town
+AR,0517410,Datto,incorporated,43,A,65,"Datto, AR",0,480,0,0,Datto town
+AR,0551080,Oakhaven,incorporated,43,A,65,"Oakhaven, AR",0,481,0,0,Oakhaven town
+AR,0518010,Delaplaine,incorporated,43,A,64,"Delaplaine, AR",0,482,0,0,Delaplaine town
+AR,0523140,Fargo,incorporated,43,A,57,"Fargo, AR",0,483,0,0,Fargo town
+AR,0542410,McCaskill,incorporated,43,A,57,"McCaskill, AR",0,484,0,0,McCaskill town
+AR,0553900,Patmos,incorporated,43,A,57,"Patmos, AR",0,485,0,0,Patmos town
+AR,0574000,Weldon,incorporated,43,A,57,"Weldon, AR",0,486,0,0,Weldon town
+AR,0524760,Fourche,incorporated,43,A,56,"Fourche, AR",0,487,0,0,Fourche town
+AR,0563740,Sherrill,incorporated,43,A,53,"Sherrill, AR",0,488,0,0,Sherrill town
+AR,0572320,Waldenburg,incorporated,43,A,53,"Waldenburg, AR",0,489,0,0,Waldenburg town
+AR,0537720,LaGrange,incorporated,43,A,52,"LaGrange, AR",0,490,0,0,LaGrange town
+AR,0552940,Ozan,incorporated,43,A,50,"Ozan, AR",0,491,0,0,Ozan town
+AR,0569350,Tinsman,incorporated,43,A,50,"Tinsman, AR",0,492,0,0,Tinsman town
+AR,0575570,Wiederkehr Village,incorporated,25,A,50,"Wiederkehr Village, AR",0,493,0,0,Wiederkehr Village city
+AR,0574930,Whelen Springs,incorporated,43,A,47,"Whelen Springs, AR",0,494,0,0,Whelen Springs town
+AR,0507150,Blue Eye,incorporated,43,A,46,"Blue Eye, AR",0,495,0,0,Blue Eye town
+AR,0515310,Corinth,incorporated,43,A,45,"Corinth, AR",0,496,0,0,Corinth town
+AR,0506340,Birdsong,incorporated,43,A,32,"Birdsong, AR",0,497,0,0,Birdsong town
+AR,0543070,McNab,incorporated,43,A,30,"McNab, AR",0,498,0,0,McNab town
+AR,0526800,Gilbert,incorporated,43,A,26,"Gilbert, AR",0,499,0,0,Gilbert town
+AR,0571900,Victoria,incorporated,43,A,20,"Victoria, AR",0,500,0,0,Victoria town
+AR,0518880,Diamondhead,incorporated,25,A,0,"Diamondhead, AR",0,501,0,0,Diamondhead city

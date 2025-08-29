@@ -1,0 +1,41 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+VT,5010675,Burlington,incorporated,25,A,44743,"Burlington, VT",0,1,82,0.328,Burlington city
+VT,5066175,South Burlington,incorporated,25,A,20292,"South Burlington, VT",0,2,34,0.136,South Burlington city
+VT,5061225,Rutland,incorporated,25,A,15807,"Rutland, VT",0,3,21,0.084,Rutland city
+VT,5024400,Essex Junction,incorporated,25,A,10590,"Essex Junction, VT",0,4,14,0.056,Essex Junction city
+VT,5003175,Barre,incorporated,25,A,8491,"Barre, VT",0,5,11,0.044,Barre city
+VT,5046000,Montpelier,incorporated,25,A,8074,"Montpelier, VT",0,6,13,0.052,Montpelier city
+VT,5085150,Winooski,incorporated,25,A,7997,"Winooski, VT",0,7,7,0.028,Winooski city
+VT,5061675,St. Albans,incorporated,25,A,6877,"St. Albans, VT",0,8,6,0.024,St. Albans city
+VT,5048850,Newport,incorporated,25,A,4455,"Newport, VT",0,9,5,0.02,Newport city
+VT,5004225,Bellows Falls,incorporated,47,A,2747,"Bellows Falls, VT",0,10,5,0.02,Bellows Falls village
+VT,5074650,Vergennes,incorporated,25,A,2553,"Vergennes, VT",0,11,4,0.016,Vergennes city
+VT,5071650,Swanton,incorporated,47,A,2328,"Swanton, VT",0,12,4,0.016,Swanton village
+VT,5046825,Morrisville,incorporated,47,A,2086,"Morrisville, VT",0,13,3,0.012,Morrisville village
+VT,5049075,North Bennington,incorporated,47,A,1716,"North Bennington, VT",0,14,3,0.012,North Bennington village
+VT,5024025,Enosburg Falls,incorporated,47,A,1356,"Enosburg Falls, VT",0,15,3,0.012,Enosburg Falls village
+VT,5036625,Jericho,incorporated,47,I,1333,"Jericho, VT",0,16,3,0.012,Jericho village
+VT,5037000,Johnson,incorporated,47,A,1332,"Johnson, VT",0,17,2,0.008,Johnson village
+VT,5056800,Poultney,incorporated,47,A,1079,"Poultney, VT",0,18,2,0.008,Poultney village
+VT,5085900,Woodstock,incorporated,47,A,900,"Woodstock, VT",0,19,2,0.008,Woodstock village
+VT,5053575,Orleans,incorporated,47,A,788,"Orleans, VT",0,20,2,0.008,Orleans village
+VT,5042700,Manchester,incorporated,47,A,783,"Manchester, VT",0,21,2,0.008,Manchester village
+VT,5041200,Ludlow,incorporated,47,A,773,"Ludlow, VT",0,22,2,0.008,Ludlow village
+VT,5036475,Jeffersonville,incorporated,47,A,750,"Jeffersonville, VT",0,23,2,0.008,Jeffersonville village
+VT,5003475,Barton,incorporated,47,A,690,"Barton, VT",0,24,2,0.008,Barton village
+VT,5017500,Derby Line,incorporated,47,A,687,"Derby Line, VT",0,25,1,0.004,Derby Line village
+VT,5017425,Derby Center,incorporated,47,A,635,"Derby Center, VT",0,26,1,0.004,Derby Center village
+VT,5052075,North Troy,incorporated,47,A,631,"North Troy, VT",0,27,1,0.004,North Troy village
+VT,5000850,Alburgh,incorporated,47,A,571,"Alburgh, VT",0,28,1,0.004,Alburgh village
+VT,5062950,Saxtons River,incorporated,47,A,479,"Saxtons River, VT",0,29,1,0.004,Saxtons River village
+VT,5048100,Newbury,incorporated,47,A,447,"Newbury, VT",0,30,1,0.004,Newbury village
+VT,5078025,Wells River,incorporated,47,A,431,"Wells River, VT",0,31,1,0.004,Wells River village
+VT,5034975,Hyde Park,incorporated,47,A,410,"Hyde Park, VT",0,32,1,0.004,Hyde Park village
+VT,5081325,Westminster,incorporated,47,A,287,"Westminster, VT",0,33,1,0.004,Westminster village
+VT,5079150,West Burke,incorporated,47,A,281,"West Burke, VT",0,34,1,0.004,West Burke village
+VT,5043525,Marshfield,incorporated,47,A,229,"Marshfield, VT",0,35,1,0.004,Marshfield village
+VT,5036025,Jacksonville,incorporated,47,A,213,"Jacksonville, VT",0,36,1,0.004,Jacksonville village
+VT,5011425,Cambridge,incorporated,47,A,210,"Cambridge, VT",0,37,1,0.004,Cambridge village
+VT,5000400,Albany,incorporated,47,A,166,"Albany, VT",0,38,1,0.004,Albany village
+VT,5053125,Old Bennington,incorporated,47,A,156,"Old Bennington, VT",0,39,1,0.004,Old Bennington village
+VT,5048325,Newfane,incorporated,47,A,87,"Newfane, VT",0,40,1,0.004,Newfane village

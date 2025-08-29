@@ -1,0 +1,201 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+ID,1608830,Boise City,incorporated,25,A,235684,"Boise City, ID",0,1,93,0.372,Boise City city
+ID,1652120,Meridian,incorporated,25,A,117635,"Meridian, ID",0,2,26,0.104,Meridian city
+ID,1656260,Nampa,incorporated,25,A,100200,"Nampa, ID",0,3,17,0.068,Nampa city
+ID,1639700,Idaho Falls,incorporated,25,A,64818,"Idaho Falls, ID",0,4,12,0.048,Idaho Falls city
+ID,1612250,Caldwell,incorporated,25,A,59996,"Caldwell, ID",0,5,8,0.032,Caldwell city
+ID,1664090,Pocatello,incorporated,25,A,56320,"Pocatello, ID",0,6,8,0.032,Pocatello city
+ID,1616750,Coeur d'Alene,incorporated,25,A,54628,"Coeur d'Alene, ID",0,7,5,0.02,Coeur d'Alene city
+ID,1682810,Twin Falls,incorporated,25,A,51807,"Twin Falls, ID",0,8,6,0.024,Twin Falls city
+ID,1667420,Rexburg,incorporated,25,A,39409,"Rexburg, ID",0,9,5,0.02,Rexburg city
+ID,1664810,Post Falls,incorporated,25,A,38485,"Post Falls, ID",0,10,3,0.012,Post Falls city
+ID,1646540,Lewiston,incorporated,25,A,34203,"Lewiston, ID",0,11,3,0.012,Lewiston city
+ID,1623410,Eagle,incorporated,25,A,30346,"Eagle, ID",0,12,4,0.016,Eagle city
+ID,1654550,Moscow,incorporated,25,A,25435,"Moscow, ID",0,13,3,0.012,Moscow city
+ID,1644290,Kuna,incorporated,25,A,24011,"Kuna, ID",0,14,2,0.008,Kuna city
+ID,1601990,Ammon,incorporated,25,A,17694,"Ammon, ID",0,15,2,0.008,Ammon city
+ID,1654730,Mountain Home,incorporated,25,A,15979,"Mountain Home, ID",0,16,3,0.012,Mountain Home city
+ID,1614680,Chubbuck,incorporated,25,A,15570,"Chubbuck, ID",0,17,3,0.012,Chubbuck city
+ID,1636370,Hayden,incorporated,25,A,15570,"Hayden, ID",0,18,3,0.012,Hayden city
+ID,1641320,Jerome,incorporated,25,A,12349,"Jerome, ID",0,19,2,0.008,Jerome city
+ID,1607840,Blackfoot,incorporated,25,A,12346,"Blackfoot, ID",0,20,1,0.004,Blackfoot city
+ID,1629620,Garden City,incorporated,25,A,12316,"Garden City, ID",0,21,1,0.004,Garden City city
+ID,1611260,Burley,incorporated,25,A,11704,"Burley, ID",0,22,1,0.004,Burley city
+ID,1676870,Star,incorporated,25,A,11117,"Star, ID",0,23,1,0.004,Star city
+ID,1652660,Middleton,incorporated,25,A,9425,"Middleton, ID",0,24,1,0.004,Middleton city
+ID,1666340,Rathdrum,incorporated,25,A,9211,"Rathdrum, ID",0,25,1,0.004,Rathdrum city
+ID,1634390,Hailey,incorporated,25,A,9161,"Hailey, ID",0,26,1,0.004,Hailey city
+ID,1672100,Sandpoint,incorporated,25,A,8639,"Sandpoint, ID",0,27,1,0.004,Sandpoint city
+ID,1661300,Payette,incorporated,25,A,8127,"Payette, ID",0,28,2,0.008,Payette city
+ID,1625570,Emmett,incorporated,25,A,7647,"Emmett, ID",0,29,2,0.008,Emmett city
+ID,1670660,Rupert,incorporated,25,A,6082,"Rupert, ID",0,30,2,0.008,Rupert city
+ID,1628990,Fruitland,incorporated,25,A,6072,"Fruitland, ID",0,31,2,0.008,Fruitland city
+ID,1686140,Weiser,incorporated,25,A,5630,"Weiser, ID",0,32,2,0.008,Weiser city
+ID,1665260,Preston,incorporated,25,A,5591,"Preston, ID",0,33,2,0.008,Preston city
+ID,1667780,Rigby,incorporated,25,A,5038,"Rigby, ID",0,34,2,0.008,Rigby city
+ID,1673450,Shelley,incorporated,25,A,4785,"Shelley, ID",0,35,2,0.008,Shelley city
+ID,1643570,Kimberly,incorporated,25,A,4626,"Kimberly, ID",0,36,2,0.008,Kimberly city
+ID,1601900,American Falls,incorporated,25,A,4568,"American Falls, ID",0,37,2,0.008,American Falls city
+ID,1610810,Buhl,incorporated,25,A,4558,"Buhl, ID",0,38,2,0.008,Buhl city
+ID,1632140,Gooding,incorporated,25,A,3707,"Gooding, ID",0,39,2,0.008,Gooding city
+ID,1637360,Heyburn,incorporated,25,A,3700,"Heyburn, ID",0,40,2,0.008,Heyburn city
+ID,1648790,McCall,incorporated,25,A,3686,"McCall, ID",0,41,2,0.008,McCall city
+ID,1671020,St. Anthony,incorporated,25,A,3606,"St. Anthony, ID",0,42,1,0.004,St. Anthony city
+ID,1643030,Ketchum,incorporated,25,A,3555,"Ketchum, ID",0,43,1,0.004,Ketchum city
+ID,1632950,Grangeville,incorporated,25,A,3308,"Grangeville, ID",0,44,1,0.004,Grangeville city
+ID,1675195,Soda Springs,incorporated,25,A,3133,"Soda Springs, ID",0,45,1,0.004,Soda Springs city
+ID,1671650,Salmon,incorporated,25,A,3119,"Salmon, ID",0,46,1,0.004,Salmon city
+ID,1686320,Wendell,incorporated,25,A,2917,"Wendell, ID",0,47,1,0.004,Wendell city
+ID,1638170,Homedale,incorporated,25,A,2881,"Homedale, ID",0,48,0,0,Homedale city
+ID,1627730,Filer,incorporated,25,A,2738,"Filer, ID",0,49,0,0,Filer city
+ID,1640420,Iona,incorporated,25,A,2717,"Iona, ID",0,50,0,0,Iona city
+ID,1659320,Orofino,incorporated,25,A,2656,"Orofino, ID",0,51,0,0,Orofino city
+ID,1653920,Montpelier,incorporated,25,A,2643,"Montpelier, ID",0,52,0,0,Montpelier city
+ID,1606220,Bellevue,incorporated,25,A,2560,"Bellevue, ID",0,53,0,0,Bellevue city
+ID,1620350,Dalton Gardens,incorporated,25,A,2537,"Dalton Gardens, ID",0,54,0,0,Dalton Gardens city
+ID,1609370,Bonners Ferry,incorporated,25,A,2520,"Bonners Ferry, ID",0,55,0,0,Bonners Ferry city
+ID,1671470,St. Maries,incorporated,25,A,2357,"St. Maries, ID",0,56,0,0,St. Maries city
+ID,1676060,Spirit Lake,incorporated,25,A,2337,"Spirit Lake, ID",0,57,0,0,Spirit Lake city
+ID,1642580,Kellogg,incorporated,25,A,2314,"Kellogg, ID",0,58,0,0,Kellogg city
+ID,1650140,Malad City,incorporated,25,A,2299,"Malad City, ID",0,59,0,0,Malad City city
+ID,1684250,Victor,incorporated,25,A,2157,"Victor, ID",0,60,0,0,Victor city
+ID,1660940,Parma,incorporated,25,A,2096,"Parma, ID",0,61,0,0,Parma city
+ID,1622690,Driggs,incorporated,25,A,1984,"Driggs, ID",0,62,0,0,Driggs city
+ID,1678850,Sun Valley,incorporated,25,A,1783,"Sun Valley, ID",0,63,0,0,Sun Valley city
+ID,1600100,Aberdeen,incorporated,25,A,1756,"Aberdeen, ID",0,64,0,0,Aberdeen city
+ID,1678040,Sugar City,incorporated,25,A,1715,"Sugar City, ID",0,65,0,0,Sugar City city
+ID,1665530,Priest River,incorporated,25,A,1696,"Priest River, ID",0,66,0,0,Priest River city
+ID,1663100,Pinehurst,incorporated,25,A,1679,"Pinehurst, ID",0,67,0,0,Pinehurst city
+ID,1673900,Shoshone,incorporated,25,A,1653,"Shoshone, ID",0,68,0,0,Shoshone city
+ID,1687670,Wilder,incorporated,25,A,1597,"Wilder, ID",0,69,0,0,Wilder city
+ID,1659590,Osburn,incorporated,25,A,1567,"Osburn, ID",0,70,0,0,Osburn city
+ID,1656980,New Plymouth,incorporated,25,A,1494,"New Plymouth, ID",0,71,0,0,New Plymouth city
+ID,1664450,Ponderay,incorporated,25,A,1289,"Ponderay, ID",0,72,0,0,Ponderay city
+ID,1631690,Glenns Ferry,incorporated,25,A,1282,"Glenns Ferry, ID",0,73,0,0,Glenns Ferry city
+ID,1650950,Marsing,incorporated,25,A,1229,"Marsing, ID",0,74,0,0,Marsing city
+ID,1661210,Paul,incorporated,25,A,1195,"Paul, ID",0,75,0,0,Paul city
+ID,1645370,Lapwai,incorporated,25,A,1169,"Lapwai, ID",0,76,0,0,Lapwai city
+ID,1683350,Ucon,incorporated,25,A,1160,"Ucon, ID",0,77,0,0,Ucon city
+ID,1642400,Kamiah,incorporated,25,A,1117,"Kamiah, ID",0,78,0,0,Kamiah city
+ID,1634930,Hansen,incorporated,25,A,1086,"Hansen, ID",0,79,0,0,Hansen city
+ID,1630160,Genesee,incorporated,25,A,1030,"Genesee, ID",0,80,0,0,Genesee city
+ID,1628810,Franklin,incorporated,25,A,1025,"Franklin, ID",0,81,0,0,Franklin city
+ID,1663910,Plummer,incorporated,25,A,1015,"Plummer, ID",0,82,0,0,Plummer city
+ID,1613150,Cascade,incorporated,25,A,1005,"Cascade, ID",0,83,0,0,Cascade city
+ID,1634300,Hagerman,incorporated,25,A,968,"Hagerman, ID",0,84,0,0,Hagerman city
+ID,1603610,Ashton,incorporated,25,A,949,"Ashton, ID",0,85,0,0,Ashton city
+ID,1644200,Kootenai,incorporated,25,A,941,"Kootenai, ID",0,86,0,0,Kootenai city
+ID,1632500,Grace,incorporated,25,A,920,"Grace, ID",0,87,0,0,Grace city
+ID,1613780,Challis,incorporated,25,A,902,"Challis, ID",0,88,0,0,Challis city
+ID,1682360,Troy,incorporated,25,A,890,"Troy, ID",0,89,0,0,Troy city
+ID,1603160,Arco,incorporated,25,A,879,"Arco, ID",0,90,0,0,Arco city
+ID,1618820,Council,incorporated,25,A,867,"Council, ID",0,91,0,0,Council city
+ID,1648880,McCammon,incorporated,25,A,825,"McCammon, ID",0,92,0,0,McCammon city
+ID,1618640,Cottonwood,incorporated,25,A,822,"Cottonwood, ID",0,93,0,0,Cottonwood city
+ID,1655270,Moyie Springs,incorporated,25,A,822,"Moyie Springs, ID",0,94,0,0,Moyie Springs city
+ID,1633490,Greenleaf,incorporated,25,A,812,"Greenleaf, ID",0,95,0,0,Greenleaf city
+ID,1636730,Hazelton,incorporated,25,A,803,"Hazelton, ID",0,96,0,0,Hazelton city
+ID,1640330,Inkom,incorporated,25,A,792,"Inkom, ID",0,97,0,0,Inkom city
+ID,1684790,Wallace,incorporated,25,A,791,"Wallace, ID",0,98,0,0,Wallace city
+ID,1680380,Teton,incorporated,25,A,787,"Teton, ID",0,99,0,0,Teton city
+ID,1658330,Oakley,incorporated,25,A,786,"Oakley, ID",0,100,0,0,Oakley city
+ID,1664900,Potlatch,incorporated,25,A,763,"Potlatch, ID",0,101,0,0,Potlatch city
+ID,1635830,Hauser,incorporated,25,A,761,"Hauser, ID",0,102,0,0,Hauser city
+ID,1622510,Dover,incorporated,25,A,752,"Dover, ID",0,103,0,0,Dover city
+ID,1638620,Horseshoe Bend,incorporated,25,A,715,"Horseshoe Bend, ID",0,104,0,0,Horseshoe Bend city
+ID,1652030,Menan,incorporated,25,A,715,"Menan, ID",0,105,0,0,Menan city
+ID,1603700,Athol,incorporated,25,A,709,"Athol, ID",0,106,0,0,Athol city
+ID,1612790,Carey,incorporated,25,A,685,"Carey, ID",0,107,0,0,Carey city
+ID,1675070,Smelterville,incorporated,25,A,670,"Smelterville, ID",0,108,0,0,Smelterville city
+ID,1667960,Ririe,incorporated,25,A,667,"Ririe, ID",0,109,0,0,Ririe city
+ID,1636460,Hayden Lake,incorporated,25,A,649,"Hayden Lake, ID",0,110,0,0,Hayden Lake city
+ID,1655630,Mullan,incorporated,25,A,646,"Mullan, ID",0,111,0,0,Mullan city
+ID,1642130,Juliaetta,incorporated,25,A,624,"Juliaetta, ID",0,112,0,0,Juliaetta city
+ID,1658060,Notus,incorporated,25,A,609,"Notus, ID",0,113,0,0,Notus city
+ID,1651850,Melba,incorporated,25,A,572,"Melba, ID",0,114,0,0,Melba city
+ID,1622600,Downey,incorporated,25,A,571,"Downey, ID",0,115,0,0,Downey city
+ID,1660580,Paris,incorporated,25,A,541,"Paris, ID",0,116,0,0,Paris city
+ID,1627910,Firth,incorporated,25,A,517,"Firth, ID",0,117,0,0,Firth city
+ID,1656890,New Meadows,incorporated,25,A,517,"New Meadows, ID",0,118,0,0,New Meadows city
+ID,1644110,Kooskia,incorporated,25,A,514,"Kooskia, ID",0,119,0,0,Kooskia city
+ID,1614950,Clark Fork,incorporated,25,A,513,"Clark Fork, ID",0,120,0,0,Clark Fork city
+ID,1622960,Dubois,incorporated,25,A,511,"Dubois, ID",0,121,0,0,Dubois city
+ID,1687040,Weston,incorporated,25,A,511,"Weston, ID",0,122,0,0,Weston city
+ID,1620710,Dayton,incorporated,25,A,510,"Dayton, ID",0,123,0,0,Dayton city
+ID,1620890,Deary,incorporated,25,A,508,"Deary, ID",0,124,0,0,Deary city
+ID,1630340,Georgetown,incorporated,25,A,503,"Georgetown, ID",0,125,0,0,Georgetown city
+ID,1668500,Roberts,incorporated,25,A,500,"Roberts, ID",0,126,0,0,Roberts city
+ID,1662740,Pierce,incorporated,25,A,467,"Pierce, ID",0,127,0,0,Pierce city
+ID,1639610,Idaho City,incorporated,25,A,466,"Idaho City, ID",0,128,0,0,Idaho City city
+ID,1619270,Craigmont,incorporated,25,A,458,"Craigmont, ID",0,129,0,0,Craigmont city
+ID,1657250,Nezperce,incorporated,25,A,458,"Nezperce, ID",0,130,0,0,Nezperce city
+ID,1626290,Fairfield,incorporated,25,A,441,"Fairfield, ID",0,131,0,0,Fairfield city
+ID,1632770,Grand View,incorporated,25,A,440,"Grand View, ID",0,132,0,0,Grand View city
+ID,1649240,Mackay,incorporated,25,A,439,"Mackay, ID",0,133,0,0,Mackay city
+ID,1667600,Richfield,incorporated,25,A,431,"Richfield, ID",0,134,0,0,Richfield city
+ID,1646720,Lewisville,incorporated,25,A,421,"Lewisville, ID",0,135,0,0,Lewisville city
+ID,1616120,Clifton,incorporated,25,A,413,"Clifton, ID",0,136,0,0,Clifton city
+ID,1619900,Culdesac,incorporated,25,A,413,"Culdesac, ID",0,137,0,0,Culdesac city
+ID,1686050,Weippe,incorporated,25,A,400,"Weippe, ID",0,138,0,0,Weippe city
+ID,1624310,Eden,incorporated,25,A,393,"Eden, ID",0,139,0,0,Eden city
+ID,1667870,Riggins,incorporated,25,A,372,"Riggins, ID",0,140,0,0,Riggins city
+ID,1645820,Lava Hot Springs,incorporated,25,A,358,"Lava Hot Springs, ID",0,141,0,0,Lava Hot Springs city
+ID,1605230,Basalt,incorporated,25,A,357,"Basalt, ID",0,142,0,0,Basalt city
+ID,1687850,Winchester,incorporated,25,A,356,"Winchester, ID",0,143,0,0,Winchester city
+ID,1603340,Arimo,incorporated,25,A,354,"Arimo, ID",0,144,0,0,Arimo city
+ID,1620980,Declo,incorporated,25,A,338,"Declo, ID",0,145,0,0,Declo city
+ID,1656800,Newdale,incorporated,25,A,337,"Newdale, ID",0,146,0,0,Newdale city
+ID,1612520,Cambridge,incorporated,25,A,335,"Cambridge, ID",0,147,0,0,Cambridge city
+ID,1655450,Mud Lake,incorporated,25,A,321,"Mud Lake, ID",0,148,0,0,Mud Lake city
+ID,1680470,Tetonia,incorporated,25,A,308,"Tetonia, ID",0,149,0,0,Tetonia city
+ID,1660760,Parker,incorporated,25,A,302,"Parker, ID",0,150,0,0,Parker city
+ID,1604420,Bancroft,incorporated,25,A,299,"Bancroft, ID",0,151,0,0,Bancroft city
+ID,1642760,Kendrick,incorporated,25,A,288,"Kendrick, ID",0,152,0,0,Kendrick city
+ID,1621790,Dietrich,incorporated,25,A,284,"Dietrich, ID",0,153,0,0,Dietrich city
+ID,1640510,Irwin,incorporated,25,A,259,"Irwin, ID",0,154,0,0,Irwin city
+ID,1608470,Bliss,incorporated,25,A,258,"Bliss, ID",0,155,0,0,Bliss city
+ID,1688480,Worley,incorporated,25,A,253,"Worley, ID",0,156,0,0,Worley city
+ID,1622330,Donnelly,incorporated,25,A,249,"Donnelly, ID",0,157,0,0,Donnelly city
+ID,1638080,Hollister,incorporated,25,A,243,"Hollister, ID",0,158,0,0,Hollister city
+ID,1669130,Rockland,incorporated,25,A,242,"Rockland, ID",0,159,0,0,Rockland city
+ID,1601000,Albion,incorporated,25,A,234,"Albion, ID",0,160,0,0,Albion city
+ID,1635200,Harrison,incorporated,25,A,233,"Harrison, ID",0,161,0,0,Harrison city
+ID,1623680,East Hope,incorporated,25,A,229,"East Hope, ID",0,162,0,0,East Hope city
+ID,1679120,Swan Valley,incorporated,25,A,225,"Swan Valley, ID",0,163,0,0,Swan Valley city
+ID,1658600,Oldtown,incorporated,25,A,221,"Oldtown, ID",0,164,0,0,Oldtown city
+ID,1613240,Castleford,incorporated,25,A,215,"Castleford, ID",0,165,0,0,Castleford city
+ID,1608560,Bloomington,incorporated,25,A,199,"Bloomington, ID",0,166,0,0,Bloomington city
+ID,1658870,Onaway,incorporated,25,A,196,"Onaway, ID",0,167,0,0,Onaway city
+ID,1640600,Island Park,incorporated,25,A,193,"Island Park, ID",0,168,0,0,Island Park city
+ID,1652750,Midvale,incorporated,25,A,193,"Midvale, ID",0,169,0,0,Midvale city
+ID,1685240,Wardner,incorporated,25,A,192,"Wardner, ID",0,170,0,0,Wardner city
+ID,1609730,Bovill,incorporated,25,A,191,"Bovill, ID",0,171,0,0,Bovill city
+ID,1677500,Stites,incorporated,25,A,171,"Stites, ID",0,172,0,0,Stites city
+ID,1650230,Malta,incorporated,25,A,167,"Malta, ID",0,173,0,0,Malta city
+ID,1661840,Peck,incorporated,25,A,166,"Peck, ID",0,174,0,0,Peck city
+ID,1627550,Fernan Lake Village,incorporated,25,A,164,"Fernan Lake Village, ID",0,175,0,0,Fernan Lake Village city
+ID,1654100,Moore,incorporated,25,A,162,"Moore, ID",0,176,0,0,Moore city
+ID,1671110,St. Charles,incorporated,25,A,161,"St. Charles, ID",0,177,0,0,St. Charles city
+ID,1619720,Crouch,incorporated,25,A,154,"Crouch, ID",0,178,0,0,Crouch city
+ID,1625120,Elk River,incorporated,25,A,139,"Elk River, ID",0,179,0,0,Elk River city
+ID,1627460,Ferdinand,incorporated,25,A,133,"Ferdinand, ID",0,180,0,0,Ferdinand city
+ID,1600280,Acequia,incorporated,25,A,131,"Acequia, ID",0,181,0,0,Acequia city
+ID,1676780,Stanley,incorporated,25,A,116,"Stanley, ID",0,182,0,0,Stanley city
+ID,1655900,Murtaugh,incorporated,25,A,114,"Murtaugh, ID",0,183,0,0,Murtaugh city
+ID,1639070,Huetter,incorporated,25,A,104,"Huetter, ID",0,184,0,0,Huetter city
+ID,1638440,Hope,incorporated,25,A,98,"Hope, ID",0,185,0,0,Hope city
+ID,1645910,Leadore,incorporated,25,A,98,"Leadore, ID",0,186,0,0,Leadore city
+ID,1653110,Minidoka,incorporated,25,A,86,"Minidoka, ID",0,187,0,0,Minidoka city
+ID,1680200,Tensed,incorporated,25,A,84,"Tensed, ID",0,188,0,0,Tensed city
+ID,1634570,Hamer,incorporated,25,I,83,"Hamer, ID",0,189,0,0,Hamer city
+ID,1687310,White Bird,incorporated,25,A,83,"White Bird, ID",0,190,0,0,White Bird city
+ID,1611710,Butte City,incorporated,25,A,78,"Butte City, ID",0,191,0,0,Butte City city
+ID,1663550,Placerville,incorporated,25,A,48,"Placerville, ID",0,192,0,0,Placerville city
+ID,1667150,Reubens,incorporated,25,A,46,"Reubens, ID",0,193,0,0,Reubens city
+ID,1647890,Lost River,incorporated,25,I,42,"Lost River, ID",0,194,0,0,Lost River city
+ID,1660040,Oxford,incorporated,25,A,42,"Oxford, ID",0,195,0,0,Oxford city
+ID,1677050,State Line,incorporated,25,A,39,"State Line, ID",0,196,0,0,State Line city
+ID,1675970,Spencer,incorporated,25,A,31,"Spencer, ID",0,197,0,0,Spencer city
+ID,1622780,Drummond,incorporated,25,A,13,"Drummond, ID",0,198,0,0,Drummond city
+ID,1615490,Clayton,incorporated,25,A,10,"Clayton, ID",0,199,0,0,Clayton city
+ID,1685420,Warm River,incorporated,25,A,4,"Warm River, ID",0,200,0,0,Warm River city

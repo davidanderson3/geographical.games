@@ -1,0 +1,274 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+CO,0820000,Denver,incorporated,25,A,715522,"Denver, CO",0,1,91,0.364,Denver city
+CO,0816000,Colorado Springs,incorporated,25,A,478961,"Colorado Springs, CO",0,2,27,0.108,Colorado Springs city
+CO,0804000,Aurora,incorporated,25,A,386261,"Aurora, CO",0,3,15,0.06,Aurora city
+CO,0827425,Fort Collins,incorporated,25,A,169810,"Fort Collins, CO",0,4,12,0.048,Fort Collins city
+CO,0843000,Lakewood,incorporated,25,A,155984,"Lakewood, CO",0,5,8,0.032,Lakewood city
+CO,0877290,Thornton,incorporated,25,A,141867,"Thornton, CO",0,6,6,0.024,Thornton city
+CO,0803455,Arvada,incorporated,25,A,124402,"Arvada, CO",0,7,5,0.02,Arvada city
+CO,0883835,Westminster,incorporated,25,A,116317,"Westminster, CO",0,8,6,0.024,Westminster city
+CO,0862000,Pueblo,incorporated,25,A,111876,"Pueblo, CO",0,9,5,0.02,Pueblo city
+CO,0832155,Greeley,incorporated,25,A,108795,"Greeley, CO",0,10,3,0.012,Greeley city
+CO,0812815,Centennial,incorporated,25,A,108418,"Centennial, CO",0,11,3,0.012,Centennial city
+CO,0807850,Boulder,incorporated,25,A,108250,"Boulder, CO",0,12,4,0.016,Boulder city
+CO,0845970,Longmont,incorporated,25,A,98885,"Longmont, CO",0,13,2,0.008,Longmont city
+CO,0846465,Loveland,incorporated,25,A,76378,"Loveland, CO",0,14,2,0.008,Loveland city
+CO,0809280,Broomfield,incorporated,25,A,74112,"Broomfield, CO",0,15,2,0.008,Broomfield city
+CO,0812415,Castle Rock,incorporated,43,A,73158,"Castle Rock, CO",0,16,3,0.012,Castle Rock town
+CO,0831660,Grand Junction,incorporated,25,A,65560,"Grand Junction, CO",0,17,3,0.012,Grand Junction city
+CO,0816495,Commerce City,incorporated,25,A,62418,"Commerce City, CO",0,18,3,0.012,Commerce City city
+CO,0857630,Parker,incorporated,43,A,58512,"Parker, CO",0,19,3,0.012,Parker town
+CO,0845255,Littleton,incorporated,25,A,45652,"Littleton, CO",0,20,1,0.004,Littleton city
+CO,0808675,Brighton,incorporated,25,A,40083,"Brighton, CO",0,21,1,0.004,Brighton city
+CO,0854330,Northglenn,incorporated,25,A,38131,"Northglenn, CO",0,22,1,0.004,Northglenn city
+CO,0824785,Englewood,incorporated,25,A,33659,"Englewood, CO",0,23,1,0.004,Englewood city
+CO,0885485,Windsor,incorporated,43,A,32716,"Windsor, CO",0,24,1,0.004,Windsor town
+CO,0884440,Wheat Ridge,incorporated,25,A,32398,"Wheat Ridge, CO",0,25,1,0.004,Wheat Ridge city
+CO,0841835,Lafayette,incorporated,25,A,30411,"Lafayette, CO",0,26,1,0.004,Lafayette city
+CO,0824950,Erie,incorporated,43,A,30038,"Erie, CO",0,27,2,0.008,Erie town
+CO,0827865,Fountain,incorporated,25,A,29802,"Fountain, CO",0,28,2,0.008,Fountain city
+CO,0825280,Evans,incorporated,25,A,22165,"Evans, CO",0,29,2,0.008,Evans city
+CO,0846355,Louisville,incorporated,25,A,21226,"Louisville, CO",0,30,2,0.008,Louisville city
+CO,0830835,Golden,incorporated,25,A,20399,"Golden, CO",0,31,2,0.008,Golden city
+CO,0851745,Montrose,incorporated,25,A,20291,"Montrose, CO",0,32,2,0.008,Montrose city
+CO,0822035,Durango,incorporated,25,A,19071,"Durango, CO",0,33,2,0.008,Durango city
+CO,0839855,Johnstown,incorporated,43,A,17303,"Johnstown, CO",0,34,2,0.008,Johnstown town
+CO,0811810,Cañon City,incorporated,25,A,17141,"Cañon City, CO",0,35,2,0.008,Cañon City city
+CO,0826600,Firestone,incorporated,43,A,16381,"Firestone, CO",0,36,2,0.008,Firestone town
+CO,0833035,Greenwood Village,incorporated,25,A,15691,"Greenwood Village, CO",0,37,2,0.008,Greenwood Village city
+CO,0828360,Frederick,incorporated,43,A,14513,"Frederick, CO",0,38,2,0.008,Frederick town
+CO,0826270,Federal Heights,incorporated,25,A,14382,"Federal Heights, CO",0,39,2,0.008,Federal Heights city
+CO,0845955,Lone Tree,incorporated,25,A,14253,"Lone Tree, CO",0,40,2,0.008,Lone Tree city
+CO,0873935,Sterling,incorporated,25,A,13735,"Sterling, CO",0,41,2,0.008,Sterling city
+CO,0828745,Fruita,incorporated,25,A,13395,"Fruita, CO",0,42,2,0.008,Fruita city
+CO,0873825,Steamboat Springs,incorporated,25,A,13224,"Steamboat Springs, CO",0,43,2,0.008,Steamboat Springs city
+CO,0875640,Superior,incorporated,43,A,13094,"Superior, CO",0,44,2,0.008,Superior town
+CO,0827810,Fort Morgan,incorporated,25,A,11597,"Fort Morgan, CO",0,45,2,0.008,Fort Morgan city
+CO,0883230,Wellington,incorporated,43,A,11047,"Wellington, CO",0,46,2,0.008,Wellington town
+CO,0812387,Castle Pines,incorporated,25,A,11036,"Castle Pines, CO",0,47,0,0,Castle Pines city
+CO,0864255,Rifle,incorporated,25,A,10437,"Rifle, CO",0,48,0,0,Rifle city
+CO,0851800,Monument,incorporated,43,A,10399,"Monument, CO",0,49,0,0,Monument town
+CO,0806255,Berthoud,incorporated,43,A,10332,"Berthoud, CO",0,50,0,0,Berthoud town
+CO,0830780,Glenwood Springs,incorporated,25,A,9963,"Glenwood Springs, CO",0,51,0,0,Glenwood Springs city
+CO,0801090,Alamosa,incorporated,25,A,9806,"Alamosa, CO",0,52,0,0,Alamosa city
+CO,0817760,Craig,incorporated,25,A,9060,"Craig, CO",0,53,0,0,Craig city
+CO,0819850,Delta,incorporated,25,A,9035,"Delta, CO",0,54,0,0,Delta city
+CO,0817375,Cortez,incorporated,25,A,8766,"Cortez, CO",0,55,0,0,Cortez city
+CO,0850480,Milliken,incorporated,43,A,8386,"Milliken, CO",0,56,0,0,Milliken town
+CO,0878610,Trinidad,incorporated,25,A,8329,"Trinidad, CO",0,57,0,0,Trinidad city
+CO,0845530,Lochbuie,incorporated,43,A,8088,"Lochbuie, CO",0,58,0,0,Lochbuie town
+CO,0833695,Gypsum,incorporated,43,A,8040,"Gypsum, CO",0,59,0,0,Gypsum town
+CO,0827700,Fort Lupton,incorporated,25,A,7955,"Fort Lupton, CO",0,60,0,0,Fort Lupton city
+CO,0886090,Woodland Park,incorporated,25,A,7920,"Woodland Park, CO",0,61,0,0,Woodland Park city
+CO,0843110,Lamar,incorporated,25,A,7687,"Lamar, CO",0,62,0,0,Lamar city
+CO,0869150,Severance,incorporated,43,A,7683,"Severance, CO",0,63,0,0,Severance town
+CO,0822200,Eagle,incorporated,43,A,7511,"Eagle, CO",0,64,0,0,Eagle town
+CO,0842110,La Junta,incorporated,25,A,7322,"La Junta, CO",0,65,0,0,La Junta city
+CO,0803620,Aspen,incorporated,25,A,7004,"Aspen, CO",0,66,0,0,Aspen city
+CO,0833640,Gunnison,incorporated,25,A,6560,"Gunnison, CO",0,67,0,0,Gunnison city
+CO,0877510,Timnath,incorporated,43,A,6487,"Timnath, CO",0,68,0,0,Timnath town
+CO,0813845,Cherry Hills Village,incorporated,25,A,6442,"Cherry Hills Village, CO",0,69,0,0,Cherry Hills Village city
+CO,0812045,Carbondale,incorporated,43,A,6434,"Carbondale, CO",0,70,0,0,Carbondale town
+CO,0819080,Dacono,incorporated,25,A,6297,"Dacono, CO",0,71,0,0,Dacono city
+CO,0869645,Sheridan,incorporated,25,A,6105,"Sheridan, CO",0,72,0,0,Sheridan city
+CO,0804110,Avon,incorporated,43,A,6072,"Avon, CO",0,73,0,0,Avon town
+CO,0825115,Estes Park,incorporated,43,A,5904,"Estes Park, CO",0,74,0,0,Estes Park town
+CO,0822860,Eaton,incorporated,43,A,5802,"Eaton, CO",0,75,0,0,Eaton town
+CO,0867280,Salida,incorporated,25,A,5666,"Salida, CO",0,76,0,0,Salida city
+CO,0809555,Brush,incorporated,25,A,5339,"Brush, CO",0,77,0,0,Brush city
+CO,0808400,Breckenridge,incorporated,43,A,5078,"Breckenridge, CO",0,78,0,0,Breckenridge town
+CO,0823135,Edgewater,incorporated,25,A,5005,"Edgewater, CO",0,79,0,0,Edgewater city
+CO,0853395,New Castle,incorporated,43,A,4923,"New Castle, CO",0,80,0,0,New Castle town
+CO,0848445,Manitou Springs,incorporated,25,A,4858,"Manitou Springs, CO",0,81,0,0,Manitou Springs city
+CO,0880040,Vail,incorporated,43,A,4835,"Vail, CO",0,82,0,0,Vail town
+CO,0849600,Mead,incorporated,43,A,4781,"Mead, CO",0,83,0,0,Mead town
+CO,0830340,Glendale,incorporated,25,A,4613,"Glendale, CO",0,84,0,0,Glendale city
+CO,0870525,Silverthorne,incorporated,43,A,4402,"Silverthorne, CO",0,85,0,0,Silverthorne town
+CO,0851635,Monte Vista,incorporated,25,A,4247,"Monte Vista, CO",0,86,0,0,Monte Vista city
+CO,0804935,Basalt,incorporated,43,A,3984,"Basalt, CO",0,87,0,0,Basalt town
+CO,0865190,Rocky Ford,incorporated,25,A,3876,"Rocky Ford, CO",0,88,0,0,Rocky Ford city
+CO,0827040,Florence,incorporated,25,A,3822,"Florence, CO",0,89,0,0,Florence city
+CO,0870195,Silt,incorporated,43,A,3536,"Silt, CO",0,90,0,0,Silt town
+CO,0886750,Yuma,incorporated,25,A,3456,"Yuma, CO",0,91,0,0,Yuma city
+CO,0810600,Burlington,incorporated,25,A,3172,"Burlington, CO",0,92,0,0,Burlington city
+CO,0855980,Orchard City,incorporated,43,A,3142,"Orchard City, CO",0,93,0,0,Orchard City town
+CO,0871755,Snowmass Village,incorporated,43,A,3096,"Snowmass Village, CO",0,94,0,0,Snowmass Village town
+CO,0882350,Walsenburg,incorporated,25,A,3049,"Walsenburg, CO",0,95,0,0,Walsenburg city
+CO,0860160,Platteville,incorporated,43,A,2955,"Platteville, CO",0,96,0,0,Platteville town
+CO,0828690,Frisco,incorporated,43,A,2913,"Frisco, CO",0,97,0,0,Frisco town
+CO,0806090,Bennett,incorporated,43,A,2862,"Bennett, CO",0,98,0,0,Bennett town
+CO,0810105,Buena Vista,incorporated,43,A,2855,"Buena Vista, CO",0,99,0,0,Buena Vista town
+CO,0805265,Bayfield,incorporated,43,A,2838,"Bayfield, CO",0,100,0,0,Bayfield town
+CO,0857025,Palmer Lake,incorporated,43,A,2636,"Palmer Lake, CO",0,101,0,0,Palmer Lake town
+CO,0844320,Leadville,incorporated,25,A,2633,"Leadville, CO",0,102,0,0,Leadville city
+CO,0876795,Telluride,incorporated,43,A,2607,"Telluride, CO",0,103,0,0,Telluride town
+CO,0856970,Palisade,incorporated,43,A,2565,"Palisade, CO",0,104,0,0,Palisade town
+CO,0849875,Meeker,incorporated,43,A,2374,"Meeker, CO",0,105,0,0,Meeker town
+CO,0843605,La Salle,incorporated,43,A,2359,"La Salle, CO",0,106,0,0,La Salle town
+CO,0886310,Wray,incorporated,25,A,2358,"Wray, CO",0,107,0,0,Wray city
+CO,0837270,Holyoke,incorporated,25,A,2346,"Holyoke, CO",0,108,0,0,Holyoke city
+CO,0843660,Las Animas,incorporated,25,A,2300,"Las Animas, CO",0,109,0,0,Las Animas city
+CO,0862880,Rangely,incorporated,43,A,2299,"Rangely, CO",0,110,0,0,Rangely town
+CO,0812635,Cedaredge,incorporated,43,A,2279,"Cedaredge, CO",0,111,0,0,Cedaredge town
+CO,0847070,Lyons,incorporated,43,A,2209,"Lyons, CO",0,112,0,0,Lyons town
+CO,0831605,Granby,incorporated,43,A,2079,"Granby, CO",0,113,0,0,Granby town
+CO,0844980,Limon,incorporated,43,A,2043,"Limon, CO",0,114,0,0,Limon town
+CO,0855540,Olathe,incorporated,43,A,2019,"Olathe, CO",0,115,0,0,Olathe town
+CO,0835070,Hayden,incorporated,43,A,1941,"Hayden, CO",0,116,0,0,Hayden town
+CO,0812855,Center,incorporated,43,A,1929,"Center, CO",0,117,0,0,Center town
+CO,0803950,Ault,incorporated,43,A,1887,"Ault, CO",0,118,0,0,Ault town
+CO,0838370,Idaho Springs,incorporated,25,A,1782,"Idaho Springs, CO",0,119,0,0,Idaho Springs city
+CO,0800925,Akron,incorporated,43,A,1757,"Akron, CO",0,120,0,0,Akron town
+CO,0823740,Elizabeth,incorporated,43,A,1675,"Elizabeth, CO",0,121,0,0,Elizabeth town
+CO,0837820,Hudson,incorporated,43,A,1651,"Hudson, CO",0,122,0,0,Hudson town
+CO,0818310,Crested Butte,incorporated,43,A,1639,"Crested Butte, CO",0,123,0,0,Crested Butte town
+CO,0856860,Pagosa Springs,incorporated,43,A,1571,"Pagosa Springs, CO",0,124,0,0,Pagosa Springs town
+CO,0841560,Kremmling,incorporated,43,A,1509,"Kremmling, CO",0,125,0,0,Kremmling town
+CO,0816385,Columbine Valley,incorporated,43,A,1502,"Columbine Valley, CO",0,126,0,0,Columbine Valley town
+CO,0840515,Kersey,incorporated,43,A,1495,"Kersey, CO",0,127,0,0,Kersey town
+CO,0853175,Nederland,incorporated,43,A,1471,"Nederland, CO",0,128,0,0,Nederland town
+CO,0819795,Del Norte,incorporated,43,A,1458,"Del Norte, CO",0,129,0,0,Del Norte town
+CO,0857300,Paonia,incorporated,43,A,1447,"Paonia, CO",0,130,0,0,Paonia town
+CO,0884770,Wiggins,incorporated,43,A,1401,"Wiggins, CO",0,131,0,0,Wiggins town
+CO,0828305,Fraser,incorporated,43,A,1400,"Fraser, CO",0,132,0,0,Fraser town
+CO,0857400,Parachute,incorporated,43,A,1390,"Parachute, CO",0,133,0,0,Parachute town
+CO,0840550,Keystone,incorporated,43,A,1369,"Keystone, CO",0,134,0,0,Keystone town
+CO,0873330,Springfield,incorporated,43,A,1325,"Springfield, CO",0,135,0,0,Springfield town
+CO,0839965,Julesburg,incorporated,43,A,1307,"Julesburg, CO",0,136,0,0,Julesburg town
+CO,0852550,Mountain Village,incorporated,43,A,1264,"Mountain Village, CO",0,137,0,0,Mountain Village town
+CO,0827975,Fowler,incorporated,43,A,1253,"Fowler, CO",0,138,0,0,Fowler town
+CO,0840185,Keenesburg,incorporated,43,A,1250,"Keenesburg, CO",0,139,0,0,Keenesburg town
+CO,0848115,Mancos,incorporated,43,A,1196,"Mancos, CO",0,140,0,0,Mancos town
+CO,0864200,Ridgway,incorporated,43,A,1183,"Ridgway, CO",0,141,0,0,Ridgway town
+CO,0818530,Cripple Creek,incorporated,25,A,1155,"Cripple Creek, CO",0,142,0,0,Cripple Creek city
+CO,0829735,Georgetown,incorporated,43,A,1118,"Georgetown, CO",0,143,0,0,Georgetown town
+CO,0859005,Pierce,incorporated,43,A,1097,"Pierce, CO",0,144,0,0,Pierce town
+CO,0819630,Deer Trail,incorporated,43,A,1068,"Deer Trail, CO",0,145,0,0,Deer Trail town
+CO,0856145,Ordway,incorporated,43,A,1066,"Ordway, CO",0,146,0,0,Ordway town
+CO,0820440,Dillon,incorporated,43,A,1064,"Dillon, CO",0,147,0,0,Dillon town
+CO,0850920,Minturn,incorporated,43,A,1033,"Minturn, CO",0,148,0,0,Minturn town
+CO,0885705,Winter Park,incorporated,43,A,1033,"Winter Park, CO",0,149,0,0,Winter Park town
+CO,0829955,Gilcrest,incorporated,43,A,1029,"Gilcrest, CO",0,150,0,0,Gilcrest town
+CO,0834960,Haxtun,incorporated,43,A,981,"Haxtun, CO",0,151,0,0,Haxtun town
+CO,0848060,Manassa,incorporated,43,A,947,"Manassa, CO",0,152,0,0,Manassa town
+CO,0852570,Mount Crested Butte,incorporated,43,A,941,"Mount Crested Butte, CO",0,153,0,0,Mount Crested Butte town
+CO,0860600,Poncha Springs,incorporated,43,A,925,"Poncha Springs, CO",0,154,0,0,Poncha Springs town
+CO,0845695,Log Lane Village,incorporated,43,A,913,"Log Lane Village, CO",0,155,0,0,Log Lane Village town
+CO,0856420,Ouray,incorporated,25,A,898,"Ouray, CO",0,156,0,0,Ouray city
+CO,0855155,Oak Creek,incorporated,43,A,889,"Oak Creek, CO",0,157,0,0,Oak Creek town
+CO,0820770,Dolores,incorporated,43,A,885,"Dolores, CO",0,158,0,0,Dolores town
+CO,0867830,Sanford,incorporated,43,A,879,"Sanford, CO",0,159,0,0,Sanford town
+CO,0807410,Blue River,incorporated,43,A,877,"Blue River, CO",0,160,0,0,Blue River town
+CO,0837545,Hotchkiss,incorporated,43,A,875,"Hotchkiss, CO",0,161,0,0,Hotchkiss town
+CO,0844100,La Veta,incorporated,43,A,862,"La Veta, CO",0,162,0,0,La Veta town
+CO,0808070,Bow Mar,incorporated,43,A,853,"Bow Mar, CO",0,163,0,0,Bow Mar town
+CO,0838535,Ignacio,incorporated,43,A,852,"Ignacio, CO",0,164,0,0,Ignacio town
+CO,0837215,Holly,incorporated,43,A,837,"Holly, CO",0,165,0,0,Holly town
+CO,0837875,Hugo,incorporated,43,A,787,"Hugo, CO",0,166,0,0,Hugo town
+CO,0811260,Calhan,incorporated,43,A,762,"Calhan, CO",0,167,0,0,Calhan town
+CO,0814175,Cheyenne Wells,incorporated,43,A,758,"Cheyenne Wells, CO",0,168,0,0,Cheyenne Wells town
+CO,0828105,Foxfield,incorporated,43,A,754,"Foxfield, CO",0,169,0,0,Foxfield town
+CO,0885155,Williamsburg,incorporated,43,A,731,"Williamsburg, CO",0,170,0,0,Williamsburg town
+CO,0842055,La Jara,incorporated,43,A,730,"La Jara, CO",0,171,0,0,La Jara town
+CO,0840790,Kiowa,incorporated,43,A,725,"Kiowa, CO",0,172,0,0,Kiowa town
+CO,0825610,Fairplay,incorporated,43,A,724,"Fairplay, CO",0,173,0,0,Fairplay town
+CO,0837600,Hot Sulphur Springs,incorporated,43,A,687,"Hot Sulphur Springs, CO",0,174,0,0,Hot Sulphur Springs town
+CO,0822145,Eads,incorporated,43,A,672,"Eads, CO",0,175,0,0,Eads town
+CO,0874485,Stratton,incorporated,43,A,656,"Stratton, CO",0,176,0,0,Stratton town
+CO,0802355,Antonito,incorporated,43,A,647,"Antonito, CO",0,177,0,0,Antonito town
+CO,0832650,Green Mountain Falls,incorporated,43,A,646,"Green Mountain Falls, CO",0,178,0,0,Green Mountain Falls town
+CO,0821265,Dove Creek,incorporated,43,A,635,"Dove Creek, CO",0,179,0,0,Dove Creek town
+CO,0870580,Silverton,incorporated,43,A,622,"Silverton, CO",0,180,0,0,Silverton town
+CO,0870250,Silver Cliff,incorporated,43,A,609,"Silver Cliff, CO",0,181,0,0,Silver Cliff town
+CO,0882130,Walden,incorporated,43,A,606,"Walden, CO",0,182,0,0,Walden town
+CO,0875970,Swink,incorporated,43,A,604,"Swink, CO",0,183,0,0,Swink town
+CO,0870635,Simla,incorporated,43,A,601,"Simla, CO",0,184,0,0,Simla town
+CO,0868105,San Luis,incorporated,43,A,598,"San Luis, CO",0,185,0,0,San Luis town
+CO,0854935,Nucla,incorporated,43,A,585,"Nucla, CO",0,186,0,0,Nucla town
+CO,0826765,Flagler,incorporated,43,A,567,"Flagler, CO",0,187,0,0,Flagler town
+CO,0882460,Walsh,incorporated,43,A,543,"Walsh, CO",0,188,0,0,Walsh town
+CO,0852350,Mountain View,incorporated,43,A,541,"Mountain View, CO",0,189,0,0,Mountain View town
+CO,0867005,Saguache,incorporated,43,A,539,"Saguache, CO",0,190,0,0,Saguache town
+CO,0854880,Norwood,incorporated,43,A,535,"Norwood, CO",0,191,0,0,Norwood town
+CO,0856365,Otis,incorporated,43,A,511,"Otis, CO",0,192,0,0,Otis town
+CO,0864970,Rockvale,incorporated,43,A,511,"Rockvale, CO",0,193,0,0,Rockvale town
+CO,0872395,South Fork,incorporated,43,A,510,"South Fork, CO",0,194,0,0,South Fork town
+CO,0855045,Nunn,incorporated,43,A,504,"Nunn, CO",0,195,0,0,Nunn town
+CO,0819355,De Beque,incorporated,43,A,493,"De Beque, CO",0,196,0,0,De Beque town
+CO,0853120,Naturita,incorporated,43,A,485,"Naturita, CO",0,197,0,0,Naturita town
+CO,0800760,Aguilar,incorporated,43,A,456,"Aguilar, CO",0,198,0,0,Aguilar town
+CO,0831550,Granada,incorporated,43,A,445,"Granada, CO",0,199,0,0,Granada town
+CO,0885045,Wiley,incorporated,43,A,437,"Wiley, CO",0,200,0,0,Wiley town
+CO,0883450,Westcliffe,incorporated,43,A,435,"Westcliffe, CO",0,201,0,0,Westcliffe town
+CO,0842330,Lake City,incorporated,43,A,432,"Lake City, CO",0,202,0,0,Lake City town
+CO,0826875,Fleming,incorporated,43,A,428,"Fleming, CO",0,203,0,0,Fleming town
+CO,0831715,Grand Lake,incorporated,43,A,410,"Grand Lake, CO",0,204,0,0,Grand Lake town
+CO,0817925,Crawford,incorporated,43,A,403,"Crawford, CO",0,205,0,0,Crawford town
+CO,0886475,Yampa,incorporated,43,A,399,"Yampa, CO",0,206,0,0,Yampa town
+CO,0852075,Morrison,incorporated,43,A,396,"Morrison, CO",0,207,0,0,Morrison town
+CO,0880865,Victor,incorporated,25,A,379,"Victor, CO",0,208,0,0,Victor city
+CO,0815605,Collbran,incorporated,43,A,369,"Collbran, CO",0,209,0,0,Collbran town
+CO,0815330,Coal Creek,incorporated,43,A,364,"Coal Creek, CO",0,210,0,0,Coal Creek town
+CO,0824620,Empire,incorporated,43,A,345,"Empire, CO",0,211,0,0,Empire town
+CO,0848500,Manzanola,incorporated,43,A,341,"Manzanola, CO",0,212,0,0,Manzanola town
+CO,0807190,Blanca,incorporated,43,A,322,"Blanca, CO",0,213,0,0,Blanca town
+CO,0855705,Olney Springs,incorporated,43,A,315,"Olney Springs, CO",0,214,0,0,Olney Springs town
+CO,0836610,Hillrose,incorporated,43,A,312,"Hillrose, CO",0,215,0,0,Hillrose town
+CO,0807795,Boone,incorporated,43,A,305,"Boone, CO",0,216,0,0,Boone town
+CO,0865740,Romeo,incorporated,43,A,302,"Romeo, CO",0,217,0,0,Romeo town
+CO,0801530,Alma,incorporated,43,A,296,"Alma, CO",0,218,0,0,Alma town
+CO,0864090,Rico,incorporated,43,A,288,"Rico, CO",0,219,0,0,Rico town
+CO,0850040,Merino,incorporated,43,A,281,"Merino, CO",0,220,0,0,Merino town
+CO,0856475,Ovid,incorporated,43,A,271,"Ovid, CO",0,221,0,0,Ovid town
+CO,0874815,Sugar City,incorporated,43,A,259,"Sugar City, CO",0,222,0,0,Sugar City town
+CO,0814765,City of Creede,incorporated,43,A,257,"City of Creede, CO",0,223,0,0,City of Creede town
+CO,0863265,Red Cliff,incorporated,43,A,257,"Red Cliff, CO",0,224,0,0,Red Cliff town
+CO,0839195,Jamestown,incorporated,43,A,256,"Jamestown, CO",0,225,0,0,Jamestown town
+CO,0841010,Kit Carson,incorporated,43,A,255,"Kit Carson, CO",0,226,0,0,Kit Carson town
+CO,0829185,Garden City,incorporated,43,A,254,"Garden City, CO",0,227,0,0,Garden City town
+CO,0838590,Iliff,incorporated,43,A,246,"Iliff, CO",0,228,0,0,Iliff town
+CO,0820495,Dinosaur,incorporated,43,A,243,"Dinosaur, CO",0,229,0,0,Dinosaur town
+CO,0813460,Cheraw,incorporated,43,A,237,"Cheraw, CO",0,230,0,0,Cheraw town
+CO,0809115,Brookside,incorporated,43,A,236,"Brookside, CO",0,231,0,0,Brookside town
+CO,0823025,Eckley,incorporated,43,A,232,"Eckley, CO",0,232,0,0,Eckley town
+CO,0858235,Peetz,incorporated,43,A,213,"Peetz, CO",0,233,0,0,Peetz town
+CO,0870360,Silver Plume,incorporated,43,A,207,"Silver Plume, CO",0,234,0,0,Silver Plume town
+CO,0843550,Larkspur,incorporated,43,A,206,"Larkspur, CO",0,235,0,0,Larkspur town
+CO,0866895,Rye,incorporated,43,A,206,"Rye, CO",0,236,0,0,Rye town
+CO,0803235,Arriba,incorporated,43,A,202,"Arriba, CO",0,237,0,0,Arriba town
+CO,0855870,Ophir,incorporated,43,A,197,"Ophir, CO",0,238,0,0,Ophir town
+CO,0806530,Bethune,incorporated,43,A,183,"Bethune, CO",0,239,0,0,Bethune town
+CO,0868930,Sedgwick,incorporated,43,A,172,"Sedgwick, CO",0,240,0,0,Sedgwick town
+CO,0869040,Seibert,incorporated,43,A,172,"Seibert, CO",0,241,0,0,Seibert town
+CO,0818750,Crowley,incorporated,43,A,166,"Crowley, CO",0,242,0,0,Crowley town
+CO,0833310,Grover,incorporated,43,A,157,"Grover, CO",0,243,0,0,Grover town
+CO,0829680,Genoa,incorporated,43,A,153,"Genoa, CO",0,244,0,0,Genoa town
+CO,0818420,Crestone,incorporated,43,A,141,"Crestone, CO",0,245,0,0,Crestone town
+CO,0818640,Crook,incorporated,43,A,133,"Crook, CO",0,246,0,0,Crook town
+CO,0848555,Marble,incorporated,43,A,133,"Marble, CO",0,247,0,0,Marble town
+CO,0882735,Ward,incorporated,43,A,128,"Ward, CO",0,248,0,0,Ward town
+CO,0807025,Black Hawk,incorporated,25,A,127,"Black Hawk, CO",0,249,0,0,Black Hawk city
+CO,0815550,Cokedale,incorporated,43,A,127,"Cokedale, CO",0,250,0,0,Cokedale town
+CO,0861315,Pritchett,incorporated,43,A,112,"Pritchett, CO",0,251,0,0,Pritchett town
+CO,0862660,Ramah,incorporated,43,A,111,"Ramah, CO",0,252,0,0,Ramah town
+CO,0863045,Raymer (New Raymer),incorporated,43,A,110,"Raymer (New Raymer), CO",0,253,0,0,Raymer (New Raymer) town
+CO,0851250,Moffat,incorporated,43,A,108,"Moffat, CO",0,254,0,0,Moffat town
+CO,0811645,Campo,incorporated,43,A,103,"Campo, CO",0,255,0,0,Campo town
+CO,0881030,Vilas,incorporated,43,A,98,"Vilas, CO",0,256,0,0,Vilas town
+CO,0881690,Vona,incorporated,43,A,95,"Vona, CO",0,257,0,0,Vona town
+CO,0837380,Hooper,incorporated,43,A,81,"Hooper, CO",0,258,0,0,Hooper town
+CO,0851690,Montezuma,incorporated,43,A,74,"Montezuma, CO",0,259,0,0,Montezuma town
+CO,0859830,Pitkin,incorporated,43,A,72,"Pitkin, CO",0,260,0,0,Pitkin town
+CO,0834740,Haswell,incorporated,43,A,71,"Haswell, CO",0,261,0,0,Haswell town
+CO,0840570,Kim,incorporated,43,A,63,"Kim, CO",0,262,0,0,Kim town
+CO,0873715,Starkville,incorporated,43,A,62,"Starkville, CO",0,263,0,0,Starkville town
+CO,0808345,Branson,incorporated,43,A,57,"Branson, CO",0,264,0,0,Branson town
+CO,0834520,Hartman,incorporated,43,A,56,"Hartman, CO",0,265,0,0,Hartman town
+CO,0869700,Sheridan Lake,incorporated,43,A,55,"Sheridan Lake, CO",0,266,0,0,Sheridan Lake town
+CO,0857245,Paoli,incorporated,43,A,51,"Paoli, CO",0,267,0,0,Paoli town
+CO,0868655,Sawpit,incorporated,43,A,38,"Sawpit, CO",0,268,0,0,Sawpit town
+CO,0879270,Two Buttes,incorporated,43,A,34,"Two Buttes, CO",0,269,0,0,Two Buttes town
+CO,0807571,Bonanza,incorporated,43,I,17,"Bonanza, CO",0,270,0,0,Bonanza town
+CO,0842495,Lakeside,incorporated,43,A,16,"Lakeside, CO",0,271,0,0,Lakeside town
+CO,0812030,Carbonate,incorporated,43,A,0,"Carbonate, CO",0,272,0,0,Carbonate town
+CO,0812900,Central,incorporated,25,A,0,"Central, CO",0,273,0,0,Central city

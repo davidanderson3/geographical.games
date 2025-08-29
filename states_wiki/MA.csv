@@ -1,0 +1,59 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+MA,2507000,Boston,incorporated,25,A,675647,"Boston, MA",0,1,103,0.412,Boston city
+MA,2582000,Worcester,incorporated,25,A,206518,"Worcester, MA",0,2,29,0.116,Worcester city
+MA,2567000,Springfield,incorporated,25,A,155929,"Springfield, MA",0,3,17,0.068,Springfield city
+MA,2511000,Cambridge,incorporated,25,A,118403,"Cambridge, MA",0,4,12,0.048,Cambridge city
+MA,2537000,Lowell,incorporated,25,A,115554,"Lowell, MA",0,5,9,0.036,Lowell city
+MA,2509000,Brockton,incorporated,25,A,105643,"Brockton, MA",0,6,7,0.028,Brockton city
+MA,2555745,Quincy,incorporated,25,A,101636,"Quincy, MA",0,7,5,0.02,Quincy city
+MA,2537490,Lynn,incorporated,25,A,101253,"Lynn, MA",0,8,5,0.02,Lynn city
+MA,2545000,New Bedford,incorporated,25,A,101079,"New Bedford, MA",0,9,4,0.016,New Bedford city
+MA,2523000,Fall River,incorporated,25,A,94000,"Fall River, MA",0,10,4,0.016,Fall River city
+MA,2534550,Lawrence,incorporated,25,A,89143,"Lawrence, MA",0,11,3,0.012,Lawrence city
+MA,2545560,Newton,incorporated,25,A,88923,"Newton, MA",0,12,3,0.012,Newton city
+MA,2562535,Somerville,incorporated,25,A,81045,"Somerville, MA",0,13,3,0.012,Somerville city
+MA,2524960,Framingham,incorporated,25,A,72362,"Framingham, MA",0,14,3,0.012,Framingham city
+MA,2529405,Haverhill,incorporated,25,A,67787,"Haverhill, MA",0,15,2,0.008,Haverhill city
+MA,2537875,Malden,incorporated,25,A,66263,"Malden, MA",0,16,2,0.008,Malden city
+MA,2572600,Waltham,incorporated,25,A,65218,"Waltham, MA",0,17,2,0.008,Waltham city
+MA,2556585,Revere,incorporated,25,A,62186,"Revere, MA",0,18,2,0.008,Revere city
+MA,2539835,Medford,incorporated,25,A,59659,"Medford, MA",0,19,2,0.008,Medford city
+MA,2569170,Taunton,incorporated,25,A,59408,"Taunton, MA",0,20,2,0.008,Taunton city
+MA,2578972,Weymouth Town,incorporated,25,A,57437,"Weymouth Town, MA",0,21,2,0.008,Weymouth Town city
+MA,2513660,Chicopee,incorporated,25,A,55560,"Chicopee, MA",0,22,1,0.004,Chicopee city
+MA,2552490,Peabody,incorporated,25,A,54481,"Peabody, MA",0,23,1,0.004,Peabody city
+MA,2521990,Everett,incorporated,25,A,49075,"Everett, MA",0,24,1,0.004,Everett city
+MA,2503690,Barnstable Town,incorporated,25,A,48916,"Barnstable Town, MA",0,25,1,0.004,Barnstable Town city
+MA,2502690,Attleboro,incorporated,25,A,46461,"Attleboro, MA",0,26,1,0.004,Attleboro city
+MA,2559105,Salem,incorporated,25,A,44480,"Salem, MA",0,27,1,0.004,Salem city
+MA,2553960,Pittsfield,incorporated,25,A,43927,"Pittsfield, MA",0,28,1,0.004,Pittsfield city
+MA,2535075,Leominster,incorporated,25,A,43782,"Leominster, MA",0,29,0,0,Leominster city
+MA,2505595,Beverly,incorporated,25,A,42670,"Beverly, MA",0,30,1,0.004,Beverly city
+MA,2523875,Fitchburg,incorporated,25,A,41946,"Fitchburg, MA",0,31,1,0.004,Fitchburg city
+MA,2538715,Marlborough,incorporated,25,A,41793,"Marlborough, MA",0,32,1,0.004,Marlborough city
+MA,2581035,Woburn,incorporated,25,A,40876,"Woburn, MA",0,33,1,0.004,Woburn city
+MA,2576030,Westfield,incorporated,25,A,40834,"Westfield, MA",0,34,1,0.004,Westfield city
+MA,2513205,Chelsea,incorporated,25,A,40787,"Chelsea, MA",0,35,1,0.004,Chelsea city
+MA,2501370,Amherst Town,incorporated,25,A,39263,"Amherst Town, MA",0,36,1,0.004,Amherst Town city
+MA,2507740,Braintree Town,incorporated,25,A,39143,"Braintree Town, MA",0,37,1,0.004,Braintree Town city
+MA,2530840,Holyoke,incorporated,25,A,38238,"Holyoke, MA",0,38,1,0.004,Holyoke city
+MA,2556000,Randolph Town,incorporated,25,A,34984,"Randolph Town, MA",0,39,1,0.004,Randolph Town city
+MA,2525172,Franklin Town,incorporated,25,A,33261,"Franklin Town, MA",0,40,1,0.004,Franklin Town city
+MA,2546598,North Attleborough Town,incorporated,25,A,30834,"North Attleborough Town, MA",0,41,1,0.004,North Attleborough Town city
+MA,2540115,Melrose,incorporated,25,A,29817,"Melrose, MA",0,42,1,0.004,Melrose city
+MA,2526150,Gloucester,incorporated,25,A,29729,"Gloucester, MA",0,43,1,0.004,Gloucester city
+MA,2546330,Northampton,incorporated,25,A,29571,"Northampton, MA",0,44,1,0.004,Northampton city
+MA,2577890,West Springfield Town,incorporated,25,A,28835,"West Springfield Town, MA",0,45,1,0.004,West Springfield Town city
+MA,2500840,Agawam Town,incorporated,25,A,28692,"Agawam Town, MA",0,46,1,0.004,Agawam Town city
+MA,2508130,Bridgewater Town,incorporated,25,A,28633,"Bridgewater Town, MA",0,47,1,0.004,Bridgewater Town city
+MA,2525485,Gardner,incorporated,25,A,21287,"Gardner, MA",0,48,1,0.004,Gardner city
+MA,2581005,Winthrop Town,incorporated,25,A,19316,"Winthrop Town, MA",0,49,1,0.004,Winthrop Town city
+MA,2545245,Newburyport,incorporated,25,A,18289,"Newburyport, MA",0,50,1,0.004,Newburyport city
+MA,2527060,Greenfield,incorporated,25,A,17768,"Greenfield, MA",0,51,1,0.004,Greenfield city
+MA,2563345,Southbridge Town,incorporated,25,A,17740,"Southbridge Town, MA",0,52,0,0,Southbridge Town city
+MA,2546225,North Adams,incorporated,25,A,12961,"North Adams, MA",0,53,0,0,North Adams city
+MA,2552144,Palmer Town,incorporated,25,A,12448,"Palmer Town, MA",0,54,0,0,Palmer Town city
+MA,2501185,Amesbury,incorporated,25,A,0,"Amesbury, MA",0,55,0,0,Amesbury city
+MA,2519365,Easthampton,incorporated,25,A,0,"Easthampton, MA",0,56,0,0,Easthampton city
+MA,2540675,Methuen,incorporated,25,A,0,"Methuen, MA",0,57,0,0,Methuen city
+MA,2573405,Watertown,incorporated,25,A,0,"Watertown, MA",0,58,0,0,Watertown city

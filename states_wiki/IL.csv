@@ -1,0 +1,1295 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+IL,1714000,Chicago,incorporated,25,A,2746388,"Chicago, IL",0,1,64,0.256,Chicago city
+IL,1703012,Aurora,incorporated,25,A,180542,"Aurora, IL",0,2,27,0.108,Aurora city
+IL,1738570,Joliet,incorporated,25,A,150362,"Joliet, IL",0,3,17,0.068,Joliet city
+IL,1751622,Naperville,incorporated,25,A,149540,"Naperville, IL",0,4,11,0.044,Naperville city
+IL,1765000,Rockford,incorporated,25,A,148655,"Rockford, IL",0,5,9,0.036,Rockford city
+IL,1723074,Elgin,incorporated,25,A,114797,"Elgin, IL",0,6,8,0.032,Elgin city
+IL,1772000,Springfield,incorporated,25,A,114394,"Springfield, IL",0,7,8,0.032,Springfield city
+IL,1759000,Peoria,incorporated,25,A,113150,"Peoria, IL",0,8,6,0.024,Peoria city
+IL,1779293,Waukegan,incorporated,25,A,89321,"Waukegan, IL",0,9,4,0.016,Waukegan city
+IL,1712385,Champaign,incorporated,25,A,88302,"Champaign, IL",0,10,5,0.02,Champaign city
+IL,1714351,Cicero,incorporated,43,A,85268,"Cicero, IL",0,11,3,0.012,Cicero town
+IL,1768003,Schaumburg,incorporated,47,A,78723,"Schaumburg, IL",0,12,4,0.016,Schaumburg village
+IL,1706613,Bloomington,incorporated,25,A,78680,"Bloomington, IL",0,13,4,0.016,Bloomington city
+IL,1724582,Evanston,incorporated,25,A,78110,"Evanston, IL",0,14,2,0.008,Evanston city
+IL,1702154,Arlington Heights,incorporated,47,A,77676,"Arlington Heights, IL",0,15,2,0.008,Arlington Heights village
+IL,1707133,Bolingbrook,incorporated,47,A,73922,"Bolingbrook, IL",0,16,3,0.012,Bolingbrook village
+IL,1718823,Decatur,incorporated,25,A,70522,"Decatur, IL",0,17,3,0.012,Decatur city
+IL,1757225,Palatine,incorporated,47,A,67908,"Palatine, IL",0,18,3,0.012,Palatine village
+IL,1770122,Skokie,incorporated,47,A,67824,"Skokie, IL",0,19,3,0.012,Skokie village
+IL,1719642,Des Plaines,incorporated,25,A,60675,"Des Plaines, IL",0,20,2,0.008,Des Plaines city
+IL,1756640,Orland Park,incorporated,47,A,58703,"Orland Park, IL",0,21,2,0.008,Orland Park village
+IL,1754820,Oak Lawn,incorporated,47,A,58362,"Oak Lawn, IL",0,22,1,0.004,Oak Lawn village
+IL,1705573,Berwyn,incorporated,25,A,57250,"Berwyn, IL",0,23,1,0.004,Berwyn city
+IL,1751089,Mount Prospect,incorporated,47,A,56852,"Mount Prospect, IL",0,24,1,0.004,Mount Prospect village
+IL,1775484,Tinley Park,incorporated,47,A,55971,"Tinley Park, IL",0,25,1,0.004,Tinley Park village
+IL,1754885,Oak Park,incorporated,47,A,54583,"Oak Park, IL",0,26,1,0.004,Oak Park village
+IL,1781048,Wheaton,incorporated,25,A,53970,"Wheaton, IL",0,27,1,0.004,Wheaton city
+IL,1753234,Normal,incorporated,43,A,52736,"Normal, IL",0,28,2,0.008,Normal town
+IL,1735411,Hoffman Estates,incorporated,47,A,52530,"Hoffman Estates, IL",0,29,2,0.008,Hoffman Estates village
+IL,1720591,Downers Grove,incorporated,47,A,50247,"Downers Grove, IL",0,30,2,0.008,Downers Grove village
+IL,1729938,Glenview,incorporated,47,A,48705,"Glenview, IL",0,31,2,0.008,Glenview village
+IL,1723620,Elmhurst,incorporated,25,A,45786,"Elmhurst, IL",0,32,2,0.008,Elmhurst city
+IL,1760287,Plainfield,incorporated,47,A,44762,"Plainfield, IL",0,33,2,0.008,Plainfield village
+IL,1744407,Lombard,incorporated,47,A,44476,"Lombard, IL",0,34,2,0.008,Lombard village
+IL,1709447,Buffalo Grove,incorporated,47,A,43212,"Buffalo Grove, IL",0,35,2,0.008,Buffalo Grove village
+IL,1749867,Moline,incorporated,25,A,42985,"Moline, IL",0,36,2,0.008,Moline city
+IL,1704845,Belleville,incorporated,25,A,42404,"Belleville, IL",0,37,2,0.008,Belleville city
+IL,1704013,Bartlett,incorporated,47,A,41105,"Bartlett, IL",0,38,2,0.008,Bartlett village
+IL,1719161,DeKalb,incorporated,25,A,40290,"DeKalb, IL",0,39,2,0.008,DeKalb city
+IL,1717887,Crystal Lake,incorporated,25,A,40269,"Crystal Lake, IL",0,40,2,0.008,Crystal Lake city
+IL,1765442,Romeoville,incorporated,47,A,39863,"Romeoville, IL",0,41,2,0.008,Romeoville village
+IL,1711332,Carol Stream,incorporated,47,A,39854,"Carol Stream, IL",0,42,2,0.008,Carol Stream village
+IL,1757875,Park Ridge,incorporated,25,A,39656,"Park Ridge, IL",0,43,2,0.008,Park Ridge city
+IL,1773157,Streamwood,incorporated,47,A,39577,"Streamwood, IL",0,44,2,0.008,Streamwood village
+IL,1762367,Quincy,incorporated,25,A,39463,"Quincy, IL",0,45,2,0.008,Quincy city
+IL,1781087,Wheeling,incorporated,47,A,39137,"Wheeling, IL",0,46,2,0.008,Wheeling village
+IL,1777005,Urbana,incorporated,25,A,38336,"Urbana, IL",0,47,2,0.008,Urbana city
+IL,1711358,Carpentersville,incorporated,47,A,37983,"Carpentersville, IL",0,48,1,0.004,Carpentersville village
+IL,1732746,Hanover Park,incorporated,47,A,37470,"Hanover Park, IL",0,49,1,0.004,Hanover Park village
+IL,1765078,Rock Island,incorporated,25,A,37108,"Rock Island, IL",0,50,1,0.004,Rock Island city
+IL,1710487,Calumet City,incorporated,25,A,36033,"Calumet City, IL",0,51,1,0.004,Calumet City city
+IL,1700243,Addison,incorporated,47,A,35702,"Addison, IL",0,52,1,0.004,Addison village
+IL,1753481,Northbrook,incorporated,47,A,35222,"Northbrook, IL",0,53,1,0.004,Northbrook village
+IL,1756887,Oswego,incorporated,47,A,34585,"Oswego, IL",0,54,1,0.004,Oswego village
+IL,1783245,Woodridge,incorporated,47,A,34158,"Woodridge, IL",0,55,1,0.004,Woodridge village
+IL,1729730,Glendale Heights,incorporated,47,A,33176,"Glendale Heights, IL",0,56,1,0.004,Glendale Heights village
+IL,1766703,St. Charles,incorporated,25,A,33081,"St. Charles, IL",0,57,1,0.004,St. Charles city
+IL,1723256,Elk Grove Village,incorporated,47,A,32812,"Elk Grove Village, IL",0,58,1,0.004,Elk Grove Village village
+IL,1755249,O'Fallon,incorporated,25,A,32289,"O'Fallon, IL",0,59,1,0.004,O'Fallon city
+IL,1758447,Pekin,incorporated,25,A,31731,"Pekin, IL",0,60,1,0.004,Pekin city
+IL,1751349,Mundelein,incorporated,47,A,31560,"Mundelein, IL",0,61,1,0.004,Mundelein village
+IL,1753000,Niles,incorporated,47,A,30912,"Niles, IL",0,62,0,0,Niles village
+IL,1753559,North Chicago,incorporated,25,A,30759,"North Chicago, IL",0,63,0,0,North Chicago city
+IL,1732018,Gurnee,incorporated,47,A,30706,"Gurnee, IL",0,64,0,0,Gurnee village
+IL,1734722,Highland Park,incorporated,25,A,30176,"Highland Park, IL",0,65,0,0,Highland Park city
+IL,1728326,Galesburg,incorporated,25,A,30052,"Galesburg, IL",0,66,0,0,Galesburg city
+IL,1700685,Algonquin,incorporated,47,A,29700,"Algonquin, IL",0,67,0,0,Algonquin village
+IL,1709642,Burbank,incorporated,25,A,29439,"Burbank, IL",0,68,0,0,Burbank city
+IL,1718563,Danville,incorporated,25,A,29204,"Danville, IL",0,69,0,0,Danville city
+IL,1742028,Lansing,incorporated,47,A,29076,"Lansing, IL",0,70,0,0,Lansing village
+IL,1741183,Lake in the Hills,incorporated,47,A,28982,"Lake in the Hills, IL",0,71,0,0,Lake in the Hills village
+IL,1729756,Glen Ellyn,incorporated,47,A,28846,"Glen Ellyn, IL",0,72,0,0,Glen Ellyn village
+IL,1782075,Wilmette,incorporated,47,A,28170,"Wilmette, IL",0,73,0,0,Wilmette village
+IL,1736750,Huntley,incorporated,47,A,27740,"Huntley, IL",0,74,0,0,Huntley village
+IL,1730926,Granite City,incorporated,25,A,27549,"Granite City, IL",0,75,0,0,Granite City city
+IL,1714026,Chicago Heights,incorporated,25,A,27480,"Chicago Heights, IL",0,76,0,0,Chicago Heights city
+IL,1754638,Oak Forest,incorporated,25,A,27478,"Oak Forest, IL",0,77,0,0,Oak Forest city
+IL,1766040,Round Lake Beach,incorporated,47,A,27252,"Round Lake Beach, IL",0,78,0,0,Round Lake Beach village
+IL,1752584,New Lenox,incorporated,47,A,27214,"New Lenox, IL",0,79,0,0,New Lenox village
+IL,1745694,McHenry,incorporated,25,A,27135,"McHenry, IL",0,80,0,0,McHenry city
+IL,1777694,Vernon Hills,incorporated,47,A,26850,"Vernon Hills, IL",0,81,0,0,Vernon Hills village
+IL,1722697,Edwardsville,incorporated,25,A,26808,"Edwardsville, IL",0,82,0,0,Edwardsville city
+IL,1704078,Batavia,incorporated,25,A,26098,"Batavia, IL",0,83,0,0,Batavia city
+IL,1744225,Lockport,incorporated,25,A,26094,"Lockport, IL",0,84,0,0,Lockport city
+IL,1701114,Alton,incorporated,25,A,25676,"Alton, IL",0,85,0,0,Alton city
+IL,1783349,Woodstock,incorporated,25,A,25630,"Woodstock, IL",0,86,0,0,Woodstock city
+IL,1780060,West Chicago,incorporated,25,A,25614,"West Chicago, IL",0,87,0,0,West Chicago city
+IL,1705092,Belvidere,incorporated,25,A,25339,"Belvidere, IL",0,88,0,0,Belvidere city
+IL,1750647,Morton Grove,incorporated,47,A,25297,"Morton Grove, IL",0,89,0,0,Morton Grove village
+IL,1748242,Melrose Park,incorporated,47,A,24796,"Melrose Park, IL",0,90,0,0,Melrose Park village
+IL,1784220,Zion,incorporated,25,A,24655,"Zion, IL",0,91,0,0,Zion city
+IL,1735835,Homer Glen,incorporated,47,A,24543,"Homer Glen, IL",0,92,0,0,Homer Glen village
+IL,1723724,Elmwood Park,incorporated,47,A,24521,"Elmwood Park, IL",0,93,0,0,Elmwood Park village
+IL,1780645,Westmont,incorporated,47,A,24429,"Westmont, IL",0,94,0,0,Westmont village
+IL,1715599,Collinsville,incorporated,25,A,24366,"Collinsville, IL",0,95,0,0,Collinsville city
+IL,1743939,Lisle,incorporated,47,A,24223,"Lisle, IL",0,96,0,0,Lisle village
+IL,1765338,Rolling Meadows,incorporated,25,A,24200,"Rolling Meadows, IL",0,97,0,0,Rolling Meadows city
+IL,1738934,Kankakee,incorporated,25,A,24052,"Kankakee, IL",0,98,0,0,Kankakee city
+IL,1727884,Freeport,incorporated,25,A,23973,"Freeport, IL",0,99,0,0,Freeport city
+IL,1770720,South Elgin,incorporated,47,A,23865,"South Elgin, IL",0,100,0,0,South Elgin village
+IL,1747774,Maywood,incorporated,47,A,23512,"Maywood, IL",0,101,0,0,Maywood village
+IL,1745031,Loves Park,incorporated,25,A,23397,"Loves Park, IL",0,102,0,0,Loves Park city
+IL,1745726,Machesney Park,incorporated,47,A,22950,"Machesney Park, IL",0,103,0,0,Machesney Park village
+IL,1765806,Roselle,incorporated,47,A,22897,"Roselle, IL",0,104,0,0,Roselle village
+IL,1706704,Blue Island,incorporated,25,A,22558,"Blue Island, IL",0,105,0,0,Blue Island city
+IL,1722164,East Peoria,incorporated,25,A,22484,"East Peoria, IL",0,106,0,0,East Peoria city
+IL,1706587,Bloomingdale,incorporated,47,A,22382,"Bloomingdale, IL",0,107,0,0,Bloomingdale village
+IL,1777993,Villa Park,incorporated,47,A,22263,"Villa Park, IL",0,108,0,0,Villa Park village
+IL,1718628,Darien,incorporated,25,A,22011,"Darien, IL",0,109,0,0,Darien city
+IL,1711163,Carbondale,incorporated,25,A,21857,"Carbondale, IL",0,110,0,0,Carbondale city
+IL,1757732,Park Forest,incorporated,47,A,21687,"Park Forest, IL",0,111,0,0,Park Forest village
+IL,1784038,Yorkville,incorporated,25,A,21533,"Yorkville, IL",0,112,0,0,Yorkville city
+IL,1770850,South Holland,incorporated,47,A,21465,"South Holland, IL",0,113,0,0,South Holland village
+IL,1720292,Dolton,incorporated,47,A,21426,"Dolton, IL",0,114,0,0,Dolton village
+IL,1728872,Geneva,incorporated,25,A,21393,"Geneva, IL",0,115,0,0,Geneva city
+IL,1722073,East Moline,incorporated,25,A,21374,"East Moline, IL",0,116,0,0,East Moline city
+IL,1731121,Grayslake,incorporated,47,A,21248,"Grayslake, IL",0,117,0,0,Grayslake village
+IL,1743250,Libertyville,incorporated,47,A,20579,"Libertyville, IL",0,118,0,0,Libertyville village
+IL,1717458,Crest Hill,incorporated,25,A,20459,"Crest Hill, IL",0,119,0,0,Crest Hill city
+IL,1733383,Harvey,incorporated,25,A,20324,"Harvey, IL",0,120,0,0,Harvey city
+IL,1727624,Frankfort,incorporated,47,A,20296,"Frankfort, IL",0,121,0,0,Frankfort village
+IL,1750218,Montgomery,incorporated,47,A,20262,"Montgomery, IL",0,122,0,0,Montgomery village
+IL,1724634,Evergreen Park,incorporated,47,A,19943,"Evergreen Park, IL",0,123,0,0,Evergreen Park village
+IL,1749854,Mokena,incorporated,47,A,19887,"Mokena, IL",0,124,0,0,Mokena village
+IL,1741742,Lake Zurich,incorporated,47,A,19759,"Lake Zurich, IL",0,125,0,0,Lake Zurich village
+IL,1708576,Brookfield,incorporated,47,A,19476,"Brookfield, IL",0,126,0,0,Brookfield village
+IL,1735879,Homewood,incorporated,47,A,19463,"Homewood, IL",0,127,0,0,Homewood village
+IL,1741105,Lake Forest,incorporated,25,A,19367,"Lake Forest, IL",0,128,0,0,Lake Forest city
+IL,1718992,Deerfield,incorporated,47,A,19196,"Deerfield, IL",0,129,0,0,Deerfield village
+IL,1747540,Matteson,incorporated,47,A,19073,"Matteson, IL",0,130,0,0,Matteson village
+IL,1701010,Alsip,incorporated,47,A,19063,"Alsip, IL",0,131,0,0,Alsip village
+IL,1756926,Ottawa,incorporated,25,A,18840,"Ottawa, IL",0,132,0,0,Ottawa city
+IL,1705248,Bensenville,incorporated,47,A,18813,"Bensenville, IL",0,133,0,0,Bensenville village
+IL,1704975,Bellwood,incorporated,47,A,18789,"Bellwood, IL",0,134,0,0,Bellwood village
+IL,1766027,Round Lake,incorporated,47,A,18721,"Round Lake, IL",0,135,0,0,Round Lake village
+IL,1774223,Sycamore,incorporated,25,A,18577,"Sycamore, IL",0,136,0,0,Sycamore city
+IL,1757394,Palos Hills,incorporated,25,A,18530,"Palos Hills, IL",0,137,0,0,Palos Hills city
+IL,1722255,East St. Louis,incorporated,25,A,18469,"East St. Louis, IL",0,138,0,0,East St. Louis city
+IL,1727702,Franklin Park,incorporated,47,A,18467,"Franklin Park, IL",0,139,0,0,Franklin Park village
+IL,1753442,North Aurora,incorporated,47,A,18261,"North Aurora, IL",0,140,0,0,North Aurora village
+IL,1769758,Shorewood,incorporated,47,A,18186,"Shorewood, IL",0,141,0,0,Shorewood village
+IL,1707471,Bourbonnais,incorporated,47,A,18164,"Bourbonnais, IL",0,142,0,0,Bourbonnais village
+IL,1711592,Cary,incorporated,47,A,17826,"Cary, IL",0,143,0,0,Cary village
+IL,1730094,Godfrey,incorporated,47,A,17825,"Godfrey, IL",0,144,0,0,Godfrey village
+IL,1742795,Lemont,incorporated,47,A,17629,"Lemont, IL",0,145,0,0,Lemont village
+IL,1738115,Jacksonville,incorporated,25,A,17616,"Jacksonville, IL",0,146,0,0,Jacksonville city
+IL,1735307,Hinsdale,incorporated,47,A,17395,"Hinsdale, IL",0,147,0,0,Hinsdale village
+IL,1712567,Charleston,incorporated,25,A,17286,"Charleston, IL",0,148,0,0,Charleston city
+IL,1750621,Morton,incorporated,47,A,17117,"Morton, IL",0,149,0,0,Morton village
+IL,1708225,Bridgeview,incorporated,47,A,17027,"Bridgeview, IL",0,150,0,0,Bridgeview village
+IL,1780047,Westchester,incorporated,47,A,16892,"Westchester, IL",0,151,0,0,Westchester village
+IL,1747553,Mattoon,incorporated,25,A,16870,"Mattoon, IL",0,152,0,0,Mattoon city
+IL,1746916,Marion,incorporated,25,A,16855,"Marion, IL",0,153,0,0,Marion city
+IL,1716691,Country Club Hills,incorporated,25,A,16775,"Country Club Hills, IL",0,154,0,0,Country Club Hills city
+IL,1725141,Fairview Heights,incorporated,25,A,16706,"Fairview Heights, IL",0,155,0,0,Fairview Heights city
+IL,1740767,La Grange,incorporated,47,A,16321,"La Grange, IL",0,156,0,0,La Grange village
+IL,1779033,Washington,incorporated,25,A,16071,"Washington, IL",0,157,0,0,Washington city
+IL,1762016,Prospect Heights,incorporated,25,A,16058,"Prospect Heights, IL",0,158,0,0,Prospect Heights city
+IL,1707744,Bradley,incorporated,47,A,15419,"Bradley, IL",0,159,0,0,Bradley village
+IL,1720162,Dixon,incorporated,25,A,15274,"Dixon, IL",0,160,0,0,Dixon city
+IL,1753377,Norridge,incorporated,47,A,15251,"Norridge, IL",0,161,0,0,Norridge village
+IL,1745889,Macomb,incorporated,25,A,15051,"Macomb, IL",0,162,0,0,Macomb city
+IL,1772546,Sterling,incorporated,25,A,14764,"Sterling, IL",0,163,0,0,Sterling city
+IL,1701595,Antioch,incorporated,47,A,14622,"Antioch, IL",0,164,0,0,Antioch village
+IL,1751180,Mount Vernon,incorporated,25,A,14600,"Mount Vernon, IL",0,165,0,0,Mount Vernon city
+IL,1734514,Hickory Hills,incorporated,25,A,14505,"Hickory Hills, IL",0,166,0,0,Hickory Hills city
+IL,1714065,Chicago Ridge,incorporated,47,A,14433,"Chicago Ridge, IL",0,167,0,0,Chicago Ridge village
+IL,1743770,Lindenhurst,incorporated,47,A,14406,"Lindenhurst, IL",0,168,0,0,Lindenhurst village
+IL,1774119,Swansea,incorporated,47,A,14386,"Swansea, IL",0,169,0,0,Swansea village
+IL,1712684,Chatham,incorporated,47,A,14377,"Chatham, IL",0,170,0,0,Chatham village
+IL,1726935,Forest Park,incorporated,47,A,14339,"Forest Park, IL",0,171,0,0,Forest Park village
+IL,1748892,Midlothian,incorporated,47,A,14325,"Midlothian, IL",0,172,0,0,Midlothian village
+IL,1704303,Beach Park,incorporated,47,A,14249,"Beach Park, IL",0,173,0,0,Beach Park village
+IL,1750491,Morris,incorporated,25,A,14163,"Morris, IL",0,174,0,0,Morris city
+IL,1769524,Shiloh,incorporated,47,A,14098,"Shiloh, IL",0,175,0,0,Shiloh village
+IL,1779267,Wauconda,incorporated,47,A,14084,"Wauconda, IL",0,176,0,0,Wauconda village
+IL,1782985,Wood Dale,incorporated,25,A,14012,"Wood Dale, IL",0,177,0,0,Wood Dale city
+IL,1729639,Glen Carbon,incorporated,47,A,13842,"Glen Carbon, IL",0,178,0,0,Glen Carbon village
+IL,1780242,Western Springs,incorporated,47,A,13629,"Western Springs, IL",0,179,0,0,Western Springs village
+IL,1778929,Warrenville,incorporated,25,A,13553,"Warrenville, IL",0,180,0,0,Warrenville city
+IL,1740793,La Grange Park,incorporated,47,A,13475,"La Grange Park, IL",0,181,0,0,La Grange Park village
+IL,1743744,Lincolnwood,incorporated,47,A,13463,"Lincolnwood, IL",0,182,0,0,Lincolnwood village
+IL,1712476,Channahon,incorporated,47,A,13383,"Channahon, IL",0,183,0,0,Channahon village
+IL,1733695,Hazel Crest,incorporated,47,A,13382,"Hazel Crest, IL",0,184,0,0,Hazel Crest village
+IL,1743536,Lincoln,incorporated,25,A,13288,"Lincoln, IL",0,185,0,0,Lincoln city
+IL,1711007,Canton,incorporated,25,A,13242,"Canton, IL",0,186,0,0,Canton city
+IL,1753871,Northlake,incorporated,25,A,12840,"Northlake, IL",0,187,0,0,Northlake city
+IL,1763706,Richton Park,incorporated,47,A,12775,"Richton Park, IL",0,188,0,0,Richton Park village
+IL,1749607,Minooka,incorporated,47,A,12758,"Minooka, IL",0,189,0,0,Minooka village
+IL,1782530,Winnetka,incorporated,47,A,12744,"Winnetka, IL",0,190,0,0,Winnetka village
+IL,1738830,Justice,incorporated,47,A,12600,"Justice, IL",0,191,0,0,Justice village
+IL,1739727,Kewanee,incorporated,25,A,12509,"Kewanee, IL",0,192,0,0,Kewanee city
+IL,1773170,Streator,incorporated,25,A,12500,"Streator, IL",0,193,0,0,Streator city
+IL,1762783,Rantoul,incorporated,47,A,12371,"Rantoul, IL",0,194,0,0,Rantoul village
+IL,1734358,Herrin,incorporated,25,A,12352,"Herrin, IL",0,195,0,0,Herrin city
+IL,1722736,Effingham,incorporated,25,A,12252,"Effingham, IL",0,196,0,0,Effingham city
+IL,1712164,Centralia,incorporated,25,A,12182,"Centralia, IL",0,197,0,0,Centralia city
+IL,1757381,Palos Heights,incorporated,25,A,12068,"Palos Heights, IL",0,198,0,0,Palos Heights city
+IL,1760352,Plano,incorporated,25,A,11847,"Plano, IL",0,199,0,0,Plano city
+IL,1764304,River Forest,incorporated,47,A,11717,"River Forest, IL",0,200,0,0,River Forest village
+IL,1768081,Schiller Park,incorporated,47,A,11709,"Schiller Park, IL",0,201,0,0,Schiller Park village
+IL,1747007,Markham,incorporated,25,A,11661,"Markham, IL",0,202,0,0,Markham city
+IL,1709980,Burr Ridge,incorporated,47,A,11192,"Burr Ridge, IL",0,203,0,0,Burr Ridge village
+IL,1773638,Summit,incorporated,47,A,11161,"Summit, IL",0,204,0,0,Summit village
+IL,1761015,Pontiac,incorporated,25,A,11150,"Pontiac, IL",0,205,0,0,Pontiac city
+IL,1779150,Waterloo,incorporated,25,A,11013,"Waterloo, IL",0,206,0,0,Waterloo city
+IL,1715833,Columbia,incorporated,25,A,10999,"Columbia, IL",0,207,0,0,Columbia city
+IL,1765611,Roscoe,incorporated,47,A,10983,"Roscoe, IL",0,208,0,0,Roscoe village
+IL,1727442,Fox Lake,incorporated,47,A,10978,"Fox Lake, IL",0,209,0,0,Fox Lake village
+IL,1783518,Worth,incorporated,47,A,10970,"Worth, IL",0,210,0,0,Worth village
+IL,1776199,Troy,incorporated,25,A,10960,"Troy, IL",0,211,0,0,Troy city
+IL,1710906,Campton Hills,incorporated,47,A,10885,"Campton Hills, IL",0,212,0,0,Campton Hills village
+IL,1717497,Crestwood,incorporated,47,A,10826,"Crestwood, IL",0,213,0,0,Crestwood village
+IL,1745434,Lyons,incorporated,47,A,10817,"Lyons, IL",0,214,0,0,Lyons village
+IL,1703844,Barrington,incorporated,47,A,10722,"Barrington, IL",0,215,0,0,Barrington village
+IL,1764278,Riverdale,incorporated,47,A,10663,"Riverdale, IL",0,216,0,0,Riverdale village
+IL,1764343,River Grove,incorporated,47,A,10612,"River Grove, IL",0,217,0,0,River Grove village
+IL,1774574,Taylorville,incorporated,25,A,10506,"Taylorville, IL",0,218,0,0,Taylorville city
+IL,1783271,Wood River,incorporated,25,A,10464,"Wood River, IL",0,219,0,0,Wood River city
+IL,1759988,Pingree Grove,incorporated,47,A,10365,"Pingree Grove, IL",0,220,0,0,Pingree Grove village
+IL,1734670,Highland,incorporated,25,A,9991,"Highland, IL",0,221,0,0,Highland city
+IL,1767769,Sauk Village,incorporated,47,A,9921,"Sauk Village, IL",0,222,0,0,Sauk Village village
+IL,1759234,Peru,incorporated,25,A,9896,"Peru, IL",0,223,0,0,Peru city
+IL,1782400,Winfield,incorporated,47,A,9835,"Winfield, IL",0,224,0,0,Winfield village
+IL,1726571,Flossmoor,incorporated,47,A,9704,"Flossmoor, IL",0,225,0,0,Flossmoor village
+IL,1772520,Steger,incorporated,47,A,9584,"Steger, IL",0,226,0,0,Steger village
+IL,1742184,LaSalle,incorporated,25,A,9582,"LaSalle, IL",0,227,0,0,LaSalle city
+IL,1737907,Itasca,incorporated,47,A,9543,"Itasca, IL",0,228,0,0,Itasca village
+IL,1733331,Harvard,incorporated,25,A,9469,"Harvard, IL",0,229,0,0,Harvard city
+IL,1764746,Rochelle,incorporated,25,A,9446,"Rochelle, IL",0,230,0,0,Rochelle city
+IL,1746136,Mahomet,incorporated,47,A,9434,"Mahomet, IL",0,231,0,0,Mahomet village
+IL,1746357,Manhattan,incorporated,47,A,9385,"Manhattan, IL",0,232,0,0,Manhattan village
+IL,1705599,Bethalto,incorporated,47,A,9310,"Bethalto, IL",0,233,0,0,Bethalto village
+IL,1764421,Riverside,incorporated,47,A,9298,"Riverside, IL",0,234,0,0,Riverside village
+IL,1773391,Sugar Grove,incorporated,47,A,9278,"Sugar Grove, IL",0,235,0,0,Sugar Grove village
+IL,1781919,Willowbrook,incorporated,47,A,9236,"Willowbrook, IL",0,236,0,0,Willowbrook village
+IL,1746500,Manteno,incorporated,47,A,9210,"Manteno, IL",0,237,0,0,Manteno village
+IL,1745421,Lynwood,incorporated,47,A,9116,"Lynwood, IL",0,238,0,0,Lynwood village
+IL,1733435,Harwood Heights,incorporated,47,A,9065,"Harwood Heights, IL",0,239,0,0,Harwood Heights village
+IL,1733630,Hawthorn Woods,incorporated,47,A,9062,"Hawthorn Woods, IL",0,240,0,0,Hawthorn Woods village
+IL,1750010,Monmouth,incorporated,25,A,8902,"Monmouth, IL",0,241,0,0,Monmouth city
+IL,1767860,Savoy,incorporated,47,A,8857,"Savoy, IL",0,242,0,0,Savoy village
+IL,1729652,Glencoe,incorporated,47,A,8849,"Glencoe, IL",0,243,0,0,Glencoe village
+IL,1764928,Rock Falls,incorporated,25,A,8789,"Rock Falls, IL",0,244,0,0,Rock Falls city
+IL,1747423,Mascoutah,incorporated,25,A,8754,"Mascoutah, IL",0,245,0,0,Mascoutah city
+IL,1741586,Lake Villa,incorporated,47,A,8741,"Lake Villa, IL",0,246,0,0,Lake Villa village
+IL,1714572,Clarendon Hills,incorporated,47,A,8702,"Clarendon Hills, IL",0,247,0,0,Clarendon Hills village
+IL,1755912,Olney,incorporated,25,A,8701,"Olney, IL",0,248,0,0,Olney city
+IL,1730029,Glenwood,incorporated,47,A,8662,"Glenwood, IL",0,249,0,0,Glenwood village
+IL,1717523,Crete,incorporated,47,A,8465,"Crete, IL",0,250,0,0,Crete village
+IL,1729171,Gilberts,incorporated,47,A,8366,"Gilberts, IL",0,251,0,0,Gilberts village
+IL,1744524,Long Grove,incorporated,47,A,8366,"Long Grove, IL",0,252,0,0,Long Grove village
+IL,1738414,Jerseyville,incorporated,25,A,8337,"Jerseyville, IL",0,253,0,0,Jerseyville city
+IL,1735086,Hillside,incorporated,47,A,8320,"Hillside, IL",0,254,0,0,Hillside village
+IL,1757628,Paris,incorporated,25,A,8291,"Paris, IL",0,255,0,0,Paris city
+IL,1747397,Maryville,incorporated,47,A,8221,"Maryville, IL",0,256,0,0,Maryville village
+IL,1733136,Harrisburg,incorporated,25,A,8219,"Harrisburg, IL",0,257,0,0,Harrisburg city
+IL,1754534,Oak Brook,incorporated,47,A,8163,"Oak Brook, IL",0,258,0,0,Oak Brook village
+IL,1737894,Island Lake,incorporated,47,A,8051,"Island Lake, IL",0,259,0,0,Island Lake village
+IL,1769979,Silvis,incorporated,25,A,8003,"Silvis, IL",0,260,0,0,Silvis city
+IL,1708446,Broadview,incorporated,47,A,7998,"Broadview, IL",0,261,0,0,Broadview village
+IL,1770590,South Beloit,incorporated,25,A,7989,"South Beloit, IL",0,262,0,0,South Beloit city
+IL,1743666,Lincolnshire,incorporated,47,A,7940,"Lincolnshire, IL",0,263,0,0,Lincolnshire village
+IL,1757654,Park City,incorporated,25,A,7885,"Park City, IL",0,264,0,0,Park City city
+IL,1765156,Rockton,incorporated,47,A,7863,"Rockton, IL",0,265,0,0,Rockton village
+IL,1761899,Princeton,incorporated,25,A,7832,"Princeton, IL",0,266,0,0,Princeton city
+IL,1780125,West Dundee,incorporated,47,A,7686,"West Dundee, IL",0,267,0,0,West Dundee village
+IL,1766066,Round Lake Park,incorporated,47,A,7680,"Round Lake Park, IL",0,268,0,0,Round Lake Park village
+IL,1732525,Hampshire,incorporated,47,A,7667,"Hampshire, IL",0,269,0,0,Hampshire village
+IL,1737608,Inverness,incorporated,47,A,7616,"Inverness, IL",0,270,0,0,Inverness village
+IL,1746786,Marengo,incorporated,25,A,7568,"Marengo, IL",0,271,0,0,Marengo city
+IL,1777317,Vandalia,incorporated,25,A,7458,"Vandalia, IL",0,272,0,0,Vandalia city
+IL,1754144,North Riverside,incorporated,47,A,7426,"North Riverside, IL",0,273,0,0,North Riverside village
+IL,1767236,Salem,incorporated,25,A,7282,"Salem, IL",0,274,0,0,Salem city
+IL,1780333,West Frankfort,incorporated,25,A,7275,"West Frankfort, IL",0,275,0,0,West Frankfort city
+IL,1767548,Sandwich,incorporated,25,A,7221,"Sandwich, IL",0,276,0,0,Sandwich city
+IL,1764707,Robinson,incorporated,25,A,7150,"Robinson, IL",0,277,0,0,Robinson city
+IL,1776935,University Park,incorporated,47,A,7145,"University Park, IL",0,278,0,0,University Park village
+IL,1772676,Stickney,incorporated,47,A,7110,"Stickney, IL",0,279,0,0,Stickney village
+IL,1751453,Murphysboro,incorporated,25,A,7093,"Murphysboro, IL",0,280,0,0,Murphysboro city
+IL,1731589,Greenville,incorporated,25,A,7083,"Greenville, IL",0,281,0,0,Greenville city
+IL,1748333,Mendota,incorporated,25,A,7061,"Mendota, IL",0,282,0,0,Mendota city
+IL,1710513,Calumet Park,incorporated,47,A,7025,"Calumet Park, IL",0,283,0,0,Calumet Park village
+IL,1750868,Mount Carmel,incorporated,25,A,7015,"Mount Carmel, IL",0,284,0,0,Mount Carmel city
+IL,1715001,Clinton,incorporated,25,A,7004,"Clinton, IL",0,285,0,0,Clinton city
+IL,1756627,Orland Hills,incorporated,47,A,6893,"Orland Hills, IL",0,286,0,0,Orland Hills village
+IL,1713139,Chester,incorporated,25,A,6814,"Chester, IL",0,287,0,0,Chester city
+IL,1705300,Benton,incorporated,25,A,6709,"Benton, IL",0,288,0,0,Benton city
+IL,1782686,Winthrop Harbor,incorporated,47,A,6705,"Winthrop Harbor, IL",0,289,0,0,Winthrop Harbor village
+IL,1743965,Litchfield,incorporated,25,A,6605,"Litchfield, IL",0,290,0,0,Litchfield city
+IL,1728846,Geneseo,incorporated,25,A,6539,"Geneseo, IL",0,291,0,0,Geneseo city
+IL,1716873,Countryside,incorporated,25,A,6420,"Countryside, IL",0,292,0,0,Countryside city
+IL,1738479,Johnsburg,incorporated,47,A,6355,"Johnsburg, IL",0,293,0,0,Johnsburg village
+IL,1707770,Braidwood,incorporated,25,A,6194,"Braidwood, IL",0,294,0,0,Braidwood city
+IL,1741326,Lakemoor,incorporated,47,A,6182,"Lakemoor, IL",0,295,0,0,Lakemoor village
+IL,1722931,Elburn,incorporated,47,A,6175,"Elburn, IL",0,296,0,0,Elburn village
+IL,1714117,Chillicothe,incorporated,25,A,6128,"Chillicothe, IL",0,297,0,0,Chillicothe city
+IL,1778227,Volo,incorporated,47,A,6122,"Volo, IL",0,298,0,0,Volo village
+IL,1751206,Mount Zion,incorporated,47,A,6019,"Mount Zion, IL",0,299,0,0,Mount Zion village
+IL,1748645,Metropolis,incorporated,25,A,5969,"Metropolis, IL",0,300,0,0,Metropolis city
+IL,1704351,Beardstown,incorporated,25,A,5951,"Beardstown, IL",0,301,0,0,Beardstown city
+IL,1704039,Bartonville,incorporated,47,A,5945,"Bartonville, IL",0,302,0,0,Bartonville village
+IL,1750244,Monticello,incorporated,25,A,5941,"Monticello, IL",0,303,0,0,Monticello city
+IL,1759026,Peoria Heights,incorporated,47,A,5908,"Peoria Heights, IL",0,304,0,0,Peoria Heights village
+IL,1735047,Hillsboro,incorporated,25,A,5902,"Hillsboro, IL",0,305,0,0,Hillsboro city
+IL,1761067,Pontoon Beach,incorporated,47,A,5876,"Pontoon Beach, IL",0,306,0,0,Pontoon Beach village
+IL,1782049,Willow Springs,incorporated,47,A,5857,"Willow Springs, IL",0,307,0,0,Willow Springs village
+IL,1711514,Carterville,incorporated,25,A,5848,"Carterville, IL",0,308,0,0,Carterville city
+IL,1721267,Du Quoin,incorporated,25,A,5827,"Du Quoin, IL",0,309,0,0,Du Quoin city
+IL,1721553,East Alton,incorporated,47,A,5786,"East Alton, IL",0,310,0,0,East Alton village
+IL,1753663,Northfield,incorporated,47,A,5751,"Northfield, IL",0,311,0,0,Northfield village
+IL,1711202,Carlinville,incorporated,25,A,5710,"Carlinville, IL",0,312,0,0,Carlinville city
+IL,1715170,Coal City,incorporated,47,A,5705,"Coal City, IL",0,313,0,0,Coal City village
+IL,1782101,Wilmington,incorporated,25,A,5664,"Wilmington, IL",0,314,0,0,Wilmington city
+IL,1761314,Posen,incorporated,47,A,5632,"Posen, IL",0,315,0,0,Posen village
+IL,1740910,Lake Bluff,incorporated,47,A,5616,"Lake Bluff, IL",0,316,0,0,Lake Bluff village
+IL,1772156,Spring Valley,incorporated,25,A,5582,"Spring Valley, IL",0,317,0,0,Spring Valley city
+IL,1772052,Spring Grove,incorporated,47,A,5487,"Spring Grove, IL",0,318,0,0,Spring Grove village
+IL,1705404,Berkeley,incorporated,47,A,5338,"Berkeley, IL",0,319,0,0,Berkeley village
+IL,1728898,Genoa,incorporated,25,A,5298,"Genoa, IL",0,320,0,0,Genoa city
+IL,1724543,Eureka,incorporated,25,A,5227,"Eureka, IL",0,321,0,0,Eureka city
+IL,1757472,Pana,incorporated,25,A,5199,"Pana, IL",0,322,0,0,Pana city
+IL,1749945,Monee,incorporated,47,A,5128,"Monee, IL",0,323,0,0,Monee village
+IL,1740884,Lake Barrington,incorporated,47,A,5100,"Lake Barrington, IL",0,324,0,0,Lake Barrington village
+IL,1749009,Milan,incorporated,47,A,5097,"Milan, IL",0,325,0,0,Milan village
+IL,1770564,South Barrington,incorporated,47,A,5077,"South Barrington, IL",0,326,0,0,South Barrington village
+IL,1734865,Highwood,incorporated,25,A,5074,"Highwood, IL",0,327,0,0,Highwood city
+IL,1759884,Pinckneyville,incorporated,25,A,5066,"Pinckneyville, IL",0,328,0,0,Pinckneyville city
+IL,1772403,Staunton,incorporated,25,A,5054,"Staunton, IL",0,329,0,0,Staunton city
+IL,1761145,Poplar Grove,incorporated,47,A,5049,"Poplar Grove, IL",0,330,0,0,Poplar Grove village
+IL,1715664,Colona,incorporated,25,A,5045,"Colona, IL",0,331,0,0,Colona city
+IL,1717549,Creve Coeur,incorporated,47,A,4934,"Creve Coeur, IL",0,332,0,0,Creve Coeur village
+IL,1736061,Hoopeston,incorporated,25,A,4915,"Hoopeston, IL",0,333,0,0,Hoopeston city
+IL,1757407,Palos Park,incorporated,47,A,4899,"Palos Park, IL",0,334,0,0,Palos Park village
+IL,1724816,Fairfield,incorporated,25,A,4883,"Fairfield, IL",0,335,0,0,Fairfield city
+IL,1711293,Carmi,incorporated,25,A,4865,"Carmi, IL",0,336,0,0,Carmi city
+IL,1747150,Marseilles,incorporated,25,A,4845,"Marseilles, IL",0,337,0,0,Marseilles city
+IL,1726454,Flora,incorporated,25,A,4803,"Flora, IL",0,338,0,0,Flora city
+IL,1755938,Olympia Fields,incorporated,47,A,4718,"Olympia Fields, IL",0,339,0,0,Olympia Fields village
+IL,1704585,Beecher,incorporated,47,A,4713,"Beecher, IL",0,340,0,0,Beecher village
+IL,1727533,Fox River Grove,incorporated,47,A,4702,"Fox River Grove, IL",0,341,0,0,Fox River Grove village
+IL,1742496,Lebanon,incorporated,25,A,4691,"Lebanon, IL",0,342,0,0,Lebanon city
+IL,1779228,Watseka,incorporated,25,A,4679,"Watseka, IL",0,343,0,0,Watseka city
+IL,1769186,Shelbyville,incorporated,25,A,4674,"Shelbyville, IL",0,344,0,0,Shelbyville city
+IL,1769342,Sherman,incorporated,47,A,4673,"Sherman, IL",0,345,0,0,Sherman village
+IL,1707913,Breese,incorporated,25,A,4641,"Breese, IL",0,346,0,0,Breese city
+IL,1776407,Tuscola,incorporated,25,A,4636,"Tuscola, IL",0,347,0,0,Tuscola city
+IL,1764616,Robbins,incorporated,47,A,4629,"Robbins, IL",0,348,0,0,Robbins village
+IL,1727806,Freeburg,incorporated,47,A,4582,"Freeburg, IL",0,349,0,0,Freeburg village
+IL,1772923,Stone Park,incorporated,47,A,4576,"Stone Park, IL",0,350,0,0,Stone Park village
+IL,1702921,Auburn,incorporated,25,A,4574,"Auburn, IL",0,351,0,0,Auburn city
+IL,1758239,Paxton,incorporated,25,A,4450,"Paxton, IL",0,352,0,0,Paxton city
+IL,1773495,Sullivan,incorporated,25,A,4413,"Sullivan, IL",0,353,0,0,Sullivan city
+IL,1711644,Caseyville,incorporated,47,A,4400,"Caseyville, IL",0,354,0,0,Caseyville village
+IL,1716470,Cortland,incorporated,43,A,4398,"Cortland, IL",0,355,0,0,Cortland town
+IL,1735866,Hometown,incorporated,25,A,4343,"Hometown, IL",0,356,0,0,Hometown city
+IL,1701543,Anna,incorporated,25,A,4303,"Anna, IL",0,357,0,0,Anna city
+IL,1741651,Lakewood,incorporated,47,A,4283,"Lakewood, IL",0,358,0,0,Lakewood village
+IL,1780736,West Peoria,incorporated,25,A,4263,"West Peoria, IL",0,359,0,0,West Peoria city
+IL,1760222,Pittsfield,incorporated,25,A,4206,"Pittsfield, IL",0,360,0,0,Pittsfield city
+IL,1742405,Lawrenceville,incorporated,25,A,4164,"Lawrenceville, IL",0,361,0,0,Lawrenceville city
+IL,1759052,Peotone,incorporated,47,A,4150,"Peotone, IL",0,362,0,0,Peotone village
+IL,1731446,Green Oaks,incorporated,47,A,4128,"Green Oaks, IL",0,363,0,0,Green Oaks village
+IL,1703883,Barrington Hills,incorporated,47,A,4114,"Barrington Hills, IL",0,364,0,0,Barrington Hills village
+IL,1771448,Sparta,incorporated,25,A,4095,"Sparta, IL",0,365,0,0,Sparta city
+IL,1739883,Kildeer,incorporated,47,A,4091,"Kildeer, IL",0,366,0,0,Kildeer village
+IL,1750530,Morrison,incorporated,25,A,4085,"Morrison, IL",0,367,0,0,Morrison city
+IL,1749386,Millstadt,incorporated,47,A,4071,"Millstadt, IL",0,368,0,0,Millstadt village
+IL,1737257,Indian Head Park,incorporated,47,A,4065,"Indian Head Park, IL",0,369,0,0,Indian Head Park village
+IL,1709798,Burnham,incorporated,47,A,4046,"Burnham, IL",0,370,0,0,Burnham village
+IL,1721358,Dwight,incorporated,47,A,4032,"Dwight, IL",0,371,0,0,Dwight village
+IL,1770629,South Chicago Heights,incorporated,47,A,4026,"South Chicago Heights, IL",0,372,0,0,South Chicago Heights village
+IL,1770252,Smithton,incorporated,47,A,4006,"Smithton, IL",0,373,0,0,Smithton village
+IL,1721254,Dupo,incorporated,47,A,3996,"Dupo, IL",0,374,0,0,Dupo village
+IL,1782855,Wonder Lake,incorporated,47,A,3973,"Wonder Lake, IL",0,375,0,0,Wonder Lake village
+IL,1765819,Rosemont,incorporated,47,A,3952,"Rosemont, IL",0,376,0,0,Rosemont village
+IL,1747163,Marshall,incorporated,25,A,3947,"Marshall, IL",0,377,0,0,Marshall city
+IL,1748606,Metamora,incorporated,47,A,3904,"Metamora, IL",0,378,0,0,Metamora village
+IL,1715235,Coal Valley,incorporated,47,A,3873,"Coal Valley, IL",0,379,0,0,Coal Valley village
+IL,1764759,Rochester,incorporated,47,A,3863,"Rochester, IL",0,380,0,0,Rochester village
+IL,1766950,St. Joseph,incorporated,47,A,3810,"St. Joseph, IL",0,381,0,0,St. Joseph village
+IL,1763043,Red Bud,incorporated,25,A,3804,"Red Bud, IL",0,382,0,0,Red Bud city
+IL,1764538,Riverwoods,incorporated,47,A,3790,"Riverwoods, IL",0,383,0,0,Riverwoods village
+IL,1710240,Byron,incorporated,25,A,3784,"Byron, IL",0,384,0,0,Byron city
+IL,1723009,Eldorado,incorporated,25,A,3743,"Eldorado, IL",0,385,0,0,Eldorado city
+IL,1727091,Forsyth,incorporated,47,A,3734,"Forsyth, IL",0,386,0,0,Forsyth village
+IL,1755353,Oglesby,incorporated,25,A,3712,"Oglesby, IL",0,387,0,0,Oglesby city
+IL,1719083,Deer Park,incorporated,47,A,3681,"Deer Park, IL",0,388,0,0,Deer Park village
+IL,1728144,Fulton,incorporated,25,A,3647,"Fulton, IL",0,389,0,0,Fulton city
+IL,1700646,Aledo,incorporated,25,A,3633,"Aledo, IL",0,390,0,0,Aledo city
+IL,1724764,Fairbury,incorporated,25,A,3633,"Fairbury, IL",0,391,0,0,Fairbury city
+IL,1756484,Oregon,incorporated,25,A,3604,"Oregon, IL",0,392,0,0,Oregon city
+IL,1775614,Tolono,incorporated,47,A,3604,"Tolono, IL",0,393,0,0,Tolono village
+IL,1732200,Hainesville,incorporated,47,A,3546,"Hainesville, IL",0,394,0,0,Hainesville village
+IL,1764486,Riverton,incorporated,47,A,3532,"Riverton, IL",0,395,0,0,Riverton village
+IL,1778370,Wadsworth,incorporated,47,A,3517,"Wadsworth, IL",0,396,0,0,Wadsworth village
+IL,1742971,Le Roy,incorporated,25,A,3512,"Le Roy, IL",0,397,0,0,Le Roy city
+IL,1729125,Gibson City,incorporated,25,A,3475,"Gibson City, IL",0,398,0,0,Gibson City city
+IL,1752142,New Baden,incorporated,47,A,3428,"New Baden, IL",0,399,0,0,New Baden village
+IL,1729080,Germantown Hills,incorporated,47,A,3412,"Germantown Hills, IL",0,400,0,0,Germantown Hills village
+IL,1738544,Johnston City,incorporated,25,A,3384,"Johnston City, IL",0,401,0,0,Johnston City city
+IL,1728300,Galena,incorporated,25,A,3308,"Galena, IL",0,402,0,0,Galena city
+IL,1770889,South Jacksonville,incorporated,47,A,3302,"South Jacksonville, IL",0,403,0,0,South Jacksonville village
+IL,1711228,Carlyle,incorporated,25,A,3253,"Carlyle, IL",0,404,0,0,Carlyle city
+IL,1778149,Virden,incorporated,25,A,3231,"Virden, IL",0,405,0,0,Virden city
+IL,1770161,Sleepy Hollow,incorporated,47,A,3214,"Sleepy Hollow, IL",0,406,0,0,Sleepy Hollow village
+IL,1745993,Madison,incorporated,25,A,3171,"Madison, IL",0,407,0,0,Madison city
+IL,1753455,North Barrington,incorporated,47,A,3171,"North Barrington, IL",0,408,0,0,North Barrington village
+IL,1729236,Gillespie,incorporated,25,A,3168,"Gillespie, IL",0,409,0,0,Gillespie city
+IL,1780931,Westville,incorporated,47,A,3167,"Westville, IL",0,410,0,0,Westville village
+IL,1721696,East Dundee,incorporated,47,A,3152,"East Dundee, IL",0,411,0,0,East Dundee village
+IL,1728963,Georgetown,incorporated,25,A,3143,"Georgetown, IL",0,412,0,0,Georgetown city
+IL,1749893,Momence,incorporated,25,A,3117,"Momence, IL",0,413,0,0,Momence city
+IL,1751700,Nashville,incorporated,25,A,3105,"Nashville, IL",0,414,0,0,Nashville city
+IL,1766339,Rushville,incorporated,25,A,3005,"Rushville, IL",0,415,0,0,Rushville city
+IL,1720149,Dixmoor,incorporated,47,A,2973,"Dixmoor, IL",0,416,0,0,Dixmoor village
+IL,1733513,Havana,incorporated,25,A,2963,"Havana, IL",0,417,0,0,Havana city
+IL,1700113,Abingdon,incorporated,25,A,2951,"Abingdon, IL",0,418,0,0,Abingdon city
+IL,1782491,Winnebago,incorporated,47,A,2940,"Winnebago, IL",0,419,0,0,Winnebago village
+IL,1701881,Arcola,incorporated,25,A,2927,"Arcola, IL",0,420,0,0,Arcola city
+IL,1713074,Cherry Valley,incorporated,47,A,2905,"Cherry Valley, IL",0,421,0,0,Cherry Valley village
+IL,1740416,Knoxville,incorporated,25,A,2901,"Knoxville, IL",0,422,0,0,Knoxville city
+IL,1750998,Mount Morris,incorporated,47,A,2861,"Mount Morris, IL",0,423,0,0,Mount Morris village
+IL,1734449,Heyworth,incorporated,47,A,2791,"Heyworth, IL",0,424,0,0,Heyworth village
+IL,1767821,Savanna,incorporated,25,A,2783,"Savanna, IL",0,425,0,0,Savanna city
+IL,1752844,Newton,incorporated,25,A,2777,"Newton, IL",0,426,0,0,Newton city
+IL,1742834,Lena,incorporated,47,A,2772,"Lena, IL",0,427,0,0,Lena village
+IL,1723737,El Paso,incorporated,25,A,2756,"El Paso, IL",0,428,0,0,El Paso city
+IL,1732434,Hamilton,incorporated,25,A,2753,"Hamilton, IL",0,429,0,0,Hamilton city
+IL,1754560,Oakbrook Terrace,incorporated,25,A,2751,"Oakbrook Terrace, IL",0,430,0,0,Oakbrook Terrace city
+IL,1710110,Bushnell,incorporated,25,A,2718,"Bushnell, IL",0,431,0,0,Bushnell city
+IL,1714286,Christopher,incorporated,25,A,2697,"Christopher, IL",0,432,0,0,Christopher city
+IL,1775991,Trenton,incorporated,25,A,2690,"Trenton, IL",0,433,0,0,Trenton city
+IL,1758174,Pawnee,incorporated,47,A,2678,"Pawnee, IL",0,434,0,0,Pawnee village
+IL,1745824,McLeansboro,incorporated,25,A,2675,"McLeansboro, IL",0,435,0,0,McLeansboro city
+IL,1775276,Tilton,incorporated,47,A,2660,"Tilton, IL",0,436,0,0,Tilton village
+IL,1719837,Diamond,incorporated,47,A,2640,"Diamond, IL",0,437,0,0,Diamond village
+IL,1773703,Sumner,incorporated,25,A,2631,"Sumner, IL",0,438,0,0,Sumner city
+IL,1766053,Round Lake Heights,incorporated,47,A,2622,"Round Lake Heights, IL",0,439,0,0,Round Lake Heights village
+IL,1779085,Washington Park,incorporated,47,A,2592,"Washington Park, IL",0,440,0,0,Washington Park village
+IL,1747111,Marquette Heights,incorporated,25,A,2541,"Marquette Heights, IL",0,441,0,0,Marquette Heights city
+IL,1739519,Kenilworth,incorporated,47,A,2514,"Kenilworth, IL",0,442,0,0,Kenilworth village
+IL,1718719,Davis Junction,incorporated,47,A,2512,"Davis Junction, IL",0,443,0,0,Davis Junction village
+IL,1711527,Carthage,incorporated,25,A,2490,"Carthage, IL",0,444,0,0,Carthage city
+IL,1711462,Carrollton,incorporated,25,A,2485,"Carrollton, IL",0,445,0,0,Carrollton city
+IL,1777941,Villa Grove,incorporated,25,A,2472,"Villa Grove, IL",0,446,0,0,Villa Grove city
+IL,1728430,Galva,incorporated,25,A,2470,"Galva, IL",0,447,0,0,Galva city
+IL,1769277,Sheridan,incorporated,47,A,2431,"Sheridan, IL",0,448,0,0,Sheridan village
+IL,1711618,Casey,incorporated,25,A,2404,"Casey, IL",0,449,0,0,Casey city
+IL,1725531,Farmington,incorporated,25,A,2389,"Farmington, IL",0,450,0,0,Farmington city
+IL,1775185,Thornton,incorporated,47,A,2386,"Thornton, IL",0,451,0,0,Thornton village
+IL,1768640,Seneca,incorporated,47,A,2353,"Seneca, IL",0,452,0,0,Seneca village
+IL,1703181,Aviston,incorporated,47,A,2340,"Aviston, IL",0,453,0,0,Aviston village
+IL,1734163,Henry,incorporated,25,A,2320,"Henry, IL",0,454,0,0,Henry city
+IL,1781256,White Hall,incorporated,25,A,2295,"White Hall, IL",0,455,0,0,White Hall city
+IL,1760937,Polo,incorporated,25,A,2291,"Polo, IL",0,456,0,0,Polo city
+IL,1779397,Wayne,incorporated,47,A,2286,"Wayne, IL",0,457,0,0,Wayne village
+IL,1701270,Amboy,incorporated,25,A,2278,"Amboy, IL",0,458,0,0,Amboy city
+IL,1775965,Tremont,incorporated,47,A,2277,"Tremont, IL",0,459,0,0,Tremont village
+IL,1724933,Fairmont City,incorporated,47,A,2265,"Fairmont City, IL",0,460,0,0,Fairmont City village
+IL,1759312,Petersburg,incorporated,25,A,2258,"Petersburg, IL",0,461,0,0,Petersburg city
+IL,1702414,Arthur,incorporated,47,A,2231,"Arthur, IL",0,462,0,0,Arthur village
+IL,1723945,Elwood,incorporated,47,A,2229,"Elwood, IL",0,463,0,0,Elwood village
+IL,1708264,Brighton,incorporated,47,A,2221,"Brighton, IL",0,464,0,0,Brighton village
+IL,1701049,Altamont,incorporated,25,A,2216,"Altamont, IL",0,465,0,0,Altamont city
+IL,1753169,Nokomis,incorporated,25,A,2142,"Nokomis, IL",0,466,0,0,Nokomis city
+IL,1743094,Lexington,incorporated,25,A,2090,"Lexington, IL",0,467,0,0,Lexington city
+IL,1758408,Pecatonica,incorporated,47,A,2090,"Pecatonica, IL",0,468,0,0,Pecatonica village
+IL,1763641,Richmond,incorporated,47,A,2089,"Richmond, IL",0,469,0,0,Richmond village
+IL,1710643,Cambridge,incorporated,47,A,2086,"Cambridge, IL",0,470,0,0,Cambridge village
+IL,1747475,Mason City,incorporated,25,A,2077,"Mason City, IL",0,471,0,0,Mason City city
+IL,1755041,Oakwood Hills,incorporated,47,A,2076,"Oakwood Hills, IL",0,472,0,0,Oakwood Hills village
+IL,1726194,Fisher,incorporated,47,A,2062,"Fisher, IL",0,473,0,0,Fisher village
+IL,1723698,Elmwood,incorporated,25,A,2058,"Elmwood, IL",0,474,0,0,Elmwood city
+IL,1743055,Lewistown,incorporated,25,A,2041,"Lewistown, IL",0,475,0,0,Lewistown city
+IL,1751024,Mount Olive,incorporated,25,A,2015,"Mount Olive, IL",0,476,0,0,Mount Olive city
+IL,1764902,Rockdale,incorporated,47,A,2012,"Rockdale, IL",0,477,0,0,Rockdale village
+IL,1735268,Hinckley,incorporated,47,A,2006,"Hinckley, IL",0,478,0,0,Hinckley village
+IL,1751154,Mount Sterling,incorporated,25,A,2006,"Mount Sterling, IL",0,479,0,0,Mount Sterling city
+IL,1711774,Catlin,incorporated,47,A,1983,"Catlin, IL",0,480,0,0,Catlin village
+IL,1702674,Athens,incorporated,25,A,1977,"Athens, IL",0,481,0,0,Athens city
+IL,1700568,Albion,incorporated,25,A,1971,"Albion, IL",0,482,0,0,Albion city
+IL,1748554,Merrionette Park,incorporated,47,A,1969,"Merrionette Park, IL",0,483,0,0,Merrionette Park village
+IL,1761678,Prairie Grove,incorporated,47,A,1963,"Prairie Grove, IL",0,484,0,0,Prairie Grove village
+IL,1764590,Roanoke,incorporated,47,A,1960,"Roanoke, IL",0,485,0,0,Roanoke village
+IL,1752116,New Athens,incorporated,47,A,1955,"New Athens, IL",0,486,0,0,New Athens village
+IL,1761977,Prophetstown,incorporated,25,A,1946,"Prophetstown, IL",0,487,0,0,Prophetstown city
+IL,1772468,Steeleville,incorporated,47,A,1930,"Steeleville, IL",0,488,0,0,Steeleville village
+IL,1749568,Minonk,incorporated,25,A,1928,"Minonk, IL",0,489,0,0,Minonk city
+IL,1771240,South Roxana,incorporated,47,A,1891,"South Roxana, IL",0,490,0,0,South Roxana village
+IL,1768705,Sesser,incorporated,25,A,1888,"Sesser, IL",0,491,0,0,Sesser city
+IL,1745785,Mackinaw,incorporated,47,A,1879,"Mackinaw, IL",0,492,0,0,Mackinaw village
+IL,1704871,Bellevue,incorporated,47,A,1878,"Bellevue, IL",0,493,0,0,Bellevue village
+IL,1740559,Lacon,incorporated,25,A,1878,"Lacon, IL",0,494,0,0,Lacon city
+IL,1711150,Carbon Cliff,incorporated,47,A,1846,"Carbon Cliff, IL",0,495,0,0,Carbon Cliff village
+IL,1746955,Marissa,incorporated,47,A,1833,"Marissa, IL",0,496,0,0,Marissa village
+IL,1725414,Farmer City,incorporated,25,A,1828,"Farmer City, IL",0,497,0,0,Farmer City city
+IL,1726710,Ford Heights,incorporated,47,A,1813,"Ford Heights, IL",0,498,0,0,Ford Heights village
+IL,1708186,Bridgeport,incorporated,25,A,1800,"Bridgeport, IL",0,499,0,0,Bridgeport city
+IL,1770460,Somonauk,incorporated,47,A,1786,"Somonauk, IL",0,500,0,0,Somonauk village
+IL,1729392,Girard,incorporated,25,A,1785,"Girard, IL",0,501,0,0,Girard city
+IL,1732564,Hampton,incorporated,47,A,1779,"Hampton, IL",0,502,0,0,Hampton village
+IL,1751232,Moweaqua,incorporated,47,A,1764,"Moweaqua, IL",0,503,0,0,Moweaqua village
+IL,1756601,Orion,incorporated,47,A,1754,"Orion, IL",0,504,0,0,Orion village
+IL,1736438,Hudson,incorporated,47,A,1753,"Hudson, IL",0,505,0,0,Hudson village
+IL,1729275,Gilman,incorporated,25,A,1738,"Gilman, IL",0,506,0,0,Gilman city
+IL,1710383,Cairo,incorporated,25,A,1733,"Cairo, IL",0,507,0,0,Cairo city
+IL,1772780,Stockton,incorporated,47,A,1728,"Stockton, IL",0,508,0,0,Stockton village
+IL,1712931,Chenoa,incorporated,25,A,1720,"Chenoa, IL",0,509,0,0,Chenoa city
+IL,1738635,Jonesboro,incorporated,25,A,1711,"Jonesboro, IL",0,510,0,0,Jonesboro city
+IL,1759572,Phoenix,incorporated,47,A,1708,"Phoenix, IL",0,511,0,0,Phoenix village
+IL,1738375,Jerome,incorporated,47,A,1692,"Jerome, IL",0,512,0,0,Jerome village
+IL,1711397,Carrier Mills,incorporated,47,A,1672,"Carrier Mills, IL",0,513,0,0,Carrier Mills village
+IL,1702752,Atlanta,incorporated,25,A,1669,"Atlanta, IL",0,514,0,0,Atlanta city
+IL,1761223,Port Byron,incorporated,47,A,1668,"Port Byron, IL",0,515,0,0,Port Byron village
+IL,1740156,Kirkland,incorporated,47,A,1650,"Kirkland, IL",0,516,0,0,Kirkland village
+IL,1737179,Ina,incorporated,47,A,1641,"Ina, IL",0,517,0,0,Ina village
+IL,1761925,Princeville,incorporated,47,A,1636,"Princeville, IL",0,518,0,0,Princeville village
+IL,1719499,De Pue,incorporated,47,A,1633,"De Pue, IL",0,519,0,0,De Pue village
+IL,1709577,Bunker Hill,incorporated,25,A,1630,"Bunker Hill, IL",0,520,0,0,Bunker Hill city
+IL,1774743,Teutopolis,incorporated,47,A,1618,"Teutopolis, IL",0,521,0,0,Teutopolis village
+IL,1721540,Earlville,incorporated,25,A,1613,"Earlville, IL",0,522,0,0,Earlville city
+IL,1775172,Thomson,incorporated,47,A,1610,"Thomson, IL",0,523,0,0,Thomson village
+IL,1721176,Dunlap,incorporated,47,A,1603,"Dunlap, IL",0,524,0,0,Dunlap village
+IL,1770759,Southern View,incorporated,47,A,1596,"Southern View, IL",0,525,0,0,Southern View village
+IL,1761216,Port Barrington,incorporated,47,A,1584,"Port Barrington, IL",0,526,0,0,Port Barrington village
+IL,1765481,Roodhouse,incorporated,25,A,1578,"Roodhouse, IL",0,527,0,0,Roodhouse city
+IL,1747072,Maroa,incorporated,25,A,1577,"Maroa, IL",0,528,0,0,Maroa city
+IL,1782270,Winchester,incorporated,25,A,1574,"Winchester, IL",0,529,0,0,Winchester city
+IL,1719226,Delavan,incorporated,25,A,1568,"Delavan, IL",0,530,0,0,Delavan city
+IL,1743510,Limestone,incorporated,47,A,1558,"Limestone, IL",0,531,0,0,Limestone village
+IL,1746383,Manito,incorporated,47,A,1552,"Manito, IL",0,532,0,0,Manito village
+IL,1731165,Grayville,incorporated,25,A,1550,"Grayville, IL",0,533,0,0,Grayville city
+IL,1751128,Mount Pulaski,incorporated,25,A,1537,"Mount Pulaski, IL",0,534,0,0,Mount Pulaski city
+IL,1734384,Herscher,incorporated,47,A,1521,"Herscher, IL",0,535,0,0,Herscher village
+IL,1724374,Erie,incorporated,47,A,1518,"Erie, IL",0,536,0,0,Erie village
+IL,1778201,Virginia,incorporated,25,A,1514,"Virginia, IL",0,537,0,0,Virginia city
+IL,1778942,Warsaw,incorporated,25,A,1510,"Warsaw, IL",0,538,0,0,Warsaw city
+IL,1710630,Cambria,incorporated,47,A,1505,"Cambria, IL",0,539,0,0,Cambria village
+IL,1721683,East Dubuque,incorporated,25,A,1505,"East Dubuque, IL",0,540,0,0,East Dubuque city
+IL,1741859,Lanark,incorporated,25,A,1504,"Lanark, IL",0,541,0,0,Lanark city
+IL,1735385,Hodgkins,incorporated,47,A,1500,"Hodgkins, IL",0,542,0,0,Hodgkins village
+IL,1777473,Venice,incorporated,25,A,1498,"Venice, IL",0,543,0,0,Venice city
+IL,1705144,Bement,incorporated,47,A,1484,"Bement, IL",0,544,0,0,Bement village
+IL,1784155,Zeigler,incorporated,25,A,1484,"Zeigler, IL",0,545,0,0,Zeigler city
+IL,1750881,Mount Carroll,incorporated,25,A,1479,"Mount Carroll, IL",0,546,0,0,Mount Carroll city
+IL,1754092,North Pekin,incorporated,47,A,1478,"North Pekin, IL",0,547,0,0,North Pekin village
+IL,1705209,Benld,incorporated,25,A,1464,"Benld, IL",0,548,0,0,Benld city
+IL,1731732,Gridley,incorporated,47,A,1456,"Gridley, IL",0,549,0,0,Gridley village
+IL,1742769,Leland Grove,incorporated,25,A,1454,"Leland Grove, IL",0,550,0,0,Leland Grove city
+IL,1766131,Roxana,incorporated,47,A,1454,"Roxana, IL",0,551,0,0,Roxana village
+IL,1717185,Crainville,incorporated,47,A,1443,"Crainville, IL",0,552,0,0,Crainville village
+IL,1727065,Forreston,incorporated,47,A,1435,"Forreston, IL",0,553,0,0,Forreston village
+IL,1746604,Maple Park,incorporated,47,A,1433,"Maple Park, IL",0,554,0,0,Maple Park village
+IL,1779163,Waterman,incorporated,47,A,1433,"Waterman, IL",0,555,0,0,Waterman village
+IL,1781854,Williamsville,incorporated,47,A,1425,"Williamsville, IL",0,556,0,0,Williamsville village
+IL,1719616,De Soto,incorporated,47,A,1407,"De Soto, IL",0,557,0,0,De Soto village
+IL,1730835,Grandview,incorporated,47,A,1405,"Grandview, IL",0,558,0,0,Grandview village
+IL,1751986,Neoga,incorporated,25,A,1398,"Neoga, IL",0,559,0,0,Neoga city
+IL,1711124,Capron,incorporated,47,A,1395,"Capron, IL",0,560,0,0,Capron village
+IL,1759533,Philo,incorporated,47,A,1392,"Philo, IL",0,561,0,0,Philo village
+IL,1721280,Durand,incorporated,47,A,1390,"Durand, IL",0,562,0,0,Durand village
+IL,1752168,New Berlin,incorporated,47,A,1381,"New Berlin, IL",0,563,0,0,New Berlin village
+IL,1755106,Oblong,incorporated,47,A,1371,"Oblong, IL",0,564,0,0,Oblong village
+IL,1755470,Okawville,incorporated,47,A,1369,"Okawville, IL",0,565,0,0,Okawville village
+IL,1733851,Hebron,incorporated,47,A,1368,"Hebron, IL",0,566,0,0,Hebron village
+IL,1728638,Gardner,incorporated,47,A,1366,"Gardner, IL",0,567,0,0,Gardner village
+IL,1731524,Greenup,incorporated,47,A,1365,"Greenup, IL",0,568,0,0,Greenup village
+IL,1731017,Granville,incorporated,47,A,1359,"Granville, IL",0,569,0,0,Granville village
+IL,1766859,St. Jacob,incorporated,47,A,1358,"St. Jacob, IL",0,570,0,0,St. Jacob village
+IL,1714936,Clifton,incorporated,47,A,1352,"Clifton, IL",0,571,0,0,Clifton village
+IL,1739909,Kincaid,incorporated,47,A,1349,"Kincaid, IL",0,572,0,0,Kincaid village
+IL,1777863,Vienna,incorporated,25,A,1343,"Vienna, IL",0,573,0,0,Vienna city
+IL,1775653,Toluca,incorporated,25,A,1340,"Toluca, IL",0,574,0,0,Toluca city
+IL,1756081,Onarga,incorporated,47,A,1333,"Onarga, IL",0,575,0,0,Onarga village
+IL,1755002,Oakwood,incorporated,47,A,1325,"Oakwood, IL",0,576,0,0,Oakwood village
+IL,1729041,Germantown,incorporated,47,A,1324,"Germantown, IL",0,577,0,0,Germantown village
+IL,1754222,North Utica,incorporated,47,A,1323,"North Utica, IL",0,578,0,0,North Utica village
+IL,1778851,Warren,incorporated,47,A,1323,"Warren, IL",0,579,0,0,Warren village
+IL,1712268,Cerro Gordo,incorporated,47,A,1316,"Cerro Gordo, IL",0,580,0,0,Cerro Gordo village
+IL,1714273,Chrisman,incorporated,25,A,1312,"Chrisman, IL",0,581,0,0,Chrisman city
+IL,1778526,Walnut,incorporated,47,A,1311,"Walnut, IL",0,582,0,0,Walnut village
+IL,1733227,Harristown,incorporated,47,A,1310,"Harristown, IL",0,583,0,0,Harristown village
+IL,1703948,Barry,incorporated,25,A,1303,"Barry, IL",0,584,0,0,Barry city
+IL,1783687,Wyoming,incorporated,25,A,1300,"Wyoming, IL",0,585,0,0,Wyoming city
+IL,1721904,East Hazel Crest,incorporated,47,A,1297,"East Hazel Crest, IL",0,586,0,0,East Hazel Crest village
+IL,1730991,Grant Park,incorporated,47,A,1294,"Grant Park, IL",0,587,0,0,Grant Park village
+IL,1740598,Ladd,incorporated,47,A,1263,"Ladd, IL",0,588,0,0,Ladd village
+IL,1744498,Long Creek,incorporated,47,A,1261,"Long Creek, IL",0,589,0,0,Long Creek village
+IL,1705612,Bethany,incorporated,47,A,1255,"Bethany, IL",0,590,0,0,Bethany village
+IL,1766794,St. Elmo,incorporated,25,A,1254,"St. Elmo, IL",0,591,0,0,St. Elmo city
+IL,1732668,Hanna City,incorporated,47,A,1253,"Hanna City, IL",0,592,0,0,Hanna City village
+IL,1757277,Palestine,incorporated,47,A,1233,"Palestine, IL",0,593,0,0,Palestine village
+IL,1777265,Valmeyer,incorporated,47,A,1233,"Valmeyer, IL",0,594,0,0,Valmeyer village
+IL,1775874,Tower Lakes,incorporated,47,A,1226,"Tower Lakes, IL",0,595,0,0,Tower Lakes village
+IL,1734982,Hillcrest,incorporated,47,A,1224,"Hillcrest, IL",0,596,0,0,Hillcrest village
+IL,1765962,Rossville,incorporated,47,A,1221,"Rossville, IL",0,597,0,0,Rossville village
+IL,1702505,Ashland,incorporated,47,A,1218,"Ashland, IL",0,598,0,0,Ashland village
+IL,1769875,Sidney,incorporated,47,A,1208,"Sidney, IL",0,599,0,0,Sidney village
+IL,1720643,Downs,incorporated,47,A,1201,"Downs, IL",0,600,0,0,Downs village
+IL,1779358,Waverly,incorporated,25,A,1194,"Waverly, IL",0,601,0,0,Waverly city
+IL,1775783,Toulon,incorporated,25,A,1193,"Toulon, IL",0,602,0,0,Toulon city
+IL,1712710,Chatsworth,incorporated,43,A,1185,"Chatsworth, IL",0,603,0,0,Chatsworth town
+IL,1733279,Hartford,incorporated,47,A,1185,"Hartford, IL",0,604,0,0,Hartford village
+IL,1701426,Andalusia,incorporated,47,A,1184,"Andalusia, IL",0,605,0,0,Andalusia village
+IL,1717991,Cuba,incorporated,25,A,1184,"Cuba, IL",0,606,0,0,Cuba city
+IL,1745941,Macon,incorporated,25,A,1177,"Macon, IL",0,607,0,0,Macon city
+IL,1740832,La Harpe,incorporated,25,A,1175,"La Harpe, IL",0,608,0,0,La Harpe city
+IL,1766638,St. Anne,incorporated,47,A,1161,"St. Anne, IL",0,609,0,0,St. Anne village
+IL,1775601,Toledo,incorporated,47,A,1161,"Toledo, IL",0,610,0,0,Toledo village
+IL,1749048,Milford,incorporated,47,A,1158,"Milford, IL",0,611,0,0,Milford village
+IL,1767444,Sandoval,incorporated,47,A,1157,"Sandoval, IL",0,612,0,0,Sandoval village
+IL,1702609,Assumption,incorporated,25,A,1155,"Assumption, IL",0,613,0,0,Assumption city
+IL,1749555,Minier,incorporated,47,A,1154,"Minier, IL",0,614,0,0,Minier village
+IL,1753403,Norris City,incorporated,47,A,1145,"Norris City, IL",0,615,0,0,Norris City village
+IL,1746279,Malta,incorporated,47,A,1143,"Malta, IL",0,616,0,0,Malta village
+IL,1720045,Divernon,incorporated,47,A,1139,"Divernon, IL",0,617,0,0,Divernon village
+IL,1744927,Louisville,incorporated,47,A,1136,"Louisville, IL",0,618,0,0,Louisville village
+IL,1756237,Oquawka,incorporated,47,A,1134,"Oquawka, IL",0,619,0,0,Oquawka village
+IL,1706756,Blue Mound,incorporated,47,A,1133,"Blue Mound, IL",0,620,0,0,Blue Mound village
+IL,1709531,Bull Valley,incorporated,47,A,1128,"Bull Valley, IL",0,621,0,0,Bull Valley village
+IL,1700555,Albers,incorporated,47,A,1121,"Albers, IL",0,622,0,0,Albers village
+IL,1710877,Camp Point,incorporated,47,A,1121,"Camp Point, IL",0,623,0,0,Camp Point village
+IL,1747254,Martinsville,incorporated,25,A,1118,"Martinsville, IL",0,624,0,0,Martinsville city
+IL,1702882,Atwood,incorporated,47,A,1116,"Atwood, IL",0,625,0,0,Atwood village
+IL,1775081,Third Lake,incorporated,47,A,1111,"Third Lake, IL",0,626,0,0,Third Lake village
+IL,1778916,Warrensburg,incorporated,47,A,1110,"Warrensburg, IL",0,627,0,0,Warrensburg village
+IL,1715378,Colchester,incorporated,25,A,1108,"Colchester, IL",0,628,0,0,Colchester city
+IL,1740065,Kingston,incorporated,47,A,1108,"Kingston, IL",0,629,0,0,Kingston village
+IL,1705976,Big Rock,incorporated,47,A,1104,"Big Rock, IL",0,630,0,0,Big Rock village
+IL,1712151,Central City,incorporated,47,A,1098,"Central City, IL",0,631,0,0,Central City village
+IL,1731771,Griggsville,incorporated,25,A,1097,"Griggsville, IL",0,632,0,0,Griggsville city
+IL,1783505,Worden,incorporated,47,A,1096,"Worden, IL",0,633,0,0,Worden village
+IL,1718537,Danvers,incorporated,47,A,1089,"Danvers, IL",0,634,0,0,Danvers village
+IL,1722645,Edinburg,incorporated,47,A,1085,"Edinburg, IL",0,635,0,0,Edinburg village
+IL,1782322,Windsor,incorporated,25,A,1079,"Windsor, IL",0,636,0,0,Windsor city
+IL,1772702,Stillman Valley,incorporated,47,A,1075,"Stillman Valley, IL",0,637,0,0,Stillman Valley village
+IL,1715300,Cobden,incorporated,47,A,1074,"Cobden, IL",0,638,0,0,Cobden village
+IL,1735814,Homer,incorporated,47,A,1073,"Homer, IL",0,639,0,0,Homer village
+IL,1745044,Lovington,incorporated,47,A,1069,"Lovington, IL",0,640,0,0,Lovington village
+IL,1730575,Goreville,incorporated,47,A,1068,"Goreville, IL",0,641,0,0,Goreville village
+IL,1766209,Royalton,incorporated,47,A,1068,"Royalton, IL",0,642,0,0,Royalton village
+IL,1731368,Greenfield,incorporated,25,A,1059,"Greenfield, IL",0,643,0,0,Greenfield city
+IL,1769082,Shawneetown,incorporated,25,A,1054,"Shawneetown, IL",0,644,0,0,Shawneetown city
+IL,1712801,Chebanse,incorporated,47,A,1044,"Chebanse, IL",0,645,0,0,Chebanse village
+IL,1727026,Forrest,incorporated,47,A,1041,"Forrest, IL",0,646,0,0,Forrest village
+IL,1775107,Thomasboro,incorporated,47,A,1034,"Thomasboro, IL",0,647,0,0,Thomasboro village
+IL,1743406,Lily Lake,incorporated,47,A,1032,"Lily Lake, IL",0,648,0,0,Lily Lake village
+IL,1779007,Washburn,incorporated,47,A,1032,"Washburn, IL",0,649,0,0,Washburn village
+IL,1749191,Milledgeville,incorporated,47,A,1026,"Milledgeville, IL",0,650,0,0,Milledgeville village
+IL,1758265,Payson,incorporated,47,A,1025,"Payson, IL",0,651,0,0,Payson village
+IL,1703610,Bannockburn,incorporated,47,A,1013,"Bannockburn, IL",0,652,0,0,Bannockburn village
+IL,1726311,Flanagan,incorporated,47,A,1010,"Flanagan, IL",0,653,0,0,Flanagan village
+IL,1755171,Odell,incorporated,47,A,1003,"Odell, IL",0,654,0,0,Odell village
+IL,1750543,Morrisonville,incorporated,47,A,997,"Morrisonville, IL",0,655,0,0,Morrisonville village
+IL,1715495,Colfax,incorporated,47,A,996,"Colfax, IL",0,656,0,0,Colfax village
+IL,1771175,South Pekin,incorporated,47,A,996,"South Pekin, IL",0,657,0,0,South Pekin village
+IL,1779436,Wayne City,incorporated,47,A,994,"Wayne City, IL",0,658,0,0,Wayne City village
+IL,1745616,McCullom Lake,incorporated,47,A,988,"McCullom Lake, IL",0,659,0,0,McCullom Lake village
+IL,1778721,Wamac,incorporated,25,A,985,"Wamac, IL",0,660,0,0,Wamac city
+IL,1765897,Rosiclare,incorporated,25,A,980,"Rosiclare, IL",0,661,0,0,Rosiclare city
+IL,1747787,Mazon,incorporated,47,A,979,"Mazon, IL",0,662,0,0,Mazon village
+IL,1724166,Energy,incorporated,47,A,974,"Energy, IL",0,663,0,0,Energy village
+IL,1779813,Wenona,incorporated,25,A,974,"Wenona, IL",0,664,0,0,Wenona city
+IL,1752103,Newark,incorporated,47,A,973,"Newark, IL",0,665,0,0,Newark village
+IL,1702583,Ashton,incorporated,47,A,967,"Ashton, IL",0,666,0,0,Ashton village
+IL,1702726,Atkinson,incorporated,43,A,965,"Atkinson, IL",0,667,0,0,Atkinson town
+IL,1769212,Sheldon,incorporated,47,A,965,"Sheldon, IL",0,668,0,0,Sheldon village
+IL,1762822,Rapids City,incorporated,47,A,964,"Rapids City, IL",0,669,0,0,Rapids City village
+IL,1742756,Leland,incorporated,47,A,951,"Leland, IL",0,670,0,0,Leland village
+IL,1751791,Nauvoo,incorporated,25,A,950,"Nauvoo, IL",0,671,0,0,Nauvoo city
+IL,1762965,Raymond,incorporated,47,A,949,"Raymond, IL",0,672,0,0,Raymond village
+IL,1730445,Goodfield,incorporated,47,A,936,"Goodfield, IL",0,673,0,0,Goodfield village
+IL,1755210,Odin,incorporated,47,A,935,"Odin, IL",0,674,0,0,Odin village
+IL,1702635,Astoria,incorporated,43,A,929,"Astoria, IL",0,675,0,0,Astoria town
+IL,1732408,Hamel,incorporated,47,A,929,"Hamel, IL",0,676,0,0,Hamel village
+IL,1746487,Mansfield,incorporated,47,A,928,"Mansfield, IL",0,677,0,0,Mansfield village
+IL,1760534,Pleasant Hill,incorporated,47,A,924,"Pleasant Hill, IL",0,678,0,0,Pleasant Hill village
+IL,1704533,Beckemeyer,incorporated,47,A,923,"Beckemeyer, IL",0,679,0,0,Beckemeyer village
+IL,1701972,Argenta,incorporated,47,A,913,"Argenta, IL",0,680,0,0,Argenta village
+IL,1746864,Marine,incorporated,47,A,912,"Marine, IL",0,681,0,0,Marine village
+IL,1729145,Gifford,incorporated,47,A,911,"Gifford, IL",0,682,0,0,Gifford village
+IL,1762627,Ramsey,incorporated,47,A,911,"Ramsey, IL",0,683,0,0,Ramsey village
+IL,1759104,Percy,incorporated,47,A,906,"Percy, IL",0,684,0,0,Percy village
+IL,1775360,Timberlane,incorporated,47,A,906,"Timberlane, IL",0,685,0,0,Timberlane village
+IL,1727689,Franklin Grove,incorporated,47,A,896,"Franklin Grove, IL",0,686,0,0,Franklin Grove village
+IL,1765845,Roseville,incorporated,47,A,892,"Roseville, IL",0,687,0,0,Roseville village
+IL,1756471,Oreana,incorporated,47,A,891,"Oreana, IL",0,688,0,0,Oreana village
+IL,1719915,Dieterich,incorporated,47,A,890,"Dieterich, IL",0,689,0,0,Dieterich village
+IL,1783622,Wyanet,incorporated,47,A,886,"Wyanet, IL",0,690,0,0,Wyanet village
+IL,1701569,Annawan,incorporated,43,A,884,"Annawan, IL",0,691,0,0,Annawan town
+IL,1748307,Mendon,incorporated,47,A,872,"Mendon, IL",0,692,0,0,Mendon village
+IL,1778123,Viola,incorporated,47,A,869,"Viola, IL",0,693,0,0,Viola village
+IL,1729483,Glasford,incorporated,47,A,866,"Glasford, IL",0,694,0,0,Glasford village
+IL,1700516,Albany,incorporated,47,A,864,"Albany, IL",0,695,0,0,Albany village
+IL,1732707,Hanover,incorporated,47,A,863,"Hanover, IL",0,696,0,0,Hanover village
+IL,1768822,Shabbona,incorporated,47,A,863,"Shabbona, IL",0,697,0,0,Shabbona village
+IL,1764018,Ridgway,incorporated,47,A,851,"Ridgway, IL",0,698,0,0,Ridgway village
+IL,1714715,Clay City,incorporated,47,A,847,"Clay City, IL",0,699,0,0,Clay City village
+IL,1737127,Illiopolis,incorporated,47,A,846,"Illiopolis, IL",0,700,0,0,Illiopolis village
+IL,1764135,Ringwood,incorporated,47,A,844,"Ringwood, IL",0,701,0,0,Ringwood village
+IL,1724452,Essex,incorporated,47,A,841,"Essex, IL",0,702,0,0,Essex village
+IL,1723373,Elkville,incorporated,47,A,838,"Elkville, IL",0,703,0,0,Elkville village
+IL,1772949,Stonington,incorporated,47,A,837,"Stonington, IL",0,704,0,0,Stonington village
+IL,1716613,Coulterville,incorporated,47,A,834,"Coulterville, IL",0,705,0,0,Coulterville village
+IL,1773261,Stronghurst,incorporated,47,A,833,"Stronghurst, IL",0,706,0,0,Stronghurst village
+IL,1736126,Hopedale,incorporated,47,A,830,"Hopedale, IL",0,707,0,0,Hopedale village
+IL,1758226,Paw Paw,incorporated,47,A,830,"Paw Paw, IL",0,708,0,0,Paw Paw village
+IL,1728261,Galatia,incorporated,47,A,827,"Galatia, IL",0,709,0,0,Galatia village
+IL,1748424,Meredosia,incorporated,47,A,826,"Meredosia, IL",0,710,0,0,Meredosia village
+IL,1769147,Sheffield,incorporated,47,A,821,"Sheffield, IL",0,711,0,0,Sheffield village
+IL,1714468,Cissna Park,incorporated,47,A,817,"Cissna Park, IL",0,712,0,0,Cissna Park village
+IL,1744173,Loami,incorporated,47,A,812,"Loami, IL",0,713,0,0,Loami village
+IL,1760599,Pleasant Plains,incorporated,47,A,808,"Pleasant Plains, IL",0,714,0,0,Pleasant Plains village
+IL,1718420,Dallas City,incorporated,25,A,805,"Dallas City, IL",0,715,0,0,Dallas City city
+IL,1732850,Hardin,incorporated,47,A,801,"Hardin, IL",0,716,0,0,Hardin village
+IL,1768991,Shannon,incorporated,47,A,801,"Shannon, IL",0,717,0,0,Shannon village
+IL,1771474,Spaulding,incorporated,47,A,801,"Spaulding, IL",0,718,0,0,Spaulding village
+IL,1724179,Enfield,incorporated,47,A,794,"Enfield, IL",0,719,0,0,Enfield village
+IL,1752701,New Milford,incorporated,47,A,794,"New Milford, IL",0,720,0,0,New Milford village
+IL,1700672,Alexis,incorporated,47,A,793,"Alexis, IL",0,721,0,0,Alexis village
+IL,1726987,Forest View,incorporated,47,A,792,"Forest View, IL",0,722,0,0,Forest View village
+IL,1758369,Pearl City,incorporated,47,A,790,"Pearl City, IL",0,723,0,0,Pearl City village
+IL,1763862,Ridge Farm,incorporated,47,A,787,"Ridge Farm, IL",0,724,0,0,Ridge Farm village
+IL,1780853,West Salem,incorporated,47,A,786,"West Salem, IL",0,725,0,0,West Salem village
+IL,1782725,Witt,incorporated,25,A,785,"Witt, IL",0,726,0,0,Witt city
+IL,1708303,Brimfield,incorporated,47,A,778,"Brimfield, IL",0,727,0,0,Brimfield village
+IL,1752623,Newman,incorporated,25,A,778,"Newman, IL",0,728,0,0,Newman city
+IL,1734098,Hennepin,incorporated,47,A,769,"Hennepin, IL",0,729,0,0,Hennepin village
+IL,1756341,Orangeville,incorporated,47,A,766,"Orangeville, IL",0,730,0,0,Orangeville village
+IL,1736815,Hurst,incorporated,25,A,764,"Hurst, IL",0,731,0,0,Hurst city
+IL,1721826,East Galesburg,incorporated,47,A,763,"East Galesburg, IL",0,732,0,0,East Galesburg village
+IL,1744160,Livingston,incorporated,47,A,763,"Livingston, IL",0,733,0,0,Livingston village
+IL,1783063,Woodhull,incorporated,47,A,754,"Woodhull, IL",0,734,0,0,Woodhull village
+IL,1702479,Ashkum,incorporated,47,A,750,"Ashkum, IL",0,735,0,0,Ashkum village
+IL,1775263,Tilden,incorporated,47,A,750,"Tilden, IL",0,736,0,0,Tilden village
+IL,1775718,Tonica,incorporated,47,A,749,"Tonica, IL",0,737,0,0,Tonica village
+IL,1731576,Greenview,incorporated,47,A,745,"Greenview, IL",0,738,0,0,Greenview village
+IL,1760079,Piper City,incorporated,47,A,745,"Piper City, IL",0,739,0,0,Piper City village
+IL,1779124,Wataga,incorporated,47,A,744,"Wataga, IL",0,740,0,0,Wataga village
+IL,1745811,McLean,incorporated,47,A,743,"McLean, IL",0,741,0,0,McLean village
+IL,1775549,Tiskilwa,incorporated,47,A,740,"Tiskilwa, IL",0,742,0,0,Tiskilwa village
+IL,1754781,Oakland,incorporated,25,A,739,"Oakland, IL",0,743,0,0,Oakland city
+IL,1740117,Kinmundy,incorporated,25,A,733,"Kinmundy, IL",0,744,0,0,Kinmundy city
+IL,1755275,Ogden,incorporated,47,A,729,"Ogden, IL",0,745,0,0,Ogden village
+IL,1708706,Brookport,incorporated,25,A,725,"Brookport, IL",0,746,0,0,Brookport city
+IL,1707640,Braceville,incorporated,47,A,724,"Braceville, IL",0,747,0,0,Braceville village
+IL,1774561,Taylor Springs,incorporated,47,A,724,"Taylor Springs, IL",0,748,0,0,Taylor Springs village
+IL,1772650,Stewardson,incorporated,47,A,721,"Stewardson, IL",0,749,0,0,Stewardson village
+IL,1771370,South Wilmington,incorporated,47,A,710,"South Wilmington, IL",0,750,0,0,South Wilmington village
+IL,1747527,Matherville,incorporated,47,A,707,"Matherville, IL",0,751,0,0,Matherville village
+IL,1703207,Avon,incorporated,47,A,704,"Avon, IL",0,752,0,0,Avon village
+IL,1760872,Pocahontas,incorporated,47,A,697,"Pocahontas, IL",0,753,0,0,Pocahontas village
+IL,1756159,Oneida,incorporated,25,A,696,"Oneida, IL",0,754,0,0,Oneida city
+IL,1723165,Elizabeth,incorporated,47,A,694,"Elizabeth, IL",0,755,0,0,Elizabeth village
+IL,1769368,Sherrard,incorporated,47,A,692,"Sherrard, IL",0,756,0,0,Sherrard village
+IL,1708992,Brownstown,incorporated,47,A,690,"Brownstown, IL",0,757,0,0,Brownstown village
+IL,1725440,Farmersville,incorporated,47,A,689,"Farmersville, IL",0,758,0,0,Farmersville village
+IL,1761366,Potomac,incorporated,47,A,689,"Potomac, IL",0,759,0,0,Potomac village
+IL,1774470,Tampico,incorporated,47,A,689,"Tampico, IL",0,760,0,0,Tampico village
+IL,1741794,La Moille,incorporated,47,A,679,"La Moille, IL",0,761,0,0,La Moille village
+IL,1740182,Kirkwood,incorporated,47,A,678,"Kirkwood, IL",0,762,0,0,Kirkwood village
+IL,1707692,Bradford,incorporated,47,A,676,"Bradford, IL",0,763,0,0,Bradford village
+IL,1700971,Alpha,incorporated,47,A,675,"Alpha, IL",0,764,0,0,Alpha village
+IL,1716366,Cordova,incorporated,47,A,671,"Cordova, IL",0,765,0,0,Cordova village
+IL,1738986,Kansas,incorporated,47,A,670,"Kansas, IL",0,766,0,0,Kansas village
+IL,1779241,Watson,incorporated,47,A,668,"Watson, IL",0,767,0,0,Watson village
+IL,1782309,Windsor,incorporated,47,A,668,"Windsor, IL",0,768,0,0,Windsor village
+IL,1718940,Deer Creek,incorporated,47,A,667,"Deer Creek, IL",0,769,0,0,Deer Creek village
+IL,1702258,Aroma Park,incorporated,47,A,664,"Aroma Park, IL",0,770,0,0,Aroma Park village
+IL,1726116,Findlay,incorporated,47,A,664,"Findlay, IL",0,771,0,0,Findlay village
+IL,1712008,Cedarville,incorporated,47,A,663,"Cedarville, IL",0,772,0,0,Cedarville village
+IL,1718459,Dalzell,incorporated,47,A,663,"Dalzell, IL",0,773,0,0,Dalzell village
+IL,1748021,Mechanicsburg,incorporated,47,A,662,"Mechanicsburg, IL",0,774,0,0,Mechanicsburg village
+IL,1720305,Dongola,incorporated,47,A,661,"Dongola, IL",0,775,0,0,Dongola village
+IL,1750777,Mounds,incorporated,25,A,661,"Mounds, IL",0,776,0,0,Mounds city
+IL,1780073,West City,incorporated,47,A,656,"West City, IL",0,777,0,0,West City village
+IL,1767912,Saybrook,incorporated,47,A,654,"Saybrook, IL",0,778,0,0,Saybrook village
+IL,1708667,Brooklyn,incorporated,47,A,649,"Brooklyn, IL",0,779,0,0,Brooklyn village
+IL,1730159,Golden,incorporated,47,A,648,"Golden, IL",0,780,0,0,Golden village
+IL,1715352,Coffeen,incorporated,25,A,647,"Coffeen, IL",0,781,0,0,Coffeen city
+IL,1783817,Yates City,incorporated,47,A,642,"Yates City, IL",0,782,0,0,Yates City village
+IL,1714767,Clayton,incorporated,47,A,639,"Clayton, IL",0,783,0,0,Clayton village
+IL,1702557,Ashmore,incorporated,47,A,637,"Ashmore, IL",0,784,0,0,Ashmore village
+IL,1704000,Bartelso,incorporated,47,A,635,"Bartelso, IL",0,785,0,0,Bartelso village
+IL,1714455,Cisne,incorporated,47,A,634,"Cisne, IL",0,786,0,0,Cisne village
+IL,1753143,Noble,incorporated,47,A,633,"Noble, IL",0,787,0,0,Noble village
+IL,1774860,Thayer,incorporated,47,A,632,"Thayer, IL",0,788,0,0,Thayer village
+IL,1706964,Bluford,incorporated,47,A,630,"Bluford, IL",0,789,0,0,Bluford village
+IL,1730133,Golconda,incorporated,25,A,630,"Golconda, IL",0,790,0,0,Golconda city
+IL,1731563,Green Valley,incorporated,47,A,630,"Green Valley, IL",0,791,0,0,Green Valley village
+IL,1766989,St. Libory,incorporated,47,A,628,"St. Libory, IL",0,792,0,0,St. Libory village
+IL,1717471,Creston,incorporated,47,A,627,"Creston, IL",0,793,0,0,Creston village
+IL,1730653,Grafton,incorporated,25,A,626,"Grafton, IL",0,794,0,0,Grafton city
+IL,1717783,Crossville,incorporated,47,A,623,"Crossville, IL",0,795,0,0,Crossville village
+IL,1700737,Alhambra,incorporated,47,A,622,"Alhambra, IL",0,796,0,0,Alhambra village
+IL,1706899,Bluffs,incorporated,47,A,618,"Bluffs, IL",0,797,0,0,Bluffs village
+IL,1735515,Holiday Hills,incorporated,47,A,618,"Holiday Hills, IL",0,798,0,0,Holiday Hills village
+IL,1749308,Millington,incorporated,47,A,617,"Millington, IL",0,799,0,0,Millington village
+IL,1783206,Woodlawn,incorporated,47,A,617,"Woodlawn, IL",0,800,0,0,Woodlawn village
+IL,1752220,New Boston,incorporated,25,A,613,"New Boston, IL",0,801,0,0,New Boston city
+IL,1724985,Fairmount,incorporated,47,A,612,"Fairmount, IL",0,802,0,0,Fairmount village
+IL,1752961,Niantic,incorporated,47,A,612,"Niantic, IL",0,803,0,0,Niantic village
+IL,1727663,Franklin,incorporated,47,A,610,"Franklin, IL",0,804,0,0,Franklin village
+IL,1777044,Ursa,incorporated,47,A,609,"Ursa, IL",0,805,0,0,Ursa village
+IL,1757329,Palmyra,incorporated,47,A,605,"Palmyra, IL",0,806,0,0,Palmyra village
+IL,1704572,Bedford Park,incorporated,47,A,602,"Bedford Park, IL",0,807,0,0,Bedford Park village
+IL,1772260,Stanford,incorporated,47,A,600,"Stanford, IL",0,808,0,0,Stanford village
+IL,1736190,Hopkins Park,incorporated,47,A,597,"Hopkins Park, IL",0,809,0,0,Hopkins Park village
+IL,1718498,Danforth,incorporated,47,A,594,"Danforth, IL",0,810,0,0,Danforth village
+IL,1718706,Davis,incorporated,47,A,589,"Davis, IL",0,811,0,0,Davis village
+IL,1706184,Bismarck,incorporated,47,A,582,"Bismarck, IL",0,812,0,0,Bismarck village
+IL,1737777,Irvington,incorporated,47,A,581,"Irvington, IL",0,813,0,0,Irvington village
+IL,1781867,Willisville,incorporated,47,A,579,"Willisville, IL",0,814,0,0,Willisville village
+IL,1781802,Williamsfield,incorporated,47,A,575,"Williamsfield, IL",0,815,0,0,Williamsfield village
+IL,1777642,Vermont,incorporated,47,A,570,"Vermont, IL",0,816,0,0,Vermont village
+IL,1706470,Blandinsville,incorporated,47,A,569,"Blandinsville, IL",0,817,0,0,Blandinsville village
+IL,1766833,St. Francisville,incorporated,25,A,568,"St. Francisville, IL",0,818,0,0,St. Francisville city
+IL,1751479,Murrayville,incorporated,47,A,567,"Murrayville, IL",0,819,0,0,Murrayville village
+IL,1730120,Godley,incorporated,47,A,566,"Godley, IL",0,820,0,0,Godley village
+IL,1760209,Pittsburg,incorporated,47,A,565,"Pittsburg, IL",0,821,0,0,Pittsburg village
+IL,1718472,Damiansville,incorporated,47,A,564,"Damiansville, IL",0,822,0,0,Damiansville village
+IL,1768120,Schram City,incorporated,47,A,563,"Schram City, IL",0,823,0,0,Schram City village
+IL,1701491,Andover,incorporated,47,A,555,"Andover, IL",0,824,0,0,Andover village
+IL,1777148,Valier,incorporated,47,A,554,"Valier, IL",0,825,0,0,Valier village
+IL,1702986,Augusta,incorporated,47,A,553,"Augusta, IL",0,826,0,0,Augusta village
+IL,1703103,Ava,incorporated,25,A,553,"Ava, IL",0,827,0,0,Ava city
+IL,1717406,Crescent City,incorporated,47,A,552,"Crescent City, IL",0,828,0,0,Crescent City village
+IL,1776706,Union,incorporated,47,A,551,"Union, IL",0,829,0,0,Union village
+IL,1739298,Keithsburg,incorporated,25,A,550,"Keithsburg, IL",0,830,0,0,Keithsburg city
+IL,1759273,Pesotum,incorporated,47,A,550,"Pesotum, IL",0,831,0,0,Pesotum village
+IL,1711215,Carlock,incorporated,47,A,548,"Carlock, IL",0,832,0,0,Carlock village
+IL,1724608,Evansville,incorporated,47,A,547,"Evansville, IL",0,833,0,0,Evansville village
+IL,1746214,Makanda,incorporated,47,A,547,"Makanda, IL",0,834,0,0,Makanda village
+IL,1774444,Tamaroa,incorporated,47,A,544,"Tamaroa, IL",0,835,0,0,Tamaroa village
+IL,1743133,Liberty,incorporated,47,A,543,"Liberty, IL",0,836,0,0,Liberty village
+IL,1725375,Farina,incorporated,47,A,540,"Farina, IL",0,837,0,0,Farina village
+IL,1724348,Equality,incorporated,47,A,539,"Equality, IL",0,838,0,0,Equality village
+IL,1745278,Lyndon,incorporated,47,A,537,"Lyndon, IL",0,839,0,0,Lyndon village
+IL,1737218,Indian Creek,incorporated,47,A,536,"Indian Creek, IL",0,840,0,0,Indian Creek village
+IL,1780281,Westfield,incorporated,47,A,536,"Westfield, IL",0,841,0,0,Westfield village
+IL,1782218,Wilsonville,incorporated,47,A,536,"Wilsonville, IL",0,842,0,0,Wilsonville village
+IL,1709759,Burlington,incorporated,47,A,535,"Burlington, IL",0,843,0,0,Burlington village
+IL,1748671,Mettawa,incorporated,47,A,533,"Mettawa, IL",0,844,0,0,Mettawa village
+IL,1773040,Strasburg,incorporated,47,A,531,"Strasburg, IL",0,845,0,0,Strasburg village
+IL,1712450,Chandlerville,incorporated,47,A,527,"Chandlerville, IL",0,846,0,0,Chandlerville village
+IL,1738791,Junction City,incorporated,47,A,527,"Junction City, IL",0,847,0,0,Junction City village
+IL,1750751,Mound City,incorporated,25,A,526,"Mound City, IL",0,848,0,0,Mound City city
+IL,1758057,Patoka,incorporated,47,A,525,"Patoka, IL",0,849,0,0,Patoka village
+IL,1766768,St. David,incorporated,47,A,522,"St. David, IL",0,850,0,0,St. David village
+IL,1718030,Cullom,incorporated,47,A,520,"Cullom, IL",0,851,0,0,Cullom village
+IL,1736347,Hoyleton,incorporated,47,A,520,"Hoyleton, IL",0,852,0,0,Hoyleton village
+IL,1751284,Mulberry Grove,incorporated,47,A,520,"Mulberry Grove, IL",0,853,0,0,Mulberry Grove village
+IL,1718745,Dawson,incorporated,47,A,519,"Dawson, IL",0,854,0,0,Dawson village
+IL,1723776,Elsah,incorporated,47,A,519,"Elsah, IL",0,855,0,0,Elsah village
+IL,1746981,Mark,incorporated,47,A,519,"Mark, IL",0,856,0,0,Mark village
+IL,1717055,Cowden,incorporated,47,A,515,"Cowden, IL",0,857,0,0,Cowden village
+IL,1730757,Grand Ridge,incorporated,47,A,515,"Grand Ridge, IL",0,858,0,0,Grand Ridge village
+IL,1776160,Trout Valley,incorporated,47,A,515,"Trout Valley, IL",0,859,0,0,Trout Valley village
+IL,1730328,Golf,incorporated,47,A,514,"Golf, IL",0,860,0,0,Golf village
+IL,1778773,Wapella,incorporated,47,A,513,"Wapella, IL",0,861,0,0,Wapella village
+IL,1737933,Iuka,incorporated,47,A,512,"Iuka, IL",0,862,0,0,Iuka village
+IL,1769563,Shipman,incorporated,43,A,511,"Shipman, IL",0,863,0,0,Shipman town
+IL,1753585,North City,incorporated,47,A,509,"North City, IL",0,864,0,0,North City village
+IL,1732499,Hammond,incorporated,47,A,508,"Hammond, IL",0,865,0,0,Hammond village
+IL,1717289,Creal Springs,incorporated,25,A,505,"Creal Springs, IL",0,866,0,0,Creal Springs city
+IL,1718303,Dahlgren,incorporated,47,A,504,"Dahlgren, IL",0,867,0,0,Dahlgren village
+IL,1761639,Prairie du Rocher,incorporated,47,A,502,"Prairie du Rocher, IL",0,868,0,0,Prairie du Rocher village
+IL,1718342,Dakota,incorporated,47,A,500,"Dakota, IL",0,869,0,0,Dakota village
+IL,1763420,Reynolds,incorporated,47,A,498,"Reynolds, IL",0,870,0,0,Reynolds village
+IL,1783336,Woodson,incorporated,47,A,498,"Woodson, IL",0,871,0,0,Woodson village
+IL,1716119,Congerville,incorporated,47,A,497,"Congerville, IL",0,872,0,0,Congerville village
+IL,1709317,Buckley,incorporated,47,A,495,"Buckley, IL",0,873,0,0,Buckley village
+IL,1762744,Rankin,incorporated,47,A,495,"Rankin, IL",0,874,0,0,Rankin village
+IL,1769836,Sidell,incorporated,47,A,489,"Sidell, IL",0,875,0,0,Sidell village
+IL,1726233,Fithian,incorporated,47,A,488,"Fithian, IL",0,876,0,0,Fithian village
+IL,1775159,Thompsonville,incorporated,47,A,486,"Thompsonville, IL",0,877,0,0,Thompsonville village
+IL,1775848,Tower Hill,incorporated,47,A,485,"Tower Hill, IL",0,878,0,0,Tower Hill village
+IL,1709356,Buda,incorporated,47,A,482,"Buda, IL",0,879,0,0,Buda village
+IL,1712294,Chadwick,incorporated,47,A,481,"Chadwick, IL",0,880,0,0,Chadwick village
+IL,1730770,Grand Tower,incorporated,25,A,479,"Grand Tower, IL",0,881,0,0,Grand Tower city
+IL,1767613,San Jose,incorporated,47,A,479,"San Jose, IL",0,882,0,0,San Jose village
+IL,1736841,Hutsonville,incorporated,47,A,478,"Hutsonville, IL",0,883,0,0,Hutsonville village
+IL,1754703,Oak Grove,incorporated,47,A,476,"Oak Grove, IL",0,884,0,0,Oak Grove village
+IL,1712528,Chapin,incorporated,47,A,475,"Chapin, IL",0,885,0,0,Chapin village
+IL,1771604,Spring Bay,incorporated,47,A,474,"Spring Bay, IL",0,886,0,0,Spring Bay village
+IL,1720123,Dix,incorporated,47,A,469,"Dix, IL",0,887,0,0,Dix village
+IL,1742860,Lenzburg,incorporated,47,A,468,"Lenzburg, IL",0,888,0,0,Lenzburg village
+IL,1723971,Emden,incorporated,47,A,467,"Emden, IL",0,889,0,0,Emden village
+IL,1776615,Ullin,incorporated,47,A,466,"Ullin, IL",0,890,0,0,Ullin village
+IL,1755379,Ohio,incorporated,47,A,465,"Ohio, IL",0,891,0,0,Ohio village
+IL,1707510,Bowen,incorporated,47,A,464,"Bowen, IL",0,892,0,0,Bowen village
+IL,1775809,Tovey,incorporated,47,A,464,"Tovey, IL",0,893,0,0,Tovey village
+IL,1701140,Altona,incorporated,47,A,463,"Altona, IL",0,894,0,0,Altona village
+IL,1702531,Ashley,incorporated,25,A,462,"Ashley, IL",0,895,0,0,Ashley city
+IL,1759709,Pierron,incorporated,47,A,459,"Pierron, IL",0,896,0,0,Pierron village
+IL,1767158,St. Rose,incorporated,47,A,459,"St. Rose, IL",0,897,0,0,St. Rose village
+IL,1700815,Allendale,incorporated,47,A,458,"Allendale, IL",0,898,0,0,Allendale village
+IL,1773943,Sun River Terrace,incorporated,47,A,455,"Sun River Terrace, IL",0,899,0,0,Sun River Terrace village
+IL,1718446,Dalton City,incorporated,47,A,454,"Dalton City, IL",0,900,0,0,Dalton City village
+IL,1710591,Camargo,incorporated,47,A,452,"Camargo, IL",0,901,0,0,Camargo village
+IL,1738895,Kaneville,incorporated,47,A,452,"Kaneville, IL",0,902,0,0,Kaneville village
+IL,1750829,Mount Auburn,incorporated,47,A,452,"Mount Auburn, IL",0,903,0,0,Mount Auburn village
+IL,1723269,Elkhart,incorporated,47,A,450,"Elkhart, IL",0,904,0,0,Elkhart village
+IL,1709434,Buffalo,incorporated,47,A,447,"Buffalo, IL",0,905,0,0,Buffalo village
+IL,1719200,De Land,incorporated,47,A,447,"De Land, IL",0,906,0,0,De Land village
+IL,1737647,Ipava,incorporated,47,A,447,"Ipava, IL",0,907,0,0,Ipava village
+IL,1716405,Cornell,incorporated,47,A,446,"Cornell, IL",0,908,0,0,Cornell village
+IL,1777720,Versailles,incorporated,47,A,446,"Versailles, IL",0,909,0,0,Versailles village
+IL,1735398,Hoffman,incorporated,47,A,439,"Hoffman, IL",0,910,0,0,Hoffman village
+IL,1754404,Norwood,incorporated,47,A,437,"Norwood, IL",0,911,0,0,Norwood village
+IL,1760833,Plymouth,incorporated,47,A,436,"Plymouth, IL",0,912,0,0,Plymouth village
+IL,1767925,Scales Mound,incorporated,47,A,436,"Scales Mound, IL",0,913,0,0,Scales Mound village
+IL,1712970,Cherry,incorporated,47,A,435,"Cherry, IL",0,914,0,0,Cherry village
+IL,1774379,Tallula,incorporated,47,A,434,"Tallula, IL",0,915,0,0,Tallula village
+IL,1729093,German Valley,incorporated,47,A,433,"German Valley, IL",0,916,0,0,German Valley village
+IL,1742457,Leaf River,incorporated,47,A,432,"Leaf River, IL",0,917,0,0,Leaf River village
+IL,1775822,Towanda,incorporated,47,A,431,"Towanda, IL",0,918,0,0,Towanda village
+IL,1739077,Karnak,incorporated,47,A,430,"Karnak, IL",0,919,0,0,Karnak village
+IL,1774457,Tamms,incorporated,47,A,430,"Tamms, IL",0,920,0,0,Tamms village
+IL,1733877,Hecker,incorporated,47,A,429,"Hecker, IL",0,921,0,0,Hecker village
+IL,1770525,Sorento,incorporated,47,A,429,"Sorento, IL",0,922,0,0,Sorento village
+IL,1704598,Beecher City,incorporated,47,A,428,"Beecher City, IL",0,923,0,0,Beecher City village
+IL,1751999,Neponset,incorporated,47,A,427,"Neponset, IL",0,924,0,0,Neponset village
+IL,1725063,Fairview,incorporated,47,A,426,"Fairview, IL",0,925,0,0,Fairview village
+IL,1744823,Lostant,incorporated,47,A,423,"Lostant, IL",0,926,0,0,Lostant village
+IL,1736150,Hopewell,incorporated,47,A,421,"Hopewell, IL",0,927,0,0,Hopewell village
+IL,1735073,Hillsdale,incorporated,47,A,417,"Hillsdale, IL",0,928,0,0,Hillsdale village
+IL,1748268,Melvin,incorporated,47,A,416,"Melvin, IL",0,929,0,0,Melvin village
+IL,1705261,Benson,incorporated,47,A,412,"Benson, IL",0,930,0,0,Benson village
+IL,1751648,Naplate,incorporated,47,A,412,"Naplate, IL",0,931,0,0,Naplate village
+IL,1750062,Monroe Center,incorporated,47,A,411,"Monroe Center, IL",0,932,0,0,Monroe Center village
+IL,1709330,Buckner,incorporated,47,A,409,"Buckner, IL",0,933,0,0,Buckner village
+IL,1778708,Waltonville,incorporated,47,A,408,"Waltonville, IL",0,934,0,0,Waltonville village
+IL,1761548,Prairie City,incorporated,47,A,407,"Prairie City, IL",0,935,0,0,Prairie City village
+IL,1739753,Keyesport,incorporated,47,A,406,"Keyesport, IL",0,936,0,0,Keyesport village
+IL,1767795,Saunemin,incorporated,47,A,406,"Saunemin, IL",0,937,0,0,Saunemin village
+IL,1744381,Lomax,incorporated,47,A,404,"Lomax, IL",0,938,0,0,Lomax village
+IL,1766534,Sadorus,incorporated,47,A,402,"Sadorus, IL",0,939,0,0,Sadorus village
+IL,1737439,Industry,incorporated,47,A,399,"Industry, IL",0,940,0,0,Industry village
+IL,1752506,New Haven,incorporated,47,A,399,"New Haven, IL",0,941,0,0,New Haven village
+IL,1722567,Edgewood,incorporated,47,A,398,"Edgewood, IL",0,942,0,0,Edgewood village
+IL,1736516,Hull,incorporated,47,A,392,"Hull, IL",0,943,0,0,Hull village
+IL,1721618,East Carondelet,incorporated,47,A,390,"East Carondelet, IL",0,944,0,0,East Carondelet village
+IL,1707211,Bondville,incorporated,47,A,388,"Bondville, IL",0,945,0,0,Bondville village
+IL,1779449,Waynesville,incorporated,47,A,381,"Waynesville, IL",0,946,0,0,Waynesville village
+IL,1773287,Sublette,incorporated,47,A,380,"Sublette, IL",0,947,0,0,Sublette village
+IL,1783739,Xenia,incorporated,47,A,380,"Xenia, IL",0,948,0,0,Xenia village
+IL,1748138,Medora,incorporated,47,A,379,"Medora, IL",0,949,0,0,Medora village
+IL,1777395,Varna,incorporated,47,A,375,"Varna, IL",0,950,0,0,Varna village
+IL,1707263,Bonnie,incorporated,47,A,374,"Bonnie, IL",0,951,0,0,Bonnie village
+IL,1737738,Irving,incorporated,47,A,373,"Irving, IL",0,952,0,0,Irving village
+IL,1711176,Carbon Hill,incorporated,47,A,372,"Carbon Hill, IL",0,953,0,0,Carbon Hill village
+IL,1738739,Joy,incorporated,47,A,372,"Joy, IL",0,954,0,0,Joy village
+IL,1779683,Weldon,incorporated,47,A,369,"Weldon, IL",0,955,0,0,Weldon village
+IL,1720565,Dowell,incorporated,47,A,368,"Dowell, IL",0,956,0,0,Dowell village
+IL,1701946,Arenzville,incorporated,47,A,367,"Arenzville, IL",0,957,0,0,Arenzville village
+IL,1771422,Sparland,incorporated,47,A,366,"Sparland, IL",0,958,0,0,Sparland village
+IL,1730458,Good Hope,incorporated,47,A,363,"Good Hope, IL",0,959,0,0,Good Hope village
+IL,1718225,Cutler,incorporated,47,A,361,"Cutler, IL",0,960,0,0,Cutler village
+IL,1736542,Humboldt,incorporated,47,A,361,"Humboldt, IL",0,961,0,0,Humboldt village
+IL,1704689,Belgium,incorporated,47,A,358,"Belgium, IL",0,962,0,0,Belgium village
+IL,1734332,Herrick,incorporated,47,A,358,"Herrick, IL",0,963,0,0,Herrick village
+IL,1744264,Loda,incorporated,47,A,356,"Loda, IL",0,964,0,0,Loda village
+IL,1738323,Jeffersonville,incorporated,47,A,355,"Jeffersonville, IL",0,965,0,0,Jeffersonville village
+IL,1704273,Bay View Gardens,incorporated,47,A,354,"Bay View Gardens, IL",0,966,0,0,Bay View Gardens village
+IL,1774301,Table Grove,incorporated,47,A,353,"Table Grove, IL",0,967,0,0,Table Grove village
+IL,1707237,Bonfield,incorporated,47,A,351,"Bonfield, IL",0,968,0,0,Bonfield village
+IL,1738674,Joppa,incorporated,47,A,350,"Joppa, IL",0,969,0,0,Joppa village
+IL,1744446,London Mills,incorporated,47,A,350,"London Mills, IL",0,970,0,0,London Mills village
+IL,1752415,New Douglas,incorporated,47,A,350,"New Douglas, IL",0,971,0,0,New Douglas village
+IL,1701673,Apple River,incorporated,47,A,347,"Apple River, IL",0,972,0,0,Apple River village
+IL,1773547,Summerfield,incorporated,47,A,347,"Summerfield, IL",0,973,0,0,Summerfield village
+IL,1704897,Bellflower,incorporated,47,A,346,"Bellflower, IL",0,974,0,0,Bellflower village
+IL,1764655,Roberts,incorporated,47,A,345,"Roberts, IL",0,975,0,0,Roberts village
+IL,1768510,Secor,incorporated,47,A,342,"Secor, IL",0,976,0,0,Secor village
+IL,1730978,Grantfork,incorporated,47,A,341,"Grantfork, IL",0,977,0,0,Grantfork village
+IL,1757498,Panama,incorporated,47,A,337,"Panama, IL",0,978,0,0,Panama village
+IL,1747280,Martinton,incorporated,47,A,334,"Martinton, IL",0,979,0,0,Martinton village
+IL,1752311,New Canton,incorporated,43,A,334,"New Canton, IL",0,980,0,0,New Canton town
+IL,1742249,Latham,incorporated,47,A,333,"Latham, IL",0,981,0,0,Latham village
+IL,1748853,Middletown,incorporated,47,A,329,"Middletown, IL",0,982,0,0,Middletown village
+IL,1769914,Sigel,incorporated,43,A,329,"Sigel, IL",0,983,0,0,Sigel town
+IL,1723503,Ellis Grove,incorporated,47,A,328,"Ellis Grove, IL",0,984,0,0,Ellis Grove village
+IL,1756536,Orient,incorporated,25,A,327,"Orient, IL",0,985,0,0,Orient city
+IL,1736568,Hume,incorporated,47,A,325,"Hume, IL",0,986,0,0,Hume village
+IL,1731667,Greenwood,incorporated,47,A,324,"Greenwood, IL",0,987,0,0,Greenwood village
+IL,1726350,Flat Rock,incorporated,47,A,323,"Flat Rock, IL",0,988,0,0,Flat Rock village
+IL,1747449,Mason,incorporated,43,A,323,"Mason, IL",0,989,0,0,Mason town
+IL,1767132,St. Peter,incorporated,47,A,322,"St. Peter, IL",0,990,0,0,St. Peter village
+IL,1768471,Seatonville,incorporated,47,A,321,"Seatonville, IL",0,991,0,0,Seatonville village
+IL,1732616,Hanaford,incorporated,47,A,320,"Hanaford, IL",0,992,0,0,Hanaford village
+IL,1701205,Alto Pass,incorporated,47,A,319,"Alto Pass, IL",0,993,0,0,Alto Pass village
+IL,1700919,Alma,incorporated,47,A,318,"Alma, IL",0,994,0,0,Alma village
+IL,1746240,Malden,incorporated,47,A,318,"Malden, IL",0,995,0,0,Malden village
+IL,1715209,Coalton,incorporated,47,A,317,"Coalton, IL",0,996,0,0,Coalton village
+IL,1708420,Broadlands,incorporated,47,A,316,"Broadlands, IL",0,997,0,0,Broadlands village
+IL,1703454,Baldwin,incorporated,47,A,314,"Baldwin, IL",0,998,0,0,Baldwin village
+IL,1759156,Perry,incorporated,47,A,314,"Perry, IL",0,999,0,0,Perry village
+IL,1742587,Lee,incorporated,47,A,313,"Lee, IL",0,1000,0,0,Lee village
+IL,1766287,Ruma,incorporated,47,A,313,"Ruma, IL",0,1001,0,0,Ruma village
+IL,1722151,Easton,incorporated,47,A,312,"Easton, IL",0,1002,0,0,Easton village
+IL,1739532,Kenney,incorporated,47,A,311,"Kenney, IL",0,1003,0,0,Kenney village
+IL,1750920,Mount Clare,incorporated,47,A,311,"Mount Clare, IL",0,1004,0,0,Mount Clare village
+IL,1702206,Armington,incorporated,47,A,310,"Armington, IL",0,1005,0,0,Armington village
+IL,1738856,Kampsville,incorporated,47,A,310,"Kampsville, IL",0,1006,0,0,Kampsville village
+IL,1704806,Belle Rive,incorporated,47,A,309,"Belle Rive, IL",0,1007,0,0,Belle Rive village
+IL,1710773,Campbell Hill,incorporated,47,A,309,"Campbell Hill, IL",0,1008,0,0,Campbell Hill village
+IL,1745174,Ludlow,incorporated,47,A,308,"Ludlow, IL",0,1009,0,0,Ludlow village
+IL,1762757,Ransom,incorporated,47,A,308,"Ransom, IL",0,1010,0,0,Ransom village
+IL,1704507,Beaverville,incorporated,47,A,306,"Beaverville, IL",0,1011,0,0,Beaverville village
+IL,1726077,Fillmore,incorporated,47,A,305,"Fillmore, IL",0,1012,0,0,Fillmore village
+IL,1725713,Fayetteville,incorporated,47,A,302,"Fayetteville, IL",0,1013,0,0,Fayetteville village
+IL,1705898,Biggsville,incorporated,47,A,300,"Biggsville, IL",0,1014,0,0,Biggsville village
+IL,1724673,Ewing,incorporated,47,A,300,"Ewing, IL",0,1015,0,0,Ewing village
+IL,1744719,Loraine,incorporated,47,A,300,"Loraine, IL",0,1016,0,0,Loraine village
+IL,1746422,Manlius,incorporated,47,A,298,"Manlius, IL",0,1017,0,0,Manlius village
+IL,1738869,Kane,incorporated,47,A,296,"Kane, IL",0,1018,0,0,Kane village
+IL,1764837,Rock City,incorporated,47,A,293,"Rock City, IL",0,1019,0,0,Rock City village
+IL,1766157,Royal,incorporated,47,A,293,"Royal, IL",0,1020,0,0,Royal village
+IL,1721605,East Cape Girardeau,incorporated,47,A,289,"East Cape Girardeau, IL",0,1021,0,0,East Cape Girardeau village
+IL,1778175,Virgil,incorporated,47,A,289,"Virgil, IL",0,1022,0,0,Virgil village
+IL,1769810,Sibley,incorporated,47,A,288,"Sibley, IL",0,1023,0,0,Sibley village
+IL,1755899,Olmsted,incorporated,47,A,285,"Olmsted, IL",0,1024,0,0,Olmsted village
+IL,1762588,Raleigh,incorporated,47,A,284,"Raleigh, IL",0,1025,0,0,Raleigh village
+IL,1744082,Little York,incorporated,47,A,283,"Little York, IL",0,1026,0,0,Little York village
+IL,1751882,Nebo,incorporated,47,A,282,"Nebo, IL",0,1027,0,0,Nebo village
+IL,1709681,Bureau Junction,incorporated,47,A,281,"Bureau Junction, IL",0,1028,0,0,Bureau Junction village
+IL,1782543,Winslow,incorporated,47,A,281,"Winslow, IL",0,1029,0,0,Winslow village
+IL,1704156,Bath,incorporated,47,A,279,"Bath, IL",0,1030,0,0,Bath village
+IL,1749100,Millbrook,incorporated,47,A,277,"Millbrook, IL",0,1031,0,0,Millbrook village
+IL,1702342,Arrowsmith,incorporated,47,A,276,"Arrowsmith, IL",0,1032,0,0,Arrowsmith village
+IL,1735281,Hindsboro,incorporated,47,A,275,"Hindsboro, IL",0,1033,0,0,Hindsboro village
+IL,1745850,McNabb,incorporated,47,A,275,"McNabb, IL",0,1034,0,0,McNabb village
+IL,1752545,New Holland,incorporated,47,A,275,"New Holland, IL",0,1035,0,0,New Holland village
+IL,1715989,Compton,incorporated,47,A,274,"Compton, IL",0,1036,0,0,Compton village
+IL,1723425,Elliott,incorporated,47,A,274,"Elliott, IL",0,1037,0,0,Elliott village
+IL,1708524,Brocton,incorporated,47,A,273,"Brocton, IL",0,1038,0,0,Brocton village
+IL,1743900,Lisbon,incorporated,47,A,271,"Lisbon, IL",0,1039,0,0,Lisbon village
+IL,1760339,Plainville,incorporated,47,A,271,"Plainville, IL",0,1040,0,0,Plainville village
+IL,1721852,East Gillespie,incorporated,47,A,269,"East Gillespie, IL",0,1041,0,0,East Gillespie village
+IL,1727858,Freeman Spur,incorporated,47,A,268,"Freeman Spur, IL",0,1042,0,0,Freeman Spur village
+IL,1767873,Sawyerville,incorporated,47,A,268,"Sawyerville, IL",0,1043,0,0,Sawyerville village
+IL,1777811,Victoria,incorporated,47,A,268,"Victoria, IL",0,1044,0,0,Victoria village
+IL,1711982,Cedar Point,incorporated,47,A,266,"Cedar Point, IL",0,1045,0,0,Cedar Point village
+IL,1734007,Henderson,incorporated,47,A,266,"Henderson, IL",0,1046,0,0,Henderson village
+IL,1740091,Kingston Mines,incorporated,47,A,266,"Kingston Mines, IL",0,1047,0,0,Kingston Mines village
+IL,1737998,Ivesdale,incorporated,47,A,265,"Ivesdale, IL",0,1048,0,0,Ivesdale village
+IL,1739857,Kilbourne,incorporated,47,A,265,"Kilbourne, IL",0,1049,0,0,Kilbourne village
+IL,1746331,Manchester,incorporated,47,A,265,"Manchester, IL",0,1050,0,0,Manchester village
+IL,1700880,Allerton,incorporated,47,A,262,"Allerton, IL",0,1051,0,0,Allerton village
+IL,1721098,Dunfermline,incorporated,47,A,262,"Dunfermline, IL",0,1052,0,0,Dunfermline village
+IL,1733318,Hartsburg,incorporated,47,A,262,"Hartsburg, IL",0,1053,0,0,Hartsburg village
+IL,1746643,Mapleton,incorporated,47,A,261,"Mapleton, IL",0,1054,0,0,Mapleton village
+IL,1700230,Addieville,incorporated,47,A,259,"Addieville, IL",0,1055,0,0,Addieville village
+IL,1766443,Rutland,incorporated,47,A,259,"Rutland, IL",0,1056,0,0,Rutland village
+IL,1746110,Magnolia,incorporated,47,A,256,"Magnolia, IL",0,1057,0,0,Magnolia village
+IL,1745525,McClure,incorporated,47,A,256,"McClure, IL",0,1058,0,0,McClure village
+IL,1714442,Cisco,incorporated,47,A,254,"Cisco, IL",0,1059,0,0,Cisco village
+IL,1720331,Donovan,incorporated,47,A,251,"Donovan, IL",0,1060,0,0,Donovan village
+IL,1745564,McCook,incorporated,47,A,249,"McCook, IL",0,1061,0,0,McCook village
+IL,1783102,Woodland,incorporated,47,A,248,"Woodland, IL",0,1062,0,0,Woodland village
+IL,1704936,Bellmont,incorporated,47,A,247,"Bellmont, IL",0,1063,0,0,Bellmont village
+IL,1709304,Buckingham,incorporated,47,A,244,"Buckingham, IL",0,1064,0,0,Buckingham village
+IL,1710084,Bush,incorporated,47,A,241,"Bush, IL",0,1065,0,0,Bush village
+IL,1763719,Richview,incorporated,47,A,238,"Richview, IL",0,1066,0,0,Richview village
+IL,1766800,Ste. Marie,incorporated,47,A,238,"Ste. Marie, IL",0,1067,0,0,Ste. Marie village
+IL,1738921,Kangley,incorporated,47,A,235,"Kangley, IL",0,1068,0,0,Kangley village
+IL,1777525,Vergennes,incorporated,47,A,235,"Vergennes, IL",0,1069,0,0,Vergennes village
+IL,1729431,Gladstone,incorporated,47,A,234,"Gladstone, IL",0,1070,0,0,Gladstone village
+IL,1754625,Oakford,incorporated,47,A,234,"Oakford, IL",0,1071,0,0,Oakford village
+IL,1701242,Alvan (Alvin),incorporated,47,A,233,"Alvan (Alvin), IL",0,1072,0,0,Alvan (Alvin) village
+IL,1710292,Cabery,incorporated,47,A,231,"Cabery, IL",0,1073,0,0,Cabery village
+IL,1739038,Kappa,incorporated,47,A,229,"Kappa, IL",0,1074,0,0,Kappa village
+IL,1772624,Steward,incorporated,47,A,229,"Steward, IL",0,1075,0,0,Steward village
+IL,1711826,Cave-In-Rock,incorporated,47,A,228,"Cave-In-Rock, IL",0,1076,0,0,Cave-In-Rock village
+IL,1737348,Indianola,incorporated,47,A,227,"Indianola, IL",0,1077,0,0,Indianola village
+IL,1742938,Lerna,incorporated,47,A,226,"Lerna, IL",0,1078,0,0,Lerna village
+IL,1772221,Standard,incorporated,47,A,225,"Standard, IL",0,1079,0,0,Standard village
+IL,1776225,Troy Grove,incorporated,47,A,225,"Troy Grove, IL",0,1080,0,0,Troy Grove village
+IL,1772884,Stonefort,incorporated,47,A,224,"Stonefort, IL",0,1081,0,0,Stonefort village
+IL,1726753,Forest City,incorporated,47,A,222,"Forest City, IL",0,1082,0,0,Forest City village
+IL,1723191,Elizabethtown,incorporated,47,A,220,"Elizabethtown, IL",0,1083,0,0,Elizabethtown village
+IL,1760391,Plattville,incorporated,47,A,220,"Plattville, IL",0,1084,0,0,Plattville village
+IL,1728807,Gays,incorporated,47,A,218,"Gays, IL",0,1085,0,0,Gays village
+IL,1746695,Maquon,incorporated,47,A,218,"Maquon, IL",0,1086,0,0,Maquon village
+IL,1718251,Cypress,incorporated,47,A,217,"Cypress, IL",0,1087,0,0,Cypress village
+IL,1757303,Palmer,incorporated,47,A,216,"Palmer, IL",0,1088,0,0,Palmer village
+IL,1774847,Thawville,incorporated,47,A,215,"Thawville, IL",0,1089,0,0,Thawville village
+IL,1749477,Milton,incorporated,47,A,214,"Milton, IL",0,1090,0,0,Milton village
+IL,1767372,Sammons Point,incorporated,47,A,214,"Sammons Point, IL",0,1091,0,0,Sammons Point village
+IL,1768458,Seaton,incorporated,47,A,214,"Seaton, IL",0,1092,0,0,Seaton village
+IL,1718147,Curran,incorporated,47,A,213,"Curran, IL",0,1093,0,0,Curran village
+IL,1709538,Bulpitt,incorporated,47,A,212,"Bulpitt, IL",0,1094,0,0,Bulpitt village
+IL,1781191,White City,incorporated,47,A,212,"White City, IL",0,1095,0,0,White City village
+IL,1748359,Menominee,incorporated,47,A,211,"Menominee, IL",0,1096,0,0,Menominee village
+IL,1703675,Bardolph,incorporated,47,A,210,"Bardolph, IL",0,1097,0,0,Bardolph village
+IL,1734137,Henning,incorporated,47,A,210,"Henning, IL",0,1098,0,0,Henning village
+IL,1750283,Montrose,incorporated,47,A,210,"Montrose, IL",0,1099,0,0,Montrose village
+IL,1756003,Omaha,incorporated,47,A,209,"Omaha, IL",0,1100,0,0,Omaha village
+IL,1757043,Owaneco,incorporated,47,A,209,"Owaneco, IL",0,1101,0,0,Owaneco village
+IL,1764148,Rio,incorporated,47,A,209,"Rio, IL",0,1102,0,0,Rio village
+IL,1774873,Thebes,incorporated,47,A,208,"Thebes, IL",0,1103,0,0,Thebes village
+IL,1777707,Verona,incorporated,47,A,208,"Verona, IL",0,1104,0,0,Verona village
+IL,1709551,Buncombe,incorporated,47,A,207,"Buncombe, IL",0,1105,0,0,Buncombe village
+IL,1749516,Mineral,incorporated,47,A,206,"Mineral, IL",0,1106,0,0,Mineral village
+IL,1779735,Wellington,incorporated,47,A,206,"Wellington, IL",0,1107,0,0,Wellington village
+IL,1744576,Long Point,incorporated,47,A,204,"Long Point, IL",0,1108,0,0,Long Point village
+IL,1777551,Vermilion,incorporated,47,A,203,"Vermilion, IL",0,1109,0,0,Vermilion village
+IL,1753039,Nilwood,incorporated,43,A,201,"Nilwood, IL",0,1110,0,0,Nilwood town
+IL,1751726,Nason,incorporated,25,A,199,"Nason, IL",0,1111,0,0,Nason city
+IL,1754586,Oakdale,incorporated,47,A,199,"Oakdale, IL",0,1112,0,0,Oakdale village
+IL,1763056,Reddick,incorporated,47,A,199,"Reddick, IL",0,1113,0,0,Reddick village
+IL,1738427,Jewett,incorporated,47,A,196,"Jewett, IL",0,1114,0,0,Jewett village
+IL,1700997,Alsey,incorporated,47,A,195,"Alsey, IL",0,1115,0,0,Alsey village
+IL,1741214,Lake Ka-Ho,incorporated,47,A,194,"Lake Ka-Ho, IL",0,1116,0,0,Lake Ka-Ho village
+IL,1770226,Smithfield,incorporated,47,A,191,"Smithfield, IL",0,1117,0,0,Smithfield village
+IL,1739922,Kinderhook,incorporated,47,A,189,"Kinderhook, IL",0,1118,0,0,Kinderhook village
+IL,1769797,Shumway,incorporated,47,A,188,"Shumway, IL",0,1119,0,0,Shumway village
+IL,1757693,Parkersburg,incorporated,47,A,186,"Parkersburg, IL",0,1120,0,0,Parkersburg village
+IL,1708875,Broughton,incorporated,47,A,185,"Broughton, IL",0,1121,0,0,Broughton village
+IL,1723555,Ellsworth,incorporated,47,A,184,"Ellsworth, IL",0,1122,0,0,Ellsworth village
+IL,1710422,Caledonia,incorporated,47,A,183,"Caledonia, IL",0,1123,0,0,Caledonia village
+IL,1762523,Radom,incorporated,47,A,183,"Radom, IL",0,1124,0,0,Radom village
+IL,1781815,Williamson,incorporated,47,A,183,"Williamson, IL",0,1125,0,0,Williamson village
+IL,1749802,Modesto,incorporated,47,A,182,"Modesto, IL",0,1126,0,0,Modesto village
+IL,1707224,Bone Gap,incorporated,47,A,181,"Bone Gap, IL",0,1127,0,0,Bone Gap village
+IL,1771526,Spillertown,incorporated,47,A,181,"Spillertown, IL",0,1128,0,0,Spillertown village
+IL,1778383,Waggoner,incorporated,47,A,181,"Waggoner, IL",0,1129,0,0,Waggoner village
+IL,1736074,Hooppole,incorporated,47,A,180,"Hooppole, IL",0,1130,0,0,Hooppole village
+IL,1733357,Harvel,incorporated,47,A,178,"Harvel, IL",0,1131,0,0,Harvel village
+IL,1726012,Fieldon,incorporated,47,A,176,"Fieldon, IL",0,1132,0,0,Fieldon village
+IL,1739441,Kempton,incorporated,47,A,176,"Kempton, IL",0,1133,0,0,Kempton village
+IL,1749347,Mill Shoals,incorporated,47,A,176,"Mill Shoals, IL",0,1134,0,0,Mill Shoals village
+IL,1720890,Du Bois,incorporated,47,A,175,"Du Bois, IL",0,1135,0,0,Du Bois village
+IL,1752714,New Minden,incorporated,47,A,175,"New Minden, IL",0,1136,0,0,New Minden village
+IL,1764811,Rockbridge,incorporated,47,A,175,"Rockbridge, IL",0,1137,0,0,Rockbridge village
+IL,1739259,Keensburg,incorporated,47,A,174,"Keensburg, IL",0,1138,0,0,Keensburg village
+IL,1730588,Gorham,incorporated,47,A,173,"Gorham, IL",0,1139,0,0,Gorham village
+IL,1739324,Kell,incorporated,47,A,173,"Kell, IL",0,1140,0,0,Kell village
+IL,1753390,Norris,incorporated,47,A,173,"Norris, IL",0,1141,0,0,Norris village
+IL,1704247,Baylis,incorporated,47,A,172,"Baylis, IL",0,1142,0,0,Baylis village
+IL,1782010,Willow Hill,incorporated,47,A,172,"Willow Hill, IL",0,1143,0,0,Willow Hill village
+IL,1704117,Batchtown,incorporated,47,A,170,"Batchtown, IL",0,1144,0,0,Batchtown village
+IL,1713165,Chesterfield,incorporated,47,A,170,"Chesterfield, IL",0,1145,0,0,Chesterfield village
+IL,1702102,Arlington,incorporated,47,A,169,"Arlington, IL",0,1146,0,0,Arlington village
+IL,1703571,Banner,incorporated,47,A,169,"Banner, IL",0,1147,0,0,Banner village
+IL,1709161,Bryant,incorporated,47,A,168,"Bryant, IL",0,1148,0,0,Bryant village
+IL,1715807,Colp,incorporated,47,A,168,"Colp, IL",0,1149,0,0,Colp village
+IL,1715469,Coleta,incorporated,47,A,167,"Coleta, IL",0,1150,0,0,Coleta village
+IL,1766196,Royal Lakes,incorporated,47,A,167,"Royal Lakes, IL",0,1151,0,0,Royal Lakes village
+IL,1770031,Sims,incorporated,47,A,166,"Sims, IL",0,1152,0,0,Sims village
+IL,1710149,Butler,incorporated,47,A,164,"Butler, IL",0,1153,0,0,Butler village
+IL,1710448,Calhoun,incorporated,47,A,164,"Calhoun, IL",0,1154,0,0,Calhoun village
+IL,1701361,Anchor,incorporated,47,A,163,"Anchor, IL",0,1155,0,0,Anchor village
+IL,1714923,Cleveland,incorporated,47,A,163,"Cleveland, IL",0,1156,0,0,Cleveland village
+IL,1766924,St. Johns,incorporated,47,A,163,"St. Johns, IL",0,1157,0,0,St. Johns village
+IL,1718485,Dana,incorporated,47,A,162,"Dana, IL",0,1158,0,0,Dana village
+IL,1753793,North Henderson,incorporated,47,A,162,"North Henderson, IL",0,1159,0,0,North Henderson village
+IL,1755639,Old Mill Creek,incorporated,47,A,162,"Old Mill Creek, IL",0,1160,0,0,Old Mill Creek village
+IL,1714533,Claremont,incorporated,47,A,161,"Claremont, IL",0,1161,0,0,Claremont village
+IL,1719798,De Witt,incorporated,47,A,160,"De Witt, IL",0,1162,0,0,De Witt village
+IL,1736477,Huey,incorporated,47,A,160,"Huey, IL",0,1163,0,0,Huey village
+IL,1740676,La Fayette,incorporated,47,A,160,"La Fayette, IL",0,1164,0,0,La Fayette village
+IL,1716210,Cooksville,incorporated,47,A,157,"Cooksville, IL",0,1165,0,0,Cooksville village
+IL,1751336,Muncie,incorporated,47,A,157,"Muncie, IL",0,1166,0,0,Muncie village
+IL,1762211,Pulaski,incorporated,47,A,154,"Pulaski, IL",0,1167,0,0,Pulaski village
+IL,1770213,Smithboro,incorporated,47,A,154,"Smithboro, IL",0,1168,0,0,Smithboro village
+IL,1720318,Donnellson,incorporated,47,A,153,"Donnellson, IL",0,1169,0,0,Donnellson village
+IL,1752285,New Burnside,incorporated,47,A,153,"New Burnside, IL",0,1170,0,0,New Burnside village
+IL,1715261,Coatsburg,incorporated,47,A,150,"Coatsburg, IL",0,1171,0,0,Coatsburg village
+IL,1716054,Concord,incorporated,47,A,150,"Concord, IL",0,1172,0,0,Concord village
+IL,1746058,Maeystown,incorporated,47,A,150,"Maeystown, IL",0,1173,0,0,Maeystown village
+IL,1752467,New Grand Chain,incorporated,47,A,150,"New Grand Chain, IL",0,1174,0,0,New Grand Chain village
+IL,1710916,Campus,incorporated,47,A,149,"Campus, IL",0,1175,0,0,Campus village
+IL,1723022,Eldred,incorporated,47,A,149,"Eldred, IL",0,1176,0,0,Eldred village
+IL,1734423,Hettick,incorporated,47,A,149,"Hettick, IL",0,1177,0,0,Hettick village
+IL,1743445,Lima,incorporated,47,A,148,"Lima, IL",0,1178,0,0,Lima village
+IL,1723841,Elvaston,incorporated,47,A,147,"Elvaston, IL",0,1179,0,0,Elvaston village
+IL,1711033,Cantrall,incorporated,47,A,144,"Cantrall, IL",0,1180,0,0,Cantrall village
+IL,1705443,Berlin,incorporated,47,A,141,"Berlin, IL",0,1181,0,0,Berlin village
+IL,1755132,Oconee,incorporated,47,A,141,"Oconee, IL",0,1182,0,0,Oconee village
+IL,1767756,Sauget,incorporated,47,A,141,"Sauget, IL",0,1183,0,0,Sauget village
+IL,1780762,West Point,incorporated,47,A,140,"West Point, IL",0,1184,0,0,West Point village
+IL,1708979,Browns,incorporated,47,A,139,"Browns, IL",0,1185,0,0,Browns village
+IL,1744056,Littleton,incorporated,47,A,139,"Littleton, IL",0,1186,0,0,Littleton village
+IL,1748632,Metcalf,incorporated,47,A,139,"Metcalf, IL",0,1187,0,0,Metcalf village
+IL,1763069,Redmon,incorporated,47,A,137,"Redmon, IL",0,1188,0,0,Redmon village
+IL,1708472,Broadwell,incorporated,47,A,136,"Broadwell, IL",0,1189,0,0,Broadwell village
+IL,1720526,Dover,incorporated,47,A,135,"Dover, IL",0,1190,0,0,Dover village
+IL,1772234,Standard City,incorporated,47,A,135,"Standard City, IL",0,1191,0,0,Standard City village
+IL,1720370,Dorchester,incorporated,47,A,133,"Dorchester, IL",0,1192,0,0,Dorchester village
+IL,1737712,Iroquois,incorporated,47,A,133,"Iroquois, IL",0,1193,0,0,Iroquois village
+IL,1757576,Papineau,incorporated,47,A,133,"Papineau, IL",0,1194,0,0,Papineau village
+IL,1700867,Allenville,incorporated,47,A,132,"Allenville, IL",0,1195,0,0,Allenville village
+IL,1780008,West Brooklyn,incorporated,47,A,131,"West Brooklyn, IL",0,1196,0,0,West Brooklyn village
+IL,1774275,Symerton,incorporated,47,A,128,"Symerton, IL",0,1197,0,0,Symerton village
+IL,1725895,Ferris,incorporated,47,A,127,"Ferris, IL",0,1198,0,0,Ferris village
+IL,1751947,Nelson,incorporated,47,A,127,"Nelson, IL",0,1199,0,0,Nelson village
+IL,1764044,Ridott,incorporated,47,A,124,"Ridott, IL",0,1200,0,0,Ridott village
+IL,1728742,Garrett,incorporated,47,A,122,"Garrett, IL",0,1201,0,0,Garrett village
+IL,1742912,Leonore,incorporated,47,A,121,"Leonore, IL",0,1202,0,0,Leonore village
+IL,1748073,Media,incorporated,47,A,121,"Media, IL",0,1203,0,0,Media village
+IL,1752805,New Salem,incorporated,47,A,121,"New Salem, IL",0,1204,0,0,New Salem village
+IL,1777408,Venedy,incorporated,47,A,121,"Venedy, IL",0,1205,0,0,Venedy village
+IL,1766677,St. Augustine,incorporated,47,A,119,"St. Augustine, IL",0,1206,0,0,St. Augustine village
+IL,1708953,Browning,incorporated,47,A,117,"Browning, IL",0,1207,0,0,Browning village
+IL,1750790,Mound Station,incorporated,47,A,117,"Mound Station, IL",0,1208,0,0,Mound Station village
+IL,1709148,Brussels,incorporated,47,A,116,"Brussels, IL",0,1209,0,0,Brussels village
+IL,1715846,Columbus,incorporated,47,A,114,"Columbus, IL",0,1210,0,0,Columbus village
+IL,1721410,Eagarville,incorporated,47,A,114,"Eagarville, IL",0,1211,0,0,Eagarville village
+IL,1706171,Bishop Hill,incorporated,47,A,113,"Bishop Hill, IL",0,1212,0,0,Bishop Hill village
+IL,1729496,Glasgow,incorporated,47,A,113,"Glasgow, IL",0,1213,0,0,Glasgow village
+IL,1755756,Old Shawneetown,incorporated,47,A,113,"Old Shawneetown, IL",0,1214,0,0,Old Shawneetown village
+IL,1744602,Longview,incorporated,47,A,112,"Longview, IL",0,1215,0,0,Longview village
+IL,1732967,Harmon,incorporated,47,A,111,"Harmon, IL",0,1216,0,0,Harmon village
+IL,1734553,Hidalgo,incorporated,47,A,111,"Hidalgo, IL",0,1217,0,0,Hidalgo village
+IL,1755418,Ohlman,incorporated,47,A,109,"Ohlman, IL",0,1218,0,0,Ohlman village
+IL,1773027,Stoy,incorporated,47,A,108,"Stoy, IL",0,1219,0,0,Stoy village
+IL,1753195,Nora,incorporated,47,A,107,"Nora, IL",0,1220,0,0,Nora village
+IL,1758343,Pearl,incorporated,47,A,103,"Pearl, IL",0,1221,0,0,Pearl village
+IL,1777681,Vernon,incorporated,47,A,103,"Vernon, IL",0,1222,0,0,Vernon village
+IL,1738349,Jeisyville,incorporated,47,A,102,"Jeisyville, IL",0,1223,0,0,Jeisyville village
+IL,1762848,Raritan,incorporated,47,A,102,"Raritan, IL",0,1224,0,0,Raritan village
+IL,1724062,Emington,incorporated,47,A,101,"Emington, IL",0,1225,0,0,Emington village
+IL,1746825,Marietta,incorporated,47,A,101,"Marietta, IL",0,1226,0,0,Marietta village
+IL,1771643,Springerton,incorporated,47,A,101,"Springerton, IL",0,1227,0,0,Springerton village
+IL,1773131,Strawn,incorporated,47,A,101,"Strawn, IL",0,1228,0,0,Strawn village
+IL,1774665,Tennessee,incorporated,47,A,101,"Tennessee, IL",0,1229,0,0,Tennessee village
+IL,1751661,Naples,incorporated,43,A,100,"Naples, IL",0,1230,0,0,Naples town
+IL,1722398,Eddyville,incorporated,47,A,99,"Eddyville, IL",0,1231,0,0,Eddyville village
+IL,1732395,Hamburg,incorporated,47,A,99,"Hamburg, IL",0,1232,0,0,Hamburg village
+IL,1761080,Pontoosuc,incorporated,47,A,99,"Pontoosuc, IL",0,1233,0,0,Pontoosuc village
+IL,1737621,Iola,incorporated,47,A,98,"Iola, IL",0,1234,0,0,Iola village
+IL,1742171,La Rose,incorporated,47,A,98,"La Rose, IL",0,1235,0,0,La Rose village
+IL,1750933,Mount Erie,incorporated,47,A,98,"Mount Erie, IL",0,1236,0,0,Mount Erie village
+IL,1766404,Russellville,incorporated,47,A,98,"Russellville, IL",0,1237,0,0,Russellville village
+IL,1725960,Fidelity,incorporated,47,A,96,"Fidelity, IL",0,1238,0,0,Fidelity village
+IL,1745369,Lynnville,incorporated,47,A,96,"Lynnville, IL",0,1239,0,0,Lynnville village
+IL,1781074,Wheeler,incorporated,47,A,96,"Wheeler, IL",0,1240,0,0,Wheeler village
+IL,1778604,Walnut Hill,incorporated,47,A,95,"Walnut Hill, IL",0,1241,0,0,Walnut Hill village
+IL,1735203,Hillview,incorporated,47,A,94,"Hillview, IL",0,1242,0,0,Hillview village
+IL,1744121,Liverpool,incorporated,47,A,94,"Liverpool, IL",0,1243,0,0,Liverpool village
+IL,1768406,Scottville,incorporated,47,A,93,"Scottville, IL",0,1244,0,0,Scottville village
+IL,1747592,Maunie,incorporated,47,A,91,"Maunie, IL",0,1245,0,0,Maunie village
+IL,1782088,Wilmington,incorporated,47,A,91,"Wilmington, IL",0,1246,0,0,Wilmington village
+IL,1740143,Kinsman,incorporated,47,A,90,"Kinsman, IL",0,1247,0,0,Kinsman village
+IL,1765754,Rose Hill,incorporated,47,A,89,"Rose Hill, IL",0,1248,0,0,Rose Hill village
+IL,1766599,Sailor Springs,incorporated,47,A,89,"Sailor Springs, IL",0,1249,0,0,Sailor Springs village
+IL,1704715,Belknap,incorporated,47,A,88,"Belknap, IL",0,1250,0,0,Belknap village
+IL,1723529,Ellisville,incorporated,47,A,87,"Ellisville, IL",0,1251,0,0,Ellisville village
+IL,1724699,Exeter,incorporated,47,A,87,"Exeter, IL",0,1252,0,0,Exeter village
+IL,1756978,Otterville,incorporated,43,A,87,"Otterville, IL",0,1253,0,0,Otterville town
+IL,1755717,Old Ripley,incorporated,47,A,82,"Old Ripley, IL",0,1254,0,0,Old Ripley village
+IL,1704052,Basco,incorporated,47,A,80,"Basco, IL",0,1255,0,0,Basco village
+IL,1721579,East Brooklyn,incorporated,47,A,80,"East Brooklyn, IL",0,1256,0,0,East Brooklyn village
+IL,1700295,Adeline,incorporated,47,A,78,"Adeline, IL",0,1257,0,0,Adeline village
+IL,1719681,Detroit,incorporated,47,A,76,"Detroit, IL",0,1258,0,0,Detroit village
+IL,1752155,New Bedford,incorporated,47,A,76,"New Bedford, IL",0,1259,0,0,New Bedford village
+IL,1726662,Foosland,incorporated,47,A,75,"Foosland, IL",0,1260,0,0,Foosland village
+IL,1738531,Johnsonville,incorporated,47,A,72,"Johnsonville, IL",0,1261,0,0,Johnsonville village
+IL,1737803,Irwin,incorporated,47,A,68,"Irwin, IL",0,1262,0,0,Irwin village
+IL,1783765,Yale,incorporated,47,A,67,"Yale, IL",0,1263,0,0,Yale village
+IL,1730250,Golden Gate,incorporated,47,A,65,"Golden Gate, IL",0,1264,0,0,Golden Gate village
+IL,1722957,El Dara,incorporated,47,A,63,"El Dara, IL",0,1265,0,0,El Dara village
+IL,1710695,Camden,incorporated,47,A,62,"Camden, IL",0,1266,0,0,Camden village
+IL,1751271,Muddy,incorporated,47,A,61,"Muddy, IL",0,1267,0,0,Muddy village
+IL,1778656,Walshville,incorporated,47,A,61,"Walshville, IL",0,1268,0,0,Walshville village
+IL,1706028,Bingham,incorporated,47,A,60,"Bingham, IL",0,1269,0,0,Bingham village
+IL,1775757,Topeka,incorporated,47,A,60,"Topeka, IL",0,1270,0,0,Topeka village
+IL,1749178,Mill Creek,incorporated,47,A,59,"Mill Creek, IL",0,1271,0,0,Mill Creek village
+IL,1738778,Junction,incorporated,47,A,56,"Junction, IL",0,1272,0,0,Junction village
+IL,1776771,Union Hill,incorporated,47,A,55,"Union Hill, IL",0,1273,0,0,Union Hill village
+IL,1764174,Ripley,incorporated,47,A,53,"Ripley, IL",0,1274,0,0,Ripley village
+IL,1739233,Keenes,incorporated,47,A,50,"Keenes, IL",0,1275,0,0,Keenes village
+IL,1704793,Belle Prairie City,incorporated,43,A,49,"Belle Prairie City, IL",0,1276,0,0,Belle Prairie City town
+IL,1757524,Panola,incorporated,47,A,47,"Panola, IL",0,1277,0,0,Panola village
+IL,1770005,Simpson,incorporated,47,A,44,"Simpson, IL",0,1278,0,0,Simpson village
+IL,1742080,La Prairie,incorporated,47,A,42,"La Prairie, IL",0,1279,0,0,La Prairie village
+IL,1719031,Deer Grove,incorporated,47,A,38,"Deer Grove, IL",0,1280,0,0,Deer Grove village
+IL,1768198,Sciota,incorporated,47,A,38,"Sciota, IL",0,1281,0,0,Sciota village
+IL,1709889,Burnt Prairie,incorporated,47,A,36,"Burnt Prairie, IL",0,1282,0,0,Burnt Prairie village
+IL,1735671,Hollowayville,incorporated,47,A,36,"Hollowayville, IL",0,1283,0,0,Hollowayville village
+IL,1759520,Phillipstown,incorporated,47,A,34,"Phillipstown, IL",0,1284,0,0,Phillipstown village
+IL,1765221,Rockwood,incorporated,47,A,32,"Rockwood, IL",0,1285,0,0,Rockwood village
+IL,1779826,Wenonah,incorporated,47,A,32,"Wenonah, IL",0,1286,0,0,Wenonah village
+IL,1705274,Bentley,incorporated,43,A,30,"Bentley, IL",0,1287,0,0,Bentley town
+IL,1745642,Macedonia,incorporated,47,A,30,"Macedonia, IL",0,1288,0,0,Macedonia village
+IL,1728170,Fults,incorporated,47,A,28,"Fults, IL",0,1289,0,0,Fults village
+IL,1739129,Kaskaskia,incorporated,47,A,21,"Kaskaskia, IL",0,1290,0,0,Kaskaskia village
+IL,1726480,Florence,incorporated,47,A,17,"Florence, IL",0,1291,0,0,Florence village
+IL,1777187,Valley City,incorporated,47,A,14,"Valley City, IL",0,1292,0,0,Valley City village
+IL,1710373,Cahokia Heights,incorporated,25,A,0,"Cahokia Heights, IL",0,1293,0,0,Cahokia Heights city
+IL,1731991,Gulfport,incorporated,47,A,0,"Gulfport, IL",0,1294,0,0,Gulfport village

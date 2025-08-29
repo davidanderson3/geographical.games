@@ -1,0 +1,9 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+CT,0947500,Milford,consolidated,25,A,0,"Milford, CT",0,1,250,1,Milford city
+GA,1303436,Athens-Clarke County,consolidated,UG,A,0,"Athens-Clarke County, GA",0,1,125,0.5,Athens-Clarke County unified government
+GA,1304200,Augusta-Richmond County,consolidated,CG,A,0,"Augusta-Richmond County, GA",0,2,125,0.5,Augusta-Richmond County consolidated government
+IN,1836000,Indianapolis,consolidated,25,A,0,"Indianapolis, IN",0,1,250,1,Indianapolis city
+KS,2028410,Greeley County,consolidated,UG,A,0,"Greeley County, KS",0,1,250,1,Greeley County unified government
+KY,2148003,Louisville/Jefferson County,consolidated,MT,A,0,"Louisville/Jefferson County, KY",0,1,250,1,Louisville/Jefferson County metro government
+MT,3011390,Butte-Silver Bow,consolidated,00,A,0,"Butte-Silver Bow, MT",0,1,250,1,Butte-Silver Bow
+TN,4752004,Nashville-Davidson,consolidated,MG,A,0,"Nashville-Davidson, TN",0,1,250,1,Nashville-Davidson metropolitan government

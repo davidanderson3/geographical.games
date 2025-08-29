@@ -1,0 +1,256 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+UT,4967000,Salt Lake City,incorporated,25,A,199723,"Salt Lake City, UT",0,1,93,0.372,Salt Lake City city
+UT,4983470,West Valley City,incorporated,25,A,140230,"West Valley City, UT",0,2,27,0.108,West Valley City city
+UT,4982950,West Jordan,incorporated,25,A,116961,"West Jordan, UT",0,3,15,0.06,West Jordan city
+UT,4962470,Provo,incorporated,25,A,115162,"Provo, UT",0,4,12,0.048,Provo city
+UT,4957300,Orem,incorporated,25,A,98129,"Orem, UT",0,5,8,0.032,Orem city
+UT,4967440,Sandy,incorporated,25,A,96904,"Sandy, UT",0,6,7,0.028,Sandy city
+UT,4965330,St. George,incorporated,25,A,95342,"St. George, UT",0,7,5,0.02,St. George city
+UT,4955980,Ogden,incorporated,25,A,87321,"Ogden, UT",0,8,5,0.02,Ogden city
+UT,4943660,Layton,incorporated,25,A,81773,"Layton, UT",0,9,5,0.02,Layton city
+UT,4970850,South Jordan,incorporated,25,A,77487,"South Jordan, UT",0,10,3,0.012,South Jordan city
+UT,4944320,Lehi,incorporated,25,A,75907,"Lehi, UT",0,11,3,0.012,Lehi city
+UT,4950150,Millcreek,incorporated,25,A,63380,"Millcreek, UT",0,12,4,0.016,Millcreek city
+UT,4975360,Taylorsville,incorporated,25,A,60448,"Taylorsville, UT",0,13,2,0.008,Taylorsville city
+UT,4934970,Herriman,incorporated,25,A,55144,"Herriman, UT",0,14,2,0.008,Herriman city
+UT,4945860,Logan,incorporated,25,A,52778,"Logan, UT",0,15,2,0.008,Logan city
+UT,4920120,Draper,incorporated,25,A,51017,"Draper, UT",0,16,3,0.012,Draper city
+UT,4953230,Murray,incorporated,25,A,50637,"Murray, UT",0,17,3,0.012,Murray city
+UT,4907690,Bountiful,incorporated,25,A,45762,"Bountiful, UT",0,18,3,0.012,Bountiful city
+UT,4964340,Riverton,incorporated,25,A,45285,"Riverton, UT",0,19,3,0.012,Riverton city
+UT,4920810,Eagle Mountain,incorporated,25,A,43623,"Eagle Mountain, UT",0,20,1,0.004,Eagle Mountain city
+UT,4971290,Spanish Fork,incorporated,25,A,42602,"Spanish Fork, UT",0,21,1,0.004,Spanish Fork city
+UT,4965110,Roy,incorporated,25,A,39306,"Roy, UT",0,22,1,0.004,Roy city
+UT,4960930,Pleasant Grove,incorporated,25,A,37726,"Pleasant Grove, UT",0,23,1,0.004,Pleasant Grove city
+UT,4967825,Saratoga Springs,incorporated,25,A,37696,"Saratoga Springs, UT",0,24,1,0.004,Saratoga Springs city
+UT,4940470,Kearns,incorporated,25,A,36723,"Kearns, UT",0,25,1,0.004,Kearns city
+UT,4949710,Midvale,incorporated,25,A,36028,"Midvale, UT",0,26,1,0.004,Midvale city
+UT,4976680,Tooele,incorporated,25,A,35742,"Tooele, UT",0,27,2,0.008,Tooele city
+UT,4972280,Springville,incorporated,25,A,35268,"Springville, UT",0,28,2,0.008,Springville city
+UT,4911320,Cedar City,incorporated,25,A,35235,"Cedar City, UT",0,29,2,0.008,Cedar City city
+UT,4916270,Cottonwood Heights,incorporated,25,A,33617,"Cottonwood Heights, UT",0,30,2,0.008,Cottonwood Heights city
+UT,4901310,American Fork,incorporated,25,A,33337,"American Fork, UT",0,31,2,0.008,American Fork city
+UT,4940360,Kaysville,incorporated,25,A,32945,"Kaysville, UT",0,32,2,0.008,Kaysville city
+UT,4974810,Syracuse,incorporated,25,A,32141,"Syracuse, UT",0,33,2,0.008,Syracuse city
+UT,4936070,Holladay,incorporated,25,A,31965,"Holladay, UT",0,34,2,0.008,Holladay city
+UT,4913850,Clearfield,incorporated,25,A,31909,"Clearfield, UT",0,35,2,0.008,Clearfield city
+UT,4947290,Magna,incorporated,25,A,29251,"Magna, UT",0,36,2,0.008,Magna city
+UT,4981960,Washington,incorporated,25,A,27993,"Washington, UT",0,37,2,0.008,Washington city
+UT,4971070,South Salt Lake,incorporated,25,A,26777,"South Salt Lake, UT",0,38,2,0.008,South Salt Lake city
+UT,4924740,Farmington,incorporated,25,A,24531,"Farmington, UT",0,39,2,0.008,Farmington city
+UT,4914290,Clinton,incorporated,25,A,23386,"Clinton, UT",0,40,2,0.008,Clinton city
+UT,4955210,North Salt Lake,incorporated,25,A,21907,"North Salt Lake, UT",0,41,2,0.008,North Salt Lake city
+UT,4958730,Payson,incorporated,25,A,21101,"Payson, UT",0,42,2,0.008,Payson city
+UT,4955100,North Ogden,incorporated,25,A,20916,"North Ogden, UT",0,43,2,0.008,North Ogden city
+UT,4937170,Hurricane,incorporated,25,A,20036,"Hurricane, UT",0,44,2,0.008,Hurricane city
+UT,4908460,Brigham City,incorporated,25,A,19650,"Brigham City, UT",0,45,1,0.004,Brigham City city
+UT,4935190,Highland,incorporated,25,A,19348,"Highland, UT",0,46,1,0.004,Highland city
+UT,4970960,South Ogden,incorporated,25,A,17488,"South Ogden, UT",0,47,0,0,South Ogden city
+UT,4906810,Bluffdale,incorporated,25,A,17014,"Bluffdale, UT",0,48,0,0,Bluffdale city
+UT,4911980,Centerville,incorporated,25,A,16884,"Centerville, UT",0,49,0,0,Centerville city
+UT,4934200,Heber,incorporated,25,A,16856,"Heber, UT",0,50,0,0,Heber city
+UT,4982930,West Haven,incorporated,25,A,16739,"West Haven, UT",0,51,0,0,West Haven city
+UT,4967770,Santaquin,incorporated,25,A,13725,"Santaquin, UT",0,52,0,0,Santaquin city
+UT,4969640,Smithfield,incorporated,25,A,13571,"Smithfield, UT",0,53,0,0,Smithfield city
+UT,4931120,Grantsville,incorporated,25,A,12617,"Grantsville, UT",0,54,0,0,Grantsville city
+UT,4980420,Vineyard,incorporated,43,A,12543,"Vineyard, UT",0,55,0,0,Vineyard town
+UT,4985370,Woods Cross,incorporated,25,A,11410,"Woods Cross, UT",0,56,0,0,Woods Cross city
+UT,4945090,Lindon,incorporated,25,A,11397,"Lindon, UT",0,57,0,0,Lindon city
+UT,4947950,Mapleton,incorporated,25,A,11365,"Mapleton, UT",0,58,0,0,Mapleton city
+UT,4961150,Pleasant View,incorporated,25,A,11083,"Pleasant View, UT",0,59,0,0,Pleasant View city
+UT,4954990,North Logan,incorporated,25,A,10986,"North Logan, UT",0,60,0,0,North Logan city
+UT,4983390,West Point,incorporated,25,A,10963,"West Point, UT",0,61,0,0,West Point city
+UT,4900540,Alpine,incorporated,25,A,10251,"Alpine, UT",0,62,0,0,Alpine city
+UT,4980090,Vernal,incorporated,25,A,10079,"Vernal, UT",0,63,0,0,Vernal city
+UT,4911440,Cedar Hills,incorporated,25,A,10019,"Cedar Hills, UT",0,64,0,0,Cedar Hills city
+UT,4977120,Tremonton,incorporated,25,A,9894,"Tremonton, UT",0,65,0,0,Tremonton city
+UT,4937500,Hyrum,incorporated,25,A,9362,"Hyrum, UT",0,66,0,0,Hyrum city
+UT,4964010,Riverdale,incorporated,25,A,9343,"Riverdale, UT",0,67,0,0,Riverdale city
+UT,4965770,Salem,incorporated,25,A,9298,"Salem, UT",0,68,0,0,Salem city
+UT,4982070,Washington Terrace,incorporated,25,A,9267,"Washington Terrace, UT",0,69,0,0,Washington Terrace city
+UT,4936400,Hooper,incorporated,25,A,9087,"Hooper, UT",0,70,0,0,Hooper city
+UT,4938710,Ivins,incorporated,25,A,8978,"Ivins, UT",0,71,0,0,Ivins city
+UT,4958070,Park City,incorporated,25,A,8396,"Park City, UT",0,72,0,0,Park City city
+UT,4962360,Providence,incorporated,25,A,8218,"Providence, UT",0,73,0,0,Providence city
+UT,4962030,Price,incorporated,25,A,8216,"Price, UT",0,74,0,0,Price city
+UT,4963570,Richfield,incorporated,25,A,8201,"Richfield, UT",0,75,0,0,Richfield city
+UT,4971180,South Weber,incorporated,25,A,7867,"South Weber, UT",0,76,0,0,South Weber city
+UT,4960710,Plain City,incorporated,25,A,7833,"Plain City, UT",0,77,0,0,Plain City city
+UT,4924850,Farr West,incorporated,25,A,7691,"Farr West, UT",0,78,0,0,Farr West city
+UT,4967660,Santa Clara,incorporated,25,A,7553,"Santa Clara, UT",0,79,0,0,Santa Clara city
+UT,4923200,Enoch,incorporated,25,A,7374,"Enoch, UT",0,80,0,0,Enoch city
+UT,4954660,Nibley,incorporated,25,A,7328,"Nibley, UT",0,81,0,0,Nibley city
+UT,4933540,Harrisville,incorporated,25,A,7036,"Harrisville, UT",0,82,0,0,Harrisville city
+UT,4964670,Roosevelt,incorporated,25,A,6747,"Roosevelt, UT",0,83,0,0,Roosevelt city
+UT,4954220,Nephi,incorporated,25,A,6443,"Nephi, UT",0,84,0,0,Nephi city
+UT,4927490,Fruit Heights,incorporated,25,A,6101,"Fruit Heights, UT",0,85,0,0,Fruit Heights city
+UT,4949820,Midway,incorporated,25,A,6003,"Midway, UT",0,86,0,0,Midway city
+UT,4982840,West Bountiful,incorporated,25,A,5917,"West Bountiful, UT",0,87,0,0,West Bountiful city
+UT,4923530,Ephraim,incorporated,25,A,5611,"Ephraim, UT",0,88,0,0,Ephraim city
+UT,4959390,Perry,incorporated,25,A,5555,"Perry, UT",0,89,0,0,Perry city
+UT,4984050,White City,incorporated,25,A,5522,"White City, UT",0,90,0,0,White City city
+UT,4974480,Sunset,incorporated,25,A,5475,"Sunset, UT",0,91,0,0,Sunset city
+UT,4950700,Moab,incorporated,25,A,5366,"Moab, UT",0,92,0,0,Moab city
+UT,4937390,Hyde Park,incorporated,25,A,5234,"Hyde Park, UT",0,93,0,0,Hyde Park city
+UT,4922370,Elk Ridge,incorporated,25,A,4687,"Elk Ridge, UT",0,94,0,0,Elk Ridge city
+UT,4939920,Kanab,incorporated,25,A,4683,"Kanab, UT",0,95,0,0,Kanab city
+UT,4943440,La Verkin,incorporated,25,A,4354,"La Verkin, UT",0,96,0,0,La Verkin city
+UT,4951910,Morgan,incorporated,25,A,4071,"Morgan, UT",0,97,0,0,Morgan city
+UT,4982620,Wellsville,incorporated,25,A,4060,"Wellsville, UT",0,98,0,0,Wellsville city
+UT,4923640,Erda,incorporated,25,A,3673,"Erda, UT",0,99,0,0,Erda city
+UT,4953010,Mount Pleasant,incorporated,25,A,3655,"Mount Pleasant, UT",0,100,0,0,Mount Pleasant city
+UT,4918910,Delta,incorporated,25,A,3622,"Delta, UT",0,101,0,0,Delta city
+UT,4904060,Beaver,incorporated,25,A,3592,"Beaver, UT",0,102,0,0,Beaver city
+UT,4932660,Gunnison,incorporated,25,A,3509,"Gunnison, UT",0,103,0,0,Gunnison city
+UT,4947730,Manti,incorporated,25,A,3429,"Manti, UT",0,104,0,0,Manti city
+UT,4906370,Blanding,incorporated,25,A,3394,"Blanding, UT",0,105,0,0,Blanding city
+UT,4958510,Parowan,incorporated,25,A,2996,"Parowan, UT",0,106,0,0,Parowan city
+UT,4963680,Richmond,incorporated,25,A,2914,"Richmond, UT",0,107,0,0,Richmond city
+UT,4925510,Fillmore,incorporated,25,A,2592,"Fillmore, UT",0,108,0,0,Fillmore city
+UT,4928150,Garland,incorporated,25,A,2589,"Garland, UT",0,109,0,0,Garland city
+UT,4951360,Monroe,incorporated,25,A,2515,"Monroe, UT",0,110,0,0,Monroe city
+UT,4965880,Salina,incorporated,25,A,2441,"Salina, UT",0,111,0,0,Salina city
+UT,4950370,Millville,incorporated,25,A,2326,"Millville, UT",0,112,0,0,Millville city
+UT,4953560,Naples,incorporated,25,A,2280,"Naples, UT",0,113,0,0,Naples city
+UT,4964120,River Heights,incorporated,25,A,2144,"River Heights, UT",0,114,0,0,River Heights city
+UT,4948300,Marriott-Slaterville,incorporated,25,A,2135,"Marriott-Slaterville, UT",0,115,0,0,Marriott-Slaterville city
+UT,4934530,Helper,incorporated,25,A,2112,"Helper, UT",0,116,0,0,Helper city
+UT,4939810,Kamas,incorporated,25,A,2092,"Kamas, UT",0,117,0,0,Kamas city
+UT,4923420,Enterprise,incorporated,25,A,2027,"Enterprise, UT",0,118,0,0,Enterprise city
+UT,4984710,Willard,incorporated,25,A,1978,"Willard, UT",0,119,0,0,Willard city
+UT,4944760,Lewiston,incorporated,25,A,1939,"Lewiston, UT",0,120,0,0,Lewiston city
+UT,4936950,Huntington,incorporated,25,A,1914,"Huntington, UT",0,121,0,0,Huntington city
+UT,4976900,Toquerville,incorporated,25,A,1870,"Toquerville, UT",0,122,0,0,Toquerville city
+UT,4951580,Monticello,incorporated,25,A,1824,"Monticello, UT",0,123,0,0,Monticello city
+UT,4951140,Mona,incorporated,25,A,1750,"Mona, UT",0,124,0,0,Mona city
+UT,4957740,Panguitch,incorporated,25,A,1725,"Panguitch, UT",0,125,0,0,Panguitch city
+UT,4936290,Honeyville,incorporated,25,A,1606,"Honeyville, UT",0,126,0,0,Honeyville city
+UT,4982510,Wellington,incorporated,25,A,1605,"Wellington, UT",0,127,0,0,Wellington city
+UT,4920340,Duchesne,incorporated,25,A,1588,"Duchesne, UT",0,128,0,0,Duchesne city
+UT,4955650,Oakley,incorporated,25,A,1588,"Oakley, UT",0,129,0,0,Oakley city
+UT,4926940,Francis,incorporated,43,A,1564,"Francis, UT",0,130,0,0,Francis town
+UT,4920890,East Carbon,incorporated,25,A,1556,"East Carbon, UT",0,131,0,0,East Carbon city
+UT,4928810,Genola,incorporated,43,A,1548,"Genola, UT",0,132,0,0,Genola town
+UT,4952130,Moroni,incorporated,25,A,1544,"Moroni, UT",0,133,0,0,Moroni city
+UT,4985050,Woodland Hills,incorporated,25,A,1521,"Woodland Hills, UT",0,134,0,0,Woodland Hills city
+UT,4910660,Castle Dale,incorporated,25,A,1492,"Castle Dale, UT",0,135,0,0,Castle Dale city
+UT,4914840,Coalville,incorporated,25,A,1486,"Coalville, UT",0,136,0,0,Coalville city
+UT,4925180,Ferron,incorporated,25,A,1474,"Ferron, UT",0,137,0,0,Ferron city
+UT,4922875,Emigration Canyon,incorporated,25,A,1466,"Emigration Canyon, UT",0,138,0,0,Emigration Canyon city
+UT,4977890,Uintah,incorporated,43,A,1454,"Uintah, UT",0,139,0,0,Uintah town
+UT,4950040,Milford,incorporated,25,A,1431,"Milford, UT",0,140,0,0,Milford city
+UT,4911870,Centerfield,incorporated,43,A,1341,"Centerfield, UT",0,141,0,0,Centerfield town
+UT,4949160,Mendon,incorporated,25,A,1339,"Mendon, UT",0,142,0,0,Mendon city
+UT,4956860,Orangeville,incorporated,25,A,1224,"Orangeville, UT",0,143,0,0,Orangeville city
+UT,4924630,Fairview,incorporated,25,A,1203,"Fairview, UT",0,144,0,0,Fairview city
+UT,4926720,Fountain Green,incorporated,25,A,1197,"Fountain Green, UT",0,145,0,0,Fountain Green city
+UT,4922760,Elwood,incorporated,43,A,1173,"Elwood, UT",0,146,0,0,Elwood town
+UT,4903345,Ballard,incorporated,43,A,1131,"Ballard, UT",0,147,0,0,Ballard town
+UT,4935300,Hildale,incorporated,25,A,1127,"Hildale, UT",0,148,0,0,Hildale city
+UT,4982730,Wendover,incorporated,25,A,1115,"Wendover, UT",0,149,0,0,Wendover city
+UT,4947840,Mantua,incorporated,43,A,1090,"Mantua, UT",0,150,0,0,Mantua town
+UT,4902740,Aurora,incorporated,25,A,984,"Aurora, UT",0,151,0,0,Aurora city
+UT,4930130,Goshen,incorporated,43,A,978,"Goshen, UT",0,152,0,0,Goshen town
+UT,4957850,Paradise,incorporated,43,A,971,"Paradise, UT",0,153,0,0,Paradise town
+UT,4971730,Spring City,incorporated,25,A,949,"Spring City, UT",0,154,0,0,Spring City city
+UT,4935120,Hideout,incorporated,43,A,922,"Hideout, UT",0,155,0,0,Hideout town
+UT,4918140,Daniel,incorporated,43,A,916,"Daniel, UT",0,156,0,0,Daniel town
+UT,4903950,Bear River City,incorporated,25,A,877,"Bear River City, UT",0,157,0,0,Bear River City city
+UT,4944100,Leeds,incorporated,43,A,864,"Leeds, UT",0,158,0,0,Leeds town
+UT,4944650,Levan,incorporated,43,A,862,"Levan, UT",0,159,0,0,Levan town
+UT,4901905,Apple Valley,incorporated,43,A,855,"Apple Valley, UT",0,160,0,0,Apple Valley town
+UT,4964590,Rocky Ridge,incorporated,43,A,848,"Rocky Ridge, UT",0,161,0,0,Rocky Ridge town
+UT,4931670,Green River,incorporated,25,A,847,"Green River, UT",0,162,0,0,Green River city
+UT,4934640,Henefer,incorporated,43,A,838,"Henefer, UT",0,163,0,0,Henefer town
+UT,4901750,Annabella,incorporated,43,A,836,"Annabella, UT",0,164,0,0,Annabella town
+UT,4915720,Copperton,incorporated,25,A,829,"Copperton, UT",0,165,0,0,Copperton city
+UT,4915830,Corinne,incorporated,25,A,809,"Corinne, UT",0,166,0,0,Corinne city
+UT,4950590,Minersville,incorporated,43,A,807,"Minersville, UT",0,167,0,0,Minersville town
+UT,4922650,Elsinore,incorporated,43,A,802,"Elsinore, UT",0,168,0,0,Elsinore town
+UT,4954550,Newton,incorporated,43,A,789,"Newton, UT",0,169,0,0,Newton town
+UT,4923750,Escalante,incorporated,25,A,786,"Escalante, UT",0,170,0,0,Escalante city
+UT,4963240,Redmond,incorporated,43,A,762,"Redmond, UT",0,171,0,0,Redmond town
+UT,4913190,Clarkston,incorporated,43,A,749,"Clarkston, UT",0,172,0,0,Clarkston town
+UT,4980530,Virgin,incorporated,43,A,670,"Virgin, UT",0,173,0,0,Virgin town
+UT,4924080,Eureka,incorporated,25,A,662,"Eureka, UT",0,174,0,0,Eureka city
+UT,4912260,Central Valley,incorporated,43,A,647,"Central Valley, UT",0,175,0,0,Central Valley town
+UT,4973050,Stockton,incorporated,43,A,621,"Stockton, UT",0,176,0,0,Stockton town
+UT,4935740,Hinckley,incorporated,43,A,614,"Hinckley, UT",0,177,0,0,Hinckley town
+UT,4927930,Garden City,incorporated,43,A,602,"Garden City, UT",0,178,0,0,Garden City town
+UT,4957080,Orderville,incorporated,43,A,598,"Orderville, UT",0,179,0,0,Orderville town
+UT,4955430,Oak City,incorporated,43,A,595,"Oak City, UT",0,180,0,0,Oak City town
+UT,4937060,Huntsville,incorporated,43,A,573,"Huntsville, UT",0,181,0,0,Huntsville town
+UT,4953340,Myton,incorporated,25,A,561,"Myton, UT",0,182,0,0,Myton city
+UT,4948720,Mayfield,incorporated,43,A,556,"Mayfield, UT",0,183,0,0,Mayfield town
+UT,4912970,Circleville,incorporated,43,A,550,"Circleville, UT",0,184,0,0,Circleville town
+UT,4925290,Fielding,incorporated,43,A,546,"Fielding, UT",0,185,0,0,Fielding town
+UT,4957960,Paragonah,incorporated,43,A,536,"Paragonah, UT",0,186,0,0,Paragonah town
+UT,4945530,Loa,incorporated,43,A,516,"Loa, UT",0,187,0,0,Loa town
+UT,4971840,Springdale,incorporated,43,A,514,"Springdale, UT",0,188,0,0,Springdale town
+UT,4977230,Trenton,incorporated,43,A,512,"Trenton, UT",0,189,0,0,Trenton town
+UT,4940250,Kanosh,incorporated,43,A,508,"Kanosh, UT",0,190,0,0,Kanosh town
+UT,4914070,Cleveland,incorporated,43,A,497,"Cleveland, UT",0,191,0,0,Cleveland town
+UT,4977560,Tropic,incorporated,43,A,486,"Tropic, UT",0,192,0,0,Tropic town
+UT,4901090,Amalga,incorporated,43,A,482,"Amalga, UT",0,193,0,0,Amalga town
+UT,4929580,Glenwood,incorporated,43,A,474,"Glenwood, UT",0,194,0,0,Glenwood town
+UT,4963020,Randolph,incorporated,43,A,467,"Randolph, UT",0,195,0,0,Randolph town
+UT,4905534,Big Water,incorporated,43,A,449,"Big Water, UT",0,196,0,0,Big Water town
+UT,4940030,Kanarraville,incorporated,43,A,442,"Kanarraville, UT",0,197,0,0,Kanarraville town
+UT,4935960,Holden,incorporated,43,A,438,"Holden, UT",0,198,0,0,Holden town
+UT,4912420,Charleston,incorporated,43,A,436,"Charleston, UT",0,199,0,0,Charleston town
+UT,4908570,Brighton,incorporated,43,A,432,"Brighton, UT",0,200,0,0,Brighton town
+UT,4965240,Rush Valley,incorporated,43,A,431,"Rush Valley, UT",0,201,0,0,Rush Valley town
+UT,4911430,Cedar Fort,incorporated,43,A,427,"Cedar Fort, UT",0,202,0,0,Cedar Fort town
+UT,4961260,Plymouth,incorporated,43,A,427,"Plymouth, UT",0,203,0,0,Plymouth town
+UT,4919680,Deweyville,incorporated,43,A,417,"Deweyville, UT",0,204,0,0,Deweyville town
+UT,4922540,Elmo,incorporated,43,A,405,"Elmo, UT",0,205,0,0,Elmo town
+UT,4968650,Sigurd,incorporated,43,A,405,"Sigurd, UT",0,206,0,0,Sigurd town
+UT,4948610,Marysvale,incorporated,43,A,356,"Marysvale, UT",0,207,0,0,Marysvale town
+UT,4967880,Scipio,incorporated,43,A,353,"Scipio, UT",0,208,0,0,Scipio town
+UT,4911000,Castle Valley,incorporated,43,A,347,"Castle Valley, UT",0,209,0,0,Castle Valley town
+UT,4980860,Wales,incorporated,43,A,338,"Wales, UT",0,210,0,0,Wales town
+UT,4908787,Bryce Canyon City,incorporated,43,A,336,"Bryce Canyon City, UT",0,211,0,0,Bryce Canyon City town
+UT,4905490,Bicknell,incorporated,43,A,323,"Bicknell, UT",0,212,0,0,Bicknell town
+UT,4948830,Meadow,incorporated,43,A,320,"Meadow, UT",0,213,0,0,Meadow town
+UT,4929360,Glendale,incorporated,43,A,312,"Glendale, UT",0,214,0,0,Glendale town
+UT,4947620,Manila,incorporated,43,A,308,"Manila, UT",0,215,0,0,Manila town
+UT,4922870,Emery,incorporated,43,A,307,"Emery, UT",0,216,0,0,Emery town
+UT,4942560,Laketown,incorporated,43,A,299,"Laketown, UT",0,217,0,0,Laketown town
+UT,4980970,Wallsburg,incorporated,43,A,290,"Wallsburg, UT",0,218,0,0,Wallsburg town
+UT,4939370,Joseph,incorporated,43,A,288,"Joseph, UT",0,219,0,0,Joseph town
+UT,4915940,Cornish,incorporated,43,A,274,"Cornish, UT",0,220,0,0,Cornish town
+UT,4972940,Sterling,incorporated,43,A,274,"Sterling, UT",0,221,0,0,Sterling town
+UT,4961590,Portage,incorporated,43,A,273,"Portage, UT",0,222,0,0,Portage town
+UT,4943880,Leamington,incorporated,43,A,256,"Leamington, UT",0,223,0,0,Leamington town
+UT,4980200,Vernon,incorporated,43,A,256,"Vernon, UT",0,224,0,0,Vernon town
+UT,4925070,Fayette,incorporated,43,A,245,"Fayette, UT",0,225,0,0,Fayette town
+UT,4941680,Koosharem,incorporated,43,A,244,"Koosharem, UT",0,226,0,0,Koosharem town
+UT,4906700,Bluff,incorporated,43,A,240,"Bluff, UT",0,227,0,0,Bluff town
+UT,4936620,Howell,incorporated,43,A,240,"Howell, UT",0,228,0,0,Howell town
+UT,4900760,Altamont,incorporated,43,A,239,"Altamont, UT",0,229,0,0,Altamont town
+UT,4954440,New Harmony,incorporated,43,A,236,"New Harmony, UT",0,230,0,0,New Harmony town
+UT,4977010,Torrey,incorporated,43,A,231,"Torrey, UT",0,231,0,0,Torrey town
+UT,4900650,Alta,incorporated,43,A,228,"Alta, UT",0,232,0,0,Alta town
+UT,4907470,Boulder,incorporated,43,A,227,"Boulder, UT",0,233,0,0,Boulder town
+UT,4964560,Rockville,incorporated,43,A,226,"Rockville, UT",0,234,0,0,Rockville town
+UT,4934750,Henrieville,incorporated,43,A,221,"Henrieville, UT",0,235,0,0,Henrieville town
+UT,4939590,Junction,incorporated,43,A,212,"Junction, UT",0,236,0,0,Junction town
+UT,4946410,Lyman,incorporated,43,A,196,"Lyman, UT",0,237,0,0,Lyman town
+UT,4910330,Cannonville,incorporated,43,A,186,"Cannonville, UT",0,238,0,0,Cannonville town
+UT,4937924,Interlaken,incorporated,43,A,179,"Interlaken, UT",0,239,0,0,Interlaken town
+UT,4985260,Woodruff,incorporated,43,A,169,"Woodruff, UT",0,240,0,0,Woodruff town
+UT,4969970,Snowville,incorporated,43,A,163,"Snowville, UT",0,241,0,0,Snowville town
+UT,4913300,Clawson,incorporated,43,A,162,"Clawson, UT",0,242,0,0,Clawson town
+UT,4924410,Fairfield,incorporated,43,A,160,"Fairfield, UT",0,243,0,0,Fairfield town
+UT,4933100,Hanksville,incorporated,43,A,158,"Hanksville, UT",0,244,0,0,Hanksville town
+UT,4908020,Brian Head,incorporated,43,A,151,"Brian Head, UT",0,245,0,0,Brian Head town
+UT,4974920,Tabiona,incorporated,43,A,143,"Tabiona, UT",0,246,0,0,Tabiona town
+UT,4920780,Dutch John,incorporated,43,A,141,"Dutch John, UT",0,247,0,0,Dutch John town
+UT,4941350,Kingston,incorporated,43,A,135,"Kingston, UT",0,248,0,0,Kingston town
+UT,4933760,Hatch,incorporated,43,A,132,"Hatch, UT",0,249,0,0,Hatch town
+UT,4937690,Independence,incorporated,43,A,121,"Independence, UT",0,250,0,0,Independence town
+UT,4900870,Alton,incorporated,43,A,118,"Alton, UT",0,251,0,0,Alton town
+UT,4901860,Antimony,incorporated,43,A,118,"Antimony, UT",0,252,0,0,Antimony town
+UT,4946740,Lynndyl,incorporated,43,A,111,"Lynndyl, UT",0,253,0,0,Lynndyl town
+UT,4967990,Scofield,incorporated,43,A,26,"Scofield, UT",0,254,0,0,Scofield town
+UT,4942010,Lake Point,incorporated,25,A,0,"Lake Point, UT",0,255,0,0,Lake Point city

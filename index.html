@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <title>Dashboard</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css?v=20250901" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
@@ -33,14 +33,40 @@
 
   <section id="geolayersPanel" class="main-layout" style="display:none;">
     <div class="full-column">
-      <div class="panel-header">
+      <div class="panel-header" id="geolayersHeader" style="display:none;">
         <h2>GeoLayers Game</h2>
       </div>
-      <iframe src="geolayers-game/public/index.html" style="width:100%;height:80vh;border:none;"></iframe>
+      <iframe id="geolayersFrame" src="geolayers-game/public/index.v20250901.html?country=MEX&layers=all" style="width:100%;height:100%;border:none;"></iframe>
     </div>
   </section>
 
-  <script type="module" src="js/geoscore.js"></script>
-  <script type="module" src="js/tabs.js"></script>
+  <script type="module" src="js/geoscore.js?v=20250901"></script>
+  <script type="module" src="js/tabs.js?v=20250901"></script>
+  <script>
+    // Dev: auto-reload on changes served by backend/server.js
+    (function(){
+      try {
+        const es = new EventSource('/livereload');
+        es.onmessage = (e) => {
+          console.log('🔁 Reload due to change:', e.data);
+          location.reload();
+        };
+      } catch {}
+    })();
+  </script>
+  <script>
+    // Proactively unregister any existing service workers and clear caches
+    (function(){
+      try { console.log('Dashboard version 20250901'); } catch(e){}
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(rs => {
+          rs.forEach(r => r.unregister());
+        });
+      }
+      if (window.caches && caches.keys) {
+        caches.keys().then(keys => keys.forEach(k => caches.delete(k))).catch(()=>{});
+      }
+    })();
+  </script>
 </body>
 </html>

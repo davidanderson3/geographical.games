@@ -5,6 +5,15 @@ function initTabs() {
     geolayersPanel: document.getElementById('geolayersPanel')
   };
 
+  function adjustGeolayersFrame() {
+    const panel = panels.geolayersPanel;
+    const frame = document.getElementById('geolayersFrame');
+    if (!panel || !frame || panel.style.display === 'none') return;
+    const rect = panel.getBoundingClientRect();
+    const available = Math.max(200, window.innerHeight - rect.top);
+    frame.style.height = available + 'px';
+  }
+
   buttons.forEach(btn => {
     btn.addEventListener('click', () => {
       buttons.forEach(b => b.classList.remove('active'));
@@ -14,13 +23,18 @@ function initTabs() {
       });
       if (btn.dataset.target === 'geoscorePanel') {
         window.initGeoScorePanel && window.initGeoScorePanel();
+      } else if (btn.dataset.target === 'geolayersPanel') {
+        adjustGeolayersFrame();
       }
     });
   });
 
   // initialize default view
   window.initGeoScorePanel && window.initGeoScorePanel();
+
+  window.addEventListener('resize', () => {
+    adjustGeolayersFrame();
+  });
 }
 
 document.addEventListener('DOMContentLoaded', initTabs);
-

@@ -1,0 +1,158 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+MD,2404000,Baltimore,incorporated,25,A,585708,"Baltimore, MD",0,1,71,0.284,Baltimore city
+MD,2430325,Frederick,incorporated,25,A,78171,"Frederick, MD",0,2,31,0.124,Frederick city
+MD,2431175,Gaithersburg,incorporated,25,A,69657,"Gaithersburg, MD",0,3,18,0.072,Gaithersburg city
+MD,2467675,Rockville,incorporated,25,A,67117,"Rockville, MD",0,4,13,0.052,Rockville city
+MD,2408775,Bowie,incorporated,25,A,58329,"Bowie, MD",0,5,10,0.04,Bowie city
+MD,2436075,Hagerstown,incorporated,25,A,43527,"Hagerstown, MD",0,6,8,0.032,Hagerstown city
+MD,2401600,Annapolis,incorporated,25,A,40812,"Annapolis, MD",0,7,9,0.036,Annapolis city
+MD,2418750,College Park,incorporated,25,A,34740,"College Park, MD",0,8,5,0.02,College Park city
+MD,2469925,Salisbury,incorporated,25,A,33050,"Salisbury, MD",0,9,5,0.02,Salisbury city
+MD,2445900,Laurel,incorporated,25,A,30060,"Laurel, MD",0,10,4,0.016,Laurel city
+MD,2434775,Greenbelt,incorporated,25,A,24921,"Greenbelt, MD",0,11,4,0.016,Greenbelt city
+MD,2441250,Hyattsville,incorporated,25,A,21187,"Hyattsville, MD",0,12,3,0.012,Hyattsville city
+MD,2483100,Westminster,incorporated,25,A,20126,"Westminster, MD",0,13,4,0.016,Westminster city
+MD,2421325,Cumberland,incorporated,25,A,19076,"Cumberland, MD",0,14,4,0.016,Cumberland city
+MD,2476650,Takoma Park,incorporated,25,A,17629,"Takoma Park, MD",0,15,2,0.008,Takoma Park city
+MD,2424475,Easton,incorporated,43,A,17101,"Easton, MD",0,16,2,0.008,Easton town
+MD,2400125,Aberdeen,incorporated,25,A,16254,"Aberdeen, MD",0,17,2,0.008,Aberdeen city
+MD,2425800,Elkton,incorporated,43,A,15807,"Elkton, MD",0,18,3,0.012,Elkton town
+MD,2437600,Havre de Grace,incorporated,25,A,14807,"Havre de Grace, MD",0,19,3,0.012,Havre de Grace city
+MD,2455400,New Carrollton,incorporated,25,A,13715,"New Carrollton, MD",0,20,3,0.012,New Carrollton city
+MD,2412400,Cambridge,incorporated,25,A,13096,"Cambridge, MD",0,21,2,0.008,Cambridge city
+MD,2405550,Bel Air,incorporated,43,A,10661,"Bel Air, MD",0,22,1,0.004,Bel Air town
+MD,2445750,La Plata,incorporated,43,A,10159,"La Plata, MD",0,23,1,0.004,La Plata town
+MD,2407850,Bladensburg,incorporated,43,A,9657,"Bladensburg, MD",0,24,1,0.004,Bladensburg town
+MD,2453875,Mount Airy,incorporated,43,A,9654,"Mount Airy, MD",0,25,1,0.004,Mount Airy town
+MD,2454275,Mount Rainier,incorporated,25,A,8333,"Mount Rainier, MD",0,26,1,0.004,Mount Rainier city
+MD,2410900,Brunswick,incorporated,25,A,7762,"Brunswick, MD",0,27,1,0.004,Brunswick city
+MD,2466635,Riverdale Park,incorporated,43,A,7351,"Riverdale Park, MD",0,28,1,0.004,Riverdale Park town
+MD,2476725,Taneytown,incorporated,25,A,7234,"Taneytown, MD",0,29,1,0.004,Taneytown city
+MD,2430900,Frostburg,incorporated,25,A,7027,"Frostburg, MD",0,30,1,0.004,Frostburg city
+MD,2458225,Ocean City,incorporated,43,A,6844,"Ocean City, MD",0,31,2,0.008,Ocean City town
+MD,2432500,Glenarden,incorporated,25,A,6402,"Glenarden, MD",0,32,2,0.008,Glenarden city
+MD,2415925,Chesapeake Beach,incorporated,43,A,6356,"Chesapeake Beach, MD",0,33,2,0.008,Chesapeake Beach town
+MD,2436500,Hampstead,incorporated,43,A,6241,"Hampstead, MD",0,34,2,0.008,Hampstead town
+MD,2477825,Thurmont,incorporated,43,A,6213,"Thurmont, MD",0,35,2,0.008,Thurmont town
+MD,2416550,Cheverly,incorporated,43,A,6170,"Cheverly, MD",0,36,2,0.008,Cheverly town
+MD,2481275,Walkersville,incorporated,43,A,6156,"Walkersville, MD",0,37,2,0.008,Walkersville town
+MD,2423025,District Heights,incorporated,25,A,5959,"District Heights, MD",0,38,2,0.008,District Heights city
+MD,2462850,Poolesville,incorporated,43,A,5742,"Poolesville, MD",0,39,2,0.008,Poolesville town
+MD,2430950,Fruitland,incorporated,25,A,5534,"Fruitland, MD",0,40,2,0.008,Fruitland city
+MD,2416225,Chestertown,incorporated,43,A,5532,"Chestertown, MD",0,41,2,0.008,Chestertown town
+MD,2449950,Manchester,incorporated,43,A,5408,"Manchester, MD",0,42,2,0.008,Manchester town
+MD,2406800,Berlin,incorporated,43,A,5026,"Berlin, MD",0,43,2,0.008,Berlin town
+MD,2452425,Middletown,incorporated,43,A,4943,"Middletown, MD",0,44,1,0.004,Middletown town
+MD,2422725,Denton,incorporated,43,A,4848,"Denton, MD",0,45,1,0.004,Denton town
+MD,2414950,Centreville,incorporated,43,A,4727,"Centreville, MD",0,46,1,0.004,Centreville town
+MD,2446475,Leonardtown,incorporated,43,A,4563,"Leonardtown, MD",0,47,1,0.004,Leonardtown town
+MD,2470850,Seat Pleasant,incorporated,25,A,4522,"Seat Pleasant, MD",0,48,1,0.004,Seat Pleasant city
+MD,2461150,Perryville,incorporated,43,A,4391,"Perryville, MD",0,49,1,0.004,Perryville town
+MD,2476550,Sykesville,incorporated,43,A,4316,"Sykesville, MD",0,50,1,0.004,Sykesville town
+MD,2462475,Pocomoke City,incorporated,25,A,4295,"Pocomoke City, MD",0,51,1,0.004,Pocomoke City city
+MD,2456450,North East,incorporated,43,A,4085,"North East, MD",0,52,1,0.004,North East town
+MD,2413000,Capitol Heights,incorporated,43,A,4050,"Capitol Heights, MD",0,53,0,0,Capitol Heights town
+MD,2441500,Indian Head,incorporated,43,A,3894,"Indian Head, MD",0,54,0,0,Indian Head town
+MD,2409500,Brentwood,incorporated,43,A,3828,"Brentwood, MD",0,55,0,0,Brentwood town
+MD,2408625,Boonsboro,incorporated,43,A,3799,"Boonsboro, MD",0,56,0,0,Boonsboro town
+MD,2422600,Delmar,incorporated,43,A,3798,"Delmar, MD",0,57,0,0,Delmar town
+MD,2464000,Princess Anne,incorporated,43,A,3446,"Princess Anne, MD",0,58,0,0,Princess Anne town
+MD,2406925,Berwyn Heights,incorporated,43,A,3345,"Berwyn Heights, MD",0,59,0,0,Berwyn Heights town
+MD,2472900,Smithsburg,incorporated,43,A,2977,"Smithsburg, MD",0,60,0,0,Smithsburg town
+MD,2416620,Chevy Chase,incorporated,43,A,2904,"Chevy Chase, MD",0,61,0,0,Chevy Chase town
+MD,2427900,Federalsburg,incorporated,43,A,2833,"Federalsburg, MD",0,62,0,0,Federalsburg town
+MD,2426200,Emmitsburg,incorporated,43,A,2770,"Emmitsburg, MD",0,63,0,0,Emmitsburg town
+MD,2466275,Rising Sun,incorporated,43,A,2740,"Rising Sun, MD",0,64,0,0,Rising Sun town
+MD,2428725,Forest Heights,incorporated,43,A,2658,"Forest Heights, MD",0,65,0,0,Forest Heights town
+MD,2420775,Crisfield,incorporated,25,A,2475,"Crisfield, MD",0,66,0,0,Crisfield city
+MD,2479675,University Park,incorporated,43,A,2454,"University Park, MD",0,67,0,0,University Park town
+MD,2473075,Snow Hill,incorporated,43,A,2156,"Snow Hill, MD",0,68,0,0,Snow Hill town
+MD,2453800,Mountain Lake Park,incorporated,43,A,2147,"Mountain Lake Park, MD",0,69,0,0,Mountain Lake Park town
+MD,2456300,North Beach,incorporated,43,A,2146,"North Beach, MD",0,70,0,0,North Beach town
+MD,2443500,Kensington,incorporated,43,A,2122,"Kensington, MD",0,71,0,0,Kensington town
+MD,2485100,Williamsport,incorporated,43,A,2083,"Williamsport, MD",0,72,0,0,Williamsport town
+MD,2441125,Hurlock,incorporated,43,A,2070,"Hurlock, MD",0,73,0,0,Hurlock town
+MD,2416787,Chevy Chase Village,incorporated,43,A,2049,"Chevy Chase Village, MD",0,74,0,0,Chevy Chase Village town
+MD,2435200,Greensboro,incorporated,43,A,1919,"Greensboro, MD",0,75,0,0,Greensboro town
+MD,2457650,Oakland,incorporated,43,A,1851,"Oakland, MD",0,76,0,0,Oakland town
+MD,2445400,Landover Hills,incorporated,43,A,1815,"Landover Hills, MD",0,77,0,0,Landover Hills town
+MD,2482750,Westernport,incorporated,43,A,1812,"Westernport, MD",0,78,0,0,Westernport town
+MD,2454875,Myersville,incorporated,43,A,1748,"Myersville, MD",0,79,0,0,Myersville town
+MD,2462025,Pittsville,incorporated,43,A,1636,"Pittsville, MD",0,80,0,0,Pittsville town
+MD,2425425,Edmonston,incorporated,43,A,1617,"Edmonston, MD",0,81,0,0,Edmonston town
+MD,2466000,Ridgely,incorporated,43,A,1611,"Ridgely, MD",0,82,0,0,Ridgely town
+MD,2418850,Colmar Manor,incorporated,43,A,1588,"Colmar Manor, MD",0,83,0,0,Colmar Manor town
+MD,2436600,Hancock,incorporated,43,A,1557,"Hancock, MD",0,84,0,0,Hancock town
+MD,2427400,Fairmount Heights,incorporated,43,A,1528,"Fairmount Heights, MD",0,85,0,0,Fairmount Heights town
+MD,2455650,New Market,incorporated,43,A,1525,"New Market, MD",0,86,0,0,New Market town
+MD,2415400,Charlestown,incorporated,43,A,1496,"Charlestown, MD",0,87,0,0,Charlestown town
+MD,2455925,New Windsor,incorporated,43,A,1441,"New Windsor, MD",0,88,0,0,New Windsor town
+MD,2420050,Cottage City,incorporated,43,A,1335,"Cottage City, MD",0,89,0,0,Cottage City town
+MD,2453625,Morningside,incorporated,43,A,1240,"Morningside, MD",0,90,0,0,Morningside town
+MD,2443100,Keedysville,incorporated,43,A,1213,"Keedysville, MD",0,91,0,0,Keedysville town
+MD,2467400,Rock Hall,incorporated,43,A,1198,"Rock Hall, MD",0,92,0,0,Rock Hall town
+MD,2473350,Somerset,incorporated,43,A,1187,"Somerset, MD",0,93,0,0,Somerset town
+MD,2478575,Trappe,incorporated,43,A,1177,"Trappe, MD",0,94,0,0,Trappe town
+MD,2437875,Hebron,incorporated,43,A,1113,"Hebron, MD",0,95,0,0,Hebron town
+MD,2486750,Woodsboro,incorporated,43,A,1092,"Woodsboro, MD",0,96,0,0,Woodsboro town
+MD,2469825,St. Michaels,incorporated,43,A,1049,"St. Michaels, MD",0,97,0,0,St. Michaels town
+MD,2416775,Chevy Chase View,incorporated,43,A,1005,"Chevy Chase View, MD",0,98,0,0,Chevy Chase View town
+MD,2447875,Lonaconing,incorporated,43,A,1001,"Lonaconing, MD",0,99,0,0,Lonaconing town
+MD,2431525,Garrett Park,incorporated,43,A,996,"Garrett Park, MD",0,100,0,0,Garrett Park town
+MD,2434525,Grantsville,incorporated,43,A,968,"Grantsville, MD",0,101,0,0,Grantsville town
+MD,2484950,Willards,incorporated,43,A,963,"Willards, MD",0,102,0,0,Willards town
+MD,2450965,Martin's Additions,incorporated,47,A,946,"Martin's Additions, MD",0,103,0,0,Martin's Additions village
+MD,2479350,Union Bridge,incorporated,43,A,936,"Union Bridge, MD",0,104,0,0,Union Bridge town
+MD,2431100,Funkstown,incorporated,43,A,852,"Funkstown, MD",0,105,0,0,Funkstown town
+MD,2417100,Church Hill,incorporated,43,A,808,"Church Hill, MD",0,106,0,0,Church Hill town
+MD,2416730,Chevy Chase Section Three,incorporated,47,A,802,"Chevy Chase Section Three, MD",0,107,0,0,Chevy Chase Section Three village
+MD,2415950,Chesapeake City,incorporated,43,A,736,"Chesapeake City, MD",0,108,0,0,Chesapeake City town
+MD,2464600,Queenstown,incorporated,43,A,705,"Queenstown, MD",0,109,0,0,Queenstown town
+MD,2471650,Sharptown,incorporated,43,A,691,"Sharptown, MD",0,110,0,0,Sharptown town
+MD,2456400,North Chevy Chase,incorporated,47,A,682,"North Chevy Chase, MD",0,111,0,0,North Chevy Chase village
+MD,2414325,Cecilton,incorporated,43,A,676,"Cecilton, MD",0,112,0,0,Cecilton town
+MD,2463825,Preston,incorporated,43,A,673,"Preston, MD",0,113,0,0,Preston town
+MD,2416720,Chevy Chase Section Five,incorporated,47,A,672,"Chevy Chase Section Five, MD",0,114,0,0,Chevy Chase Section Five village
+MD,2479875,Upper Marlboro,incorporated,43,A,652,"Upper Marlboro, MD",0,115,0,0,Upper Marlboro town
+MD,2463075,Port Deposit,incorporated,43,A,614,"Port Deposit, MD",0,116,0,0,Port Deposit town
+MD,2459450,Oxford,incorporated,43,A,611,"Oxford, MD",0,117,0,0,Oxford town
+MD,2456375,North Brentwood,incorporated,43,A,593,"North Brentwood, MD",0,118,0,0,North Brentwood town
+MD,2446250,Laytonsville,incorporated,43,A,572,"Laytonsville, MD",0,119,0,0,Laytonsville town
+MD,2471600,Sharpsburg,incorporated,43,A,560,"Sharpsburg, MD",0,120,0,0,Sharpsburg town
+MD,2452825,Millington,incorporated,43,A,549,"Millington, MD",0,121,0,0,Millington town
+MD,2431225,Galena,incorporated,43,A,539,"Galena, MD",0,122,0,0,Galena town
+MD,2475650,Sudlersville,incorporated,43,A,507,"Sudlersville, MD",0,123,0,0,Sudlersville town
+MD,2481675,Washington Grove,incorporated,43,A,505,"Washington Grove, MD",0,124,0,0,Washington Grove town
+MD,2447525,Loch Lynn Heights,incorporated,43,A,493,"Loch Lynn Heights, MD",0,125,0,0,Loch Lynn Heights town
+MD,2452475,Midland,incorporated,43,A,488,"Midland, MD",0,126,0,0,Midland town
+MD,2470900,Secretary,incorporated,43,A,472,"Secretary, MD",0,127,0,0,Secretary town
+MD,2404625,Barton,incorporated,43,A,464,"Barton, MD",0,128,0,0,Barton town
+MD,2430850,Friendsville,incorporated,43,A,438,"Friendsville, MD",0,129,0,0,Friendsville town
+MD,2424450,East New Market,incorporated,43,A,389,"East New Market, MD",0,130,0,0,East New Market town
+MD,2417600,Clear Spring,incorporated,43,A,372,"Clear Spring, MD",0,131,0,0,Clear Spring town
+MD,2450525,Mardela Springs,incorporated,43,A,357,"Mardela Springs, MD",0,132,0,0,Mardela Springs town
+MD,2400225,Accident,incorporated,43,A,338,"Accident, MD",0,133,0,0,Accident town
+MD,2422275,Deer Park,incorporated,43,A,303,"Deer Park, MD",0,134,0,0,Deer Park town
+MD,2444450,Kitzmiller,incorporated,43,A,300,"Kitzmiller, MD",0,135,0,0,Kitzmiller town
+MD,2407200,Betterton,incorporated,43,A,286,"Betterton, MD",0,136,0,0,Betterton town
+MD,2432900,Glen Echo,incorporated,43,A,279,"Glen Echo, MD",0,137,0,0,Glen Echo town
+MD,2468600,Rosemont,incorporated,47,A,272,"Rosemont, MD",0,138,0,0,Rosemont village
+MD,2480600,Vienna,incorporated,43,A,270,"Vienna, MD",0,139,0,0,Vienna town
+MD,2433950,Goldsboro,incorporated,43,A,211,"Goldsboro, MD",0,140,0,0,Goldsboro town
+MD,2464500,Queen Anne,incorporated,43,A,192,"Queen Anne, MD",0,141,0,0,Queen Anne town
+MD,2404250,Barclay,incorporated,43,A,183,"Barclay, MD",0,142,0,0,Barclay town
+MD,2451025,Marydel,incorporated,43,A,176,"Marydel, MD",0,143,0,0,Marydel town
+MD,2410225,Brookeville,incorporated,43,A,166,"Brookeville, MD",0,144,0,0,Brookeville town
+MD,2437925,Henderson,incorporated,43,A,160,"Henderson, MD",0,145,0,0,Henderson town
+MD,2404475,Barnesville,incorporated,43,A,144,"Barnesville, MD",0,146,0,0,Barnesville town
+MD,2411400,Burkittsville,incorporated,43,A,142,"Burkittsville, MD",0,147,0,0,Burkittsville town
+MD,2439175,Hillsboro,incorporated,43,A,128,"Hillsboro, MD",0,148,0,0,Hillsboro town
+MD,2438500,Highland Beach,incorporated,43,A,118,"Highland Beach, MD",0,149,0,0,Highland Beach town
+MD,2477200,Templeville,incorporated,43,A,113,"Templeville, MD",0,150,0,0,Templeville town
+MD,2431250,Galestown,incorporated,43,A,111,"Galestown, MD",0,151,0,0,Galestown town
+MD,2417050,Church Creek,incorporated,43,A,102,"Church Creek, MD",0,152,0,0,Church Creek town
+MD,2448775,Luke,incorporated,43,A,85,"Luke, MD",0,153,0,0,Luke town
+MD,2424200,Eagle Harbor,incorporated,43,A,67,"Eagle Harbor, MD",0,154,0,0,Eagle Harbor town
+MD,2410575,Brookview,incorporated,43,A,48,"Brookview, MD",0,155,0,0,Brookview town
+MD,2425600,Eldorado,incorporated,43,A,45,"Eldorado, MD",0,156,0,0,Eldorado town
+MD,2463225,Port Tobacco Village,incorporated,43,A,18,"Port Tobacco Village, MD",0,157,0,0,Port Tobacco Village town

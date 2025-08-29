@@ -1,0 +1,228 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+VA,5182000,Virginia Beach,incorporated,25,A,459470,"Virginia Beach, VA",0,1,68,0.272,Virginia Beach city
+VA,5116000,Chesapeake,incorporated,25,A,249422,"Chesapeake, VA",0,2,30,0.12,Chesapeake city
+VA,5157000,Norfolk,incorporated,25,A,238005,"Norfolk, VA",0,3,17,0.068,Norfolk city
+VA,5167000,Richmond,incorporated,25,A,226610,"Richmond, VA",0,4,18,0.072,Richmond city
+VA,5156000,Newport News,incorporated,25,A,186247,"Newport News, VA",0,5,9,0.036,Newport News city
+VA,5101000,Alexandria,incorporated,25,A,159467,"Alexandria, VA",0,6,7,0.028,Alexandria city
+VA,5135000,Hampton,incorporated,25,A,137148,"Hampton, VA",0,7,6,0.024,Hampton city
+VA,5168000,Roanoke,incorporated,25,A,100011,"Roanoke, VA",0,8,5,0.02,Roanoke city
+VA,5164000,Portsmouth,incorporated,25,A,97915,"Portsmouth, VA",0,9,4,0.016,Portsmouth city
+VA,5176432,Suffolk,incorporated,25,A,94324,"Suffolk, VA",0,10,5,0.02,Suffolk city
+VA,5147672,Lynchburg,incorporated,25,A,79009,"Lynchburg, VA",0,11,3,0.012,Lynchburg city
+VA,5135624,Harrisonburg,incorporated,25,A,51814,"Harrisonburg, VA",0,12,3,0.012,Harrisonburg city
+VA,5144984,Leesburg,incorporated,43,A,48250,"Leesburg, VA",0,13,4,0.016,Leesburg town
+VA,5114968,Charlottesville,incorporated,25,A,46553,"Charlottesville, VA",0,14,3,0.012,Charlottesville city
+VA,5107784,Blacksburg,incorporated,43,A,44826,"Blacksburg, VA",0,15,2,0.008,Blacksburg town
+VA,5148952,Manassas,incorporated,25,A,42772,"Manassas, VA",0,16,2,0.008,Manassas city
+VA,5121344,Danville,incorporated,25,A,42590,"Danville, VA",0,17,3,0.012,Danville city
+VA,5161832,Petersburg,incorporated,25,A,33458,"Petersburg, VA",0,18,3,0.012,Petersburg city
+VA,5186720,Winchester,incorporated,25,A,28120,"Winchester, VA",0,19,3,0.012,Winchester city
+VA,5129744,Fredericksburg,incorporated,25,A,27982,"Fredericksburg, VA",0,20,3,0.012,Fredericksburg city
+VA,5175216,Staunton,incorporated,25,A,25750,"Staunton, VA",0,21,2,0.008,Staunton city
+VA,5170000,Salem,incorporated,25,A,25346,"Salem, VA",0,22,1,0.004,Salem city
+VA,5136648,Herndon,incorporated,43,A,24655,"Herndon, VA",0,23,1,0.004,Herndon town
+VA,5126496,Fairfax,incorporated,25,A,24146,"Fairfax, VA",0,24,1,0.004,Fairfax city
+VA,5116608,Christiansburg,incorporated,43,A,23348,"Christiansburg, VA",0,25,1,0.004,Christiansburg town
+VA,5138424,Hopewell,incorporated,25,A,23033,"Hopewell, VA",0,26,1,0.004,Hopewell city
+VA,5183680,Waynesboro,incorporated,25,A,22196,"Waynesboro, VA",0,27,1,0.004,Waynesboro city
+VA,5120752,Culpeper,incorporated,43,A,20062,"Culpeper, VA",0,28,1,0.004,Culpeper town
+VA,5118448,Colonial Heights,incorporated,25,A,18170,"Colonial Heights, VA",0,29,1,0.004,Colonial Heights city
+VA,5109816,Bristol,incorporated,25,A,17219,"Bristol, VA",0,30,2,0.008,Bristol city
+VA,5148968,Manassas Park,incorporated,25,A,17219,"Manassas Park, VA",0,31,2,0.008,Manassas Park city
+VA,5181072,Vienna,incorporated,43,A,16473,"Vienna, VA",0,32,2,0.008,Vienna town
+VA,5165392,Radford,incorporated,25,A,16070,"Radford, VA",0,33,2,0.008,Radford city
+VA,5186160,Williamsburg,incorporated,25,A,15425,"Williamsburg, VA",0,34,2,0.008,Williamsburg city
+VA,5129968,Front Royal,incorporated,43,A,15011,"Front Royal, VA",0,35,2,0.008,Front Royal town
+VA,5127200,Falls Church,incorporated,25,A,14658,"Falls Church, VA",0,36,2,0.008,Falls Church city
+VA,5149784,Martinsville,incorporated,25,A,13485,"Martinsville, VA",0,37,2,0.008,Martinsville city
+VA,5163768,Poquoson,incorporated,25,A,12460,"Poquoson, VA",0,38,2,0.008,Poquoson city
+VA,5183136,Warrenton,incorporated,43,A,10057,"Warrenton, VA",0,39,2,0.008,Warrenton town
+VA,5164880,Pulaski,incorporated,43,A,8985,"Pulaski, VA",0,40,2,0.008,Pulaski town
+VA,5165008,Purcellville,incorporated,43,A,8929,"Purcellville, VA",0,41,2,0.008,Purcellville town
+VA,5173200,Smithfield,incorporated,43,A,8533,"Smithfield, VA",0,42,2,0.008,Smithfield town
+VA,5100148,Abingdon,incorporated,43,A,8376,"Abingdon, VA",0,43,2,0.008,Abingdon town
+VA,5188000,Wytheville,incorporated,43,A,8265,"Wytheville, VA",0,44,2,0.008,Wytheville town
+VA,5129600,Franklin,incorporated,25,A,8180,"Franklin, VA",0,45,2,0.008,Franklin city
+VA,5181280,Vinton,incorporated,43,A,8059,"Vinton, VA",0,46,2,0.008,Vinton town
+VA,5173712,South Boston,incorporated,43,A,7966,"South Boston, VA",0,47,2,0.008,South Boston town
+VA,5103368,Ashland,incorporated,43,A,7565,"Ashland, VA",0,48,2,0.008,Ashland town
+VA,5127440,Farmville,incorporated,43,A,7473,"Farmville, VA",0,49,2,0.008,Farmville town
+VA,5145512,Lexington,incorporated,25,A,7320,"Lexington, VA",0,50,1,0.004,Lexington city
+VA,5176000,Strasburg,incorporated,43,A,7083,"Strasburg, VA",0,51,1,0.004,Strasburg town
+VA,5130208,Galax,incorporated,25,A,6720,"Galax, VA",0,52,0,0,Galax city
+VA,5105544,Bedford,incorporated,43,A,6657,"Bedford, VA",0,53,0,0,Bedford town
+VA,5111032,Buena Vista,incorporated,25,A,6641,"Buena Vista, VA",0,54,0,0,Buena Vista city
+VA,5109656,Bridgewater,incorporated,43,A,6596,"Bridgewater, VA",0,55,0,0,Bridgewater town
+VA,5187712,Woodstock,incorporated,43,A,5807,"Woodstock, VA",0,56,0,0,Woodstock town
+VA,5125808,Emporia,incorporated,25,A,5766,"Emporia, VA",0,57,0,0,Emporia city
+VA,5149464,Marion,incorporated,43,A,5751,"Marion, VA",0,58,0,0,Marion town
+VA,5119728,Covington,incorporated,25,A,5737,"Covington, VA",0,59,0,0,Covington city
+VA,5123760,Dumfries,incorporated,43,A,5679,"Dumfries, VA",0,60,0,0,Dumfries town
+VA,5166928,Richlands,incorporated,43,A,5261,"Richlands, VA",0,61,0,0,Richlands town
+VA,5107480,Big Stone Gap,incorporated,43,A,5254,"Big Stone Gap, VA",0,62,0,0,Big Stone Gap town
+VA,5108152,Bluefield,incorporated,43,A,5096,"Bluefield, VA",0,63,0,0,Bluefield town
+VA,5168496,Rocky Mount,incorporated,43,A,4903,"Rocky Mount, VA",0,64,0,0,Rocky Mount town
+VA,5159496,Orange,incorporated,43,A,4880,"Orange, VA",0,65,0,0,Orange town
+VA,5147528,Luray,incorporated,43,A,4831,"Luray, VA",0,66,0,0,Luray town
+VA,5173904,South Hill,incorporated,43,A,4690,"South Hill, VA",0,67,0,0,South Hill town
+VA,5106968,Berryville,incorporated,43,A,4574,"Berryville, VA",0,68,0,0,Berryville town
+VA,5177792,Tazewell,incorporated,43,A,4486,"Tazewell, VA",0,69,0,0,Tazewell town
+VA,5110040,Broadway,incorporated,43,A,4170,"Broadway, VA",0,70,0,0,Broadway town
+VA,5118400,Colonial Beach,incorporated,43,A,3908,"Colonial Beach, VA",0,71,0,0,Colonial Beach town
+VA,5157688,Norton,incorporated,25,A,3687,"Norton, VA",0,72,0,0,Norton city
+VA,5117440,Clifton Forge,incorporated,43,A,3555,"Clifton Forge, VA",0,73,0,0,Clifton Forge town
+VA,5184960,West Point,incorporated,43,A,3414,"West Point, VA",0,74,0,0,West Point town
+VA,5101528,Altavista,incorporated,43,A,3378,"Altavista, VA",0,75,0,0,Altavista town
+VA,5107832,Blackstone,incorporated,43,A,3352,"Blackstone, VA",0,76,0,0,Blackstone town
+VA,5116512,Chincoteague,incorporated,43,A,3344,"Chincoteague, VA",0,77,0,0,Chincoteague town
+VA,5144696,Lebanon,incorporated,43,A,3159,"Lebanon, VA",0,78,0,0,Lebanon town
+VA,5187072,Wise,incorporated,43,A,2971,"Wise, VA",0,79,0,0,Wise town
+VA,5178736,Timberville,incorporated,43,A,2963,"Timberville, VA",0,80,0,0,Timberville town
+VA,5125408,Elkton,incorporated,43,A,2941,"Elkton, VA",0,81,0,0,Elkton town
+VA,5161208,Pearisburg,incorporated,43,A,2909,"Pearisburg, VA",0,82,0,0,Pearisburg town
+VA,5133488,Grottoes,incorporated,43,A,2899,"Grottoes, VA",0,83,0,0,Grottoes town
+VA,5137336,Hillsville,incorporated,43,A,2884,"Hillsville, VA",0,84,0,0,Hillsville town
+VA,5186784,Windsor,incorporated,43,A,2746,"Windsor, VA",0,85,0,0,Windsor town
+VA,5147208,Lovettsville,incorporated,43,A,2694,"Lovettsville, VA",0,86,0,0,Lovettsville town
+VA,5123648,Dublin,incorporated,43,A,2682,"Dublin, VA",0,87,0,0,Dublin town
+VA,5171776,Shenandoah,incorporated,43,A,2486,"Shenandoah, VA",0,88,0,0,Shenandoah town
+VA,5120160,Crewe,incorporated,43,A,2262,"Crewe, VA",0,89,0,0,Crewe town
+VA,5177568,Tappahannock,incorporated,43,A,2193,"Tappahannock, VA",0,90,0,0,Tappahannock town
+VA,5155848,New Market,incorporated,43,A,2155,"New Market, VA",0,91,0,0,New Market town
+VA,5101672,Amherst,incorporated,43,A,2110,"Amherst, VA",0,92,0,0,Amherst town
+VA,5154904,Narrows,incorporated,43,A,2093,"Narrows, VA",0,93,0,0,Narrows town
+VA,5114984,Chase City,incorporated,43,A,2053,"Chase City, VA",0,94,0,0,Chase City town
+VA,5130496,Gate City,incorporated,43,A,2043,"Gate City, VA",0,95,0,0,Gate City town
+VA,5175344,Stephens City,incorporated,43,A,2016,"Stephens City, VA",0,96,0,0,Stephens City town
+VA,5147144,Louisa,incorporated,43,A,1987,"Louisa, VA",0,97,0,0,Louisa town
+VA,5153992,Mount Jackson,incorporated,43,A,1961,"Mount Jackson, VA",0,98,0,0,Mount Jackson town
+VA,5183600,Waverly,incorporated,43,A,1955,"Waverly, VA",0,99,0,0,Waverly town
+VA,5102072,Appomattox,incorporated,43,A,1919,"Appomattox, VA",0,100,0,0,Appomattox town
+VA,5170096,Saltville,incorporated,43,A,1824,"Saltville, VA",0,101,0,0,Saltville town
+VA,5181024,Victoria,incorporated,43,A,1734,"Victoria, VA",0,102,0,0,Victoria town
+VA,5175024,Stanley,incorporated,43,A,1703,"Stanley, VA",0,103,0,0,Stanley town
+VA,5121648,Dayton,incorporated,43,A,1688,"Dayton, VA",0,104,0,0,Dayton town
+VA,5116480,Chilhowie,incorporated,43,A,1654,"Chilhowie, VA",0,105,0,0,Chilhowie town
+VA,5183168,Warsaw,incorporated,43,A,1637,"Warsaw, VA",0,106,0,0,Warsaw town
+VA,5161560,Pennington Gap,incorporated,43,A,1624,"Pennington Gap, VA",0,107,0,0,Pennington Gap town
+VA,5117952,Coeburn,incorporated,43,A,1598,"Coeburn, VA",0,108,0,0,Coeburn town
+VA,5169456,Rural Retreat,incorporated,43,A,1546,"Rural Retreat, VA",0,109,0,0,Rural Retreat town
+VA,5135976,Haymarket,incorporated,43,A,1545,"Haymarket, VA",0,110,0,0,Haymarket town
+VA,5126416,Exmore,incorporated,43,A,1473,"Exmore, VA",0,111,0,0,Exmore town
+VA,5142424,Kilmarnock,incorporated,43,A,1445,"Kilmarnock, VA",0,112,0,0,Kilmarnock town
+VA,5102040,Appalachia,incorporated,43,A,1432,"Appalachia, VA",0,113,0,0,Appalachia town
+VA,5176256,Stuart,incorporated,43,A,1431,"Stuart, VA",0,114,0,0,Stuart town
+VA,5131936,Gordonsville,incorporated,43,A,1402,"Gordonsville, VA",0,115,0,0,Gordonsville town
+VA,5117552,Clintwood,incorporated,43,A,1377,"Clintwood, VA",0,116,0,0,Clintwood town
+VA,5131056,Glade Spring,incorporated,43,A,1367,"Glade Spring, VA",0,117,0,0,Glade Spring town
+VA,5151512,Middletown,incorporated,43,A,1355,"Middletown, VA",0,118,0,0,Middletown town
+VA,5133232,Gretna,incorporated,43,A,1310,"Gretna, VA",0,119,0,0,Gretna town
+VA,5116992,Clarksville,incorporated,43,A,1300,"Clarksville, VA",0,120,0,0,Clarksville town
+VA,5119600,Courtland,incorporated,43,A,1295,"Courtland, VA",0,121,0,0,Courtland town
+VA,5139224,Hurt,incorporated,43,A,1267,"Hurt, VA",0,122,0,0,Hurt town
+VA,5183808,Weber City,incorporated,43,A,1250,"Weber City, VA",0,123,0,0,Weber City town
+VA,5115000,Chatham,incorporated,43,A,1232,"Chatham, VA",0,124,0,0,Chatham town
+VA,5138280,Honaker,incorporated,43,A,1217,"Honaker, VA",0,125,0,0,Honaker town
+VA,5110744,Buchanan,incorporated,43,A,1196,"Buchanan, VA",0,126,0,0,Buchanan town
+VA,5112808,Cape Charles,incorporated,43,A,1178,"Cape Charles, VA",0,127,0,0,Cape Charles town
+VA,5125008,Edinburg,incorporated,43,A,1178,"Edinburg, VA",0,128,0,0,Edinburg town
+VA,5159336,Onancock,incorporated,43,A,1169,"Onancock, VA",0,129,0,0,Onancock town
+VA,5108888,Bowling Green,incorporated,43,A,1168,"Bowling Green, VA",0,130,0,0,Bowling Green town
+VA,5161336,Pembroke,incorporated,43,A,1152,"Pembroke, VA",0,131,0,0,Pembroke town
+VA,5134064,Halifax,incorporated,43,A,1118,"Halifax, VA",0,132,0,0,Halifax town
+VA,5141832,Kenbridge,incorporated,43,A,1112,"Kenbridge, VA",0,133,0,0,Kenbridge town
+VA,5110296,Brookneal,incorporated,43,A,1090,"Brookneal, VA",0,134,0,0,Brookneal town
+VA,5113784,Cedar Bluff,incorporated,43,A,1069,"Cedar Bluff, VA",0,135,0,0,Cedar Bluff town
+VA,5131136,Glasgow,incorporated,43,A,1052,"Glasgow, VA",0,136,0,0,Glasgow town
+VA,5158696,Occoquan,incorporated,43,A,1035,"Occoquan, VA",0,137,0,0,Occoquan town
+VA,5144520,Lawrenceville,incorporated,43,A,1014,"Lawrenceville, VA",0,138,0,0,Lawrenceville town
+VA,5139528,Independence,incorporated,43,A,1011,"Independence, VA",0,139,0,0,Independence town
+VA,5119904,Craigsville,incorporated,43,A,899,"Craigsville, VA",0,140,0,0,Craigsville town
+VA,5164272,Pound,incorporated,43,A,877,"Pound, VA",0,141,0,0,Pound town
+VA,5133648,Grundy,incorporated,43,A,875,"Grundy, VA",0,142,0,0,Grundy town
+VA,5141272,Jonesville,incorporated,43,A,872,"Jonesville, VA",0,143,0,0,Jonesville town
+VA,5169936,St. Paul,incorporated,43,A,866,"St. Paul, VA",0,144,0,0,St. Paul town
+VA,5160680,Parksley,incorporated,43,A,816,"Parksley, VA",0,145,0,0,Parksley town
+VA,5142264,Keysville,incorporated,43,A,807,"Keysville, VA",0,146,0,0,Keysville town
+VA,5121184,Damascus,incorporated,43,A,788,"Damascus, VA",0,147,0,0,Damascus town
+VA,5182384,Wakefield,incorporated,43,A,759,"Wakefield, VA",0,148,0,0,Wakefield town
+VA,5127824,Fincastle,incorporated,43,A,755,"Fincastle, VA",0,149,0,0,Fincastle town
+VA,5167208,Ridgeway,incorporated,43,A,752,"Ridgeway, VA",0,150,0,0,Ridgeway town
+VA,5108984,Boyce,incorporated,43,A,749,"Boyce, VA",0,151,0,0,Boyce town
+VA,5166896,Rich Creek,incorporated,43,A,749,"Rich Creek, VA",0,152,0,0,Rich Creek town
+VA,5169168,Round Hill,incorporated,43,A,693,"Round Hill, VA",0,153,0,0,Round Hill town
+VA,5151448,Middleburg,incorporated,43,A,669,"Middleburg, VA",0,154,0,0,Middleburg town
+VA,5140536,Jarratt,incorporated,43,A,652,"Jarratt, VA",0,155,0,0,Jarratt town
+VA,5166512,Remington,incorporated,43,A,626,"Remington, VA",0,156,0,0,Remington town
+VA,5134240,Hamilton,incorporated,43,A,619,"Hamilton, VA",0,157,0,0,Hamilton town
+VA,5143176,La Crosse,incorporated,43,A,614,"La Crosse, VA",0,158,0,0,La Crosse town
+VA,5165120,Quantico,incorporated,43,A,578,"Quantico, VA",0,159,0,0,Quantico town
+VA,5105912,Belle Haven,incorporated,43,A,543,"Belle Haven, VA",0,160,0,0,Belle Haven town
+VA,5123376,Drakes Branch,incorporated,43,A,533,"Drakes Branch, VA",0,161,0,0,Drakes Branch town
+VA,5154984,Nassawadox,incorporated,43,A,533,"Nassawadox, VA",0,162,0,0,Nassawadox town
+VA,5159384,Onley,incorporated,43,A,532,"Onley, VA",0,163,0,0,Onley town
+VA,5170800,Scottsville,incorporated,43,A,524,"Scottsville, VA",0,164,0,0,Scottsville town
+VA,5100180,Accomac,incorporated,43,A,519,"Accomac, VA",0,165,0,0,Accomac town
+VA,5109032,Boykins,incorporated,43,A,516,"Boykins, VA",0,166,0,0,Boykins town
+VA,5114952,Charlotte Court House,incorporated,43,A,505,"Charlotte Court House, VA",0,167,0,0,Charlotte Court House town
+VA,5180272,Urbanna,incorporated,43,A,492,"Urbanna, VA",0,168,0,0,Urbanna town
+VA,5115112,Cheriton,incorporated,43,A,486,"Cheriton, VA",0,169,0,0,Cheriton town
+VA,5136008,Haysi,incorporated,43,A,484,"Haysi, VA",0,170,0,0,Haysi town
+VA,5140088,Irvington,incorporated,43,A,474,"Irvington, VA",0,171,0,0,Irvington town
+VA,5152120,Mineral,incorporated,43,A,470,"Mineral, VA",0,172,0,0,Mineral town
+VA,5179472,Troutville,incorporated,43,A,458,"Troutville, VA",0,173,0,0,Troutville town
+VA,5148344,McKenney,incorporated,43,A,457,"McKenney, VA",0,174,0,0,McKenney town
+VA,5129920,Fries,incorporated,43,A,450,"Fries, VA",0,175,0,0,Fries town
+VA,5128544,Floyd,incorporated,43,A,448,"Floyd, VA",0,176,0,0,Floyd town
+VA,5153864,Mount Crawford,incorporated,43,A,439,"Mount Crawford, VA",0,177,0,0,Mount Crawford town
+VA,5122560,Dillwyn,incorporated,43,A,436,"Dillwyn, VA",0,178,0,0,Dillwyn town
+VA,5177520,Tangier,incorporated,43,A,436,"Tangier, VA",0,179,0,0,Tangier town
+VA,5111560,Burkeville,incorporated,43,A,417,"Burkeville, VA",0,180,0,0,Burkeville town
+VA,5150984,Melfa,incorporated,43,A,396,"Melfa, VA",0,181,0,0,Melfa town
+VA,5108120,Bloxom,incorporated,43,A,387,"Bloxom, VA",0,182,0,0,Bloxom town
+VA,5185600,White Stone,incorporated,43,A,380,"White Stone, VA",0,183,0,0,White Stone town
+VA,5156304,Nickelsville,incorporated,43,A,378,"Nickelsville, VA",0,184,0,0,Nickelsville town
+VA,5175008,Stanardsville,incorporated,43,A,349,"Stanardsville, VA",0,185,0,0,Stanardsville town
+VA,5131968,Goshen,incorporated,43,A,338,"Goshen, VA",0,186,0,0,Goshen town
+VA,5152952,Montross,incorporated,43,A,333,"Montross, VA",0,187,0,0,Montross town
+VA,5140024,Iron Gate,incorporated,43,A,324,"Iron Gate, VA",0,188,0,0,Iron Gate town
+VA,5140232,Ivor,incorporated,43,A,312,"Ivor, VA",0,189,0,0,Ivor town
+VA,5116880,Claremont,incorporated,43,A,305,"Claremont, VA",0,190,0,0,Claremont town
+VA,5100724,Alberta,incorporated,43,A,302,"Alberta, VA",0,191,0,0,Alberta town
+VA,5109016,Boydton,incorporated,43,A,302,"Boydton, VA",0,192,0,0,Boydton town
+VA,5124752,Eastville,incorporated,43,A,300,"Eastville, VA",0,193,0,0,Eastville town
+VA,5156096,Newsoms,incorporated,43,A,286,"Newsoms, VA",0,194,0,0,Newsoms town
+VA,5110072,Brodnax,incorporated,43,A,283,"Brodnax, VA",0,195,0,0,Brodnax town
+VA,5179024,Toms Brook,incorporated,43,A,276,"Toms Brook, VA",0,196,0,0,Toms Brook town
+VA,5160296,Painter,incorporated,43,A,272,"Painter, VA",0,197,0,0,Painter town
+VA,5163288,Pocahontas,incorporated,43,A,268,"Pocahontas, VA",0,198,0,0,Pocahontas town
+VA,5108584,Boones Mill,incorporated,43,A,259,"Boones Mill, VA",0,199,0,0,Boones Mill town
+VA,5123952,Dungannon,incorporated,43,A,257,"Dungannon, VA",0,200,0,0,Dungannon town
+VA,5182320,Wachapreague,incorporated,43,A,257,"Wachapreague, VA",0,201,0,0,Wachapreague town
+VA,5122160,Dendron,incorporated,43,A,251,"Dendron, VA",0,202,0,0,Dendron town
+VA,5178192,The Plains,incorporated,43,A,245,"The Plains, VA",0,203,0,0,The Plains town
+VA,5117504,Clinchco,incorporated,43,A,244,"Clinchco, VA",0,204,0,0,Clinchco town
+VA,5117376,Clifton,incorporated,43,A,243,"Clifton, VA",0,205,0,0,Clifton town
+VA,5161896,Phenix,incorporated,43,A,232,"Phenix, VA",0,206,0,0,Phenix town
+VA,5175840,Stony Creek,incorporated,43,A,209,"Stony Creek, VA",0,207,0,0,Stony Creek town
+VA,5176880,Surry,incorporated,43,A,208,"Surry, VA",0,208,0,0,Surry town
+VA,5148488,Madison,incorporated,43,A,205,"Madison, VA",0,209,0,0,Madison town
+VA,5134176,Hallwood,incorporated,43,A,202,"Hallwood, VA",0,210,0,0,Hallwood town
+VA,5163928,Port Royal,incorporated,43,A,196,"Port Royal, VA",0,211,0,0,Port Royal town
+VA,5170576,Saxis,incorporated,43,A,172,"Saxis, VA",0,212,0,0,Saxis town
+VA,5152680,Monterey,incorporated,43,A,165,"Monterey, VA",0,213,0,0,Monterey town
+VA,5179456,Troutdale,incorporated,43,A,145,"Troutdale, VA",0,214,0,0,Troutdale town
+VA,5141656,Keller,incorporated,43,A,144,"Keller, VA",0,215,0,0,Keller town
+VA,5112904,Capron,incorporated,43,A,141,"Capron, VA",0,216,0,0,Capron town
+VA,5160488,Pamplin City,incorporated,43,A,138,"Pamplin City, VA",0,217,0,0,Pamplin City town
+VA,5117296,Cleveland,incorporated,43,A,136,"Cleveland, VA",0,218,0,0,Cleveland town
+VA,5170752,Scottsburg,incorporated,43,A,127,"Scottsburg, VA",0,219,0,0,Scottsburg town
+VA,5181312,Virgilina,incorporated,43,A,126,"Virgilina, VA",0,220,0,0,Virgilina town
+VA,5155592,New Castle,incorporated,43,A,125,"New Castle, VA",0,221,0,0,New Castle town
+VA,5109208,Branchville,incorporated,43,A,118,"Branchville, VA",0,222,0,0,Branchville town
+VA,5137288,Hillsboro,incorporated,43,A,114,"Hillsboro, VA",0,223,0,0,Hillsboro town
+VA,5131376,Glen Lyn,incorporated,43,A,95,"Glen Lyn, VA",0,224,0,0,Glen Lyn town
+VA,5183248,Washington,incorporated,43,A,86,"Washington, VA",0,225,0,0,Washington town
+VA,5123680,Duffield,incorporated,43,A,73,"Duffield, VA",0,226,0,0,Duffield town
+VA,5117536,Clinchport,incorporated,43,A,64,"Clinchport, VA",0,227,0,0,Clinchport town

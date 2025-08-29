@@ -1,0 +1,940 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+IA,1921000,Des Moines,incorporated,25,A,214133,"Des Moines, IA",0,1,86,0.344,Des Moines city
+IA,1912000,Cedar Rapids,incorporated,25,A,137710,"Cedar Rapids, IA",0,2,25,0.1,Cedar Rapids city
+IA,1919000,Davenport,incorporated,25,A,101724,"Davenport, IA",0,3,14,0.056,Davenport city
+IA,1973335,Sioux City,incorporated,25,A,85797,"Sioux City, IA",0,4,11,0.044,Sioux City city
+IA,1938595,Iowa City,incorporated,25,A,74828,"Iowa City, IA",0,5,9,0.036,Iowa City city
+IA,1983910,West Des Moines,incorporated,25,A,68723,"West Des Moines, IA",0,6,9,0.036,West Des Moines city
+IA,1902305,Ankeny,incorporated,25,A,67887,"Ankeny, IA",0,7,6,0.024,Ankeny city
+IA,1982425,Waterloo,incorporated,25,A,67314,"Waterloo, IA",0,8,4,0.016,Waterloo city
+IA,1901855,Ames,incorporated,25,A,66427,"Ames, IA",0,9,5,0.02,Ames city
+IA,1916860,Council Bluffs,incorporated,25,A,62799,"Council Bluffs, IA",0,10,3,0.012,Council Bluffs city
+IA,1922395,Dubuque,incorporated,25,A,59667,"Dubuque, IA",0,11,4,0.016,Dubuque city
+IA,1979950,Urbandale,incorporated,25,A,45580,"Urbandale, IA",0,12,4,0.016,Urbandale city
+IA,1949485,Marion,incorporated,25,A,41535,"Marion, IA",0,13,2,0.008,Marion city
+IA,1911755,Cedar Falls,incorporated,25,A,40713,"Cedar Falls, IA",0,14,2,0.008,Cedar Falls city
+IA,1906355,Bettendorf,incorporated,25,A,39102,"Bettendorf, IA",0,15,3,0.012,Bettendorf city
+IA,1949755,Marshalltown,incorporated,25,A,27591,"Marshalltown, IA",0,16,3,0.012,Marshalltown city
+IA,1950160,Mason City,incorporated,25,A,27338,"Mason City, IA",0,17,3,0.012,Mason City city
+IA,1960465,Ottumwa,incorporated,25,A,25529,"Ottumwa, IA",0,18,3,0.012,Ottumwa city
+IA,1928515,Fort Dodge,incorporated,25,A,24871,"Fort Dodge, IA",0,19,2,0.008,Fort Dodge city
+IA,1914430,Clinton,incorporated,25,A,24469,"Clinton, IA",0,20,1,0.004,Clinton city
+IA,1939765,Johnston,incorporated,25,A,24064,"Johnston, IA",0,21,1,0.004,Johnston city
+IA,1909550,Burlington,incorporated,25,A,23982,"Burlington, IA",0,22,1,0.004,Burlington city
+IA,1982695,Waukee,incorporated,25,A,23940,"Waukee, IA",0,23,1,0.004,Waukee city
+IA,1955110,Muscatine,incorporated,25,A,23797,"Muscatine, IA",0,24,1,0.004,Muscatine city
+IA,1916230,Coralville,incorporated,25,A,22318,"Coralville, IA",0,25,1,0.004,Coralville city
+IA,1957360,North Liberty,incorporated,25,A,20479,"North Liberty, IA",0,26,2,0.008,North Liberty city
+IA,1901630,Altoona,incorporated,25,A,19565,"Altoona, IA",0,27,2,0.008,Altoona city
+IA,1914520,Clive,incorporated,25,A,18601,"Clive, IA",0,28,2,0.008,Clive city
+IA,1938280,Indianola,incorporated,25,A,15833,"Indianola, IA",0,29,2,0.008,Indianola city
+IA,1956505,Newton,incorporated,25,A,15760,"Newton, IA",0,30,2,0.008,Newton city
+IA,1933060,Grimes,incorporated,25,A,15392,"Grimes, IA",0,31,2,0.008,Grimes city
+IA,1957675,Norwalk,incorporated,25,A,12799,"Norwalk, IA",0,32,2,0.008,Norwalk city
+IA,1907480,Boone,incorporated,25,A,12460,"Boone, IA",0,33,2,0.008,Boone city
+IA,1959925,Oskaloosa,incorporated,25,A,11558,"Oskaloosa, IA",0,34,2,0.008,Oskaloosa city
+IA,1974280,Spencer,incorporated,25,A,11325,"Spencer, IA",0,35,2,0.008,Spencer city
+IA,1975630,Storm Lake,incorporated,25,A,11269,"Storm Lake, IA",0,36,2,0.008,Storm Lake city
+IA,1944400,Le Mars,incorporated,25,A,10571,"Le Mars, IA",0,37,2,0.008,Le Mars city
+IA,1962040,Pella,incorporated,25,A,10464,"Pella, IA",0,38,2,0.008,Pella city
+IA,1982875,Waverly,incorporated,25,A,10394,"Waverly, IA",0,39,2,0.008,Waverly city
+IA,1911080,Carroll,incorporated,25,A,10321,"Carroll, IA",0,40,2,0.008,Carroll city
+IA,1928605,Fort Madison,incorporated,25,A,10270,"Fort Madison, IA",0,41,2,0.008,Fort Madison city
+IA,1963525,Pleasant Hill,incorporated,25,A,10147,"Pleasant Hill, IA",0,42,2,0.008,Pleasant Hill city
+IA,1940845,Keokuk,incorporated,25,A,9900,"Keokuk, IA",0,43,2,0.008,Keokuk city
+IA,1933105,Grinnell,incorporated,25,A,9564,"Grinnell, IA",0,44,1,0.004,Grinnell city
+IA,1926445,Fairfield,incorporated,25,A,9416,"Fairfield, IA",0,45,1,0.004,Fairfield city
+IA,1954705,Mount Pleasant,incorporated,25,A,9274,"Mount Pleasant, IA",0,46,1,0.004,Mount Pleasant city
+IA,1919945,Denison,incorporated,25,A,8373,"Denison, IA",0,47,1,0.004,Denison city
+IA,1973290,Sioux Center,incorporated,25,A,8229,"Sioux Center, IA",0,48,1,0.004,Sioux Center city
+IA,1962355,Perry,incorporated,25,A,7836,"Perry, IA",0,49,1,0.004,Perry city
+IA,1983145,Webster City,incorporated,25,A,7825,"Webster City, IA",0,50,1,0.004,Webster City city
+IA,1914025,Clear Lake,incorporated,25,A,7687,"Clear Lake, IA",0,51,1,0.004,Clear Lake city
+IA,1942015,Knoxville,incorporated,25,A,7595,"Knoxville, IA",0,52,1,0.004,Knoxville city
+IA,1919405,Decorah,incorporated,25,A,7587,"Decorah, IA",0,53,1,0.004,Decorah city
+IA,1917265,Creston,incorporated,25,A,7536,"Creston, IA",0,54,0,0,Creston city
+IA,1912765,Charles City,incorporated,25,A,7396,"Charles City, IA",0,55,0,0,Charles City city
+IA,1907390,Bondurant,incorporated,25,A,7365,"Bondurant, IA",0,56,0,0,Bondurant city
+IA,1982335,Washington,incorporated,25,A,7352,"Washington, IA",0,57,0,0,Washington city
+IA,1935940,Hiawatha,incorporated,25,A,7183,"Hiawatha, IA",0,58,0,0,Hiawatha city
+IA,1955695,Nevada,incorporated,25,A,6925,"Nevada, IA",0,59,0,0,Nevada city
+IA,1903520,Atlantic,incorporated,25,A,6792,"Atlantic, IA",0,60,0,0,Atlantic city
+IA,1924600,Eldridge,incorporated,25,A,6726,"Eldridge, IA",0,61,0,0,Eldridge city
+IA,1959475,Orange City,incorporated,25,A,6267,"Orange City, IA",0,62,0,0,Orange City city
+IA,1900505,Adel,incorporated,25,A,6153,"Adel, IA",0,63,0,0,Adel city
+IA,1949215,Maquoketa,incorporated,25,A,6128,"Maquoketa, IA",0,64,0,0,Maquoketa city
+IA,1938100,Independence,incorporated,25,A,6064,"Independence, IA",0,65,0,0,Independence city
+IA,1903160,Asbury,incorporated,25,A,5943,"Asbury, IA",0,66,0,0,Asbury city
+IA,1958620,Oelwein,incorporated,25,A,5920,"Oelwein, IA",0,67,0,0,Oelwein city
+IA,1925860,Estherville,incorporated,25,A,5904,"Estherville, IA",0,68,0,0,Estherville city
+IA,1966135,Red Oak,incorporated,25,A,5596,"Red Oak, IA",0,69,0,0,Red Oak city
+IA,1964020,Polk City,incorporated,25,A,5543,"Polk City, IA",0,70,0,0,Polk City city
+IA,1921180,DeWitt,incorporated,25,A,5514,"DeWitt, IA",0,71,0,0,DeWitt city
+IA,1972390,Sheldon,incorporated,25,A,5512,"Sheldon, IA",0,72,0,0,Sheldon city
+IA,1901135,Algona,incorporated,25,A,5487,"Algona, IA",0,73,0,0,Algona city
+IA,1901990,Anamosa,incorporated,25,A,5450,"Anamosa, IA",0,74,0,0,Anamosa city
+IA,1974415,Spirit Lake,incorporated,25,A,5439,"Spirit Lake, IA",0,75,0,0,Spirit Lake city
+IA,1959835,Osceola,incorporated,25,A,5415,"Osceola, IA",0,76,0,0,Osceola city
+IA,1912315,Centerville,incorporated,25,A,5412,"Centerville, IA",0,77,0,0,Centerville city
+IA,1913575,Clarinda,incorporated,25,A,5369,"Clarinda, IA",0,78,0,0,Clarinda city
+IA,1986520,Winterset,incorporated,25,A,5353,"Winterset, IA",0,79,0,0,Winterset city
+IA,1986250,Windsor Heights,incorporated,25,A,5252,"Windsor Heights, IA",0,80,0,0,Windsor Heights city
+IA,1913080,Cherokee,incorporated,25,A,5199,"Cherokee, IA",0,81,0,0,Cherokee city
+IA,1938640,Iowa Falls,incorporated,25,A,5106,"Iowa Falls, IA",0,82,0,0,Iowa Falls city
+IA,1931350,Glenwood,incorporated,25,A,5073,"Glenwood, IA",0,83,0,0,Glenwood city
+IA,1948810,Manchester,incorporated,25,A,5065,"Manchester, IA",0,84,0,0,Manchester city
+IA,1971625,Sergeant Bluff,incorporated,25,A,5015,"Sergeant Bluff, IA",0,85,0,0,Sergeant Bluff city
+IA,1981210,Vinton,incorporated,25,A,4938,"Vinton, IA",0,86,0,0,Vinton city
+IA,1972525,Shenandoah,incorporated,25,A,4925,"Shenandoah, IA",0,87,0,0,Shenandoah city
+IA,1934500,Harlan,incorporated,25,A,4893,"Harlan, IA",0,88,0,0,Harlan city
+IA,1937560,Humboldt,incorporated,25,A,4792,"Humboldt, IA",0,89,0,0,Humboldt city
+IA,1944085,Le Claire,incorporated,25,A,4710,"Le Claire, IA",0,90,0,0,Le Claire city
+IA,1910135,Camanche,incorporated,25,A,4570,"Camanche, IA",0,91,0,0,Camanche city
+IA,1925995,Evansdale,incorporated,25,A,4561,"Evansdale, IA",0,92,0,0,Evansdale city
+IA,1954840,Mount Vernon,incorporated,25,A,4527,"Mount Vernon, IA",0,93,0,0,Mount Vernon city
+IA,1978060,Tiffin,incorporated,25,A,4512,"Tiffin, IA",0,94,0,0,Tiffin city
+IA,1923115,Dyersville,incorporated,25,A,4477,"Dyersville, IA",0,95,0,0,Dyersville city
+IA,1933960,Hampton,incorporated,25,A,4337,"Hampton, IA",0,96,0,0,Hampton city
+IA,1928380,Forest City,incorporated,25,A,4285,"Forest City, IA",0,97,0,0,Forest City city
+IA,1937920,Huxley,incorporated,25,A,4244,"Huxley, IA",0,98,0,0,Huxley city
+IA,1912720,Chariton,incorporated,25,A,4193,"Chariton, IA",0,99,0,0,Chariton city
+IA,1939450,Jefferson,incorporated,25,A,4182,"Jefferson, IA",0,100,0,0,Jefferson city
+IA,1910765,Carlisle,incorporated,25,A,4160,"Carlisle, IA",0,101,0,0,Carlisle city
+IA,1968205,Rock Valley,incorporated,25,A,4059,"Rock Valley, IA",0,102,0,0,Rock Valley city
+IA,1953625,Monticello,incorporated,25,A,4040,"Monticello, IA",0,103,0,0,Monticello city
+IA,1917220,Cresco,incorporated,25,A,3888,"Cresco, IA",0,104,0,0,Cresco city
+IA,1984315,West Liberty,incorporated,25,A,3858,"West Liberty, IA",0,105,0,0,West Liberty city
+IA,1982740,Waukon,incorporated,25,A,3827,"Waukon, IA",0,106,0,0,Waukon city
+IA,1911215,Carter Lake,incorporated,25,A,3791,"Carter Lake, IA",0,107,0,0,Carter Lake city
+IA,1900910,Albia,incorporated,25,A,3721,"Albia, IA",0,108,0,0,Albia city
+IA,1925590,Emmetsburg,incorporated,25,A,3706,"Emmetsburg, IA",0,109,0,0,Emmetsburg city
+IA,1959745,Osage,incorporated,25,A,3627,"Osage, IA",0,110,0,0,Osage city
+IA,1923250,Eagle Grove,incorporated,25,A,3601,"Eagle Grove, IA",0,111,0,0,Eagle Grove city
+IA,1956100,New Hampton,incorporated,25,A,3494,"New Hampton, IA",0,112,0,0,New Hampton city
+IA,1967800,Robins,incorporated,25,A,3353,"Robins, IA",0,113,0,0,Robins city
+IA,1975675,Story City,incorporated,25,A,3352,"Story City, IA",0,114,0,0,Story City city
+IA,1985845,Williamsburg,incorporated,25,A,3346,"Williamsburg, IA",0,115,0,0,Williamsburg city
+IA,1952095,Milford,incorporated,25,A,3321,"Milford, IA",0,116,0,0,Milford city
+IA,1983685,West Burlington,incorporated,25,A,3197,"West Burlington, IA",0,117,0,0,West Burlington city
+IA,1978285,Tipton,incorporated,25,A,3149,"Tipton, IA",0,118,0,0,Tipton city
+IA,1977115,Tama,incorporated,25,A,3130,"Tama, IA",0,119,0,0,Tama city
+IA,1929955,Garner,incorporated,25,A,3065,"Garner, IA",0,120,0,0,Garner city
+IA,1973875,Solon,incorporated,25,A,3018,"Solon, IA",0,121,0,0,Solon city
+IA,1986070,Wilton,incorporated,25,A,2924,"Wilton, IA",0,122,0,0,Wilton city
+IA,1959115,Onawa,incorporated,25,A,2906,"Onawa, IA",0,123,0,0,Onawa city
+IA,1972975,Sibley,incorporated,25,A,2860,"Sibley, IA",0,124,0,0,Sibley city
+IA,1926400,Fairfax,incorporated,25,A,2828,"Fairfax, IA",0,125,0,0,Fairfax city
+IA,1913620,Clarion,incorporated,25,A,2810,"Clarion, IA",0,126,0,0,Clarion city
+IA,1948450,Madrid,incorporated,25,A,2802,"Madrid, IA",0,127,0,0,Madrid city
+IA,1933195,Grundy Center,incorporated,25,A,2796,"Grundy Center, IA",0,128,0,0,Grundy Center city
+IA,1935265,Hawarden,incorporated,25,A,2700,"Hawarden, IA",0,129,0,0,Hawarden city
+IA,1907030,Bloomfield,incorporated,25,A,2682,"Bloomfield, IA",0,130,0,0,Bloomfield city
+IA,1952860,Missouri Valley,incorporated,25,A,2678,"Missouri Valley, IA",0,131,0,0,Missouri Valley city
+IA,1924465,Eldora,incorporated,25,A,2663,"Eldora, IA",0,132,0,0,Eldora city
+IA,1940170,Kalona,incorporated,25,A,2630,"Kalona, IA",0,133,0,0,Kalona city
+IA,1968160,Rock Rapids,incorporated,25,A,2611,"Rock Rapids, IA",0,134,0,0,Rock Rapids city
+IA,1912270,Center Point,incorporated,25,A,2579,"Center Point, IA",0,135,0,0,Center Point city
+IA,1937470,Hudson,incorporated,25,A,2546,"Hudson, IA",0,136,0,0,Hudson city
+IA,1983595,West Branch,incorporated,25,A,2509,"West Branch, IA",0,137,0,0,West Branch city
+IA,1939585,Jesup,incorporated,25,A,2508,"Jesup, IA",0,138,0,0,Jesup city
+IA,1964290,Postville,incorporated,25,A,2503,"Postville, IA",0,139,0,0,Postville city
+IA,1984765,West Union,incorporated,25,A,2490,"West Union, IA",0,140,0,0,West Union city
+IA,1952950,Mitchellville,incorporated,25,A,2485,"Mitchellville, IA",0,141,0,0,Mitchellville city
+IA,1905680,Belmond,incorporated,25,A,2463,"Belmond, IA",0,142,0,0,Belmond city
+IA,1949395,Marengo,incorporated,25,A,2435,"Marengo, IA",0,143,0,0,Marengo city
+IA,1911305,Cascade,incorporated,25,A,2386,"Cascade, IA",0,144,0,0,Cascade city
+IA,1937515,Hull,incorporated,25,A,2384,"Hull, IA",0,145,0,0,Hull city
+IA,1978510,Toledo,incorporated,25,A,2369,"Toledo, IA",0,146,0,0,Toledo city
+IA,1905635,Bellevue,incorporated,25,A,2363,"Bellevue, IA",0,147,0,0,Bellevue city
+IA,1905590,Belle Plaine,incorporated,25,A,2330,"Belle Plaine, IA",0,148,0,0,Belle Plaine city
+IA,1925365,Ely,incorporated,25,A,2328,"Ely, IA",0,149,0,0,Ely city
+IA,1943365,La Porte City,incorporated,25,A,2284,"La Porte City, IA",0,150,0,0,La Porte City city
+IA,1915060,Colfax,incorporated,25,A,2255,"Colfax, IA",0,151,0,0,Colfax city
+IA,1968295,Rockwell City,incorporated,25,A,2240,"Rockwell City, IA",0,152,0,0,Rockwell City city
+IA,1945615,Lisbon,incorporated,25,A,2233,"Lisbon, IA",0,153,0,0,Lisbon city
+IA,1942555,Lake Mills,incorporated,25,A,2143,"Lake Mills, IA",0,154,0,0,Lake Mills city
+IA,1901495,Alta,incorporated,25,A,2087,"Alta, IA",0,155,0,0,Alta city
+IA,1982200,Wapello,incorporated,25,A,2084,"Wapello, IA",0,156,0,0,Wapello city
+IA,1957630,Northwood,incorporated,25,A,2072,"Northwood, IA",0,157,0,0,Northwood city
+IA,1969645,Sac City,incorporated,25,A,2063,"Sac City, IA",0,158,0,0,Sac City city
+IA,1932790,Greenfield,incorporated,25,A,2062,"Greenfield, IA",0,159,0,0,Greenfield city
+IA,1903475,Atkins,incorporated,25,A,2056,"Atkins, IA",0,160,0,0,Atkins city
+IA,1903655,Audubon,incorporated,25,A,2053,"Audubon, IA",0,161,0,0,Audubon city
+IA,1938010,Ida Grove,incorporated,25,A,2051,"Ida Grove, IA",0,162,0,0,Ida Grove city
+IA,1908605,Britt,incorporated,25,A,2044,"Britt, IA",0,163,0,0,Britt city
+IA,1976260,Sumner,incorporated,25,A,2030,"Sumner, IA",0,164,0,0,Sumner city
+IA,1925725,Epworth,incorporated,25,A,2023,"Epworth, IA",0,165,0,0,Epworth city
+IA,1961590,Parkersburg,incorporated,25,A,2015,"Parkersburg, IA",0,166,0,0,Parkersburg city
+IA,1958665,Ogden,incorporated,25,A,2007,"Ogden, IA",0,167,0,0,Ogden city
+IA,1973110,Sigourney,incorporated,25,A,2004,"Sigourney, IA",0,168,0,0,Sigourney city
+IA,1942960,Lamoni,incorporated,25,A,1969,"Lamoni, IA",0,169,0,0,Lamoni city
+IA,1953355,Monroe,incorporated,25,A,1967,"Monroe, IA",0,170,0,0,Monroe city
+IA,1920035,Denver,incorporated,25,A,1919,"Denver, IA",0,171,0,0,Denver city
+IA,1956325,New London,incorporated,25,A,1910,"New London, IA",0,172,0,0,New London city
+IA,1962130,Peosta,incorporated,25,A,1908,"Peosta, IA",0,173,0,0,Peosta city
+IA,1918255,Dallas Center,incorporated,25,A,1901,"Dallas Center, IA",0,174,0,0,Dallas Center city
+IA,1922980,Durant,incorporated,25,A,1871,"Durant, IA",0,175,0,0,Durant city
+IA,1963975,Pocahontas,incorporated,25,A,1867,"Pocahontas, IA",0,176,0,0,Pocahontas city
+IA,1915420,Columbus Junction,incorporated,25,A,1830,"Columbus Junction, IA",0,177,0,0,Columbus Junction city
+IA,1944535,Leon,incorporated,25,A,1822,"Leon, IA",0,178,0,0,Leon city
+IA,1933465,Guttenberg,incorporated,25,A,1817,"Guttenberg, IA",0,179,0,0,Guttenberg city
+IA,1975990,Stuart,incorporated,25,A,1782,"Stuart, IA",0,180,0,0,Stuart city
+IA,1926760,Farley,incorporated,25,A,1766,"Farley, IA",0,181,0,0,Farley city
+IA,1942465,Lake City,incorporated,25,A,1731,"Lake City, IA",0,182,0,0,Lake City city
+IA,1948990,Manson,incorporated,25,A,1709,"Manson, IA",0,183,0,0,Manson city
+IA,1964470,Prairie City,incorporated,25,A,1700,"Prairie City, IA",0,184,0,0,Prairie City city
+IA,1950790,Mediapolis,incorporated,25,A,1688,"Mediapolis, IA",0,185,0,0,Mediapolis city
+IA,1954930,Moville,incorporated,25,A,1687,"Moville, IA",0,186,0,0,Moville city
+IA,1903970,Avoca,incorporated,25,A,1683,"Avoca, IA",0,187,0,0,Avoca city
+IA,1966405,Remsen,incorporated,25,A,1678,"Remsen, IA",0,188,0,0,Remsen city
+IA,1963750,Pleasantville,incorporated,25,A,1676,"Pleasantville, IA",0,189,0,0,Pleasantville city
+IA,1907075,Blue Grass,incorporated,25,A,1666,"Blue Grass, IA",0,190,0,0,Blue Grass city
+IA,1966315,Reinbeck,incorporated,25,A,1662,"Reinbeck, IA",0,191,0,0,Reinbeck city
+IA,1932160,Granger,incorporated,25,A,1654,"Granger, IA",0,192,0,0,Granger city
+IA,1986835,Woodbine,incorporated,25,A,1625,"Woodbine, IA",0,193,0,0,Woodbine city
+IA,1954480,Mount Ayr,incorporated,25,A,1623,"Mount Ayr, IA",0,194,0,0,Mount Ayr city
+IA,1934725,Hartley,incorporated,25,A,1605,"Hartley, IA",0,195,0,0,Hartley city
+IA,1900190,Ackley,incorporated,25,A,1599,"Ackley, IA",0,196,0,0,Ackley city
+IA,1933420,Guthrie Center,incorporated,25,A,1593,"Guthrie Center, IA",0,197,0,0,Guthrie Center city
+IA,1978735,Traer,incorporated,25,A,1583,"Traer, IA",0,198,0,0,Traer city
+IA,1916500,Corning,incorporated,25,A,1564,"Corning, IA",0,199,0,0,Corning city
+IA,1900775,Akron,incorporated,25,A,1558,"Akron, IA",0,200,0,0,Akron city
+IA,1979905,Urbana,incorporated,25,A,1554,"Urbana, IA",0,201,0,0,Urbana city
+IA,1955335,Nashua,incorporated,25,A,1551,"Nashua, IA",0,202,0,0,Nashua city
+IA,1981705,Walcott,incorporated,25,A,1551,"Walcott, IA",0,203,0,0,Walcott city
+IA,1973515,Slater,incorporated,25,A,1543,"Slater, IA",0,204,0,0,Slater city
+IA,1916635,Corydon,incorporated,25,A,1526,"Corydon, IA",0,205,0,0,Corydon city
+IA,1958080,Oakland,incorporated,25,A,1524,"Oakland, IA",0,206,0,0,Oakland city
+IA,1983280,Wellman,incorporated,25,A,1524,"Wellman, IA",0,207,0,0,Wellman city
+IA,1905365,Bedford,incorporated,25,A,1508,"Bedford, IA",0,208,0,0,Bedford city
+IA,1908695,Brooklyn,incorporated,25,A,1502,"Brooklyn, IA",0,209,0,0,Brooklyn city
+IA,1936840,Holstein,incorporated,25,A,1501,"Holstein, IA",0,210,0,0,Holstein city
+IA,1980445,Van Meter,incorporated,25,A,1484,"Van Meter, IA",0,211,0,0,Van Meter city
+IA,1953310,Monona,incorporated,25,A,1471,"Monona, IA",0,212,0,0,Monona city
+IA,1948945,Manning,incorporated,25,A,1455,"Manning, IA",0,213,0,0,Manning city
+IA,1953490,Montezuma,incorporated,25,A,1442,"Montezuma, IA",0,214,0,0,Montezuma city
+IA,1923340,Earlham,incorporated,25,A,1410,"Earlham, IA",0,215,0,0,Earlham city
+IA,1961230,Palo,incorporated,25,A,1407,"Palo, IA",0,216,0,0,Palo city
+IA,1946155,Logan,incorporated,25,A,1397,"Logan, IA",0,217,0,0,Logan city
+IA,1941385,Kingsley,incorporated,25,A,1396,"Kingsley, IA",0,218,0,0,Kingsley city
+IA,1970410,Sanborn,incorporated,25,A,1392,"Sanborn, IA",0,219,0,0,Sanborn city
+IA,1975135,State Center,incorporated,25,A,1391,"State Center, IA",0,220,0,0,State Center city
+IA,1956910,Nora Springs,incorporated,25,A,1369,"Nora Springs, IA",0,221,0,0,Nora Springs city
+IA,1981840,Walford,incorporated,25,A,1366,"Walford, IA",0,222,0,0,Walford city
+IA,1968475,Roland,incorporated,25,A,1362,"Roland, IA",0,223,0,0,Roland city
+IA,1946335,Lone Tree,incorporated,25,A,1357,"Lone Tree, IA",0,224,0,0,Lone Tree city
+IA,1986970,Woodward,incorporated,25,A,1346,"Woodward, IA",0,225,0,0,Woodward city
+IA,1944490,Lenox,incorporated,25,A,1339,"Lenox, IA",0,226,0,0,Lenox city
+IA,1921405,Dike,incorporated,25,A,1304,"Dike, IA",0,227,0,0,Dike city
+IA,1916050,Coon Rapids,incorporated,25,A,1300,"Coon Rapids, IA",0,228,0,0,Coon Rapids city
+IA,1923160,Dysart,incorporated,25,A,1281,"Dysart, IA",0,229,0,0,Dysart city
+IA,1972435,Shell Rock,incorporated,25,A,1268,"Shell Rock, IA",0,230,0,0,Shell Rock city
+IA,1912495,Central City,incorporated,25,A,1264,"Central City, IA",0,231,0,0,Central City city
+IA,1913755,Clarksville,incorporated,25,A,1264,"Clarksville, IA",0,232,0,0,Clarksville city
+IA,1943725,Laurens,incorporated,25,A,1264,"Laurens, IA",0,233,0,0,Laurens city
+IA,1956460,New Sharon,incorporated,25,A,1262,"New Sharon, IA",0,234,0,0,New Sharon city
+IA,1927165,Fayette,incorporated,25,A,1256,"Fayette, IA",0,235,0,0,Fayette city
+IA,1948900,Manly,incorporated,25,A,1256,"Manly, IA",0,236,0,0,Manly city
+IA,1901585,Alton,incorporated,25,A,1248,"Alton, IA",0,237,0,0,Alton city
+IA,1979770,University Heights,incorporated,25,A,1228,"University Heights, IA",0,238,0,0,University Heights city
+IA,1939675,Jewell Junction,incorporated,25,A,1216,"Jewell Junction, IA",0,239,0,0,Jewell Junction city
+IA,1930630,Gilbert,incorporated,25,A,1211,"Gilbert, IA",0,240,0,0,Gilbert city
+IA,1924690,Elkader,incorporated,25,A,1209,"Elkader, IA",0,241,0,0,Elkader city
+IA,1950935,Melcher-Dallas,incorporated,25,A,1195,"Melcher-Dallas, IA",0,242,0,0,Melcher-Dallas city
+IA,1978915,Tripoli,incorporated,25,A,1191,"Tripoli, IA",0,243,0,0,Tripoli city
+IA,1909235,Buffalo,incorporated,25,A,1176,"Buffalo, IA",0,244,0,0,Buffalo city
+IA,1942600,Lake Park,incorporated,25,A,1167,"Lake Park, IA",0,245,0,0,Lake Park city
+IA,1949170,Mapleton,incorporated,25,A,1165,"Mapleton, IA",0,246,0,0,Mapleton city
+IA,1969735,St. Ansgar,incorporated,25,A,1160,"St. Ansgar, IA",0,247,0,0,St. Ansgar city
+IA,1975855,Strawberry Point,incorporated,25,A,1155,"Strawberry Point, IA",0,248,0,0,Strawberry Point city
+IA,1974775,Springville,incorporated,25,A,1154,"Springville, IA",0,249,0,0,Springville city
+IA,1931395,Glidden,incorporated,25,A,1151,"Glidden, IA",0,250,0,0,Glidden city
+IA,1980985,Villisca,incorporated,25,A,1132,"Villisca, IA",0,251,0,0,Villisca city
+IA,1972210,Sheffield,incorporated,25,A,1130,"Sheffield, IA",0,252,0,0,Sheffield city
+IA,1910045,Calmar,incorporated,25,A,1125,"Calmar, IA",0,253,0,0,Calmar city
+IA,1902395,Aplington,incorporated,25,A,1116,"Aplington, IA",0,254,0,0,Aplington city
+IA,1942690,Lake View,incorporated,25,A,1113,"Lake View, IA",0,255,0,0,Lake View city
+IA,1926355,Fairbank,incorporated,25,A,1111,"Fairbank, IA",0,256,0,0,Fairbank city
+IA,1903025,Arnolds Park,incorporated,25,A,1110,"Arnolds Park, IA",0,257,0,0,Arnolds Park city
+IA,1915825,Conrad,incorporated,25,A,1093,"Conrad, IA",0,258,0,0,Conrad city
+IA,1961320,Panora,incorporated,25,A,1091,"Panora, IA",0,259,0,0,Panora city
+IA,1949350,Marcus,incorporated,25,A,1079,"Marcus, IA",0,260,0,0,Marcus city
+IA,1930225,George,incorporated,25,A,1077,"George, IA",0,261,0,0,George city
+IA,1968250,Rockwell,incorporated,25,A,1071,"Rockwell, IA",0,262,0,0,Rockwell city
+IA,1973065,Sidney,incorporated,25,A,1070,"Sidney, IA",0,263,0,0,Sidney city
+IA,1924870,Elk Run Heights,incorporated,25,A,1069,"Elk Run Heights, IA",0,264,0,0,Elk Run Heights city
+IA,1957225,North English,incorporated,25,A,1065,"North English, IA",0,265,0,0,North English city
+IA,1967440,Riverside,incorporated,25,A,1060,"Riverside, IA",0,266,0,0,Riverside city
+IA,1948720,Malvern,incorporated,25,A,1046,"Malvern, IA",0,267,0,0,Malvern city
+IA,1973605,Sloan,incorporated,25,A,1042,"Sloan, IA",0,268,0,0,Sloan city
+IA,1913530,Clarence,incorporated,25,A,1039,"Clarence, IA",0,269,0,0,Clarence city
+IA,1922890,Dunlap,incorporated,25,A,1038,"Dunlap, IA",0,270,0,0,Dunlap city
+IA,1939405,Janesville,incorporated,25,A,1034,"Janesville, IA",0,271,0,0,Janesville city
+IA,1986385,Winfield,incorporated,25,A,1033,"Winfield, IA",0,272,0,0,Winfield city
+IA,1978825,Treynor,incorporated,25,A,1032,"Treynor, IA",0,273,0,0,Treynor city
+IA,1950700,Mechanicsville,incorporated,25,A,1020,"Mechanicsville, IA",0,274,0,0,Mechanicsville city
+IA,1976935,Tabor,incorporated,25,A,1014,"Tabor, IA",0,275,0,0,Tabor city
+IA,1933150,Griswold,incorporated,25,A,994,"Griswold, IA",0,276,0,0,Griswold city
+IA,1958575,Odebolt,incorporated,25,A,994,"Odebolt, IA",0,277,0,0,Odebolt city
+IA,1932745,Greene,incorporated,25,A,990,"Greene, IA",0,278,0,0,Greene city
+IA,1928965,Fredericksburg,incorporated,25,A,987,"Fredericksburg, IA",0,279,0,0,Fredericksburg city
+IA,1961905,Paullina,incorporated,25,A,982,"Paullina, IA",0,280,0,0,Paullina city
+IA,1923970,Eddyville,incorporated,25,A,970,"Eddyville, IA",0,281,0,0,Eddyville city
+IA,1903745,Aurelia,incorporated,25,A,968,"Aurelia, IA",0,282,0,0,Aurelia city
+IA,1943275,Lansing,incorporated,25,A,968,"Lansing, IA",0,283,0,0,Lansing city
+IA,1901315,Allison,incorporated,25,A,966,"Allison, IA",0,284,0,0,Allison city
+IA,1982965,Wayland,incorporated,25,A,964,"Wayland, IA",0,285,0,0,Wayland city
+IA,1902260,Anita,incorporated,25,A,963,"Anita, IA",0,286,0,0,Anita city
+IA,1929280,Fruitland,incorporated,25,A,963,"Fruitland, IA",0,287,0,0,Fruitland city
+IA,1904915,Baxter,incorporated,25,A,962,"Baxter, IA",0,288,0,0,Baxter city
+IA,1972480,Shellsburg,incorporated,25,A,961,"Shellsburg, IA",0,289,0,0,Shellsburg city
+IA,1979500,Underwood,incorporated,25,A,954,"Underwood, IA",0,290,0,0,Underwood city
+IA,1931710,Gowrie,incorporated,25,A,952,"Gowrie, IA",0,291,0,0,Gowrie city
+IA,1964605,Preston,incorporated,25,A,949,"Preston, IA",0,292,0,0,Preston city
+IA,1943905,Lawton,incorporated,25,A,943,"Lawton, IA",0,293,0,0,Lawton city
+IA,1940935,Keosauqua,incorporated,25,A,936,"Keosauqua, IA",0,294,0,0,Keosauqua city
+IA,1936480,Hinton,incorporated,25,A,935,"Hinton, IA",0,295,0,0,Hinton city
+IA,1938415,Inwood,incorporated,25,A,928,"Inwood, IA",0,296,0,0,Inwood city
+IA,1918435,Danville,incorporated,25,A,927,"Danville, IA",0,297,0,0,Danville city
+IA,1943410,Larchwood,incorporated,25,A,926,"Larchwood, IA",0,298,0,0,Larchwood city
+IA,1964740,Princeton,incorporated,25,A,923,"Princeton, IA",0,299,0,0,Princeton city
+IA,1984585,West Point,incorporated,25,A,921,"West Point, IA",0,300,0,0,West Point city
+IA,1955560,Neola,incorporated,25,A,918,"Neola, IA",0,301,0,0,Neola city
+IA,1921045,De Soto,incorporated,25,A,915,"De Soto, IA",0,302,0,0,De Soto city
+IA,1976890,Swisher,incorporated,25,A,914,"Swisher, IA",0,303,0,0,Swisher city
+IA,1924060,Edgewood,incorporated,25,A,909,"Edgewood, IA",0,304,0,0,Edgewood city
+IA,1955965,Newell,incorporated,25,A,906,"Newell, IA",0,305,0,0,Newell city
+IA,1944220,Le Grand,incorporated,25,A,905,"Le Grand, IA",0,306,0,0,Le Grand city
+IA,1940980,Keota,incorporated,25,A,897,"Keota, IA",0,307,0,0,Keota city
+IA,1964650,Primghar,incorporated,25,A,896,"Primghar, IA",0,308,0,0,Primghar city
+IA,1933780,Hamburg,incorporated,25,A,890,"Hamburg, IA",0,309,0,0,Hamburg city
+IA,1921810,Donnellson,incorporated,25,A,885,"Donnellson, IA",0,310,0,0,Donnellson city
+IA,1924735,Elkhart,incorporated,25,A,882,"Elkhart, IA",0,311,0,0,Elkhart city
+IA,1976035,Sully,incorporated,25,A,881,"Sully, IA",0,312,0,0,Sully city
+IA,1956055,Newhall,incorporated,25,A,876,"Newhall, IA",0,313,0,0,Newhall city
+IA,1902935,Armstrong,incorporated,25,A,875,"Armstrong, IA",0,314,0,0,Armstrong city
+IA,1980805,Victor,incorporated,25,A,875,"Victor, IA",0,315,0,0,Victor city
+IA,1900595,Afton,incorporated,25,A,874,"Afton, IA",0,316,0,0,Afton city
+IA,1936345,Hills,incorporated,25,A,863,"Hills, IA",0,317,0,0,Hills city
+IA,1937425,Hubbard,incorporated,25,A,860,"Hubbard, IA",0,318,0,0,Hubbard city
+IA,1950520,Maxwell,incorporated,25,A,859,"Maxwell, IA",0,319,0,0,Maxwell city
+IA,1909280,Buffalo Center,incorporated,25,A,857,"Buffalo Center, IA",0,320,0,0,Buffalo Center city
+IA,1915240,Colo,incorporated,25,A,845,"Colo, IA",0,321,0,0,Colo city
+IA,1965910,Readlyn,incorporated,25,A,845,"Readlyn, IA",0,322,0,0,Readlyn city
+IA,1922845,Dunkerton,incorporated,25,A,842,"Dunkerton, IA",0,323,0,0,Dunkerton city
+IA,1946425,Long Grove,incorporated,25,A,838,"Long Grove, IA",0,324,0,0,Long Grove city
+IA,1931800,Graettinger,incorporated,25,A,832,"Graettinger, IA",0,325,0,0,Graettinger city
+IA,1971130,Schleswig,incorporated,25,A,830,"Schleswig, IA",0,326,0,0,Schleswig city
+IA,1910225,Cambridge,incorporated,25,A,827,"Cambridge, IA",0,327,0,0,Cambridge city
+IA,1986565,Winthrop,incorporated,25,A,823,"Winthrop, IA",0,328,0,0,Winthrop city
+IA,1946920,Lowden,incorporated,25,A,807,"Lowden, IA",0,329,0,0,Lowden city
+IA,1966585,Riceville,incorporated,25,A,806,"Riceville, IA",0,330,0,0,Riceville city
+IA,1959970,Ossian,incorporated,25,A,802,"Ossian, IA",0,331,0,0,Ossian city
+IA,1931035,Gladbrook,incorporated,25,A,799,"Gladbrook, IA",0,332,0,0,Gladbrook city
+IA,1930675,Gilbertville,incorporated,25,A,794,"Gilbertville, IA",0,333,0,0,Gilbertville city
+IA,1900370,Adair,incorporated,25,A,791,"Adair, IA",0,334,0,0,Adair city
+IA,1983550,West Bend,incorporated,25,A,791,"West Bend, IA",0,335,0,0,West Bend city
+IA,1926265,Exira,incorporated,25,A,787,"Exira, IA",0,336,0,0,Exira city
+IA,1950880,Melbourne,incorporated,25,A,786,"Melbourne, IA",0,337,0,0,Melbourne city
+IA,1924420,Eldon,incorporated,25,A,783,"Eldon, IA",0,338,0,0,Eldon city
+IA,1952455,Milo,incorporated,25,A,778,"Milo, IA",0,339,0,0,Milo city
+IA,1948855,Manilla,incorporated,25,A,775,"Manilla, IA",0,340,0,0,Manilla city
+IA,1984945,Wheatland,incorporated,25,A,775,"Wheatland, IA",0,341,0,0,Wheatland city
+IA,1980400,Van Horne,incorporated,25,A,774,"Van Horne, IA",0,342,0,0,Van Horne city
+IA,1919180,Dayton,incorporated,25,A,772,"Dayton, IA",0,343,0,0,Dayton city
+IA,1958710,Okoboji,incorporated,25,A,768,"Okoboji, IA",0,344,0,0,Okoboji city
+IA,1911170,Carson,incorporated,25,A,766,"Carson, IA",0,345,0,0,Carson city
+IA,1916545,Correctionville,incorporated,25,A,766,"Correctionville, IA",0,346,0,0,Correctionville city
+IA,1901045,Alden,incorporated,25,A,763,"Alden, IA",0,347,0,0,Alden city
+IA,1929910,Garnavillo,incorporated,25,A,763,"Garnavillo, IA",0,348,0,0,Garnavillo city
+IA,1918075,Dakota City,incorporated,25,A,759,"Dakota City, IA",0,349,0,0,Dakota City city
+IA,1965820,Raymond,incorporated,25,A,759,"Raymond, IA",0,350,0,0,Raymond city
+IA,1968070,Rockford,incorporated,25,A,758,"Rockford, IA",0,351,0,0,Rockford city
+IA,1982020,Wall Lake,incorporated,25,A,755,"Wall Lake, IA",0,352,0,0,Wall Lake city
+IA,1954120,Morning Sun,incorporated,25,A,752,"Morning Sun, IA",0,353,0,0,Morning Sun city
+IA,1973425,Sioux Rapids,incorporated,25,A,748,"Sioux Rapids, IA",0,354,0,0,Sioux Rapids city
+IA,1982065,Walnut,incorporated,25,A,747,"Walnut, IA",0,355,0,0,Walnut city
+IA,1985215,Whiting,incorporated,25,A,745,"Whiting, IA",0,356,0,0,Whiting city
+IA,1948000,McGregor,incorporated,25,A,742,"McGregor, IA",0,357,0,0,McGregor city
+IA,1953760,Montrose,incorporated,25,A,738,"Montrose, IA",0,358,0,0,Montrose city
+IA,1934680,Hartford,incorporated,25,A,733,"Hartford, IA",0,359,0,0,Hartford city
+IA,1966045,Redfield,incorporated,25,A,731,"Redfield, IA",0,360,0,0,Redfield city
+IA,1972840,Shueyville,incorporated,25,A,731,"Shueyville, IA",0,361,0,0,Shueyville city
+IA,1971085,Schaller,incorporated,25,A,729,"Schaller, IA",0,362,0,0,Schaller city
+IA,1935670,Hedrick,incorporated,25,A,728,"Hedrick, IA",0,363,0,0,Hedrick city
+IA,1972300,Shelby,incorporated,25,A,727,"Shelby, IA",0,364,0,0,Shelby city
+IA,1931980,Grand Junction,incorporated,25,A,725,"Grand Junction, IA",0,365,0,0,Grand Junction city
+IA,1969330,Ruthven,incorporated,25,A,725,"Ruthven, IA",0,366,0,0,Ruthven city
+IA,1925815,Essex,incorporated,25,A,722,"Essex, IA",0,367,0,0,Essex city
+IA,1960645,Oxford,incorporated,25,A,722,"Oxford, IA",0,368,0,0,Oxford city
+IA,1983325,Wellsburg,incorporated,25,A,720,"Wellsburg, IA",0,369,0,0,Wellsburg city
+IA,1937290,Hospers,incorporated,25,A,718,"Hospers, IA",0,370,0,0,Hospers city
+IA,1951375,Merrill,incorporated,25,A,717,"Merrill, IA",0,371,0,0,Merrill city
+IA,1923430,Earlville,incorporated,25,A,716,"Earlville, IA",0,372,0,0,Earlville city
+IA,1906805,Blairstown,incorporated,25,A,713,"Blairstown, IA",0,373,0,0,Blairstown city
+IA,1935580,Hazleton,incorporated,25,A,713,"Hazleton, IA",0,374,0,0,Hazleton city
+IA,1980580,Ventura,incorporated,25,A,711,"Ventura, IA",0,375,0,0,Ventura city
+IA,1929190,Fremont,incorporated,25,A,708,"Fremont, IA",0,376,0,0,Fremont city
+IA,1975810,Stratford,incorporated,25,A,707,"Stratford, IA",0,377,0,0,Stratford city
+IA,1907840,Boyden,incorporated,25,A,701,"Boyden, IA",0,378,0,0,Boyden city
+IA,1914925,Coggon,incorporated,25,A,701,"Coggon, IA",0,379,0,0,Coggon city
+IA,1904870,Battle Creek,incorporated,25,A,700,"Battle Creek, IA",0,380,0,0,Battle Creek city
+IA,1942645,Lakeside,incorporated,25,A,700,"Lakeside, IA",0,381,0,0,Lakeside city
+IA,1904420,Bancroft,incorporated,25,A,699,"Bancroft, IA",0,382,0,0,Bancroft city
+IA,1981885,Walker,incorporated,25,A,688,"Walker, IA",0,383,0,0,Walker city
+IA,1924645,Elgin,incorporated,25,A,685,"Elgin, IA",0,384,0,0,Elgin city
+IA,1955065,Murray,incorporated,25,A,684,"Murray, IA",0,385,0,0,Murray city
+IA,1975000,Stanton,incorporated,25,A,678,"Stanton, IA",0,386,0,0,Stanton city
+IA,1900865,Albert City,incorporated,25,A,677,"Albert City, IA",0,387,0,0,Albert City city
+IA,1928290,Fontanelle,incorporated,25,A,676,"Fontanelle, IA",0,388,0,0,Fontanelle city
+IA,1901000,Alburnett,incorporated,25,A,675,"Alburnett, IA",0,389,0,0,Alburnett city
+IA,1940260,Kanawha,incorporated,25,A,658,"Kanawha, IA",0,390,0,0,Kanawha city
+IA,1958980,Olin,incorporated,25,A,651,"Olin, IA",0,391,0,0,Olin city
+IA,1921225,Dexter,incorporated,25,A,640,"Dexter, IA",0,392,0,0,Dexter city
+IA,1969915,St. Charles,incorporated,25,A,640,"St. Charles, IA",0,393,0,0,St. Charles city
+IA,1953985,Moravia,incorporated,25,A,637,"Moravia, IA",0,394,0,0,Moravia city
+IA,1975045,Stanwood,incorporated,25,A,637,"Stanwood, IA",0,395,0,0,Stanwood city
+IA,1928245,Fonda,incorporated,25,A,636,"Fonda, IA",0,396,0,0,Fonda city
+IA,1922620,Dumont,incorporated,25,A,634,"Dumont, IA",0,397,0,0,Dumont city
+IA,1931530,Goldfield,incorporated,25,A,634,"Goldfield, IA",0,398,0,0,Goldfield city
+IA,1971760,Seymour,incorporated,25,A,634,"Seymour, IA",0,399,0,0,Seymour city
+IA,1976485,Sutherland,incorporated,25,A,629,"Sutherland, IA",0,400,0,0,Sutherland city
+IA,1917175,Crescent,incorporated,25,A,628,"Crescent, IA",0,401,0,0,Crescent city
+IA,1937155,Hopkinton,incorporated,25,A,622,"Hopkinton, IA",0,402,0,0,Hopkinton city
+IA,1900640,Agency,incorporated,25,A,620,"Agency, IA",0,403,0,0,Agency city
+IA,1921900,Doon,incorporated,25,A,619,"Doon, IA",0,404,0,0,Doon city
+IA,1932025,Grand Mound,incorporated,25,A,615,"Grand Mound, IA",0,405,0,0,Grand Mound city
+IA,1954390,Moulton,incorporated,25,A,607,"Moulton, IA",0,406,0,0,Moulton city
+IA,1984900,What Cheer,incorporated,25,A,607,"What Cheer, IA",0,407,0,0,What Cheer city
+IA,1940440,Kellogg,incorporated,25,A,606,"Kellogg, IA",0,408,0,0,Kellogg city
+IA,1924780,Elk Horn,incorporated,25,A,601,"Elk Horn, IA",0,409,0,0,Elk Horn city
+IA,1908470,Brighton,incorporated,25,A,600,"Brighton, IA",0,410,0,0,Brighton city
+IA,1952590,Minden,incorporated,25,A,600,"Minden, IA",0,411,0,0,Minden city
+IA,1941115,Keystone,incorporated,25,A,599,"Keystone, IA",0,412,0,0,Keystone city
+IA,1938820,Ireton,incorporated,25,A,590,"Ireton, IA",0,413,0,0,Ireton city
+IA,1923475,Early,incorporated,25,A,587,"Early, IA",0,414,0,0,Early city
+IA,1914250,Clermont,incorporated,25,A,586,"Clermont, IA",0,415,0,0,Clermont city
+IA,1926895,Farmington,incorporated,25,A,579,"Farmington, IA",0,416,0,0,Farmington city
+IA,1926175,Everly,incorporated,25,A,575,"Everly, IA",0,417,0,0,Everly city
+IA,1956145,New Hartford,incorporated,25,A,570,"New Hartford, IA",0,418,0,0,New Hartford city
+IA,1965235,Quasqueton,incorporated,25,A,570,"Quasqueton, IA",0,419,0,0,Quasqueton city
+IA,1976755,Swea City,incorporated,25,A,566,"Swea City, IA",0,420,0,0,Swea City city
+IA,1965370,Radcliffe,incorporated,25,A,555,"Radcliffe, IA",0,421,0,0,Radcliffe city
+IA,1902350,Anthon,incorporated,25,A,545,"Anthon, IA",0,422,0,0,Anthon city
+IA,1919720,Delmar,incorporated,25,A,542,"Delmar, IA",0,423,0,0,Delmar city
+IA,1930900,Gilman,incorporated,25,A,542,"Gilman, IA",0,424,0,0,Gilman city
+IA,1966720,Richland,incorporated,25,A,542,"Richland, IA",0,425,0,0,Richland city
+IA,1912900,Charter Oak,incorporated,25,A,535,"Charter Oak, IA",0,426,0,0,Charter Oak city
+IA,1987555,Zearing,incorporated,25,A,528,"Zearing, IA",0,427,0,0,Zearing city
+IA,1964065,Pomeroy,incorporated,25,A,526,"Pomeroy, IA",0,428,0,0,Pomeroy city
+IA,1902485,Arcadia,incorporated,25,A,525,"Arcadia, IA",0,429,0,0,Arcadia city
+IA,1987240,Wyoming,incorporated,25,A,523,"Wyoming, IA",0,430,0,0,Wyoming city
+IA,1904195,Badger,incorporated,25,A,522,"Badger, IA",0,431,0,0,Badger city
+IA,1922305,Dows,incorporated,25,A,521,"Dows, IA",0,432,0,0,Dows city
+IA,1959655,Orleans,incorporated,25,A,521,"Orleans, IA",0,433,0,0,Orleans city
+IA,1900730,Ainsworth,incorporated,25,A,511,"Ainsworth, IA",0,434,0,0,Ainsworth city
+IA,1971310,Scranton,incorporated,25,A,511,"Scranton, IA",0,435,0,0,Scranton city
+IA,1978330,Titonka,incorporated,25,A,511,"Titonka, IA",0,436,0,0,Titonka city
+IA,1968520,Rolfe,incorporated,25,A,509,"Rolfe, IA",0,437,0,0,Rolfe city
+IA,1979140,Truro,incorporated,25,A,509,"Truro, IA",0,438,0,0,Truro city
+IA,1925050,Ellsworth,incorporated,25,A,508,"Ellsworth, IA",0,439,0,0,Ellsworth city
+IA,1969510,Sabula,incorporated,25,A,506,"Sabula, IA",0,440,0,0,Sabula city
+IA,1925095,Elma,incorporated,25,A,505,"Elma, IA",0,441,0,0,Elma city
+IA,1908290,Breda,incorporated,25,A,500,"Breda, IA",0,442,0,0,Breda city
+IA,1956595,New Virginia,incorporated,25,A,498,"New Virginia, IA",0,443,0,0,New Virginia city
+IA,1985260,Whittemore,incorporated,25,A,497,"Whittemore, IA",0,444,0,0,Whittemore city
+IA,1915195,Collins,incorporated,25,A,495,"Collins, IA",0,445,0,0,Collins city
+IA,1977745,Thompson,incorporated,25,A,495,"Thompson, IA",0,446,0,0,Thompson city
+IA,1926985,Farragut,incorporated,25,A,490,"Farragut, IA",0,447,0,0,Farragut city
+IA,1930945,Gilmore City,incorporated,25,A,487,"Gilmore City, IA",0,448,0,0,Gilmore City city
+IA,1979815,University Park,incorporated,25,A,487,"University Park, IA",0,449,0,0,University Park city
+IA,1922215,Dow City,incorporated,25,A,485,"Dow City, IA",0,450,0,0,Dow City city
+IA,1930045,Garwin,incorporated,25,A,481,"Garwin, IA",0,451,0,0,Garwin city
+IA,1943590,Latimer,incorporated,25,A,477,"Latimer, IA",0,452,0,0,Latimer city
+IA,1950610,Maynard,incorporated,25,A,476,"Maynard, IA",0,453,0,0,Maynard city
+IA,1945165,Lime Springs,incorporated,25,A,473,"Lime Springs, IA",0,454,0,0,Lime Springs city
+IA,1946830,Lovilia,incorporated,25,A,472,"Lovilia, IA",0,455,0,0,Lovilia city
+IA,1969285,Russell,incorporated,25,A,472,"Russell, IA",0,456,0,0,Russell city
+IA,1957720,Norway,incorporated,25,A,466,"Norway, IA",0,457,0,0,Norway city
+IA,1937605,Humeston,incorporated,25,A,465,"Humeston, IA",0,458,0,0,Humeston city
+IA,1974820,Stacyville,incorporated,25,A,458,"Stacyville, IA",0,459,0,0,Stacyville city
+IA,1969240,Runnells,incorporated,25,A,457,"Runnells, IA",0,460,0,0,Runnells city
+IA,1900955,Albion,incorporated,25,A,448,"Albion, IA",0,461,0,0,Albion city
+IA,1905050,Beacon,incorporated,25,A,445,"Beacon, IA",0,462,0,0,Beacon city
+IA,1941655,Klemme,incorporated,25,A,441,"Klemme, IA",0,463,0,0,Klemme city
+IA,1945795,Little Rock,incorporated,25,A,439,"Little Rock, IA",0,464,0,0,Little Rock city
+IA,1958530,Ocheyedan,incorporated,25,A,439,"Ocheyedan, IA",0,465,0,0,Ocheyedan city
+IA,1935310,Hawkeye,incorporated,25,A,438,"Hawkeye, IA",0,466,0,0,Hawkeye city
+IA,1932115,Grandview,incorporated,25,A,437,"Grandview, IA",0,467,0,0,Grandview city
+IA,1903295,Ashton,incorporated,25,A,436,"Ashton, IA",0,468,0,0,Ashton city
+IA,1917850,Cumming,incorporated,25,A,436,"Cumming, IA",0,469,0,0,Cumming city
+IA,1929595,Galva,incorporated,25,A,435,"Galva, IA",0,470,0,0,Galva city
+IA,1946605,Lost Nation,incorporated,25,A,434,"Lost Nation, IA",0,471,0,0,Lost Nation city
+IA,1955785,New Albin,incorporated,25,A,432,"New Albin, IA",0,472,0,0,New Albin city
+IA,1901270,Allerton,incorporated,25,A,430,"Allerton, IA",0,473,0,0,Allerton city
+IA,1904825,Batavia,incorporated,25,A,430,"Batavia, IA",0,474,0,0,Batavia city
+IA,1943005,Lamont,incorporated,25,A,429,"Lamont, IA",0,475,0,0,Lamont city
+IA,1949620,Marquette,incorporated,25,A,429,"Marquette, IA",0,476,0,0,Marquette city
+IA,1960105,Otho,incorporated,25,A,429,"Otho, IA",0,477,0,0,Otho city
+IA,1960690,Oxford Junction,incorporated,25,A,424,"Oxford Junction, IA",0,478,0,0,Oxford Junction city
+IA,1901180,Alleman,incorporated,25,A,423,"Alleman, IA",0,479,0,0,Alleman city
+IA,1949890,Martensdale,incorporated,25,A,421,"Martensdale, IA",0,480,0,0,Martensdale city
+IA,1919675,Delhi,incorporated,25,A,420,"Delhi, IA",0,481,0,0,Delhi city
+IA,1902845,Arlington,incorporated,25,A,419,"Arlington, IA",0,482,0,0,Arlington city
+IA,1909685,Burt,incorporated,25,A,418,"Burt, IA",0,483,0,0,Burt city
+IA,1952050,Miles,incorporated,25,A,408,"Miles, IA",0,484,0,0,Miles city
+IA,1943815,Lawler,incorporated,25,A,406,"Lawler, IA",0,485,0,0,Lawler city
+IA,1904960,Bayard,incorporated,25,A,405,"Bayard, IA",0,486,0,0,Bayard city
+IA,1925500,Emerson,incorporated,25,A,403,"Emerson, IA",0,487,0,0,Emerson city
+IA,1977880,Thornton,incorporated,25,A,400,"Thornton, IA",0,488,0,0,Thornton city
+IA,1979545,Union,incorporated,25,A,399,"Union, IA",0,489,0,0,Union city
+IA,1923385,Earling,incorporated,25,A,397,"Earling, IA",0,490,0,0,Earling city
+IA,1980130,Vail,incorporated,25,A,396,"Vail, IA",0,491,0,0,Vail city
+IA,1944265,Lehigh,incorporated,25,A,395,"Lehigh, IA",0,492,0,0,Lehigh city
+IA,1970230,Salem,incorporated,25,A,394,"Salem, IA",0,493,0,0,Salem city
+IA,1963210,Plainfield,incorporated,25,A,393,"Plainfield, IA",0,494,0,0,Plainfield city
+IA,1915375,Columbus City,incorporated,25,A,392,"Columbus City, IA",0,495,0,0,Columbus City city
+IA,1983415,Wesley,incorporated,25,A,391,"Wesley, IA",0,496,0,0,Wesley city
+IA,1912855,Charlotte,incorporated,25,A,389,"Charlotte, IA",0,497,0,0,Charlotte city
+IA,1909730,Bussey,incorporated,25,A,387,"Bussey, IA",0,498,0,0,Bussey city
+IA,1911395,Casey,incorporated,25,A,387,"Casey, IA",0,499,0,0,Casey city
+IA,1915015,Colesburg,incorporated,25,A,386,"Colesburg, IA",0,500,0,0,Colesburg city
+IA,1946515,Lorimor,incorporated,25,A,386,"Lorimor, IA",0,501,0,0,Lorimor city
+IA,1956370,New Market,incorporated,25,A,385,"New Market, IA",0,502,0,0,New Market city
+IA,1974370,Spillville,incorporated,25,A,385,"Spillville, IA",0,503,0,0,Spillville city
+IA,1926940,Farnhamville,incorporated,25,A,383,"Farnhamville, IA",0,504,0,0,Farnhamville city
+IA,1956550,New Vienna,incorporated,25,A,382,"New Vienna, IA",0,505,0,0,New Vienna city
+IA,1987060,Worthington,incorporated,25,A,382,"Worthington, IA",0,506,0,0,Worthington city
+IA,1922755,Duncombe,incorporated,25,A,381,"Duncombe, IA",0,507,0,0,Duncombe city
+IA,1945975,Livermore,incorporated,25,A,381,"Livermore, IA",0,508,0,0,Livermore city
+IA,1946245,Lohrville,incorporated,25,A,381,"Lohrville, IA",0,509,0,0,Lohrville city
+IA,1902125,Andrew,incorporated,25,A,380,"Andrew, IA",0,510,0,0,Andrew city
+IA,1947595,Lynnville,incorporated,25,A,380,"Lynnville, IA",0,511,0,0,Lynnville city
+IA,1952500,Milton,incorporated,25,A,380,"Milton, IA",0,512,0,0,Milton city
+IA,1967350,Riverdale,incorporated,25,A,379,"Riverdale, IA",0,513,0,0,Riverdale city
+IA,1969105,Royal,incorporated,25,A,379,"Royal, IA",0,514,0,0,Royal city
+IA,1963885,Plymouth,incorporated,25,A,375,"Plymouth, IA",0,515,0,0,Plymouth city
+IA,1909955,Callender,incorporated,25,A,368,"Callender, IA",0,516,0,0,Callender city
+IA,1959565,Orient,incorporated,25,A,368,"Orient, IA",0,517,0,0,Orient city
+IA,1906625,Birmingham,incorporated,25,A,367,"Birmingham, IA",0,518,0,0,Birmingham city
+IA,1913350,Churdan,incorporated,25,A,365,"Churdan, IA",0,519,0,0,Churdan city
+IA,1967170,Ringsted,incorporated,25,A,365,"Ringsted, IA",0,520,0,0,Ringsted city
+IA,1974910,Stanhope,incorporated,25,A,364,"Stanhope, IA",0,521,0,0,Stanhope city
+IA,1944715,Letts,incorporated,25,A,363,"Letts, IA",0,522,0,0,Letts city
+IA,1951735,Middletown,incorporated,25,A,363,"Middletown, IA",0,523,0,0,Middletown city
+IA,1907345,Bonaparte,incorporated,25,A,359,"Bonaparte, IA",0,524,0,0,Bonaparte city
+IA,1950250,Massena,incorporated,25,A,359,"Massena, IA",0,525,0,0,Massena city
+IA,1969195,Rudd,incorporated,25,A,358,"Rudd, IA",0,526,0,0,Rudd city
+IA,1944805,Lewis,incorporated,25,A,357,"Lewis, IA",0,527,0,0,Lewis city
+IA,1909820,Calamus,incorporated,25,A,356,"Calamus, IA",0,528,0,0,Calamus city
+IA,1936885,Holy Cross,incorporated,25,A,356,"Holy Cross, IA",0,529,0,0,Holy Cross city
+IA,1947775,McCallsburg,incorporated,25,A,353,"McCallsburg, IA",0,530,0,0,McCallsburg city
+IA,1915645,Conesville,incorporated,25,A,352,"Conesville, IA",0,531,0,0,Conesville city
+IA,1977340,Templeton,incorporated,25,A,352,"Templeton, IA",0,532,0,0,Templeton city
+IA,1969465,Ryan,incorporated,25,A,350,"Ryan, IA",0,533,0,0,Ryan city
+IA,1905770,Bennett,incorporated,25,A,347,"Bennett, IA",0,534,0,0,Bennett city
+IA,1942285,Lacona,incorporated,25,A,345,"Lacona, IA",0,535,0,0,Lacona city
+IA,1951105,Menlo,incorporated,25,A,345,"Menlo, IA",0,536,0,0,Menlo city
+IA,1981615,Wahpeton,incorporated,25,A,345,"Wahpeton, IA",0,537,0,0,Wahpeton city
+IA,1921270,Diagonal,incorporated,25,A,344,"Diagonal, IA",0,538,0,0,Diagonal city
+IA,1930000,Garrison,incorporated,25,A,344,"Garrison, IA",0,539,0,0,Garrison city
+IA,1908155,Brandon,incorporated,25,A,341,"Brandon, IA",0,540,0,0,Brandon city
+IA,1956685,Nichols,incorporated,25,A,340,"Nichols, IA",0,541,0,0,Nichols city
+IA,1953175,Mondamin,incorporated,25,A,339,"Mondamin, IA",0,542,0,0,Mondamin city
+IA,1924915,Elliott,incorporated,25,A,338,"Elliott, IA",0,543,0,0,Elliott city
+IA,1979995,Ute,incorporated,25,A,338,"Ute, IA",0,544,0,0,Ute city
+IA,1962760,Pierson,incorporated,25,A,337,"Pierson, IA",0,545,0,0,Pierson city
+IA,1921720,Donahue,incorporated,25,A,335,"Donahue, IA",0,546,0,0,Donahue city
+IA,1977520,Terril,incorporated,25,A,334,"Terril, IA",0,547,0,0,Terril city
+IA,1952545,Minburn,incorporated,25,A,325,"Minburn, IA",0,548,0,0,Minburn city
+IA,1955200,Mystic,incorporated,25,A,322,"Mystic, IA",0,549,0,0,Mystic city
+IA,1962625,Peterson,incorporated,25,A,322,"Peterson, IA",0,550,0,0,Peterson city
+IA,1918390,Danbury,incorporated,25,A,320,"Danbury, IA",0,551,0,0,Danbury city
+IA,1939000,Irwin,incorporated,25,A,319,"Irwin, IA",0,552,0,0,Irwin city
+IA,1928020,Floyd,incorporated,25,A,313,"Floyd, IA",0,553,0,0,Floyd city
+IA,1947820,McCausland,incorporated,25,A,313,"McCausland, IA",0,554,0,0,McCausland city
+IA,1928425,Fort Atkinson,incorporated,25,A,312,"Fort Atkinson, IA",0,555,0,0,Fort Atkinson city
+IA,1932475,Granville,incorporated,25,A,310,"Granville, IA",0,556,0,0,Granville city
+IA,1984450,West Okoboji,incorporated,25,A,308,"West Okoboji, IA",0,557,0,0,West Okoboji city
+IA,1985800,Williams,incorporated,25,A,307,"Williams, IA",0,558,0,0,Williams city
+IA,1927390,Fertile,incorporated,25,A,305,"Fertile, IA",0,559,0,0,Fertile city
+IA,1940395,Kelley,incorporated,25,A,304,"Kelley, IA",0,560,0,0,Kelley city
+IA,1907210,Bode,incorporated,25,A,302,"Bode, IA",0,561,0,0,Bode city
+IA,1952815,Mingo,incorporated,25,A,302,"Mingo, IA",0,562,0,0,Mingo city
+IA,1947055,Luana,incorporated,25,A,301,"Luana, IA",0,563,0,0,Luana city
+IA,1962445,Persia,incorporated,25,A,297,"Persia, IA",0,564,0,0,Persia city
+IA,1972345,Sheldahl,incorporated,25,A,297,"Sheldahl, IA",0,565,0,0,Sheldahl city
+IA,1903385,Atalissa,incorporated,25,A,296,"Atalissa, IA",0,566,0,0,Atalissa city
+IA,1944670,Lester,incorporated,25,A,296,"Lester, IA",0,567,0,0,Lester city
+IA,1970320,Salix,incorporated,25,A,295,"Salix, IA",0,568,0,0,Salix city
+IA,1908650,Bronson,incorporated,25,A,294,"Bronson, IA",0,569,0,0,Bronson city
+IA,1941295,Kimballton,incorporated,25,A,291,"Kimballton, IA",0,570,0,0,Kimballton city
+IA,1945660,Liscomb,incorporated,25,A,291,"Liscomb, IA",0,571,0,0,Liscomb city
+IA,1913395,Cincinnati,incorporated,25,A,290,"Cincinnati, IA",0,572,0,0,Cincinnati city
+IA,1984630,Westside,incorporated,25,A,285,"Westside, IA",0,573,0,0,Westside city
+IA,1947730,Lytton,incorporated,25,A,282,"Lytton, IA",0,574,0,0,Lytton city
+IA,1913980,Clearfield,incorporated,25,A,278,"Clearfield, IA",0,575,0,0,Clearfield city
+IA,1917130,Crawfordsville,incorporated,25,A,277,"Crawfordsville, IA",0,576,0,0,Crawfordsville city
+IA,1948500,Maharishi Vedic City,incorporated,25,A,277,"Maharishi Vedic City, IA",0,577,0,0,Maharishi Vedic City city
+IA,1967035,Ridgeway,incorporated,25,A,275,"Ridgeway, IA",0,578,0,0,Ridgeway city
+IA,1906850,Blakesburg,incorporated,25,A,274,"Blakesburg, IA",0,579,0,0,Blakesburg city
+IA,1944985,Libertyville,incorporated,25,A,274,"Libertyville, IA",0,580,0,0,Libertyville city
+IA,1952995,Modale,incorporated,25,A,273,"Modale, IA",0,581,0,0,Modale city
+IA,1975405,Stockport,incorporated,25,A,272,"Stockport, IA",0,582,0,0,Stockport city
+IA,1926850,Farmersburg,incorporated,25,A,271,"Farmersburg, IA",0,583,0,0,Farmersburg city
+IA,1927210,Fenton,incorporated,25,A,271,"Fenton, IA",0,584,0,0,Fenton city
+IA,1949305,Marble Rock,incorporated,25,A,271,"Marble Rock, IA",0,585,0,0,Marble Rock city
+IA,1966540,Rhodes,incorporated,25,A,271,"Rhodes, IA",0,586,0,0,Rhodes city
+IA,1948540,Malcom,incorporated,25,A,270,"Malcom, IA",0,587,0,0,Malcom city
+IA,1969060,Rowley,incorporated,25,A,270,"Rowley, IA",0,588,0,0,Rowley city
+IA,1906175,Bertram,incorporated,25,A,269,"Bertram, IA",0,589,0,0,Bertram city
+IA,1936705,Holland,incorporated,25,A,269,"Holland, IA",0,590,0,0,Holland city
+IA,1965010,Protivin,incorporated,25,A,269,"Protivin, IA",0,591,0,0,Protivin city
+IA,1941610,Kiron,incorporated,25,A,267,"Kiron, IA",0,592,0,0,Kiron city
+IA,1942825,Lakota,incorporated,25,A,267,"Lakota, IA",0,593,0,0,Lakota city
+IA,1947955,Macedonia,incorporated,25,A,267,"Macedonia, IA",0,594,0,0,Macedonia city
+IA,1987285,Yale,incorporated,25,A,267,"Yale, IA",0,595,0,0,Yale city
+IA,1916590,Corwith,incorporated,25,A,266,"Corwith, IA",0,596,0,0,Corwith city
+IA,1903610,Auburn,incorporated,25,A,265,"Auburn, IA",0,597,0,0,Auburn city
+IA,1950430,Maurice,incorporated,25,A,265,"Maurice, IA",0,598,0,0,Maurice city
+IA,1919855,Delta,incorporated,25,A,264,"Delta, IA",0,599,0,0,Delta city
+IA,1934410,Harcourt,incorporated,25,A,264,"Harcourt, IA",0,600,0,0,Harcourt city
+IA,1965055,Pulaski,incorporated,25,A,264,"Pulaski, IA",0,601,0,0,Pulaski city
+IA,1975180,Steamboat Rock,incorporated,25,A,264,"Steamboat Rock, IA",0,602,0,0,Steamboat Rock city
+IA,1934590,Harpers Ferry,incorporated,25,A,262,"Harpers Ferry, IA",0,603,0,0,Harpers Ferry city
+IA,1947370,Lu Verne,incorporated,25,A,258,"Lu Verne, IA",0,604,0,0,Lu Verne city
+IA,1940665,Kensett,incorporated,25,A,257,"Kensett, IA",0,605,0,0,Kensett city
+IA,1948585,Mallard,incorporated,25,A,257,"Mallard, IA",0,606,0,0,Mallard city
+IA,1937200,Hornick,incorporated,25,A,255,"Hornick, IA",0,607,0,0,Hornick city
+IA,1917670,Crystal Lake,incorporated,25,A,253,"Crystal Lake, IA",0,608,0,0,Crystal Lake city
+IA,1917760,Cumberland,incorporated,25,A,251,"Cumberland, IA",0,609,0,0,Cumberland city
+IA,1919765,Deloit,incorporated,25,A,250,"Deloit, IA",0,610,0,0,Deloit city
+IA,1947010,Low Moor,incorporated,25,A,250,"Low Moor, IA",0,611,0,0,Low Moor city
+IA,1919495,Deep River,incorporated,25,A,249,"Deep River, IA",0,612,0,0,Deep River city
+IA,1944355,Leland,incorporated,25,A,249,"Leland, IA",0,613,0,0,Leland city
+IA,1949845,Martelle,incorporated,25,A,249,"Martelle, IA",0,614,0,0,Martelle city
+IA,1963075,Pisgah,incorporated,25,A,249,"Pisgah, IA",0,615,0,0,Pisgah city
+IA,1965280,Quimby,incorporated,25,A,249,"Quimby, IA",0,616,0,0,Quimby city
+IA,1919585,Defiance,incorporated,25,A,245,"Defiance, IA",0,617,0,0,Defiance city
+IA,1947460,Luxemburg,incorporated,25,A,245,"Luxemburg, IA",0,618,0,0,Luxemburg city
+IA,1967575,Riverton,incorporated,25,A,245,"Riverton, IA",0,619,0,0,Riverton city
+IA,1973155,Silver City,incorporated,25,A,245,"Silver City, IA",0,620,0,0,Silver City city
+IA,1946065,Lockridge,incorporated,25,A,244,"Lockridge, IA",0,621,0,0,Lockridge city
+IA,1933645,Halbur,incorporated,25,A,243,"Halbur, IA",0,622,0,0,Halbur city
+IA,1940350,Kellerton,incorporated,25,A,243,"Kellerton, IA",0,623,0,0,Kellerton city
+IA,1941070,Keswick,incorporated,25,A,242,"Keswick, IA",0,624,0,0,Keswick city
+IA,1914115,Cleghorn,incorporated,25,A,240,"Cleghorn, IA",0,625,0,0,Cleghorn city
+IA,1931665,Goose Lake,incorporated,25,A,239,"Goose Lake, IA",0,626,0,0,Goose Lake city
+IA,1943050,La Motte,incorporated,25,A,237,"La Motte, IA",0,627,0,0,La Motte city
+IA,1934860,Harvey,incorporated,25,A,236,"Harvey, IA",0,628,0,0,Harvey city
+IA,1956415,New Providence,incorporated,25,A,236,"New Providence, IA",0,629,0,0,New Providence city
+IA,1961275,Panama,incorporated,25,A,235,"Panama, IA",0,630,0,0,Panama city
+IA,1966450,Renwick,incorporated,25,A,234,"Renwick, IA",0,631,0,0,Renwick city
+IA,1904240,Bagley,incorporated,25,A,233,"Bagley, IA",0,632,0,0,Bagley city
+IA,1906940,Blencoe,incorporated,25,A,233,"Blencoe, IA",0,633,0,0,Blencoe city
+IA,1917940,Cushing,incorporated,25,A,230,"Cushing, IA",0,634,0,0,Cushing city
+IA,1928650,Fostoria,incorporated,25,A,230,"Fostoria, IA",0,635,0,0,Fostoria city
+IA,1949260,Marathon,incorporated,25,A,230,"Marathon, IA",0,636,0,0,Marathon city
+IA,1912990,Chelsea,incorporated,25,A,229,"Chelsea, IA",0,637,0,0,Chelsea city
+IA,1942330,Ladora,incorporated,25,A,229,"Ladora, IA",0,638,0,0,Ladora city
+IA,1982650,Waucoma,incorporated,25,A,229,"Waucoma, IA",0,639,0,0,Waucoma city
+IA,1901540,Alta Vista,incorporated,25,A,227,"Alta Vista, IA",0,640,0,0,Alta Vista city
+IA,1938460,Ionia,incorporated,25,A,226,"Ionia, IA",0,641,0,0,Ionia city
+IA,1910450,Cantril,incorporated,25,A,224,"Cantril, IA",0,642,0,0,Cantril city
+IA,1919450,Dedham,incorporated,25,A,224,"Dedham, IA",0,643,0,0,Dedham city
+IA,1903115,Arthur,incorporated,25,A,222,"Arthur, IA",0,644,0,0,Arthur city
+IA,1929055,Fredonia,incorporated,25,A,222,"Fredonia, IA",0,645,0,0,Fredonia city
+IA,1951420,Meservey,incorporated,25,A,222,"Meservey, IA",0,646,0,0,Meservey city
+IA,1961815,Paton,incorporated,25,A,221,"Paton, IA",0,647,0,0,Paton city
+IA,1943680,Laurel,incorporated,25,A,220,"Laurel, IA",0,648,0,0,Laurel city
+IA,1967215,Rippey,incorporated,25,A,220,"Rippey, IA",0,649,0,0,Rippey city
+IA,1916815,Coulter,incorporated,25,A,219,"Coulter, IA",0,650,0,0,Coulter city
+IA,1932610,Greeley,incorporated,25,A,217,"Greeley, IA",0,651,0,0,Greeley city
+IA,1931890,Grafton,incorporated,25,A,216,"Grafton, IA",0,652,0,0,Grafton city
+IA,1914655,Clutier,incorporated,25,A,213,"Clutier, IA",0,653,0,0,Clutier city
+IA,1966360,Rembrandt,incorporated,25,A,209,"Rembrandt, IA",0,654,0,0,Rembrandt city
+IA,1981570,Wadena,incorporated,25,A,209,"Wadena, IA",0,655,0,0,Wadena city
+IA,1982380,Washta,incorporated,25,A,209,"Washta, IA",0,656,0,0,Washta city
+IA,1939855,Joice,incorporated,25,A,208,"Joice, IA",0,657,0,0,Joice city
+IA,1901675,Alvord,incorporated,25,A,206,"Alvord, IA",0,658,0,0,Alvord city
+IA,1934185,Hanlontown,incorporated,25,A,206,"Hanlontown, IA",0,659,0,0,Hanlontown city
+IA,1929010,Frederika,incorporated,25,A,204,"Frederika, IA",0,660,0,0,Frederika city
+IA,1953670,Montour,incorporated,25,A,203,"Montour, IA",0,661,0,0,Montour city
+IA,1981345,Volga,incorporated,25,A,203,"Volga, IA",0,662,0,0,Volga city
+IA,1921540,Dixon,incorporated,25,A,202,"Dixon, IA",0,663,0,0,Dixon city
+IA,1966810,Rickardsville,incorporated,25,A,202,"Rickardsville, IA",0,664,0,0,Rickardsville city
+IA,1974055,South English,incorporated,25,A,202,"South English, IA",0,665,0,0,South English city
+IA,1959070,Ollie,incorporated,25,A,201,"Ollie, IA",0,666,0,0,Ollie city
+IA,1959250,Onslow,incorporated,25,A,201,"Onslow, IA",0,667,0,0,Onslow city
+IA,1934005,Hancock,incorporated,25,A,200,"Hancock, IA",0,668,0,0,Hancock city
+IA,1945390,Linden,incorporated,25,A,200,"Linden, IA",0,669,0,0,Linden city
+IA,1958395,Oakville,incorporated,25,A,200,"Oakville, IA",0,670,0,0,Oakville city
+IA,1951060,Melvin,incorporated,25,A,199,"Melvin, IA",0,671,0,0,Melvin city
+IA,1953850,Moorhead,incorporated,25,A,199,"Moorhead, IA",0,672,0,0,Moorhead city
+IA,1922800,Dundee,incorporated,25,A,198,"Dundee, IA",0,673,0,0,Dundee city
+IA,1932070,Grand River,incorporated,25,A,196,"Grand River, IA",0,674,0,0,Grand River city
+IA,1939225,Jamaica,incorporated,25,A,195,"Jamaica, IA",0,675,0,0,Jamaica city
+IA,1945435,Lineville,incorporated,25,A,195,"Lineville, IA",0,676,0,0,Lineville city
+IA,1961770,Parnell,incorporated,25,A,194,"Parnell, IA",0,677,0,0,Parnell city
+IA,1958890,Olds,incorporated,25,A,192,"Olds, IA",0,678,0,0,Olds city
+IA,1984180,Westgate,incorporated,25,A,192,"Westgate, IA",0,679,0,0,Westgate city
+IA,1964560,Prescott,incorporated,25,A,191,"Prescott, IA",0,680,0,0,Prescott city
+IA,1975720,Stout,incorporated,25,A,191,"Stout, IA",0,681,0,0,Stout city
+IA,1948495,Magnolia,incorporated,25,A,190,"Magnolia, IA",0,682,0,0,Magnolia city
+IA,1965640,Randolph,incorporated,25,A,189,"Randolph, IA",0,683,0,0,Randolph city
+IA,1972660,Sherrill,incorporated,25,A,189,"Sherrill, IA",0,684,0,0,Sherrill city
+IA,1986700,Woden,incorporated,25,A,188,"Woden, IA",0,685,0,0,Woden city
+IA,1965415,Rake,incorporated,25,A,186,"Rake, IA",0,686,0,0,Rake city
+IA,1924375,Elberon,incorporated,25,A,184,"Elberon, IA",0,687,0,0,Elberon city
+IA,1973785,Soldier,incorporated,25,A,184,"Soldier, IA",0,688,0,0,Soldier city
+IA,1960915,Packwood,incorporated,25,A,183,"Packwood, IA",0,689,0,0,Packwood city
+IA,1964200,Portsmouth,incorporated,25,A,182,"Portsmouth, IA",0,690,0,0,Portsmouth city
+IA,1907750,Boxholm,incorporated,25,A,181,"Boxholm, IA",0,691,0,0,Boxholm city
+IA,1973650,Smithland,incorporated,25,A,181,"Smithland, IA",0,692,0,0,Smithland city
+IA,1977790,Thor,incorporated,25,A,181,"Thor, IA",0,693,0,0,Thor city
+IA,1919090,Davis City,incorporated,25,A,179,"Davis City, IA",0,694,0,0,Davis City city
+IA,1940215,Kamrar,incorporated,25,A,179,"Kamrar, IA",0,695,0,0,Kamrar city
+IA,1980490,Van Wert,incorporated,25,A,178,"Van Wert, IA",0,696,0,0,Van Wert city
+IA,1906760,Blairsburg,incorporated,25,A,176,"Blairsburg, IA",0,697,0,0,Blairsburg city
+IA,1914970,Coin,incorporated,25,A,176,"Coin, IA",0,698,0,0,Coin city
+IA,1958170,Oakland Acres,incorporated,25,A,176,"Oakland Acres, IA",0,699,0,0,Oakland Acres city
+IA,1961860,Patterson,incorporated,25,A,176,"Patterson, IA",0,700,0,0,Patterson city
+IA,1975450,Stockton,incorporated,25,A,176,"Stockton, IA",0,701,0,0,Stockton city
+IA,1904645,Barnum,incorporated,25,A,175,"Barnum, IA",0,702,0,0,Barnum city
+IA,1929775,Garden Grove,incorporated,25,A,174,"Garden Grove, IA",0,703,0,0,Garden Grove city
+IA,1942870,Lambs Grove,incorporated,25,A,174,"Lambs Grove, IA",0,704,0,0,Lambs Grove city
+IA,1915105,College Springs,incorporated,25,A,172,"College Springs, IA",0,705,0,0,College Springs city
+IA,1947100,Lucas,incorporated,25,A,172,"Lucas, IA",0,706,0,0,Lucas city
+IA,1903835,Aurora,incorporated,25,A,169,"Aurora, IA",0,707,0,0,Aurora city
+IA,1953895,Moorland,incorporated,25,A,168,"Moorland, IA",0,708,0,0,Moorland city
+IA,1970050,St. Lucas,incorporated,25,A,167,"St. Lucas, IA",0,709,0,0,St. Lucas city
+IA,1977970,Thurman,incorporated,25,A,167,"Thurman, IA",0,710,0,0,Thurman city
+IA,1945030,Lidderdale,incorporated,25,A,166,"Lidderdale, IA",0,711,0,0,Lidderdale city
+IA,1945840,Little Sioux,incorporated,25,A,166,"Little Sioux, IA",0,712,0,0,Little Sioux city
+IA,1935220,Haverhill,incorporated,25,A,165,"Haverhill, IA",0,713,0,0,Haverhill city
+IA,1981975,Wallingford,incorporated,25,A,165,"Wallingford, IA",0,714,0,0,Wallingford city
+IA,1901090,Alexander,incorporated,25,A,164,"Alexander, IA",0,715,0,0,Alexander city
+IA,1922350,Drakesville,incorporated,25,A,164,"Drakesville, IA",0,716,0,0,Drakesville city
+IA,1936390,Hillsboro,incorporated,25,A,163,"Hillsboro, IA",0,717,0,0,Hillsboro city
+IA,1945480,Linn Grove,incorporated,25,A,163,"Linn Grove, IA",0,718,0,0,Linn Grove city
+IA,1962850,Pilot Mound,incorporated,25,A,163,"Pilot Mound, IA",0,719,0,0,Pilot Mound city
+IA,1954435,Mount Auburn,incorporated,25,A,162,"Mount Auburn, IA",0,720,0,0,Mount Auburn city
+IA,1905140,Beaman,incorporated,25,A,161,"Beaman, IA",0,721,0,0,Beaman city
+IA,1951150,Meriden,incorporated,25,A,161,"Meriden, IA",0,722,0,0,Meriden city
+IA,1926310,Exline,incorporated,25,A,160,"Exline, IA",0,723,0,0,Exline city
+IA,1964425,Prairieburg,incorporated,25,A,160,"Prairieburg, IA",0,724,0,0,Prairieburg city
+IA,1971895,Shambaugh,incorporated,25,A,159,"Shambaugh, IA",0,725,0,0,Shambaugh city
+IA,1944310,Leighton,incorporated,25,A,158,"Leighton, IA",0,726,0,0,Leighton city
+IA,1941565,Kirkville,incorporated,25,A,157,"Kirkville, IA",0,727,0,0,Kirkville city
+IA,1968700,Rose Hill,incorporated,25,A,157,"Rose Hill, IA",0,728,0,0,Rose Hill city
+IA,1904555,Barnes City,incorporated,25,A,156,"Barnes City, IA",0,729,0,0,Barnes City city
+IA,1950655,Maysville,incorporated,25,A,156,"Maysville, IA",0,730,0,0,Maysville city
+IA,1932520,Gravity,incorporated,25,A,154,"Gravity, IA",0,731,0,0,Gravity city
+IA,1965595,Randall,incorporated,25,A,154,"Randall, IA",0,732,0,0,Randall city
+IA,1934995,Hastings,incorporated,25,A,152,"Hastings, IA",0,733,0,0,Hastings city
+IA,1947280,Luther,incorporated,25,A,152,"Luther, IA",0,734,0,0,Luther city
+IA,1965955,Reasnor,incorporated,25,A,152,"Reasnor, IA",0,735,0,0,Reasnor city
+IA,1934635,Harris,incorporated,25,A,151,"Harris, IA",0,736,0,0,Harris city
+IA,1968025,Rock Falls,incorporated,25,A,150,"Rock Falls, IA",0,737,0,0,Rock Falls city
+IA,1908425,Bridgewater,incorporated,25,A,148,"Bridgewater, IA",0,738,0,0,Bridgewater city
+IA,1907930,Braddyville,incorporated,25,A,147,"Braddyville, IA",0,739,0,0,Braddyville city
+IA,1910090,Calumet,incorporated,25,A,146,"Calumet, IA",0,740,0,0,Calumet city
+IA,1921360,Dickens,incorporated,25,A,146,"Dickens, IA",0,741,0,0,Dickens city
+IA,1946290,Lone Rock,incorporated,25,A,146,"Lone Rock, IA",0,742,0,0,Lone Rock city
+IA,1947865,McClelland,incorporated,25,A,146,"McClelland, IA",0,743,0,0,McClelland city
+IA,1986880,Woodburn,incorporated,25,A,146,"Woodburn, IA",0,744,0,0,Woodburn city
+IA,1908560,Bristow,incorporated,25,A,145,"Bristow, IA",0,745,0,0,Bristow city
+IA,1911485,Castalia,incorporated,25,A,145,"Castalia, IA",0,746,0,0,Castalia city
+IA,1935715,Henderson,incorporated,25,A,144,"Henderson, IA",0,747,0,0,Henderson city
+IA,1976620,Swaledale,incorporated,25,A,144,"Swaledale, IA",0,748,0,0,Swaledale city
+IA,1983775,West Chester,incorporated,25,A,144,"West Chester, IA",0,749,0,0,West Chester city
+IA,1987015,Woolstock,incorporated,25,A,144,"Woolstock, IA",0,750,0,0,Woolstock city
+IA,1908200,Brayton,incorporated,25,A,143,"Brayton, IA",0,751,0,0,Brayton city
+IA,1974505,Springbrook,incorporated,25,A,143,"Springbrook, IA",0,752,0,0,Springbrook city
+IA,1919630,Delaware,incorporated,25,A,142,"Delaware, IA",0,753,0,0,Delaware city
+IA,1937335,Houghton,incorporated,25,A,141,"Houghton, IA",0,754,0,0,Houghton city
+IA,1914160,Clemons,incorporated,25,A,140,"Clemons, IA",0,755,0,0,Clemons city
+IA,1931575,Goodell,incorporated,25,A,140,"Goodell, IA",0,756,0,0,Goodell city
+IA,1913125,Chester,incorporated,25,A,139,"Chester, IA",0,757,0,0,Chester city
+IA,1961365,Panorama Park,incorporated,25,A,139,"Panorama Park, IA",0,758,0,0,Panorama Park city
+IA,1956280,New Liberty,incorporated,25,A,138,"New Liberty, IA",0,759,0,0,New Liberty city
+IA,1961050,Palmer,incorporated,25,A,138,"Palmer, IA",0,760,0,0,Palmer city
+IA,1983010,Webb,incorporated,25,A,138,"Webb, IA",0,761,0,0,Webb city
+IA,1913485,Clare,incorporated,25,A,136,"Clare, IA",0,762,0,0,Clare city
+IA,1930135,Geneva,incorporated,25,A,136,"Geneva, IA",0,763,0,0,Geneva city
+IA,1978195,Tingley,incorporated,25,A,136,"Tingley, IA",0,764,0,0,Tingley city
+IA,1983190,Weldon,incorporated,25,A,136,"Weldon, IA",0,765,0,0,Weldon city
+IA,1952230,Millersburg,incorporated,25,A,135,"Millersburg, IA",0,766,0,0,Millersburg city
+IA,1904105,Ayrshire,incorporated,25,A,133,"Ayrshire, IA",0,767,0,0,Ayrshire city
+IA,1976440,Superior,incorporated,25,A,132,"Superior, IA",0,768,0,0,Superior city
+IA,1928740,Franklin,incorporated,25,A,131,"Franklin, IA",0,769,0,0,Franklin city
+IA,1935130,Havelock,incorporated,25,A,130,"Havelock, IA",0,770,0,0,Havelock city
+IA,1981075,Vincent,incorporated,25,A,130,"Vincent, IA",0,771,0,0,Vincent city
+IA,1908875,Brunsville,incorporated,25,A,129,"Brunsville, IA",0,772,0,0,Brunsville city
+IA,1953265,Monmouth,incorporated,25,A,129,"Monmouth, IA",0,773,0,0,Monmouth city
+IA,1971355,Searsboro,incorporated,25,A,129,"Searsboro, IA",0,774,0,0,Searsboro city
+IA,1973920,Somers,incorporated,25,A,128,"Somers, IA",0,775,0,0,Somers city
+IA,1907660,Bouton,incorporated,25,A,127,"Bouton, IA",0,776,0,0,Bouton city
+IA,1984540,Westphalia,incorporated,25,A,126,"Westphalia, IA",0,777,0,0,Westphalia city
+IA,1906985,Blockton,incorporated,25,A,125,"Blockton, IA",0,778,0,0,Blockton city
+IA,1952905,Mitchell,incorporated,25,A,124,"Mitchell, IA",0,779,0,0,Mitchell city
+IA,1943500,Larrabee,incorporated,25,A,123,"Larrabee, IA",0,780,0,0,Larrabee city
+IA,1969015,Rowan,incorporated,25,A,123,"Rowan, IA",0,781,0,0,Rowan city
+IA,1984090,Westfield,incorporated,25,A,123,"Westfield, IA",0,782,0,0,Westfield city
+IA,1944130,Ledyard,incorporated,25,A,121,"Ledyard, IA",0,783,0,0,Ledyard city
+IA,1945255,Lincoln,incorporated,25,A,121,"Lincoln, IA",0,784,0,0,Lincoln city
+IA,1983370,Welton,incorporated,25,A,121,"Welton, IA",0,785,0,0,Welton city
+IA,1969960,St. Donatus,incorporated,25,A,120,"St. Donatus, IA",0,786,0,0,St. Donatus city
+IA,1985935,Williamson,incorporated,25,A,120,"Williamson, IA",0,787,0,0,Williamson city
+IA,1933870,Hamilton,incorporated,25,A,119,"Hamilton, IA",0,788,0,0,Hamilton city
+IA,1943140,Lanesboro,incorporated,25,A,119,"Lanesboro, IA",0,789,0,0,Lanesboro city
+IA,1934545,Harper,incorporated,25,A,118,"Harper, IA",0,790,0,0,Harper city
+IA,1902530,Archer,incorporated,25,A,117,"Archer, IA",0,791,0,0,Archer city
+IA,1912630,Centralia,incorporated,25,A,116,"Centralia, IA",0,792,0,0,Centralia city
+IA,1919135,Dawson,incorporated,25,A,116,"Dawson, IA",0,793,0,0,Dawson city
+IA,1927975,Floris,incorporated,25,A,116,"Floris, IA",0,794,0,0,Floris city
+IA,1900235,Ackworth,incorporated,25,A,115,"Ackworth, IA",0,795,0,0,Ackworth city
+IA,1923790,East Peru,incorporated,25,A,115,"East Peru, IA",0,796,0,0,East Peru city
+IA,1906085,Bernard,incorporated,25,A,114,"Bernard, IA",0,797,0,0,Bernard city
+IA,1968565,Rome,incorporated,25,A,114,"Rome, IA",0,798,0,0,Rome city
+IA,1948045,McIntire,incorporated,25,A,113,"McIntire, IA",0,799,0,0,McIntire city
+IA,1969375,Rutland,incorporated,25,A,113,"Rutland, IA",0,800,0,0,Rutland city
+IA,1947505,Luzerne,incorporated,25,A,112,"Luzerne, IA",0,801,0,0,Luzerne city
+IA,1957495,North Washington,incorporated,25,A,112,"North Washington, IA",0,802,0,0,North Washington city
+IA,1940890,Keomah Village,incorporated,25,A,110,"Keomah Village, IA",0,803,0,0,Keomah Village city
+IA,1949575,Marne,incorporated,25,A,110,"Marne, IA",0,804,0,0,Marne city
+IA,1949935,Martinsburg,incorporated,25,A,110,"Martinsburg, IA",0,805,0,0,Martinsburg city
+IA,1950970,Melrose,incorporated,25,A,110,"Melrose, IA",0,806,0,0,Melrose city
+IA,1902080,Andover,incorporated,25,A,109,"Andover, IA",0,807,0,0,Andover city
+IA,1957135,North Buena Vista,incorporated,25,A,109,"North Buena Vista, IA",0,808,0,0,North Buena Vista city
+IA,1966855,Ricketts,incorporated,25,A,109,"Ricketts, IA",0,809,0,0,Ricketts city
+IA,1970185,St. Paul,incorporated,25,A,109,"St. Paul, IA",0,810,0,0,St. Paul city
+IA,1982470,Waterville,incorporated,25,A,109,"Waterville, IA",0,811,0,0,Waterville city
+IA,1970095,St. Marys,incorporated,25,A,108,"St. Marys, IA",0,812,0,0,St. Marys city
+IA,1911530,Castana,incorporated,25,A,107,"Castana, IA",0,813,0,0,Castana city
+IA,1970140,St. Olaf,incorporated,25,A,106,"St. Olaf, IA",0,814,0,0,St. Olaf city
+IA,1917490,Cromwell,incorporated,25,A,105,"Cromwell, IA",0,815,0,0,Cromwell city
+IA,1978600,Toronto,incorporated,25,A,102,"Toronto, IA",0,816,0,0,Toronto city
+IA,1928920,Fraser,incorporated,25,A,101,"Fraser, IA",0,817,0,0,Fraser city
+IA,1984835,Westwood,incorporated,25,A,101,"Westwood, IA",0,818,0,0,Westwood city
+IA,1985305,Whitten,incorporated,25,A,100,"Whitten, IA",0,819,0,0,Whitten city
+IA,1904330,Baldwin,incorporated,25,A,99,"Baldwin, IA",0,820,0,0,Baldwin city
+IA,1950205,Masonville,incorporated,25,A,99,"Masonville, IA",0,821,0,0,Masonville city
+IA,1954165,Morrison,incorporated,25,A,98,"Morrison, IA",0,822,0,0,Morrison city
+IA,1902755,Arion,incorporated,25,A,97,"Arion, IA",0,823,0,0,Arion city
+IA,1927255,Ferguson,incorporated,25,A,97,"Ferguson, IA",0,824,0,0,Ferguson city
+IA,1948180,Macksburg,incorporated,25,A,97,"Macksburg, IA",0,825,0,0,Macksburg city
+IA,1902800,Arispe,incorporated,25,A,96,"Arispe, IA",0,826,0,0,Arispe city
+IA,1954030,Morley,incorporated,25,A,96,"Morley, IA",0,827,0,0,Morley city
+IA,1960825,Pacific Junction,incorporated,25,A,96,"Pacific Junction, IA",0,828,0,0,Pacific Junction city
+IA,1969690,Sageville,incorporated,25,A,95,"Sageville, IA",0,829,0,0,Sageville city
+IA,1983055,Webster,incorporated,25,A,94,"Webster, IA",0,830,0,0,Webster city
+IA,1934770,Hartwick,incorporated,25,A,92,"Hartwick, IA",0,831,0,0,Hartwick city
+IA,1960780,Oyens,incorporated,25,A,92,"Oyens, IA",0,832,0,0,Oyens city
+IA,1974460,Spragueville,incorporated,25,A,92,"Spragueville, IA",0,833,0,0,Spragueville city
+IA,1986610,Wiota,incorporated,25,A,91,"Wiota, IA",0,834,0,0,Wiota city
+IA,1920125,Derby,incorporated,25,A,90,"Derby, IA",0,835,0,0,Derby city
+IA,1964875,Promise City,incorporated,25,A,88,"Promise City, IA",0,836,0,0,Promise City city
+IA,1911035,Carpenter,incorporated,25,A,87,"Carpenter, IA",0,837,0,0,Carpenter city
+IA,1917985,Cylinder,incorporated,25,A,87,"Cylinder, IA",0,838,0,0,Cylinder city
+IA,1909100,Buckeye,incorporated,25,A,86,"Buckeye, IA",0,839,0,0,Buckeye city
+IA,1932295,Grant,incorporated,25,A,86,"Grant, IA",0,840,0,0,Grant city
+IA,1963615,Pleasant Plain,incorporated,25,A,84,"Pleasant Plain, IA",0,841,0,0,Pleasant Plain city
+IA,1987690,Zwingle,incorporated,25,A,84,"Zwingle, IA",0,842,0,0,Zwingle city
+IA,1934365,Hansell,incorporated,25,A,82,"Hansell, IA",0,843,0,0,Hansell city
+IA,1965505,Ralston,incorporated,25,A,81,"Ralston, IA",0,844,0,0,Ralston city
+IA,1974955,Stanley,incorporated,25,A,81,"Stanley, IA",0,845,0,0,Stanley city
+IA,1941475,Kinross,incorporated,25,A,80,"Kinross, IA",0,846,0,0,Kinross city
+IA,1904375,Balltown,incorporated,25,A,79,"Balltown, IA",0,847,0,0,Balltown city
+IA,1916950,Craig,incorporated,25,A,79,"Craig, IA",0,848,0,0,Craig city
+IA,1977430,Tennant,incorporated,25,A,78,"Tennant, IA",0,849,0,0,Tennant city
+IA,1964110,Popejoy,incorporated,25,A,77,"Popejoy, IA",0,850,0,0,Popejoy city
+IA,1913215,Chillicothe,incorporated,25,A,76,"Chillicothe, IA",0,851,0,0,Chillicothe city
+IA,1929685,Garber,incorporated,25,A,76,"Garber, IA",0,852,0,0,Garber city
+IA,1931845,Graf,incorporated,25,A,76,"Graf, IA",0,853,0,0,Graf city
+IA,1969780,St. Anthony,incorporated,25,A,76,"St. Anthony, IA",0,854,0,0,St. Anthony city
+IA,1976665,Swan,incorporated,25,A,76,"Swan, IA",0,855,0,0,Swan city
+IA,1908065,Bradgate,incorporated,25,A,75,"Bradgate, IA",0,856,0,0,Bradgate city
+IA,1912945,Chatsworth,incorporated,25,A,75,"Chatsworth, IA",0,857,0,0,Chatsworth city
+IA,1979680,Unionville,incorporated,25,A,75,"Unionville, IA",0,858,0,0,Unionville city
+IA,1950385,Matlock,incorporated,25,A,74,"Matlock, IA",0,859,0,0,Matlock city
+IA,1956865,Nodaway,incorporated,25,A,74,"Nodaway, IA",0,860,0,0,Nodaway city
+IA,1971040,Scarville,incorporated,25,A,74,"Scarville, IA",0,861,0,0,Scarville city
+IA,1971940,Shannon City,incorporated,25,A,73,"Shannon City, IA",0,862,0,0,Shannon City city
+IA,1985710,Willey,incorporated,25,A,73,"Willey, IA",0,863,0,0,Willey city
+IA,1960240,Oto,incorporated,25,A,72,"Oto, IA",0,864,0,0,Oto city
+IA,1972075,Sharpsburg,incorporated,25,A,72,"Sharpsburg, IA",0,865,0,0,Sharpsburg city
+IA,1979185,Turin,incorporated,25,A,72,"Turin, IA",0,866,0,0,Turin city
+IA,1932970,Greenville,incorporated,25,A,71,"Greenville, IA",0,867,0,0,Greenville city
+IA,1979095,Truesdale,incorporated,25,A,69,"Truesdale, IA",0,868,0,0,Truesdale city
+IA,1957945,Numa,incorporated,25,A,68,"Numa, IA",0,869,0,0,Numa city
+IA,1959520,Orchard,incorporated,25,A,68,"Orchard, IA",0,870,0,0,Orchard city
+IA,1974685,Spring Hill,incorporated,25,A,68,"Spring Hill, IA",0,871,0,0,Spring Hill city
+IA,1980535,Varina,incorporated,25,A,68,"Varina, IA",0,872,0,0,Varina city
+IA,1914475,Clio,incorporated,25,A,67,"Clio, IA",0,873,0,0,Clio city
+IA,1975945,Struble,incorporated,25,A,67,"Struble, IA",0,874,0,0,Struble city
+IA,1955515,Nemaha,incorporated,25,A,66,"Nemaha, IA",0,875,0,0,Nemaha city
+IA,1921675,Dolliver,incorporated,25,A,65,"Dolliver, IA",0,876,0,0,Dolliver city
+IA,1930540,Gibson,incorporated,25,A,63,"Gibson, IA",0,877,0,0,Gibson city
+IA,1933240,Gruver,incorporated,25,A,63,"Gruver, IA",0,878,0,0,Gruver city
+IA,1933285,Guernsey,incorporated,25,A,63,"Guernsey, IA",0,879,0,0,Guernsey city
+IA,1966000,Redding,incorporated,25,A,63,"Redding, IA",0,880,0,0,Redding city
+IA,1902620,Aredale,incorporated,25,A,62,"Aredale, IA",0,881,0,0,Aredale city
+IA,1922080,Dougherty,incorporated,25,A,62,"Dougherty, IA",0,882,0,0,Dougherty city
+IA,1932565,Gray,incorporated,25,A,61,"Gray, IA",0,883,0,0,Gray city
+IA,1987420,Yorktown,incorporated,25,A,60,"Yorktown, IA",0,884,0,0,Yorktown city
+IA,1963345,Plano,incorporated,25,A,59,"Plano, IA",0,885,0,0,Plano city
+IA,1970590,Sandyville,incorporated,25,A,58,"Sandyville, IA",0,886,0,0,Sandyville city
+IA,1906490,Bevington,incorporated,25,A,57,"Bevington, IA",0,887,0,0,Bevington city
+IA,1934455,Hardy,incorporated,25,A,57,"Hardy, IA",0,888,0,0,Hardy city
+IA,1941520,Kirkman,incorporated,25,A,56,"Kirkman, IA",0,889,0,0,Kirkman city
+IA,1915465,Colwell,incorporated,25,A,55,"Colwell, IA",0,890,0,0,Colwell city
+IA,1981120,Vining,incorporated,25,A,54,"Vining, IA",0,891,0,0,Vining city
+IA,1941790,Knierim,incorporated,25,A,53,"Knierim, IA",0,892,0,0,Knierim city
+IA,1957045,Northboro,incorporated,25,A,52,"Northboro, IA",0,893,0,0,Northboro city
+IA,1977565,Thayer,incorporated,25,A,51,"Thayer, IA",0,894,0,0,Thayer city
+IA,1963840,Plover,incorporated,25,A,50,"Plover, IA",0,895,0,0,Plover city
+IA,1968925,Rossie,incorporated,25,A,49,"Rossie, IA",0,896,0,0,Rossie city
+IA,1905185,Beaver,incorporated,25,A,46,"Beaver, IA",0,897,0,0,Beaver city
+IA,1904780,Bassett,incorporated,25,A,45,"Bassett, IA",0,898,0,0,Bassett city
+IA,1913845,Clayton,incorporated,25,A,45,"Clayton, IA",0,899,0,0,Clayton city
+IA,1968385,Rodney,incorporated,25,A,45,"Rodney, IA",0,900,0,0,Rodney city
+IA,1977835,Thornburg,incorporated,25,A,45,"Thornburg, IA",0,901,0,0,Thornburg city
+IA,1950070,Marysville,incorporated,25,A,44,"Marysville, IA",0,902,0,0,Marysville city
+IA,1960015,Osterdock,incorporated,25,A,43,"Osterdock, IA",0,903,0,0,Osterdock city
+IA,1965730,Rathbun,incorporated,25,A,43,"Rathbun, IA",0,904,0,0,Rathbun city
+IA,1935445,Hayesville,incorporated,25,A,41,"Hayesville, IA",0,905,0,0,Hayesville city
+IA,1960420,Ottosen,incorporated,25,A,40,"Ottosen, IA",0,906,0,0,Ottosen city
+IA,1905905,Benton,incorporated,25,A,39,"Benton, IA",0,907,0,0,Benton city
+IA,1916725,Cotter,incorporated,25,A,39,"Cotter, IA",0,908,0,0,Cotter city
+IA,1938055,Imogene,incorporated,25,A,39,"Imogene, IA",0,909,0,0,Imogene city
+IA,1980175,Valeria,incorporated,25,A,39,"Valeria, IA",0,910,0,0,Valeria city
+IA,1918345,Dana,incorporated,25,A,38,"Dana, IA",0,911,0,0,Dana city
+IA,1967125,Rinard,incorporated,25,A,38,"Rinard, IA",0,912,0,0,Rinard city
+IA,1917895,Curlew,incorporated,25,A,37,"Curlew, IA",0,913,0,0,Curlew city
+IA,1939135,Jackson Junction,incorporated,25,A,37,"Jackson Junction, IA",0,914,0,0,Jackson Junction city
+IA,1910585,Carbon,incorporated,25,A,36,"Carbon, IA",0,915,0,0,Carbon city
+IA,1916140,Coppock,incorporated,25,A,36,"Coppock, IA",0,916,0,0,Coppock city
+IA,1952275,Millerton,incorporated,25,A,36,"Millerton, IA",0,917,0,0,Millerton city
+IA,1909145,Buck Grove,incorporated,25,A,34,"Buck Grove, IA",0,918,0,0,Buck Grove city
+IA,1960555,Owasa,incorporated,25,A,34,"Owasa, IA",0,919,0,0,Owasa city
+IA,1903340,Aspinwall,incorporated,25,A,33,"Aspinwall, IA",0,920,0,0,Aspinwall city
+IA,1963570,Pleasanton,incorporated,25,A,32,"Pleasanton, IA",0,921,0,0,Pleasanton city
+IA,1968340,Rodman,incorporated,25,A,31,"Rodman, IA",0,922,0,0,Rodman city
+IA,1930810,Gillett Grove,incorporated,25,A,30,"Gillett Grove, IA",0,923,0,0,Gillett Grove city
+IA,1906895,Blanchard,incorporated,25,A,29,"Blanchard, IA",0,924,0,0,Blanchard city
+IA,1924825,Elkport,incorporated,25,A,29,"Elkport, IA",0,925,0,0,Elkport city
+IA,1939900,Jolley,incorporated,25,A,28,"Jolley, IA",0,926,0,0,Jolley city
+IA,1979410,Udell,incorporated,25,A,28,"Udell, IA",0,927,0,0,Udell city
+IA,1914880,Coburg,incorporated,25,A,26,"Coburg, IA",0,928,0,0,Coburg city
+IA,1929550,Galt,incorporated,25,A,26,"Galt, IA",0,929,0,0,Galt city
+IA,1904510,Bankston,incorporated,25,A,23,"Bankston, IA",0,930,0,0,Bankston city
+IA,1906040,Berkley,incorporated,25,A,23,"Berkley, IA",0,931,0,0,Berkley city
+IA,1948675,Maloy,incorporated,25,A,22,"Maloy, IA",0,932,0,0,Maloy city
+IA,1922935,Durango,incorporated,25,A,20,"Durango, IA",0,933,0,0,Durango city
+IA,1925005,Ellston,incorporated,25,A,19,"Ellston, IA",0,934,0,0,Ellston city
+IA,1987375,Yetter,incorporated,25,A,19,"Yetter, IA",0,935,0,0,Yetter city
+IA,1915960,Conway,incorporated,25,A,17,"Conway, IA",0,936,0,0,Conway city
+IA,1905095,Beaconsfield,incorporated,25,A,15,"Beaconsfield, IA",0,937,0,0,Beaconsfield city
+IA,1944580,Le Roy,incorporated,25,A,11,"Le Roy, IA",0,938,0,0,Le Roy city
+IA,1919315,Decatur,incorporated,25,A,0,"Decatur, IA",0,939,0,0,Decatur city
