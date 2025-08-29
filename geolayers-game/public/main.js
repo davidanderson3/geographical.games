@@ -4,7 +4,6 @@ const guess = document.getElementById('guess');
 let map;
 let outline;
 let citiesLayer;
-let citiesShown = false;
 
 function pickLocation(locations) {
   return locations[Math.floor(Math.random() * locations.length)];
@@ -35,20 +34,26 @@ function loadCountry() {
     }
 
     citiesLayer = null;
-    citiesShown = false;
 
     outline = L.geoJSON(outlineGeo);
     const riversLayer = L.geoJSON(riversGeo, { style: { color: '#0ff' } });
 
-    // Use the outline to determine map bounds and zoom closely to the country
-    const bounds = outline.getBounds().pad(0.1);
+    // Use the outline to determine map bounds and start the map zoomed in
+    const bounds = outline.getBounds();
     map.fitBounds(bounds);
+    if (map.getZoom() < 6) {
+      map.setZoom(6);
+    }
 
     riversLayer.addTo(map);
   });
 }
 
 function showCities() {
+  if (citiesLayer) {
+    citiesLayer.addTo(map);
+    return;
+  }
   fetch(`data/${locationId}/cities.geojson`).then(r => {
     if (!r.ok) return null;
     return r.json();
@@ -59,7 +64,6 @@ function showCities() {
         L.circleMarker(latlng, { radius: 5, color: '#f00' }).bindTooltip(feature.properties.name)
     });
     citiesLayer.addTo(map);
-    citiesShown = true;
   }).catch(() => {});
 }
 
@@ -74,8 +78,6 @@ guess.addEventListener('change', () => {
     map.fitBounds(outline.getBounds().pad(0.1));
   } else {
     document.getElementById('score').textContent = 'Incorrect, try again!';
-    if (!citiesShown) {
-      showCities();
-    }
+    showCities();
   }
 });
