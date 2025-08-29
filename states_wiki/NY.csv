@@ -1,0 +1,595 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+NY,3651000,New York,incorporated,25,A,8804190,"New York, NY",0,1,65,0.26,New York city
+NY,3611000,Buffalo,incorporated,25,A,278349,"Buffalo, NY",0,2,27,0.108,Buffalo city
+NY,3684000,Yonkers,incorporated,25,A,211569,"Yonkers, NY",0,3,17,0.068,Yonkers city
+NY,3663000,Rochester,incorporated,25,A,211328,"Rochester, NY",0,4,13,0.052,Rochester city
+NY,3673000,Syracuse,incorporated,25,A,148620,"Syracuse, NY",0,5,10,0.04,Syracuse city
+NY,3601000,Albany,incorporated,25,A,99224,"Albany, NY",0,6,10,0.04,Albany city
+NY,3650617,New Rochelle,incorporated,25,A,79726,"New Rochelle, NY",0,7,7,0.028,New Rochelle city
+NY,3649121,Mount Vernon,incorporated,25,A,73893,"Mount Vernon, NY",0,8,6,0.024,Mount Vernon city
+NY,3665508,Schenectady,incorporated,25,A,67047,"Schenectady, NY",0,9,4,0.016,Schenectady city
+NY,3676540,Utica,incorporated,25,A,65283,"Utica, NY",0,10,5,0.02,Utica city
+NY,3681677,White Plains,incorporated,25,A,59559,"White Plains, NY",0,11,3,0.012,White Plains city
+NY,3633139,Hempstead,incorporated,47,A,59169,"Hempstead, NY",0,12,4,0.016,Hempstead village
+NY,3675484,Troy,incorporated,25,A,51401,"Troy, NY",0,13,4,0.016,Troy city
+NY,3651055,Niagara Falls,incorporated,25,A,48671,"Niagara Falls, NY",0,14,2,0.008,Niagara Falls city
+NY,3606607,Binghamton,incorporated,25,A,47969,"Binghamton, NY",0,15,2,0.008,Binghamton city
+NY,3627485,Freeport,incorporated,47,A,44472,"Freeport, NY",0,16,2,0.008,Freeport village
+NY,3676705,Valley Stream,incorporated,47,A,40634,"Valley Stream, NY",0,17,3,0.012,Valley Stream village
+NY,3643335,Long Beach,incorporated,25,A,35029,"Long Beach, NY",0,18,3,0.012,Long Beach city
+NY,3670420,Spring Valley,incorporated,47,A,33066,"Spring Valley, NY",0,19,3,0.012,Spring Valley village
+NY,3639853,Kiryas Joel,incorporated,47,A,32954,"Kiryas Joel, NY",0,20,3,0.012,Kiryas Joel village
+NY,3663418,Rome,incorporated,25,A,32127,"Rome, NY",0,21,2,0.008,Rome city
+NY,3638077,Ithaca,incorporated,25,A,32108,"Ithaca, NY",0,22,1,0.004,Ithaca city
+NY,3659223,Port Chester,incorporated,47,A,31693,"Port Chester, NY",0,23,1,0.004,Port Chester village
+NY,3659641,Poughkeepsie,incorporated,25,A,31577,"Poughkeepsie, NY",0,24,1,0.004,Poughkeepsie city
+NY,3653682,North Tonawanda,incorporated,25,A,30496,"North Tonawanda, NY",0,25,1,0.004,North Tonawanda city
+NY,3647042,Middletown,incorporated,25,A,30345,"Middletown, NY",0,26,1,0.004,Middletown city
+NY,3650034,Newburgh,incorporated,25,A,28856,"Newburgh, NY",0,27,1,0.004,Newburgh city
+NY,3638264,Jamestown,incorporated,25,A,28712,"Jamestown, NY",0,28,1,0.004,Jamestown city
+NY,3665255,Saratoga Springs,incorporated,25,A,28491,"Saratoga Springs, NY",0,29,2,0.008,Saratoga Springs city
+NY,3629113,Glen Cove,incorporated,25,A,28365,"Glen Cove, NY",0,30,2,0.008,Glen Cove city
+NY,3632402,Harrison,incorporated,47,A,28218,"Harrison, NY",0,31,2,0.008,Harrison village
+NY,3655530,Ossining,incorporated,47,A,27551,"Ossining, NY",0,32,2,0.008,Ossining village
+NY,3642554,Lindenhurst,incorporated,47,A,27148,"Lindenhurst, NY",0,33,2,0.008,Lindenhurst village
+NY,3603078,Auburn,incorporated,25,A,26866,"Auburn, NY",0,34,2,0.008,Auburn city
+NY,3624229,Elmira,incorporated,25,A,26523,"Elmira, NY",0,35,2,0.008,Elmira city
+NY,3663264,Rockville Centre,incorporated,47,A,26016,"Rockville Centre, NY",0,36,2,0.008,Rockville Centre village
+NY,3656979,Peekskill,incorporated,25,A,25431,"Peekskill, NY",0,37,2,0.008,Peekskill city
+NY,3678608,Watertown,incorporated,25,A,24685,"Watertown, NY",0,38,2,0.008,Watertown city
+NY,3639727,Kingston,incorporated,25,A,24069,"Kingston, NY",0,39,2,0.008,Kingston city
+NY,3628178,Garden City,incorporated,47,A,23272,"Garden City, NY",0,40,2,0.008,Garden City village
+NY,3643082,Lockport,incorporated,25,A,20876,"Lockport, NY",0,41,2,0.008,Lockport city
+NY,3647636,Mineola,incorporated,47,A,20800,"Mineola, NY",0,42,2,0.008,Mineola village
+NY,3643874,Lynbrook,incorporated,47,A,20438,"Lynbrook, NY",0,43,2,0.008,Lynbrook village
+NY,3644831,Mamaroneck,incorporated,47,A,20151,"Mamaroneck, NY",0,44,2,0.008,Mamaroneck village
+NY,3640189,Lackawanna,incorporated,25,A,19949,"Lackawanna, NY",0,45,2,0.008,Lackawanna city
+NY,3658574,Plattsburgh,incorporated,25,A,19841,"Plattsburgh, NY",0,46,2,0.008,Plattsburgh city
+NY,3665431,Scarsdale,incorporated,47,A,18253,"Scarsdale, NY",0,47,2,0.008,Scarsdale village
+NY,3602066,Amsterdam,incorporated,25,A,18219,"Amsterdam, NY",0,48,2,0.008,Amsterdam city
+NY,3616749,Cohoes,incorporated,25,A,18147,"Cohoes, NY",0,49,2,0.008,Cohoes city
+NY,3618388,Cortland,incorporated,25,A,17556,"Cortland, NY",0,50,1,0.004,Cortland city
+NY,3645997,Massapequa Park,incorporated,47,A,17109,"Massapequa Park, NY",0,51,1,0.004,Massapequa Park village
+NY,3655574,Oswego,incorporated,25,A,16921,"Oswego, NY",0,52,1,0.004,Oswego city
+NY,3664309,Rye,incorporated,25,A,16592,"Rye, NY",0,53,1,0.004,Rye city
+NY,3626264,Floral Park,incorporated,47,A,16172,"Floral Park, NY",0,54,1,0.004,Floral Park village
+NY,3679444,Westbury,incorporated,47,A,15864,"Westbury, NY",0,55,1,0.004,Westbury village
+NY,3604715,Batavia,incorporated,25,A,15600,"Batavia, NY",0,56,0,0,Batavia city
+NY,3638748,Johnson City,incorporated,47,A,15343,"Johnson City, NY",0,57,0,0,Johnson City village
+NY,3639232,Kenmore,incorporated,47,A,15205,"Kenmore, NY",0,58,0,0,Kenmore village
+NY,3620313,Depew,incorporated,47,A,15178,"Depew, NY",0,59,0,0,Depew village
+NY,3629443,Gloversville,incorporated,25,A,15131,"Gloversville, NY",0,60,0,0,Gloversville city
+NY,3674166,Tonawanda,incorporated,25,A,15129,"Tonawanda, NY",0,61,0,0,Tonawanda city
+NY,3629333,Glens Falls,incorporated,25,A,14830,"Glens Falls, NY",0,62,0,0,Glens Falls city
+NY,3654716,Olean,incorporated,25,A,13937,"Olean, NY",0,63,0,0,Olean city
+NY,3605100,Beacon,incorporated,25,A,13769,"Beacon, NY",0,64,0,0,Beacon city
+NY,3624515,Endicott,incorporated,47,A,13667,"Endicott, NY",0,65,0,0,Endicott village
+NY,3654881,Oneonta,incorporated,25,A,13079,"Oneonta, NY",0,66,0,0,Oneonta city
+NY,3628640,Geneva,incorporated,25,A,12812,"Geneva, NY",0,67,0,0,Geneva city
+NY,3621105,Dunkirk,incorporated,25,A,12743,"Dunkirk, NY",0,68,0,0,Dunkirk city
+NY,3656660,Patchogue,incorporated,47,A,12408,"Patchogue, NY",0,69,0,0,Patchogue village
+NY,3632754,Haverstraw,incorporated,47,A,12323,"Haverstraw, NY",0,70,0,0,Haverstraw village
+NY,3603408,Babylon,incorporated,47,A,12188,"Babylon, NY",0,71,0,0,Babylon village
+NY,3673176,Tarrytown,incorporated,47,A,11860,"Tarrytown, NY",0,72,0,0,Tarrytown village
+NY,3620698,Dobbs Ferry,incorporated,47,A,11541,"Dobbs Ferry, NY",0,73,0,0,Dobbs Ferry village
+NY,3682750,Woodbury,incorporated,47,A,11526,"Woodbury, NY",0,74,0,0,Woodbury village
+NY,3671894,Suffern,incorporated,47,A,11441,"Suffern, NY",0,75,0,0,Suffern village
+NY,3627815,Fulton,incorporated,25,A,11389,"Fulton, NY",0,76,0,0,Fulton city
+NY,3630169,Great Neck,incorporated,47,A,11145,"Great Neck, NY",0,77,0,0,Great Neck village
+NY,3640530,Lake Grove,incorporated,47,A,11072,"Lake Grove, NY",0,78,0,0,Lake Grove village
+NY,3648890,Mount Kisco,incorporated,47,A,10959,"Mount Kisco, NY",0,79,0,0,Mount Kisco village
+NY,3680203,West Haverstraw,incorporated,47,A,10678,"West Haverstraw, NY",0,80,0,0,West Haverstraw village
+NY,3612144,Canandaigua,incorporated,25,A,10576,"Canandaigua, NY",0,81,0,0,Canandaigua city
+NY,3618256,Corning,incorporated,25,A,10551,"Corning, NY",0,82,0,0,Corning city
+NY,3615400,Chestnut Ridge,incorporated,47,A,10505,"Chestnut Ridge, NY",0,83,0,0,Chestnut Ridge village
+NY,3678674,Watervliet,incorporated,25,A,10375,"Watervliet, NY",0,84,0,0,Watervliet city
+NY,3654837,Oneida,incorporated,25,A,10329,"Oneida, NY",0,85,0,0,Oneida city
+NY,3650397,New Hyde Park,incorporated,47,A,10257,"New Hyde Park, NY",0,86,0,0,New Hyde Park village
+NY,3600408,Airmont,incorporated,47,A,10166,"Airmont, NY",0,87,0,0,Airmont village
+NY,3622876,East Rockaway,incorporated,47,A,10159,"East Rockaway, NY",0,88,0,0,East Rockaway village
+NY,3646019,Massena,incorporated,47,A,10151,"Massena, NY",0,89,0,0,Massena village
+NY,3654485,Ogdensburg,incorporated,25,A,10064,"Ogdensburg, NY",0,90,0,0,Ogdensburg city
+NY,3664325,Rye Brook,incorporated,47,A,10047,"Rye Brook, NY",0,91,0,0,Rye Brook village
+NY,3641135,Lancaster,incorporated,47,A,10027,"Lancaster, NY",0,92,0,0,Lancaster village
+NY,3667638,Sleepy Hollow,incorporated,47,A,9986,"Sleepy Hollow, NY",0,93,0,0,Sleepy Hollow village
+NY,3631643,Hamburg,incorporated,47,A,9696,"Hamburg, NY",0,94,0,0,Hamburg village
+NY,3650705,New Square,incorporated,47,A,9679,"New Square, NY",0,95,0,0,New Square village
+NY,3627419,Fredonia,incorporated,47,A,9585,"Fredonia, NY",0,96,0,0,Fredonia village
+NY,3602044,Amityville,incorporated,47,A,9500,"Amityville, NY",0,97,0,0,Amityville village
+NY,3647988,Monroe,incorporated,47,A,9343,"Monroe, NY",0,98,0,0,Monroe village
+NY,3661148,Rensselaer,incorporated,25,A,9210,"Rensselaer, NY",0,99,0,0,Rensselaer city
+NY,3649891,Newark,incorporated,47,A,9017,"Newark, NY",0,100,0,0,Newark village
+NY,3659388,Port Jervis,incorporated,25,A,8775,"Port Jervis, NY",0,101,0,0,Port Jervis city
+NY,3632710,Hastings-on-Hudson,incorporated,47,A,8590,"Hastings-on-Hudson, NY",0,102,0,0,Hastings-on-Hudson village
+NY,3644787,Malverne,incorporated,47,A,8560,"Malverne, NY",0,103,0,0,Malverne village
+NY,3625384,Farmingdale,incorporated,47,A,8466,"Farmingdale, NY",0,104,0,0,Farmingdale village
+NY,3619213,Croton-on-Hudson,incorporated,47,A,8327,"Croton-on-Hudson, NY",0,105,0,0,Croton-on-Hudson village
+NY,3659564,Potsdam,incorporated,47,A,8312,"Potsdam, NY",0,106,0,0,Potsdam village
+NY,3635672,Hornell,incorporated,25,A,8263,"Hornell, NY",0,107,0,0,Hornell city
+NY,3638781,Johnstown,incorporated,25,A,8204,"Johnstown, NY",0,108,0,0,Johnstown city
+NY,3659355,Port Jefferson,incorporated,47,A,7962,"Port Jefferson, NY",0,109,0,0,Port Jefferson village
+NY,3604198,Baldwinsville,incorporated,47,A,7898,"Baldwinsville, NY",0,110,0,0,Baldwinsville village
+NY,3617332,Colonie,incorporated,47,A,7781,"Colonie, NY",0,111,0,0,Colonie village
+NY,3637275,Ilion,incorporated,47,A,7646,"Ilion, NY",0,112,0,0,Ilion village
+NY,3682117,Williston Park,incorporated,47,A,7591,"Williston Park, NY",0,113,0,0,Williston Park village
+NY,3628618,Geneseo,incorporated,47,A,7574,"Geneseo, NY",0,114,0,0,Geneseo village
+NY,3608103,Briarcliff Manor,incorporated,47,A,7569,"Briarcliff Manor, NY",0,115,0,0,Briarcliff Manor village
+NY,3658728,Pleasantville,incorporated,47,A,7513,"Pleasantville, NY",0,116,0,0,Pleasantville village
+NY,3630213,Great Neck Plaza,incorporated,47,A,7482,"Great Neck Plaza, NY",0,117,0,0,Great Neck Plaza village
+NY,3635980,Hudson Falls,incorporated,47,A,7427,"Hudson Falls, NY",0,118,0,0,Hudson Falls village
+NY,3613233,Cedarhurst,incorporated,47,A,7374,"Cedarhurst, NY",0,119,0,0,Cedarhurst village
+NY,3653396,Northport,incorporated,47,A,7347,"Northport, NY",0,120,0,0,Northport village
+NY,3657001,Pelham,incorporated,47,A,7326,"Pelham, NY",0,121,0,0,Pelham village
+NY,3650551,New Paltz,incorporated,47,A,7324,"New Paltz, NY",0,122,0,0,New Paltz village
+NY,3622260,East Hills,incorporated,47,A,7284,"East Hills, NY",0,123,0,0,East Hills village
+NY,3665893,Scotia,incorporated,47,A,7272,"Scotia, NY",0,124,0,0,Scotia village
+NY,3654100,Nyack,incorporated,47,A,7265,"Nyack, NY",0,125,0,0,Nyack village
+NY,3634121,Herkimer,incorporated,47,A,7234,"Herkimer, NY",0,126,0,0,Herkimer village
+NY,3648175,Monticello,incorporated,47,A,7173,"Monticello, NY",0,127,0,0,Monticello village
+NY,3612331,Canton,incorporated,47,A,7155,"Canton, NY",0,128,0,0,Canton village
+NY,3608466,Brockport,incorporated,47,A,7104,"Brockport, NY",0,129,0,0,Brockport village
+NY,3675583,Tuckahoe,incorporated,47,A,7084,"Tuckahoe, NY",0,130,0,0,Tuckahoe village
+NY,3653979,Norwich,incorporated,25,A,7051,"Norwich, NY",0,131,0,0,Norwich city
+NY,3645106,Manorhaven,incorporated,47,A,6956,"Manorhaven, NY",0,132,0,0,Manorhaven village
+NY,3677849,Walden,incorporated,47,A,6818,"Walden, NY",0,133,0,0,Walden village
+NY,3641553,Lawrence,incorporated,47,A,6809,"Lawrence, NY",0,134,0,0,Lawrence village
+NY,3605034,Bayville,incorporated,47,A,6748,"Bayville, NY",0,135,0,0,Bayville village
+NY,3653660,North Syracuse,incorporated,47,A,6739,"North Syracuse, NY",0,136,0,0,North Syracuse village
+NY,3608532,Bronxville,incorporated,47,A,6656,"Bronxville, NY",0,137,0,0,Bronxville village
+NY,3637803,Irvington,incorporated,47,A,6652,"Irvington, NY",0,138,0,0,Irvington village
+NY,3678355,Warwick,incorporated,47,A,6652,"Warwick, NY",0,139,0,0,Warwick village
+NY,3668286,Solvay,incorporated,47,A,6645,"Solvay, NY",0,140,0,0,Solvay village
+NY,3641333,Larchmont,incorporated,47,A,6630,"Larchmont, NY",0,141,0,0,Larchmont village
+NY,3635694,Horseheads,incorporated,47,A,6606,"Horseheads, NY",0,142,0,0,Horseheads village
+NY,3622865,East Rochester,incorporated,47,A,6334,"East Rochester, NY",0,143,0,0,East Rochester village
+NY,3679174,Wesley Hills,incorporated,47,A,6116,"Wesley Hills, NY",0,144,0,0,Wesley Hills village
+NY,3678168,Wappingers Falls,incorporated,47,A,6103,"Wappingers Falls, NY",0,145,0,0,Wappingers Falls village
+NY,3646415,Medina,incorporated,47,A,6047,"Medina, NY",0,146,0,0,Medina village
+NY,3634847,Hilton,incorporated,47,A,6027,"Hilton, NY",0,147,0,0,Hilton village
+NY,3621589,East Aurora,incorporated,47,A,5998,"East Aurora, NY",0,148,0,0,East Aurora village
+NY,3664749,Salamanca,incorporated,25,A,5929,"Salamanca, NY",0,149,0,0,Salamanca city
+NY,3635969,Hudson,incorporated,25,A,5894,"Hudson, NY",0,150,0,0,Hudson city
+NY,3629542,Goshen,incorporated,47,A,5777,"Goshen, NY",0,151,0,0,Goshen village
+NY,3657023,Pelham Manor,incorporated,47,A,5752,"Pelham Manor, NY",0,152,0,0,Pelham Manor village
+NY,3678465,Washingtonville,incorporated,47,A,5657,"Washingtonville, NY",0,153,0,0,Washingtonville village
+NY,3678960,Webster,incorporated,47,A,5651,"Webster, NY",0,154,0,0,Webster village
+NY,3601033,Albion,incorporated,47,A,5637,"Albion, NY",0,155,0,0,Albion village
+NY,3639694,Kings Point,incorporated,47,A,5619,"Kings Point, NY",0,156,0,0,Kings Point village
+NY,3604759,Bath,incorporated,47,A,5571,"Bath, NY",0,157,0,0,Bath village
+NY,3625076,Fairport,incorporated,47,A,5501,"Fairport, NY",0,158,0,0,Fairport village
+NY,3638934,Kaser,incorporated,47,A,5491,"Kaser, NY",0,159,0,0,Kaser village
+NY,3644710,Malone,incorporated,47,A,5483,"Malone, NY",0,160,0,0,Malone village
+NY,3653022,North Hills,incorporated,47,A,5464,"North Hills, NY",0,161,0,0,North Hills village
+NY,3650353,New Hempstead,incorporated,47,A,5463,"New Hempstead, NY",0,162,0,0,New Hempstead village
+NY,3682084,Williamsville,incorporated,47,A,5423,"Williamsville, NY",0,163,0,0,Williamsville village
+NY,3624295,Elmsford,incorporated,47,A,5239,"Elmsford, NY",0,164,0,0,Elmsford village
+NY,3646360,Mechanicville,incorporated,25,A,5163,"Mechanicville, NY",0,165,0,0,Mechanicville city
+NY,3604253,Ballston Spa,incorporated,47,A,5111,"Ballston Spa, NY",0,166,0,0,Ballston Spa village
+NY,3602506,Ardsley,incorporated,47,A,5079,"Ardsley, NY",0,167,0,0,Ardsley village
+NY,3666047,Sea Cliff,incorporated,47,A,5062,"Sea Cliff, NY",0,168,0,0,Sea Cliff village
+NY,3657177,Penn Yan,incorporated,47,A,5056,"Penn Yan, NY",0,169,0,0,Penn Yan village
+NY,3637847,Island Park,incorporated,47,A,4928,"Island Park, NY",0,170,0,0,Island Park village
+NY,3615561,Chittenango,incorporated,47,A,4896,"Chittenango, NY",0,171,0,0,Chittenango village
+NY,3665233,Saranac Lake,incorporated,47,A,4887,"Saranac Lake, NY",0,172,0,0,Saranac Lake village
+NY,3678553,Waterloo,incorporated,47,A,4810,"Waterloo, NY",0,173,0,0,Waterloo village
+NY,3626352,Flower Hill,incorporated,47,A,4794,"Flower Hill, NY",0,174,0,0,Flower Hill village
+NY,3642224,Liberty,incorporated,47,A,4700,"Liberty, NY",0,175,0,0,Liberty village
+NY,3645018,Manlius,incorporated,47,A,4662,"Manlius, NY",0,176,0,0,Manlius village
+NY,3642741,Little Falls,incorporated,25,A,4605,"Little Falls, NY",0,177,0,0,Little Falls city
+NY,3679092,Wellsville,incorporated,47,A,4587,"Wellsville, NY",0,178,0,0,Wellsville village
+NY,3612188,Canastota,incorporated,47,A,4556,"Canastota, NY",0,179,0,0,Canastota village
+NY,3646536,Menands,incorporated,47,A,4554,"Menands, NY",0,180,0,0,Menands village
+NY,3668462,Southampton,incorporated,47,A,4550,"Southampton, NY",0,181,0,0,Southampton village
+NY,3648090,Montebello,incorporated,47,A,4507,"Montebello, NY",0,182,0,0,Montebello village
+NY,3619664,Dansville,incorporated,47,A,4433,"Dansville, NY",0,183,0,0,Dansville village
+NY,3678806,Waverly,incorporated,47,A,4373,"Waverly, NY",0,184,0,0,Waverly village
+NY,3642026,Le Roy,incorporated,47,A,4300,"Le Roy, NY",0,185,0,0,Le Roy village
+NY,3654705,Old Westbury,incorporated,47,A,4289,"Old Westbury, NY",0,186,0,0,Old Westbury village
+NY,3625527,Fayetteville,incorporated,47,A,4225,"Fayetteville, NY",0,187,0,0,Fayetteville village
+NY,3670442,Springville,incorporated,47,A,4225,"Springville, NY",0,188,0,0,Springville village
+NY,3616628,Cobleskill,incorporated,47,A,4173,"Cobleskill, NY",0,189,0,0,Cobleskill village
+NY,3623965,Ellenville,incorporated,47,A,4167,"Ellenville, NY",0,190,0,0,Ellenville village
+NY,3613079,Cayuga Heights,incorporated,47,A,4114,"Cayuga Heights, NY",0,191,0,0,Cayuga Heights village
+NY,3631709,Hamilton,incorporated,47,A,4107,"Hamilton, NY",0,192,0,0,Hamilton village
+NY,3601198,Alfred,incorporated,47,A,4026,"Alfred, NY",0,193,0,0,Alfred village
+NY,3615297,Chester,incorporated,47,A,3993,"Chester, NY",0,194,0,0,Chester village
+NY,3668610,South Blooming Grove,incorporated,47,A,3973,"South Blooming Grove, NY",0,195,0,0,South Blooming Grove village
+NY,3624251,Elmira Heights,incorporated,47,A,3916,"Elmira Heights, NY",0,196,0,0,Elmira Heights village
+NY,3665288,Saugerties,incorporated,47,A,3899,"Saugerties, NY",0,197,0,0,Saugerties village
+NY,3648142,Montgomery,incorporated,47,A,3834,"Montgomery, NY",0,198,0,0,Montgomery village
+NY,3658992,Pomona,incorporated,47,A,3824,"Pomona, NY",0,199,0,0,Pomona village
+NY,3667686,Sloan,incorporated,47,A,3775,"Sloan, NY",0,200,0,0,Sloan village
+NY,3613002,Catskill,incorporated,47,A,3745,"Catskill, NY",0,201,0,0,Catskill village
+NY,3669078,South Glens Falls,incorporated,47,A,3744,"South Glens Falls, NY",0,202,0,0,South Glens Falls village
+NY,3667334,Sidney,incorporated,47,A,3697,"Sidney, NY",0,203,0,0,Sidney village
+NY,3670189,Spencerport,incorporated,47,A,3685,"Spencerport, NY",0,204,0,0,Spencerport village
+NY,3634495,Highland Falls,incorporated,47,A,3684,"Highland Falls, NY",0,205,0,0,Highland Falls village
+NY,3647757,Minoa,incorporated,47,A,3657,"Minoa, NY",0,206,0,0,Minoa village
+NY,3655882,Owego,incorporated,47,A,3654,"Owego, NY",0,207,0,0,Owego village
+NY,3641223,Lansing,incorporated,47,A,3648,"Lansing, NY",0,208,0,0,Lansing village
+NY,3678333,Warsaw,incorporated,47,A,3646,"Warsaw, NY",0,209,0,0,Warsaw village
+NY,3681710,Whitesboro,incorporated,47,A,3612,"Whitesboro, NY",0,210,0,0,Whitesboro village
+NY,3643005,Lloyd Harbor,incorporated,47,A,3571,"Lloyd Harbor, NY",0,211,0,0,Lloyd Harbor village
+NY,3637840,Islandia,incorporated,47,A,3567,"Islandia, NY",0,212,0,0,Islandia village
+NY,3657243,Perry,incorporated,47,A,3536,"Perry, NY",0,213,0,0,Perry village
+NY,3629597,Gouverneur,incorporated,47,A,3526,"Gouverneur, NY",0,214,0,0,Gouverneur village
+NY,3649330,Muttontown,incorporated,47,A,3512,"Muttontown, NY",0,215,0,0,Muttontown village
+NY,3603353,Avon,incorporated,47,A,3399,"Avon, NY",0,216,0,0,Avon village
+NY,3656187,Palmyra,incorporated,47,A,3305,"Palmyra, NY",0,217,0,0,Palmyra village
+NY,3619642,Dannemora,incorporated,47,A,3287,"Dannemora, NY",0,218,0,0,Dannemora village
+NY,3675671,Tupper Lake,incorporated,47,A,3282,"Tupper Lake, NY",0,219,0,0,Tupper Lake village
+NY,3643720,Lowville,incorporated,47,A,3272,"Lowville, NY",0,220,0,0,Lowville village
+NY,3660675,Ravena,incorporated,47,A,3271,"Ravena, NY",0,221,0,0,Ravena village
+NY,3651011,New York Mills,incorporated,47,A,3244,"New York Mills, NY",0,222,0,0,New York Mills village
+NY,3612683,Carthage,incorporated,47,A,3236,"Carthage, NY",0,223,0,0,Carthage village
+NY,3635474,Hoosick Falls,incorporated,47,A,3216,"Hoosick Falls, NY",0,224,0,0,Hoosick Falls village
+NY,3635276,Homer,incorporated,47,A,3210,"Homer, NY",0,225,0,0,Homer village
+NY,3608323,Brightwaters,incorporated,47,A,3181,"Brightwaters, NY",0,226,0,0,Brightwaters village
+NY,3659531,Port Washington North,incorporated,47,A,3160,"Port Washington North, NY",0,227,0,0,Port Washington North village
+NY,3646162,Maybrook,incorporated,47,A,3150,"Maybrook, NY",0,228,0,0,Maybrook village
+NY,3626770,Fort Edward,incorporated,47,A,3108,"Fort Edward, NY",0,229,0,0,Fort Edward village
+NY,3655266,Orchard Park,incorporated,47,A,3108,"Orchard Park, NY",0,230,0,0,Orchard Park village
+NY,3623052,East Syracuse,incorporated,47,A,3078,"East Syracuse, NY",0,231,0,0,East Syracuse village
+NY,3666993,Sherrill,incorporated,25,A,3077,"Sherrill, NY",0,232,0,0,Sherrill city
+NY,3618333,Cornwall-on-Hudson,incorporated,47,A,3075,"Cornwall-on-Hudson, NY",0,233,0,0,Cornwall-on-Hudson village
+NY,3667708,Sloatsburg,incorporated,47,A,3036,"Sloatsburg, NY",0,234,0,0,Sloatsburg village
+NY,3641069,Lakewood,incorporated,47,A,3002,"Lakewood, NY",0,235,0,0,Lakewood village
+NY,3630752,Greenwood Lake,incorporated,47,A,2994,"Greenwood Lake, NY",0,236,0,0,Greenwood Lake village
+NY,3630191,Great Neck Estates,incorporated,47,A,2990,"Great Neck Estates, NY",0,237,0,0,Great Neck Estates village
+NY,3663770,Roslyn,incorporated,47,A,2988,"Roslyn, NY",0,238,0,0,Roslyn village
+NY,3610132,Brookville,incorporated,47,A,2939,"Brookville, NY",0,239,0,0,Brookville village
+NY,3630521,Green Island,incorporated,47,A,2934,"Green Island, NY",0,240,0,0,Green Island village
+NY,3679939,Westfield,incorporated,47,A,2910,"Westfield, NY",0,241,0,0,Westfield village
+NY,3648945,Mount Morris,incorporated,47,A,2898,"Mount Morris, NY",0,242,0,0,Mount Morris village
+NY,3600441,Akron,incorporated,47,A,2888,"Akron, NY",0,243,0,0,Akron village
+NY,3626319,Florida,incorporated,47,A,2888,"Florida, NY",0,244,0,0,Florida village
+NY,3678036,Walton,incorporated,47,A,2885,"Walton, NY",0,245,0,0,Walton village
+NY,3677684,Voorheesville,incorporated,47,A,2841,"Voorheesville, NY",0,246,0,0,Voorheesville village
+NY,3640937,Lake Success,incorporated,47,A,2828,"Lake Success, NY",0,247,0,0,Lake Success village
+NY,3649231,Munsey Park,incorporated,47,A,2809,"Munsey Park, NY",0,248,0,0,Munsey Park village
+NY,3664485,Sag Harbor,incorporated,47,A,2772,"Sag Harbor, NY",0,249,0,0,Sag Harbor village
+NY,3613145,Cazenovia,incorporated,47,A,2767,"Cazenovia, NY",0,250,0,0,Cazenovia village
+NY,3673605,Thomaston,incorporated,47,A,2759,"Thomaston, NY",0,251,0,0,Thomaston village
+NY,3618718,Coxsackie,incorporated,47,A,2746,"Coxsackie, NY",0,252,0,0,Coxsackie village
+NY,3677376,Victor,incorporated,47,A,2744,"Victor, NY",0,253,0,0,Victor village
+NY,3620126,Delhi,incorporated,47,A,2721,"Delhi, NY",0,254,0,0,Delhi village
+NY,3632325,Harriman,incorporated,47,A,2714,"Harriman, NY",0,255,0,0,Harriman village
+NY,3665035,Sands Point,incorporated,47,A,2712,"Sands Point, NY",0,256,0,0,Sands Point village
+NY,3635364,Honeoye Falls,incorporated,47,A,2706,"Honeoye Falls, NY",0,257,0,0,Honeoye Falls village
+NY,3661346,Rhinebeck,incorporated,47,A,2697,"Rhinebeck, NY",0,258,0,0,Rhinebeck village
+NY,3684099,Yorkville,incorporated,47,A,2657,"Yorkville, NY",0,259,0,0,Yorkville village
+NY,3623217,East Williston,incorporated,47,A,2645,"East Williston, NY",0,260,0,0,East Williston village
+NY,3667411,Silver Creek,incorporated,47,A,2617,"Silver Creek, NY",0,261,0,0,Silver Creek village
+NY,3601088,Alden,incorporated,47,A,2604,"Alden, NY",0,262,0,0,Alden village
+NY,3630576,Greenport,incorporated,47,A,2583,"Greenport, NY",0,263,0,0,Greenport village
+NY,3618212,Corinth,incorporated,47,A,2562,"Corinth, NY",0,264,0,0,Corinth village
+NY,3606849,Blasdell,incorporated,47,A,2539,"Blasdell, NY",0,265,0,0,Blasdell village
+NY,3667510,Skaneateles,incorporated,47,A,2533,"Skaneateles, NY",0,266,0,0,Skaneateles village
+NY,3642147,Lewiston,incorporated,47,A,2531,"Lewiston, NY",0,267,0,0,Lewiston village
+NY,3657749,Piermont,incorporated,47,A,2517,"Piermont, NY",0,268,0,0,Piermont village
+NY,3629630,Gowanda,incorporated,47,A,2513,"Gowanda, NY",0,269,0,0,Gowanda village
+NY,3608070,Brewster,incorporated,47,A,2508,"Brewster, NY",0,270,0,0,Brewster village
+NY,3681622,Whitehall,incorporated,47,A,2465,"Whitehall, NY",0,271,0,0,Whitehall village
+NY,3603001,Attica,incorporated,47,A,2450,"Attica, NY",0,272,0,0,Attica village
+NY,3647823,Mohawk,incorporated,47,A,2415,"Mohawk, NY",0,273,0,0,Mohawk village
+NY,3630026,Granville,incorporated,47,A,2404,"Granville, NY",0,274,0,0,Granville village
+NY,3627188,Frankfort,incorporated,47,A,2320,"Frankfort, NY",0,275,0,0,Frankfort village
+NY,3610341,Buchanan,incorporated,47,A,2302,"Buchanan, NY",0,276,0,0,Buchanan village
+NY,3625164,Falconer,incorporated,47,A,2269,"Falconer, NY",0,277,0,0,Falconer village
+NY,3656011,Oyster Bay Cove,incorporated,47,A,2265,"Oyster Bay Cove, NY",0,278,0,0,Oyster Bay Cove village
+NY,3642884,Liverpool,incorporated,47,A,2242,"Liverpool, NY",0,279,0,0,Liverpool village
+NY,3657661,Phoenix,incorporated,47,A,2226,"Phoenix, NY",0,280,0,0,Phoenix village
+NY,3616375,Clifton Springs,incorporated,47,A,2209,"Clifton Springs, NY",0,281,0,0,Clifton Springs village
+NY,3640761,Lake Placid,incorporated,47,A,2205,"Lake Placid, NY",0,282,0,0,Lake Placid village
+NY,3605771,Bellport,incorporated,47,A,2203,"Bellport, NY",0,283,0,0,Bellport village
+NY,3611847,Camden,incorporated,47,A,2196,"Camden, NY",0,284,0,0,Camden village
+NY,3663979,Rouses Point,incorporated,47,A,2195,"Rouses Point, NY",0,285,0,0,Rouses Point village
+NY,3659960,Pulaski,incorporated,47,A,2186,"Pulaski, NY",0,286,0,0,Pulaski village
+NY,3612254,Canisteo,incorporated,47,A,2176,"Canisteo, NY",0,287,0,0,Canisteo village
+NY,3616573,Clyde,incorporated,47,A,2171,"Clyde, NY",0,288,0,0,Clyde village
+NY,3625967,Fishkill,incorporated,47,A,2166,"Fishkill, NY",0,289,0,0,Fishkill village
+NY,3680181,Westhampton Beach,incorporated,47,A,2150,"Westhampton Beach, NY",0,290,0,0,Westhampton Beach village
+NY,3630961,Groton,incorporated,47,A,2145,"Groton, NY",0,291,0,0,Groton village
+NY,3642323,Lima,incorporated,47,A,2094,"Lima, NY",0,292,0,0,Lima village
+NY,3615638,Churchville,incorporated,47,A,2091,"Churchville, NY",0,293,0,0,Churchville village
+NY,3611704,Caledonia,incorporated,47,A,2080,"Caledonia, NY",0,294,0,0,Caledonia village
+NY,3602198,Angola,incorporated,47,A,2046,"Angola, NY",0,295,0,0,Angola village
+NY,3620731,Dolgeville,incorporated,47,A,2042,"Dolgeville, NY",0,296,0,0,Dolgeville village
+NY,3678520,Waterford,incorporated,47,A,2038,"Waterford, NY",0,297,0,0,Waterford village
+NY,3612111,Canajoharie,incorporated,47,A,2037,"Canajoharie, NY",0,298,0,0,Canajoharie village
+NY,3607355,Boonville,incorporated,47,A,2020,"Boonville, NY",0,299,0,0,Boonville village
+NY,3654562,Old Brookville,incorporated,47,A,2020,"Old Brookville, NY",0,300,0,0,Old Brookville village
+NY,3676386,Upper Nyack,incorporated,47,A,2015,"Upper Nyack, NY",0,301,0,0,Upper Nyack village
+NY,3665959,Scottsville,incorporated,47,A,2009,"Scottsville, NY",0,302,0,0,Scottsville village
+NY,3656814,Pawling,incorporated,47,A,1995,"Pawling, NY",0,303,0,0,Pawling village
+NY,3671267,Stewart Manor,incorporated,47,A,1992,"Stewart Manor, NY",0,304,0,0,Stewart Manor village
+NY,3616936,Cold Spring,incorporated,47,A,1986,"Cold Spring, NY",0,305,0,0,Cold Spring village
+NY,3660895,Red Hook,incorporated,47,A,1975,"Red Hook, NY",0,306,0,0,Red Hook village
+NY,3641487,Laurel Hollow,incorporated,47,A,1940,"Laurel Hollow, NY",0,307,0,0,Laurel Hollow village
+NY,3626924,Fort Plain,incorporated,47,A,1930,"Fort Plain, NY",0,308,0,0,Fort Plain village
+NY,3602407,Arcade,incorporated,47,A,1908,"Arcade, NY",0,309,0,0,Arcade village
+NY,3620951,Dryden,incorporated,47,A,1887,"Dryden, NY",0,310,0,0,Dryden village
+NY,3641432,Lattingtown,incorporated,47,A,1881,"Lattingtown, NY",0,311,0,0,Lattingtown village
+NY,3678696,Watkins Glen,incorporated,47,A,1863,"Watkins Glen, NY",0,312,0,0,Watkins Glen village
+NY,3613585,Central Square,incorporated,47,A,1862,"Central Square, NY",0,313,0,0,Central Square village
+NY,3650298,New Hartford,incorporated,47,A,1859,"New Hartford, NY",0,314,0,0,New Hartford village
+NY,3684143,Youngstown,incorporated,47,A,1859,"Youngstown, NY",0,315,0,0,Youngstown village
+NY,3657518,Phelps,incorporated,47,A,1851,"Phelps, NY",0,316,0,0,Phelps village
+NY,3654155,Oakfield,incorporated,47,A,1812,"Oakfield, NY",0,317,0,0,Oakfield village
+NY,3618047,Cooperstown,incorporated,47,A,1794,"Cooperstown, NY",0,318,0,0,Cooperstown village
+NY,3611825,Cambridge,incorporated,47,A,1788,"Cambridge, NY",0,319,0,0,Cambridge village
+NY,3679015,Weedsport,incorporated,47,A,1788,"Weedsport, NY",0,320,0,0,Weedsport village
+NY,3676331,Upper Brookville,incorporated,47,A,1786,"Upper Brookville, NY",0,321,0,0,Upper Brookville village
+NY,3676617,Valatie,incorporated,47,A,1785,"Valatie, NY",0,322,0,0,Valatie village
+NY,3679499,West Carthage,incorporated,47,A,1780,"West Carthage, NY",0,323,0,0,West Carthage village
+NY,3656088,Painted Post,incorporated,47,A,1768,"Painted Post, NY",0,324,0,0,Painted Post village
+NY,3635155,Holley,incorporated,47,A,1754,"Holley, NY",0,325,0,0,Holley village
+NY,3671322,Stillwater,incorporated,47,A,1754,"Stillwater, NY",0,326,0,0,Stillwater village
+NY,3645480,Marcellus,incorporated,47,A,1745,"Marcellus, NY",0,327,0,0,Marcellus village
+NY,3669023,South Floral Park,incorporated,47,A,1741,"South Floral Park, NY",0,328,0,0,South Floral Park village
+NY,3677519,Village of the Branch,incorporated,47,A,1735,"Village of the Branch, NY",0,329,0,0,Village of the Branch village
+NY,3646998,Middleport,incorporated,47,A,1729,"Middleport, NY",0,330,0,0,Middleport village
+NY,3675506,Trumansburg,incorporated,47,A,1714,"Trumansburg, NY",0,331,0,0,Trumansburg village
+NY,3602968,Atlantic Beach,incorporated,47,A,1707,"Atlantic Beach, NY",0,332,0,0,Atlantic Beach village
+NY,3616089,Clayton,incorporated,47,A,1705,"Clayton, NY",0,333,0,0,Clayton village
+NY,3659245,Port Dickinson,incorporated,47,A,1699,"Port Dickinson, NY",0,334,0,0,Port Dickinson village
+NY,3621050,Dundee,incorporated,47,A,1690,"Dundee, NY",0,335,0,0,Dundee village
+NY,3616419,Clinton,incorporated,47,A,1683,"Clinton, NY",0,336,0,0,Clinton village
+NY,3678850,Wayland,incorporated,47,A,1680,"Wayland, NY",0,337,0,0,Wayland village
+NY,3601517,Altamont,incorporated,47,A,1675,"Altamont, NY",0,338,0,0,Altamont village
+NY,3668209,Sodus,incorporated,47,A,1667,"Sodus, NY",0,339,0,0,Sodus village
+NY,3660422,Quogue,incorporated,47,A,1662,"Quogue, NY",0,340,0,0,Quogue village
+NY,3627331,Franklinville,incorporated,47,A,1652,"Franklinville, NY",0,341,0,0,Franklinville village
+NY,3630675,Greenwich,incorporated,47,A,1651,"Greenwich, NY",0,342,0,0,Greenwich village
+NY,3664639,St. Johnsville,incorporated,47,A,1643,"St. Johnsville, NY",0,343,0,0,St. Johnsville village
+NY,3644853,Manchester,incorporated,47,A,1640,"Manchester, NY",0,344,0,0,Manchester village
+NY,3648197,Montour Falls,incorporated,47,A,1635,"Montour Falls, NY",0,345,0,0,Montour Falls village
+NY,3600199,Adams,incorporated,47,A,1633,"Adams, NY",0,346,0,0,Adams village
+NY,3648593,Morrisville,incorporated,47,A,1633,"Morrisville, NY",0,347,0,0,Morrisville village
+NY,3602902,Athens,incorporated,47,A,1586,"Athens, NY",0,348,0,0,Athens village
+NY,3651286,Nissequogue,incorporated,47,A,1564,"Nissequogue, NY",0,349,0,0,Nissequogue village
+NY,3600276,Addison,incorporated,47,A,1561,"Addison, NY",0,350,0,0,Addison village
+NY,3682678,Wolcott,incorporated,47,A,1556,"Wolcott, NY",0,351,0,0,Wolcott village
+NY,3654012,Norwood,incorporated,47,A,1552,"Norwood, NY",0,352,0,0,Norwood village
+NY,3601286,Allegany,incorporated,47,A,1544,"Allegany, NY",0,353,0,0,Allegany village
+NY,3646811,Mexico,incorporated,47,A,1531,"Mexico, NY",0,354,0,0,Mexico village
+NY,3614003,Chatham,incorporated,47,A,1529,"Chatham, NY",0,355,0,0,Chatham village
+NY,3632963,Head of the Harbor,incorporated,47,A,1520,"Head of the Harbor, NY",0,356,0,0,Head of the Harbor village
+NY,3619356,Cuba,incorporated,47,A,1517,"Cuba, NY",0,357,0,0,Cuba village
+NY,3622183,East Hampton,incorporated,47,A,1517,"East Hampton, NY",0,358,0,0,East Hampton village
+NY,3612870,Castleton-on-Hudson,incorporated,47,A,1477,"Castleton-on-Hudson, NY",0,359,0,0,Castleton-on-Hudson village
+NY,3678663,Waterville,incorporated,47,A,1473,"Waterville, NY",0,360,0,0,Waterville village
+NY,3642950,Livonia,incorporated,47,A,1472,"Livonia, NY",0,361,0,0,Livonia village
+NY,3630411,Greene,incorporated,47,A,1463,"Greene, NY",0,362,0,0,Greene village
+NY,3647273,Millbrook,incorporated,47,A,1455,"Millbrook, NY",0,363,0,0,Millbrook village
+NY,3658475,Plandome,incorporated,47,A,1448,"Plandome, NY",0,364,0,0,Plandome village
+NY,3637022,Huntington Bay,incorporated,47,A,1446,"Huntington Bay, NY",0,365,0,0,Huntington Bay village
+NY,3646239,Mayville,incorporated,47,A,1442,"Mayville, NY",0,366,0,0,Mayville village
+NY,3658354,Pittsford,incorporated,47,A,1419,"Pittsford, NY",0,367,0,0,Pittsford village
+NY,3667257,Shortsville,incorporated,47,A,1400,"Shortsville, NY",0,368,0,0,Shortsville village
+NY,3620346,Deposit,incorporated,47,A,1387,"Deposit, NY",0,369,0,0,Deposit village
+NY,3608422,Broadalbin,incorporated,47,A,1384,"Broadalbin, NY",0,370,0,0,Broadalbin village
+NY,3657639,Philmont,incorporated,47,A,1377,"Philmont, NY",0,371,0,0,Philmont village
+NY,3665750,Schuylerville,incorporated,47,A,1370,"Schuylerville, NY",0,372,0,0,Schuylerville village
+NY,3666883,Sherburne,incorporated,47,A,1360,"Sherburne, NY",0,373,0,0,Sherburne village
+NY,3664408,Sackets Harbor,incorporated,47,A,1351,"Sackets Harbor, NY",0,374,0,0,Sackets Harbor village
+NY,3655948,Oxford,incorporated,47,A,1330,"Oxford, NY",0,375,0,0,Oxford village
+NY,3663792,Roslyn Estates,incorporated,47,A,1318,"Roslyn Estates, NY",0,376,0,0,Roslyn Estates village
+NY,3655365,Oriskany,incorporated,47,A,1315,"Oriskany, NY",0,377,0,0,Oriskany village
+NY,3634308,Hewlett Harbor,incorporated,47,A,1290,"Hewlett Harbor, NY",0,378,0,0,Hewlett Harbor village
+NY,3608488,Brocton,incorporated,47,A,1286,"Brocton, NY",0,379,0,0,Brocton village
+NY,3606945,Bloomfield,incorporated,47,A,1277,"Bloomfield, NY",0,380,0,0,Bloomfield village
+NY,3604033,Bainbridge,incorporated,47,A,1251,"Bainbridge, NY",0,381,0,0,Bainbridge village
+NY,3651792,North Collins,incorporated,47,A,1247,"North Collins, NY",0,382,0,0,North Collins village
+NY,3682359,Wilson,incorporated,47,A,1247,"Wilson, NY",0,383,0,0,Wilson village
+NY,3606794,Black River,incorporated,47,A,1232,"Black River, NY",0,384,0,0,Black River village
+NY,3639309,Kensington,incorporated,47,A,1226,"Kensington, NY",0,385,0,0,Kensington village
+NY,3648296,Moravia,incorporated,47,A,1224,"Moravia, NY",0,386,0,0,Moravia village
+NY,3611902,Camillus,incorporated,47,A,1222,"Camillus, NY",0,387,0,0,Camillus village
+NY,3606046,Bergen,incorporated,47,A,1208,"Bergen, NY",0,388,0,0,Bergen village
+NY,3638825,Jordan,incorporated,47,A,1192,"Jordan, NY",0,389,0,0,Jordan village
+NY,3677112,Vernon,incorporated,47,A,1177,"Vernon, NY",0,390,0,0,Vernon village
+NY,3605639,Bellerose,incorporated,47,A,1173,"Bellerose, NY",0,391,0,0,Bellerose village
+NY,3613739,Champlain,incorporated,47,A,1170,"Champlain, NY",0,392,0,0,Champlain village
+NY,3639562,Kinderhook,incorporated,47,A,1170,"Kinderhook, NY",0,393,0,0,Kinderhook village
+NY,3654078,Nunda,incorporated,47,A,1169,"Nunda, NY",0,394,0,0,Nunda village
+NY,3652188,North Haven,incorporated,47,A,1162,"North Haven, NY",0,395,0,0,North Haven village
+NY,3646866,Middleburgh,incorporated,47,A,1131,"Middleburgh, NY",0,396,0,0,Middleburgh village
+NY,3683272,Wurtsboro,incorporated,47,A,1124,"Wurtsboro, NY",0,397,0,0,Wurtsboro village
+NY,3631291,Hagaman,incorporated,47,A,1117,"Hagaman, NY",0,398,0,0,Hagaman village
+NY,3668847,South Corning,incorporated,47,A,1108,"South Corning, NY",0,399,0,0,South Corning village
+NY,3649506,Nassau,incorporated,47,A,1103,"Nassau, NY",0,400,0,0,Nassau village
+NY,3659212,Port Byron,incorporated,47,A,1101,"Port Byron, NY",0,401,0,0,Port Byron village
+NY,3657551,Philadelphia,incorporated,47,A,1098,"Philadelphia, NY",0,402,0,0,Philadelphia village
+NY,3676155,Union Springs,incorporated,47,A,1075,"Union Springs, NY",0,403,0,0,Union Springs village
+NY,3613288,Celoron,incorporated,47,A,1069,"Celoron, NY",0,404,0,0,Celoron village
+NY,3663803,Roslyn Harbor,incorporated,47,A,1067,"Roslyn Harbor, NY",0,405,0,0,Roslyn Harbor village
+NY,3676001,Unadilla,incorporated,47,A,1065,"Unadilla, NY",0,406,0,0,Unadilla village
+NY,3642829,Little Valley,incorporated,47,A,1058,"Little Valley, NY",0,407,0,0,Little Valley village
+NY,3647405,Mill Neck,incorporated,47,A,1054,"Mill Neck, NY",0,408,0,0,Mill Neck village
+NY,3661489,Richfield Springs,incorporated,47,A,1050,"Richfield Springs, NY",0,409,0,0,Richfield Springs village
+NY,3620115,Delevan,incorporated,47,A,1043,"Delevan, NY",0,410,0,0,Delevan village
+NY,3670618,Stamford,incorporated,47,A,1040,"Stamford, NY",0,411,0,0,Stamford village
+NY,3606959,Bloomingburg,incorporated,47,A,1032,"Bloomingburg, NY",0,412,0,0,Bloomingburg village
+NY,3674023,Tivoli,incorporated,47,A,1012,"Tivoli, NY",0,413,0,0,Tivoli village
+NY,3607190,Bolivar,incorporated,47,A,1010,"Bolivar, NY",0,414,0,0,Bolivar village
+NY,3658486,Plandome Heights,incorporated,47,A,1009,"Plandome Heights, NY",0,415,0,0,Plandome Heights village
+NY,3640508,Lake George,incorporated,47,A,1008,"Lake George, NY",0,416,0,0,Lake George village
+NY,3620500,Dexter,incorporated,47,A,1004,"Dexter, NY",0,417,0,0,Dexter village
+NY,3653770,Northville,incorporated,47,A,993,"Northville, NY",0,418,0,0,Northville village
+NY,3604803,Baxter Estates,incorporated,47,A,991,"Baxter Estates, NY",0,419,0,0,Baxter Estates village
+NY,3664430,Saddle Rock,incorporated,47,A,989,"Saddle Rock, NY",0,420,0,0,Saddle Rock village
+NY,3664232,Russell Gardens,incorporated,47,A,978,"Russell Gardens, NY",0,421,0,0,Russell Gardens village
+NY,3644193,McGraw,incorporated,47,A,972,"McGraw, NY",0,422,0,0,McGraw village
+NY,3612771,Castile,incorporated,47,A,970,"Castile, NY",0,423,0,0,Castile village
+NY,3655673,Otisville,incorporated,47,A,969,"Otisville, NY",0,424,0,0,Otisville village
+NY,3613024,Cattaraugus,incorporated,47,A,960,"Cattaraugus, NY",0,425,0,0,Cattaraugus village
+NY,3681831,Whitney Point,incorporated,47,A,960,"Whitney Point, NY",0,426,0,0,Whitney Point village
+NY,3677728,Waddington,incorporated,47,A,937,"Waddington, NY",0,427,0,0,Waddington village
+NY,3649429,Naples,incorporated,47,A,931,"Naples, NY",0,428,0,0,Naples village
+NY,3610231,Brownville,incorporated,47,A,930,"Brownville, NY",0,429,0,0,Brownville village
+NY,3634660,Hillburn,incorporated,47,A,930,"Hillburn, NY",0,430,0,0,Hillburn village
+NY,3649902,Newark Valley,incorporated,47,A,928,"Newark Valley, NY",0,431,0,0,Newark Valley village
+NY,3601187,Alexandria Bay,incorporated,47,A,924,"Alexandria Bay, NY",0,432,0,0,Alexandria Bay village
+NY,3623789,Elbridge,incorporated,47,A,921,"Elbridge, NY",0,433,0,0,Elbridge village
+NY,3665585,Schoharie,incorporated,47,A,916,"Schoharie, NY",0,434,0,0,Schoharie village
+NY,3631940,Hancock,incorporated,47,A,908,"Hancock, NY",0,435,0,0,Hancock village
+NY,3682524,Windsor,incorporated,47,A,907,"Windsor, NY",0,436,0,0,Windsor village
+NY,3675627,Tully,incorporated,47,A,904,"Tully, NY",0,437,0,0,Tully village
+NY,3647361,Millerton,incorporated,47,A,903,"Millerton, NY",0,438,0,0,Millerton village
+NY,3659157,Poquott,incorporated,47,A,903,"Poquott, NY",0,439,0,0,Poquott village
+NY,3649946,New Berlin,incorporated,47,A,901,"New Berlin, NY",0,440,0,0,New Berlin village
+NY,3682986,Woodsburgh,incorporated,47,A,897,"Woodsburgh, NY",0,441,0,0,Woodsburgh village
+NY,3654617,Old Field,incorporated,47,A,893,"Old Field, NY",0,442,0,0,Old Field village
+NY,3645392,Marathon,incorporated,47,A,892,"Marathon, NY",0,443,0,0,Marathon village
+NY,3659498,Portville,incorporated,47,A,892,"Portville, NY",0,444,0,0,Portville village
+NY,3602143,Andover,incorporated,47,A,890,"Andover, NY",0,445,0,0,Andover village
+NY,3672521,Sylvan Beach,incorporated,47,A,890,"Sylvan Beach, NY",0,446,0,0,Sylvan Beach village
+NY,3655618,Otego,incorporated,47,A,875,"Otego, NY",0,447,0,0,Otego village
+NY,3661588,Richmondville,incorporated,47,A,858,"Richmondville, NY",0,448,0,0,Richmondville village
+NY,3605815,Belmont,incorporated,47,A,856,"Belmont, NY",0,449,0,0,Belmont village
+NY,3646107,Matinecock,incorporated,47,A,847,"Matinecock, NY",0,450,0,0,Matinecock village
+NY,3663957,Round Lake,incorporated,47,A,828,"Round Lake, NY",0,451,0,0,Round Lake village
+NY,3668242,Sodus Point,incorporated,47,A,822,"Sodus Point, NY",0,452,0,0,Sodus Point village
+NY,3603331,Avoca,incorporated,47,A,809,"Avoca, NY",0,453,0,0,Avoca village
+NY,3605672,Belle Terre,incorporated,47,A,808,"Belle Terre, NY",0,454,0,0,Belle Terre village
+NY,3656110,Palatine Bridge,incorporated,47,A,796,"Palatine Bridge, NY",0,455,0,0,Palatine Bridge village
+NY,3600342,Afton,incorporated,47,A,794,"Afton, NY",0,456,0,0,Afton village
+NY,3658497,Plandome Manor,incorporated,47,A,793,"Plandome Manor, NY",0,457,0,0,Plandome Manor village
+NY,3612210,Candor,incorporated,47,A,786,"Candor, NY",0,458,0,0,Candor village
+NY,3646206,Mayfield,incorporated,47,A,780,"Mayfield, NY",0,459,0,0,Mayfield village
+NY,3621523,Earlville,incorporated,47,A,774,"Earlville, NY",0,460,0,0,Earlville village
+NY,3643918,Lyndonville,incorporated,47,A,771,"Lyndonville, NY",0,461,0,0,Lyndonville village
+NY,3664452,Sagaponack,incorporated,47,A,770,"Sagaponack, NY",0,462,0,0,Sagaponack village
+NY,3624988,Fair Haven,incorporated,47,A,760,"Fair Haven, NY",0,463,0,0,Fair Haven village
+NY,3673517,Theresa,incorporated,47,A,752,"Theresa, NY",0,464,0,0,Theresa village
+NY,3682953,Woodridge,incorporated,47,A,747,"Woodridge, NY",0,465,0,0,Woodridge village
+NY,3602583,Arkport,incorporated,47,A,745,"Arkport, NY",0,466,0,0,Arkport village
+NY,3627859,Fultonville,incorporated,47,A,742,"Fultonville, NY",0,467,0,0,Fultonville village
+NY,3613981,Chateaugay,incorporated,47,A,735,"Chateaugay, NY",0,468,0,0,Chateaugay village
+NY,3681292,West Winfield,incorporated,47,A,733,"West Winfield, NY",0,469,0,0,West Winfield village
+NY,3616188,Cleveland,incorporated,47,A,732,"Cleveland, NY",0,470,0,0,Cleveland village
+NY,3653055,North Hornell,incorporated,47,A,732,"North Hornell, NY",0,471,0,0,North Hornell village
+NY,3602176,Angelica,incorporated,47,A,723,"Angelica, NY",0,472,0,0,Angelica village
+NY,3634264,Heuvelton,incorporated,47,A,722,"Heuvelton, NY",0,473,0,0,Heuvelton village
+NY,3670167,Spencer,incorporated,47,A,719,"Spencer, NY",0,474,0,0,Spencer village
+NY,3616727,Cohocton,incorporated,47,A,703,"Cohocton, NY",0,475,0,0,Cohocton village
+NY,3612353,Cape Vincent,incorporated,47,A,699,"Cape Vincent, NY",0,476,0,0,Cape Vincent village
+NY,3618201,Corfu,incorporated,47,A,689,"Corfu, NY",0,477,0,0,Corfu village
+NY,3667466,Silver Springs,incorporated,47,A,689,"Silver Springs, NY",0,478,0,0,Silver Springs village
+NY,3624823,Evans Mills,incorporated,47,A,678,"Evans Mills, NY",0,479,0,0,Evans Mills village
+NY,3665354,Savona,incorporated,47,A,672,"Savona, NY",0,480,0,0,Savona village
+NY,3626462,Fonda,incorporated,47,A,668,"Fonda, NY",0,481,0,0,Fonda village
+NY,3677431,Victory,incorporated,47,A,666,"Victory, NY",0,482,0,0,Victory village
+NY,3655376,Oriskany Falls,incorporated,47,A,658,"Oriskany Falls, NY",0,483,0,0,Oriskany Falls village
+NY,3640200,Lacona,incorporated,47,A,657,"Lacona, NY",0,484,0,0,Lacona village
+NY,3664199,Rushville,incorporated,47,A,651,"Rushville, NY",0,485,0,0,Rushville village
+NY,3666949,Sherman,incorporated,47,A,649,"Sherman, NY",0,486,0,0,Sherman village
+NY,3665068,Sandy Creek,incorporated,47,A,646,"Sandy Creek, NY",0,487,0,0,Sandy Creek village
+NY,3675803,Tuxedo Park,incorporated,47,A,645,"Tuxedo Park, NY",0,488,0,0,Tuxedo Park village
+NY,3619070,Croghan,incorporated,47,A,639,"Croghan, NY",0,489,0,0,Croghan village
+NY,3618135,Copenhagen,incorporated,47,A,631,"Copenhagen, NY",0,490,0,0,Copenhagen village
+NY,3649781,Nelsonville,incorporated,47,A,624,"Nelsonville, NY",0,491,0,0,Nelsonville village
+NY,3614036,Chaumont,incorporated,47,A,615,"Chaumont, NY",0,492,0,0,Chaumont village
+NY,3603188,Aurora,incorporated,47,A,607,"Aurora, NY",0,493,0,0,Aurora village
+NY,3637528,Interlaken,incorporated,47,A,595,"Interlaken, NY",0,494,0,0,Interlaken village
+NY,3602737,Asharoken,incorporated,47,A,592,"Asharoken, NY",0,495,0,0,Asharoken village
+NY,3676210,Unionville,incorporated,47,A,592,"Unionville, NY",0,496,0,0,Unionville village
+NY,3654848,Oneida Castle,incorporated,47,A,586,"Oneida Castle, NY",0,497,0,0,Oneida Castle village
+NY,3631852,Hammondsport,incorporated,47,A,583,"Hammondsport, NY",0,498,0,0,Hammondsport village
+NY,3667488,Sinclairville,incorporated,47,A,579,"Sinclairville, NY",0,499,0,0,Sinclairville village
+NY,3604440,Barker,incorporated,47,A,575,"Barker, NY",0,500,0,0,Barker village
+NY,3612749,Cassadaga,incorporated,47,A,573,"Cassadaga, NY",0,501,0,0,Cassadaga village
+NY,3678113,Wampsville,incorporated,47,A,573,"Wampsville, NY",0,502,0,0,Wampsville village
+NY,3644006,Lyons Falls,incorporated,47,A,570,"Lyons Falls, NY",0,503,0,0,Lyons Falls village
+NY,3634319,Hewlett Neck,incorporated,47,A,569,"Hewlett Neck, NY",0,504,0,0,Hewlett Neck village
+NY,3673143,Tannersville,incorporated,47,A,568,"Tannersville, NY",0,505,0,0,Tannersville village
+NY,3667191,Shoreham,incorporated,47,A,561,"Shoreham, NY",0,506,0,0,Shoreham village
+NY,3622557,East Nassau,incorporated,47,A,559,"East Nassau, NY",0,507,0,0,East Nassau village
+NY,3623745,Elba,incorporated,47,A,558,"Elba, NY",0,508,0,0,Elba village
+NY,3649748,Nelliston,incorporated,47,A,555,"Nelliston, NY",0,509,0,0,Nelliston village
+NY,3659454,Port Leyden,incorporated,47,A,554,"Port Leyden, NY",0,510,0,0,Port Leyden village
+NY,3650573,Newport,incorporated,47,A,543,"Newport, NY",0,511,0,0,Newport village
+NY,3668891,South Dayton,incorporated,47,A,541,"South Dayton, NY",0,512,0,0,South Dayton village
+NY,3632017,Hannibal,incorporated,47,A,535,"Hannibal, NY",0,513,0,0,Hannibal village
+NY,3655816,Ovid,incorporated,47,A,534,"Ovid, NY",0,514,0,0,Ovid village
+NY,3665475,Schaghticoke,incorporated,47,A,527,"Schaghticoke, NY",0,515,0,0,Schaghticoke village
+NY,3601154,Alexander,incorporated,47,A,518,"Alexander, NY",0,516,0,0,Alexander village
+NY,3612958,Cato,incorporated,47,A,517,"Cato, NY",0,517,0,0,Cato village
+NY,3654452,Odessa,incorporated,47,A,517,"Odessa, NY",0,518,0,0,Odessa village
+NY,3645557,Margaretville,incorporated,47,A,514,"Margaretville, NY",0,519,0,0,Margaretville village
+NY,3676672,Valley Falls,incorporated,47,A,510,"Valley Falls, NY",0,520,0,0,Valley Falls village
+NY,3602286,Antwerp,incorporated,47,A,506,"Antwerp, NY",0,521,0,0,Antwerp village
+NY,3627529,Freeville,incorporated,47,A,498,"Freeville, NY",0,522,0,0,Freeville village
+NY,3660829,Red Creek,incorporated,47,A,495,"Red Creek, NY",0,523,0,0,Red Creek village
+NY,3634297,Hewlett Bay Park,incorporated,47,A,494,"Hewlett Bay Park, NY",0,524,0,0,Hewlett Bay Park village
+NY,3679081,Wellsburg,incorporated,47,A,490,"Wellsburg, NY",0,525,0,0,Wellsburg village
+NY,3648483,Morris,incorporated,47,A,486,"Morris, NY",0,526,0,0,Morris village
+NY,3666663,Sharon Springs,incorporated,47,A,483,"Sharon Springs, NY",0,527,0,0,Sharon Springs village
+NY,3656231,Panama,incorporated,47,A,475,"Panama, NY",0,528,0,0,Panama village
+NY,3613068,Cayuga,incorporated,47,A,472,"Cayuga, NY",0,529,0,0,Cayuga village
+NY,3615242,Cherry Valley,incorporated,47,A,467,"Cherry Valley, NY",0,530,0,0,Cherry Valley village
+NY,3658937,Poland,incorporated,47,A,464,"Poland, NY",0,531,0,0,Poland village
+NY,3612177,Canaseraga,incorporated,47,A,460,"Canaseraga, NY",0,532,0,0,Canaseraga village
+NY,3626704,Fort Ann,incorporated,47,A,460,"Fort Ann, NY",0,533,0,0,Fort Ann village
+NY,3651110,Nichols,incorporated,47,A,457,"Nichols, NY",0,534,0,0,Nichols village
+NY,3649220,Munnsville,incorporated,47,A,454,"Munnsville, NY",0,535,0,0,Munnsville village
+NY,3629322,Glen Park,incorporated,47,A,452,"Glen Park, NY",0,536,0,0,Glen Park village
+NY,3656341,Parish,incorporated,47,A,447,"Parish, NY",0,537,0,0,Parish village
+NY,3610286,Brushton,incorporated,47,A,443,"Brushton, NY",0,538,0,0,Brushton village
+NY,3641872,Leicester,incorporated,47,A,440,"Leicester, NY",0,539,0,0,Leicester village
+NY,3661115,Remsen,incorporated,47,A,431,"Remsen, NY",0,540,0,0,Remsen village
+NY,3636167,Hunter,incorporated,47,A,429,"Hunter, NY",0,541,0,0,Hunter village
+NY,3662061,Riverside,incorporated,47,A,423,"Riverside, NY",0,542,0,0,Riverside village
+NY,3635144,Holland Patent,incorporated,47,A,416,"Holland Patent, NY",0,543,0,0,Holland Patent village
+NY,3601440,Almond,incorporated,47,A,415,"Almond, NY",0,544,0,0,Almond village
+NY,3620390,DeRuyter,incorporated,47,A,408,"DeRuyter, NY",0,545,0,0,DeRuyter village
+NY,3613618,Centre Island,incorporated,47,A,407,"Centre Island, NY",0,546,0,0,Centre Island village
+NY,3647108,Middleville,incorporated,47,A,407,"Middleville, NY",0,547,0,0,Middleville village
+NY,3670123,Speculator,incorporated,47,A,406,"Speculator, NY",0,548,0,0,Speculator village
+NY,3661434,Richburg,incorporated,47,A,401,"Richburg, NY",0,549,0,0,Richburg village
+NY,3625428,Farnham,incorporated,47,A,381,"Farnham, NY",0,550,0,0,Farnham village
+NY,3683371,Wyoming,incorporated,47,A,377,"Wyoming, NY",0,551,0,0,Wyoming village
+NY,3638506,Jeffersonville,incorporated,47,A,368,"Jeffersonville, NY",0,552,0,0,Jeffersonville village
+NY,3647229,Milford,incorporated,47,A,367,"Milford, NY",0,553,0,0,Milford village
+NY,3661159,Rensselaer Falls,incorporated,47,A,361,"Rensselaer Falls, NY",0,554,0,0,Rensselaer Falls village
+NY,3634979,Hobart,incorporated,47,A,351,"Hobart, NY",0,555,0,0,Hobart village
+NY,3642642,Lisle,incorporated,47,A,348,"Lisle, NY",0,556,0,0,Lisle village
+NY,3624713,Esperance,incorporated,47,A,346,"Esperance, NY",0,557,0,0,Esperance village
+NY,3616111,Clayville,incorporated,47,A,339,"Clayville, NY",0,558,0,0,Clayville village
+NY,3620082,Delanson,incorporated,47,A,335,"Delanson, NY",0,559,0,0,Delanson village
+NY,3612881,Castorland,incorporated,47,A,334,"Castorland, NY",0,560,0,0,Castorland village
+NY,3611132,Burdett,incorporated,47,A,331,"Burdett, NY",0,561,0,0,Burdett village
+NY,3644424,Madison,incorporated,47,A,311,"Madison, NY",0,562,0,0,Madison village
+NY,3624867,Fabius,incorporated,47,A,309,"Fabius, NY",0,563,0,0,Fabius village
+NY,3628959,Gilbertsville,incorporated,47,A,308,"Gilbertsville, NY",0,564,0,0,Gilbertsville village
+NY,3605848,Bemus Point,incorporated,47,A,306,"Bemus Point, NY",0,565,0,0,Bemus Point village
+NY,3647427,Millport,incorporated,47,A,301,"Millport, NY",0,566,0,0,Millport village
+NY,3645073,Mannsville,incorporated,47,A,297,"Mannsville, NY",0,567,0,0,Mannsville village
+NY,3617882,Constableville,incorporated,47,A,293,"Constableville, NY",0,568,0,0,Constableville village
+NY,3618597,Cove Neck,incorporated,47,A,293,"Cove Neck, NY",0,569,0,0,Cove Neck village
+NY,3620896,Dresden,incorporated,47,A,293,"Dresden, NY",0,570,0,0,Dresden village
+NY,3602550,Argyle,incorporated,47,A,289,"Argyle, NY",0,571,0,0,Argyle village
+NY,3646646,Meridian,incorporated,47,A,287,"Meridian, NY",0,572,0,0,Meridian village
+NY,3631830,Hammond,incorporated,47,A,273,"Hammond, NY",0,573,0,0,Hammond village
+NY,3627221,Franklin,incorporated,47,A,258,"Franklin, NY",0,574,0,0,Franklin village
+NY,3624020,Ellicottville,incorporated,47,A,256,"Ellicottville, NY",0,575,0,0,Ellicottville village
+NY,3643214,Lodi,incorporated,47,A,254,"Lodi, NY",0,576,0,0,Lodi village
+NY,3616815,Cold Brook,incorporated,47,A,250,"Cold Brook, NY",0,577,0,0,Cold Brook village
+NY,3629872,Grand View-on-Hudson,incorporated,47,A,246,"Grand View-on-Hudson, NY",0,578,0,0,Grand View-on-Hudson village
+NY,3619994,Deferiet,incorporated,47,A,245,"Deferiet, NY",0,579,0,0,Deferiet village
+NY,3661621,Richville,incorporated,47,A,234,"Richville, NY",0,580,0,0,Richville village
+NY,3627969,Gainesville,incorporated,47,A,211,"Gainesville, NY",0,581,0,0,Gainesville village
+NY,3626209,Fleischmanns,incorporated,47,A,210,"Fleischmanns, NY",0,582,0,0,Fleischmanns village
+NY,3668099,Smyrna,incorporated,47,A,197,"Smyrna, NY",0,583,0,0,Smyrna village
+NY,3675682,Turin,incorporated,47,A,197,"Turin, NY",0,584,0,0,Turin village
+NY,3624075,Ellisburg,incorporated,47,A,186,"Ellisburg, NY",0,585,0,0,Ellisburg village
+NY,3641520,Laurens,incorporated,47,A,185,"Laurens, NY",0,586,0,0,Laurens village
+NY,3628101,Galway,incorporated,47,A,165,"Galway, NY",0,587,0,0,Galway village
+NY,3611154,Burke,incorporated,47,A,160,"Burke, NY",0,588,0,0,Burke village
+NY,3654430,Ocean Beach,incorporated,47,A,153,"Ocean Beach, NY",0,589,0,0,Ocean Beach village
+NY,3601737,Ames,incorporated,47,A,138,"Ames, NY",0,590,0,0,Ames village
+NY,3680186,West Hampton Dunes,incorporated,47,A,126,"West Hampton Dunes, NY",0,591,0,0,West Hampton Dunes village
+NY,3664881,Saltaire,incorporated,47,A,113,"Saltaire, NY",0,592,0,0,Saltaire village
+NY,3620379,Dering Harbor,incorporated,47,A,50,"Dering Harbor, NY",0,593,0,0,Dering Harbor village
+NY,3675779,Tuxedo,incorporated,47,A,0,"Tuxedo, NY",0,594,0,0,Tuxedo village

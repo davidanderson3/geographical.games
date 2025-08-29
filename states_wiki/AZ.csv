@@ -1,0 +1,92 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+AZ,0455000,Phoenix,incorporated,25,A,1608139,"Phoenix, AZ",0,1,99,0.396,Phoenix city
+AZ,0477000,Tucson,incorporated,25,A,542629,"Tucson, AZ",0,2,28,0.112,Tucson city
+AZ,0446000,Mesa,incorporated,25,A,504258,"Mesa, AZ",0,3,17,0.068,Mesa city
+AZ,0412000,Chandler,incorporated,25,A,275987,"Chandler, AZ",0,4,12,0.048,Chandler city
+AZ,0427400,Gilbert,incorporated,43,A,267918,"Gilbert, AZ",0,5,9,0.036,Gilbert town
+AZ,0427820,Glendale,incorporated,25,A,248325,"Glendale, AZ",0,6,7,0.028,Glendale city
+AZ,0465000,Scottsdale,incorporated,25,A,241361,"Scottsdale, AZ",0,7,6,0.024,Scottsdale city
+AZ,0454050,Peoria,incorporated,25,A,190985,"Peoria, AZ",0,8,6,0.024,Peoria city
+AZ,0473000,Tempe,incorporated,25,A,180587,"Tempe, AZ",0,9,4,0.016,Tempe city
+AZ,0471510,Surprise,incorporated,25,A,143148,"Surprise, AZ",0,10,4,0.016,Surprise city
+AZ,0485540,Yuma,incorporated,25,A,95548,"Yuma, AZ",0,11,3,0.012,Yuma city
+AZ,0428380,Goodyear,incorporated,25,A,95294,"Goodyear, AZ",0,12,4,0.016,Goodyear city
+AZ,0407940,Buckeye,incorporated,25,A,91502,"Buckeye, AZ",0,13,3,0.012,Buckeye city
+AZ,0404720,Avondale,incorporated,25,A,89334,"Avondale, AZ",0,14,2,0.008,Avondale city
+AZ,0423620,Flagstaff,incorporated,25,A,76831,"Flagstaff, AZ",0,15,2,0.008,Flagstaff city
+AZ,0458150,Queen Creek,incorporated,43,A,59519,"Queen Creek, AZ",0,16,2,0.008,Queen Creek town
+AZ,0444410,Maricopa,incorporated,25,A,58125,"Maricopa, AZ",0,17,3,0.012,Maricopa city
+AZ,0439370,Lake Havasu City,incorporated,25,A,57144,"Lake Havasu City, AZ",0,18,2,0.008,Lake Havasu City city
+AZ,0410530,Casa Grande,incorporated,25,A,53658,"Casa Grande, AZ",0,19,2,0.008,Casa Grande city
+AZ,0444270,Marana,incorporated,43,A,51908,"Marana, AZ",0,20,2,0.008,Marana town
+AZ,0451600,Oro Valley,incorporated,43,A,47070,"Oro Valley, AZ",0,21,1,0.004,Oro Valley town
+AZ,0457450,Prescott Valley,incorporated,43,A,46785,"Prescott Valley, AZ",0,22,1,0.004,Prescott Valley town
+AZ,0457380,Prescott,incorporated,25,A,45827,"Prescott, AZ",0,23,1,0.004,Prescott city
+AZ,0466820,Sierra Vista,incorporated,25,A,45308,"Sierra Vista, AZ",0,24,1,0.004,Sierra Vista city
+AZ,0408220,Bullhead City,incorporated,25,A,41348,"Bullhead City, AZ",0,25,1,0.004,Bullhead City city
+AZ,0402830,Apache Junction,incorporated,25,A,38499,"Apache Junction, AZ",0,26,1,0.004,Apache Junction city
+AZ,0422220,El Mirage,incorporated,25,A,35805,"El Mirage, AZ",0,27,1,0.004,El Mirage city
+AZ,0463470,San Luis,incorporated,25,A,35257,"San Luis, AZ",0,28,1,0.004,San Luis city
+AZ,0462140,Sahuarita,incorporated,43,A,34134,"Sahuarita, AZ",0,29,2,0.008,Sahuarita town
+AZ,0437620,Kingman,incorporated,25,A,32689,"Kingman, AZ",0,30,2,0.008,Kingman city
+AZ,0423760,Florence,incorporated,43,A,26785,"Florence, AZ",0,31,2,0.008,Florence town
+AZ,0425300,Fountain Hills,incorporated,43,A,23820,"Fountain Hills, AZ",0,32,2,0.008,Fountain Hills town
+AZ,0449640,Nogales,incorporated,25,A,19770,"Nogales, AZ",0,33,1,0.004,Nogales city
+AZ,0420050,Douglas,incorporated,25,A,16534,"Douglas, AZ",0,34,1,0.004,Douglas city
+AZ,0453700,Payson,incorporated,43,A,16351,"Payson, AZ",0,35,1,0.004,Payson town
+AZ,0422360,Eloy,incorporated,25,A,15635,"Eloy, AZ",0,36,1,0.004,Eloy city
+AZ,0468080,Somerton,incorporated,25,A,14197,"Somerton, AZ",0,37,1,0.004,Somerton city
+AZ,0415500,Coolidge,incorporated,25,A,13218,"Coolidge, AZ",0,38,1,0.004,Coolidge city
+AZ,0412840,Chino Valley,incorporated,43,A,13020,"Chino Valley, AZ",0,39,1,0.004,Chino Valley town
+AZ,0452930,Paradise Valley,incorporated,43,A,12658,"Paradise Valley, AZ",0,40,1,0.004,Paradise Valley town
+AZ,0409690,Camp Verde,incorporated,43,A,12147,"Camp Verde, AZ",0,41,1,0.004,Camp Verde town
+AZ,0416410,Cottonwood,incorporated,25,A,12029,"Cottonwood, AZ",0,42,1,0.004,Cottonwood city
+AZ,0466470,Show Low,incorporated,25,A,11732,"Show Low, AZ",0,43,1,0.004,Show Low city
+AZ,0462000,Safford,incorporated,25,A,10129,"Safford, AZ",0,44,1,0.004,Safford city
+AZ,0465350,Sedona,incorporated,25,A,9684,"Sedona, AZ",0,45,1,0.004,Sedona city
+AZ,0483930,Winslow,incorporated,25,A,9005,"Winslow, AZ",0,46,1,0.004,Winslow city
+AZ,0482740,Wickenburg,incorporated,43,A,7474,"Wickenburg, AZ",0,47,1,0.004,Wickenburg town
+AZ,0451810,Page,incorporated,25,A,7440,"Page, AZ",0,48,1,0.004,Page city
+AZ,0428030,Globe,incorporated,25,A,7249,"Globe, AZ",0,49,1,0.004,Globe city
+AZ,0474190,Tolleson,incorporated,25,A,7216,"Tolleson, AZ",0,50,0,0,Tolleson city
+AZ,0485400,Youngtown,incorporated,43,A,7056,"Youngtown, AZ",0,51,0,0,Youngtown town
+AZ,0441330,Litchfield Park,incorporated,25,A,6847,"Litchfield Park, AZ",0,52,0,0,Litchfield Park city
+AZ,0467800,Snowflake,incorporated,43,A,6104,"Snowflake, AZ",0,53,0,0,Snowflake town
+AZ,0405770,Benson,incorporated,25,A,5355,"Benson, AZ",0,54,0,0,Benson city
+AZ,0430270,Guadalupe,incorporated,43,A,5322,"Guadalupe, AZ",0,55,0,0,Guadalupe town
+AZ,0473420,Thatcher,incorporated,43,A,5231,"Thatcher, AZ",0,56,0,0,Thatcher town
+AZ,0406260,Bisbee,incorporated,25,A,4923,"Bisbee, AZ",0,57,0,0,Bisbee city
+AZ,0411300,Cave Creek,incorporated,43,A,4892,"Cave Creek, AZ",0,58,0,0,Cave Creek town
+AZ,0433280,Holbrook,incorporated,25,A,4858,"Holbrook, AZ",0,59,0,0,Holbrook city
+AZ,0468850,South Tucson,incorporated,25,A,4613,"South Tucson, AZ",0,60,0,0,South Tucson city
+AZ,0413890,Clarkdale,incorporated,43,A,4424,"Clarkdale, AZ",0,61,0,0,Clarkdale town
+AZ,0420960,Eagar,incorporated,43,A,4395,"Eagar, AZ",0,62,0,0,Eagar town
+AZ,0419145,Dewey-Humboldt,incorporated,43,A,4326,"Dewey-Humboldt, AZ",0,63,0,0,Dewey-Humboldt town
+AZ,0455980,Pinetop-Lakeside,incorporated,43,A,4030,"Pinetop-Lakeside, AZ",0,64,0,0,Pinetop-Lakeside town
+AZ,0472420,Taylor,incorporated,43,A,3995,"Taylor, AZ",0,65,0,0,Taylor town
+AZ,0414380,Clifton,incorporated,43,A,3933,"Clifton, AZ",0,66,0,0,Clifton town
+AZ,0410180,Carefree,incorporated,43,A,3690,"Carefree, AZ",0,67,0,0,Carefree town
+AZ,0453070,Parker,incorporated,43,A,3417,"Parker, AZ",0,68,0,0,Parker town
+AZ,0462350,St. Johns,incorporated,25,A,3417,"St. Johns, AZ",0,69,0,0,St. Johns city
+AZ,0483090,Willcox,incorporated,25,A,3213,"Willcox, AZ",0,70,0,0,Willcox city
+AZ,0483160,Williams,incorporated,25,A,3202,"Williams, AZ",0,71,0,0,Williams city
+AZ,0455560,Pima,incorporated,43,A,2847,"Pima, AZ",0,72,0,0,Pima town
+AZ,0469480,Star Valley,incorporated,43,A,2484,"Star Valley, AZ",0,73,0,0,Star Valley town
+AZ,0414870,Colorado City,incorporated,43,A,2478,"Colorado City, AZ",0,74,0,0,Colorado City town
+AZ,0458010,Quartzsite,incorporated,43,A,2413,"Quartzsite, AZ",0,75,0,0,Quartzsite town
+AZ,0471300,Superior,incorporated,43,A,2407,"Superior, AZ",0,76,0,0,Superior town
+AZ,0481480,Wellton,incorporated,43,A,2375,"Wellton, AZ",0,77,0,0,Wellton town
+AZ,0427050,Gila Bend,incorporated,43,A,1892,"Gila Bend, AZ",0,78,0,0,Gila Bend town
+AZ,0437200,Kearny,incorporated,43,A,1741,"Kearny, AZ",0,79,0,0,Kearny town
+AZ,0468990,Springerville,incorporated,43,A,1717,"Springerville, AZ",0,80,0,0,Springerville town
+AZ,0434120,Huachuca City,incorporated,43,A,1626,"Huachuca City, AZ",0,81,0,0,Huachuca City town
+AZ,0446350,Miami,incorporated,43,A,1541,"Miami, AZ",0,82,0,0,Miami town
+AZ,0425720,Fredonia,incorporated,43,A,1323,"Fredonia, AZ",0,83,0,0,Fredonia town
+AZ,0474400,Tombstone,incorporated,25,A,1308,"Tombstone, AZ",0,84,0,0,Tombstone city
+AZ,0443990,Mammoth,incorporated,43,A,1076,"Mammoth, AZ",0,85,0,0,Mammoth town
+AZ,0453490,Patagonia,incorporated,43,A,804,"Patagonia, AZ",0,86,0,0,Patagonia town
+AZ,0420750,Duncan,incorporated,43,A,694,"Duncan, AZ",0,87,0,0,Duncan town
+AZ,0477490,Tusayan,incorporated,43,A,603,"Tusayan, AZ",0,88,0,0,Tusayan town
+AZ,0432020,Hayden,incorporated,43,A,512,"Hayden, AZ",0,89,0,0,Hayden town
+AZ,0436290,Jerome,incorporated,43,A,464,"Jerome, AZ",0,90,0,0,Jerome town
+AZ,0483790,Winkelman,incorporated,43,A,296,"Winkelman, AZ",0,91,0,0,Winkelman town

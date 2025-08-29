@@ -1,0 +1,324 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+NJ,3451000,Newark,incorporated,25,A,311549,"Newark, NJ",0,1,67,0.268,Newark city
+NJ,3436000,Jersey City,incorporated,25,A,292449,"Jersey City, NJ",0,2,28,0.112,Jersey City city
+NJ,3457000,Paterson,incorporated,25,A,159732,"Paterson, NJ",0,3,17,0.068,Paterson city
+NJ,3421000,Elizabeth,incorporated,25,A,137298,"Elizabeth, NJ",0,4,13,0.052,Elizabeth city
+NJ,3474000,Trenton,incorporated,25,A,90871,"Trenton, NJ",0,5,14,0.056,Trenton city
+NJ,3413690,Clifton,incorporated,25,A,90296,"Clifton, NJ",0,6,7,0.028,Clifton city
+NJ,3410000,Camden,incorporated,25,A,71791,"Camden, NJ",0,7,7,0.028,Camden city
+NJ,3403580,Bayonne,incorporated,25,A,71686,"Bayonne, NJ",0,8,6,0.024,Bayonne city
+NJ,3456550,Passaic,incorporated,25,A,70537,"Passaic, NJ",0,9,4,0.016,Passaic city
+NJ,3419390,East Orange,incorporated,25,A,69612,"East Orange, NJ",0,10,5,0.02,East Orange city
+NJ,3474630,Union City,incorporated,25,A,68589,"Union City, NJ",0,11,3,0.012,Union City city
+NJ,3476070,Vineland,incorporated,25,A,60780,"Vineland, NJ",0,12,3,0.012,Vineland city
+NJ,3432250,Hoboken,incorporated,25,A,60419,"Hoboken, NJ",0,13,4,0.016,Hoboken city
+NJ,3458200,Perth Amboy,incorporated,25,A,55436,"Perth Amboy, NJ",0,14,2,0.008,Perth Amboy city
+NJ,3451210,New Brunswick,incorporated,25,A,55266,"New Brunswick, NJ",0,15,2,0.008,New Brunswick city
+NJ,3459190,Plainfield,incorporated,25,A,54586,"Plainfield, NJ",0,16,2,0.008,Plainfield city
+NJ,3479610,West New York,incorporated,43,A,52912,"West New York, NJ",0,17,3,0.012,West New York town
+NJ,3428680,Hackensack,incorporated,25,A,46030,"Hackensack, NJ",0,18,3,0.012,Hackensack city
+NJ,3465790,Sayreville,incorporated,21,A,45345,"Sayreville, NJ",0,19,3,0.012,Sayreville borough
+NJ,3440350,Linden,incorporated,25,A,43738,"Linden, NJ",0,20,3,0.012,Linden city
+NJ,3436510,Kearny,incorporated,43,A,41999,"Kearny, NJ",0,21,2,0.008,Kearny town
+NJ,3424420,Fort Lee,incorporated,21,A,40191,"Fort Lee, NJ",0,22,1,0.004,Fort Lee borough
+NJ,3402080,Atlantic City,incorporated,25,A,38497,"Atlantic City, NJ",0,23,1,0.004,Atlantic City city
+NJ,3422470,Fair Lawn,incorporated,21,A,34927,"Fair Lawn, NJ",0,24,1,0.004,Fair Lawn borough
+NJ,3425770,Garfield,incorporated,25,A,32655,"Garfield, NJ",0,25,1,0.004,Garfield city
+NJ,3441310,Long Branch,incorporated,25,A,31667,"Long Branch, NJ",0,26,1,0.004,Long Branch city
+NJ,3479040,Westfield,incorporated,43,A,31032,"Westfield, NJ",0,27,1,0.004,Westfield town
+NJ,3460900,Princeton,incorporated,00,A,30681,"Princeton, NJ",0,28,1,0.004,Princeton
+NJ,3461530,Rahway,incorporated,25,A,29556,"Rahway, NJ",0,29,2,0.008,Rahway city
+NJ,3421480,Englewood,incorporated,25,A,29308,"Englewood, NJ",0,30,2,0.008,Englewood city
+NJ,3405170,Bergenfield,incorporated,21,A,28321,"Bergenfield, NJ",0,31,2,0.008,Bergenfield borough
+NJ,3446680,Millville,incorporated,25,A,27491,"Millville, NJ",0,32,2,0.008,Millville city
+NJ,3407600,Bridgeton,incorporated,25,A,27263,"Bridgeton, NJ",0,33,2,0.008,Bridgeton city
+NJ,3455950,Paramus,incorporated,21,A,26698,"Paramus, NJ",0,34,2,0.008,Paramus borough
+NJ,3441100,Lodi,incorporated,21,A,26206,"Lodi, NJ",0,35,2,0.008,Lodi borough
+NJ,3463000,Ridgewood,incorporated,47,A,25979,"Ridgewood, NJ",0,36,2,0.008,Ridgewood village
+NJ,3413570,Cliffside Park,incorporated,21,A,25693,"Cliffside Park, NJ",0,37,2,0.008,Cliffside Park borough
+NJ,3410750,Carteret,incorporated,21,A,25326,"Carteret, NJ",0,38,2,0.008,Carteret borough
+NJ,3469390,South Plainfield,incorporated,21,A,24338,"South Plainfield, NJ",0,39,2,0.008,South Plainfield borough
+NJ,3426340,Glassboro,incorporated,21,A,23149,"Glassboro, NJ",0,40,2,0.008,Glassboro borough
+NJ,3453280,North Plainfield,incorporated,21,A,22808,"North Plainfield, NJ",0,41,2,0.008,North Plainfield borough
+NJ,3471430,Summit,incorporated,25,A,22719,"Summit, NJ",0,42,2,0.008,Summit city
+NJ,3464620,Roselle,incorporated,21,A,22695,"Roselle, NJ",0,43,2,0.008,Roselle borough
+NJ,3466570,Secaucus,incorporated,43,A,22181,"Secaucus, NJ",0,44,2,0.008,Secaucus town
+NJ,3440440,Lindenwold,incorporated,21,A,21641,"Lindenwold, NJ",0,45,2,0.008,Lindenwold borough
+NJ,3421300,Elmwood Park,incorporated,21,A,21422,"Elmwood Park, NJ",0,46,2,0.008,Elmwood Park borough
+NJ,3459640,Pleasantville,incorporated,25,A,20629,"Pleasantville, NJ",0,47,2,0.008,Pleasantville city
+NJ,3455770,Palisades Park,incorporated,21,A,20292,"Palisades Park, NJ",0,48,2,0.008,Palisades Park borough
+NJ,3448300,Morristown,incorporated,43,A,20180,"Morristown, NJ",0,49,2,0.008,Morristown town
+NJ,3430570,Hawthorne,incorporated,21,A,19637,"Hawthorne, NJ",0,50,2,0.008,Hawthorne borough
+NJ,3430210,Harrison,incorporated,43,A,19450,"Harrison, NJ",0,51,1,0.004,Harrison town
+NJ,3473020,Tinton Falls,incorporated,21,A,19181,"Tinton Falls, NJ",0,52,0,0,Tinton Falls borough
+NJ,3459880,Point Pleasant,incorporated,21,A,18941,"Point Pleasant, NJ",0,53,0,0,Point Pleasant borough
+NJ,3465280,Rutherford,incorporated,21,A,18834,"Rutherford, NJ",0,54,0,0,Rutherford borough
+NJ,3418070,Dover,incorporated,43,A,18460,"Dover, NJ",0,55,0,0,Dover town
+NJ,3418400,Dumont,incorporated,21,A,17863,"Dumont, NJ",0,56,0,0,Dumont borough
+NJ,3442510,Madison,incorporated,21,A,16937,"Madison, NJ",0,57,0,0,Madison borough
+NJ,3451660,New Milford,incorporated,21,A,16923,"New Milford, NJ",0,58,0,0,New Milford borough
+NJ,3452320,North Arlington,incorporated,21,A,16457,"North Arlington, NJ",0,59,0,0,North Arlington borough
+NJ,3469420,South River,incorporated,21,A,16118,"South River, NJ",0,60,0,0,South River borough
+NJ,3472420,Tenafly,incorporated,21,A,15409,"Tenafly, NJ",0,61,0,0,Tenafly borough
+NJ,3458350,Phillipsburg,incorporated,43,A,15249,"Phillipsburg, NJ",0,62,0,0,Phillipsburg town
+NJ,3401960,Asbury Park,incorporated,25,A,15188,"Asbury Park, NJ",0,63,0,0,Asbury Park city
+NJ,3431470,Highland Park,incorporated,21,A,15072,"Highland Park, NJ",0,64,0,0,Highland Park borough
+NJ,3445690,Metuchen,incorporated,21,A,15049,"Metuchen, NJ",0,65,0,0,Metuchen borough
+NJ,3422560,Fairview,incorporated,21,A,15025,"Fairview, NJ",0,66,0,0,Fairview borough
+NJ,3461680,Ramsey,incorporated,21,A,14798,"Ramsey, NJ",0,67,0,0,Ramsey borough
+NJ,3429430,Hammonton,incorporated,43,A,14711,"Hammonton, NJ",0,68,0,0,Hammonton town
+NJ,3445900,Middlesex,incorporated,21,A,14636,"Middlesex, NJ",0,69,0,0,Middlesex borough
+NJ,3432910,Hopatcong,incorporated,21,A,14362,"Hopatcong, NJ",0,70,0,0,Hopatcong borough
+NJ,3420020,Edgewater,incorporated,21,A,14336,"Edgewater, NJ",0,71,0,0,Edgewater borough
+NJ,3414260,Collingswood,incorporated,21,A,14186,"Collingswood, NJ",0,72,0,0,Collingswood borough
+NJ,3464650,Roselle Park,incorporated,21,A,13967,"Roselle Park, NJ",0,73,0,0,Roselle Park borough
+NJ,3451810,New Providence,incorporated,21,A,13650,"New Providence, NJ",0,74,0,0,New Providence borough
+NJ,3419840,Eatontown,incorporated,21,A,13597,"Eatontown, NJ",0,75,0,0,Eatontown borough
+NJ,3482423,Woodland Park,incorporated,21,A,13484,"Woodland Park, NJ",0,76,0,0,Woodland Park borough
+NJ,3462940,Ridgefield Park,incorporated,47,A,13224,"Ridgefield Park, NJ",0,77,0,0,Ridgefield Park village
+NJ,3462430,Red Bank,incorporated,21,A,12936,"Red Bank, NJ",0,78,0,0,Red Bank borough
+NJ,3453850,Oakland,incorporated,21,A,12748,"Oakland, NJ",0,79,0,0,Oakland borough
+NJ,3423910,Florham Park,incorporated,21,A,12585,"Florham Park, NJ",0,80,0,0,Florham Park borough
+NJ,3428770,Haddonfield,incorporated,21,A,12550,"Haddonfield, NJ",0,81,0,0,Haddonfield borough
+NJ,3425200,Freehold,incorporated,21,A,12538,"Freehold, NJ",0,82,0,0,Freehold borough
+NJ,3468460,Somerville,incorporated,21,A,12346,"Somerville, NJ",0,83,0,0,Somerville borough
+NJ,3426640,Glen Rock,incorporated,21,A,12133,"Glen Rock, NJ",0,84,0,0,Glen Rock borough
+NJ,3430420,Hasbrouck Heights,incorporated,21,A,12125,"Hasbrouck Heights, NJ",0,85,0,0,Hasbrouck Heights borough
+NJ,3463360,River Edge,incorporated,21,A,12049,"River Edge, NJ",0,86,0,0,River Edge borough
+NJ,3428650,Guttenberg,incorporated,43,A,12017,"Guttenberg, NJ",0,87,0,0,Guttenberg town
+NJ,3406790,Bound Brook,incorporated,21,A,11988,"Bound Brook, NJ",0,88,0,0,Bound Brook borough
+NJ,3476490,Wallington,incorporated,21,A,11868,"Wallington, NJ",0,89,0,0,Wallington borough
+NJ,3463150,Ringwood,incorporated,21,A,11735,"Ringwood, NJ",0,90,0,0,Ringwood borough
+NJ,3404750,Bellmawr,incorporated,21,A,11707,"Bellmawr, NJ",0,91,0,0,Bellmawr borough
+NJ,3462910,Ridgefield,incorporated,21,A,11501,"Ridgefield, NJ",0,92,0,0,Ridgefield borough
+NJ,3426820,Gloucester City,incorporated,25,A,11484,"Gloucester City, NJ",0,93,0,0,Gloucester City city
+NJ,3476730,Wanaque,incorporated,21,A,11317,"Wanaque, NJ",0,94,0,0,Wanaque borough
+NJ,3480270,Westwood,incorporated,21,A,11282,"Westwood, NJ",0,95,0,0,Westwood borough
+NJ,3454360,Ocean City,incorporated,25,A,11229,"Ocean City, NJ",0,96,0,0,Ocean City city
+NJ,3460090,Pompton Lakes,incorporated,21,A,11127,"Pompton Lakes, NJ",0,97,0,0,Pompton Lakes borough
+NJ,3424990,Franklin Lakes,incorporated,21,A,11079,"Franklin Lakes, NJ",0,98,0,0,Franklin Lakes borough
+NJ,3473140,Totowa,incorporated,21,A,11065,"Totowa, NJ",0,99,0,0,Totowa borough
+NJ,3440680,Little Ferry,incorporated,21,A,10987,"Little Ferry, NJ",0,100,0,0,Little Ferry borough
+NJ,3443620,Manville,incorporated,21,A,10953,"Manville, NJ",0,101,0,0,Manville borough
+NJ,3440290,Lincoln Park,incorporated,21,A,10915,"Lincoln Park, NJ",0,102,0,0,Lincoln Park borough
+NJ,3404180,Beachwood,incorporated,21,A,10859,"Beachwood, NJ",0,103,0,0,Beachwood borough
+NJ,3458770,Pine Hill,incorporated,21,A,10743,"Pine Hill, NJ",0,104,0,0,Pine Hill borough
+NJ,3468430,Somers Point,incorporated,25,A,10469,"Somers Point, NJ",0,105,0,0,Somers Point city
+NJ,3428710,Hackettstown,incorporated,43,A,10248,"Hackettstown, NJ",0,106,0,0,Hackettstown town
+NJ,3431920,Hillsdale,incorporated,21,A,10143,"Hillsdale, NJ",0,107,0,0,Hillsdale borough
+NJ,3482570,Wood-Ridge,incorporated,21,A,10137,"Wood-Ridge, NJ",0,108,0,0,Wood-Ridge borough
+NJ,3444880,Maywood,incorporated,21,A,10080,"Maywood, NJ",0,109,0,0,Maywood borough
+NJ,3476400,Waldwick,incorporated,21,A,10058,"Waldwick, NJ",0,110,0,0,Waldwick borough
+NJ,3419510,East Rutherford,incorporated,21,A,10022,"East Rutherford, NJ",0,111,0,0,East Rutherford borough
+NJ,3437110,Kinnelon,incorporated,21,A,9966,"Kinnelon, NJ",0,112,0,0,Kinnelon borough
+NJ,3482120,Woodbury,incorporated,25,A,9963,"Woodbury, NJ",0,113,0,0,Woodbury city
+NJ,3436480,Keansburg,incorporated,21,A,9755,"Keansburg, NJ",0,114,0,0,Keansburg borough
+NJ,3408920,Burlington,incorporated,25,A,9743,"Burlington, NJ",0,115,0,0,Burlington city
+NJ,3444520,Matawan,incorporated,21,A,9565,"Matawan, NJ",0,116,0,0,Matawan borough
+NJ,3468550,South Amboy,incorporated,25,A,9411,"South Amboy, NJ",0,117,0,0,South Amboy city
+NJ,3440020,Leonia,incorporated,21,A,9304,"Leonia, NJ",0,118,0,0,Leonia borough
+NJ,3412100,Chatham,incorporated,21,A,9212,"Chatham, NJ",0,119,0,0,Chatham borough
+NJ,3475620,Ventnor City,incorporated,25,A,9210,"Ventnor City, NJ",0,120,0,0,Ventnor City city
+NJ,3415820,Cresskill,incorporated,21,A,9155,"Cresskill, NJ",0,121,0,0,Cresskill borough
+NJ,3400100,Absecon,incorporated,25,A,9137,"Absecon, NJ",0,122,0,0,Absecon city
+NJ,3429070,Haledon,incorporated,21,A,9052,"Haledon, NJ",0,123,0,0,Haledon borough
+NJ,3409250,Caldwell,incorporated,21,A,9027,"Caldwell, NJ",0,124,0,0,Caldwell borough
+NJ,3453040,North Haledon,incorporated,21,A,8927,"North Haledon, NJ",0,125,0,0,North Haledon borough
+NJ,3456130,Park Ridge,incorporated,21,A,8883,"Park Ridge, NJ",0,126,0,0,Park Ridge borough
+NJ,3406610,Boonton,incorporated,43,A,8815,"Boonton, NJ",0,127,0,0,Boonton town
+NJ,3413360,Clayton,incorporated,21,A,8807,"Clayton, NJ",0,128,0,0,Clayton borough
+NJ,3459070,Pitman,incorporated,21,A,8780,"Pitman, NJ",0,129,0,0,Pitman borough
+NJ,3406490,Bogota,incorporated,21,A,8778,"Bogota, NJ",0,130,0,0,Bogota borough
+NJ,3402200,Audubon,incorporated,21,A,8707,"Audubon, NJ",0,131,0,0,Audubon borough
+NJ,3413810,Closter,incorporated,21,A,8594,"Closter, NJ",0,132,0,0,Closter borough
+NJ,3479310,West Long Branch,incorporated,21,A,8587,"West Long Branch, NJ",0,133,0,0,West Long Branch borough
+NJ,3447610,Montvale,incorporated,21,A,8436,"Montvale, NJ",0,134,0,0,Montvale borough
+NJ,3452950,Northfield,incorporated,25,A,8434,"Northfield, NJ",0,135,0,0,Northfield city
+NJ,3436690,Kenilworth,incorporated,21,A,8427,"Kenilworth, NJ",0,136,0,0,Kenilworth borough
+NJ,3451930,Newton,incorporated,43,A,8374,"Newton, NJ",0,137,0,0,Newton town
+NJ,3475140,Upper Saddle River,incorporated,21,A,8353,"Upper Saddle River, NJ",0,138,0,0,Upper Saddle River borough
+NJ,3465160,Runnemede,incorporated,21,A,8324,"Runnemede, NJ",0,139,0,0,Runnemede borough
+NJ,3454990,Oradell,incorporated,21,A,8244,"Oradell, NJ",0,140,0,0,Oradell borough
+NJ,3469810,Spotswood,incorporated,21,A,8163,"Spotswood, NJ",0,141,0,0,Spotswood borough
+NJ,3409040,Butler,incorporated,21,A,8047,"Butler, NJ",0,142,0,0,Butler borough
+NJ,3405590,Bernardsville,incorporated,21,A,7893,"Bernardsville, NJ",0,143,0,0,Bernardsville borough
+NJ,3461980,Raritan,incorporated,21,A,7835,"Raritan, NJ",0,144,0,0,Raritan borough
+NJ,3426610,Glen Ridge,incorporated,21,A,7802,"Glen Ridge, NJ",0,145,0,0,Glen Ridge borough
+NJ,3406340,Bloomingdale,incorporated,21,A,7777,"Bloomingdale, NJ",0,146,0,0,Bloomingdale borough
+NJ,3422860,Fanwood,incorporated,21,A,7774,"Fanwood, NJ",0,147,0,0,Fanwood borough
+NJ,3407810,Brigantine,incorporated,25,A,7716,"Brigantine, NJ",0,148,0,0,Brigantine city
+NJ,3418490,Dunellen,incorporated,21,A,7637,"Dunellen, NJ",0,149,0,0,Dunellen borough
+NJ,3428800,Haddon Heights,incorporated,21,A,7495,"Haddon Heights, NJ",0,150,0,0,Haddon Heights borough
+NJ,3405440,Berlin,incorporated,21,A,7489,"Berlin, NJ",0,151,0,0,Berlin borough
+NJ,3455800,Palmyra,incorporated,21,A,7438,"Palmyra, NJ",0,152,0,0,Palmyra borough
+NJ,3465130,Rumson,incorporated,21,A,7343,"Rumson, NJ",0,153,0,0,Rumson borough
+NJ,3477270,Washington,incorporated,21,A,7299,"Washington, NJ",0,154,0,0,Washington borough
+NJ,3421450,Emerson,incorporated,21,A,7290,"Emerson, NJ",0,155,0,0,Emerson borough
+NJ,3480390,Wharton,incorporated,21,A,7241,"Wharton, NJ",0,156,0,0,Wharton borough
+NJ,3436810,Keyport,incorporated,21,A,7204,"Keyport, NJ",0,157,0,0,Keyport borough
+NJ,3403250,Barrington,incorporated,21,A,7075,"Barrington, NJ",0,158,0,0,Barrington borough
+NJ,3446620,Milltown,incorporated,21,A,7037,"Milltown, NJ",0,159,0,0,Milltown borough
+NJ,3448510,Mountainside,incorporated,21,A,7020,"Mountainside, NJ",0,160,0,0,Mountainside borough
+NJ,3446110,Midland Park,incorporated,21,A,7014,"Midland Park, NJ",0,161,0,0,Midland Park borough
+NJ,3471220,Stratford,incorporated,21,A,6981,"Stratford, NJ",0,162,0,0,Stratford borough
+NJ,3440530,Linwood,incorporated,25,A,6971,"Linwood, NJ",0,163,0,0,Linwood city
+NJ,3400700,Allendale,incorporated,21,A,6848,"Allendale, NJ",0,164,0,0,Allendale borough
+NJ,3452620,North Caldwell,incorporated,21,A,6694,"North Caldwell, NJ",0,165,0,0,North Caldwell borough
+NJ,3464050,Rockaway,incorporated,21,A,6598,"Rockaway, NJ",0,166,0,0,Rockaway borough
+NJ,3477600,Watchung,incorporated,21,A,6449,"Watchung, NJ",0,167,0,0,Watchung borough
+NJ,3410480,Carlstadt,incorporated,21,A,6372,"Carlstadt, NJ",0,168,0,0,Carlstadt borough
+NJ,3461170,Prospect Park,incorporated,21,A,6372,"Prospect Park, NJ",0,169,0,0,Prospect Park borough
+NJ,3464590,Roseland,incorporated,21,A,6299,"Roseland, NJ",0,170,0,0,Roseland borough
+NJ,3422440,Fair Haven,incorporated,21,A,6269,"Fair Haven, NJ",0,171,0,0,Fair Haven borough
+NJ,3457150,Paulsboro,incorporated,21,A,6196,"Paulsboro, NJ",0,172,0,0,Paulsboro borough
+NJ,3448210,Morris Plains,incorporated,21,A,6153,"Morris Plains, NJ",0,173,0,0,Morris Plains borough
+NJ,3454570,Oceanport,incorporated,21,A,6150,"Oceanport, NJ",0,174,0,0,Oceanport borough
+NJ,3440770,Little Silver,incorporated,21,A,6131,"Little Silver, NJ",0,175,0,0,Little Silver borough
+NJ,3482300,Woodcliff Lake,incorporated,21,A,6128,"Woodcliff Lake, NJ",0,176,0,0,Woodcliff Lake borough
+NJ,3443050,Manasquan,incorporated,21,A,5938,"Manasquan, NJ",0,177,0,0,Manasquan borough
+NJ,3448690,Mount Arlington,incorporated,21,A,5909,"Mount Arlington, NJ",0,178,0,0,Mount Arlington borough
+NJ,3404930,Belmar,incorporated,21,A,5907,"Belmar, NJ",0,179,0,0,Belmar borough
+NJ,3431620,Hightstown,incorporated,21,A,5900,"Hightstown, NJ",0,180,0,0,Hightstown borough
+NJ,3454870,Old Tappan,incorporated,21,A,5888,"Old Tappan, NJ",0,181,0,0,Old Tappan borough
+NJ,3434890,Jamesburg,incorporated,21,A,5783,"Jamesburg, NJ",0,182,0,0,Jamesburg borough
+NJ,3474540,Union Beach,incorporated,21,A,5723,"Union Beach, NJ",0,183,0,0,Union Beach borough
+NJ,3453610,Norwood,incorporated,21,A,5641,"Norwood, NJ",0,184,0,0,Norwood borough
+NJ,3468340,Somerdale,incorporated,21,A,5566,"Somerdale, NJ",0,185,0,0,Somerdale borough
+NJ,3421510,Englewood Cliffs,incorporated,21,A,5342,"Englewood Cliffs, NJ",0,186,0,0,Englewood Cliffs borough
+NJ,3413420,Clementon,incorporated,21,A,5338,"Clementon, NJ",0,187,0,0,Clementon borough
+NJ,3443890,Margate City,incorporated,25,A,5317,"Margate City, NJ",0,188,0,0,Margate City city
+NJ,3465490,Salem,incorporated,25,A,5296,"Salem, NJ",0,189,0,0,Salem city
+NJ,3481170,Wildwood,incorporated,25,A,5157,"Wildwood, NJ",0,190,0,0,Wildwood city
+NJ,3407750,Brielle,incorporated,21,A,4982,"Brielle, NJ",0,191,0,0,Brielle borough
+NJ,3417530,Demarest,incorporated,21,A,4981,"Demarest, NJ",0,192,0,0,Demarest borough
+NJ,3445330,Mendham,incorporated,21,A,4981,"Mendham, NJ",0,193,0,0,Mendham borough
+NJ,3424930,Franklin,incorporated,21,A,4912,"Franklin, NJ",0,194,0,0,Franklin borough
+NJ,3470140,Spring Lake Heights,incorporated,21,A,4890,"Spring Lake Heights, NJ",0,195,0,0,Spring Lake Heights borough
+NJ,3423700,Flemington,incorporated,21,A,4876,"Flemington, NJ",0,196,0,0,Flemington borough
+NJ,3468730,South Bound Brook,incorporated,21,A,4863,"South Bound Brook, NJ",0,197,0,0,South Bound Brook borough
+NJ,3457750,Penns Grove,incorporated,21,A,4837,"Penns Grove, NJ",0,198,0,0,Penns Grove borough
+NJ,3459910,Point Pleasant Beach,incorporated,21,A,4766,"Point Pleasant Beach, NJ",0,199,0,0,Point Pleasant Beach borough
+NJ,3453430,Northvale,incorporated,21,A,4761,"Northvale, NJ",0,200,0,0,Northvale borough
+NJ,3430150,Harrington Park,incorporated,21,A,4741,"Harrington Park, NJ",0,201,0,0,Harrington Park borough
+NJ,3448750,Mount Ephraim,incorporated,21,A,4651,"Mount Ephraim, NJ",0,202,0,0,Mount Ephraim borough
+NJ,3449920,Neptune City,incorporated,21,A,4626,"Neptune City, NJ",0,203,0,0,Neptune City borough
+NJ,3431500,Highlands,incorporated,21,A,4621,"Highlands, NJ",0,204,0,0,Highlands borough
+NJ,3408680,Buena,incorporated,21,A,4501,"Buena, NJ",0,205,0,0,Buena borough
+NJ,3448480,Mountain Lakes,incorporated,21,A,4472,"Mountain Lakes, NJ",0,206,0,0,Mountain Lakes borough
+NJ,3425800,Garwood,incorporated,21,A,4454,"Garwood, NJ",0,207,0,0,Garwood borough
+NJ,3402110,Atlantic Highlands,incorporated,21,A,4414,"Atlantic Highlands, NJ",0,208,0,0,Atlantic Highlands borough
+NJ,3420350,Egg Harbor City,incorporated,25,A,4396,"Egg Harbor City, NJ",0,209,0,0,Egg Harbor City city
+NJ,3442630,Magnolia,incorporated,21,A,4352,"Magnolia, NJ",0,210,0,0,Magnolia borough
+NJ,3406970,Bradley Beach,incorporated,21,A,4282,"Bradley Beach, NJ",0,211,0,0,Bradley Beach borough
+NJ,3445210,Medford Lakes,incorporated,21,A,4264,"Medford Lakes, NJ",0,212,0,0,Medford Lakes borough
+NJ,3480120,Westville,incorporated,21,A,4264,"Westville, NJ",0,213,0,0,Westville borough
+NJ,3432310,Ho-Ho-Kus,incorporated,21,A,4258,"Ho-Ho-Kus, NJ",0,214,0,0,Ho-Ho-Kus borough
+NJ,3467350,Shrewsbury,incorporated,21,A,4184,"Shrewsbury, NJ",0,215,0,0,Shrewsbury borough
+NJ,3438610,Lambertville,incorporated,25,A,4139,"Lambertville, NJ",0,216,0,0,Lambertville city
+NJ,3463300,Riverdale,incorporated,21,A,4107,"Riverdale, NJ",0,217,0,0,Riverdale borough
+NJ,3406670,Bordentown,incorporated,25,A,3993,"Bordentown, NJ",0,218,0,0,Bordentown city
+NJ,3453880,Oaklyn,incorporated,21,A,3930,"Oaklyn, NJ",0,219,0,0,Oaklyn borough
+NJ,3445510,Merchantville,incorporated,21,A,3820,"Merchantville, NJ",0,220,0,0,Merchantville borough
+NJ,3482720,Woodstown,incorporated,21,A,3678,"Woodstown, NJ",0,221,0,0,Woodstown borough
+NJ,3469510,South Toms River,incorporated,21,A,3643,"South Toms River, NJ",0,222,0,0,South Toms River borough
+NJ,3453490,North Wildwood,incorporated,25,A,3621,"North Wildwood, NJ",0,223,0,0,North Wildwood city
+NJ,3474210,Tuckerton,incorporated,21,A,3577,"Tuckerton, NJ",0,224,0,0,Tuckerton borough
+NJ,3431320,High Bridge,incorporated,21,A,3546,"High Bridge, NJ",0,225,0,0,High Bridge borough
+NJ,3470380,Stanhope,incorporated,21,A,3526,"Stanhope, NJ",0,226,0,0,Stanhope borough
+NJ,3450130,Netcong,incorporated,21,A,3375,"Netcong, NJ",0,227,0,0,Netcong borough
+NJ,3465400,Saddle River,incorporated,21,A,3372,"Saddle River, NJ",0,228,0,0,Saddle River borough
+NJ,3430540,Haworth,incorporated,21,A,3343,"Haworth, NJ",0,229,0,0,Haworth borough
+NJ,3429220,Hamburg,incorporated,21,A,3266,"Hamburg, NJ",0,230,0,0,Hamburg borough
+NJ,3447130,Monmouth Beach,incorporated,21,A,3174,"Monmouth Beach, NJ",0,231,0,0,Monmouth Beach borough
+NJ,3447700,Moonachie,incorporated,21,A,3133,"Moonachie, NJ",0,232,0,0,Moonachie borough
+NJ,3481200,Wildwood Crest,incorporated,21,A,3101,"Wildwood Crest, NJ",0,233,0,0,Wildwood Crest borough
+NJ,3482180,Woodbury Heights,incorporated,21,A,3098,"Woodbury Heights, NJ",0,234,0,0,Woodbury Heights borough
+NJ,3449680,National Park,incorporated,21,A,3026,"National Park, NJ",0,235,0,0,National Park borough
+NJ,3439420,Lawnside,incorporated,21,A,2955,"Lawnside, NJ",0,236,0,0,Lawnside borough
+NJ,3482450,Woodlynne,incorporated,21,A,2902,"Woodlynne, NJ",0,237,0,0,Woodlynne borough
+NJ,3457600,Pennington,incorporated,21,A,2802,"Pennington, NJ",0,238,0,0,Pennington borough
+NJ,3470110,Spring Lake,incorporated,21,A,2789,"Spring Lake, NJ",0,239,0,0,Spring Lake borough
+NJ,3413720,Clinton,incorporated,43,A,2773,"Clinton, NJ",0,240,0,0,Clinton town
+NJ,3410270,Cape May,incorporated,25,A,2768,"Cape May, NJ",0,241,0,0,Cape May city
+NJ,3463660,Riverton,incorporated,21,A,2764,"Riverton, NJ",0,242,0,0,Riverton borough
+NJ,3471850,Swedesboro,incorporated,21,A,2711,"Swedesboro, NJ",0,243,0,0,Swedesboro borough
+NJ,3437770,Lakehurst,incorporated,21,A,2636,"Lakehurst, NJ",0,244,0,0,Lakehurst borough
+NJ,3419360,East Newark,incorporated,21,A,2594,"East Newark, NJ",0,245,0,0,East Newark borough
+NJ,3457300,Peapack and Gladstone,incorporated,21,A,2558,"Peapack and Gladstone, NJ",0,246,0,0,Peapack and Gladstone borough
+NJ,3404990,Belvidere,incorporated,43,A,2520,"Belvidere, NJ",0,247,0,0,Belvidere town
+NJ,3405740,Beverly,incorporated,25,A,2499,"Beverly, NJ",0,248,0,0,Beverly city
+NJ,3430840,Helmetta,incorporated,21,A,2455,"Helmetta, NJ",0,249,0,0,Helmetta borough
+NJ,3466450,Seaside Heights,incorporated,21,A,2440,"Seaside Heights, NJ",0,250,0,0,Seaside Heights borough
+NJ,3421570,Englishtown,incorporated,21,A,2346,"Englishtown, NJ",0,251,0,0,Englishtown borough
+NJ,3401030,Alpha,incorporated,21,A,2328,"Alpha, NJ",0,252,0,0,Alpha borough
+NJ,3478110,Wenonah,incorporated,21,A,2283,"Wenonah, NJ",0,253,0,0,Wenonah borough
+NJ,3454660,Ogdensburg,incorporated,21,A,2258,"Ogdensburg, NJ",0,254,0,0,Ogdensburg borough
+NJ,3421840,Essex Fells,incorporated,21,A,2244,"Essex Fells, NJ",0,255,0,0,Essex Fells borough
+NJ,3426070,Gibbsboro,incorporated,21,A,2189,"Gibbsboro, NJ",0,256,0,0,Gibbsboro borough
+NJ,3458590,Pine Beach,incorporated,21,A,2139,"Pine Beach, NJ",0,257,0,0,Pine Beach borough
+NJ,3481890,Woodbine,incorporated,21,A,2128,"Woodbine, NJ",0,258,0,0,Woodbine borough
+NJ,3466390,Sea Isle City,incorporated,25,A,2104,"Sea Isle City, NJ",0,259,0,0,Sea Isle City city
+NJ,3471670,Sussex,incorporated,21,A,2024,"Sussex, NJ",0,260,0,0,Sussex borough
+NJ,3439210,Laurel Springs,incorporated,21,A,1978,"Laurel Springs, NJ",0,261,0,0,Laurel Springs borough
+NJ,3402440,Avon-by-the-Sea,incorporated,21,A,1933,"Avon-by-the-Sea, NJ",0,262,0,0,Avon-by-the-Sea borough
+NJ,3454450,Ocean Gate,incorporated,21,A,1932,"Ocean Gate, NJ",0,263,0,0,Ocean Gate borough
+NJ,3433150,Hopewell,incorporated,21,A,1918,"Hopewell, NJ",0,264,0,0,Hopewell borough
+NJ,3466330,Sea Girt,incorporated,21,A,1866,"Sea Girt, NJ",0,265,0,0,Sea Girt borough
+NJ,3408170,Brooklawn,incorporated,21,A,1815,"Brooklawn, NJ",0,266,0,0,Brooklawn borough
+NJ,3423940,Folsom,incorporated,21,A,1811,"Folsom, NJ",0,267,0,0,Folsom borough
+NJ,3439390,Lavallette,incorporated,21,A,1787,"Lavallette, NJ",0,268,0,0,Lavallette borough
+NJ,3451390,Newfield,incorporated,21,A,1774,"Newfield, NJ",0,269,0,0,Newfield borough
+NJ,3401090,Alpine,incorporated,21,A,1762,"Alpine, NJ",0,270,0,0,Alpine borough
+NJ,3400760,Allentown,incorporated,21,A,1734,"Allentown, NJ",0,271,0,0,Allentown borough
+NJ,3437560,Lake Como,incorporated,21,A,1697,"Lake Como, NJ",0,272,0,0,Lake Como borough
+NJ,3426550,Glen Gardner,incorporated,21,A,1682,"Glen Gardner, NJ",0,273,0,0,Glen Gardner borough
+NJ,3412580,Chester,incorporated,21,A,1681,"Chester, NJ",0,274,0,0,Chester borough
+NJ,3421870,Estell Manor,incorporated,25,A,1668,"Estell Manor, NJ",0,275,0,0,Estell Manor city
+NJ,3439630,Lebanon,incorporated,21,A,1665,"Lebanon, NJ",0,276,0,0,Lebanon borough
+NJ,3434530,Island Heights,incorporated,21,A,1650,"Island Heights, NJ",0,277,0,0,Island Heights borough
+NJ,3475890,Victory Gardens,incorporated,21,A,1582,"Victory Gardens, NJ",0,278,0,0,Victory Gardens borough
+NJ,3412550,Chesilhurst,incorporated,21,A,1536,"Chesilhurst, NJ",0,279,0,0,Chesilhurst borough
+NJ,3422950,Farmingdale,incorporated,21,A,1504,"Farmingdale, NJ",0,280,0,0,Farmingdale borough
+NJ,3466240,Sea Bright,incorporated,21,A,1449,"Sea Bright, NJ",0,281,0,0,Sea Bright borough
+NJ,3429460,Hampton,incorporated,21,A,1438,"Hampton, NJ",0,282,0,0,Hampton borough
+NJ,3466480,Seaside Park,incorporated,21,A,1436,"Seaside Park, NJ",0,283,0,0,Seaside Park borough
+NJ,3457480,Pemberton,incorporated,21,A,1371,"Pemberton, NJ",0,284,0,0,Pemberton borough
+NJ,3425350,Frenchtown,incorporated,21,A,1370,"Frenchtown, NJ",0,285,0,0,Frenchtown borough
+NJ,3421240,Elmer,incorporated,21,A,1347,"Elmer, NJ",0,286,0,0,Elmer borough
+NJ,3402320,Avalon,incorporated,21,A,1243,"Avalon, NJ",0,287,0,0,Avalon borough
+NJ,3471640,Surf City,incorporated,21,A,1243,"Surf City, NJ",0,288,0,0,Surf City borough
+NJ,3446260,Milford,incorporated,21,A,1232,"Milford, NJ",0,289,0,0,Milford borough
+NJ,3460600,Port Republic,incorporated,25,A,1101,"Port Republic, NJ",0,290,0,0,Port Republic city
+NJ,3467110,Ship Bottom,incorporated,21,A,1098,"Ship Bottom, NJ",0,291,0,0,Ship Bottom borough
+NJ,3403940,Beach Haven,incorporated,21,A,1027,"Beach Haven, NJ",0,292,0,0,Beach Haven borough
+NJ,3478530,West Cape May,incorporated,21,A,1010,"West Cape May, NJ",0,293,0,0,West Cape May borough
+NJ,3409280,Califon,incorporated,21,A,1005,"Califon, NJ",0,294,0,0,Califon borough
+NJ,3402230,Audubon Park,incorporated,21,A,991,"Audubon Park, NJ",0,295,0,0,Audubon Park borough
+NJ,3403520,Bay Head,incorporated,21,A,930,"Bay Head, NJ",0,296,0,0,Bay Head borough
+NJ,3432220,Hi-Nella,incorporated,21,A,927,"Hi-Nella, NJ",0,297,0,0,Hi-Nella borough
+NJ,3422890,Far Hills,incorporated,21,A,924,"Far Hills, NJ",0,298,0,0,Far Hills borough
+NJ,3416660,Deal,incorporated,21,A,900,"Deal, NJ",0,299,0,0,Deal borough
+NJ,3441370,Longport,incorporated,21,A,893,"Longport, NJ",0,300,0,0,Longport borough
+NJ,3434200,Interlaken,incorporated,21,A,828,"Interlaken, NJ",0,301,0,0,Interlaken borough
+NJ,3464410,Roosevelt,incorporated,21,A,808,"Roosevelt, NJ",0,302,0,0,Roosevelt borough
+NJ,3471010,Stone Harbor,incorporated,21,A,796,"Stone Harbor, NJ",0,303,0,0,Stone Harbor borough
+NJ,3406370,Bloomsbury,incorporated,21,A,792,"Bloomsbury, NJ",0,304,0,0,Bloomsbury borough
+NJ,3407300,Branchville,incorporated,21,A,791,"Branchville, NJ",0,305,0,0,Branchville borough
+NJ,3464320,Rocky Hill,incorporated,21,A,743,"Rocky Hill, NJ",0,306,0,0,Rocky Hill borough
+NJ,3482960,Wrightstown,incorporated,21,A,720,"Wrightstown, NJ",0,307,0,0,Wrightstown borough
+NJ,3403130,Barnegat Light,incorporated,21,A,640,"Barnegat Light, NJ",0,308,0,0,Barnegat Light borough
+NJ,3401330,Andover,incorporated,21,A,595,"Andover, NJ",0,309,0,0,Andover borough
+NJ,3480210,West Wildwood,incorporated,21,A,540,"West Wildwood, NJ",0,310,0,0,West Wildwood borough
+NJ,3423250,Fieldsboro,incorporated,21,A,526,"Fieldsboro, NJ",0,311,0,0,Fieldsboro borough
+NJ,3470980,Stockton,incorporated,21,A,495,"Stockton, NJ",0,312,0,0,Stockton borough
+NJ,3400730,Allenhurst,incorporated,21,A,472,"Allenhurst, NJ",0,313,0,0,Allenhurst borough
+NJ,3415160,Corbin City,incorporated,25,A,471,"Corbin City, NJ",0,314,0,0,Corbin City city
+NJ,3446590,Millstone,incorporated,21,A,448,"Millstone, NJ",0,315,0,0,Millstone borough
+NJ,3467020,Shiloh,incorporated,21,A,444,"Shiloh, NJ",0,316,0,0,Shiloh borough
+NJ,3464170,Rockleigh,incorporated,21,A,407,"Rockleigh, NJ",0,317,0,0,Rockleigh borough
+NJ,3430390,Harvey Cedars,incorporated,21,A,391,"Harvey Cedars, NJ",0,318,0,0,Harvey Cedars borough
+NJ,3443380,Mantoloking,incorporated,21,A,331,"Mantoloking, NJ",0,319,0,0,Mantoloking borough
+NJ,3410330,Cape May Point,incorporated,21,A,305,"Cape May Point, NJ",0,320,0,0,Cape May Point borough
+NJ,3441010,Loch Arbour,incorporated,47,A,224,"Loch Arbour, NJ",0,321,0,0,Loch Arbour village
+NJ,3472480,Teterboro,incorporated,21,A,61,"Teterboro, NJ",0,322,0,0,Teterboro borough
+NJ,3472240,Tavistock,incorporated,21,A,9,"Tavistock, NJ",0,323,0,0,Tavistock borough

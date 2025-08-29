@@ -1,0 +1,311 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+SD,4659020,Sioux Falls,incorporated,25,A,192517,"Sioux Falls, SD",0,1,69,0.276,Sioux Falls city
+SD,4652980,Rapid City,incorporated,25,A,74703,"Rapid City, SD",0,2,30,0.12,Rapid City city
+SD,4600100,Aberdeen,incorporated,25,A,28495,"Aberdeen, SD",0,3,17,0.068,Aberdeen city
+SD,4607580,Brookings,incorporated,25,A,23377,"Brookings, SD",0,4,12,0.048,Brookings city
+SD,4669300,Watertown,incorporated,25,A,22655,"Watertown, SD",0,5,9,0.036,Watertown city
+SD,4643100,Mitchell,incorporated,25,A,15660,"Mitchell, SD",0,6,7,0.028,Mitchell city
+SD,4673060,Yankton,incorporated,25,A,15411,"Yankton, SD",0,7,7,0.028,Yankton city
+SD,4631060,Huron,incorporated,25,A,14263,"Huron, SD",0,8,5,0.02,Huron city
+SD,4649600,Pierre,incorporated,25,A,14091,"Pierre, SD",0,9,8,0.032,Pierre city
+SD,4660020,Spearfish,incorporated,25,A,12193,"Spearfish, SD",0,10,5,0.02,Spearfish city
+SD,4606620,Box Elder,incorporated,25,A,11746,"Box Elder, SD",0,11,3,0.012,Box Elder city
+SD,4666700,Vermillion,incorporated,25,A,11695,"Vermillion, SD",0,12,3,0.012,Vermillion city
+SD,4606840,Brandon,incorporated,25,A,11048,"Brandon, SD",0,13,4,0.016,Brandon city
+SD,4662100,Sturgis,incorporated,25,A,7020,"Sturgis, SD",0,14,3,0.012,Sturgis city
+SD,4627260,Harrisburg,incorporated,25,A,6732,"Harrisburg, SD",0,15,2,0.008,Harrisburg city
+SD,4640220,Madison,incorporated,25,A,6191,"Madison, SD",0,16,2,0.008,Madison city
+SD,4604380,Belle Fourche,incorporated,25,A,5617,"Belle Fourche, SD",0,17,3,0.012,Belle Fourche city
+SD,4663100,Tea,incorporated,25,A,5598,"Tea, SD",0,18,3,0.012,Tea city
+SD,4615980,Dell Rapids,incorporated,25,A,3996,"Dell Rapids, SD",0,19,3,0.012,Dell Rapids city
+SD,4642260,Milbank,incorporated,25,A,3544,"Milbank, SD",0,20,3,0.012,Milbank city
+SD,4630220,Hot Springs,incorporated,25,A,3395,"Hot Springs, SD",0,21,3,0.012,Hot Springs city
+SD,4627540,Hartford,incorporated,25,A,3354,"Hartford, SD",0,22,1,0.004,Hartford city
+SD,4643180,Mobridge,incorporated,25,A,3261,"Mobridge, SD",0,23,1,0.004,Mobridge city
+SD,4609500,Canton,incorporated,25,A,3066,"Canton, SD",0,24,1,0.004,Canton city
+SD,4645700,North Sioux City,incorporated,25,A,3042,"North Sioux City, SD",0,25,1,0.004,North Sioux City city
+SD,4636220,Lead,incorporated,25,A,2982,"Lead, SD",0,26,1,0.004,Lead city
+SD,4662155,Summerset,incorporated,25,A,2972,"Summerset, SD",0,27,1,0.004,Summerset city
+SD,4672180,Winner,incorporated,25,A,2921,"Winner, SD",0,28,1,0.004,Winner city
+SD,4659260,Sisseton,incorporated,25,A,2479,"Sisseton, SD",0,29,1,0.004,Sisseton city
+SD,4611220,Chamberlain,incorporated,25,A,2473,"Chamberlain, SD",0,30,2,0.008,Chamberlain city
+SD,4636380,Lennox,incorporated,25,A,2423,"Lennox, SD",0,31,2,0.008,Lennox city
+SD,4621540,Flandreau,incorporated,25,A,2372,"Flandreau, SD",0,32,2,0.008,Flandreau city
+SD,4653460,Redfield,incorporated,25,A,2214,"Redfield, SD",0,33,2,0.008,Redfield city
+SD,4604980,Beresford,incorporated,25,A,2180,"Beresford, SD",0,34,2,0.008,Beresford city
+SD,4618620,Elk Point,incorporated,25,A,2149,"Elk Point, SD",0,35,2,0.008,Elk Point city
+SD,4622260,Fort Pierre,incorporated,25,A,2115,"Fort Pierre, SD",0,36,1,0.004,Fort Pierre city
+SD,4667700,Volga,incorporated,25,A,2113,"Volga, SD",0,37,2,0.008,Volga city
+SD,4615140,Custer,incorporated,25,A,1919,"Custer, SD",0,38,2,0.008,Custer city
+SD,4660660,Springfield,incorporated,25,A,1914,"Springfield, SD",0,39,2,0.008,Springfield city
+SD,4669780,Webster,incorporated,25,A,1728,"Webster, SD",0,40,2,0.008,Webster city
+SD,4648460,Parkston,incorporated,25,A,1567,"Parkston, SD",0,41,2,0.008,Parkston city
+SD,4668020,Wagner,incorporated,25,A,1490,"Wagner, SD",0,42,2,0.008,Wagner city
+SD,4626340,Groton,incorporated,25,A,1380,"Groton, SD",0,43,2,0.008,Groton city
+SD,4614740,Crooks,incorporated,25,A,1362,"Crooks, SD",0,44,2,0.008,Crooks city
+SD,4642460,Miller,incorporated,25,A,1349,"Miller, SD",0,45,2,0.008,Miller city
+SD,4623020,Freeman,incorporated,25,A,1329,"Freeman, SD",0,46,2,0.008,Freeman city
+SD,4657340,Salem,incorporated,25,A,1325,"Salem, SD",0,47,2,0.008,Salem city
+SD,4650260,Platte,incorporated,25,A,1296,"Platte, SD",0,48,2,0.008,Platte city
+SD,4617620,Eagle Butte,incorporated,25,A,1258,"Eagle Butte, SD",0,49,2,0.008,Eagle Butte city
+SD,4603380,Baltic,incorporated,25,A,1246,"Baltic, SD",0,50,2,0.008,Baltic city
+SD,4623820,Garretson,incorporated,25,A,1228,"Garretson, SD",0,51,0,0,Garretson city
+SD,4626180,Gregory,incorporated,25,A,1221,"Gregory, SD",0,52,0,0,Gregory city
+SD,4612540,Clear Lake,incorporated,25,A,1218,"Clear Lake, SD",0,53,0,0,Clear Lake city
+SD,4607380,Britton,incorporated,25,A,1215,"Britton, SD",0,54,0,0,Britton city
+SD,4648380,Parker,incorporated,25,A,1194,"Parker, SD",0,55,0,0,Parker city
+SD,4636340,Lemmon,incorporated,25,A,1160,"Lemmon, SD",0,56,0,0,Lemmon city
+SD,4615700,Deadwood,incorporated,25,A,1156,"Deadwood, SD",0,57,0,0,Deadwood city
+SD,4642940,Mission,incorporated,25,A,1156,"Mission, SD",0,58,0,0,Mission city
+SD,4612180,Clark,incorporated,25,A,1148,"Clark, SD",0,59,0,0,Clark city
+SD,4624260,Gettysburg,incorporated,25,A,1104,"Gettysburg, SD",0,60,0,0,Gettysburg city
+SD,4664860,Tyndall,incorporated,25,A,1057,"Tyndall, SD",0,61,0,0,Tyndall city
+SD,4616260,De Smet,incorporated,25,A,1056,"De Smet, SD",0,62,0,0,De Smet city
+SD,4602780,Aurora,incorporated,43,A,1047,"Aurora, SD",0,63,0,0,Aurora town
+SD,4649500,Piedmont,incorporated,25,A,971,"Piedmont, SD",0,64,0,0,Piedmont city
+SD,4641100,Martin,incorporated,25,A,938,"Martin, SD",0,65,0,0,Martin city
+SD,4631860,Ipswich,incorporated,25,A,928,"Ipswich, SD",0,66,0,0,Ipswich city
+SD,4672820,Worthing,incorporated,25,A,927,"Worthing, SD",0,67,0,0,Worthing city
+SD,4611060,Centerville,incorporated,25,A,918,"Centerville, SD",0,68,0,0,Centerville city
+SD,4602180,Arlington,incorporated,25,A,915,"Arlington, SD",0,69,0,0,Arlington city
+SD,4666260,Valley Springs,incorporated,25,A,885,"Valley Springs, SD",0,70,0,0,Valley Springs city
+SD,4671580,Whitewood,incorporated,25,A,879,"Whitewood, SD",0,71,0,0,Whitewood city
+SD,4629100,Hill City,incorporated,25,A,872,"Hill City, SD",0,72,0,0,Hill City city
+SD,4640860,Marion,incorporated,25,A,849,"Marion, SD",0,73,0,0,Marion city
+SD,4630460,Howard,incorporated,25,A,848,"Howard, SD",0,74,0,0,Howard city
+SD,4621260,Faulkton,incorporated,25,A,826,"Faulkton, SD",0,75,0,0,Faulkton city
+SD,4600700,Alcester,incorporated,25,A,820,"Alcester, SD",0,76,0,0,Alcester city
+SD,4667020,Viborg,incorporated,25,A,814,"Viborg, SD",0,77,0,0,Viborg city
+SD,4620180,Eureka,incorporated,25,A,813,"Eureka, SD",0,78,0,0,Eureka city
+SD,4657940,Scotland,incorporated,25,A,785,"Scotland, SD",0,79,0,0,Scotland city
+SD,4650020,Plankinton,incorporated,25,A,781,"Plankinton, SD",0,80,0,0,Plankinton city
+SD,4670220,Wessington Springs,incorporated,25,A,771,"Wessington Springs, SD",0,81,0,0,Wessington Springs city
+SD,4649300,Philip,incorporated,25,A,759,"Philip, SD",0,82,0,0,Philip city
+SD,4618700,Elkton,incorporated,25,A,755,"Elkton, SD",0,83,0,0,Elkton city
+SD,4619980,Estelline,incorporated,25,A,749,"Estelline, SD",0,84,0,0,Estelline city
+SD,4613380,Colton,incorporated,25,A,738,"Colton, SD",0,85,0,0,Colton city
+SD,4618300,Edgemont,incorporated,25,A,725,"Edgemont, SD",0,86,0,0,Edgemont city
+SD,4635100,Lake Andes,incorporated,25,A,710,"Lake Andes, SD",0,87,0,0,Lake Andes city
+SD,4668380,Wall,incorporated,43,A,699,"Wall, SD",0,88,0,0,Wall town
+SD,4602260,Armour,incorporated,25,A,698,"Armour, SD",0,89,0,0,Armour city
+SD,4610500,Castlewood,incorporated,25,A,698,"Castlewood, SD",0,90,0,0,Castlewood city
+SD,4628980,Highmore,incorporated,25,A,682,"Highmore, SD",0,91,0,0,Highmore city
+SD,4647180,Onida,incorporated,25,A,666,"Onida, SD",0,92,0,0,Onida city
+SD,4600820,Alexandria,incorporated,25,A,649,"Alexandria, SD",0,93,0,0,Alexandria city
+SD,4613220,Colman,incorporated,25,A,634,"Colman, SD",0,94,0,0,Colman city
+SD,4609300,Canistota,incorporated,25,A,631,"Canistota, SD",0,95,0,0,Canistota city
+SD,4672700,Woonsocket,incorporated,25,A,631,"Woonsocket, SD",0,96,0,0,Woonsocket city
+SD,4641980,Menno,incorporated,25,A,614,"Menno, SD",0,97,0,0,Menno city
+SD,4658140,Selby,incorporated,25,A,610,"Selby, SD",0,98,0,0,Selby city
+SD,4645060,New Underwood,incorporated,25,A,590,"New Underwood, SD",0,99,0,0,New Underwood city
+SD,4635500,Lake Preston,incorporated,25,A,589,"Lake Preston, SD",0,100,0,0,Lake Preston city
+SD,4602900,Avon,incorporated,25,A,586,"Avon, SD",0,101,0,0,Avon city
+SD,4644860,Newell,incorporated,25,A,584,"Newell, SD",0,102,0,0,Newell city
+SD,4630900,Humboldt,incorporated,43,A,579,"Humboldt, SD",0,103,0,0,Humboldt town
+SD,4608700,Burke,incorporated,25,A,575,"Burke, SD",0,104,0,0,Burke city
+SD,4664020,Tripp,incorporated,25,A,575,"Tripp, SD",0,105,0,0,Tripp city
+SD,4633980,Kimball,incorporated,25,A,572,"Kimball, SD",0,106,0,0,Kimball city
+SD,4640020,McLaughlin,incorporated,25,A,569,"McLaughlin, SD",0,107,0,0,McLaughlin city
+SD,4613980,Corsica,incorporated,25,A,561,"Corsica, SD",0,108,0,0,Corsica city
+SD,4635460,Lake Norden,incorporated,25,A,554,"Lake Norden, SD",0,109,0,0,Lake Norden city
+SD,4633180,Kadoka,incorporated,25,A,543,"Kadoka, SD",0,110,0,0,Kadoka city
+SD,4670940,White,incorporated,25,A,537,"White, SD",0,111,0,0,White city
+SD,4671340,White River,incorporated,25,A,533,"White River, SD",0,112,0,0,White River city
+SD,4607180,Bridgewater,incorporated,25,A,511,"Bridgewater, SD",0,113,0,0,Bridgewater city
+SD,4663620,Timber Lake,incorporated,25,A,509,"Timber Lake, SD",0,114,0,0,Timber Lake city
+SD,4617420,Dupree,incorporated,25,A,494,"Dupree, SD",0,115,0,0,Dupree city
+SD,4668740,Warner,incorporated,43,A,485,"Warner, SD",0,116,0,0,Warner town
+SD,4619420,Emery,incorporated,25,A,484,"Emery, SD",0,117,0,0,Emery city
+SD,4632700,Jefferson,incorporated,25,A,475,"Jefferson, SD",0,118,0,0,Jefferson city
+SD,4644260,Murdo,incorporated,25,A,475,"Murdo, SD",0,119,0,0,Murdo city
+SD,4669340,Waubay,incorporated,25,A,473,"Waubay, SD",0,120,0,0,Waubay city
+SD,4651820,Presho,incorporated,25,A,472,"Presho, SD",0,121,0,0,Presho city
+SD,4608060,Bryant,incorporated,25,A,471,"Bryant, SD",0,122,0,0,Bryant city
+SD,4606540,Bowdle,incorporated,25,A,470,"Bowdle, SD",0,123,0,0,Bowdle city
+SD,4657140,St. Francis,incorporated,43,A,469,"St. Francis, SD",0,124,0,0,St. Francis town
+SD,4643500,Montrose,incorporated,25,A,468,"Montrose, SD",0,125,0,0,Montrose city
+SD,4644100,Mount Vernon,incorporated,25,A,461,"Mount Vernon, SD",0,126,0,0,Mount Vernon city
+SD,4672540,Wolsey,incorporated,43,A,459,"Wolsey, SD",0,127,0,0,Wolsey town
+SD,4636460,Leola,incorporated,25,A,434,"Leola, SD",0,128,0,0,Leola city
+SD,4671980,Wilmot,incorporated,25,A,432,"Wilmot, SD",0,129,0,0,Wilmot city
+SD,4631940,Irene,incorporated,25,A,422,"Irene, SD",0,130,0,0,Irene city
+SD,4628340,Herreid,incorporated,25,A,416,"Herreid, SD",0,131,0,0,Herreid city
+SD,4605540,Big Stone City,incorporated,25,A,412,"Big Stone City, SD",0,132,0,0,Big Stone City city
+SD,4662820,Tabor,incorporated,43,A,407,"Tabor, SD",0,133,0,0,Tabor town
+SD,4671180,White Lake,incorporated,25,A,394,"White Lake, SD",0,134,0,0,White Lake city
+SD,4627820,Hayti,incorporated,43,A,393,"Hayti, SD",0,135,0,0,Hayti town
+SD,4646180,Oacoma,incorporated,43,A,386,"Oacoma, SD",0,136,0,0,Oacoma town
+SD,4623900,Gayville,incorporated,43,A,382,"Gayville, SD",0,137,0,0,Gayville town
+SD,4628300,Hermosa,incorporated,43,A,382,"Hermosa, SD",0,138,0,0,Hermosa town
+SD,4630300,Hoven,incorporated,43,A,379,"Hoven, SD",0,139,0,0,Hoven town
+SD,4630980,Hurley,incorporated,25,A,379,"Hurley, SD",0,140,0,0,Hurley city
+SD,4656340,Rosholt,incorporated,43,A,379,"Rosholt, SD",0,141,0,0,Rosholt town
+SD,4620980,Faith,incorporated,25,A,367,"Faith, SD",0,142,0,0,Faith city
+SD,4620060,Ethan,incorporated,43,A,365,"Ethan, SD",0,143,0,0,Ethan town
+SD,4668100,Wakonda,incorporated,43,A,347,"Wakonda, SD",0,144,0,0,Wakonda town
+SD,4608140,Buffalo,incorporated,43,A,346,"Buffalo, SD",0,145,0,0,Buffalo town
+SD,4606180,Blunt,incorporated,25,A,342,"Blunt, SD",0,146,0,0,Blunt city
+SD,4621820,Florence,incorporated,43,A,337,"Florence, SD",0,147,0,0,Florence town
+SD,4613300,Colome,incorporated,25,A,331,"Colome, SD",0,148,0,0,Colome city
+SD,4661700,Stickney,incorporated,43,A,321,"Stickney, SD",0,149,0,0,Stickney town
+SD,4666540,Veblen,incorporated,25,A,317,"Veblen, SD",0,150,0,0,Veblen city
+SD,4630740,Hudson,incorporated,43,A,311,"Hudson, SD",0,151,0,0,Hudson town
+SD,4605620,Bison,incorporated,43,A,302,"Bison, SD",0,152,0,0,Bison town
+SD,4611380,Chancellor,incorporated,43,A,300,"Chancellor, SD",0,153,0,0,Chancellor town
+SD,4632020,Iroquois,incorporated,25,A,292,"Iroquois, SD",0,154,0,0,Iroquois city
+SD,4607300,Bristol,incorporated,25,A,288,"Bristol, SD",0,155,0,0,Bristol city
+SD,4662220,Summit,incorporated,43,A,288,"Summit, SD",0,156,0,0,Summit town
+SD,4635820,Langford,incorporated,43,A,283,"Langford, SD",0,157,0,0,Langford town
+SD,4633580,Kennebec,incorporated,43,A,281,"Kennebec, SD",0,158,0,0,Kennebec town
+SD,4655820,Roscoe,incorporated,25,A,269,"Roscoe, SD",0,159,0,0,Roscoe city
+SD,4606220,Bonesteel,incorporated,25,A,258,"Bonesteel, SD",0,160,0,0,Bonesteel city
+SD,4628140,Henry,incorporated,43,A,256,"Henry, SD",0,161,0,0,Henry town
+SD,4671940,Willow Lake,incorporated,25,A,255,"Willow Lake, SD",0,162,0,0,Willow Lake city
+SD,4618460,Egan,incorporated,25,A,241,"Egan, SD",0,163,0,0,Egan city
+SD,4623860,Gary,incorporated,25,A,240,"Gary, SD",0,164,0,0,Gary city
+SD,4633820,Keystone,incorporated,43,A,240,"Keystone, SD",0,165,0,0,Keystone town
+SD,4644820,New Effington,incorporated,43,A,234,"New Effington, SD",0,166,0,0,New Effington town
+SD,4652220,Pukwana,incorporated,43,A,233,"Pukwana, SD",0,167,0,0,Pukwana town
+SD,4649460,Pickstown,incorporated,43,A,230,"Pickstown, SD",0,168,0,0,Pickstown town
+SD,4651260,Pollock,incorporated,43,A,224,"Pollock, SD",0,169,0,0,Pollock town
+SD,4622860,Frederick,incorporated,43,A,215,"Frederick, SD",0,170,0,0,Frederick town
+SD,4601020,Alpena,incorporated,43,A,212,"Alpena, SD",0,171,0,0,Alpena town
+SD,4664300,Tulare,incorporated,43,A,211,"Tulare, SD",0,172,0,0,Tulare town
+SD,4607740,Bruce,incorporated,25,A,210,"Bruce, SD",0,173,0,0,Bruce city
+SD,4645180,Nisland,incorporated,43,A,206,"Nisland, SD",0,174,0,0,Nisland town
+SD,4663940,Trent,incorporated,43,A,206,"Trent, SD",0,175,0,0,Trent town
+SD,4616820,Doland,incorporated,25,A,199,"Doland, SD",0,176,0,0,Doland city
+SD,4641860,Mellette,incorporated,25,A,199,"Mellette, SD",0,177,0,0,Mellette city
+SD,4670140,Wessington,incorporated,25,A,197,"Wessington, SD",0,178,0,0,Wessington city
+SD,4663740,Toronto,incorporated,43,A,196,"Toronto, SD",0,179,0,0,Toronto town
+SD,4627980,Hecla,incorporated,25,A,193,"Hecla, SD",0,180,0,0,Hecla city
+SD,4642980,Mission Hill,incorporated,43,A,190,"Mission Hill, SD",0,181,0,0,Mission Hill town
+SD,4659940,South Shore,incorporated,43,A,189,"South Shore, SD",0,182,0,0,South Shore town
+SD,4656380,Roslyn,incorporated,43,A,181,"Roslyn, SD",0,183,0,0,Roslyn town
+SD,4670020,Wentworth,incorporated,47,A,181,"Wentworth, SD",0,184,0,0,Wentworth village
+SD,4648940,Peever,incorporated,43,A,180,"Peever, SD",0,185,0,0,Peever town
+SD,4630140,Hosmer,incorporated,25,A,164,"Hosmer, SD",0,186,0,0,Hosmer city
+SD,4634340,Kranzburg,incorporated,43,A,163,"Kranzburg, SD",0,187,0,0,Kranzburg town
+SD,4657180,St. Lawrence,incorporated,43,A,163,"St. Lawrence, SD",0,188,0,0,St. Lawrence town
+SD,4613420,Columbia,incorporated,25,A,160,"Columbia, SD",0,189,0,0,Columbia city
+SD,4636620,Letcher,incorporated,43,A,159,"Letcher, SD",0,190,0,0,Letcher town
+SD,4643380,Monroe,incorporated,43,A,159,"Monroe, SD",0,191,0,0,Monroe town
+SD,4652860,Ramona,incorporated,43,A,159,"Ramona, SD",0,192,0,0,Ramona town
+SD,4667780,Volin,incorporated,43,A,158,"Volin, SD",0,193,0,0,Volin town
+SD,4623980,Geddes,incorporated,25,A,156,"Geddes, SD",0,194,0,0,Geddes city
+SD,4616060,Delmont,incorporated,25,A,153,"Delmont, SD",0,195,0,0,Delmont city
+SD,4624820,Goodwin,incorporated,43,A,147,"Goodwin, SD",0,196,0,0,Goodwin town
+SD,4632140,Isabel,incorporated,43,A,145,"Isabel, SD",0,197,0,0,Isabel town
+SD,4613700,Conde,incorporated,25,A,142,"Conde, SD",0,198,0,0,Conde city
+SD,4645740,Northville,incorporated,43,A,139,"Northville, SD",0,199,0,0,Northville town
+SD,4616620,Dimock,incorporated,43,A,137,"Dimock, SD",0,200,0,0,Dimock town
+SD,4660060,Spencer,incorporated,25,A,136,"Spencer, SD",0,201,0,0,Spencer city
+SD,4622580,Frankfort,incorporated,25,A,134,"Frankfort, SD",0,202,0,0,Frankfort city
+SD,4602580,Astoria,incorporated,43,A,132,"Astoria, SD",0,203,0,0,Astoria town
+SD,4608340,Buffalo Gap,incorporated,43,A,131,"Buffalo Gap, SD",0,204,0,0,Buffalo Gap town
+SD,4602380,Artesian,incorporated,43,A,129,"Artesian, SD",0,205,0,0,Artesian town
+SD,4603060,Badger,incorporated,43,A,129,"Badger, SD",0,206,0,0,Badger town
+SD,4649540,Pierpont,incorporated,43,A,129,"Pierpont, SD",0,207,0,0,Pierpont town
+SD,4610620,Cavour,incorporated,43,A,128,"Cavour, SD",0,208,0,0,Cavour town
+SD,4654020,Reliance,incorporated,43,A,128,"Reliance, SD",0,209,0,0,Reliance town
+SD,4610220,Carthage,incorporated,25,A,127,"Carthage, SD",0,210,0,0,Carthage city
+SD,4632460,Java,incorporated,43,A,121,"Java, SD",0,211,0,0,Java town
+SD,4646780,Oldham,incorporated,25,A,121,"Oldham, SD",0,212,0,0,Oldham city
+SD,4646500,Oelrichs,incorporated,43,A,117,"Oelrichs, SD",0,213,0,0,Oelrichs town
+SD,4636540,Lesterville,incorporated,43,A,115,"Lesterville, SD",0,214,0,0,Lesterville town
+SD,4606940,Brandt,incorporated,43,A,114,"Brandt, SD",0,215,0,0,Brandt town
+SD,4624620,Glenham,incorporated,43,A,112,"Glenham, SD",0,216,0,0,Glenham town
+SD,4629500,Hitchcock,incorporated,43,A,112,"Hitchcock, SD",0,217,0,0,Hitchcock town
+SD,4642140,Midland,incorporated,43,A,112,"Midland, SD",0,218,0,0,Midland town
+SD,4673020,Yale,incorporated,43,A,112,"Yale, SD",0,219,0,0,Yale town
+SD,4639940,McIntosh,incorporated,25,A,111,"McIntosh, SD",0,220,0,0,McIntosh city
+SD,4651940,Pringle,incorporated,43,A,109,"Pringle, SD",0,221,0,0,Pringle town
+SD,4602540,Ashton,incorporated,25,A,108,"Ashton, SD",0,222,0,0,Ashton city
+SD,4612100,Claremont,incorporated,43,A,108,"Claremont, SD",0,223,0,0,Claremont town
+SD,4627940,Hazel,incorporated,43,A,102,"Hazel, SD",0,224,0,0,Hazel town
+SD,4661740,Stockholm,incorporated,43,A,102,"Stockholm, SD",0,225,0,0,Stockholm town
+SD,4627420,Harrold,incorporated,43,A,101,"Harrold, SD",0,226,0,0,Harrold town
+SD,4603860,Batesland,incorporated,43,A,100,"Batesland, SD",0,227,0,0,Batesland town
+SD,4654220,Revillo,incorporated,43,A,99,"Revillo, SD",0,228,0,0,Revillo town
+SD,4658900,Sinai,incorporated,43,A,99,"Sinai, SD",0,229,0,0,Sinai town
+SD,4614580,Cresbard,incorporated,43,A,96,"Cresbard, SD",0,230,0,0,Cresbard town
+SD,4620380,Fairfax,incorporated,43,A,96,"Fairfax, SD",0,231,0,0,Fairfax town
+SD,4618180,Eden,incorporated,43,A,94,"Eden, SD",0,232,0,0,Eden town
+SD,4611140,Central City,incorporated,25,A,93,"Central City, SD",0,233,0,0,Central City city
+SD,4668420,Wallace,incorporated,43,A,91,"Wallace, SD",0,234,0,0,Wallace town
+SD,4609420,Canova,incorporated,43,A,89,"Canova, SD",0,235,0,0,Canova town
+SD,4615300,Dallas,incorporated,43,A,89,"Dallas, SD",0,236,0,0,Dallas town
+SD,4607060,Brentford,incorporated,43,A,88,"Brentford, SD",0,237,0,0,Brentford town
+SD,4670540,Westport,incorporated,43,A,88,"Westport, SD",0,238,0,0,Westport town
+SD,4623220,Fulton,incorporated,43,A,87,"Fulton, SD",0,239,0,0,Fulton town
+SD,4612020,Claire City,incorporated,43,A,82,"Claire City, SD",0,240,0,0,Claire City town
+SD,4658580,Sherman,incorporated,43,A,81,"Sherman, SD",0,241,0,0,Sherman town
+SD,4600540,Akaska,incorporated,43,A,77,"Akaska, SD",0,242,0,0,Akaska town
+SD,4615420,Dante,incorporated,43,A,75,"Dante, SD",0,243,0,0,Dante town
+SD,4628420,Herrick,incorporated,43,A,74,"Herrick, SD",0,244,0,0,Herrick town
+SD,4623140,Fruitdale,incorporated,43,A,73,"Fruitdale, SD",0,245,0,0,Fruitdale town
+SD,4608820,Bushnell,incorporated,43,A,71,"Bushnell, SD",0,246,0,0,Bushnell town
+SD,4653220,Ravinia,incorporated,43,A,71,"Ravinia, SD",0,247,0,0,Ravinia town
+SD,4665780,Utica,incorporated,43,A,70,"Utica, SD",0,248,0,0,Utica town
+SD,4613940,Corona,incorporated,43,A,69,"Corona, SD",0,249,0,0,Corona town
+SD,4644020,Mound City,incorporated,43,A,69,"Mound City, SD",0,250,0,0,Mound City town
+SD,4600460,Agar,incorporated,43,A,68,"Agar, SD",0,251,0,0,Agar town
+SD,4601500,Andover,incorporated,43,A,66,"Andover, SD",0,252,0,0,Andover town
+SD,4634540,La Bolt,incorporated,43,A,66,"La Bolt, SD",0,253,0,0,La Bolt town
+SD,4606660,Bradley,incorporated,43,A,65,"Bradley, SD",0,254,0,0,Bradley town
+SD,4631620,Interior,incorporated,43,A,65,"Interior, SD",0,255,0,0,Interior town
+SD,4669140,Wasta,incorporated,43,A,65,"Wasta, SD",0,256,0,0,Wasta town
+SD,4646900,Olivet,incorporated,43,A,64,"Olivet, SD",0,257,0,0,Olivet town
+SD,4652500,Quinn,incorporated,43,A,63,"Quinn, SD",0,258,0,0,Quinn town
+SD,4661980,Strandburg,incorporated,43,A,63,"Strandburg, SD",0,259,0,0,Strandburg town
+SD,4620780,Fairview,incorporated,43,A,61,"Fairview, SD",0,260,0,0,Fairview town
+SD,4609260,Camp Crook,incorporated,43,A,60,"Camp Crook, SD",0,261,0,0,Camp Crook town
+SD,4620340,Fairburn,incorporated,43,A,60,"Fairburn, SD",0,262,0,0,Fairburn town
+SD,4653940,Ree Heights,incorporated,43,A,59,"Ree Heights, SD",0,263,0,0,Ree Heights town
+SD,4662020,Stratford,incorporated,43,A,57,"Stratford, SD",0,264,0,0,Stratford town
+SD,4607040,Brant Lake,incorporated,25,A,56,"Brant Lake, SD",0,265,0,0,Brant Lake city
+SD,4664540,Turton,incorporated,43,A,55,"Turton, SD",0,266,0,0,Turton town
+SD,4615540,Davis,incorporated,43,A,54,"Davis, SD",0,267,0,0,Davis town
+SD,4645100,New Witten,incorporated,43,A,54,"New Witten, SD",0,268,0,0,New Witten town
+SD,4653260,Raymond,incorporated,43,A,53,"Raymond, SD",0,269,0,0,Raymond town
+SD,4647460,Orient,incorporated,43,A,51,"Orient, SD",0,270,0,0,Orient town
+SD,4647660,Ortley,incorporated,43,A,50,"Ortley, SD",0,271,0,0,Ortley town
+SD,4667220,Vienna,incorporated,43,A,49,"Vienna, SD",0,272,0,0,Vienna town
+SD,4626220,Grenville,incorporated,43,A,48,"Grenville, SD",0,273,0,0,Grenville town
+SD,4635780,Lane,incorporated,43,A,47,"Lane, SD",0,274,0,0,Lane town
+SD,4643860,Morristown,incorporated,43,A,47,"Morristown, SD",0,275,0,0,Morristown town
+SD,4664700,Twin Brooks,incorporated,43,A,47,"Twin Brooks, SD",0,276,0,0,Twin Brooks town
+SD,4604620,Belvidere,incorporated,43,A,46,"Belvidere, SD",0,277,0,0,Belvidere town
+SD,4617020,Draper,incorporated,43,A,46,"Draper, SD",0,278,0,0,Draper town
+SD,4646060,Nunda,incorporated,43,A,46,"Nunda, SD",0,279,0,0,Nunda town
+SD,4635220,Lake City,incorporated,43,A,45,"Lake City, SD",0,280,0,0,Lake City town
+SD,4672620,Wood,incorporated,43,A,41,"Wood, SD",0,281,0,0,Wood town
+SD,4619860,Erwin,incorporated,43,A,40,"Erwin, SD",0,282,0,0,Erwin town
+SD,4644620,Naples,incorporated,43,A,38,"Naples, SD",0,283,0,0,Naples town
+SD,4663700,Tolstoy,incorporated,43,A,35,"Tolstoy, SD",0,284,0,0,Tolstoy town
+SD,4616860,Dolton,incorporated,43,A,34,"Dolton, SD",0,285,0,0,Dolton town
+SD,4668660,Ward,incorporated,43,A,34,"Ward, SD",0,286,0,0,Ward town
+SD,4623460,Garden City,incorporated,43,A,33,"Garden City, SD",0,287,0,0,Garden City town
+SD,4636260,Lebanon,incorporated,43,A,33,"Lebanon, SD",0,288,0,0,Lebanon town
+SD,4601140,Altamont,incorporated,43,A,32,"Altamont, SD",0,289,0,0,Altamont town
+SD,4667340,Vilas,incorporated,43,A,29,"Vilas, SD",0,290,0,0,Vilas town
+SD,4607420,Broadland,incorporated,43,A,27,"Broadland, SD",0,291,0,0,Broadland town
+SD,4638860,Long Lake,incorporated,43,A,27,"Long Lake, SD",0,292,0,0,Long Lake town
+SD,4667500,Virgil,incorporated,43,A,26,"Virgil, SD",0,293,0,0,Virgil town
+SD,4655540,Rockham,incorporated,43,A,22,"Rockham, SD",0,294,0,0,Rockham town
+SD,4658180,Seneca,incorporated,43,A,22,"Seneca, SD",0,295,0,0,Seneca town
+SD,4628460,Hetland,incorporated,43,A,20,"Hetland, SD",0,296,0,0,Hetland town
+SD,4611500,Chelsea,incorporated,43,A,19,"Chelsea, SD",0,297,0,0,Chelsea town
+SD,4641220,Marvin,incorporated,43,A,19,"Marvin, SD",0,298,0,0,Marvin town
+SD,4670740,Wetonka,incorporated,43,A,16,"Wetonka, SD",0,299,0,0,Wetonka town
+SD,4621060,Farmer,incorporated,43,A,15,"Farmer, SD",0,300,0,0,Farmer town
+SD,4603420,Bancroft,incorporated,43,A,13,"Bancroft, SD",0,301,0,0,Bancroft town
+SD,4646980,Onaka,incorporated,43,A,13,"Onaka, SD",0,302,0,0,Onaka town
+SD,4614220,Cottonwood,incorporated,43,A,12,"Cottonwood, SD",0,303,0,0,Cottonwood town
+SD,4639260,Lowry,incorporated,43,A,10,"Lowry, SD",0,304,0,0,Lowry town
+SD,4600620,Albee,incorporated,43,A,7,"Albee, SD",0,305,0,0,Albee town
+SD,4602340,Artas,incorporated,43,A,7,"Artas, SD",0,306,0,0,Artas town
+SD,4671380,White Rock,incorporated,43,A,6,"White Rock, SD",0,307,0,0,White Rock town
+SD,4608860,Butler,incorporated,43,A,4,"Butler, SD",0,308,0,0,Butler town
+SD,4666660,Verdon,incorporated,43,A,3,"Verdon, SD",0,309,0,0,Verdon town
+SD,4629340,Hillsview,incorporated,43,A,2,"Hillsview, SD",0,310,0,0,Hillsview town

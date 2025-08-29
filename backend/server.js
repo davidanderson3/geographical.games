@@ -306,7 +306,12 @@ app.get('/countries', (req, res) => {
 
 app.get('/layer/:loc/:name', async (req, res) => {
   const { loc, name } = req.params;
-  const file = path.join(__dirname, '../geolayers-game/public/data', loc, `${name}.geojson`);
+  const baseDir = path.join(__dirname, '../geolayers-game/public/data', loc);
+  let file = path.join(baseDir, `${name}.geojson`);
+  if (name === 'rivers') {
+    const hi = path.join(baseDir, 'rivers_highres.geojson');
+    if (fs.existsSync(hi)) file = hi;
+  }
   if (name === 'cities' && !fs.existsSync(file)) {
     try {
       await ensureCitiesForCountry(loc);
@@ -378,5 +383,40 @@ const server = app.listen(PORT, () => {
   console.log(`✅ Serving static files at http://localhost:${PORT}`);
 });
 
-module.exports = server;
+// --- Simple SSE live-reload for static asset changes (dev convenience) ---
+const sseClients = new Set();
+app.get('/livereload', (req, res) => {
+  res.setHeader('Content-Type', 'text/event-stream');
+  res.setHeader('Cache-Control', 'no-cache');
+  res.setHeader('Connection', 'keep-alive');
+  res.flushHeaders && res.flushHeaders();
+  res.write(': connected\n\n');
+  sseClients.add(res);
+  req.on('close', () => sseClients.delete(res));
+});
 
+function broadcastReload(reason){
+  const msg = `data: reload:${reason || ''}\n\n`;
+  for(const res of Array.from(sseClients)){
+    try { res.write(msg); } catch { sseClients.delete(res); }
+  }
+}
+
+function setupWatch(dir){
+  try {
+    fs.watch(dir, { recursive: true }, (eventType, filename) => {
+      if (!filename) return;
+      const f = String(filename);
+      if (!/\.(html|css|js|json|geojson)$/i.test(f)) return;
+      broadcastReload(`${eventType}:${f}`);
+    });
+    console.log('🔁 Watching for changes in', dir);
+  } catch (err) {
+    console.warn('fs.watch not supported for', dir, err && err.message);
+  }
+}
+
+setupWatch(path.resolve(__dirname, '../'));
+setupWatch(path.resolve(__dirname, '../geolayers-game/public'));
+
+module.exports = server;

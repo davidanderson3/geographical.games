@@ -7,7 +7,7 @@
   <meta http-equiv="Expires" content="0" />
   <title>GeoLayers Game</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-  <link rel="stylesheet" href="style.css?v=20250829" />
+  <link rel="stylesheet" href="style.css?v=20250901" />
 </head>
 <body>
   <div id="map"></div>
@@ -17,19 +17,27 @@
   <div id="score"></div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="main.js?v=20250829"></script>
+  <script src="main.v20250901.js"></script>
   <script>
-    // Also unregister any SW in this iframe scope + clear caches
     (function(){
-      try { console.log('GeoLayers HTML version 20250829'); } catch(e){}
+      try { console.log('GeoLayers HTML version 20250901'); } catch(e){}
       if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.getRegistrations().then(rs => {
-          rs.forEach(r => r.unregister());
-        });
+        navigator.serviceWorker.getRegistrations().then(rs => rs.forEach(r => r.unregister()));
       }
       if (window.caches && caches.keys) {
         caches.keys().then(keys => keys.forEach(k => caches.delete(k))).catch(()=>{});
       }
+    })();
+
+    // Dev: auto-reload when assets change
+    (function(){
+      try {
+        const es = new EventSource('/livereload');
+        es.onmessage = (e) => {
+          console.log('🔁 Reload (iframe) due to change:', e.data);
+          location.reload();
+        };
+      } catch {}
     })();
   </script>
 </body>

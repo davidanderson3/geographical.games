@@ -1,0 +1,1015 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+PA,4260000,Philadelphia,incorporated,25,A,1603797,"Philadelphia, PA",0,1,65,0.26,Philadelphia city
+PA,4261000,Pittsburgh,incorporated,25,A,302971,"Pittsburgh, PA",0,2,28,0.112,Pittsburgh city
+PA,4202000,Allentown,incorporated,25,A,125845,"Allentown, PA",0,3,16,0.064,Allentown city
+PA,4263624,Reading,incorporated,25,A,95112,"Reading, PA",0,4,11,0.044,Reading city
+PA,4224000,Erie,incorporated,25,A,94831,"Erie, PA",0,5,10,0.04,Erie city
+PA,4269000,Scranton,incorporated,25,A,76328,"Scranton, PA",0,6,8,0.032,Scranton city
+PA,4206088,Bethlehem,incorporated,25,A,75781,"Bethlehem, PA",0,7,7,0.028,Bethlehem city
+PA,4241216,Lancaster,incorporated,25,A,58039,"Lancaster, PA",0,8,6,0.024,Lancaster city
+PA,4232800,Harrisburg,incorporated,25,A,50099,"Harrisburg, PA",0,9,6,0.024,Harrisburg city
+PA,4287048,York,incorporated,25,A,44800,"York, PA",0,10,5,0.02,York city
+PA,4285152,Wilkes-Barre,incorporated,25,A,44328,"Wilkes-Barre, PA",0,11,3,0.012,Wilkes-Barre city
+PA,4202184,Altoona,incorporated,25,A,43963,"Altoona, PA",0,12,4,0.016,Altoona city
+PA,4273808,State College,incorporated,21,A,40501,"State College, PA",0,13,4,0.016,State College borough
+PA,4254656,Norristown,incorporated,21,A,35748,"Norristown, PA",0,14,2,0.008,Norristown borough
+PA,4206064,Bethel Park,incorporated,37,A,33577,"Bethel Park, PA",0,15,2,0.008,Bethel Park municipality
+PA,4213208,Chester,incorporated,25,A,32605,"Chester, PA",0,16,3,0.012,Chester city
+PA,4233408,Hazleton,incorporated,25,A,29963,"Hazleton, PA",0,17,3,0.012,Hazleton city
+PA,4250528,Monroeville,incorporated,37,A,28640,"Monroeville, PA",0,18,3,0.012,Monroeville municipality
+PA,4221648,Easton,incorporated,25,A,28127,"Easton, PA",0,19,3,0.012,Easton city
+PA,4285312,Williamsport,incorporated,25,A,27754,"Williamsport, PA",0,20,3,0.012,Williamsport city
+PA,4261536,Plum,incorporated,21,A,27144,"Plum, PA",0,21,2,0.008,Plum borough
+PA,4242168,Lebanon,incorporated,25,A,26814,"Lebanon, PA",0,22,1,0.004,Lebanon city
+PA,4262416,Pottstown,incorporated,21,A,23433,"Pottstown, PA",0,23,1,0.004,Pottstown borough
+PA,4253368,New Castle,incorporated,25,A,21926,"New Castle, PA",0,24,1,0.004,New Castle city
+PA,4212536,Chambersburg,incorporated,21,A,21903,"Chambersburg, PA",0,25,1,0.004,Chambersburg borough
+PA,4203928,Baldwin,incorporated,21,A,21510,"Baldwin, PA",0,26,1,0.004,Baldwin borough
+PA,4252432,Murrysville,incorporated,37,A,21006,"Murrysville, PA",0,27,1,0.004,Murrysville municipality
+PA,4211272,Carlisle,incorporated,21,A,20118,"Carlisle, PA",0,28,2,0.008,Carlisle borough
+PA,4283512,West Mifflin,incorporated,21,A,19589,"West Mifflin, PA",0,29,2,0.008,West Mifflin borough
+PA,4241432,Lansdale,incorporated,21,A,18773,"Lansdale, PA",0,30,2,0.008,Lansdale borough
+PA,4282704,West Chester,incorporated,21,A,18671,"West Chester, PA",0,31,2,0.008,West Chester borough
+PA,4260120,Phoenixville,incorporated,21,A,18602,"Phoenixville, PA",0,32,2,0.008,Phoenixville borough
+PA,4238288,Johnstown,incorporated,25,A,18411,"Johnstown, PA",0,33,2,0.008,Johnstown city
+PA,4246256,McKeesport,incorporated,25,A,17727,"McKeesport, PA",0,34,2,0.008,McKeesport city
+PA,4232448,Hanover,incorporated,21,A,16429,"Hanover, PA",0,35,2,0.008,Hanover borough
+PA,4234064,Hermitage,incorporated,25,A,16230,"Hermitage, PA",0,36,2,0.008,Hermitage city
+PA,4227552,Franklin Park,incorporated,21,A,15479,"Franklin Park, PA",0,37,2,0.008,Franklin Park borough
+PA,4284512,Whitehall,incorporated,21,A,15064,"Whitehall, PA",0,38,2,0.008,Whitehall borough
+PA,4231200,Greensburg,incorporated,25,A,14976,"Greensburg, PA",0,39,2,0.008,Greensburg city
+PA,4285188,Wilkinsburg,incorporated,21,A,14349,"Wilkinsburg, PA",0,40,2,0.008,Wilkinsburg borough
+PA,4236816,Indiana,incorporated,21,A,14044,"Indiana, PA",0,41,2,0.008,Indiana borough
+PA,4220352,Dunmore,incorporated,21,A,14042,"Dunmore, PA",0,42,2,0.008,Dunmore borough
+PA,4223832,Ephrata,incorporated,21,A,13794,"Ephrata, PA",0,43,2,0.008,Ephrata borough
+PA,4210464,Butler,incorporated,25,A,13502,"Butler, PA",0,44,2,0.008,Butler city
+PA,4214712,Coatesville,incorporated,25,A,13350,"Coatesville, PA",0,45,2,0.008,Coatesville city
+PA,4239784,Kingston,incorporated,21,A,13349,"Kingston, PA",0,46,2,0.008,Kingston borough
+PA,4262432,Pottsville,incorporated,25,A,13346,"Pottsville, PA",0,47,2,0.008,Pottsville city
+PA,4281328,Washington,incorporated,25,A,13176,"Washington, PA",0,48,2,0.008,Washington city
+PA,4269720,Sharon,incorporated,25,A,13147,"Sharon, PA",0,49,1,0.004,Sharon city
+PA,4248360,Meadville,incorporated,25,A,13050,"Meadville, PA",0,50,1,0.004,Meadville city
+PA,4267344,St. Marys,incorporated,25,A,12738,"St. Marys, PA",0,51,1,0.004,St. Marys city
+PA,4207128,Bloomsburg,incorporated,43,A,12711,"Bloomsburg, PA",0,52,1,0.004,Bloomsburg town
+PA,4237955,Jefferson Hills,incorporated,21,A,12424,"Jefferson Hills, PA",0,53,1,0.004,Jefferson Hills borough
+PA,4253736,New Kensington,incorporated,25,A,12170,"New Kensington, PA",0,54,1,0.004,New Kensington city
+PA,4286968,Yeadon,incorporated,21,A,12054,"Yeadon, PA",0,55,1,0.004,Yeadon borough
+PA,4244864,Lower Burrell,incorporated,25,A,11758,"Lower Burrell, PA",0,56,1,0.004,Lower Burrell city
+PA,4223584,Emmaus,incorporated,21,A,11652,"Emmaus, PA",0,57,0,0,Emmaus borough
+PA,4223016,Elizabethtown,incorporated,21,A,11639,"Elizabethtown, PA",0,58,0,0,Elizabethtown borough
+PA,4286880,Wyomissing,incorporated,21,A,11114,"Wyomissing, PA",0,59,0,0,Wyomissing borough
+PA,4241440,Lansdowne,incorporated,21,A,11107,"Lansdowne, PA",0,60,0,0,Lansdowne borough
+PA,4281824,Waynesboro,incorporated,21,A,10951,"Waynesboro, PA",0,61,0,0,Waynesboro borough
+PA,4252320,Munhall,incorporated,21,A,10774,"Munhall, PA",0,62,0,0,Munhall borough
+PA,4218152,Darby,incorporated,21,A,10715,"Darby, PA",0,63,0,0,Darby borough
+PA,4252584,Nanticoke,incorporated,25,A,10628,"Nanticoke, PA",0,64,0,0,Nanticoke city
+PA,4254696,Northampton,incorporated,21,A,10395,"Northampton, PA",0,65,0,0,Northampton borough
+PA,4205888,Berwick,incorporated,21,A,10327,"Berwick, PA",0,66,0,0,Berwick borough
+PA,4215384,Columbia,incorporated,21,A,10207,"Columbia, PA",0,67,0,0,Columbia borough
+PA,4208416,Brentwood,incorporated,21,A,10082,"Brentwood, PA",0,68,0,0,Brentwood borough
+PA,4278528,Uniontown,incorporated,25,A,9984,"Uniontown, PA",0,69,0,0,Uniontown city
+PA,4208760,Bristol,incorporated,21,A,9861,"Bristol, PA",0,70,0,0,Bristol borough
+PA,4251144,Morrisville,incorporated,21,A,9809,"Morrisville, PA",0,71,0,0,Morrisville borough
+PA,4211152,Canonsburg,incorporated,21,A,9744,"Canonsburg, PA",0,72,0,0,Canonsburg borough
+PA,4275304,Sunbury,incorporated,25,A,9719,"Sunbury, PA",0,73,0,0,Sunbury city
+PA,4221872,East Stroudsburg,incorporated,21,A,9669,"East Stroudsburg, PA",0,74,0,0,East Stroudsburg borough
+PA,4256456,Oil City,incorporated,25,A,9613,"Oil City, PA",0,75,0,0,Oil City city
+PA,4249128,Middletown,incorporated,21,A,9533,"Middletown, PA",0,76,0,0,Middletown borough
+PA,4281000,Warren,incorporated,25,A,9404,"Warren, PA",0,77,0,0,Warren city
+PA,4243816,Lititz,incorporated,21,A,9381,"Lititz, PA",0,78,0,0,Lititz borough
+PA,4263048,Quakertown,incorporated,21,A,9359,"Quakertown, PA",0,79,0,0,Quakertown borough
+PA,4248376,Mechanicsburg,incorporated,21,A,9311,"Mechanicsburg, PA",0,80,0,0,Mechanicsburg borough
+PA,4215848,Conshohocken,incorporated,21,A,9261,"Conshohocken, PA",0,81,0,0,Conshohocken borough
+PA,4200820,Aliquippa,incorporated,25,A,9238,"Aliquippa, PA",0,82,0,0,Aliquippa city
+PA,4259384,Perkasie,incorporated,21,A,9120,"Perkasie, PA",0,83,0,0,Perkasie borough
+PA,4222264,Economy,incorporated,21,A,9098,"Economy, PA",0,84,0,0,Economy borough
+PA,4204792,Beaver Falls,incorporated,25,A,9005,"Beaver Falls, PA",0,85,0,0,Beaver Falls city
+PA,4215232,Collingdale,incorporated,21,A,8908,"Collingdale, PA",0,86,0,0,Collingdale borough
+PA,4211232,Carbondale,incorporated,25,A,8828,"Carbondale, PA",0,87,0,0,Carbondale city
+PA,4237784,Jeannette,incorporated,25,A,8780,"Jeannette, PA",0,88,0,0,Jeannette city
+PA,4275816,Swissvale,incorporated,21,A,8624,"Swissvale, PA",0,89,0,0,Swissvale borough
+PA,4243000,Lewistown,incorporated,21,A,8579,"Lewistown, PA",0,90,0,0,Lewistown borough
+PA,4261328,Pleasant Hills,incorporated,21,A,8504,"Pleasant Hills, PA",0,91,0,0,Pleasant Hills borough
+PA,4256576,Old Forge,incorporated,21,A,8497,"Old Forge, PA",0,92,0,0,Old Forge borough
+PA,4251656,Mount Joy,incorporated,21,A,8325,"Mount Joy, PA",0,93,0,0,Mount Joy borough
+PA,4205312,Bellevue,incorporated,21,A,8311,"Bellevue, PA",0,94,0,0,Bellevue borough
+PA,4209080,Brookhaven,incorporated,21,A,8300,"Brookhaven, PA",0,95,0,0,Brookhaven borough
+PA,4219784,Doylestown,incorporated,21,A,8300,"Doylestown, PA",0,96,0,0,Doylestown borough
+PA,4285592,Wilson,incorporated,21,A,8259,"Wilson, PA",0,97,0,0,Wilson borough
+PA,4211680,Castle Shannon,incorporated,21,A,8249,"Castle Shannon, PA",0,98,0,0,Castle Shannon borough
+PA,4219576,Dormont,incorporated,21,A,8244,"Dormont, PA",0,99,0,0,Dormont borough
+PA,4233088,Hatboro,incorporated,21,A,8238,"Hatboro, PA",0,100,0,0,Hatboro borough
+PA,4211336,Carnegie,incorporated,21,A,8134,"Carnegie, PA",0,101,0,0,Carnegie borough
+PA,4211000,Camp Hill,incorporated,21,A,8130,"Camp Hill, PA",0,102,0,0,Camp Hill borough
+PA,4244128,Lock Haven,incorporated,25,A,8108,"Lock Haven, PA",0,103,0,0,Lock Haven city
+PA,4241680,Latrobe,incorporated,21,A,8060,"Latrobe, PA",0,104,0,0,Latrobe borough
+PA,4249728,Millersville,incorporated,21,A,7903,"Millersville, PA",0,105,0,0,Millersville borough
+PA,4219752,Downingtown,incorporated,21,A,7892,"Downingtown, PA",0,106,0,0,Downingtown borough
+PA,4231656,Grove City,incorporated,21,A,7871,"Grove City, PA",0,107,0,0,Grove City borough
+PA,4208040,Bradford,incorporated,25,A,7849,"Bradford, PA",0,108,0,0,Bradford city
+PA,4257720,Palmyra,incorporated,21,A,7830,"Palmyra, PA",0,109,0,0,Palmyra borough
+PA,4223304,Ellwood City,incorporated,21,A,7642,"Ellwood City, PA",0,110,0,0,Ellwood City borough
+PA,4284704,White Oak,incorporated,21,A,7630,"White Oak, PA",0,111,0,0,White Oak borough
+PA,4261048,Pittston,incorporated,25,A,7591,"Pittston, PA",0,112,0,0,Pittston city
+PA,4220136,DuBois,incorporated,25,A,7510,"DuBois, PA",0,113,0,0,DuBois city
+PA,4253464,New Cumberland,incorporated,21,A,7507,"New Cumberland, PA",0,114,0,0,New Cumberland borough
+PA,4202832,Archbald,incorporated,21,A,7297,"Archbald, PA",0,115,0,0,Archbald borough
+PA,4229720,Glenolden,incorporated,21,A,7223,"Glenolden, PA",0,116,0,0,Glenolden borough
+PA,4271856,Souderton,incorporated,21,A,7191,"Souderton, PA",0,117,0,0,Souderton borough
+PA,4264832,Ridley Park,incorporated,21,A,7186,"Ridley Park, PA",0,118,0,0,Ridley Park borough
+PA,4228960,Gettysburg,incorporated,21,A,7106,"Gettysburg, PA",0,119,0,0,Gettysburg borough
+PA,4215776,Connellsville,incorporated,25,A,7031,"Connellsville, PA",0,120,0,0,Connellsville city
+PA,4202288,Ambridge,incorporated,21,A,6972,"Ambridge, PA",0,121,0,0,Ambridge borough
+PA,4269600,Shamokin,incorporated,25,A,6942,"Shamokin, PA",0,122,0,0,Shamokin city
+PA,4276032,Tamaqua,incorporated,21,A,6916,"Tamaqua, PA",0,123,0,0,Tamaqua borough
+PA,4250344,Monessen,incorporated,25,A,6876,"Monessen, PA",0,124,0,0,Monessen city
+PA,4214264,Clifton Heights,incorporated,21,A,6863,"Clifton Heights, PA",0,125,0,0,Clifton Heights borough
+PA,4236368,Huntingdon,incorporated,21,A,6827,"Huntingdon, PA",0,126,0,0,Huntingdon borough
+PA,4202264,Ambler,incorporated,21,A,6807,"Ambler, PA",0,127,0,0,Ambler borough
+PA,4226408,Folcroft,incorporated,21,A,6792,"Folcroft, PA",0,128,0,0,Folcroft borough
+PA,4256088,Oakmont,incorporated,21,A,6758,"Oakmont, PA",0,129,0,0,Oakmont borough
+PA,4284144,West View,incorporated,21,A,6685,"West View, PA",0,130,0,0,West View borough
+PA,4206928,Blakely,incorporated,21,A,6657,"Blakely, PA",0,131,0,0,Blakely borough
+PA,4250016,Milton,incorporated,21,A,6609,"Milton, PA",0,132,0,0,Milton borough
+PA,4275648,Swarthmore,incorporated,21,A,6543,"Swarthmore, PA",0,133,0,0,Swarthmore borough
+PA,4211720,Catasauqua,incorporated,21,A,6518,"Catasauqua, PA",0,134,0,0,Catasauqua borough
+PA,4263840,Red Lion,incorporated,21,A,6512,"Red Lion, PA",0,135,0,0,Red Lion borough
+PA,4226592,Forest Hills,incorporated,21,A,6429,"Forest Hills, PA",0,136,0,0,Forest Hills borough
+PA,4262792,Prospect Park,incorporated,21,A,6427,"Prospect Park, PA",0,137,0,0,Prospect Park borough
+PA,4276184,Taylor,incorporated,21,A,6294,"Taylor, PA",0,138,0,0,Taylor borough
+PA,4273888,Steelton,incorporated,21,A,6263,"Steelton, PA",0,139,0,0,Steelton borough
+PA,4272648,South Williamsport,incorporated,21,A,6261,"South Williamsport, PA",0,140,0,0,South Williamsport borough
+PA,4216296,Corry,incorporated,25,A,6210,"Corry, PA",0,141,0,0,Corry city
+PA,4213704,Clairton,incorporated,37,A,6181,"Clairton, PA",0,142,0,0,Clairton municipality
+PA,4233744,Hellertown,incorporated,21,A,6132,"Hellertown, PA",0,143,0,0,Hellertown borough
+PA,4205256,Bellefonte,incorporated,21,A,6105,"Bellefonte, PA",0,144,0,0,Bellefonte borough
+PA,4216848,Crafton,incorporated,21,A,6099,"Crafton, PA",0,145,0,0,Crafton borough
+PA,4227456,Franklin,incorporated,25,A,6077,"Franklin, PA",0,146,0,0,Franklin city
+PA,4252808,Nazareth,incorporated,21,A,6053,"Nazareth, PA",0,147,0,0,Nazareth borough
+PA,4271776,Somerset,incorporated,21,A,6048,"Somerset, PA",0,148,0,0,Somerset borough
+PA,4219160,Dickson City,incorporated,21,A,6038,"Dickson City, PA",0,149,0,0,Dickson City borough
+PA,4269752,Sharon Hill,incorporated,21,A,6014,"Sharon Hill, PA",0,150,0,0,Sharon Hill borough
+PA,4214064,Clearfield,incorporated,21,A,5962,"Clearfield, PA",0,151,0,0,Clearfield borough
+PA,4250880,Moosic,incorporated,21,A,5959,"Moosic, PA",0,152,0,0,Moosic borough
+PA,4255664,Norwood,incorporated,21,A,5943,"Norwood, PA",0,153,0,0,Norwood borough
+PA,4239352,Kennett Square,incorporated,21,A,5936,"Kennett Square, PA",0,154,0,0,Kennett Square borough
+PA,4274888,Stroudsburg,incorporated,21,A,5927,"Stroudsburg, PA",0,155,0,0,Stroudsburg borough
+PA,4246264,McKees Rocks,incorporated,21,A,5920,"McKees Rocks, PA",0,156,0,0,McKees Rocks borough
+PA,4248480,Media,incorporated,21,A,5901,"Media, PA",0,157,0,0,Media borough
+PA,4262920,Punxsutawney,incorporated,21,A,5769,"Punxsutawney, PA",0,158,0,0,Punxsutawney borough
+PA,4261648,Plymouth,incorporated,21,A,5763,"Plymouth, PA",0,159,0,0,Plymouth borough
+PA,4253696,New Holland,incorporated,21,A,5743,"New Holland, PA",0,160,0,0,New Holland borough
+PA,4257480,Oxford,incorporated,21,A,5736,"Oxford, PA",0,161,0,0,Oxford borough
+PA,4253288,New Brighton,incorporated,21,A,5729,"New Brighton, PA",0,162,0,0,New Brighton borough
+PA,4251496,Mount Carmel,incorporated,21,A,5725,"Mount Carmel, PA",0,163,0,0,Mount Carmel borough
+PA,4269216,Selinsgrove,incorporated,21,A,5713,"Selinsgrove, PA",0,164,0,0,Selinsgrove borough
+PA,4235224,Hollidaysburg,incorporated,21,A,5641,"Hollidaysburg, PA",0,165,0,0,Hollidaysburg borough
+PA,4250320,Monaca,incorporated,21,A,5625,"Monaca, PA",0,166,0,0,Monaca borough
+PA,4257696,Palmerton,incorporated,21,A,5593,"Palmerton, PA",0,167,0,0,Palmerton borough
+PA,4216144,Coraopolis,incorporated,21,A,5559,"Coraopolis, PA",0,168,0,0,Coraopolis borough
+PA,4231328,Greenville,incorporated,21,A,5540,"Greenville, PA",0,169,0,0,Greenville borough
+PA,4224392,Exeter,incorporated,21,A,5514,"Exeter, PA",0,170,0,0,Exeter borough
+PA,4278168,Tyrone,incorporated,21,A,5480,"Tyrone, PA",0,171,0,0,Tyrone borough
+PA,4270352,Shippensburg,incorporated,21,A,5478,"Shippensburg, PA",0,172,0,0,Shippensburg borough
+PA,4270248,Shillington,incorporated,21,A,5475,"Shillington, PA",0,173,0,0,Shillington borough
+PA,4268096,Sayre,incorporated,21,A,5461,"Sayre, PA",0,174,0,0,Sayre borough
+PA,4256792,Olyphant,incorporated,21,A,5383,"Olyphant, PA",0,175,0,0,Olyphant borough
+PA,4210768,California,incorporated,21,A,5362,"California, PA",0,176,0,0,California borough
+PA,4227120,Fox Chapel,incorporated,21,A,5343,"Fox Chapel, PA",0,177,0,0,Fox Chapel borough
+PA,4276904,Titusville,incorporated,25,A,5262,"Titusville, PA",0,178,0,0,Titusville city
+PA,4220432,Duquesne,incorporated,25,A,5254,"Duquesne, PA",0,179,0,0,Duquesne city
+PA,4242472,Lehighton,incorporated,21,A,5248,"Lehighton, PA",0,180,0,0,Lehighton borough
+PA,4268312,Schuylkill Haven,incorporated,21,A,5236,"Schuylkill Haven, PA",0,181,0,0,Schuylkill Haven borough
+PA,4204032,Bangor,incorporated,21,A,5187,"Bangor, PA",0,182,0,0,Bangor borough
+PA,4283136,West Hazleton,incorporated,21,A,5163,"West Hazleton, PA",0,183,0,0,West Hazleton borough
+PA,4242976,Lewisburg,incorporated,21,A,5158,"Lewisburg, PA",0,184,0,0,Lewisburg borough
+PA,4277912,Turtle Creek,incorporated,21,A,5114,"Turtle Creek, PA",0,185,0,0,Turtle Creek borough
+PA,4213880,Clarks Summit,incorporated,21,A,5107,"Clarks Summit, PA",0,186,0,0,Clarks Summit borough
+PA,4206504,Birdsboro,incorporated,21,A,5106,"Birdsboro, PA",0,187,0,0,Birdsboro borough
+PA,4284288,West York,incorporated,21,A,5094,"West York, PA",0,188,0,0,West York borough
+PA,4279776,Vandergrift,incorporated,21,A,5075,"Vandergrift, PA",0,189,0,0,Vandergrift borough
+PA,4246888,Manheim,incorporated,21,A,5046,"Manheim, PA",0,190,0,0,Manheim borough
+PA,4215192,Collegeville,incorporated,21,A,5043,"Collegeville, PA",0,191,0,0,Collegeville borough
+PA,4220512,Duryea,incorporated,21,A,5036,"Duryea, PA",0,192,0,0,Duryea borough
+PA,4275832,Swoyersville,incorporated,21,A,5021,"Swoyersville, PA",0,193,0,0,Swoyersville borough
+PA,4208568,Bridgeport,incorporated,21,A,5015,"Bridgeport, PA",0,194,0,0,Bridgeport borough
+PA,4283584,Westmont,incorporated,21,A,4982,"Westmont, PA",0,195,0,0,Westmont borough
+PA,4222608,Edinboro,incorporated,21,A,4964,"Edinboro, PA",0,196,0,0,Edinboro borough
+PA,4231256,Green Tree,incorporated,21,A,4941,"Green Tree, PA",0,197,0,0,Green Tree borough
+PA,4266576,Royersford,incorporated,21,A,4940,"Royersford, PA",0,198,0,0,Royersford borough
+PA,4222672,Edwardsville,incorporated,21,A,4929,"Edwardsville, PA",0,199,0,0,Edwardsville borough
+PA,4276304,Telford,incorporated,21,A,4928,"Telford, PA",0,200,0,0,Telford borough
+PA,4253568,New Freedom,incorporated,21,A,4877,"New Freedom, PA",0,201,0,0,New Freedom borough
+PA,4227008,Fountain Hill,incorporated,21,A,4832,"Fountain Hill, PA",0,202,0,0,Fountain Hill borough
+PA,4208624,Bridgeville,incorporated,21,A,4804,"Bridgeville, PA",0,203,0,0,Bridgeville borough
+PA,4243944,Littlestown,incorporated,21,A,4782,"Littlestown, PA",0,204,0,0,Littlestown borough
+PA,4275000,Sugarcreek,incorporated,21,A,4775,"Sugarcreek, PA",0,205,0,0,Sugarcreek borough
+PA,4203088,Arnold,incorporated,25,A,4772,"Arnold, PA",0,206,0,0,Arnold city
+PA,4203608,Avalon,incorporated,21,A,4762,"Avalon, PA",0,207,0,0,Avalon borough
+PA,4250720,Montoursville,incorporated,21,A,4750,"Montoursville, PA",0,208,0,0,Montoursville borough
+PA,4238000,Jenkintown,incorporated,21,A,4719,"Jenkintown, PA",0,209,0,0,Jenkintown borough
+PA,4242648,Lemoyne,incorporated,21,A,4659,"Lemoyne, PA",0,210,0,0,Lemoyne borough
+PA,4283856,West Pittston,incorporated,21,A,4652,"West Pittston, PA",0,211,0,0,West Pittston borough
+PA,4216256,Cornwall,incorporated,21,A,4604,"Cornwall, PA",0,212,0,0,Cornwall borough
+PA,4221688,East Petersburg,incorporated,21,A,4573,"East Petersburg, PA",0,213,0,0,East Petersburg borough
+PA,4219536,Donora,incorporated,21,A,4569,"Donora, PA",0,214,0,0,Donora borough
+PA,4269248,Sellersville,incorporated,21,A,4567,"Sellersville, PA",0,215,0,0,Sellersville borough
+PA,4283928,West Reading,incorporated,21,A,4553,"West Reading, PA",0,216,0,0,West Reading borough
+PA,4236232,Hummelstown,incorporated,21,A,4544,"Hummelstown, PA",0,217,0,0,Hummelstown borough
+PA,4238160,Jessup,incorporated,21,A,4520,"Jessup, PA",0,218,0,0,Jessup borough
+PA,4238200,Jim Thorpe,incorporated,21,A,4507,"Jim Thorpe, PA",0,219,0,0,Jim Thorpe borough
+PA,4252664,Narberth,incorporated,21,A,4492,"Narberth, PA",0,220,0,0,Narberth borough
+PA,4229432,Glassport,incorporated,21,A,4475,"Glassport, PA",0,221,0,0,Glassport borough
+PA,4235520,Honesdale,incorporated,21,A,4458,"Honesdale, PA",0,222,0,0,Honesdale borough
+PA,4204688,Beaver,incorporated,21,A,4438,"Beaver, PA",0,223,0,0,Beaver borough
+PA,4268432,Scottdale,incorporated,21,A,4430,"Scottdale, PA",0,224,0,0,Scottdale borough
+PA,4250088,Minersville,incorporated,21,A,4370,"Minersville, PA",0,225,0,0,Minersville borough
+PA,4276104,Tarentum,incorporated,21,A,4352,"Tarentum, PA",0,226,0,0,Tarentum borough
+PA,4254816,North Braddock,incorporated,21,A,4320,"North Braddock, PA",0,227,0,0,North Braddock borough
+PA,4270880,Sinking Spring,incorporated,21,A,4286,"Sinking Spring, PA",0,228,0,0,Sinking Spring borough
+PA,4271144,Slatington,incorporated,21,A,4283,"Slatington, PA",0,229,0,0,Slatington borough
+PA,4241768,Laureldale,incorporated,21,A,4277,"Laureldale, PA",0,230,0,0,Laureldale borough
+PA,4232120,Hamburg,incorporated,21,A,4270,"Hamburg, PA",0,231,0,0,Hamburg borough
+PA,4207960,Boyertown,incorporated,21,A,4264,"Boyertown, PA",0,232,0,0,Boyertown borough
+PA,4225360,Farrell,incorporated,25,A,4258,"Farrell, PA",0,233,0,0,Farrell city
+PA,4269800,Sharpsville,incorporated,21,A,4255,"Sharpsville, PA",0,234,0,0,Sharpsville borough
+PA,4212504,Chalfont,incorporated,21,A,4253,"Chalfont, PA",0,235,0,0,Chalfont borough
+PA,4230896,Greencastle,incorporated,21,A,4251,"Greencastle, PA",0,236,0,0,Greencastle borough
+PA,4251880,Mount Pleasant,incorporated,21,A,4245,"Mount Pleasant, PA",0,237,0,0,Mount Pleasant borough
+PA,4200676,Aldan,incorporated,21,A,4244,"Aldan, PA",0,238,0,0,Aldan borough
+PA,4270056,Shenandoah,incorporated,21,A,4243,"Shenandoah, PA",0,239,0,0,Shenandoah borough
+PA,4218136,Danville,incorporated,21,A,4239,"Danville, PA",0,240,0,0,Danville borough
+PA,4226880,Forty Fort,incorporated,21,A,4239,"Forty Fort, PA",0,241,0,0,Forty Fort borough
+PA,4212704,Charleroi,incorporated,21,A,4234,"Charleroi, PA",0,242,0,0,Charleroi borough
+PA,4241608,Larksville,incorporated,21,A,4225,"Larksville, PA",0,243,0,0,Larksville borough
+PA,4218072,Dallastown,incorporated,21,A,4195,"Dallastown, PA",0,244,0,0,Dallastown borough
+PA,4238128,Jersey Shore,incorporated,21,A,4166,"Jersey Shore, PA",0,245,0,0,Jersey Shore borough
+PA,4240656,Kutztown,incorporated,21,A,4162,"Kutztown, PA",0,246,0,0,Kutztown borough
+PA,4250408,Monongahela,incorporated,25,A,4159,"Monongahela, PA",0,247,0,0,Monongahela city
+PA,4200540,Akron,incorporated,21,A,4152,"Akron, PA",0,248,0,0,Akron borough
+PA,4241464,Lansford,incorporated,21,A,4141,"Lansford, PA",0,249,0,0,Lansford borough
+PA,4254952,North East,incorporated,21,A,4106,"North East, PA",0,250,0,0,North East borough
+PA,4276648,Throop,incorporated,21,A,4065,"Throop, PA",0,251,0,0,Throop borough
+PA,4226280,Fleetwood,incorporated,21,A,4049,"Fleetwood, PA",0,252,0,0,Fleetwood borough
+PA,4264784,Ridgway,incorporated,21,A,4039,"Ridgway, PA",0,253,0,0,Ridgway borough
+PA,4281832,Waynesburg,incorporated,21,A,4006,"Waynesburg, PA",0,254,0,0,Waynesburg borough
+PA,4277304,Trappe,incorporated,21,A,4002,"Trappe, PA",0,255,0,0,Trappe borough
+PA,4209224,Brookville,incorporated,21,A,3995,"Brookville, PA",0,256,0,0,Brookville borough
+PA,4285632,Windber,incorporated,21,A,3941,"Windber, PA",0,257,0,0,Windber borough
+PA,4211472,Carroll Valley,incorporated,21,A,3940,"Carroll Valley, PA",0,258,0,0,Carroll Valley borough
+PA,4213800,Clarion,incorporated,21,A,3931,"Clarion, PA",0,259,0,0,Clarion borough
+PA,4240040,Kittanning,incorporated,21,A,3921,"Kittanning, PA",0,260,0,0,Kittanning borough
+PA,4287272,Zelienople,incorporated,21,A,3912,"Zelienople, PA",0,261,0,0,Zelienople borough
+PA,4255456,Northumberland,incorporated,21,A,3911,"Northumberland, PA",0,262,0,0,Northumberland borough
+PA,4269376,Sewickley,incorporated,21,A,3907,"Sewickley, PA",0,263,0,0,Sewickley borough
+PA,4203736,Baden,incorporated,21,A,3904,"Baden, PA",0,264,0,0,Baden borough
+PA,4237208,Irwin,incorporated,21,A,3902,"Irwin, PA",0,265,0,0,Irwin borough
+PA,4259120,Pennsburg,incorporated,21,A,3889,"Pennsburg, PA",0,266,0,0,Pennsburg borough
+PA,4258032,Parkesburg,incorporated,21,A,3862,"Parkesburg, PA",0,267,0,0,Parkesburg borough
+PA,4227232,Frackville,incorporated,21,A,3860,"Frackville, PA",0,268,0,0,Frackville borough
+PA,4270568,Shrewsbury,incorporated,21,A,3848,"Shrewsbury, PA",0,269,0,0,Shrewsbury borough
+PA,4227744,Freeland,incorporated,21,A,3833,"Freeland, PA",0,270,0,0,Freeland borough
+PA,4218888,Denver,incorporated,21,A,3792,"Denver, PA",0,271,0,0,Denver borough
+PA,4262320,Port Vue,incorporated,21,A,3680,"Port Vue, PA",0,272,0,0,Port Vue borough
+PA,4238688,Kane,incorporated,21,A,3630,"Kane, PA",0,273,0,0,Kane borough
+PA,4247000,Manor,incorporated,21,A,3585,"Manor, PA",0,274,0,0,Manor borough
+PA,4255000,Northern Cambria,incorporated,21,A,3560,"Northern Cambria, PA",0,275,0,0,Northern Cambria borough
+PA,4258696,Pen Argyl,incorporated,21,A,3510,"Pen Argyl, PA",0,276,0,0,Pen Argyl borough
+PA,4246592,Mahanoy City,incorporated,21,A,3499,"Mahanoy City, PA",0,277,0,0,Mahanoy City borough
+PA,4233112,Hatfield,incorporated,21,A,3496,"Hatfield, PA",0,278,0,0,Hatfield borough
+PA,4272920,Spring City,incorporated,21,A,3494,"Spring City, PA",0,279,0,0,Spring City borough
+PA,4249288,Mifflinburg,incorporated,21,A,3485,"Mifflinburg, PA",0,280,0,0,Mifflinburg borough
+PA,4265392,Rochester,incorporated,21,A,3472,"Rochester, PA",0,281,0,0,Rochester borough
+PA,4282160,Wellsboro,incorporated,21,A,3469,"Wellsboro, PA",0,282,0,0,Wellsboro borough
+PA,4224160,Etna,incorporated,21,A,3437,"Etna, PA",0,283,0,0,Etna borough
+PA,4255512,North Wales,incorporated,21,A,3426,"North Wales, PA",0,284,0,0,North Wales borough
+PA,4246792,Malvern,incorporated,21,A,3419,"Malvern, PA",0,285,0,0,Malvern borough
+PA,4222144,Ebensburg,incorporated,21,A,3404,"Ebensburg, PA",0,286,0,0,Ebensburg borough
+PA,4272960,Springdale,incorporated,21,A,3400,"Springdale, PA",0,287,0,0,Springdale borough
+PA,4251744,Mount Oliver,incorporated,21,A,3394,"Mount Oliver, PA",0,288,0,0,Mount Oliver borough
+PA,4237000,Ingram,incorporated,21,A,3391,"Ingram, PA",0,289,0,0,Ingram borough
+PA,4249920,Millvale,incorporated,21,A,3376,"Millvale, PA",0,290,0,0,Millvale borough
+PA,4256432,Ohioville,incorporated,21,A,3349,"Ohioville, PA",0,291,0,0,Ohioville borough
+PA,4216128,Coplay,incorporated,21,A,3348,"Coplay, PA",0,292,0,0,Coplay borough
+PA,4253088,Nesquehoning,incorporated,21,A,3336,"Nesquehoning, PA",0,293,0,0,Nesquehoning borough
+PA,4277272,Trafford,incorporated,21,A,3317,"Trafford, PA",0,294,0,0,Trafford borough
+PA,4248000,Masontown,incorporated,21,A,3276,"Masontown, PA",0,295,0,0,Masontown borough
+PA,4258712,Penbrook,incorporated,21,A,3274,"Penbrook, PA",0,296,0,0,Penbrook borough
+PA,4203392,Athens,incorporated,21,A,3267,"Athens, PA",0,297,0,0,Athens borough
+PA,4246392,Macungie,incorporated,21,A,3257,"Macungie, PA",0,298,0,0,Macungie borough
+PA,4212224,Centerville,incorporated,21,A,3256,"Centerville, PA",0,299,0,0,Centerville borough
+PA,4207976,Brackenridge,incorporated,21,A,3240,"Brackenridge, PA",0,300,0,0,Brackenridge borough
+PA,4251760,Mount Penn,incorporated,21,A,3240,"Mount Penn, PA",0,301,0,0,Mount Penn borough
+PA,4282344,Wesleyville,incorporated,21,A,3222,"Wesleyville, PA",0,302,0,0,Wesleyville borough
+PA,4206904,Blairsville,incorporated,21,A,3214,"Blairsville, PA",0,303,0,0,Blairsville borough
+PA,4269776,Sharpsburg,incorporated,21,A,3187,"Sharpsburg, PA",0,304,0,0,Sharpsburg borough
+PA,4221200,East Greenville,incorporated,21,A,3166,"East Greenville, PA",0,305,0,0,East Greenville borough
+PA,4213608,Churchill,incorporated,21,A,3157,"Churchill, PA",0,306,0,0,Churchill borough
+PA,4222520,Edgewood,incorporated,21,A,3145,"Edgewood, PA",0,307,0,0,Edgewood borough
+PA,4275248,Summit Hill,incorporated,21,A,3120,"Summit Hill, PA",0,308,0,0,Summit Hill borough
+PA,4274712,Strasburg,incorporated,21,A,3117,"Strasburg, PA",0,309,0,0,Strasburg borough
+PA,4286856,Wyoming,incorporated,21,A,3102,"Wyoming, PA",0,310,0,0,Wyoming borough
+PA,4260712,Pitcairn,incorporated,21,A,3101,"Pitcairn, PA",0,311,0,0,Pitcairn borough
+PA,4252488,Myerstown,incorporated,21,A,3094,"Myerstown, PA",0,312,0,0,Myerstown borough
+PA,4251912,Mount Pocono,incorporated,21,A,3089,"Mount Pocono, PA",0,313,0,0,Mount Pocono borough
+PA,4271184,Slippery Rock,incorporated,21,A,3081,"Slippery Rock, PA",0,314,0,0,Slippery Rock borough
+PA,4246376,McSherrystown,incorporated,21,A,3077,"McSherrystown, PA",0,315,0,0,McSherrystown borough
+PA,4278712,Upland,incorporated,21,A,3068,"Upland, PA",0,316,0,0,Upland borough
+PA,4286528,Wormleysburg,incorporated,21,A,3043,"Wormleysburg, PA",0,317,0,0,Wormleysburg borough
+PA,4252016,Mountville,incorporated,21,A,3017,"Mountville, PA",0,318,0,0,Mountville borough
+PA,4239256,Kenhorst,incorporated,21,A,3001,"Kenhorst, PA",0,319,0,0,Kenhorst borough
+PA,4257184,Orwigsburg,incorporated,21,A,3000,"Orwigsburg, PA",0,320,0,0,Orwigsburg borough
+PA,4229232,Girard,incorporated,21,A,2993,"Girard, PA",0,321,0,0,Girard borough
+PA,4287232,Youngwood,incorporated,21,A,2975,"Youngwood, PA",0,322,0,0,Youngwood borough
+PA,4254872,North Catasauqua,incorporated,21,A,2971,"North Catasauqua, PA",0,323,0,0,North Catasauqua borough
+PA,4240960,Lake City,incorporated,21,A,2935,"Lake City, PA",0,324,0,0,Lake City borough
+PA,4250272,Mohnton,incorporated,21,A,2927,"Mohnton, PA",0,325,0,0,Mohnton borough
+PA,4278448,Union City,incorporated,21,A,2927,"Union City, PA",0,326,0,0,Union City borough
+PA,4269309,Seven Fields,incorporated,21,A,2919,"Seven Fields, PA",0,327,0,0,Seven Fields borough
+PA,4203320,Aspinwall,incorporated,21,A,2916,"Aspinwall, PA",0,328,0,0,Aspinwall borough
+PA,4213232,Chester Heights,incorporated,21,A,2897,"Chester Heights, PA",0,329,0,0,Chester Heights borough
+PA,4286056,Womelsdorf,incorporated,21,A,2892,"Womelsdorf, PA",0,330,0,0,Womelsdorf borough
+PA,4235424,Homestead,incorporated,21,A,2884,"Homestead, PA",0,331,0,0,Homestead borough
+PA,4227760,Freemansburg,incorporated,21,A,2875,"Freemansburg, PA",0,332,0,0,Freemansburg borough
+PA,4204944,Bedford,incorporated,21,A,2865,"Bedford, PA",0,333,0,0,Bedford borough
+PA,4226512,Ford City,incorporated,21,A,2859,"Ford City, PA",0,334,0,0,Ford City borough
+PA,4263064,Quarryville,incorporated,21,A,2843,"Quarryville, PA",0,335,0,0,Quarryville borough
+PA,4247080,Mansfield,incorporated,21,A,2839,"Mansfield, PA",0,336,0,0,Mansfield borough
+PA,4253296,New Britain,incorporated,21,A,2836,"New Britain, PA",0,337,0,0,New Britain borough
+PA,4285664,Wind Gap,incorporated,21,A,2820,"Wind Gap, PA",0,338,0,0,Wind Gap borough
+PA,4204432,Bath,incorporated,21,A,2808,"Bath, PA",0,339,0,0,Bath borough
+PA,4246864,Manchester,incorporated,21,A,2800,"Manchester, PA",0,340,0,0,Manchester borough
+PA,4277168,Towanda,incorporated,21,A,2798,"Towanda, PA",0,341,0,0,Towanda borough
+PA,4260008,Philipsburg,incorporated,21,A,2789,"Philipsburg, PA",0,342,0,0,Philipsburg borough
+PA,4233000,Harveys Lake,incorporated,21,A,2788,"Harveys Lake, PA",0,343,0,0,Harveys Lake borough
+PA,4251176,Morton,incorporated,21,A,2778,"Morton, PA",0,344,0,0,Morton borough
+PA,4282296,Wernersville,incorporated,21,A,2776,"Wernersville, PA",0,345,0,0,Wernersville borough
+PA,4232056,Hallam,incorporated,21,A,2775,"Hallam, PA",0,346,0,0,Hallam borough
+PA,4283104,West Grove,incorporated,21,A,2770,"West Grove, PA",0,347,0,0,West Grove borough
+PA,4240584,Kulpmont,incorporated,21,A,2758,"Kulpmont, PA",0,348,0,0,Kulpmont borough
+PA,4267224,St. Clair,incorporated,21,A,2745,"St. Clair, PA",0,349,0,0,St. Clair borough
+PA,4234664,Highspire,incorporated,21,A,2741,"Highspire, PA",0,350,0,0,Highspire borough
+PA,4221384,East Lansdowne,incorporated,21,A,2714,"East Lansdowne, PA",0,351,0,0,East Lansdowne borough
+PA,4245568,Luzerne,incorporated,21,A,2711,"Luzerne, PA",0,352,0,0,Luzerne borough
+PA,4218048,Dallas,incorporated,21,A,2694,"Dallas, PA",0,353,0,0,Dallas borough
+PA,4283680,West Newton,incorporated,21,A,2665,"West Newton, PA",0,354,0,0,West Newton borough
+PA,4247968,Marysville,incorporated,21,A,2652,"Marysville, PA",0,355,0,0,Marysville borough
+PA,4218960,Derry,incorporated,21,A,2639,"Derry, PA",0,356,0,0,Derry borough
+PA,4265568,Rockledge,incorporated,21,A,2638,"Rockledge, PA",0,357,0,0,Rockledge borough
+PA,4284272,West Wyoming,incorporated,21,A,2638,"West Wyoming, PA",0,358,0,0,West Wyoming borough
+PA,4219208,Dillsburg,incorporated,21,A,2635,"Dillsburg, PA",0,359,0,0,Dillsburg borough
+PA,4247424,Marietta,incorporated,21,A,2623,"Marietta, PA",0,360,0,0,Marietta borough
+PA,4253712,New Hope,incorporated,21,A,2612,"New Hope, PA",0,361,0,0,New Hope borough
+PA,4286920,Yardley,incorporated,21,A,2605,"Yardley, PA",0,362,0,0,Yardley borough
+PA,4200660,Alburtis,incorporated,21,A,2596,"Alburtis, PA",0,363,0,0,Alburtis borough
+PA,4203272,Ashley,incorporated,21,A,2596,"Ashley, PA",0,364,0,0,Ashley borough
+PA,4218768,Delmont,incorporated,21,A,2596,"Delmont, PA",0,365,0,0,Delmont borough
+PA,4210912,Cambridge Springs,incorporated,21,A,2590,"Cambridge Springs, PA",0,366,0,0,Cambridge Springs borough
+PA,4217840,Curwensville,incorporated,21,A,2567,"Curwensville, PA",0,367,0,0,Curwensville borough
+PA,4264376,Reynoldsville,incorporated,21,A,2549,"Reynoldsville, PA",0,368,0,0,Reynoldsville borough
+PA,4249680,Millersburg,incorporated,21,A,2545,"Millersburg, PA",0,369,0,0,Millersburg borough
+PA,4281856,Weatherly,incorporated,21,A,2541,"Weatherly, PA",0,370,0,0,Weatherly borough
+PA,4220424,Dupont,incorporated,21,A,2539,"Dupont, PA",0,371,0,0,Dupont borough
+PA,4223616,Emsworth,incorporated,21,A,2525,"Emsworth, PA",0,372,0,0,Emsworth borough
+PA,4258936,Penndel,incorporated,21,A,2515,"Penndel, PA",0,373,0,0,Penndel borough
+PA,4252616,Nanty-Glo,incorporated,21,A,2511,"Nanty-Glo, PA",0,374,0,0,Nanty-Glo borough
+PA,4203640,Avoca,incorporated,21,A,2507,"Avoca, PA",0,375,0,0,Avoca borough
+PA,4263808,Red Hill,incorporated,21,A,2496,"Red Hill, PA",0,376,0,0,Red Hill borough
+PA,4280032,Verona,incorporated,21,A,2492,"Verona, PA",0,377,0,0,Verona borough
+PA,4215432,Colwyn,incorporated,21,A,2474,"Colwyn, PA",0,378,0,0,Colwyn borough
+PA,4203264,Ashland,incorporated,21,A,2471,"Ashland, PA",0,379,0,0,Ashland borough
+PA,4245824,McAdoo,incorporated,21,A,2471,"McAdoo, PA",0,380,0,0,McAdoo borough
+PA,4222296,Eddystone,incorporated,21,A,2459,"Eddystone, PA",0,381,0,0,Eddystone borough
+PA,4262048,Portage,incorporated,21,A,2459,"Portage, PA",0,382,0,0,Portage borough
+PA,4247344,Marcus Hook,incorporated,21,A,2454,"Marcus Hook, PA",0,383,0,0,Marcus Hook borough
+PA,4216056,Coopersburg,incorporated,21,A,2447,"Coopersburg, PA",0,384,0,0,Coopersburg borough
+PA,4252264,Muncy,incorporated,21,A,2440,"Muncy, PA",0,385,0,0,Muncy borough
+PA,4249184,Midland,incorporated,21,A,2433,"Midland, PA",0,386,0,0,Midland borough
+PA,4214600,Coaldale,incorporated,21,A,2426,"Coaldale, PA",0,387,0,0,Coaldale borough
+PA,4238248,Johnsonburg,incorporated,21,A,2404,"Johnsonburg, PA",0,388,0,0,Johnsonburg borough
+PA,4265256,Roaring Spring,incorporated,21,A,2384,"Roaring Spring, PA",0,389,0,0,Roaring Spring borough
+PA,4216448,Coudersport,incorporated,21,A,2381,"Coudersport, PA",0,390,0,0,Coudersport borough
+PA,4273192,Spring Grove,incorporated,21,A,2372,"Spring Grove, PA",0,391,0,0,Spring Grove borough
+PA,4228720,Geistown,incorporated,21,A,2363,"Geistown, PA",0,392,0,0,Geistown borough
+PA,4248048,Matamoras,incorporated,21,A,2362,"Matamoras, PA",0,393,0,0,Matamoras borough
+PA,4243064,Liberty,incorporated,21,A,2355,"Liberty, PA",0,394,0,0,Liberty borough
+PA,4205672,Bentleyville,incorporated,21,A,2352,"Bentleyville, PA",0,395,0,0,Bentleyville borough
+PA,4254104,New Stanton,incorporated,21,A,2339,"New Stanton, PA",0,396,0,0,New Stanton borough
+PA,4258176,Parkside,incorporated,21,A,2321,"Parkside, PA",0,397,0,0,Parkside borough
+PA,4251984,Mount Union,incorporated,21,A,2308,"Mount Union, PA",0,398,0,0,Mount Union borough
+PA,4277744,Tullytown,incorporated,21,A,2282,"Tullytown, PA",0,399,0,0,Tullytown borough
+PA,4208960,Brockway,incorporated,21,A,2276,"Brockway, PA",0,400,0,0,Brockway borough
+PA,4254184,Newtown,incorporated,21,A,2268,"Newtown, PA",0,401,0,0,Newtown borough
+PA,4286640,Wrightsville,incorporated,21,A,2261,"Wrightsville, PA",0,402,0,0,Wrightsville borough
+PA,4281616,Watsontown,incorporated,21,A,2237,"Watsontown, PA",0,403,0,0,Watsontown borough
+PA,4272616,Southwest Greensburg,incorporated,21,A,2219,"Southwest Greensburg, PA",0,404,0,0,Southwest Greensburg borough
+PA,4255608,North York,incorporated,21,A,2200,"North York, PA",0,405,0,0,North York borough
+PA,4209432,Brownsville,incorporated,21,A,2185,"Brownsville, PA",0,406,0,0,Brownsville borough
+PA,4220104,Dublin,incorporated,21,A,2177,"Dublin, PA",0,407,0,0,Dublin borough
+PA,4215872,Conway,incorporated,21,A,2168,"Conway, PA",0,408,0,0,Conway borough
+PA,4236160,Hughesville,incorporated,21,A,2154,"Hughesville, PA",0,409,0,0,Hughesville borough
+PA,4238096,Jermyn,incorporated,21,A,2150,"Jermyn, PA",0,410,0,0,Jermyn borough
+PA,4242280,Leechburg,incorporated,21,A,2149,"Leechburg, PA",0,411,0,0,Leechburg borough
+PA,4262088,Port Allegany,incorporated,21,A,2135,"Port Allegany, PA",0,412,0,0,Port Allegany borough
+PA,4272192,South Greensburg,incorporated,21,A,2135,"South Greensburg, PA",0,413,0,0,South Greensburg borough
+PA,4274104,Stewartstown,incorporated,21,A,2129,"Stewartstown, PA",0,414,0,0,Stewartstown borough
+PA,4229760,Glen Rock,incorporated,21,A,2121,"Glen Rock, PA",0,415,0,0,Glen Rock borough
+PA,4254352,New Wilmington,incorporated,21,A,2092,"New Wilmington, PA",0,416,0,0,New Wilmington borough
+PA,4221444,East McKeesport,incorporated,21,A,2076,"East McKeesport, PA",0,417,0,0,East McKeesport borough
+PA,4248912,Meyersdale,incorporated,21,A,2070,"Meyersdale, PA",0,418,0,0,Meyersdale borough
+PA,4280800,Walnutport,incorporated,21,A,2067,"Walnutport, PA",0,419,0,0,Walnutport borough
+PA,4246072,McDonald,incorporated,21,A,2060,"McDonald, PA",0,420,0,0,McDonald borough
+PA,4253496,New Eagle,incorporated,21,A,2049,"New Eagle, PA",0,421,0,0,New Eagle borough
+PA,4260456,Pine Grove,incorporated,21,A,2049,"Pine Grove, PA",0,422,0,0,Pine Grove borough
+PA,4272344,Southmont,incorporated,21,A,2045,"Southmont, PA",0,423,0,0,Southmont borough
+PA,4277104,Topton,incorporated,21,A,2041,"Topton, PA",0,424,0,0,Topton borough
+PA,4265112,Riverside,incorporated,21,A,2040,"Riverside, PA",0,425,0,0,Riverside borough
+PA,4251208,Moscow,incorporated,21,A,2039,"Moscow, PA",0,426,0,0,Moscow borough
+PA,4265336,Robesonia,incorporated,21,A,2035,"Robesonia, PA",0,427,0,0,Robesonia borough
+PA,4214160,Cleona,incorporated,21,A,2013,"Cleona, PA",0,428,0,0,Cleona borough
+PA,4205776,Berlin,incorporated,21,A,2003,"Berlin, PA",0,429,0,0,Berlin borough
+PA,4251592,Mount Holly Springs,incorporated,21,A,1995,"Mount Holly Springs, PA",0,430,0,0,Mount Holly Springs borough
+PA,4210256,Burnham,incorporated,21,A,1991,"Burnham, PA",0,431,0,0,Burnham borough
+PA,4248696,Mercer,incorporated,21,A,1982,"Mercer, PA",0,432,0,0,Mercer borough
+PA,4277288,Trainer,incorporated,21,A,1976,"Trainer, PA",0,433,0,0,Trainer borough
+PA,4219696,Dover,incorporated,21,A,1954,"Dover, PA",0,434,0,0,Dover borough
+PA,4242352,Leesport,incorporated,21,A,1954,"Leesport, PA",0,435,0,0,Leesport borough
+PA,4200364,Adamstown,incorporated,21,A,1938,"Adamstown, PA",0,436,0,0,Adamstown borough
+PA,4221712,East Pittsburgh,incorporated,21,A,1927,"East Pittsburgh, PA",0,437,0,0,East Pittsburgh borough
+PA,4223600,Emporium,incorporated,21,A,1923,"Emporium, PA",0,438,0,0,Emporium borough
+PA,4205504,Ben Avon,incorporated,21,A,1918,"Ben Avon, PA",0,439,0,0,Ben Avon borough
+PA,4272080,South Connellsville,incorporated,21,A,1917,"South Connellsville, PA",0,440,0,0,South Connellsville borough
+PA,4263408,Rankin,incorporated,21,A,1896,"Rankin, PA",0,441,0,0,Rankin borough
+PA,4235528,Honey Brook,incorporated,21,A,1892,"Honey Brook, PA",0,442,0,0,Honey Brook borough
+PA,4267304,St. Lawrence,incorporated,21,A,1892,"St. Lawrence, PA",0,443,0,0,St. Lawrence borough
+PA,4224536,Fairchance,incorporated,21,A,1890,"Fairchance, PA",0,444,0,0,Fairchance borough
+PA,4247872,Martinsburg,incorporated,21,A,1876,"Martinsburg, PA",0,445,0,0,Martinsburg borough
+PA,4245592,Lykens,incorporated,21,A,1873,"Lykens, PA",0,446,0,0,Lykens borough
+PA,4254776,North Belle Vernon,incorporated,21,A,1873,"North Belle Vernon, PA",0,447,0,0,North Belle Vernon borough
+PA,4283200,West Homestead,incorporated,21,A,1872,"West Homestead, PA",0,448,0,0,West Homestead borough
+PA,4253920,New Oxford,incorporated,21,A,1868,"New Oxford, PA",0,449,0,0,New Oxford borough
+PA,4222016,East Washington,incorporated,21,A,1853,"East Washington, PA",0,450,0,0,East Washington borough
+PA,4206240,Big Beaver,incorporated,21,A,1852,"Big Beaver, PA",0,451,0,0,Big Beaver borough
+PA,4236944,Industry,incorporated,21,A,1838,"Industry, PA",0,452,0,0,Industry borough
+PA,4237640,Jacobus,incorporated,21,A,1830,"Jacobus, PA",0,453,0,0,Jacobus borough
+PA,4205384,Bellwood,incorporated,21,A,1827,"Bellwood, PA",0,454,0,0,Bellwood borough
+PA,4223152,Elkland,incorporated,21,A,1827,"Elkland, PA",0,455,0,0,Elkland borough
+PA,4215888,Conyngham,incorporated,21,A,1825,"Conyngham, PA",0,456,0,0,Conyngham borough
+PA,4262128,Port Carbon,incorporated,21,A,1806,"Port Carbon, PA",0,457,0,0,Port Carbon borough
+PA,4285496,Wilmerding,incorporated,21,A,1781,"Wilmerding, PA",0,458,0,0,Wilmerding borough
+PA,4226560,Forest City,incorporated,21,A,1780,"Forest City, PA",0,459,0,0,Forest City borough
+PA,4277784,Tunkhannock,incorporated,21,A,1767,"Tunkhannock, PA",0,460,0,0,Tunkhannock borough
+PA,4224304,Everett,incorporated,21,A,1765,"Everett, PA",0,461,0,0,Everett borough
+PA,4248176,Mayfield,incorporated,21,A,1763,"Mayfield, PA",0,462,0,0,Mayfield borough
+PA,4207560,Bonneauville,incorporated,21,A,1758,"Bonneauville, PA",0,463,0,0,Bonneauville borough
+PA,4224248,Evans City,incorporated,21,A,1737,"Evans City, PA",0,464,0,0,Evans City borough
+PA,4227784,Freeport,incorporated,21,A,1736,"Freeport, PA",0,465,0,0,Freeport borough
+PA,4211160,Canton,incorporated,21,A,1735,"Canton, PA",0,466,0,0,Canton borough
+PA,4208008,Braddock Hills,incorporated,21,A,1730,"Braddock Hills, PA",0,467,0,0,Braddock Hills borough
+PA,4235408,Homer City,incorporated,21,A,1730,"Homer City, PA",0,468,0,0,Homer City borough
+PA,4258432,Patton,incorporated,21,A,1728,"Patton, PA",0,469,0,0,Patton borough
+PA,4287224,Youngsville,incorporated,21,A,1726,"Youngsville, PA",0,470,0,0,Youngsville borough
+PA,4207992,Braddock,incorporated,21,A,1721,"Braddock, PA",0,471,0,0,Braddock borough
+PA,4259520,Perryopolis,incorporated,21,A,1705,"Perryopolis, PA",0,472,0,0,Perryopolis borough
+PA,4277392,Tremont,incorporated,21,A,1676,"Tremont, PA",0,473,0,0,Tremont borough
+PA,4213392,Cheswick,incorporated,21,A,1672,"Cheswick, PA",0,474,0,0,Cheswick borough
+PA,4222576,Edgeworth,incorporated,21,A,1669,"Edgeworth, PA",0,475,0,0,Edgeworth borough
+PA,4269616,Shamokin Dam,incorporated,21,A,1652,"Shamokin Dam, PA",0,476,0,0,Shamokin Dam borough
+PA,4258504,Paxtang,incorporated,21,A,1648,"Paxtang, PA",0,477,0,0,Paxtang borough
+PA,4241392,Langhorne,incorporated,21,A,1643,"Langhorne, PA",0,478,0,0,Langhorne borough
+PA,4238400,Jonestown,incorporated,21,A,1638,"Jonestown, PA",0,479,0,0,Jonestown borough
+PA,4270384,Shiremanstown,incorporated,21,A,1634,"Shiremanstown, PA",0,480,0,0,Shiremanstown borough
+PA,4202720,Apollo,incorporated,21,A,1615,"Apollo, PA",0,481,0,0,Apollo borough
+PA,4219856,Dravosburg,incorporated,21,A,1612,"Dravosburg, PA",0,482,0,0,Dravosburg borough
+PA,4217152,Cressona,incorporated,21,A,1601,"Cressona, PA",0,483,0,0,Cressona borough
+PA,4272072,South Coatesville,incorporated,21,A,1601,"South Coatesville, PA",0,484,0,0,South Coatesville borough
+PA,4266168,Roseto,incorporated,21,A,1581,"Roseto, PA",0,485,0,0,Roseto borough
+PA,4250544,Mont Alto,incorporated,21,A,1580,"Mont Alto, PA",0,486,0,0,Mont Alto borough
+PA,4250632,Montgomery,incorporated,21,A,1568,"Montgomery, PA",0,487,0,0,Montgomery borough
+PA,4225680,Ferndale,incorporated,21,A,1547,"Ferndale, PA",0,488,0,0,Ferndale borough
+PA,4220792,East Berlin,incorporated,21,A,1542,"East Berlin, PA",0,489,0,0,East Berlin borough
+PA,4211736,Catawissa,incorporated,21,A,1536,"Catawissa, PA",0,490,0,0,Catawissa borough
+PA,4228328,Gallitzin,incorporated,21,A,1536,"Gallitzin, PA",0,491,0,0,Gallitzin borough
+PA,4207160,Blossburg,incorporated,21,A,1533,"Blossburg, PA",0,492,0,0,Blossburg borough
+PA,4200628,Albion,incorporated,21,A,1528,"Albion, PA",0,493,0,0,Albion borough
+PA,4217136,Cresson,incorporated,21,A,1525,"Cresson, PA",0,494,0,0,Cresson borough
+PA,4213864,Clarks Green,incorporated,21,A,1524,"Clarks Green, PA",0,495,0,0,Clarks Green borough
+PA,4243232,Ligonier,incorporated,21,A,1513,"Ligonier, PA",0,496,0,0,Ligonier borough
+PA,4248704,Mercersburg,incorporated,21,A,1507,"Mercersburg, PA",0,497,0,0,Mercersburg borough
+PA,4205216,Bell Acres,incorporated,21,A,1505,"Bell Acres, PA",0,498,0,0,Bell Acres borough
+PA,4227712,Freedom,incorporated,21,A,1496,"Freedom, PA",0,499,0,0,Freedom borough
+PA,4241416,Langhorne Manor,incorporated,21,A,1496,"Langhorne Manor, PA",0,500,0,0,Langhorne Manor borough
+PA,4264560,Richland,incorporated,21,A,1496,"Richland, PA",0,501,0,0,Richland borough
+PA,4282736,West Conshohocken,incorporated,21,A,1493,"West Conshohocken, PA",0,502,0,0,West Conshohocken borough
+PA,4253968,Newport,incorporated,21,A,1485,"Newport, PA",0,503,0,0,Newport borough
+PA,4252984,Nescopeck,incorporated,21,A,1480,"Nescopeck, PA",0,504,0,0,Nescopeck borough
+PA,4249760,Mill Hall,incorporated,21,A,1479,"Mill Hall, PA",0,505,0,0,Mill Hall borough
+PA,4220240,Duncannon,incorporated,21,A,1478,"Duncannon, PA",0,506,0,0,Duncannon borough
+PA,4280040,Versailles,incorporated,21,A,1476,"Versailles, PA",0,507,0,0,Versailles borough
+PA,4281456,Waterford,incorporated,21,A,1476,"Waterford, PA",0,508,0,0,Waterford borough
+PA,4255840,Oakdale,incorporated,21,A,1475,"Oakdale, PA",0,509,0,0,Oakdale borough
+PA,4203632,Avis,incorporated,21,A,1473,"Avis, PA",0,510,0,0,Avis borough
+PA,4247672,Mars,incorporated,21,A,1458,"Mars, PA",0,511,0,0,Mars borough
+PA,4207000,Blawnox,incorporated,21,A,1454,"Blawnox, PA",0,512,0,0,Blawnox borough
+PA,4240848,Laflin,incorporated,21,A,1451,"Laflin, PA",0,513,0,0,Laflin borough
+PA,4271248,Smethport,incorporated,21,A,1436,"Smethport, PA",0,514,0,0,Smethport borough
+PA,4244416,Loganville,incorporated,21,A,1426,"Loganville, PA",0,515,0,0,Loganville borough
+PA,4268056,Saxonburg,incorporated,21,A,1426,"Saxonburg, PA",0,516,0,0,Saxonburg borough
+PA,4210224,Burgettstown,incorporated,21,A,1425,"Burgettstown, PA",0,517,0,0,Burgettstown borough
+PA,4277184,Tower City,incorporated,21,A,1419,"Tower City, PA",0,518,0,0,Tower City borough
+PA,4222992,Elizabeth,incorporated,21,A,1398,"Elizabeth, PA",0,519,0,0,Elizabeth borough
+PA,4254320,Newville,incorporated,21,A,1376,"Newville, PA",0,520,0,0,Newville borough
+PA,4253184,New Beaver,incorporated,21,A,1372,"New Beaver, PA",0,521,0,0,New Beaver borough
+PA,4252056,Mount Wolf,incorporated,21,A,1368,"Mount Wolf, PA",0,522,0,0,Mount Wolf borough
+PA,4275568,Susquehanna Depot,incorporated,21,A,1365,"Susquehanna Depot, PA",0,523,0,0,Susquehanna Depot borough
+PA,4270464,Shoemakersville,incorporated,21,A,1360,"Shoemakersville, PA",0,524,0,0,Shoemakersville borough
+PA,4285728,Windsor,incorporated,21,A,1358,"Windsor, PA",0,525,0,0,Windsor borough
+PA,4223024,Elizabethville,incorporated,21,A,1357,"Elizabethville, PA",0,526,0,0,Elizabethville borough
+PA,4276400,Terre Hill,incorporated,21,A,1357,"Terre Hill, PA",0,527,0,0,Terre Hill borough
+PA,4264584,Richlandtown,incorporated,21,A,1353,"Richlandtown, PA",0,528,0,0,Richlandtown borough
+PA,4223440,Elverson,incorporated,21,A,1330,"Elverson, PA",0,529,0,0,Elverson borough
+PA,4236152,Hughestown,incorporated,21,A,1329,"Hughestown, PA",0,530,0,0,Hughestown borough
+PA,4248960,Middleburg,incorporated,21,A,1325,"Middleburg, PA",0,531,0,0,Middleburg borough
+PA,4214520,Clymer,incorporated,21,A,1321,"Clymer, PA",0,532,0,0,Clymer borough
+PA,4203384,Atglen,incorporated,21,A,1313,"Atglen, PA",0,533,0,0,Atglen borough
+PA,4229264,Girardville,incorporated,21,A,1308,"Girardville, PA",0,534,0,0,Girardville borough
+PA,4254888,North Charleroi,incorporated,21,A,1303,"North Charleroi, PA",0,535,0,0,North Charleroi borough
+PA,4285320,Williamstown,incorporated,21,A,1303,"Williamstown, PA",0,536,0,0,Williamstown borough
+PA,4281712,Waymart,incorporated,21,A,1297,"Waymart, PA",0,537,0,0,Waymart borough
+PA,4268328,Schwenksville,incorporated,21,A,1296,"Schwenksville, PA",0,538,0,0,Schwenksville borough
+PA,4250736,Montrose,incorporated,21,A,1290,"Montrose, PA",0,539,0,0,Montrose borough
+PA,4233592,Heidelberg,incorporated,21,A,1288,"Heidelberg, PA",0,540,0,0,Heidelberg borough
+PA,4218088,Dalton,incorporated,21,A,1284,"Dalton, PA",0,541,0,0,Dalton borough
+PA,4203656,Avondale,incorporated,21,A,1274,"Avondale, PA",0,542,0,0,Avondale borough
+PA,4209696,Bryn Athyn,incorporated,21,A,1272,"Bryn Athyn, PA",0,543,0,0,Bryn Athyn borough
+PA,4226296,Flemington,incorporated,21,A,1271,"Flemington, PA",0,544,0,0,Flemington borough
+PA,4283328,West Leechburg,incorporated,21,A,1269,"West Leechburg, PA",0,545,0,0,West Leechburg borough
+PA,4212376,Centre Hall,incorporated,21,A,1268,"Centre Hall, PA",0,546,0,0,Centre Hall borough
+PA,4220248,Duncansville,incorporated,21,A,1255,"Duncansville, PA",0,547,0,0,Duncansville borough
+PA,4254728,North Apollo,incorporated,21,A,1252,"North Apollo, PA",0,548,0,0,North Apollo borough
+PA,4277584,Troy,incorporated,21,A,1249,"Troy, PA",0,549,0,0,Troy borough
+PA,4282832,West Easton,incorporated,21,A,1237,"West Easton, PA",0,550,0,0,West Easton borough
+PA,4285272,Williamsburg,incorporated,21,A,1233,"Williamsburg, PA",0,551,0,0,Williamsburg borough
+PA,4233200,Hawley,incorporated,21,A,1229,"Hawley, PA",0,552,0,0,Hawley borough
+PA,4203984,Bally,incorporated,21,A,1228,"Bally, PA",0,553,0,0,Bally borough
+PA,4206296,Biglerville,incorporated,21,A,1225,"Biglerville, PA",0,554,0,0,Biglerville borough
+PA,4207712,Boswell,incorporated,21,A,1224,"Boswell, PA",0,555,0,0,Boswell borough
+PA,4207040,Bloomfield,incorporated,21,A,1219,"Bloomfield, PA",0,556,0,0,Bloomfield borough
+PA,4233080,Hastings,incorporated,21,A,1213,"Hastings, PA",0,557,0,0,Hastings borough
+PA,4249504,Millbourne,incorporated,21,A,1212,"Millbourne, PA",0,558,0,0,Millbourne borough
+PA,4276144,Tatamy,incorporated,21,A,1203,"Tatamy, PA",0,559,0,0,Tatamy borough
+PA,4220144,Duboistown,incorporated,21,A,1200,"Duboistown, PA",0,560,0,0,Duboistown borough
+PA,4244704,Loretto,incorporated,21,A,1196,"Loretto, PA",0,561,0,0,Loretto borough
+PA,4283472,West Mayfield,incorporated,21,A,1195,"West Mayfield, PA",0,562,0,0,West Mayfield borough
+PA,4283248,West Kittanning,incorporated,21,A,1192,"West Kittanning, PA",0,563,0,0,West Kittanning borough
+PA,4208064,Bradford Woods,incorporated,21,A,1183,"Bradford Woods, PA",0,564,0,0,Bradford Woods borough
+PA,4284440,Whitaker,incorporated,21,A,1179,"Whitaker, PA",0,565,0,0,Whitaker borough
+PA,4232080,Hallstead,incorporated,21,A,1174,"Hallstead, PA",0,566,0,0,Hallstead borough
+PA,4235896,Houston,incorporated,21,A,1172,"Houston, PA",0,567,0,0,Houston borough
+PA,4284552,White Haven,incorporated,21,A,1166,"White Haven, PA",0,568,0,0,White Haven borough
+PA,4224488,Factoryville,incorporated,21,A,1165,"Factoryville, PA",0,569,0,0,Factoryville borough
+PA,4242392,Leetsdale,incorporated,21,A,1162,"Leetsdale, PA",0,570,0,0,Leetsdale borough
+PA,4261864,Point Marion,incorporated,21,A,1156,"Point Marion, PA",0,571,0,0,Point Marion borough
+PA,4246000,McConnellsburg,incorporated,21,A,1151,"McConnellsburg, PA",0,572,0,0,McConnellsburg borough
+PA,4266560,Royalton,incorporated,21,A,1138,"Royalton, PA",0,573,0,0,Royalton borough
+PA,4220776,East Bangor,incorporated,21,A,1124,"East Bangor, PA",0,574,0,0,East Bangor borough
+PA,4262752,Prospect,incorporated,21,A,1123,"Prospect, PA",0,575,0,0,Prospect borough
+PA,4214800,Cochranton,incorporated,21,A,1118,"Cochranton, PA",0,576,0,0,Cochranton borough
+PA,4275888,Sykesville,incorporated,21,A,1115,"Sykesville, PA",0,577,0,0,Sykesville borough
+PA,4213512,Christiana,incorporated,21,A,1112,"Christiana, PA",0,578,0,0,Christiana borough
+PA,4282968,Westfield,incorporated,21,A,1112,"Westfield, PA",0,579,0,0,Westfield borough
+PA,4249400,Milford,incorporated,21,A,1103,"Milford, PA",0,580,0,0,Milford borough
+PA,4270304,Shinglehouse,incorporated,21,A,1103,"Shinglehouse, PA",0,581,0,0,Shinglehouse borough
+PA,4240272,Knox,incorporated,21,A,1093,"Knox, PA",0,582,0,0,Knox borough
+PA,4249368,Milesburg,incorporated,21,A,1093,"Milesburg, PA",0,583,0,0,Milesburg borough
+PA,4272736,Speers,incorporated,21,A,1088,"Speers, PA",0,584,0,0,Speers borough
+PA,4220992,East Conemaugh,incorporated,21,A,1082,"East Conemaugh, PA",0,585,0,0,East Conemaugh borough
+PA,4223280,Ellport,incorporated,21,A,1082,"Ellport, PA",0,586,0,0,Ellport borough
+PA,4205936,Bessemer,incorporated,21,A,1076,"Bessemer, PA",0,587,0,0,Bessemer borough
+PA,4272592,South Waverly,incorporated,21,A,1070,"South Waverly, PA",0,588,0,0,South Waverly borough
+PA,4264200,Renovo,incorporated,21,A,1061,"Renovo, PA",0,589,0,0,Renovo borough
+PA,4287040,Yoe,incorporated,21,A,1055,"Yoe, PA",0,590,0,0,Yoe borough
+PA,4253944,New Philadelphia,incorporated,21,A,1054,"New Philadelphia, PA",0,591,0,0,New Philadelphia borough
+PA,4211456,Carrolltown,incorporated,21,A,1051,"Carrolltown, PA",0,592,0,0,Carrolltown borough
+PA,4257232,Osceola Mills,incorporated,21,A,1045,"Osceola Mills, PA",0,593,0,0,Osceola Mills borough
+PA,4225136,Falls Creek,incorporated,21,A,1036,"Falls Creek, PA",0,594,0,0,Falls Creek borough
+PA,4205288,Belle Vernon,incorporated,21,A,1024,"Belle Vernon, PA",0,595,0,0,Belle Vernon borough
+PA,4200116,Abbottstown,incorporated,21,A,1022,"Abbottstown, PA",0,596,0,0,Abbottstown borough
+PA,4266192,Rose Valley,incorporated,21,A,1017,"Rose Valley, PA",0,597,0,0,Rose Valley borough
+PA,4220216,Dunbar,incorporated,21,A,1013,"Dunbar, PA",0,598,0,0,Dunbar borough
+PA,4218000,Dale,incorporated,21,A,1008,"Dale, PA",0,599,0,0,Dale borough
+PA,4204848,Beavertown,incorporated,21,A,1004,"Beavertown, PA",0,600,0,0,Beavertown borough
+PA,4275072,Sugar Notch,incorporated,21,A,1001,"Sugar Notch, PA",0,601,0,0,Sugar Notch borough
+PA,4212296,Central City,incorporated,21,A,998,"Central City, PA",0,602,0,0,Central City borough
+PA,4228280,Galeton,incorporated,21,A,990,"Galeton, PA",0,603,0,0,Galeton borough
+PA,4236192,Hulmeville,incorporated,21,A,982,"Hulmeville, PA",0,604,0,0,Hulmeville borough
+PA,4253248,New Bethlehem,incorporated,21,A,978,"New Bethlehem, PA",0,605,0,0,New Bethlehem borough
+PA,4282616,West Brownsville,incorporated,21,A,977,"West Brownsville, PA",0,606,0,0,West Brownsville borough
+PA,4249944,Millville,incorporated,21,A,976,"Millville, PA",0,607,0,0,Millville borough
+PA,4257752,Palo Alto,incorporated,21,A,970,"Palo Alto, PA",0,608,0,0,Palo Alto borough
+PA,4243656,Linesville,incorporated,21,A,962,"Linesville, PA",0,609,0,0,Linesville borough
+PA,4243968,Liverpool,incorporated,21,A,960,"Liverpool, PA",0,610,0,0,Liverpool borough
+PA,4237304,Ivyland,incorporated,21,A,955,"Ivyland, PA",0,611,0,0,Ivyland borough
+PA,4272168,South Fork,incorporated,21,A,954,"South Fork, PA",0,612,0,0,South Fork borough
+PA,4223296,Ellsworth,incorporated,21,A,945,"Ellsworth, PA",0,613,0,0,Ellsworth borough
+PA,4274288,Stoneboro,incorporated,21,A,945,"Stoneboro, PA",0,614,0,0,Stoneboro borough
+PA,4232688,Harmony,incorporated,21,A,942,"Harmony, PA",0,615,0,0,Harmony borough
+PA,4264904,Rimersburg,incorporated,21,A,942,"Rimersburg, PA",0,616,0,0,Rimersburg borough
+PA,4221728,East Prospect,incorporated,21,A,934,"East Prospect, PA",0,617,0,0,East Prospect borough
+PA,4230016,Goldsboro,incorporated,21,A,932,"Goldsboro, PA",0,618,0,0,Goldsboro borough
+PA,4243408,Lincoln,incorporated,21,A,932,"Lincoln, PA",0,619,0,0,Lincoln borough
+PA,4249240,Midway,incorporated,21,A,924,"Midway, PA",0,620,0,0,Midway borough
+PA,4274232,Stockertown,incorporated,21,A,919,"Stockertown, PA",0,621,0,0,Stockertown borough
+PA,4213440,Chicora,incorporated,21,A,916,"Chicora, PA",0,622,0,0,Chicora borough
+PA,4257544,Paint,incorporated,21,A,906,"Paint, PA",0,623,0,0,Paint borough
+PA,4205848,Bernville,incorporated,21,A,905,"Bernville, PA",0,624,0,0,Bernville borough
+PA,4277704,Trumbauersville,incorporated,21,A,904,"Trumbauersville, PA",0,625,0,0,Trumbauersville borough
+PA,4203688,Avonmore,incorporated,21,A,900,"Avonmore, PA",0,626,0,0,Avonmore borough
+PA,4204816,Beaver Meadows,incorporated,21,A,897,"Beaver Meadows, PA",0,627,0,0,Beaver Meadows borough
+PA,4224432,Export,incorporated,21,A,894,"Export, PA",0,628,0,0,Export borough
+PA,4262712,Pringle,incorporated,21,A,893,"Pringle, PA",0,629,0,0,Pringle borough
+PA,4207880,Bowmanstown,incorporated,21,A,889,"Bowmanstown, PA",0,630,0,0,Bowmanstown borough
+PA,4245992,McClure,incorporated,21,A,889,"McClure, PA",0,631,0,0,McClure borough
+PA,4204896,Bechtelsville,incorporated,21,A,884,"Bechtelsville, PA",0,632,0,0,Bechtelsville borough
+PA,4243248,Lilly,incorporated,21,A,879,"Lilly, PA",0,633,0,0,Lilly borough
+PA,4267120,Saegertown,incorporated,21,A,871,"Saegertown, PA",0,634,0,0,Saegertown borough
+PA,4202928,Arendtsville,incorporated,21,A,867,"Arendtsville, PA",0,635,0,0,Arendtsville borough
+PA,4236640,Hyndman,incorporated,21,A,863,"Hyndman, PA",0,636,0,0,Hyndman borough
+PA,4251632,Mount Jewett,incorporated,21,A,858,"Mount Jewett, PA",0,637,0,0,Mount Jewett borough
+PA,4269400,Sewickley Heights,incorporated,21,A,857,"Sewickley Heights, PA",0,638,0,0,Sewickley Heights borough
+PA,4264856,Riegelsville,incorporated,21,A,847,"Riegelsville, PA",0,639,0,0,Riegelsville borough
+PA,4261512,Pleasantville,incorporated,21,A,846,"Pleasantville, PA",0,640,0,0,Pleasantville borough
+PA,4265736,Rockwood,incorporated,21,A,843,"Rockwood, PA",0,641,0,0,Rockwood borough
+PA,4249304,Mifflintown,incorporated,21,A,840,"Mifflintown, PA",0,642,0,0,Mifflintown borough
+PA,4249768,Millheim,incorporated,21,A,831,"Millheim, PA",0,643,0,0,Millheim borough
+PA,4271320,Smithfield,incorporated,21,A,831,"Smithfield, PA",0,644,0,0,Smithfield borough
+PA,4266720,Rural Valley,incorporated,21,A,826,"Rural Valley, PA",0,645,0,0,Rural Valley borough
+PA,4205680,Benton,incorporated,21,A,823,"Benton, PA",0,646,0,0,Benton borough
+PA,4255136,North Irwin,incorporated,21,A,823,"North Irwin, PA",0,647,0,0,North Irwin borough
+PA,4254056,New Salem,incorporated,21,A,822,"New Salem, PA",0,648,0,0,New Salem borough
+PA,4213240,Chester Hill,incorporated,21,A,821,"Chester Hill, PA",0,649,0,0,Chester Hill borough
+PA,4232896,Harrisville,incorporated,21,A,819,"Harrisville, PA",0,650,0,0,Harrisville borough
+PA,4220840,East Brady,incorporated,21,A,818,"East Brady, PA",0,651,0,0,East Brady borough
+PA,4283496,West Middlesex,incorporated,21,A,818,"West Middlesex, PA",0,652,0,0,West Middlesex borough
+PA,4253880,New Milford,incorporated,21,A,812,"New Milford, PA",0,653,0,0,New Milford borough
+PA,4262304,Port Royal,incorporated,21,A,807,"Port Royal, PA",0,654,0,0,Port Royal borough
+PA,4270744,Silverdale,incorporated,21,A,805,"Silverdale, PA",0,655,0,0,Silverdale borough
+PA,4253200,New Berlin,incorporated,21,A,801,"New Berlin, PA",0,656,0,0,New Berlin borough
+PA,4232032,Halifax,incorporated,21,A,796,"Halifax, PA",0,657,0,0,Halifax borough
+PA,4218272,Dauphin,incorporated,21,A,795,"Dauphin, PA",0,658,0,0,Dauphin borough
+PA,4256496,Oklahoma,incorporated,21,A,788,"Oklahoma, PA",0,659,0,0,Oklahoma borough
+PA,4266928,Rutledge,incorporated,21,A,782,"Rutledge, PA",0,660,0,0,Rutledge borough
+PA,4267648,Saltsburg,incorporated,21,A,780,"Saltsburg, PA",0,661,0,0,Saltsburg borough
+PA,4224336,Everson,incorporated,21,A,771,"Everson, PA",0,662,0,0,Everson borough
+PA,4222888,Eldred,incorporated,21,A,765,"Eldred, PA",0,663,0,0,Eldred borough
+PA,4220904,East Butler,incorporated,21,A,764,"East Butler, PA",0,664,0,0,East Butler borough
+PA,4235928,Houtzdale,incorporated,21,A,764,"Houtzdale, PA",0,665,0,0,Houtzdale borough
+PA,4230128,Gordon,incorporated,21,A,761,"Gordon, PA",0,666,0,0,Gordon borough
+PA,4218496,Deemston,incorporated,21,A,754,"Deemston, PA",0,667,0,0,Deemston borough
+PA,4212496,Chalfant,incorporated,21,A,748,"Chalfant, PA",0,668,0,0,Chalfant borough
+PA,4208632,Bridgewater,incorporated,21,A,745,"Bridgewater, PA",0,669,0,0,Bridgewater borough
+PA,4268104,Scalp Level,incorporated,21,A,744,"Scalp Level, PA",0,670,0,0,Scalp Level borough
+PA,4230600,Gratz,incorporated,21,A,743,"Gratz, PA",0,671,0,0,Gratz borough
+PA,4215760,Conneautville,incorporated,21,A,739,"Conneautville, PA",0,672,0,0,Conneautville borough
+PA,4204984,Beech Creek,incorporated,21,A,736,"Beech Creek, PA",0,673,0,0,Beech Creek borough
+PA,4205536,Bendersville,incorporated,21,A,736,"Bendersville, PA",0,674,0,0,Bendersville borough
+PA,4214000,Claysville,incorporated,21,A,733,"Claysville, PA",0,675,0,0,Claysville borough
+PA,4279792,Vandling,incorporated,21,A,730,"Vandling, PA",0,676,0,0,Vandling borough
+PA,4268072,Saxton,incorporated,21,A,726,"Saxton, PA",0,677,0,0,Saxton borough
+PA,4215680,Confluence,incorporated,21,A,722,"Confluence, PA",0,678,0,0,Confluence borough
+PA,4265000,Ringtown,incorporated,21,A,721,"Ringtown, PA",0,679,0,0,Ringtown borough
+PA,4266016,Roscoe,incorporated,21,A,720,"Roscoe, PA",0,680,0,0,Roscoe borough
+PA,4240400,Koppel,incorporated,21,A,712,"Koppel, PA",0,681,0,0,Koppel borough
+PA,4218800,Delta,incorporated,21,A,707,"Delta, PA",0,682,0,0,Delta borough
+PA,4267584,Salisbury,incorporated,21,A,706,"Salisbury, PA",0,683,0,0,Salisbury borough
+PA,4209400,Brownstown,incorporated,21,A,696,"Brownstown, PA",0,684,0,0,Brownstown borough
+PA,4254400,Nicholson,incorporated,21,A,696,"Nicholson, PA",0,685,0,0,Nicholson borough
+PA,4257976,Parker,incorporated,25,A,695,"Parker, PA",0,686,0,0,Parker city
+PA,4242016,Lawrenceville,incorporated,21,A,691,"Lawrenceville, PA",0,687,0,0,Lawrenceville borough
+PA,4249720,Millerstown,incorporated,21,A,691,"Millerstown, PA",0,688,0,0,Millerstown borough
+PA,4216568,Courtdale,incorporated,21,A,689,"Courtdale, PA",0,689,0,0,Courtdale borough
+PA,4269416,Sewickley Hills,incorporated,21,A,689,"Sewickley Hills, PA",0,690,0,0,Sewickley Hills borough
+PA,4235960,Howard,incorporated,21,A,687,"Howard, PA",0,691,0,0,Howard borough
+PA,4287080,York Haven,incorporated,21,A,686,"York Haven, PA",0,692,0,0,York Haven borough
+PA,4287136,York Springs,incorporated,21,A,683,"York Springs, PA",0,693,0,0,York Springs borough
+PA,4271176,Sligo,incorporated,21,A,681,"Sligo, PA",0,694,0,0,Sligo borough
+PA,4240360,Knoxville,incorporated,21,A,680,"Knoxville, PA",0,695,0,0,Knoxville borough
+PA,4238048,Jennerstown,incorporated,21,A,678,"Jennerstown, PA",0,696,0,0,Jennerstown borough
+PA,4259152,Pennsbury Village,incorporated,21,A,677,"Pennsbury Village, PA",0,697,0,0,Pennsbury Village borough
+PA,4277832,Turbotville,incorporated,21,A,677,"Turbotville, PA",0,698,0,0,Turbotville borough
+PA,4218736,Delaware Water Gap,incorporated,21,A,675,"Delaware Water Gap, PA",0,699,0,0,Delaware Water Gap borough
+PA,4253544,New Florence,incorporated,21,A,671,"New Florence, PA",0,700,0,0,New Florence borough
+PA,4218576,Deer Lake,incorporated,21,A,670,"Deer Lake, PA",0,701,0,0,Deer Lake borough
+PA,4271600,Snow Shoe,incorporated,21,A,670,"Snow Shoe, PA",0,702,0,0,Snow Shoe borough
+PA,4215808,Connoquenessing,incorporated,21,A,668,"Connoquenessing, PA",0,703,0,0,Connoquenessing borough
+PA,4255752,Nuangola,incorporated,21,A,666,"Nuangola, PA",0,704,0,0,Nuangola borough
+PA,4203488,Auburn,incorporated,21,A,660,"Auburn, PA",0,705,0,0,Auburn borough
+PA,4237944,Jefferson,incorporated,21,A,658,"Jefferson, PA",0,706,0,0,Jefferson borough
+PA,4267848,Sandy Lake,incorporated,21,A,649,"Sandy Lake, PA",0,707,0,0,Sandy Lake borough
+PA,4206344,Big Run,incorporated,21,A,647,"Big Run, PA",0,708,0,0,Big Run borough
+PA,4272376,South New Castle,incorporated,21,A,647,"South New Castle, PA",0,709,0,0,South New Castle borough
+PA,4260136,Picture Rocks,incorporated,21,A,643,"Picture Rocks, PA",0,710,0,0,Picture Rocks borough
+PA,4258384,Patterson Heights,incorporated,21,A,639,"Patterson Heights, PA",0,711,0,0,Patterson Heights borough
+PA,4286952,Yatesville,incorporated,21,A,638,"Yatesville, PA",0,712,0,0,Yatesville borough
+PA,4261936,Polk,incorporated,21,A,634,"Polk, PA",0,713,0,0,Polk borough
+PA,4270224,Shickshinny,incorporated,21,A,632,"Shickshinny, PA",0,714,0,0,Shickshinny borough
+PA,4276536,Thompsontown,incorporated,21,A,631,"Thompsontown, PA",0,715,0,0,Thompsontown borough
+PA,4267920,Sankertown,incorporated,21,A,630,"Sankertown, PA",0,716,0,0,Sankertown borough
+PA,4214896,Cokeburg,incorporated,21,A,629,"Cokeburg, PA",0,717,0,0,Cokeburg borough
+PA,4235608,Hooversville,incorporated,21,A,628,"Hooversville, PA",0,718,0,0,Hooversville borough
+PA,4230728,Great Bend,incorporated,21,A,627,"Great Bend, PA",0,719,0,0,Great Bend borough
+PA,4276696,Tidioute,incorporated,21,A,626,"Tidioute, PA",0,720,0,0,Tidioute borough
+PA,4215744,Conneaut Lake,incorporated,21,A,624,"Conneaut Lake, PA",0,721,0,0,Conneaut Lake borough
+PA,4223568,Emlenton,incorporated,21,A,614,"Emlenton, PA",0,722,0,0,Emlenton borough
+PA,4286656,Wyalusing,incorporated,21,A,613,"Wyalusing, PA",0,723,0,0,Wyalusing borough
+PA,4285872,Winterstown,incorporated,21,A,608,"Winterstown, PA",0,724,0,0,Winterstown borough
+PA,4276808,Tioga,incorporated,21,A,606,"Tioga, PA",0,725,0,0,Tioga borough
+PA,4221976,East Vandergrift,incorporated,21,A,602,"East Vandergrift, PA",0,726,0,0,East Vandergrift borough
+PA,4278240,Ulysses,incorporated,21,A,599,"Ulysses, PA",0,727,0,0,Ulysses borough
+PA,4208472,Briar Creek,incorporated,21,A,597,"Briar Creek, PA",0,728,0,0,Briar Creek borough
+PA,4286560,Worthington,incorporated,21,A,594,"Worthington, PA",0,729,0,0,Worthington borough
+PA,4229732,Glen Osborne,incorporated,21,A,590,"Glen Osborne, PA",0,730,0,0,Glen Osborne borough
+PA,4244664,Lorain,incorporated,21,A,589,"Lorain, PA",0,731,0,0,Lorain borough
+PA,4242984,Lewis Run,incorporated,21,A,583,"Lewis Run, PA",0,732,0,0,Lewis Run borough
+PA,4237696,Jamestown,incorporated,21,A,582,"Jamestown, PA",0,733,0,0,Jamestown borough
+PA,4229088,Gilberton,incorporated,21,A,579,"Gilberton, PA",0,734,0,0,Gilberton borough
+PA,4262280,Port Matilda,incorporated,21,A,578,"Port Matilda, PA",0,735,0,0,Port Matilda borough
+PA,4213832,Clark,incorporated,21,A,576,"Clark, PA",0,736,0,0,Clark borough
+PA,4216960,Cranesville,incorporated,21,A,570,"Cranesville, PA",0,737,0,0,Cranesville borough
+PA,4221752,East Rochester,incorporated,21,A,565,"East Rochester, PA",0,738,0,0,East Rochester borough
+PA,4238640,Juniata Terrace,incorporated,21,A,564,"Juniata Terrace, PA",0,739,0,0,Juniata Terrace borough
+PA,4275024,Sugar Grove,incorporated,21,A,564,"Sugar Grove, PA",0,740,0,0,Sugar Grove borough
+PA,4256008,Oakland,incorporated,21,A,563,"Oakland, PA",0,741,0,0,Oakland borough
+PA,4275584,Sutersville,incorporated,21,A,561,"Sutersville, PA",0,742,0,0,Sutersville borough
+PA,4247480,Marion Heights,incorporated,21,A,560,"Marion Heights, PA",0,743,0,0,Marion Heights borough
+PA,4280880,Wampum,incorporated,21,A,559,"Wampum, PA",0,744,0,0,Wampum borough
+PA,4241848,Laurel Run,incorporated,21,A,558,"Laurel Run, PA",0,745,0,0,Laurel Run borough
+PA,4227696,Freeburg,incorporated,21,A,557,"Freeburg, PA",0,746,0,0,Freeburg borough
+PA,4218400,Dayton,incorporated,21,A,549,"Dayton, PA",0,747,0,0,Dayton borough
+PA,4237192,Irvona,incorporated,21,A,549,"Irvona, PA",0,748,0,0,Irvona borough
+PA,4250232,Modena,incorporated,21,A,541,"Modena, PA",0,749,0,0,Modena borough
+PA,4274728,Strattanville,incorporated,21,A,537,"Strattanville, PA",0,750,0,0,Strattanville borough
+PA,4279504,Valencia,incorporated,21,A,537,"Valencia, PA",0,751,0,0,Valencia borough
+PA,4249272,Mifflin,incorporated,21,A,530,"Mifflin, PA",0,752,0,0,Mifflin borough
+PA,4236616,Hydetown,incorporated,21,A,529,"Hydetown, PA",0,753,0,0,Hydetown borough
+PA,4281080,Warrior Run,incorporated,21,A,527,"Warrior Run, PA",0,754,0,0,Warrior Run borough
+PA,4224560,Fairfield,incorporated,21,A,526,"Fairfield, PA",0,755,0,0,Fairfield borough
+PA,4217416,Cross Roads,incorporated,21,A,523,"Cross Roads, PA",0,756,0,0,Cross Roads borough
+PA,4280600,Wall,incorporated,21,A,519,"Wall, PA",0,757,0,0,Wall borough
+PA,4227576,Franklintown,incorporated,21,A,518,"Franklintown, PA",0,758,0,0,Franklintown borough
+PA,4253504,Newell,incorporated,21,A,513,"Newell, PA",0,759,0,0,Newell borough
+PA,4236592,Hyde Park,incorporated,21,A,509,"Hyde Park, PA",0,760,0,0,Hyde Park borough
+PA,4241336,Lanesboro,incorporated,21,A,508,"Lanesboro, PA",0,761,0,0,Lanesboro borough
+PA,4275168,Summerville,incorporated,21,A,504,"Summerville, PA",0,762,0,0,Summerville borough
+PA,4225456,Fayette City,incorporated,21,A,502,"Fayette City, PA",0,763,0,0,Fayette City borough
+PA,4225584,Felton,incorporated,21,A,501,"Felton, PA",0,764,0,0,Felton borough
+PA,4253160,New Alexandria,incorporated,21,A,501,"New Alexandria, PA",0,765,0,0,New Alexandria borough
+PA,4262264,Portland,incorporated,21,A,494,"Portland, PA",0,766,0,0,Portland borough
+PA,4231088,Green Lane,incorporated,21,A,490,"Green Lane, PA",0,767,0,0,Green Lane borough
+PA,4271976,South Bethlehem,incorporated,21,A,489,"South Bethlehem, PA",0,768,0,0,South Bethlehem borough
+PA,4200988,Allenport,incorporated,21,A,484,"Allenport, PA",0,769,0,0,Allenport borough
+PA,4203576,Austin,incorporated,21,A,482,"Austin, PA",0,770,0,0,Austin borough
+PA,4269360,Seven Valleys,incorporated,21,A,480,"Seven Valleys, PA",0,771,0,0,Seven Valleys borough
+PA,4256912,Orangeville,incorporated,21,A,479,"Orangeville, PA",0,772,0,0,Orangeville borough
+PA,4275136,Summerhill,incorporated,21,A,479,"Summerhill, PA",0,773,0,0,Summerhill borough
+PA,4250432,Monroe,incorporated,21,A,478,"Monroe, PA",0,774,0,0,Monroe borough
+PA,4233216,Hawthorn,incorporated,21,A,477,"Hawthorn, PA",0,775,0,0,Hawthorn borough
+PA,4225416,Fawn Grove,incorporated,21,A,476,"Fawn Grove, PA",0,776,0,0,Fawn Grove borough
+PA,4246216,McKean,incorporated,21,A,476,"McKean, PA",0,777,0,0,McKean borough
+PA,4244400,Loganton,incorporated,21,A,469,"Loganton, PA",0,778,0,0,Loganton borough
+PA,4276560,Thornburg,incorporated,21,A,466,"Thornburg, PA",0,779,0,0,Thornburg borough
+PA,4248448,Mechanicsville,incorporated,21,A,461,"Mechanicsville, PA",0,780,0,0,Mechanicsville borough
+PA,4266440,Rouseville,incorporated,21,A,457,"Rouseville, PA",0,781,0,0,Rouseville borough
+PA,4220528,Dushore,incorporated,21,A,451,"Dushore, PA",0,782,0,0,Dushore borough
+PA,4256928,Orbisonia,incorporated,21,A,449,"Orbisonia, PA",0,783,0,0,Orbisonia borough
+PA,4276632,Three Springs,incorporated,21,A,448,"Three Springs, PA",0,784,0,0,Three Springs borough
+PA,4261168,Platea,incorporated,21,A,442,"Platea, PA",0,785,0,0,Platea borough
+PA,4270368,Shippenville,incorporated,21,A,442,"Shippenville, PA",0,786,0,0,Shippenville borough
+PA,4266320,Rosslyn Farms,incorporated,21,A,441,"Rosslyn Farms, PA",0,787,0,0,Rosslyn Farms borough
+PA,4214376,Clintonville,incorporated,21,A,439,"Clintonville, PA",0,788,0,0,Clintonville borough
+PA,4245752,Lyons,incorporated,21,A,439,"Lyons, PA",0,789,0,0,Lyons borough
+PA,4227688,Fredonia,incorporated,21,A,436,"Fredonia, PA",0,790,0,0,Fredonia borough
+PA,4263360,Ramey,incorporated,21,A,436,"Ramey, PA",0,791,0,0,Ramey borough
+PA,4207480,Bolivar,incorporated,21,A,435,"Bolivar, PA",0,792,0,0,Bolivar borough
+PA,4258872,Penn,incorporated,21,A,435,"Penn, PA",0,793,0,0,Penn borough
+PA,4211328,Carmichaels,incorporated,21,A,432,"Carmichaels, PA",0,794,0,0,Carmichaels borough
+PA,4276848,Tionesta,incorporated,21,A,428,"Tionesta, PA",0,795,0,0,Tionesta borough
+PA,4214656,Coalport,incorporated,21,A,425,"Coalport, PA",0,796,0,0,Coalport borough
+PA,4264432,Rices Landing,incorporated,21,A,425,"Rices Landing, PA",0,797,0,0,Rices Landing borough
+PA,4209528,Bruin,incorporated,21,A,423,"Bruin, PA",0,798,0,0,Bruin borough
+PA,4208744,Brisbin,incorporated,21,A,422,"Brisbin, PA",0,799,0,0,Brisbin borough
+PA,4244512,Long Branch,incorporated,21,A,421,"Long Branch, PA",0,800,0,0,Long Branch borough
+PA,4274224,Stockdale,incorporated,21,A,421,"Stockdale, PA",0,801,0,0,Stockdale borough
+PA,4259616,Petersburg,incorporated,21,A,419,"Petersburg, PA",0,802,0,0,Petersburg borough
+PA,4279768,Vanderbilt,incorporated,21,A,419,"Vanderbilt, PA",0,803,0,0,Vanderbilt borough
+PA,4247248,Mapleton,incorporated,21,A,418,"Mapleton, PA",0,804,0,0,Mapleton borough
+PA,4224040,Ernest,incorporated,21,A,417,"Ernest, PA",0,805,0,0,Ernest borough
+PA,4258304,Parryville,incorporated,21,A,416,"Parryville, PA",0,806,0,0,Parryville borough
+PA,4228520,Garrett,incorporated,21,A,415,"Garrett, PA",0,807,0,0,Garrett borough
+PA,4282080,Weissport,incorporated,21,A,413,"Weissport, PA",0,808,0,0,Weissport borough
+PA,4280288,Vintondale,incorporated,21,A,412,"Vintondale, PA",0,809,0,0,Vintondale borough
+PA,4269368,Seward,incorporated,21,A,411,"Seward, PA",0,810,0,0,Seward borough
+PA,4272448,South Renovo,incorporated,21,A,411,"South Renovo, PA",0,811,0,0,South Renovo borough
+PA,4213776,Clarendon,incorporated,21,A,410,"Clarendon, PA",0,812,0,0,Clarendon borough
+PA,4247472,Marion Center,incorporated,21,A,405,"Marion Center, PA",0,813,0,0,Marion Center borough
+PA,4282848,West Elizabeth,incorporated,21,A,403,"West Elizabeth, PA",0,814,0,0,West Elizabeth borough
+PA,4205520,Ben Avon Heights,incorporated,21,A,400,"Ben Avon Heights, PA",0,815,0,0,Ben Avon Heights borough
+PA,4216080,Cooperstown,incorporated,21,A,399,"Cooperstown, PA",0,816,0,0,Cooperstown borough
+PA,4247400,Marianna,incorporated,21,A,399,"Marianna, PA",0,817,0,0,Marianna borough
+PA,4204568,Beallsville,incorporated,21,A,393,"Beallsville, PA",0,818,0,0,Beallsville borough
+PA,4236888,Indian Lake,incorporated,21,A,390,"Indian Lake, PA",0,819,0,0,Indian Lake borough
+PA,4249936,Mill Village,incorporated,21,A,388,"Mill Village, PA",0,820,0,0,Mill Village borough
+PA,4200756,Alexandria,incorporated,21,A,384,"Alexandria, PA",0,821,0,0,Alexandria borough
+PA,4265944,Rome,incorporated,21,A,384,"Rome, PA",0,822,0,0,Rome borough
+PA,4272216,South Heights,incorporated,21,A,384,"South Heights, PA",0,823,0,0,South Heights borough
+PA,4242968,Lewisberry,incorporated,21,A,382,"Lewisberry, PA",0,824,0,0,Lewisberry borough
+PA,4247064,Manorville,incorporated,21,A,382,"Manorville, PA",0,825,0,0,Manorville borough
+PA,4265496,Rockhill,incorporated,21,A,379,"Rockhill, PA",0,826,0,0,Rockhill borough
+PA,4272872,Springboro,incorporated,21,A,377,"Springboro, PA",0,827,0,0,Springboro borough
+PA,4225944,Finleyville,incorporated,21,A,376,"Finleyville, PA",0,828,0,0,Finleyville borough
+PA,4229568,Glendon,incorporated,21,A,373,"Glendon, PA",0,829,0,0,Glendon borough
+PA,4220328,Dunlevy,incorporated,21,A,371,"Dunlevy, PA",0,830,0,0,Dunlevy borough
+PA,4208896,Broad Top City,incorporated,21,A,367,"Broad Top City, PA",0,831,0,0,Broad Top City borough
+PA,4210800,Callery,incorporated,21,A,364,"Callery, PA",0,832,0,0,Callery borough
+PA,4246488,Madison,incorporated,21,A,364,"Madison, PA",0,833,0,0,Madison borough
+PA,4253344,Newburg,incorporated,21,A,364,"Newburg, PA",0,834,0,0,Newburg borough
+PA,4249048,Middleport,incorporated,21,A,362,"Middleport, PA",0,835,0,0,Middleport borough
+PA,4226520,Ford Cliff,incorporated,21,A,361,"Ford Cliff, PA",0,836,0,0,Ford Cliff borough
+PA,4230280,Grampian,incorporated,21,A,361,"Grampian, PA",0,837,0,0,Grampian borough
+PA,4240744,Laceyville,incorporated,21,A,361,"Laceyville, PA",0,838,0,0,Laceyville borough
+PA,4283736,Westover,incorporated,21,A,361,"Westover, PA",0,839,0,0,Westover borough
+PA,4259054,Penn Lake Park,incorporated,21,A,360,"Penn Lake Park, PA",0,840,0,0,Penn Lake Park borough
+PA,4281648,Wattsburg,incorporated,21,A,353,"Wattsburg, PA",0,841,0,0,Wattsburg borough
+PA,4218360,Dawson,incorporated,21,A,352,"Dawson, PA",0,842,0,0,Dawson borough
+PA,4271424,Smithton,incorporated,21,A,351,"Smithton, PA",0,843,0,0,Smithton borough
+PA,4234080,Herndon,incorporated,21,A,347,"Herndon, PA",0,844,0,0,Herndon borough
+PA,4207120,Blooming Valley,incorporated,21,A,344,"Blooming Valley, PA",0,845,0,0,Blooming Valley borough
+PA,4246400,McVeytown,incorporated,21,A,344,"McVeytown, PA",0,846,0,0,McVeytown borough
+PA,4267384,St. Petersburg,incorporated,21,A,336,"St. Petersburg, PA",0,847,0,0,St. Petersburg borough
+PA,4283376,West Liberty,incorporated,21,A,335,"West Liberty, PA",0,848,0,0,West Liberty borough
+PA,4202752,Applewold,incorporated,21,A,334,"Applewold, PA",0,849,0,0,Applewold borough
+PA,4222832,Elderton,incorporated,21,A,334,"Elderton, PA",0,850,0,0,Elderton borough
+PA,4253592,New Galilee,incorporated,21,A,330,"New Galilee, PA",0,851,0,0,New Galilee borough
+PA,4268152,Schellsburg,incorporated,21,A,330,"Schellsburg, PA",0,852,0,0,Schellsburg borough
+PA,4246568,Mahaffey,incorporated,21,A,329,"Mahaffey, PA",0,853,0,0,Mahaffey borough
+PA,4205856,Berrysburg,incorporated,21,A,326,"Berrysburg, PA",0,854,0,0,Berrysburg borough
+PA,4248856,Meshoppen,incorporated,21,A,326,"Meshoppen, PA",0,855,0,0,Meshoppen borough
+PA,4277232,Townville,incorporated,21,A,326,"Townville, PA",0,856,0,0,Townville borough
+PA,4271688,Snydertown,incorporated,21,A,325,"Snydertown, PA",0,857,0,0,Snydertown borough
+PA,4216304,Corsica,incorporated,21,A,319,"Corsica, PA",0,858,0,0,Corsica borough
+PA,4246944,Manns Choice,incorporated,21,A,316,"Manns Choice, PA",0,859,0,0,Manns Choice borough
+PA,4277808,Tunnelhill,incorporated,21,A,315,"Tunnelhill, PA",0,860,0,0,Tunnelhill borough
+PA,4212104,Centerport,incorporated,21,A,314,"Centerport, PA",0,861,0,0,Centerport borough
+PA,4241512,Laporte,incorporated,21,A,314,"Laporte, PA",0,862,0,0,Laporte borough
+PA,4235624,Hop Bottom,incorporated,21,A,311,"Hop Bottom, PA",0,863,0,0,Hop Bottom borough
+PA,4236288,Hunker,incorporated,21,A,310,"Hunker, PA",0,864,0,0,Hunker borough
+PA,4267632,Saltillo,incorporated,21,A,309,"Saltillo, PA",0,865,0,0,Saltillo borough
+PA,4222128,Eau Claire,incorporated,21,A,307,"Eau Claire, PA",0,866,0,0,Eau Claire borough
+PA,4223768,Enon Valley,incorporated,21,A,301,"Enon Valley, PA",0,867,0,0,Enon Valley borough
+PA,4282200,Wellsville,incorporated,21,A,301,"Wellsville, PA",0,868,0,0,Wellsville borough
+PA,4274672,Stoystown,incorporated,21,A,300,"Stoystown, PA",0,869,0,0,Stoystown borough
+PA,4217976,Daisytown,incorporated,21,A,298,"Daisytown, PA",0,870,0,0,Daisytown borough
+PA,4280640,Wallaceton,incorporated,21,A,297,"Wallaceton, PA",0,871,0,0,Wallaceton borough
+PA,4246120,McEwensville,incorporated,21,A,293,"McEwensville, PA",0,872,0,0,McEwensville borough
+PA,4242824,LeRaysville,incorporated,21,A,292,"LeRaysville, PA",0,873,0,0,LeRaysville borough
+PA,4260264,Pillow,incorporated,21,A,292,"Pillow, PA",0,874,0,0,Pillow borough
+PA,4204599,Bear Creek Village,incorporated,21,A,291,"Bear Creek Village, PA",0,875,0,0,Bear Creek Village borough
+PA,4240016,Kistler,incorporated,21,A,291,"Kistler, PA",0,876,0,0,Kistler borough
+PA,4217024,Creekside,incorporated,21,A,288,"Creekside, PA",0,877,0,0,Creekside borough
+PA,4286128,Woodbury,incorporated,21,A,286,"Woodbury, PA",0,878,0,0,Woodbury borough
+PA,4249552,Mill Creek,incorporated,21,A,285,"Mill Creek, PA",0,879,0,0,Mill Creek borough
+PA,4272704,Spartansburg,incorporated,21,A,281,"Spartansburg, PA",0,880,0,0,Spartansburg borough
+PA,4227360,Franklin,incorporated,21,A,278,"Franklin, PA",0,881,0,0,Franklin borough
+PA,4262136,Port Clinton,incorporated,21,A,278,"Port Clinton, PA",0,882,0,0,Port Clinton borough
+PA,4213120,Cherry Tree,incorporated,21,A,268,"Cherry Tree, PA",0,883,0,0,Cherry Tree borough
+PA,4222800,Elco,incorporated,21,A,267,"Elco, PA",0,884,0,0,Elco borough
+PA,4278616,Unionville,incorporated,21,A,267,"Unionville, PA",0,885,0,0,Unionville borough
+PA,4231192,Greensboro,incorporated,21,A,264,"Greensboro, PA",0,886,0,0,Greensboro borough
+PA,4225152,Fallston,incorporated,21,A,259,"Fallston, PA",0,887,0,0,Fallston borough
+PA,4229512,Glen Campbell,incorporated,21,A,256,"Glen Campbell, PA",0,888,0,0,Glen Campbell borough
+PA,4263288,Railroad,incorporated,21,A,256,"Railroad, PA",0,889,0,0,Railroad borough
+PA,4203120,Arona,incorporated,21,A,255,"Arona, PA",0,890,0,0,Arona borough
+PA,4261632,Plumville,incorporated,21,A,255,"Plumville, PA",0,891,0,0,Plumville borough
+PA,4276496,Thompson,incorporated,21,A,254,"Thompson, PA",0,892,0,0,Thompson borough
+PA,4237880,Jefferson,incorporated,21,A,253,"Jefferson, PA",0,893,0,0,Jefferson borough
+PA,4254016,New Ringgold,incorporated,21,A,253,"New Ringgold, PA",0,894,0,0,New Ringgold borough
+PA,4287208,Youngstown,incorporated,21,A,252,"Youngstown, PA",0,895,0,0,Youngstown borough
+PA,4232936,Hartleton,incorporated,21,A,251,"Hartleton, PA",0,896,0,0,Hartleton borough
+PA,4253152,New Albany,incorporated,21,A,251,"New Albany, PA",0,897,0,0,New Albany borough
+PA,4267616,Salladasburg,incorporated,21,A,250,"Salladasburg, PA",0,898,0,0,Salladasburg borough
+PA,4218192,Darlington,incorporated,21,A,249,"Darlington, PA",0,899,0,0,Darlington borough
+PA,4221816,East Side,incorporated,21,A,247,"East Side, PA",0,900,0,0,East Side borough
+PA,4279424,Ursina,incorporated,21,A,247,"Ursina, PA",0,901,0,0,Ursina borough
+PA,4247560,Markleysburg,incorporated,21,A,246,"Markleysburg, PA",0,902,0,0,Markleysburg borough
+PA,4243928,Little Meadows,incorporated,21,A,245,"Little Meadows, PA",0,903,0,0,Little Meadows borough
+PA,4205976,Bethany,incorporated,21,A,241,"Bethany, PA",0,904,0,0,Bethany borough
+PA,4287064,Yorkana,incorporated,21,A,239,"Yorkana, PA",0,905,0,0,Yorkana borough
+PA,4262744,Prompton,incorporated,21,A,237,"Prompton, PA",0,906,0,0,Prompton borough
+PA,4243128,Liberty,incorporated,21,A,234,"Liberty, PA",0,907,0,0,Liberty borough
+PA,4262224,Portersville,incorporated,21,A,231,"Portersville, PA",0,908,0,0,Portersville borough
+PA,4254024,Newry,incorporated,21,A,230,"Newry, PA",0,909,0,0,Newry borough
+PA,4277568,Troutville,incorporated,21,A,230,"Troutville, PA",0,910,0,0,Troutville borough
+PA,4206824,Blain,incorporated,21,A,229,"Blain, PA",0,911,0,0,Blain borough
+PA,4212656,Chapman,incorporated,21,A,223,"Chapman, PA",0,912,0,0,Chapman borough
+PA,4253448,New Columbus,incorporated,21,A,222,"New Columbus, PA",0,913,0,0,New Columbus borough
+PA,4241272,Landisburg,incorporated,21,A,221,"Landisburg, PA",0,914,0,0,Landisburg borough
+PA,4278456,Union Dale,incorporated,21,A,220,"Union Dale, PA",0,915,0,0,Union Dale borough
+PA,4278008,Twilight,incorporated,21,A,216,"Twilight, PA",0,916,0,0,Twilight borough
+PA,4275944,Sylvania,incorporated,21,A,215,"Sylvania, PA",0,917,0,0,Sylvania borough
+PA,4257112,Orrstown,incorporated,21,A,214,"Orrstown, PA",0,918,0,0,Orrstown borough
+PA,4282128,Wellersburg,incorporated,21,A,214,"Wellersburg, PA",0,919,0,0,Wellersburg borough
+PA,4203296,Ashville,incorporated,21,A,213,"Ashville, PA",0,920,0,0,Ashville borough
+PA,4229592,Glenfield,incorporated,21,A,212,"Glenfield, PA",0,921,0,0,Glenfield borough
+PA,4279912,Venango,incorporated,21,A,212,"Venango, PA",0,922,0,0,Venango borough
+PA,4228824,Georgetown,incorporated,21,A,208,"Georgetown, PA",0,923,0,0,Georgetown borough
+PA,4285528,Wilmore,incorporated,21,A,206,"Wilmore, PA",0,924,0,0,Wilmore borough
+PA,4222960,Elgin,incorporated,21,A,204,"Elgin, PA",0,925,0,0,Elgin borough
+PA,4213896,Clarksville,incorporated,21,A,203,"Clarksville, PA",0,926,0,0,Clarksville borough
+PA,4222712,Ehrenfeld,incorporated,21,A,203,"Ehrenfeld, PA",0,927,0,0,Ehrenfeld borough
+PA,4281424,Washingtonville,incorporated,21,A,202,"Washingtonville, PA",0,928,0,0,Washingtonville borough
+PA,4247544,Marklesburg,incorporated,21,A,200,"Marklesburg, PA",0,929,0,0,Marklesburg borough
+PA,4269680,Shanksville,incorporated,21,A,199,"Shanksville, PA",0,930,0,0,Shanksville borough
+PA,4274184,Stillwater,incorporated,21,A,199,"Stillwater, PA",0,931,0,0,Stillwater borough
+PA,4254160,Newton Hamilton,incorporated,21,A,196,"Newton Hamilton, PA",0,932,0,0,Newton Hamilton borough
+PA,4237496,Jackson Center,incorporated,21,A,194,"Jackson Center, PA",0,933,0,0,Jackson Center borough
+PA,4251568,Mount Gretna,incorporated,21,A,193,"Mount Gretna, PA",0,934,0,0,Mount Gretna borough
+PA,4253928,New Paris,incorporated,21,A,192,"New Paris, PA",0,935,0,0,New Paris borough
+PA,4261496,Pleasantville,incorporated,21,A,191,"Pleasantville, PA",0,936,0,0,Pleasantville borough
+PA,4235648,Hopewell,incorporated,21,A,189,"Hopewell, PA",0,937,0,0,Hopewell borough
+PA,4204136,Barkeyville,incorporated,21,A,188,"Barkeyville, PA",0,938,0,0,Barkeyville borough
+PA,4210280,Burnside,incorporated,21,A,188,"Burnside, PA",0,939,0,0,Burnside borough
+PA,4205648,Benson,incorporated,21,A,187,"Benson, PA",0,940,0,0,Benson borough
+PA,4220152,Dudley,incorporated,21,A,184,"Dudley, PA",0,941,0,0,Dudley borough
+PA,4221968,Eastvale,incorporated,21,A,184,"Eastvale, PA",0,942,0,0,Eastvale borough
+PA,4279472,Utica,incorporated,21,A,184,"Utica, PA",0,943,0,0,Utica borough
+PA,4253768,New Lebanon,incorporated,21,A,183,"New Lebanon, PA",0,944,0,0,New Lebanon borough
+PA,4284064,West Sunbury,incorporated,21,A,182,"West Sunbury, PA",0,945,0,0,West Sunbury borough
+PA,4227112,Foxburg,incorporated,21,A,181,"Foxburg, PA",0,946,0,0,Foxburg borough
+PA,4224832,Fairview,incorporated,21,A,180,"Fairview, PA",0,947,0,0,Fairview borough
+PA,4242688,Lenhartsville,incorporated,21,A,180,"Lenhartsville, PA",0,948,0,0,Lenhartsville borough
+PA,4259672,Petrolia,incorporated,21,A,179,"Petrolia, PA",0,949,0,0,Petrolia borough
+PA,4212184,Centerville,incorporated,21,A,178,"Centerville, PA",0,950,0,0,Centerville borough
+PA,4266232,Roseville,incorporated,21,A,178,"Roseville, PA",0,951,0,0,Roseville borough
+PA,4238768,Karns City,incorporated,21,A,175,"Karns City, PA",0,952,0,0,Karns City borough
+PA,4273784,Starrucca,incorporated,21,A,169,"Starrucca, PA",0,953,0,0,Starrucca borough
+PA,4200396,Addison,incorporated,21,A,166,"Addison, PA",0,954,0,0,Addison borough
+PA,4211616,Cassandra,incorporated,21,A,162,"Cassandra, PA",0,955,0,0,Cassandra borough
+PA,4270376,Shippingport,incorporated,21,A,160,"Shippingport, PA",0,956,0,0,Shippingport borough
+PA,4269936,Sheakleyville,incorporated,21,A,151,"Sheakleyville, PA",0,957,0,0,Sheakleyville borough
+PA,4210792,Callensburg,incorporated,21,A,150,"Callensburg, PA",0,958,0,0,Callensburg borough
+PA,4204608,Bear Lake,incorporated,21,A,148,"Bear Lake, PA",0,959,0,0,Bear Lake borough
+PA,4220648,Eagles Mere,incorporated,21,A,148,"Eagles Mere, PA",0,960,0,0,Eagles Mere borough
+PA,4276744,Timblin,incorporated,21,A,147,"Timblin, PA",0,961,0,0,Timblin borough
+PA,4241834,Laurel Mountain,incorporated,21,A,146,"Laurel Mountain, PA",0,962,0,0,Laurel Mountain borough
+PA,4210240,Burlington,incorporated,21,A,144,"Burlington, PA",0,963,0,0,Burlington borough
+PA,4200332,Adamsburg,incorporated,21,A,142,"Adamsburg, PA",0,964,0,0,Adamsburg borough
+PA,4253168,New Baltimore,incorporated,21,A,142,"New Baltimore, PA",0,965,0,0,New Baltimore borough
+PA,4263312,Rainsburg,incorporated,21,A,141,"Rainsburg, PA",0,966,0,0,Rainsburg borough
+PA,4270408,Shirleysburg,incorporated,21,A,141,"Shirleysburg, PA",0,967,0,0,Shirleysburg borough
+PA,4286160,Woodcock,incorporated,21,A,141,"Woodcock, PA",0,968,0,0,Woodcock borough
+PA,4213384,Chest Springs,incorporated,21,A,140,"Chest Springs, PA",0,969,0,0,Chest Springs borough
+PA,4241264,Landingville,incorporated,21,A,138,"Landingville, PA",0,970,0,0,Landingville borough
+PA,4211632,Cassville,incorporated,21,A,135,"Cassville, PA",0,971,0,0,Cassville borough
+PA,4257280,Oswayo,incorporated,21,A,134,"Oswayo, PA",0,972,0,0,Oswayo borough
+PA,4200572,Alba,incorporated,21,A,133,"Alba, PA",0,973,0,0,Alba borough
+PA,4235576,Hookstown,incorporated,21,A,129,"Hookstown, PA",0,974,0,0,Hookstown borough
+PA,4253416,New Centerville,incorporated,21,A,128,"New Centerville, PA",0,975,0,0,New Centerville borough
+PA,4229632,Glen Hope,incorporated,21,A,127,"Glen Hope, PA",0,976,0,0,Glen Hope borough
+PA,4214584,Coaldale,incorporated,21,A,126,"Coaldale, PA",0,977,0,0,Coaldale borough
+PA,4280368,Volant,incorporated,21,A,126,"Volant, PA",0,978,0,0,Volant borough
+PA,4253320,New Buffalo,incorporated,21,A,124,"New Buffalo, PA",0,979,0,0,New Buffalo borough
+PA,4227312,Frankfort Springs,incorporated,21,A,116,"Frankfort Springs, PA",0,980,0,0,Frankfort Springs borough
+PA,4203480,Atwood,incorporated,21,A,112,"Atwood, PA",0,981,0,0,Atwood borough
+PA,4226760,Forksville,incorporated,21,A,111,"Forksville, PA",0,982,0,0,Forksville borough
+PA,4214568,Coal Center,incorporated,21,A,110,"Coal Center, PA",0,983,0,0,Coal Center borough
+PA,4283504,West Middletown,incorporated,21,A,109,"West Middletown, PA",0,984,0,0,West Middletown borough
+PA,4237792,Jeddo,incorporated,21,A,108,"Jeddo, PA",0,985,0,0,Jeddo borough
+PA,4211624,Casselman,incorporated,21,A,104,"Casselman, PA",0,986,0,0,Casselman borough
+PA,4235488,Homewood,incorporated,21,A,104,"Homewood, PA",0,987,0,0,Homewood borough
+PA,4203032,Armagh,incorporated,21,A,102,"Armagh, PA",0,988,0,0,Armagh borough
+PA,4219472,Donegal,incorporated,21,A,102,"Donegal, PA",0,989,0,0,Donegal borough
+PA,4270040,Shelocta,incorporated,21,A,102,"Shelocta, PA",0,990,0,0,Shelocta borough
+PA,4227968,Friendsville,incorporated,21,A,101,"Friendsville, PA",0,991,0,0,Friendsville borough
+PA,4251488,Mount Carbon,incorporated,21,A,91,"Mount Carbon, PA",0,992,0,0,Mount Carbon borough
+PA,4214640,Coalmont,incorporated,21,A,90,"Coalmont, PA",0,993,0,0,Coalmont borough
+PA,4206560,Birmingham,incorporated,21,A,89,"Birmingham, PA",0,994,0,0,Birmingham borough
+PA,4253336,Newburg,incorporated,21,A,82,"Newburg, PA",0,995,0,0,Newburg borough
+PA,4233312,Haysville,incorporated,21,A,81,"Haysville, PA",0,996,0,0,Haysville borough
+PA,4286568,Worthville,incorporated,21,A,80,"Worthville, PA",0,997,0,0,Worthville borough
+PA,4269456,Shade Gap,incorporated,21,A,78,"Shade Gap, PA",0,998,0,0,Shade Gap borough
+PA,4267256,St. Clairsville,incorporated,21,A,76,"St. Clairsville, PA",0,999,0,0,St. Clairsville borough
+PA,4229392,Glasgow,incorporated,21,A,71,"Glasgow, PA",0,1000,0,0,Glasgow borough
+PA,4213152,Cherry Valley,incorporated,21,A,60,"Cherry Valley, PA",0,1001,0,0,Cherry Valley borough
+PA,4210808,Callimont,incorporated,21,A,56,"Callimont, PA",0,1002,0,0,Callimont borough
+PA,4271256,Smicksburg,incorporated,21,A,56,"Smicksburg, PA",0,1003,0,0,Smicksburg borough
+PA,4253916,New Morgan,incorporated,21,A,54,"New Morgan, PA",0,1004,0,0,New Morgan borough
+PA,4254344,New Washington,incorporated,21,A,50,"New Washington, PA",0,1005,0,0,New Washington borough
+PA,4219976,Driftwood,incorporated,21,A,38,"Driftwood, PA",0,1006,0,0,Driftwood borough
+PA,4256408,Ohiopyle,incorporated,21,A,37,"Ohiopyle, PA",0,1007,0,0,Ohiopyle borough
+PA,4269336,Seven Springs,incorporated,21,A,26,"Seven Springs, PA",0,1008,0,0,Seven Springs borough
+PA,4231082,Green Hills,incorporated,21,A,20,"Green Hills, PA",0,1009,0,0,Green Hills borough
+PA,4271620,S.N.P.J.,incorporated,21,A,18,"S.N.P.J., PA",0,1010,0,0,S.N.P.J. borough
+PA,4279644,Valley-Hi,incorporated,21,A,6,"Valley-Hi, PA",0,1011,0,0,Valley-Hi borough
+PA,4212312,Centralia,incorporated,21,A,5,"Centralia, PA",0,1012,0,0,Centralia borough
+PA,4251794,Mount Lebanon,incorporated,37,A,0,"Mount Lebanon, PA",0,1013,0,0,Mount Lebanon municipality
+PA,4259040,Penn Hills,incorporated,37,A,0,"Penn Hills, PA",0,1014,0,0,Penn Hills municipality

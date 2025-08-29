@@ -1,0 +1,484 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+CA,0644000,Los Angeles,incorporated,25,A,3898747,"Los Angeles, CA",0,1,67,0.268,Los Angeles city
+CA,0666000,San Diego,incorporated,25,A,1386932,"San Diego, CA",0,2,29,0.116,San Diego city
+CA,0668000,San Jose,incorporated,25,A,1013240,"San Jose, CA",0,3,18,0.072,San Jose city
+CA,0667000,San Francisco,incorporated,25,A,873965,"San Francisco, CA",0,4,13,0.052,San Francisco city
+CA,0627000,Fresno,incorporated,25,A,542107,"Fresno, CA",0,5,10,0.04,Fresno city
+CA,0664000,Sacramento,incorporated,25,A,524943,"Sacramento, CA",0,6,12,0.048,Sacramento city
+CA,0643000,Long Beach,incorporated,25,A,466742,"Long Beach, CA",0,7,7,0.028,Long Beach city
+CA,0653000,Oakland,incorporated,25,A,440646,"Oakland, CA",0,8,6,0.024,Oakland city
+CA,0603526,Bakersfield,incorporated,25,A,403455,"Bakersfield, CA",0,9,4,0.016,Bakersfield city
+CA,0602000,Anaheim,incorporated,25,A,346824,"Anaheim, CA",0,10,5,0.02,Anaheim city
+CA,0675000,Stockton,incorporated,25,A,320804,"Stockton, CA",0,11,3,0.012,Stockton city
+CA,0662000,Riverside,incorporated,25,A,314998,"Riverside, CA",0,12,4,0.016,Riverside city
+CA,0669000,Santa Ana,incorporated,25,A,310227,"Santa Ana, CA",0,13,4,0.016,Santa Ana city
+CA,0636770,Irvine,incorporated,25,A,307670,"Irvine, CA",0,14,2,0.008,Irvine city
+CA,0613392,Chula Vista,incorporated,25,A,275487,"Chula Vista, CA",0,15,2,0.008,Chula Vista city
+CA,0626000,Fremont,incorporated,25,A,230504,"Fremont, CA",0,16,2,0.008,Fremont city
+CA,0669088,Santa Clarita,incorporated,25,A,228673,"Santa Clarita, CA",0,17,3,0.012,Santa Clarita city
+CA,0665000,San Bernardino,incorporated,25,A,222101,"San Bernardino, CA",0,18,3,0.012,San Bernardino city
+CA,0648354,Modesto,incorporated,25,A,218464,"Modesto, CA",0,19,3,0.012,Modesto city
+CA,0649270,Moreno Valley,incorporated,25,A,208634,"Moreno Valley, CA",0,20,3,0.012,Moreno Valley city
+CA,0624680,Fontana,incorporated,25,A,208393,"Fontana, CA",0,21,1,0.004,Fontana city
+CA,0654652,Oxnard,incorporated,25,A,202063,"Oxnard, CA",0,22,1,0.004,Oxnard city
+CA,0636000,Huntington Beach,incorporated,25,A,198711,"Huntington Beach, CA",0,23,1,0.004,Huntington Beach city
+CA,0630000,Glendale,incorporated,25,A,196543,"Glendale, CA",0,24,1,0.004,Glendale city
+CA,0670098,Santa Rosa,incorporated,25,A,178127,"Santa Rosa, CA",0,25,1,0.004,Santa Rosa city
+CA,0622020,Elk Grove,incorporated,25,A,176124,"Elk Grove, CA",0,26,1,0.004,Elk Grove city
+CA,0653896,Ontario,incorporated,25,A,175265,"Ontario, CA",0,27,1,0.004,Ontario city
+CA,0659451,Rancho Cucamonga,incorporated,25,A,174453,"Rancho Cucamonga, CA",0,28,1,0.004,Rancho Cucamonga city
+CA,0653322,Oceanside,incorporated,25,A,174068,"Oceanside, CA",0,29,2,0.008,Oceanside city
+CA,0640130,Lancaster,incorporated,25,A,173516,"Lancaster, CA",0,30,2,0.008,Lancaster city
+CA,0629000,Garden Grove,incorporated,25,A,171949,"Garden Grove, CA",0,31,2,0.008,Garden Grove city
+CA,0655156,Palmdale,incorporated,25,A,169450,"Palmdale, CA",0,32,2,0.008,Palmdale city
+CA,0664224,Salinas,incorporated,25,A,163542,"Salinas, CA",0,33,2,0.008,Salinas city
+CA,0633000,Hayward,incorporated,25,A,162954,"Hayward, CA",0,34,2,0.008,Hayward city
+CA,0616350,Corona,incorporated,25,A,157136,"Corona, CA",0,35,2,0.008,Corona city
+CA,0677000,Sunnyvale,incorporated,25,A,155805,"Sunnyvale, CA",0,36,2,0.008,Sunnyvale city
+CA,0658072,Pomona,incorporated,25,A,151713,"Pomona, CA",0,37,2,0.008,Pomona city
+CA,0622804,Escondido,incorporated,25,A,151038,"Escondido, CA",0,38,2,0.008,Escondido city
+CA,0662938,Roseville,incorporated,25,A,147773,"Roseville, CA",0,39,2,0.008,Roseville city
+CA,0680000,Torrance,incorporated,25,A,147067,"Torrance, CA",0,40,2,0.008,Torrance city
+CA,0628000,Fullerton,incorporated,25,A,143617,"Fullerton, CA",0,41,2,0.008,Fullerton city
+CA,0682954,Visalia,incorporated,25,A,141384,"Visalia, CA",0,42,2,0.008,Visalia city
+CA,0653980,Orange,incorporated,25,A,139911,"Orange, CA",0,43,2,0.008,Orange city
+CA,0656000,Pasadena,incorporated,25,A,138699,"Pasadena, CA",0,44,2,0.008,Pasadena city
+CA,0682590,Victorville,incorporated,25,A,134810,"Victorville, CA",0,45,2,0.008,Victorville city
+CA,0669084,Santa Clara,incorporated,25,A,127647,"Santa Clara, CA",0,46,2,0.008,Santa Clara city
+CA,0678582,Thousand Oaks,incorporated,25,A,126966,"Thousand Oaks, CA",0,47,2,0.008,Thousand Oaks city
+CA,0672016,Simi Valley,incorporated,25,A,126356,"Simi Valley, CA",0,48,2,0.008,Simi Valley city
+CA,0681666,Vallejo,incorporated,25,A,126090,"Vallejo, CA",0,49,2,0.008,Vallejo city
+CA,0616000,Concord,incorporated,25,A,125410,"Concord, CA",0,50,0,0,Concord city
+CA,0606000,Berkeley,incorporated,25,A,124321,"Berkeley, CA",0,51,0,0,Berkeley city
+CA,0614218,Clovis,incorporated,25,A,120124,"Clovis, CA",0,52,0,0,Clovis city
+CA,0623182,Fairfield,incorporated,25,A,119881,"Fairfield, CA",0,53,0,0,Fairfield city
+CA,0660620,Richmond,incorporated,25,A,116448,"Richmond, CA",0,54,0,0,Richmond city
+CA,0602252,Antioch,incorporated,25,A,115291,"Antioch, CA",0,55,0,0,Antioch city
+CA,0611194,Carlsbad,incorporated,25,A,114746,"Carlsbad, CA",0,56,0,0,Carlsbad city
+CA,0619766,Downey,incorporated,25,A,114355,"Downey, CA",0,57,0,0,Downey city
+CA,0616532,Costa Mesa,incorporated,25,A,111918,"Costa Mesa, CA",0,58,0,0,Costa Mesa city
+CA,0650076,Murrieta,incorporated,25,A,110949,"Murrieta, CA",0,59,0,0,Murrieta city
+CA,0665042,San Buenaventura (Ventura),incorporated,25,A,110763,"San Buenaventura (Ventura), CA",0,60,0,0,San Buenaventura (Ventura) city
+CA,0678120,Temecula,incorporated,25,A,110003,"Temecula, CA",0,61,0,0,Temecula city
+CA,0669196,Santa Maria,incorporated,25,A,109707,"Santa Maria, CA",0,62,0,0,Santa Maria city
+CA,0684200,West Covina,incorporated,25,A,109501,"West Covina, CA",0,63,0,0,West Covina city
+CA,0622230,El Monte,incorporated,25,A,109450,"El Monte, CA",0,64,0,0,El Monte city
+CA,0636546,Inglewood,incorporated,25,A,107762,"Inglewood, CA",0,65,0,0,Inglewood city
+CA,0608954,Burbank,incorporated,25,A,107337,"Burbank, CA",0,66,0,0,Burbank city
+CA,0621712,El Cajon,incorporated,25,A,106215,"El Cajon, CA",0,67,0,0,El Cajon city
+CA,0668252,San Mateo,incorporated,25,A,105661,"San Mateo, CA",0,68,0,0,San Mateo city
+CA,0637692,Jurupa Valley,incorporated,25,A,105053,"Jurupa Valley, CA",0,69,0,0,Jurupa Valley city
+CA,0617918,Daly City,incorporated,25,A,104901,"Daly City, CA",0,70,0,0,Daly City city
+CA,0660466,Rialto,incorporated,25,A,104026,"Rialto, CA",0,71,0,0,Rialto city
+CA,0652526,Norwalk,incorporated,25,A,102773,"Norwalk, CA",0,72,0,0,Norwalk city
+CA,0646842,Menifee,incorporated,25,A,102527,"Menifee, CA",0,73,0,0,Menifee city
+CA,0681554,Vacaville,incorporated,25,A,102386,"Vacaville, CA",0,74,0,0,Vacaville city
+CA,0613014,Chico,incorporated,25,A,101475,"Chico, CA",0,75,0,0,Chico city
+CA,0633434,Hesperia,incorporated,25,A,99818,"Hesperia, CA",0,76,0,0,Hesperia city
+CA,0682996,Vista,incorporated,25,A,98381,"Vista, CA",0,77,0,0,Vista city
+CA,0615044,Compton,incorporated,25,A,95740,"Compton, CA",0,78,0,0,Compton city
+CA,0611530,Carson,incorporated,25,A,95558,"Carson, CA",0,79,0,0,Carson city
+CA,0668196,San Marcos,incorporated,25,A,94833,"San Marcos, CA",0,80,0,0,San Marcos city
+CA,0648256,Mission Viejo,incorporated,25,A,93653,"Mission Viejo, CA",0,81,0,0,Mission Viejo city
+CA,0659920,Redding,incorporated,25,A,93611,"Redding, CA",0,82,0,0,Redding city
+CA,0670000,Santa Monica,incorporated,25,A,93076,"Santa Monica, CA",0,83,0,0,Santa Monica city
+CA,0680238,Tracy,incorporated,25,A,93000,"Tracy, CA",0,84,0,0,Tracy city
+CA,0673080,South Gate,incorporated,25,A,92726,"South Gate, CA",0,85,0,0,South Gate city
+CA,0613210,Chino,incorporated,25,A,91403,"Chino, CA",0,86,0,0,Chino city
+CA,0668084,San Leandro,incorporated,25,A,91008,"San Leandro, CA",0,87,0,0,San Leandro city
+CA,0684550,Westminster,incorporated,25,A,90911,"Westminster, CA",0,88,0,0,Westminster city
+CA,0633182,Hemet,incorporated,25,A,89833,"Hemet, CA",0,89,0,0,Hemet city
+CA,0636448,Indio,incorporated,25,A,89137,"Indio, CA",0,90,0,0,Indio city
+CA,0669070,Santa Barbara,incorporated,25,A,88665,"Santa Barbara, CA",0,91,0,0,Santa Barbara city
+CA,0632548,Hawthorne,incorporated,25,A,88083,"Hawthorne, CA",0,92,0,0,Hawthorne city
+CA,0641992,Livermore,incorporated,25,A,87955,"Livermore, CA",0,93,0,0,Livermore city
+CA,0613588,Citrus Heights,incorporated,25,A,87583,"Citrus Heights, CA",0,94,0,0,Citrus Heights city
+CA,0685292,Whittier,incorporated,25,A,87306,"Whittier, CA",0,95,0,0,Whittier city
+CA,0646898,Merced,incorporated,25,A,86333,"Merced, CA",0,96,0,0,Merced city
+CA,0639496,Lake Forest,incorporated,25,A,85858,"Lake Forest, CA",0,97,0,0,Lake Forest city
+CA,0651182,Newport Beach,incorporated,25,A,85239,"Newport Beach, CA",0,98,0,0,Newport Beach city
+CA,0668378,San Ramon,incorporated,25,A,84605,"San Ramon, CA",0,99,0,0,San Ramon city
+CA,0660102,Redwood City,incorporated,25,A,84292,"Redwood City, CA",0,100,0,0,Redwood City city
+CA,0608786,Buena Park,incorporated,25,A,84034,"Buena Park, CA",0,101,0,0,Buena Park city
+CA,0645484,Manteca,incorporated,25,A,83498,"Manteca, CA",0,102,0,0,Manteca city
+CA,0600884,Alhambra,incorporated,25,A,82868,"Alhambra, CA",0,103,0,0,Alhambra city
+CA,0639892,Lakewood,incorporated,25,A,82496,"Lakewood, CA",0,104,0,0,Lakewood city
+CA,0649670,Mountain View,incorporated,25,A,82376,"Mountain View, CA",0,105,0,0,Mountain View city
+CA,0624638,Folsom,incorporated,25,A,80454,"Folsom, CA",0,106,0,0,Folsom city
+CA,0680854,Tustin,incorporated,25,A,80276,"Tustin, CA",0,107,0,0,Tustin city
+CA,0647766,Milpitas,incorporated,25,A,80273,"Milpitas, CA",0,108,0,0,Milpitas city
+CA,0657792,Pleasanton,incorporated,25,A,79871,"Pleasanton, CA",0,109,0,0,Pleasanton city
+CA,0659444,Rancho Cordova,incorporated,25,A,79332,"Rancho Cordova, CA",0,110,0,0,Rancho Cordova city
+CA,0650258,Napa,incorporated,25,A,79246,"Napa, CA",0,111,0,0,Napa city
+CA,0604982,Bellflower,incorporated,25,A,79190,"Bellflower, CA",0,112,0,0,Bellflower city
+CA,0681344,Upland,incorporated,25,A,79040,"Upland, CA",0,113,0,0,Upland city
+CA,0656700,Perris,incorporated,25,A,78700,"Perris, CA",0,114,0,0,Perris city
+CA,0613214,Chino Hills,incorporated,25,A,78411,"Chino Hills, CA",0,115,0,0,Chino Hills city
+CA,0600562,Alameda,incorporated,25,A,78280,"Alameda, CA",0,116,0,0,Alameda city
+CA,0657456,Pittsburg,incorporated,25,A,76416,"Pittsburg, CA",0,117,0,0,Pittsburg city
+CA,0602364,Apple Valley,incorporated,43,A,75791,"Apple Valley, CA",0,118,0,0,Apple Valley town
+CA,0659962,Redlands,incorporated,25,A,73168,"Redlands, CA",0,119,0,0,Redlands city
+CA,0680812,Turlock,incorporated,25,A,72740,"Turlock, CA",0,120,0,0,Turlock city
+CA,0620018,Dublin,incorporated,25,A,72589,"Dublin, CA",0,121,0,0,Dublin city
+CA,0603666,Baldwin Park,incorporated,25,A,72176,"Baldwin Park, CA",0,122,0,0,Baldwin Park city
+CA,0662364,Rocklin,incorporated,25,A,71601,"Rocklin, CA",0,123,0,0,Rocklin city
+CA,0660018,Redondo Beach,incorporated,25,A,71576,"Redondo Beach, CA",0,124,0,0,Redondo Beach city
+CA,0610046,Camarillo,incorporated,25,A,70741,"Camarillo, CA",0,125,0,0,Camarillo city
+CA,0639486,Lake Elsinore,incorporated,25,A,70265,"Lake Elsinore, CA",0,126,0,0,Lake Elsinore city
+CA,0681204,Union City,incorporated,25,A,70143,"Union City, CA",0,127,0,0,Union City city
+CA,0683346,Walnut Creek,incorporated,25,A,70127,"Walnut Creek, CA",0,128,0,0,Walnut Creek city
+CA,0686972,Yuba City,incorporated,25,A,70117,"Yuba City, CA",0,129,0,0,Yuba City city
+CA,0621230,Eastvale,incorporated,25,A,69757,"Eastvale, CA",0,130,0,0,Eastvale city
+CA,0680644,Tulare,incorporated,25,A,68875,"Tulare, CA",0,131,0,0,Tulare city
+CA,0655282,Palo Alto,incorporated,25,A,68572,"Palo Alto, CA",0,132,0,0,Palo Alto city
+CA,0686832,Yorba Linda,incorporated,25,A,68336,"Yorba Linda, CA",0,133,0,0,Yorba Linda city
+CA,0644574,Lynwood,incorporated,25,A,67265,"Lynwood, CA",0,134,0,0,Lynwood city
+CA,0618100,Davis,incorporated,25,A,66850,"Davis, CA",0,135,0,0,Davis city
+CA,0642202,Lodi,incorporated,25,A,66348,"Lodi, CA",0,136,0,0,Lodi city
+CA,0645022,Madera,incorporated,25,A,66224,"Madera, CA",0,137,0,0,Madera city
+CA,0673262,South San Francisco,incorporated,25,A,66105,"South San Francisco, CA",0,138,0,0,South San Francisco city
+CA,0639248,Laguna Niguel,incorporated,25,A,64355,"Laguna Niguel, CA",0,139,0,0,Laguna Niguel city
+CA,0665084,San Clemente,incorporated,25,A,64293,"San Clemente, CA",0,140,0,0,San Clemente city
+CA,0608142,Brentwood,incorporated,25,A,64292,"Brentwood, CA",0,141,0,0,Brentwood city
+CA,0639290,La Habra,incorporated,25,A,63097,"La Habra, CA",0,142,0,0,La Habra city
+CA,0669112,Santa Cruz,incorporated,25,A,62956,"Santa Cruz, CA",0,143,0,0,Santa Cruz city
+CA,0648816,Montebello,incorporated,25,A,62640,"Montebello, CA",0,144,0,0,Montebello city
+CA,0658240,Porterville,incorporated,25,A,62623,"Porterville, CA",0,145,0,0,Porterville city
+CA,0656924,Pico Rivera,incorporated,25,A,62088,"Pico Rivera, CA",0,146,0,0,Pico Rivera city
+CA,0622678,Encinitas,incorporated,25,A,62007,"Encinitas, CA",0,147,0,0,Encinitas city
+CA,0668364,San Rafael,incorporated,25,A,61271,"San Rafael, CA",0,148,0,0,San Rafael city
+CA,0640004,La Mesa,incorporated,25,A,61121,"La Mesa, CA",0,149,0,0,La Mesa city
+CA,0648914,Monterey Park,incorporated,25,A,61096,"Monterey Park, CA",0,150,0,0,Monterey Park city
+CA,0686328,Woodland,incorporated,25,A,61032,"Woodland, CA",0,151,0,0,Woodland city
+CA,0628168,Gardena,incorporated,25,A,61027,"Gardena, CA",0,152,0,0,Gardena city
+CA,0617610,Cupertino,incorporated,25,A,60381,"Cupertino, CA",0,153,0,0,Cupertino city
+CA,0670224,Santee,incorporated,25,A,60037,"Santee, CA",0,154,0,0,Santee city
+CA,0656784,Petaluma,incorporated,25,A,59776,"Petaluma, CA",0,155,0,0,Petaluma city
+CA,0629504,Gilroy,incorporated,25,A,59520,"Gilroy, CA",0,156,0,0,Gilroy city
+CA,0631960,Hanford,incorporated,25,A,57990,"Hanford, CA",0,157,0,0,Hanford city
+CA,0625380,Fountain Valley,incorporated,25,A,57047,"Fountain Valley, CA",0,158,0,0,Fountain Valley city
+CA,0633588,Highland,incorporated,25,A,56999,"Highland, CA",0,159,0,0,Highland city
+CA,0602462,Arcadia,incorporated,25,A,56681,"Arcadia, CA",0,160,0,0,Arcadia city
+CA,0650398,National City,incorporated,25,A,56173,"National City, CA",0,161,0,0,National City city
+CA,0619192,Diamond Bar,incorporated,25,A,55072,"Diamond Bar, CA",0,162,0,0,Diamond Bar city
+CA,0636056,Huntington Park,incorporated,25,A,54883,"Huntington Park, CA",0,163,0,0,Huntington Park city
+CA,0687042,Yucaipa,incorporated,25,A,54542,"Yucaipa, CA",0,164,0,0,Yucaipa city
+CA,0684816,West Sacramento,incorporated,25,A,53915,"West Sacramento, CA",0,165,0,0,West Sacramento city
+CA,0614890,Colton,incorporated,25,A,53909,"Colton, CA",0,166,0,0,Colton city
+CA,0667112,San Jacinto,incorporated,25,A,53898,"San Jacinto, CA",0,167,0,0,San Jacinto city
+CA,0655618,Paramount,incorporated,25,A,53733,"Paramount, CA",0,168,0,0,Paramount city
+CA,0652582,Novato,incorporated,25,A,53225,"Novato, CA",0,169,0,0,Novato city
+CA,0604758,Beaumont,incorporated,25,A,53036,"Beaumont, CA",0,170,0,0,Beaumont city
+CA,0683668,Watsonville,incorporated,25,A,52590,"Watsonville, CA",0,171,0,0,Watsonville city
+CA,0630014,Glendora,incorporated,25,A,52558,"Glendora, CA",0,172,0,0,Glendora city
+CA,0600947,Aliso Viejo,incorporated,25,A,52176,"Aliso Viejo, CA",0,173,0,0,Aliso Viejo city
+CA,0657526,Placentia,incorporated,25,A,51824,"Placentia, CA",0,174,0,0,Placentia city
+CA,0612048,Cathedral City,incorporated,25,A,51493,"Cathedral City, CA",0,175,0,0,Cathedral City city
+CA,0618394,Delano,incorporated,25,A,51428,"Delano, CA",0,176,0,0,Delano city
+CA,0616742,Covina,incorporated,25,A,51268,"Covina, CA",0,177,0,0,Covina city
+CA,0662896,Rosemead,incorporated,25,A,51185,"Rosemead, CA",0,178,0,0,Rosemead city
+CA,0655184,Palm Desert,incorporated,25,A,51163,"Palm Desert, CA",0,179,0,0,Palm Desert city
+CA,0617750,Cypress,incorporated,25,A,50151,"Cypress, CA",0,180,0,0,Cypress city
+CA,0603386,Azusa,incorporated,25,A,50000,"Azusa, CA",0,181,0,0,Azusa city
+CA,0641474,Lincoln,incorporated,25,A,49757,"Lincoln, CA",0,182,0,0,Lincoln city
+CA,0612552,Cerritos,incorporated,25,A,49578,"Cerritos, CA",0,183,0,0,Cerritos city
+CA,0612524,Ceres,incorporated,25,A,49302,"Ceres, CA",0,184,0,0,Ceres city
+CA,0658520,Poway,incorporated,25,A,48841,"Poway, CA",0,185,0,0,Poway city
+CA,0640032,La Mirada,incorporated,25,A,48008,"La Mirada, CA",0,186,0,0,La Mirada city
+CA,0659587,Rancho Santa Margarita,incorporated,25,A,47949,"Rancho Santa Margarita, CA",0,187,0,0,Rancho Santa Margarita city
+CA,0650916,Newark,incorporated,25,A,47529,"Newark, CA",0,188,0,0,Newark city
+CA,0608100,Brea,incorporated,25,A,47325,"Brea, CA",0,189,0,0,Brea city
+CA,0668154,San Luis Obispo,incorporated,25,A,47063,"San Luis Obispo, CA",0,190,0,0,San Luis Obispo city
+CA,0644028,Los Banos,incorporated,25,A,45532,"Los Banos, CA",0,191,0,0,Los Banos city
+CA,0649278,Morgan Hill,incorporated,25,A,45483,"Morgan Hill, CA",0,192,0,0,Morgan Hill city
+CA,0655254,Palm Springs,incorporated,25,A,44575,"Palm Springs, CA",0,193,0,0,Palm Springs city
+CA,0642524,Lompoc,incorporated,25,A,44444,"Lompoc, CA",0,194,0,0,Lompoc city
+CA,0662546,Rohnert Park,incorporated,25,A,44390,"Rohnert Park, CA",0,195,0,0,Rohnert Park city
+CA,0621782,El Centro,incorporated,25,A,44322,"El Centro, CA",0,196,0,0,El Centro city
+CA,0610345,Campbell,incorporated,25,A,43959,"Campbell, CA",0,197,0,0,Campbell city
+CA,0665028,San Bruno,incorporated,25,A,43908,"San Bruno, CA",0,198,0,0,San Bruno city
+CA,0617988,Danville,incorporated,43,A,43582,"Danville, CA",0,199,0,0,Danville town
+CA,0653070,Oakley,incorporated,25,A,43357,"Oakley, CA",0,200,0,0,Oakley city
+CA,0659514,Rancho Palos Verdes,incorporated,25,A,42287,"Rancho Palos Verdes, CA",0,201,0,0,Rancho Palos Verdes city
+CA,0614260,Coachella,incorporated,25,A,41941,"Coachella, CA",0,202,0,0,Coachella city
+CA,0634120,Hollister,incorporated,25,A,41678,"Hollister, CA",0,203,0,0,Hollister city
+CA,0617568,Culver City,incorporated,25,A,40779,"Culver City, CA",0,204,0,0,Culver City city
+CA,0667042,San Gabriel,incorporated,25,A,39568,"San Gabriel, CA",0,205,0,0,San Gabriel city
+CA,0604996,Bell Gardens,incorporated,25,A,39501,"Bell Gardens, CA",0,206,0,0,Bell Gardens city
+CA,0654806,Pacifica,incorporated,25,A,38640,"Pacifica, CA",0,207,0,0,Pacifica city
+CA,0609710,Calexico,incorporated,25,A,38633,"Calexico, CA",0,208,0,0,Calexico city
+CA,0640340,La Puente,incorporated,25,A,38062,"La Puente, CA",0,209,0,0,La Puente city
+CA,0600296,Adelanto,incorporated,25,A,38046,"Adelanto, CA",0,210,0,0,Adelanto city
+CA,0673962,Stanton,incorporated,25,A,37962,"Stanton, CA",0,211,0,0,Stanton city
+CA,0648648,Monrovia,incorporated,25,A,37931,"Monrovia, CA",0,212,0,0,Monrovia city
+CA,0648788,Montclair,incorporated,25,A,37865,"Montclair, CA",0,213,0,0,Montclair city
+CA,0640354,La Quinta,incorporated,25,A,37558,"La Quinta, CA",0,214,0,0,La Quinta city
+CA,0646114,Martinez,incorporated,25,A,37287,"Martinez, CA",0,215,0,0,Martinez city
+CA,0613756,Claremont,incorporated,25,A,37266,"Claremont, CA",0,216,0,0,Claremont city
+CA,0685446,Wildomar,incorporated,25,A,36875,"Wildomar, CA",0,217,0,0,Wildomar city
+CA,0678148,Temple City,incorporated,25,A,36494,"Temple City, CA",0,218,0,0,Temple City city
+CA,0649138,Moorpark,incorporated,25,A,36284,"Moorpark, CA",0,219,0,0,Moorpark city
+CA,0684410,West Hollywood,incorporated,25,A,35757,"West Hollywood, CA",0,220,0,0,West Hollywood city
+CA,0645400,Manhattan Beach,incorporated,25,A,35506,"Manhattan Beach, CA",0,221,0,0,Manhattan Beach city
+CA,0668028,San Juan Capistrano,incorporated,25,A,35196,"San Juan Capistrano, CA",0,222,0,0,San Juan Capistrano city
+CA,0666070,San Dimas,incorporated,25,A,34924,"San Dimas, CA",0,223,0,0,San Dimas city
+CA,0657764,Pleasant Hill,incorporated,25,A,34613,"Pleasant Hill, CA",0,224,0,0,Pleasant Hill city
+CA,0625338,Foster City,incorporated,25,A,33805,"Foster City, CA",0,225,0,0,Foster City city
+CA,0646870,Menlo Park,incorporated,25,A,33780,"Menlo Park, CA",0,226,0,0,Menlo Park city
+CA,0604870,Bell,incorporated,25,A,33559,"Bell, CA",0,227,0,0,Bell city
+CA,0644112,Los Gatos,incorporated,43,A,33529,"Los Gatos, CA",0,228,0,0,Los Gatos town
+CA,0617946,Dana Point,incorporated,25,A,33107,"Dana Point, CA",0,229,0,0,Dana Point city
+CA,0606308,Beverly Hills,incorporated,25,A,32701,"Beverly Hills, CA",0,230,0,0,Beverly Hills city
+CA,0630378,Goleta,incorporated,25,A,32690,"Goleta, CA",0,231,0,0,Goleta city
+CA,0618996,Desert Hot Springs,incorporated,25,A,32512,"Desert Hot Springs, CA",0,232,0,0,Desert Hot Springs city
+CA,0670742,Seaside,incorporated,25,A,32366,"Seaside, CA",0,233,0,0,Seaside city
+CA,0668294,San Pablo,incorporated,25,A,32127,"San Pablo, CA",0,234,0,0,San Pablo city
+CA,0603162,Atwater,incorporated,25,A,31970,"Atwater, CA",0,235,0,0,Atwater city
+CA,0640886,Lawndale,incorporated,25,A,31807,"Lawndale, CA",0,236,0,0,Lawndale city
+CA,0643280,Los Altos,incorporated,25,A,31625,"Los Altos, CA",0,237,0,0,Los Altos city
+CA,0622300,El Paso de Robles (Paso Robles),incorporated,25,A,31490,"El Paso de Robles (Paso Robles), CA",0,238,0,0,El Paso de Robles (Paso Robles) city
+CA,0609066,Burlingame,incorporated,25,A,31386,"Burlingame, CA",0,239,0,0,Burlingame city
+CA,0639220,Laguna Hills,incorporated,25,A,31374,"Laguna Hills, CA",0,240,0,0,Laguna Hills city
+CA,0640830,La Verne,incorporated,25,A,31334,"La Verne, CA",0,241,0,0,La Verne city
+CA,0670280,Saratoga,incorporated,25,A,31051,"Saratoga, CA",0,242,0,0,Saratoga city
+CA,0665070,San Carlos,incorporated,25,A,30722,"San Carlos, CA",0,243,0,0,San Carlos city
+CA,0670042,Santa Paula,incorporated,25,A,30657,"Santa Paula, CA",0,244,0,0,Santa Paula city
+CA,0648872,Monterey,incorporated,25,A,30218,"Monterey, CA",0,245,0,0,Monterey city
+CA,0620956,East Palo Alto,incorporated,25,A,30034,"East Palo Alto, CA",0,246,0,0,East Palo Alto city
+CA,0603064,Atascadero,incorporated,25,A,29773,"Atascadero, CA",0,247,0,0,Atascadero city
+CA,0675630,Suisun City,incorporated,25,A,29518,"Suisun City, CA",0,248,0,0,Suisun City city
+CA,0603820,Banning,incorporated,25,A,29505,"Banning, CA",0,249,0,0,Banning city
+CA,0640704,Lathrop,incorporated,25,A,28701,"Lathrop, CA",0,250,0,0,Lathrop city
+CA,0683332,Walnut,incorporated,25,A,28430,"Walnut, CA",0,251,0,0,Walnut city
+CA,0605108,Belmont,incorporated,25,A,28335,"Belmont, CA",0,252,0,0,Belmont city
+CA,0680994,Twentynine Palms,incorporated,25,A,28065,"Twentynine Palms, CA",0,253,0,0,Twentynine Palms city
+CA,0660704,Ridgecrest,incorporated,25,A,27959,"Ridgecrest, CA",0,254,0,0,Ridgecrest city
+CA,0641124,Lemon Grove,incorporated,25,A,27627,"Lemon Grove, CA",0,255,0,0,Lemon Grove city
+CA,0605290,Benicia,incorporated,25,A,27131,"Benicia, CA",0,256,0,0,Benicia city
+CA,0683542,Wasco,incorporated,25,A,27047,"Wasco, CA",0,257,0,0,Wasco city
+CA,0641152,Lemoore,incorporated,25,A,27038,"Lemoore, CA",0,258,0,0,Lemoore city
+CA,0673220,South Pasadena,incorporated,25,A,26943,"South Pasadena, CA",0,259,0,0,South Pasadena city
+CA,0667056,Sanger,incorporated,25,A,26617,"Sanger, CA",0,260,0,0,Sanger city
+CA,0623042,Eureka,incorporated,25,A,26512,"Eureka, CA",0,261,0,0,Eureka city
+CA,0608058,Brawley,incorporated,25,A,26416,"Brawley, CA",0,262,0,0,Brawley city
+CA,0685922,Windsor,incorporated,43,A,26344,"Windsor, CA",0,263,0,0,Windsor town
+CA,0651560,Norco,incorporated,25,A,26316,"Norco, CA",0,264,0,0,Norco city
+CA,0636294,Imperial Beach,incorporated,25,A,26137,"Imperial Beach, CA",0,265,0,0,Imperial Beach city
+CA,0633308,Hercules,incorporated,25,A,26016,"Hercules, CA",0,266,0,0,Hercules city
+CA,0621796,El Cerrito,incorporated,25,A,25962,"El Cerrito, CA",0,267,0,0,El Cerrito city
+CA,0604030,Barstow,incorporated,25,A,25415,"Barstow, CA",0,268,0,0,Barstow city
+CA,0639122,Lafayette,incorporated,25,A,25391,"Lafayette, CA",0,269,0,0,Lafayette city
+CA,0628112,Galt,incorporated,25,A,25383,"Galt, CA",0,270,0,0,Galt city
+CA,0670686,Seal Beach,incorporated,25,A,25242,"Seal Beach, CA",0,271,0,0,Seal Beach city
+CA,0660242,Reedley,incorporated,25,A,25227,"Reedley, CA",0,272,0,0,Reedley city
+CA,0646492,Maywood,incorporated,25,A,25138,"Maywood, CA",0,273,0,0,Maywood city
+CA,0672520,Soledad,incorporated,25,A,24925,"Soledad, CA",0,274,0,0,Soledad city
+CA,0661068,Riverbank,incorporated,25,A,24865,"Riverbank, CA",0,275,0,0,Riverbank city
+CA,0642370,Loma Linda,incorporated,25,A,24791,"Loma Linda, CA",0,276,0,0,Loma Linda city
+CA,0670882,Selma,incorporated,25,A,24674,"Selma, CA",0,277,0,0,Selma city
+CA,0619318,Dinuba,incorporated,25,A,24563,"Dinuba, CA",0,278,0,0,Dinuba city
+CA,0649582,Mountain House,incorporated,25,A,24499,"Mountain House, CA",0,279,0,0,Mountain House city
+CA,0666140,San Fernando,incorporated,25,A,23946,"San Fernando, CA",0,280,0,0,San Fernando city
+CA,0656112,Patterson,incorporated,25,A,23781,"Patterson, CA",0,281,0,0,Patterson city
+CA,0609598,Calabasas,incorporated,25,A,23241,"Calabasas, CA",0,282,0,0,Calabasas city
+CA,0647486,Millbrae,incorporated,25,A,23216,"Millbrae, CA",0,283,0,0,Millbrae city
+CA,0652694,Oakdale,incorporated,25,A,23181,"Oakdale, CA",0,284,0,0,Oakdale city
+CA,0639178,Laguna Beach,incorporated,25,A,23032,"Laguna Beach, CA",0,285,0,0,Laguna Beach city
+CA,0617498,Cudahy,incorporated,25,A,22811,"Cudahy, CA",0,286,0,0,Cudahy city
+CA,0645778,Marina,incorporated,25,A,22359,"Marina, CA",0,287,0,0,Marina city
+CA,0616224,Corcoran,incorporated,25,A,22339,"Corcoran, CA",0,288,0,0,Corcoran city
+CA,0658296,Port Hueneme,incorporated,25,A,21954,"Port Hueneme, CA",0,289,0,0,Port Hueneme city
+CA,0601640,American Canyon,incorporated,25,A,21837,"American Canyon, CA",0,290,0,0,American Canyon city
+CA,0687056,Yucca Valley,incorporated,43,A,21738,"Yucca Valley, CA",0,291,0,0,Yucca Valley town
+CA,0619990,Duarte,incorporated,25,A,21727,"Duarte, CA",0,292,0,0,Duarte city
+CA,0673108,South Lake Tahoe,incorporated,25,A,21330,"South Lake Tahoe, CA",0,293,0,0,South Lake Tahoe city
+CA,0642468,Lomita,incorporated,25,A,20921,"Lomita, CA",0,294,0,0,Lomita city
+CA,0639003,La Cañada Flintridge,incorporated,25,A,20573,"La Cañada Flintridge, CA",0,295,0,0,La Cañada Flintridge city
+CA,0600394,Agoura Hills,incorporated,25,A,20299,"Agoura Hills, CA",0,296,0,0,Agoura Hills city
+CA,0600674,Albany,incorporated,25,A,20271,"Albany, CA",0,297,0,0,Albany city
+CA,0636280,Imperial,incorporated,25,A,20263,"Imperial, CA",0,298,0,0,Imperial city
+CA,0616378,Coronado,incorporated,25,A,20192,"Coronado, CA",0,299,0,0,Coronado city
+CA,0654386,Oroville,incorporated,25,A,20042,"Oroville, CA",0,300,0,0,Oroville city
+CA,0671106,Shafter,incorporated,25,A,19953,"Shafter, CA",0,301,0,0,Shafter city
+CA,0633364,Hermosa Beach,incorporated,25,A,19728,"Hermosa Beach, CA",0,302,0,0,Hermosa Beach city
+CA,0672996,South El Monte,incorporated,25,A,19567,"South El Monte, CA",0,303,0,0,South El Monte city
+CA,0654232,Orinda,incorporated,25,A,19514,"Orinda, CA",0,304,0,0,Orinda city
+CA,0602924,Arvin,incorporated,25,A,19495,"Arvin, CA",0,305,0,0,Arvin city
+CA,0669154,Santa Fe Springs,incorporated,25,A,19219,"Santa Fe Springs, CA",0,306,0,0,Santa Fe Springs city
+CA,0613294,Chowchilla,incorporated,25,A,19039,"Chowchilla, CA",0,307,0,0,Chowchilla city
+CA,0657288,Pinole,incorporated,25,A,19022,"Pinole, CA",0,308,0,0,Pinole city
+CA,0619402,Dixon,incorporated,25,A,18988,"Dixon, CA",0,309,0,0,Dixon city
+CA,0630994,Greenfield,incorporated,25,A,18937,"Greenfield, CA",0,310,0,0,Greenfield city
+CA,0602476,Arcata,incorporated,25,A,18857,"Arcata, CA",0,311,0,0,Arcata city
+CA,0602868,Arroyo Grande,incorporated,25,A,18441,"Arroyo Grande, CA",0,312,0,0,Arroyo Grande city
+CA,0607218,Blythe,incorporated,25,A,18317,"Blythe, CA",0,313,0,0,Blythe city
+CA,0639259,Laguna Woods,incorporated,25,A,17644,"Laguna Woods, CA",0,314,0,0,Laguna Woods city
+CA,0614274,Coalinga,incorporated,25,A,17590,"Coalinga, CA",0,315,0,0,Coalinga city
+CA,0622412,El Segundo,incorporated,25,A,17272,"El Segundo, CA",0,316,0,0,El Segundo city
+CA,0659500,Rancho Mirage,incorporated,25,A,16999,"Rancho Mirage, CA",0,317,0,0,Rancho Mirage city
+CA,0649187,Moraga,incorporated,43,A,16870,"Moraga, CA",0,318,0,0,Moraga town
+CA,0680588,Truckee,incorporated,43,A,16729,"Truckee, CA",0,319,0,0,Truckee town
+CA,0677364,Susanville,incorporated,25,A,16728,"Susanville, CA",0,320,0,0,Susanville city
+CA,0613945,Clearlake,incorporated,25,A,16685,"Clearlake, CA",0,321,0,0,Clearlake city
+CA,0681134,Ukiah,incorporated,25,A,16607,"Ukiah, CA",0,322,0,0,Ukiah city
+CA,0624092,Fillmore,incorporated,25,A,16419,"Fillmore, CA",0,323,0,0,Fillmore city
+CA,0602896,Artesia,incorporated,25,A,16395,"Artesia, CA",0,324,0,0,Artesia city
+CA,0638226,Kerman,incorporated,25,A,16016,"Kerman, CA",0,325,0,0,Kerman city
+CA,0661026,Ripon,incorporated,25,A,16013,"Ripon, CA",0,326,0,0,Ripon city
+CA,0640256,La Palma,incorporated,25,A,15581,"La Palma, CA",0,327,0,0,La Palma city
+CA,0654848,Pacific Grove,incorporated,25,A,15090,"Pacific Grove, CA",0,328,0,0,Pacific Grove city
+CA,0609780,California City,incorporated,25,A,14973,"California City, CA",0,329,0,0,California City city
+CA,0659892,Red Bluff,incorporated,25,A,14710,"Red Bluff, CA",0,330,0,0,Red Bluff city
+CA,0655856,Parlier,incorporated,25,A,14576,"Parlier, CA",0,331,0,0,Parlier city
+CA,0647710,Mill Valley,incorporated,25,A,14231,"Mill Valley, CA",0,332,0,0,Mill Valley city
+CA,0642006,Livingston,incorporated,25,A,14172,"Livingston, CA",0,333,0,0,Livingston city
+CA,0644826,McFarland,incorporated,25,A,14161,"McFarland, CA",0,334,0,0,McFarland city
+CA,0632506,Hawaiian Gardens,incorporated,25,A,14149,"Hawaiian Gardens, CA",0,335,0,0,Hawaiian Gardens city
+CA,0630798,Grass Valley,incorporated,25,A,14016,"Grass Valley, CA",0,336,0,0,Grass Valley city
+CA,0603204,Auburn,incorporated,25,A,13776,"Auburn, CA",0,337,0,0,Auburn city
+CA,0603302,Avenal,incorporated,25,A,13696,"Avenal, CA",0,338,0,0,Avenal city
+CA,0655380,Palos Verdes Estates,incorporated,25,A,13347,"Palos Verdes Estates, CA",0,339,0,0,Palos Verdes Estates city
+CA,0638520,King City,incorporated,25,A,13332,"King City, CA",0,340,0,0,King City city
+CA,0611446,Carpinteria,incorporated,25,A,13264,"Carpinteria, CA",0,341,0,0,Carpinteria city
+CA,0630658,Grand Terrace,incorporated,25,A,13150,"Grand Terrace, CA",0,342,0,0,Grand Terrace city
+CA,0640438,Larkspur,incorporated,25,A,13064,"Larkspur, CA",0,343,0,0,Larkspur city
+CA,0672506,Solana Beach,incorporated,25,A,12941,"Solana Beach, CA",0,344,0,0,Solana Beach city
+CA,0678092,Tehachapi,incorporated,25,A,12939,"Tehachapi, CA",0,345,0,0,Tehachapi city
+CA,0622594,Emeryville,incorporated,25,A,12905,"Emeryville, CA",0,346,0,0,Emeryville city
+CA,0646170,Marysville,incorporated,25,A,12844,"Marysville, CA",0,347,0,0,Marysville city
+CA,0664434,San Anselmo,incorporated,43,A,12830,"San Anselmo, CA",0,348,0,0,San Anselmo town
+CA,0631393,Grover Beach,incorporated,25,A,12701,"Grover Beach, CA",0,349,0,0,Grover Beach city
+CA,0641712,Lindsay,incorporated,25,A,12659,"Lindsay, CA",0,350,0,0,Lindsay city
+CA,0646828,Mendota,incorporated,25,A,12595,"Mendota, CA",0,351,0,0,Mendota city
+CA,0625296,Fortuna,incorporated,25,A,12516,"Fortuna, CA",0,352,0,0,Fortuna city
+CA,0668224,San Marino,incorporated,25,A,12513,"San Marino, CA",0,353,0,0,San Marino city
+CA,0638562,Kingsburg,incorporated,25,A,12380,"Kingsburg, CA",0,354,0,0,Kingsburg city
+CA,0614974,Commerce,incorporated,25,A,12378,"Commerce, CA",0,355,0,0,Commerce city
+CA,0651140,Newman,incorporated,25,A,12351,"Newman, CA",0,356,0,0,Newman city
+CA,0670588,Scotts Valley,incorporated,25,A,12224,"Scotts Valley, CA",0,357,0,0,Scotts Valley city
+CA,0671876,Signal Hill,incorporated,25,A,11848,"Signal Hill, CA",0,358,0,0,Signal Hill city
+CA,0631708,Half Moon Bay,incorporated,25,A,11795,"Half Moon Bay, CA",0,359,0,0,Half Moon Bay city
+CA,0643224,Los Alamitos,incorporated,25,A,11780,"Los Alamitos, CA",0,360,0,0,Los Alamitos city
+CA,0633798,Hillsborough,incorporated,43,A,11387,"Hillsborough, CA",0,361,0,0,Hillsborough town
+CA,0633056,Healdsburg,incorporated,25,A,11340,"Healdsburg, CA",0,362,0,0,Healdsburg city
+CA,0602042,Anderson,incorporated,25,A,11323,"Anderson, CA",0,363,0,0,Anderson city
+CA,0656938,Piedmont,incorporated,25,A,11270,"Piedmont, CA",0,364,0,0,Piedmont city
+CA,0671806,Sierra Madre,incorporated,25,A,11268,"Sierra Madre, CA",0,365,0,0,Sierra Madre city
+CA,0610928,Canyon Lake,incorporated,25,A,11082,"Canyon Lake, CA",0,366,0,0,Canyon Lake city
+CA,0613882,Clayton,incorporated,25,A,11070,"Clayton, CA",0,367,0,0,Clayton city
+CA,0649362,Morro Bay,incorporated,25,A,10757,"Morro Bay, CA",0,368,0,0,Morro Bay city
+CA,0657540,Placerville,incorporated,25,A,10747,"Placerville, CA",0,369,0,0,Placerville city
+CA,0672646,Sonoma,incorporated,25,A,10739,"Sonoma, CA",0,370,0,0,Sonoma city
+CA,0645246,Malibu,incorporated,25,A,10654,"Malibu, CA",0,371,0,0,Malibu city
+CA,0623616,Farmersville,incorporated,25,A,10397,"Farmersville, CA",0,372,0,0,Farmersville city
+CA,0671225,Shasta Lake,incorporated,25,A,10371,"Shasta Lake, CA",0,373,0,0,Shasta Lake city
+CA,0623126,Exeter,incorporated,25,A,10321,"Exeter, CA",0,374,0,0,Exeter city
+CA,0616462,Corte Madera,incorporated,43,A,10222,"Corte Madera, CA",0,375,0,0,Corte Madera town
+CA,0609864,Calimesa,incorporated,25,A,10026,"Calimesa, CA",0,376,0,0,Calimesa city
+CA,0660984,Rio Vista,incorporated,25,A,10005,"Rio Vista, CA",0,377,0,0,Rio Vista city
+CA,0611040,Capitola,incorporated,25,A,9938,"Capitola, CA",0,378,0,0,Capitola city
+CA,0654008,Orange Cove,incorporated,25,A,9649,"Orange Cove, CA",0,379,0,0,Orange Cove city
+CA,0678666,Tiburon,incorporated,43,A,9146,"Tiburon, CA",0,380,0,0,Tiburon town
+CA,0683612,Waterford,incorporated,25,A,9120,"Waterford, CA",0,381,0,0,Waterford city
+CA,0641936,Live Oak,incorporated,25,A,9106,"Live Oak, CA",0,382,0,0,Live Oak city
+CA,0614190,Cloverdale,incorporated,25,A,8996,"Cloverdale, CA",0,383,0,0,Cloverdale city
+CA,0630392,Gonzales,incorporated,25,A,8647,"Gonzales, CA",0,384,0,0,Gonzales city
+CA,0677574,Taft,incorporated,25,A,8546,"Taft, CA",0,385,0,0,Taft city
+CA,0643294,Los Altos Hills,incorporated,43,A,8489,"Los Altos Hills, CA",0,386,0,0,Los Altos Hills town
+CA,0654274,Orland,incorporated,25,A,8298,"Orland, CA",0,387,0,0,Orland city
+CA,0662644,Rolling Hills Estates,incorporated,25,A,8280,"Rolling Hills Estates, CA",0,388,0,0,Rolling Hills Estates city
+CA,0616322,Corning,incorporated,25,A,8244,"Corning, CA",0,389,0,0,Corning city
+CA,0624134,Firebaugh,incorporated,25,A,8096,"Firebaugh, CA",0,390,0,0,Firebaugh city
+CA,0657414,Pismo Beach,incorporated,25,A,8072,"Pismo Beach, CA",0,391,0,0,Pismo Beach city
+CA,0631414,Guadalupe,incorporated,25,A,8057,"Guadalupe, CA",0,392,0,0,Guadalupe city
+CA,0684438,Westlake Village,incorporated,25,A,8029,"Westlake Village, CA",0,393,0,0,Westlake Village city
+CA,0686944,Yreka,incorporated,25,A,7807,"Yreka, CA",0,394,0,0,Yreka city
+CA,0653476,Ojai,incorporated,25,A,7637,"Ojai, CA",0,395,0,0,Ojai city
+CA,0623168,Fairfax,incorporated,43,A,7605,"Fairfax, CA",0,396,0,0,Fairfax town
+CA,0616560,Cotati,incorporated,25,A,7584,"Cotati, CA",0,397,0,0,Cotati city
+CA,0670770,Sebastopol,incorporated,25,A,7521,"Sebastopol, CA",0,398,0,0,Sebastopol city
+CA,0634904,Hughson,incorporated,25,A,7481,"Hughson, CA",0,399,0,0,Hughson city
+CA,0622790,Escalon,incorporated,25,A,7472,"Escalon, CA",0,400,0,0,Escalon city
+CA,0631260,Gridley,incorporated,25,A,7421,"Gridley, CA",0,401,0,0,Gridley city
+CA,0686300,Woodlake,incorporated,25,A,7419,"Woodlake, CA",0,402,0,0,Woodlake city
+CA,0670364,Sausalito,incorporated,25,A,7269,"Sausalito, CA",0,403,0,0,Sausalito city
+CA,0645358,Mammoth Lakes,incorporated,43,A,7191,"Mammoth Lakes, CA",0,404,0,0,Mammoth Lakes town
+CA,0603092,Atherton,incorporated,43,A,7188,"Atherton, CA",0,405,0,0,Atherton town
+CA,0686034,Winters,incorporated,25,A,7115,"Winters, CA",0,406,0,0,Winters city
+CA,0625058,Fort Bragg,incorporated,25,A,6983,"Fort Bragg, CA",0,407,0,0,Fort Bragg city
+CA,0643140,Loomis,incorporated,43,A,6836,"Loomis, CA",0,408,0,0,Loomis town
+CA,0625436,Fowler,incorporated,25,A,6700,"Fowler, CA",0,409,0,0,Fowler city
+CA,0617022,Crescent City,incorporated,25,A,6673,"Crescent City, CA",0,410,0,0,Crescent City city
+CA,0609878,Calipatria,incorporated,25,A,6515,"Calipatria, CA",0,411,0,0,Calipatria city
+CA,0614946,Colusa,incorporated,25,A,6411,"Colusa, CA",0,412,0,0,Colusa city
+CA,0685684,Willows,incorporated,25,A,6293,"Willows, CA",0,413,0,0,Willows city
+CA,0636084,Huron,incorporated,25,A,6206,"Huron, CA",0,414,0,0,Huron city
+CA,0672576,Solvang,incorporated,25,A,6126,"Solvang, CA",0,415,0,0,Solvang city
+CA,0631568,Gustine,incorporated,25,A,6110,"Gustine, CA",0,416,0,0,Gustine city
+CA,0682744,Villa Park,incorporated,25,A,5843,"Villa Park, CA",0,417,0,0,Villa Park city
+CA,0619612,Dos Palos,incorporated,25,A,5798,"Dos Palos, CA",0,418,0,0,Dos Palos city
+CA,0639304,La Habra Heights,incorporated,25,A,5682,"La Habra Heights, CA",0,419,0,0,La Habra Heights city
+CA,0634246,Holtville,incorporated,25,A,5605,"Holtville, CA",0,420,0,0,Holtville city
+CA,0685586,Williams,incorporated,25,A,5538,"Williams, CA",0,421,0,0,Williams city
+CA,0664140,St. Helena,incorporated,25,A,5430,"St. Helena, CA",0,422,0,0,St. Helena city
+CA,0686440,Woodside,incorporated,43,A,5309,"Woodside, CA",0,423,0,0,Woodside town
+CA,0609892,Calistoga,incorporated,25,A,5228,"Calistoga, CA",0,424,0,0,Calistoga city
+CA,0608758,Buellton,incorporated,25,A,5161,"Buellton, CA",0,425,0,0,Buellton city
+CA,0636672,Ione,incorporated,25,A,5141,"Ione, CA",0,426,0,0,Ione city
+CA,0606434,Big Bear Lake,incorporated,25,A,5046,"Big Bear Lake, CA",0,427,0,0,Big Bear Lake city
+CA,0639710,Lakeport,incorporated,25,A,5026,"Lakeport, CA",0,428,0,0,Lakeport city
+CA,0636980,Jackson,incorporated,25,A,5019,"Jackson, CA",0,429,0,0,Jackson city
+CA,0672674,Sonora,incorporated,25,A,5003,"Sonora, CA",0,430,0,0,Sonora city
+CA,0685600,Willits,incorporated,25,A,4988,"Willits, CA",0,431,0,0,Willits city
+CA,0650734,Needles,incorporated,25,A,4931,"Needles, CA",0,432,0,0,Needles city
+CA,0608310,Brisbane,incorporated,25,A,4851,"Brisbane, CA",0,433,0,0,Brisbane city
+CA,0655520,Paradise,incorporated,43,A,4764,"Paradise, CA",0,434,0,0,Paradise town
+CA,0636434,Indian Wells,incorporated,25,A,4757,"Indian Wells, CA",0,435,0,0,Indian Wells city
+CA,0658380,Portola Valley,incorporated,43,A,4456,"Portola Valley, CA",0,436,0,0,Portola Valley town
+CA,0618506,Del Mar,incorporated,25,A,3954,"Del Mar, CA",0,437,0,0,Del Mar city
+CA,0606798,Bishop,incorporated,25,A,3819,"Bishop, CA",0,438,0,0,Bishop city
+CA,0685012,Wheatland,incorporated,25,A,3712,"Wheatland, CA",0,439,0,0,Wheatland city
+CA,0667126,San Joaquin,incorporated,25,A,3701,"San Joaquin, CA",0,440,0,0,San Joaquin city
+CA,0602112,Angels,incorporated,25,A,3667,"Angels, CA",0,441,0,0,Angels city
+CA,0648956,Monte Sereno,incorporated,25,A,3479,"Monte Sereno, CA",0,442,0,0,Monte Sereno city
+CA,0603274,Avalon,incorporated,25,A,3460,"Avalon, CA",0,443,0,0,Avalon city
+CA,0686930,Yountville,incorporated,25,A,3436,"Yountville, CA",0,444,0,0,Yountville city
+CA,0660900,Rio Dell,incorporated,25,A,3379,"Rio Dell, CA",0,445,0,0,Rio Dell city
+CA,0649852,Mount Shasta,incorporated,25,A,3223,"Mount Shasta, CA",0,446,0,0,Mount Shasta city
+CA,0611250,Carmel-by-the-Sea,incorporated,25,A,3220,"Carmel-by-the-Sea, CA",0,447,0,0,Carmel-by-the-Sea city
+CA,0650874,Nevada City,incorporated,25,A,3152,"Nevada City, CA",0,448,0,0,Nevada City city
+CA,0683850,Weed,incorporated,25,A,2862,"Weed, CA",0,449,0,0,Weed city
+CA,0601444,Alturas,incorporated,25,A,2715,"Alturas, CA",0,450,0,0,Alturas city
+CA,0677392,Sutter Creek,incorporated,25,A,2646,"Sutter Creek, CA",0,451,0,0,Sutter Creek city
+CA,0662980,Ross,incorporated,43,A,2338,"Ross, CA",0,452,0,0,Ross town
+CA,0605164,Belvedere,incorporated,25,A,2126,"Belvedere, CA",0,453,0,0,Belvedere city
+CA,0658352,Portola,incorporated,25,A,2100,"Portola, CA",0,454,0,0,Portola city
+CA,0668014,San Juan Bautista,incorporated,25,A,2089,"San Juan Bautista, CA",0,455,0,0,San Juan Bautista city
+CA,0684606,Westmorland,incorporated,25,A,2014,"Westmorland, CA",0,456,0,0,Westmorland city
+CA,0614498,Colfax,incorporated,25,A,1995,"Colfax, CA",0,457,0,0,Colfax city
+CA,0606560,Biggs,incorporated,25,A,1964,"Biggs, CA",0,458,0,0,Biggs city
+CA,0662602,Rolling Hills,incorporated,25,A,1739,"Rolling Hills, CA",0,459,0,0,Rolling Hills city
+CA,0633518,Hidden Hills,incorporated,25,A,1725,"Hidden Hills, CA",0,460,0,0,Hidden Hills city
+CA,0620242,Dunsmuir,incorporated,25,A,1707,"Dunsmuir, CA",0,461,0,0,Dunsmuir city
+CA,0618688,Del Rey Oaks,incorporated,25,A,1592,"Del Rey Oaks, CA",0,462,0,0,Del Rey Oaks city
+CA,0614736,Colma,incorporated,43,A,1507,"Colma, CA",0,463,0,0,Colma town
+CA,0636826,Irwindale,incorporated,25,A,1472,"Irwindale, CA",0,464,0,0,Irwindale city
+CA,0623910,Ferndale,incorporated,25,A,1398,"Ferndale, CA",0,465,0,0,Ferndale city
+CA,0648690,Montague,incorporated,25,A,1226,"Montague, CA",0,466,0,0,Montague city
+CA,0607162,Blue Lake,incorporated,25,A,1208,"Blue Lake, CA",0,467,0,0,Blue Lake city
+CA,0657834,Plymouth,incorporated,25,A,1078,"Plymouth, CA",0,468,0,0,Plymouth city
+CA,0645736,Maricopa,incorporated,25,A,1026,"Maricopa, CA",0,469,0,0,Maricopa city
+CA,0607946,Bradbury,incorporated,25,A,921,"Bradbury, CA",0,470,0,0,Bradbury city
+CA,0680686,Tulelake,incorporated,25,A,902,"Tulelake, CA",0,471,0,0,Tulelake city
+CA,0619584,Dorris,incorporated,25,A,860,"Dorris, CA",0,472,0,0,Dorris city
+CA,0636882,Isleton,incorporated,25,A,794,"Isleton, CA",0,473,0,0,Isleton city
+CA,0644364,Loyalton,incorporated,25,A,740,"Loyalton, CA",0,474,0,0,Loyalton city
+CA,0625128,Fort Jones,incorporated,25,A,695,"Fort Jones, CA",0,475,0,0,Fort Jones city
+CA,0622972,Etna,incorporated,25,A,678,"Etna, CA",0,476,0,0,Etna city
+CA,0657876,Point Arena,incorporated,25,A,460,"Point Arena, CA",0,477,0,0,Point Arena city
+CA,0678106,Tehama,incorporated,25,A,435,"Tehama, CA",0,478,0,0,Tehama city
+CA,0665112,Sand City,incorporated,25,A,325,"Sand City, CA",0,479,0,0,Sand City city
+CA,0680448,Trinidad,incorporated,25,A,307,"Trinidad, CA",0,480,0,0,Trinidad city
+CA,0636490,Industry,incorporated,25,A,264,"Industry, CA",0,481,0,0,Industry city
+CA,0682422,Vernon,incorporated,25,A,222,"Vernon, CA",0,482,0,0,Vernon city
+CA,0601514,Amador City,incorporated,25,A,200,"Amador City, CA",0,483,0,0,Amador City city

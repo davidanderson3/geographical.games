@@ -1,0 +1,282 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+WA,5363000,Seattle,incorporated,25,A,737015,"Seattle, WA",0,1,70,0.28,Seattle city
+WA,5367000,Spokane,incorporated,25,A,228989,"Spokane, WA",0,2,30,0.12,Spokane city
+WA,5370000,Tacoma,incorporated,25,A,219346,"Tacoma, WA",0,3,17,0.068,Tacoma city
+WA,5374060,Vancouver,incorporated,25,A,190915,"Vancouver, WA",0,4,12,0.048,Vancouver city
+WA,5305210,Bellevue,incorporated,25,A,151854,"Bellevue, WA",0,5,9,0.036,Bellevue city
+WA,5335415,Kent,incorporated,25,A,136588,"Kent, WA",0,6,7,0.028,Kent city
+WA,5322640,Everett,incorporated,25,A,110629,"Everett, WA",0,7,6,0.024,Everett city
+WA,5357745,Renton,incorporated,25,A,106785,"Renton, WA",0,8,5,0.02,Renton city
+WA,5367167,Spokane Valley,incorporated,25,A,102976,"Spokane Valley, WA",0,9,4,0.016,Spokane Valley city
+WA,5323515,Federal Way,incorporated,25,A,101030,"Federal Way, WA",0,10,5,0.02,Federal Way city
+WA,5380010,Yakima,incorporated,25,A,96968,"Yakima, WA",0,11,3,0.012,Yakima city
+WA,5335940,Kirkland,incorporated,25,A,92175,"Kirkland, WA",0,12,3,0.012,Kirkland city
+WA,5305280,Bellingham,incorporated,25,A,91482,"Bellingham, WA",0,13,4,0.016,Bellingham city
+WA,5303180,Auburn,incorporated,25,A,87256,"Auburn, WA",0,14,4,0.016,Auburn city
+WA,5335275,Kennewick,incorporated,25,A,83921,"Kennewick, WA",0,15,2,0.008,Kennewick city
+WA,5353545,Pasco,incorporated,25,A,77108,"Pasco, WA",0,16,2,0.008,Pasco city
+WA,5357535,Redmond,incorporated,25,A,73256,"Redmond, WA",0,17,3,0.012,Redmond city
+WA,5343955,Marysville,incorporated,25,A,70714,"Marysville, WA",0,18,3,0.012,Marysville city
+WA,5361115,Sammamish,incorporated,25,A,67455,"Sammamish, WA",0,19,3,0.012,Sammamish city
+WA,5338038,Lakewood,incorporated,25,A,63612,"Lakewood, WA",0,20,3,0.012,Lakewood city
+WA,5358235,Richland,incorporated,25,A,60560,"Richland, WA",0,21,3,0.012,Richland city
+WA,5363960,Shoreline,incorporated,25,A,58608,"Shoreline, WA",0,22,1,0.004,Shoreline city
+WA,5351300,Olympia,incorporated,25,A,55605,"Olympia, WA",0,23,2,0.008,Olympia city
+WA,5336745,Lacey,incorporated,25,A,53526,"Lacey, WA",0,24,1,0.004,Lacey city
+WA,5308850,Burien,incorporated,25,A,52066,"Burien, WA",0,25,1,0.004,Burien city
+WA,5307380,Bothell,incorporated,25,A,48161,"Bothell, WA",0,26,1,0.004,Bothell city
+WA,5307695,Bremerton,incorporated,25,A,43505,"Bremerton, WA",0,27,1,0.004,Bremerton city
+WA,5356695,Puyallup,incorporated,25,A,42973,"Puyallup, WA",0,28,1,0.004,Puyallup city
+WA,5320750,Edmonds,incorporated,25,A,42853,"Edmonds, WA",0,29,1,0.004,Edmonds city
+WA,5333805,Issaquah,incorporated,25,A,40051,"Issaquah, WA",0,30,2,0.008,Issaquah city
+WA,5340840,Lynnwood,incorporated,25,A,38568,"Lynnwood, WA",0,31,2,0.008,Lynnwood city
+WA,5340245,Longview,incorporated,25,A,37818,"Longview, WA",0,32,2,0.008,Longview city
+WA,5337900,Lake Stevens,incorporated,25,A,35630,"Lake Stevens, WA",0,33,2,0.008,Lake Stevens city
+WA,5377105,Wenatchee,incorporated,25,A,35508,"Wenatchee, WA",0,34,2,0.008,Wenatchee city
+WA,5347560,Mount Vernon,incorporated,25,A,35219,"Mount Vernon, WA",0,35,2,0.008,Mount Vernon city
+WA,5373465,University Place,incorporated,25,A,34866,"University Place, WA",0,36,2,0.008,University Place city
+WA,5375775,Walla Walla,incorporated,25,A,34060,"Walla Walla, WA",0,37,2,0.008,Walla Walla city
+WA,5356625,Pullman,incorporated,25,A,32901,"Pullman, WA",0,38,2,0.008,Pullman city
+WA,5317635,Des Moines,incorporated,25,A,32888,"Des Moines, WA",0,39,2,0.008,Des Moines city
+WA,5362288,SeaTac,incorporated,25,A,31454,"SeaTac, WA",0,40,2,0.008,SeaTac city
+WA,5343150,Maple Valley,incorporated,25,A,28013,"Maple Valley, WA",0,41,2,0.008,Maple Valley city
+WA,5309480,Camas,incorporated,25,A,26065,"Camas, WA",0,42,2,0.008,Camas city
+WA,5345005,Mercer Island,incorporated,25,A,25748,"Mercer Island, WA",0,43,2,0.008,Mercer Island city
+WA,5372905,Tumwater,incorporated,25,A,25350,"Tumwater, WA",0,44,2,0.008,Tumwater city
+WA,5347245,Moses Lake,incorporated,25,A,25146,"Moses Lake, WA",0,45,2,0.008,Moses Lake city
+WA,5303736,Bainbridge Island,incorporated,25,A,24825,"Bainbridge Island, WA",0,46,2,0.008,Bainbridge Island city
+WA,5350360,Oak Harbor,incorporated,25,A,24622,"Oak Harbor, WA",0,47,2,0.008,Oak Harbor city
+WA,5335170,Kenmore,incorporated,25,A,23914,"Kenmore, WA",0,48,2,0.008,Kenmore city
+WA,5307170,Bonney Lake,incorporated,25,A,22487,"Bonney Lake, WA",0,49,2,0.008,Bonney Lake city
+WA,5372625,Tukwila,incorporated,25,A,21798,"Tukwila, WA",0,50,2,0.008,Tukwila city
+WA,5347735,Mukilteo,incorporated,25,A,21538,"Mukilteo, WA",0,51,1,0.004,Mukilteo city
+WA,5347490,Mountlake Terrace,incorporated,25,A,21286,"Mountlake Terrace, WA",0,52,0,0,Mountlake Terrace city
+WA,5345865,Mill Creek,incorporated,25,A,20926,"Mill Creek, WA",0,53,0,0,Mill Creek city
+WA,5315290,Covington,incorporated,25,A,20777,"Covington, WA",0,54,0,0,Covington city
+WA,5304475,Battle Ground,incorporated,25,A,20743,"Battle Ground, WA",0,55,0,0,Battle Ground city
+WA,5355365,Port Angeles,incorporated,25,A,19960,"Port Angeles, WA",0,56,0,0,Port Angeles city
+WA,5302585,Arlington,incorporated,25,A,19868,"Arlington, WA",0,57,0,0,Arlington city
+WA,5346685,Monroe,incorporated,25,A,19699,"Monroe, WA",0,58,0,0,Monroe city
+WA,5321240,Ellensburg,incorporated,25,A,18666,"Ellensburg, WA",0,59,0,0,Ellensburg city
+WA,5311160,Centralia,incorporated,25,A,18183,"Centralia, WA",0,60,0,0,Centralia city
+WA,5301990,Anacortes,incorporated,25,A,17637,"Anacortes, WA",0,61,0,0,Anacortes city
+WA,5376405,Washougal,incorporated,25,A,17039,"Washougal, WA",0,62,0,0,Washougal city
+WA,5300100,Aberdeen,incorporated,25,A,17013,"Aberdeen, WA",0,63,0,0,Aberdeen city
+WA,5368750,Sunnyside,incorporated,25,A,16375,"Sunnyside, WA",0,64,0,0,Sunnyside city
+WA,5377665,West Richland,incorporated,25,A,16295,"West Richland, WA",0,65,0,0,West Richland city
+WA,5340805,Lynden,incorporated,25,A,15749,"Lynden, WA",0,66,0,0,Lynden city
+WA,5355785,Port Orchard,incorporated,25,A,15587,"Port Orchard, WA",0,67,0,0,Port Orchard city
+WA,5323620,Ferndale,incorporated,25,A,15048,"Ferndale, WA",0,68,0,0,Ferndale city
+WA,5320155,East Wenatchee,incorporated,25,A,14158,"East Wenatchee, WA",0,69,0,0,East Wenatchee city
+WA,5365205,Snoqualmie,incorporated,25,A,14121,"Snoqualmie, WA",0,70,0,0,Snoqualmie city
+WA,5337270,Lake Forest Park,incorporated,25,A,13630,"Lake Forest Park, WA",0,71,0,0,Lake Forest Park city
+WA,5311825,Cheney,incorporated,25,A,13255,"Cheney, WA",0,72,0,0,Cheney city
+WA,5379590,Woodinville,incorporated,25,A,13069,"Woodinville, WA",0,73,0,0,Woodinville city
+WA,5348645,Newcastle,incorporated,25,A,13017,"Newcastle, WA",0,74,0,0,Newcastle city
+WA,5335065,Kelso,incorporated,25,A,12720,"Kelso, WA",0,75,0,0,Kelso city
+WA,5322045,Enumclaw,incorporated,25,A,12543,"Enumclaw, WA",0,76,0,0,Enumclaw city
+WA,5363210,Sedro-Woolley,incorporated,25,A,12421,"Sedro-Woolley, WA",0,77,0,0,Sedro-Woolley city
+WA,5320645,Edgewood,incorporated,25,A,12327,"Edgewood, WA",0,78,0,0,Edgewood city
+WA,5326735,Gig Harbor,incorporated,25,A,12029,"Gig Harbor, WA",0,79,0,0,Gig Harbor city
+WA,5339335,Liberty Lake,incorporated,25,A,12003,"Liberty Lake, WA",0,80,0,0,Liberty Lake city
+WA,5355995,Poulsbo,incorporated,25,A,11975,"Poulsbo, WA",0,81,0,0,Poulsbo city
+WA,5323795,Fife,incorporated,25,A,10999,"Fife, WA",0,82,0,0,Fife city
+WA,5327925,Grandview,incorporated,25,A,10907,"Grandview, WA",0,83,0,0,Grandview city
+WA,5300905,Airway Heights,incorporated,25,A,10757,"Airway Heights, WA",0,84,0,0,Airway Heights city
+WA,5368435,Sumner,incorporated,25,A,10621,"Sumner, WA",0,85,0,0,Sumner city
+WA,5380220,Yelm,incorporated,25,A,10617,"Yelm, WA",0,86,0,0,Yelm city
+WA,5363735,Shelton,incorporated,25,A,10371,"Shelton, WA",0,87,0,0,Shelton city
+WA,5358410,Ridgefield,incorporated,25,A,10319,"Ridgefield, WA",0,88,0,0,Ridgefield city
+WA,5318965,DuPont,incorporated,25,A,10151,"DuPont, WA",0,89,0,0,DuPont city
+WA,5355855,Port Townsend,incorporated,25,A,10148,"Port Townsend, WA",0,90,0,0,Port Townsend city
+WA,5365170,Snohomish,incorporated,25,A,10126,"Snohomish, WA",0,91,0,0,Snohomish city
+WA,5313855,College Place,incorporated,25,A,9902,"College Place, WA",0,92,0,0,College Place city
+WA,5308920,Burlington,incorporated,25,A,9152,"Burlington, WA",0,93,0,0,Burlington city
+WA,5352005,Orting,incorporated,25,A,9041,"Orting, WA",0,94,0,0,Orting city
+WA,5371960,Toppenish,incorporated,25,A,8854,"Toppenish, WA",0,95,0,0,Toppenish city
+WA,5332300,Hoquiam,incorporated,25,A,8776,"Hoquiam, WA",0,96,0,0,Hoquiam city
+WA,5346020,Milton,incorporated,25,A,8697,"Milton, WA",0,97,0,0,Milton city
+WA,5352215,Othello,incorporated,25,A,8549,"Othello, WA",0,98,0,0,Othello city
+WA,5322080,Ephrata,incorporated,25,A,8477,"Ephrata, WA",0,99,0,0,Ephrata city
+WA,5363280,Selah,incorporated,25,A,8153,"Selah, WA",0,100,0,0,Selah city
+WA,5319035,Duvall,incorporated,25,A,8034,"Duvall, WA",0,101,0,0,Duvall city
+WA,5363385,Sequim,incorporated,25,A,8024,"Sequim, WA",0,102,0,0,Sequim city
+WA,5367455,Stanwood,incorporated,25,A,7705,"Stanwood, WA",0,103,0,0,Stanwood city
+WA,5357115,Quincy,incorporated,25,A,7543,"Quincy, WA",0,104,0,0,Quincy city
+WA,5349485,North Bend,incorporated,25,A,7461,"North Bend, WA",0,105,0,0,North Bend city
+WA,5311475,Chehalis,incorporated,25,A,7439,"Chehalis, WA",0,106,0,0,Chehalis city
+WA,5352495,Pacific,incorporated,25,A,7235,"Pacific, WA",0,107,0,0,Pacific city
+WA,5312630,Clarkston,incorporated,25,A,7161,"Clarkston, WA",0,108,0,0,Clarkston city
+WA,5323970,Fircrest,incorporated,25,A,7156,"Fircrest, WA",0,109,0,0,Fircrest city
+WA,5349415,Normandy Park,incorporated,25,A,6771,"Normandy Park, WA",0,110,0,0,Normandy Park city
+WA,5367770,Steilacoom,incorporated,43,A,6727,"Steilacoom, WA",0,111,0,0,Steilacoom town
+WA,5350570,Ocean Shores,incorporated,25,A,6715,"Ocean Shores, WA",0,112,0,0,Ocean Shores city
+WA,5373290,Union Gap,incorporated,25,A,6568,"Union Gap, WA",0,113,0,0,Union Gap city
+WA,5307940,Brier,incorporated,25,A,6560,"Brier, WA",0,114,0,0,Brier city
+WA,5379625,Woodland,incorporated,25,A,6531,"Woodland, WA",0,115,0,0,Woodland city
+WA,5356450,Prosser,incorporated,25,A,6062,"Prosser, WA",0,116,0,0,Prosser city
+WA,5306505,Blaine,incorporated,25,A,5884,"Blaine, WA",0,117,0,0,Blaine city
+WA,5314485,Connell,incorporated,25,A,5441,"Connell, WA",0,118,0,0,Connell city
+WA,5368260,Sultan,incorporated,25,A,5146,"Sultan, WA",0,119,0,0,Sultan city
+WA,5308570,Buckley,incorporated,25,A,5114,"Buckley, WA",0,120,0,0,Buckley city
+WA,5314170,Colville,incorporated,25,A,4917,"Colville, WA",0,121,0,0,Colville city
+WA,5344690,Medical Lake,incorporated,25,A,4874,"Medical Lake, WA",0,122,0,0,Medical Lake city
+WA,5351340,Omak,incorporated,25,A,4860,"Omak, WA",0,123,0,0,Omak city
+WA,5306330,Black Diamond,incorporated,25,A,4697,"Black Diamond, WA",0,124,0,0,Black Diamond city
+WA,5376125,Wapato,incorporated,25,A,4607,"Wapato, WA",0,125,0,0,Wapato city
+WA,5327995,Granite Falls,incorporated,25,A,4450,"Granite Falls, WA",0,126,0,0,Granite Falls city
+WA,5317320,Deer Park,incorporated,25,A,4383,"Deer Park, WA",0,127,0,0,Deer Park city
+WA,5347665,Moxee,incorporated,25,A,4326,"Moxee, WA",0,128,0,0,Moxee city
+WA,5311615,Chelan,incorporated,25,A,4222,"Chelan, WA",0,129,0,0,Chelan city
+WA,5346895,Montesano,incorporated,25,A,4138,"Montesano, WA",0,130,0,0,Montesano city
+WA,5327960,Granger,incorporated,25,A,3624,"Granger, WA",0,131,0,0,Granger city
+WA,5305560,Benton City,incorporated,25,A,3479,"Benton City, WA",0,132,0,0,Benton City city
+WA,5327435,Goldendale,incorporated,25,A,3453,"Goldendale, WA",0,133,0,0,Goldendale city
+WA,5321450,Elma,incorporated,25,A,3438,"Elma, WA",0,134,0,0,Elma city
+WA,5336710,La Center,incorporated,25,A,3424,"La Center, WA",0,135,0,0,La Center city
+WA,5324810,Forks,incorporated,25,A,3335,"Forks, WA",0,136,0,0,Forks city
+WA,5344165,Mattawa,incorporated,25,A,3335,"Mattawa, WA",0,137,0,0,Mattawa city
+WA,5301290,Algona,incorporated,25,A,3290,"Algona, WA",0,138,0,0,Algona city
+WA,5310495,Cashmere,incorporated,25,A,3248,"Cashmere, WA",0,139,0,0,Cashmere city
+WA,5380500,Zillah,incorporated,25,A,3179,"Zillah, WA",0,140,0,0,Zillah city
+WA,5313365,Clyde Hill,incorporated,25,A,3126,"Clyde Hill, WA",0,141,0,0,Clyde Hill city
+WA,5357430,Raymond,incorporated,25,A,3081,"Raymond, WA",0,142,0,0,Raymond city
+WA,5334645,Kalama,incorporated,25,A,2959,"Kalama, WA",0,143,0,0,Kalama city
+WA,5344725,Medina,incorporated,25,A,2915,"Medina, WA",0,144,0,0,Medina city
+WA,5322745,Everson,incorporated,25,A,2888,"Everson, WA",0,145,0,0,Everson city
+WA,5320260,Eatonville,incorporated,43,A,2845,"Eatonville, WA",0,146,0,0,Eatonville town
+WA,5313785,Colfax,incorporated,25,A,2782,"Colfax, WA",0,147,0,0,Colfax city
+WA,5325615,Friday Harbor,incorporated,43,A,2613,"Friday Harbor, WA",0,148,0,0,Friday Harbor town
+WA,5378330,White Salmon,incorporated,25,A,2485,"White Salmon, WA",0,149,0,0,White Salmon city
+WA,5312140,Chewelah,incorporated,25,A,2470,"Chewelah, WA",0,150,0,0,Chewelah city
+WA,5376160,Warden,incorporated,25,A,2449,"Warden, WA",0,151,0,0,Warden city
+WA,5316970,Dayton,incorporated,25,A,2448,"Dayton, WA",0,152,0,0,Dayton city
+WA,5310565,Castle Rock,incorporated,25,A,2446,"Castle Rock, WA",0,153,0,0,Castle Rock city
+WA,5327365,Gold Bar,incorporated,25,A,2403,"Gold Bar, WA",0,154,0,0,Gold Bar city
+WA,5350920,Okanogan,incorporated,25,A,2379,"Okanogan, WA",0,155,0,0,Okanogan city
+WA,5357220,Rainier,incorporated,25,A,2369,"Rainier, WA",0,156,0,0,Rainier city
+WA,5338845,Leavenworth,incorporated,25,A,2263,"Leavenworth, WA",0,157,0,0,Leavenworth city
+WA,5377630,Westport,incorporated,25,A,2213,"Westport, WA",0,158,0,0,Westport city
+WA,5310215,Carnation,incorporated,25,A,2158,"Carnation, WA",0,159,0,0,Carnation city
+WA,5312945,Cle Elum,incorporated,25,A,2157,"Cle Elum, WA",0,160,0,0,Cle Elum city
+WA,5307870,Bridgeport,incorporated,25,A,2141,"Bridgeport, WA",0,161,0,0,Bridgeport city
+WA,5348820,Newport,incorporated,25,A,2114,"Newport, WA",0,162,0,0,Newport city
+WA,5341225,McCleary,incorporated,25,A,1997,"McCleary, WA",0,163,0,0,McCleary city
+WA,5307835,Brewster,incorporated,25,A,1983,"Brewster, WA",0,164,0,0,Brewster city
+WA,5340980,Mabton,incorporated,25,A,1959,"Mabton, WA",0,165,0,0,Mabton city
+WA,5315185,Coupeville,incorporated,43,A,1942,"Coupeville, WA",0,166,0,0,Coupeville town
+WA,5347980,Napavine,incorporated,25,A,1888,"Napavine, WA",0,167,0,0,Napavine city
+WA,5345985,Millwood,incorporated,25,A,1881,"Millwood, WA",0,168,0,0,Millwood city
+WA,5370630,Tenino,incorporated,25,A,1870,"Tenino, WA",0,169,0,0,Tenino city
+WA,5351970,Oroville,incorporated,25,A,1795,"Oroville, WA",0,170,0,0,Oroville city
+WA,5360230,Royal City,incorporated,25,A,1776,"Royal City, WA",0,171,0,0,Royal City city
+WA,5358725,Ritzville,incorporated,25,A,1767,"Ritzville, WA",0,172,0,0,Ritzville city
+WA,5365625,South Bend,incorporated,25,A,1746,"South Bend, WA",0,173,0,0,South Bend city
+WA,5316795,Davenport,incorporated,25,A,1703,"Davenport, WA",0,174,0,0,Davenport city
+WA,5365345,Soap Lake,incorporated,25,A,1691,"Soap Lake, WA",0,175,0,0,Soap Lake city
+WA,5340070,Long Beach,incorporated,25,A,1688,"Long Beach, WA",0,176,0,0,Long Beach city
+WA,5379975,Yacolt,incorporated,43,A,1668,"Yacolt, WA",0,177,0,0,Yacolt town
+WA,5314870,Cosmopolis,incorporated,25,A,1638,"Cosmopolis, WA",0,178,0,0,Cosmopolis city
+WA,5335485,Kettle Falls,incorporated,25,A,1636,"Kettle Falls, WA",0,179,0,0,Kettle Falls city
+WA,5368330,Sumas,incorporated,25,A,1583,"Sumas, WA",0,180,0,0,Sumas city
+WA,5367875,Stevenson,incorporated,25,A,1491,"Stevenson, WA",0,181,0,0,Stevenson city
+WA,5379275,Winlock,incorporated,25,A,1472,"Winlock, WA",0,182,0,0,Winlock city
+WA,5349275,Nooksack,incorporated,25,A,1471,"Nooksack, WA",0,183,0,0,Nooksack city
+WA,5316690,Darrington,incorporated,43,A,1462,"Darrington, WA",0,184,0,0,Darrington town
+WA,5336045,Kittitas,incorporated,25,A,1438,"Kittitas, WA",0,185,0,0,Kittitas city
+WA,5349555,North Bonneville,incorporated,25,A,1397,"North Bonneville, WA",0,186,0,0,North Bonneville city
+WA,5355120,Pomeroy,incorporated,25,A,1389,"Pomeroy, WA",0,187,0,0,Pomeroy city
+WA,5371400,Tieton,incorporated,25,A,1389,"Tieton, WA",0,188,0,0,Tieton city
+WA,5322010,Entiat,incorporated,25,A,1326,"Entiat, WA",0,189,0,0,Entiat city
+WA,5379835,Woodway,incorporated,25,A,1318,"Woodway, WA",0,190,0,0,Woodway city
+WA,5359180,Rock Island,incorporated,25,A,1279,"Rock Island, WA",0,191,0,0,Rock Island city
+WA,5315115,Coulee Dam,incorporated,43,A,1211,"Coulee Dam, WA",0,192,0,0,Coulee Dam town
+WA,5303075,Asotin,incorporated,25,A,1204,"Asotin, WA",0,193,0,0,Asotin city
+WA,5375565,Waitsburg,incorporated,25,A,1166,"Waitsburg, WA",0,194,0,0,Waitsburg city
+WA,5338355,Langley,incorporated,25,A,1147,"Langley, WA",0,195,0,0,Langley city
+WA,5376510,Waterville,incorporated,43,A,1134,"Waterville, WA",0,196,0,0,Waterville town
+WA,5380150,Yarrow Point,incorporated,43,A,1134,"Yarrow Point, WA",0,197,0,0,Yarrow Point town
+WA,5371890,Tonasket,incorporated,25,A,1103,"Tonasket, WA",0,198,0,0,Tonasket city
+WA,5333000,Ilwaco,incorporated,25,A,1087,"Ilwaco, WA",0,199,0,0,Ilwaco city
+WA,5347805,Naches,incorporated,43,A,1084,"Naches, WA",0,200,0,0,Naches town
+WA,5360510,Ruston,incorporated,25,A,1055,"Ruston, WA",0,201,0,0,Ruston city
+WA,5347175,Morton,incorporated,25,A,1036,"Morton, WA",0,202,0,0,Morton city
+WA,5352950,Palouse,incorporated,25,A,1015,"Palouse, WA",0,203,0,0,Palouse city
+WA,5357850,Republic,incorporated,25,A,992,"Republic, WA",0,204,0,0,Republic city
+WA,5373080,Twisp,incorporated,43,A,992,"Twisp, WA",0,205,0,0,Twisp town
+WA,5327855,Grand Coulee,incorporated,25,A,972,"Grand Coulee, WA",0,206,0,0,Grand Coulee city
+WA,5336780,La Conner,incorporated,43,A,965,"La Conner, WA",0,207,0,0,La Conner town
+WA,5321030,Electric City,incorporated,25,A,956,"Electric City, WA",0,208,0,0,Electric City city
+WA,5360055,Roslyn,incorporated,25,A,950,"Roslyn, WA",0,209,0,0,Roslyn city
+WA,5350745,Odessa,incorporated,43,A,896,"Odessa, WA",0,210,0,0,Odessa town
+WA,5378680,Wilbur,incorporated,43,A,895,"Wilbur, WA",0,211,0,0,Wilbur town
+WA,5370560,Tekoa,incorporated,25,A,817,"Tekoa, WA",0,212,0,0,Tekoa city
+WA,5360160,Roy,incorporated,25,A,816,"Roy, WA",0,213,0,0,Roy city
+WA,5326455,George,incorporated,25,A,809,"George, WA",0,214,0,0,George city
+WA,5314380,Concrete,incorporated,43,A,801,"Concrete, WA",0,215,0,0,Concrete town
+WA,5306085,Bingen,incorporated,25,A,778,"Bingen, WA",0,216,0,0,Bingen city
+WA,5347315,Mossyrock,incorporated,25,A,768,"Mossyrock, WA",0,217,0,0,Mossyrock city
+WA,5309970,Carbonado,incorporated,43,A,734,"Carbonado, WA",0,218,0,0,Carbonado town
+WA,5350430,Oakville,incorporated,25,A,715,"Oakville, WA",0,219,0,0,Oakville city
+WA,5353930,Pe Ell,incorporated,43,A,642,"Pe Ell, WA",0,220,0,0,Pe Ell town
+WA,5357465,Reardan,incorporated,43,A,637,"Reardan, WA",0,221,0,0,Reardan town
+WA,5371785,Toledo,incorporated,25,A,631,"Toledo, WA",0,222,0,0,Toledo city
+WA,5373780,Vader,incorporated,25,A,629,"Vader, WA",0,223,0,0,Vader city
+WA,5308605,Bucoda,incorporated,43,A,600,"Bucoda, WA",0,224,0,0,Bucoda town
+WA,5360860,St. John,incorporated,43,A,599,"St. John, WA",0,225,0,0,St. John town
+WA,5359775,Rosalia,incorporated,43,A,598,"Rosalia, WA",0,226,0,0,Rosalia town
+WA,5353720,Pateros,incorporated,25,A,593,"Pateros, WA",0,227,0,0,Pateros city
+WA,5322990,Fairfield,incorporated,43,A,589,"Fairfield, WA",0,228,0,0,Fairfield town
+WA,5329710,Harrah,incorporated,43,A,585,"Harrah, WA",0,229,0,0,Harrah town
+WA,5326140,Garfield,incorporated,43,A,562,"Garfield, WA",0,230,0,0,Garfield town
+WA,5310635,Cathlamet,incorporated,43,A,560,"Cathlamet, WA",0,231,0,0,Cathlamet town
+WA,5365765,South Cle Elum,incorporated,43,A,559,"South Cle Elum, WA",0,232,0,0,South Cle Elum town
+WA,5301010,Albion,incorporated,43,A,550,"Albion, WA",0,233,0,0,Albion town
+WA,5315080,Coulee City,incorporated,43,A,549,"Coulee City, WA",0,234,0,0,Coulee City town
+WA,5339510,Lind,incorporated,43,A,535,"Lind, WA",0,235,0,0,Lind town
+WA,5359145,Rockford,incorporated,43,A,522,"Rockford, WA",0,236,0,0,Rockford town
+WA,5379380,Winthrop,incorporated,43,A,504,"Winthrop, WA",0,237,0,0,Winthrop town
+WA,5378925,Wilkeson,incorporated,43,A,499,"Wilkeson, WA",0,238,0,0,Wilkeson town
+WA,5367175,Sprague,incorporated,25,A,495,"Sprague, WA",0,239,0,0,Sprague city
+WA,5332755,Hunts Point,incorporated,43,A,457,"Hunts Point, WA",0,240,0,0,Hunts Point town
+WA,5329745,Harrington,incorporated,25,A,429,"Harrington, WA",0,241,0,0,Harrington city
+WA,5333560,Ione,incorporated,43,A,428,"Ione, WA",0,242,0,0,Ione town
+WA,5340770,Lyman,incorporated,43,A,423,"Lyman, WA",0,243,0,0,Lyman town
+WA,5313890,Colton,incorporated,43,A,401,"Colton, WA",0,244,0,0,Colton town
+WA,5350325,Oakesdale,incorporated,43,A,395,"Oakesdale, WA",0,245,0,0,Oakesdale town
+WA,5373360,Uniontown,incorporated,43,A,389,"Uniontown, WA",0,246,0,0,Uniontown town
+WA,5345180,Mesa,incorporated,25,A,385,"Mesa, WA",0,247,0,0,Mesa city
+WA,5366045,South Prairie,incorporated,43,A,373,"South Prairie, WA",0,248,0,0,South Prairie town
+WA,5356240,Prescott,incorporated,25,A,372,"Prescott, WA",0,249,0,0,Prescott city
+WA,5358795,Riverside,incorporated,43,A,329,"Riverside, WA",0,250,0,0,Riverside town
+WA,5342800,Mansfield,incorporated,43,A,326,"Mansfield, WA",0,251,0,0,Mansfield town
+WA,5301500,Almira,incorporated,43,A,318,"Almira, WA",0,252,0,0,Almira town
+WA,5304895,Beaux Arts Village,incorporated,43,A,317,"Beaux Arts Village, WA",0,253,0,0,Beaux Arts Village town
+WA,5321730,Endicott,incorporated,43,A,312,"Endicott, WA",0,254,0,0,Endicott town
+WA,5329255,Hamilton,incorporated,43,A,299,"Hamilton, WA",0,255,0,0,Hamilton town
+WA,5336850,LaCrosse,incorporated,43,A,297,"LaCrosse, WA",0,256,0,0,LaCrosse town
+WA,5350045,Northport,incorporated,43,A,297,"Northport, WA",0,257,0,0,Northport town
+WA,5366290,Spangle,incorporated,25,A,280,"Spangle, WA",0,258,0,0,Spangle city
+WA,5345320,Metaline Falls,incorporated,43,A,272,"Metaline Falls, WA",0,259,0,0,Metaline Falls town
+WA,5321485,Elmer City,incorporated,43,A,239,"Elmer City, WA",0,260,0,0,Elmer City town
+WA,5367210,Springdale,incorporated,43,A,234,"Springdale, WA",0,261,0,0,Springdale town
+WA,5342275,Malden,incorporated,43,A,216,"Malden, WA",0,262,0,0,Malden town
+WA,5343395,Marcus,incorporated,43,A,216,"Marcus, WA",0,263,0,0,Marcus town
+WA,5315710,Creston,incorporated,43,A,213,"Creston, WA",0,264,0,0,Creston town
+WA,5376440,Washtucna,incorporated,43,A,211,"Washtucna, WA",0,265,0,0,Washtucna town
+WA,5379135,Wilson Creek,incorporated,43,A,204,"Wilson Creek, WA",0,266,0,0,Wilson Creek town
+WA,5314310,Conconully,incorporated,43,A,193,"Conconully, WA",0,267,0,0,Conconully town
+WA,5338495,Latah,incorporated,43,A,185,"Latah, WA",0,268,0,0,Latah town
+WA,5329920,Hartline,incorporated,43,A,180,"Hartline, WA",0,269,0,0,Hartline town
+WA,5348540,Nespelem,incorporated,43,A,180,"Nespelem, WA",0,270,0,0,Nespelem town
+WA,5345285,Metaline,incorporated,43,A,162,"Metaline, WA",0,271,0,0,Metaline town
+WA,5364855,Skykomish,incorporated,43,A,161,"Skykomish, WA",0,272,0,0,Skykomish town
+WA,5333175,Index,incorporated,43,A,155,"Index, WA",0,273,0,0,Index town
+WA,5316340,Cusick,incorporated,43,A,153,"Cusick, WA",0,274,0,0,Cusick town
+WA,5334575,Kahlotus,incorporated,25,A,147,"Kahlotus, WA",0,275,0,0,Kahlotus city
+WA,5323340,Farmington,incorporated,43,A,131,"Farmington, WA",0,276,0,0,Farmington town
+WA,5376720,Waverly,incorporated,43,A,121,"Waverly, WA",0,277,0,0,Waverly town
+WA,5367490,Starbuck,incorporated,43,A,119,"Starbuck, WA",0,278,0,0,Starbuck town
+WA,5330060,Hatton,incorporated,43,A,79,"Hatton, WA",0,279,0,0,Hatton town
+WA,5338215,Lamont,incorporated,43,A,79,"Lamont, WA",0,280,0,0,Lamont town
+WA,5336395,Krupp,incorporated,43,A,49,"Krupp, WA",0,281,0,0,Krupp town

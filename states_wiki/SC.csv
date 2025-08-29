@@ -1,0 +1,272 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+SC,4513330,Charleston,incorporated,25,A,150227,"Charleston, SC",0,1,65,0.26,Charleston city
+SC,4516000,Columbia,incorporated,25,A,136632,"Columbia, SC",0,2,41,0.164,Columbia city
+SC,4550875,North Charleston,incorporated,25,A,114852,"North Charleston, SC",0,3,17,0.068,North Charleston city
+SC,4548535,Mount Pleasant,incorporated,43,A,90801,"Mount Pleasant, SC",0,4,13,0.052,Mount Pleasant town
+SC,4561405,Rock Hill,incorporated,25,A,74372,"Rock Hill, SC",0,5,10,0.04,Rock Hill city
+SC,4530850,Greenville,incorporated,25,A,70720,"Greenville, SC",0,6,8,0.032,Greenville city
+SC,4570270,Summerville,incorporated,43,A,50915,"Summerville, SC",0,7,7,0.028,Summerville town
+SC,4529815,Goose Creek,incorporated,25,A,45946,"Goose Creek, SC",0,8,6,0.024,Goose Creek city
+SC,4570405,Sumter,incorporated,25,A,43463,"Sumter, SC",0,9,4,0.016,Sumter city
+SC,4525810,Florence,incorporated,25,A,39899,"Florence, SC",0,10,5,0.02,Florence city
+SC,4568290,Spartanburg,incorporated,25,A,38732,"Spartanburg, SC",0,11,3,0.012,Spartanburg city
+SC,4534045,Hilton Head Island,incorporated,43,A,37661,"Hilton Head Island, SC",0,12,4,0.016,Hilton Head Island town
+SC,4549075,Myrtle Beach,incorporated,25,A,35682,"Myrtle Beach, SC",0,13,4,0.016,Myrtle Beach city
+SC,4530985,Greer,incorporated,25,A,35308,"Greer, SC",0,14,2,0.008,Greer city
+SC,4500550,Aiken,incorporated,25,A,32025,"Aiken, SC",0,15,2,0.008,Aiken city
+SC,4501360,Anderson,incorporated,25,A,28106,"Anderson, SC",0,16,2,0.008,Anderson city
+SC,4507210,Bluffton,incorporated,43,A,27716,"Bluffton, SC",0,17,3,0.012,Bluffton town
+SC,4516405,Conway,incorporated,25,A,24849,"Conway, SC",0,18,3,0.012,Conway city
+SC,4545115,Mauldin,incorporated,25,A,24724,"Mauldin, SC",0,19,3,0.012,Mauldin city
+SC,4526890,Fort Mill,incorporated,43,A,24521,"Fort Mill, SC",0,20,2,0.008,Fort Mill town
+SC,4550695,North Augusta,incorporated,25,A,24379,"North Augusta, SC",0,21,1,0.004,North Augusta city
+SC,4541335,Lexington,incorporated,43,A,23568,"Lexington, SC",0,22,1,0.004,Lexington town
+SC,4566580,Simpsonville,incorporated,25,A,23354,"Simpsonville, SC",0,23,1,0.004,Simpsonville city
+SC,4521985,Easley,incorporated,25,A,22921,"Easley, SC",0,24,1,0.004,Easley city
+SC,4530895,Greenwood,incorporated,25,A,22545,"Greenwood, SC",0,25,1,0.004,Greenwood city
+SC,4532065,Hanahan,incorporated,25,A,20325,"Hanahan, SC",0,26,1,0.004,Hanahan city
+SC,4551280,North Myrtle Beach,incorporated,25,A,18790,"North Myrtle Beach, SC",0,27,1,0.004,North Myrtle Beach city
+SC,4514950,Clemson,incorporated,25,A,17681,"Clemson, SC",0,28,1,0.004,Clemson city
+SC,4575850,West Columbia,incorporated,25,A,17416,"West Columbia, SC",0,29,1,0.004,West Columbia city
+SC,4558030,Port Royal,incorporated,43,A,14220,"Port Royal, SC",0,30,2,0.008,Port Royal town
+SC,4512655,Cayce,incorporated,25,A,13781,"Cayce, SC",0,31,2,0.008,Cayce city
+SC,4504690,Beaufort,incorporated,25,A,13607,"Beaufort, SC",0,32,2,0.008,Beaufort city
+SC,4547275,Moncks Corner,incorporated,43,A,13297,"Moncks Corner, SC",0,33,2,0.008,Moncks Corner town
+SC,4553080,Orangeburg,incorporated,25,A,13240,"Orangeburg, SC",0,34,2,0.008,Orangeburg city
+SC,4571417,Tega Cay,incorporated,25,A,12832,"Tega Cay, SC",0,35,2,0.008,Tega Cay city
+SC,4528060,Gaffney,incorporated,25,A,12764,"Gaffney, SC",0,36,2,0.008,Gaffney city
+SC,4536430,James Island,incorporated,43,A,11621,"James Island, SC",0,37,2,0.008,James Island town
+SC,4535890,Irmo,incorporated,43,A,11569,"Irmo, SC",0,38,2,0.008,Irmo town
+SC,4549570,Newberry,incorporated,25,A,10691,"Newberry, SC",0,39,2,0.008,Newberry city
+SC,4526305,Forest Acres,incorporated,25,A,10617,"Forest Acres, SC",0,40,2,0.008,Forest Acres city
+SC,4527070,Fountain Inn,incorporated,25,A,10416,"Fountain Inn, SC",0,41,2,0.008,Fountain Inn city
+SC,4540615,Laurens,incorporated,25,A,9335,"Laurens, SC",0,42,2,0.008,Laurens city
+SC,4565095,Seneca,incorporated,25,A,8850,"Seneca, SC",0,43,2,0.008,Seneca city
+SC,4579630,York,incorporated,25,A,8503,"York, SC",0,44,2,0.008,York city
+SC,4539895,Lancaster,incorporated,25,A,8460,"Lancaster, SC",0,45,2,0.008,Lancaster city
+SC,4528870,Georgetown,incorporated,25,A,8403,"Georgetown, SC",0,46,2,0.008,Georgetown city
+SC,4573105,Union,incorporated,25,A,8174,"Union, SC",0,47,1,0.004,Union city
+SC,4510855,Camden,incorporated,25,A,7788,"Camden, SC",0,48,1,0.004,Camden city
+SC,4572430,Travelers Rest,incorporated,25,A,7788,"Travelers Rest, SC",0,49,1,0.004,Travelers Rest city
+SC,4515295,Clinton,incorporated,25,A,7633,"Clinton, SC",0,50,0,0,Clinton city
+SC,4532245,Hardeeville,incorporated,25,A,7473,"Hardeeville, SC",0,51,0,0,Hardeeville city
+SC,4532560,Hartsville,incorporated,25,A,7446,"Hartsville, SC",0,52,0,0,Hartsville city
+SC,4505680,Bennettsville,incorporated,25,A,7020,"Bennettsville, SC",0,53,0,0,Bennettsville city
+SC,4515355,Clover,incorporated,43,A,6671,"Clover, SC",0,54,0,0,Clover town
+SC,4544575,Marion,incorporated,25,A,6448,"Marion, SC",0,55,0,0,Marion city
+SC,4519420,Dillon,incorporated,25,A,6384,"Dillon, SC",0,56,0,0,Dillon city
+SC,4543315,Lyman,incorporated,43,A,6173,"Lyman, SC",0,57,0,0,Lyman town
+SC,4518565,Darlington,incorporated,25,A,6149,"Darlington, SC",0,58,0,0,Darlington city
+SC,4539310,Lake City,incorporated,25,A,5903,"Lake City, SC",0,59,0,0,Lake City city
+SC,4574275,Walterboro,incorporated,25,A,5544,"Walterboro, SC",0,60,0,0,Walterboro city
+SC,4534495,Hollywood,incorporated,43,A,5339,"Hollywood, SC",0,61,0,0,Hollywood town
+SC,4504300,Batesburg-Leesville,incorporated,43,A,5270,"Batesburg-Leesville, SC",0,62,0,0,Batesburg-Leesville town
+SC,4514095,Chester,incorporated,25,A,5269,"Chester, SC",0,63,0,0,Chester city
+SC,4513015,Central,incorporated,43,A,5247,"Central, SC",0,64,0,0,Central town
+SC,4513600,Cheraw,incorporated,43,A,5040,"Cheraw, SC",0,65,0,0,Cheraw town
+SC,4500100,Abbeville,incorporated,25,A,4874,"Abbeville, SC",0,66,0,0,Abbeville city
+SC,4507255,Blythewood,incorporated,43,A,4772,"Blythewood, SC",0,67,0,0,Blythewood town
+SC,4504060,Barnwell,incorporated,25,A,4652,"Barnwell, SC",0,68,0,0,Barnwell city
+SC,4536115,Isle of Palms,incorporated,25,A,4347,"Isle of Palms, SC",0,69,0,0,Isle of Palms city
+SC,4505365,Belton,incorporated,25,A,4335,"Belton, SC",0,70,0,0,Belton city
+SC,4579090,Woodruff,incorporated,25,A,4212,"Woodruff, SC",0,71,0,0,Woodruff city
+SC,4570585,Surfside Beach,incorporated,43,A,4155,"Surfside Beach, SC",0,72,0,0,Surfside Beach town
+SC,4574095,Walhalla,incorporated,25,A,4072,"Walhalla, SC",0,73,0,0,Walhalla city
+SC,4577875,Williamston,incorporated,43,A,4043,"Williamston, SC",0,74,0,0,Williamston town
+SC,4521265,Duncan,incorporated,43,A,4041,"Duncan, SC",0,75,0,0,Duncan town
+SC,4548805,Mullins,incorporated,25,A,4026,"Mullins, SC",0,76,0,0,Mullins city
+SC,4544350,Manning,incorporated,25,A,3878,"Manning, SC",0,77,0,0,Manning city
+SC,4560280,Ridgeland,incorporated,43,A,3758,"Ridgeland, SC",0,78,0,0,Ridgeland town
+SC,4534810,Honea Path,incorporated,43,A,3686,"Honea Path, SC",0,79,0,0,Honea Path town
+SC,4555645,Pendleton,incorporated,43,A,3489,"Pendleton, SC",0,80,0,0,Pendleton town
+SC,4556140,Pickens,incorporated,25,A,3388,"Pickens, SC",0,81,0,0,Pickens city
+SC,4541380,Liberty,incorporated,25,A,3366,"Liberty, SC",0,82,0,0,Liberty city
+SC,4575580,Wellford,incorporated,25,A,3293,"Wellford, SC",0,83,0,0,Wellford city
+SC,4538590,Kingstree,incorporated,43,A,3244,"Kingstree, SC",0,84,0,0,Kingstree town
+SC,4578460,Winnsboro,incorporated,43,A,3215,"Winnsboro, SC",0,85,0,0,Winnsboro town
+SC,4519105,Denmark,incorporated,25,A,3186,"Denmark, SC",0,86,0,0,Denmark city
+SC,4563250,Saluda,incorporated,43,A,3122,"Saluda, SC",0,87,0,0,Saluda town
+SC,4510270,Burnettown,incorporated,43,A,3105,"Burnettown, SC",0,88,0,0,Burnettown town
+SC,4503790,Bamberg,incorporated,43,A,3076,"Bamberg, SC",0,89,0,0,Bamberg town
+SC,4506310,Bishopville,incorporated,25,A,3024,"Bishopville, SC",0,90,0,0,Bishopville city
+SC,4535755,Inman,incorporated,25,A,2990,"Inman, SC",0,91,0,0,Inman city
+SC,4577965,Williston,incorporated,43,A,2877,"Williston, SC",0,92,0,0,Williston town
+SC,4568425,Springdale,incorporated,43,A,2744,"Springdale, SC",0,93,0,0,Springdale town
+SC,4500955,Allendale,incorporated,43,A,2694,"Allendale, SC",0,94,0,0,Allendale town
+SC,4531885,Hampton,incorporated,43,A,2694,"Hampton, SC",0,95,0,0,Hampton town
+SC,4501450,Andrews,incorporated,43,A,2575,"Andrews, SC",0,96,0,0,Andrews town
+SC,4559020,Ravenel,incorporated,43,A,2542,"Ravenel, SC",0,97,0,0,Ravenel town
+SC,4540075,Landrum,incorporated,25,A,2481,"Landrum, SC",0,98,0,0,Landrum city
+SC,4554025,Pageland,incorporated,43,A,2456,"Pageland, SC",0,99,0,0,Pageland town
+SC,4542730,Loris,incorporated,25,A,2449,"Loris, SC",0,100,0,0,Loris city
+SC,4567705,South Congaree,incorporated,43,A,2377,"South Congaree, SC",0,101,0,0,South Congaree town
+SC,4576165,Westminster,incorporated,25,A,2353,"Westminster, SC",0,102,0,0,Westminster city
+SC,4522795,Edgefield,incorporated,43,A,2322,"Edgefield, SC",0,103,0,0,Edgefield town
+SC,4553845,Pacolet,incorporated,43,A,2274,"Pacolet, SC",0,104,0,0,Pacolet town
+SC,4543720,McCormick,incorporated,43,A,2232,"McCormick, SC",0,105,0,0,McCormick town
+SC,4549705,New Ellenton,incorporated,43,A,2210,"New Ellenton, SC",0,106,0,0,New Ellenton town
+SC,4556950,Pine Ridge,incorporated,43,A,2167,"Pine Ridge, SC",0,107,0,0,Pine Ridge town
+SC,4571980,Timmonsville,incorporated,43,A,2099,"Timmonsville, SC",0,108,0,0,Timmonsville town
+SC,4526035,Folly Beach,incorporated,25,A,2078,"Folly Beach, SC",0,109,0,0,Folly Beach city
+SC,4550290,Ninety Six,incorporated,43,A,2076,"Ninety Six, SC",0,110,0,0,Ninety Six town
+SC,4543630,McColl,incorporated,43,A,2070,"McColl, SC",0,111,0,0,McColl town
+SC,4564712,Seabrook Island,incorporated,43,A,2050,"Seabrook Island, SC",0,112,0,0,Seabrook Island town
+SC,4517260,Cowpens,incorporated,43,A,2023,"Cowpens, SC",0,113,0,0,Cowpens town
+SC,4538162,Kiawah Island,incorporated,43,A,2013,"Kiawah Island, SC",0,114,0,0,Kiawah Island town
+SC,4537150,Johnston,incorporated,43,A,1997,"Johnston, SC",0,115,0,0,Johnston town
+SC,4530490,Great Falls,incorporated,43,A,1951,"Great Falls, SC",0,116,0,0,Great Falls town
+SC,4506490,Blackville,incorporated,43,A,1923,"Blackville, SC",0,117,0,0,Blackville town
+SC,4570090,Sullivan's Island,incorporated,43,A,1891,"Sullivan's Island, SC",0,118,0,0,Sullivan's Island town
+SC,4506400,Blacksburg,incorporated,43,A,1889,"Blacksburg, SC",0,119,0,0,Blacksburg town
+SC,4562530,St. George,incorporated,43,A,1843,"St. George, SC",0,120,0,0,St. George town
+SC,4562620,St. Matthews,incorporated,43,A,1841,"St. Matthews, SC",0,121,0,0,St. Matthews town
+SC,4523830,Estill,incorporated,43,A,1821,"Estill, SC",0,122,0,0,Estill town
+SC,4513150,Chapin,incorporated,43,A,1809,"Chapin, SC",0,123,0,0,Chapin town
+SC,4510720,Calhoun Falls,incorporated,43,A,1727,"Calhoun Falls, SC",0,124,0,0,Calhoun Falls town
+SC,4574680,Ware Shoals,incorporated,43,A,1701,"Ware Shoals, SC",0,125,0,0,Ware Shoals town
+SC,4538095,Kershaw,incorporated,43,A,1693,"Kershaw, SC",0,126,0,0,Kershaw town
+SC,4560370,Ridgeville,incorporated,43,A,1672,"Ridgeville, SC",0,127,0,0,Ridgeville town
+SC,4573600,Varnville,incorporated,43,A,1669,"Varnville, SC",0,128,0,0,Varnville town
+SC,4523245,Elgin,incorporated,43,A,1634,"Elgin, SC",0,129,0,0,Elgin town
+SC,4559425,Reidville,incorporated,43,A,1634,"Reidville, SC",0,130,0,0,Reidville town
+SC,4528780,Gaston,incorporated,43,A,1608,"Gaston, SC",0,131,0,0,Gaston town
+SC,4562755,St. Stephen,incorporated,43,A,1571,"St. Stephen, SC",0,132,0,0,St. Stephen town
+SC,4536205,Jackson,incorporated,43,A,1521,"Jackson, SC",0,133,0,0,Jackson town
+SC,4524370,Fairfax,incorporated,43,A,1505,"Fairfax, SC",0,134,0,0,Fairfax town
+SC,4503385,Awendaw,incorporated,43,A,1399,"Awendaw, SC",0,135,0,0,Awendaw town
+SC,4545790,Meggett,incorporated,43,A,1390,"Meggett, SC",0,136,0,0,Meggett town
+SC,4577380,Whitmire,incorporated,43,A,1390,"Whitmire, SC",0,137,0,0,Whitmire town
+SC,4537105,Johnsonville,incorporated,25,A,1378,"Johnsonville, SC",0,138,0,0,Johnsonville city
+SC,4514140,Chesterfield,incorporated,43,A,1357,"Chesterfield, SC",0,139,0,0,Chesterfield town
+SC,4555465,Pelzer,incorporated,43,A,1344,"Pelzer, SC",0,140,0,0,Pelzer town
+SC,4534360,Holly Hill,incorporated,43,A,1298,"Holly Hill, SC",0,141,0,0,Holly Hill town
+SC,4540480,Latta,incorporated,43,A,1296,"Latta, SC",0,142,0,0,Latta town
+SC,4521040,Due West,incorporated,43,A,1219,"Due West, SC",0,143,0,0,Due West town
+SC,4558705,Prosperity,incorporated,43,A,1178,"Prosperity, SC",0,144,0,0,Prosperity town
+SC,4541740,Lincolnville,incorporated,43,A,1147,"Lincolnville, SC",0,145,0,0,Lincolnville town
+SC,4579450,Yemassee,incorporated,43,A,1080,"Yemassee, SC",0,146,0,0,Yemassee town
+SC,4554340,Pamplico,incorporated,43,A,1061,"Pamplico, SC",0,147,0,0,Pamplico town
+SC,4523020,Edisto Beach,incorporated,43,A,1033,"Edisto Beach, SC",0,148,0,0,Edisto Beach town
+SC,4536160,Iva,incorporated,43,A,1015,"Iva, SC",0,149,0,0,Iva town
+SC,4508245,Branchville,incorporated,43,A,998,"Branchville, SC",0,150,0,0,Branchville town
+SC,4503430,Aynor,incorporated,43,A,974,"Aynor, SC",0,151,0,0,Aynor town
+SC,4526845,Fort Lawn,incorporated,43,A,962,"Fort Lawn, SC",0,152,0,0,Fort Lawn town
+SC,4576345,West Pelzer,incorporated,43,A,962,"West Pelzer, SC",0,153,0,0,West Pelzer town
+SC,4558795,Quinby,incorporated,43,A,915,"Quinby, SC",0,154,0,0,Quinby town
+SC,4502125,Arcadia Lakes,incorporated,43,A,865,"Arcadia Lakes, SC",0,155,0,0,Arcadia Lakes town
+SC,4539805,Lamar,incorporated,43,A,862,"Lamar, SC",0,156,0,0,Lamar town
+SC,4537330,Jonesville,incorporated,43,A,852,"Jonesville, SC",0,157,0,0,Jonesville town
+SC,4573555,Van Wyck,incorporated,43,A,848,"Van Wyck, SC",0,158,0,0,Van Wyck town
+SC,4514050,Chesnee,incorporated,25,A,829,"Chesnee, SC",0,159,0,0,Chesnee city
+SC,4570225,Summerton,incorporated,43,A,814,"Summerton, SC",0,160,0,0,Summerton town
+SC,4563790,Santee,incorporated,43,A,797,"Santee, SC",0,161,0,0,Santee town
+SC,4507840,Bowman,incorporated,43,A,788,"Bowman, SC",0,162,0,0,Bowman town
+SC,4536610,Jefferson,incorporated,43,A,772,"Jefferson, SC",0,163,0,0,Jefferson town
+SC,4539715,Lake View,incorporated,43,A,764,"Lake View, SC",0,164,0,0,Lake View town
+SC,4530355,Gray Court,incorporated,43,A,763,"Gray Court, SC",0,165,0,0,Gray Court town
+SC,4572745,Turbeville,incorporated,43,A,760,"Turbeville, SC",0,166,0,0,Turbeville town
+SC,4566760,Six Mile,incorporated,43,A,759,"Six Mile, SC",0,167,0,0,Six Mile town
+SC,4543495,McBee,incorporated,43,A,758,"McBee, SC",0,168,0,0,McBee town
+SC,4517215,Coward,incorporated,43,A,748,"Coward, SC",0,169,0,0,Coward town
+SC,4532965,Heath Springs,incorporated,43,A,742,"Heath Springs, SC",0,170,0,0,Heath Springs town
+SC,4550515,Norris,incorporated,43,A,741,"Norris, SC",0,171,0,0,Norris town
+SC,4570675,Swansea,incorporated,43,A,722,"Swansea, SC",0,172,0,0,Swansea town
+SC,4516990,Cottageville,incorporated,43,A,701,"Cottageville, SC",0,173,0,0,Cottageville town
+SC,4550560,North,incorporated,43,A,696,"North, SC",0,174,0,0,North town
+SC,4511125,Campobello,incorporated,43,A,675,"Campobello, SC",0,175,0,0,Campobello town
+SC,4532335,Harleyville,incorporated,43,A,666,"Harleyville, SC",0,176,0,0,Harleyville town
+SC,4564600,Scranton,incorporated,43,A,648,"Scranton, SC",0,177,0,0,Scranton town
+SC,4555420,Pelion,incorporated,43,A,631,"Pelion, SC",0,178,0,0,Pelion town
+SC,4574050,Wagener,incorporated,43,A,631,"Wagener, SC",0,179,0,0,Wagener town
+SC,4522390,Eastover,incorporated,43,A,614,"Eastover, SC",0,180,0,0,Eastover town
+SC,4515310,Clio,incorporated,43,A,608,"Clio, SC",0,181,0,0,Clio town
+SC,4543585,McClellanville,incorporated,43,A,605,"McClellanville, SC",0,182,0,0,McClellanville town
+SC,4560325,Ridge Spring,incorporated,43,A,579,"Ridge Spring, SC",0,183,0,0,Ridge Spring town
+SC,4529050,Gilbert,incorporated,43,A,571,"Gilbert, SC",0,184,0,0,Gilbert town
+SC,4523470,Elloree,incorporated,43,A,570,"Elloree, SC",0,185,0,0,Elloree town
+SC,4552540,Olanta,incorporated,43,A,550,"Olanta, SC",0,186,0,0,Olanta town
+SC,4545295,Mayesville,incorporated,43,A,548,"Mayesville, SC",0,187,0,0,Mayesville town
+SC,4533145,Hemingway,incorporated,43,A,504,"Hemingway, SC",0,188,0,0,Hemingway town
+SC,4557085,Pinewood,incorporated,43,A,503,"Pinewood, SC",0,189,0,0,Pinewood town
+SC,4508830,Briarcliffe Acres,incorporated,43,A,479,"Briarcliffe Acres, SC",0,190,0,0,Briarcliffe Acres town
+SC,4540210,Lane,incorporated,43,A,472,"Lane, SC",0,191,0,0,Lane town
+SC,4565410,Sharon,incorporated,43,A,462,"Sharon, SC",0,192,0,0,Sharon town
+SC,4523200,Ehrhardt,incorporated,43,A,457,"Ehrhardt, SC",0,193,0,0,Ehrhardt town
+SC,4568470,Springfield,incorporated,43,A,455,"Springfield, SC",0,194,0,0,Springfield town
+SC,4533640,Hickory Grove,incorporated,43,A,449,"Hickory Grove, SC",0,195,0,0,Hickory Grove town
+SC,4567435,Society Hill,incorporated,43,A,438,"Society Hill, SC",0,196,0,0,Society Hill town
+SC,4507525,Bonneau,incorporated,43,A,431,"Bonneau, SC",0,197,0,0,Bonneau town
+SC,4509865,Brunson,incorporated,43,A,431,"Brunson, SC",0,198,0,0,Brunson town
+SC,4570315,Summit,incorporated,43,A,423,"Summit, SC",0,199,0,0,Summit town
+SC,4533820,Hilda,incorporated,43,A,418,"Hilda, SC",0,200,0,0,Hilda town
+SC,4517890,Cross Hill,incorporated,43,A,404,"Cross Hill, SC",0,201,0,0,Cross Hill town
+SC,4530535,Greeleyville,incorporated,43,A,384,"Greeleyville, SC",0,202,0,0,Greeleyville town
+SC,4542190,Lockhart,incorporated,43,A,384,"Lockhart, SC",0,203,0,0,Lockhart town
+SC,4510900,Cameron,incorporated,43,A,376,"Cameron, SC",0,204,0,0,Cameron town
+SC,4576435,West Union,incorporated,43,A,374,"West Union, SC",0,205,0,0,West Union town
+SC,4563115,Salley,incorporated,43,A,329,"Salley, SC",0,206,0,0,Salley town
+SC,4519870,Donalds,incorporated,43,A,328,"Donalds, SC",0,207,0,0,Donalds town
+SC,4511755,Carlisle,incorporated,43,A,321,"Carlisle, SC",0,208,0,0,Carlisle town
+SC,4549390,Neeses,incorporated,43,A,320,"Neeses, SC",0,209,0,0,Neeses town
+SC,4543360,Lynchburg,incorporated,43,A,318,"Lynchburg, SC",0,210,0,0,Lynchburg town
+SC,4506040,Bethune,incorporated,43,A,315,"Bethune, SC",0,211,0,0,Bethune town
+SC,4562080,Ruby,incorporated,43,A,307,"Ruby, SC",0,212,0,0,Ruby town
+SC,4551550,Norway,incorporated,43,A,289,"Norway, SC",0,213,0,0,Norway town
+SC,4543675,McConnells,incorporated,43,A,280,"McConnells, SC",0,214,0,0,McConnells town
+SC,4559920,Richburg,incorporated,43,A,280,"Richburg, SC",0,215,0,0,Richburg town
+SC,4554925,Patrick,incorporated,43,A,266,"Patrick, SC",0,216,0,0,Patrick town
+SC,4560415,Ridgeway,incorporated,43,A,266,"Ridgeway, SC",0,217,0,0,Ridgeway town
+SC,4529005,Gifford,incorporated,43,A,257,"Gifford, SC",0,218,0,0,Gifford town
+SC,4562035,Rowesville,incorporated,43,A,253,"Rowesville, SC",0,219,0,0,Rowesville town
+SC,4567255,Snelling,incorporated,43,A,250,"Snelling, SC",0,220,0,0,Snelling town
+SC,4541965,Little Mountain,incorporated,43,A,249,"Little Mountain, SC",0,221,0,0,Little Mountain town
+SC,4524100,Eutawville,incorporated,43,A,235,"Eutawville, SC",0,222,0,0,Eutawville town
+SC,4550110,Nichols,incorporated,43,A,234,"Nichols, SC",0,223,0,0,Nichols town
+SC,4555060,Paxville,incorporated,43,A,232,"Paxville, SC",0,224,0,0,Paxville town
+SC,4527835,Furman,incorporated,43,A,224,"Furman, SC",0,225,0,0,Furman town
+SC,4552585,Olar,incorporated,43,A,215,"Olar, SC",0,226,0,0,Olar town
+SC,4513060,Central Pacolet,incorporated,43,A,209,"Central Pacolet, SC",0,227,0,0,Central Pacolet town
+SC,4547320,Monetta,incorporated,43,A,205,"Monetta, SC",0,228,0,0,Monetta town
+SC,4559380,Reevesville,incorporated,43,A,201,"Reevesville, SC",0,229,0,0,Reevesville town
+SC,4570045,Stuckey,incorporated,43,A,200,"Stuckey, SC",0,230,0,0,Stuckey town
+SC,4572520,Trenton,incorporated,43,A,200,"Trenton, SC",0,231,0,0,Trenton town
+SC,4503205,Atlantic Beach,incorporated,43,A,195,"Atlantic Beach, SC",0,232,0,0,Atlantic Beach town
+SC,4555960,Perry,incorporated,43,A,194,"Perry, SC",0,233,0,0,Perry town
+SC,4542865,Lowrys,incorporated,43,A,184,"Lowrys, SC",0,234,0,0,Lowrys town
+SC,4568875,Starr,incorporated,43,A,165,"Starr, SC",0,235,0,0,Starr town
+SC,4566400,Silverstreet,incorporated,43,A,164,"Silverstreet, SC",0,236,0,0,Silverstreet town
+SC,4534225,Hodges,incorporated,43,A,162,"Hodges, SC",0,237,0,0,Hodges town
+SC,4578910,Woodford,incorporated,43,A,161,"Woodford, SC",0,238,0,0,Woodford town
+SC,4564465,Scotia,incorporated,43,A,158,"Scotia, SC",0,239,0,0,Scotia town
+SC,4574995,Waterloo,incorporated,43,A,149,"Waterloo, SC",0,240,0,0,Waterloo town
+SC,4538950,Kline,incorporated,43,A,148,"Kline, SC",0,241,0,0,Kline town
+SC,4565005,Sellers,incorporated,43,A,147,"Sellers, SC",0,242,0,0,Sellers town
+SC,4570900,Sycamore,incorporated,43,A,147,"Sycamore, SC",0,243,0,0,Sycamore town
+SC,4561495,Rockville,incorporated,43,A,141,"Rockville, SC",0,244,0,0,Rockville town
+SC,4523335,Elko,incorporated,43,A,140,"Elko, SC",0,245,0,0,Elko town
+SC,4516855,Cordova,incorporated,43,A,136,"Cordova, SC",0,246,0,0,Cordova town
+SC,4548355,Mount Croghan,incorporated,43,A,135,"Mount Croghan, SC",0,247,0,0,Mount Croghan town
+SC,4542100,Livingston,incorporated,43,A,132,"Livingston, SC",0,248,0,0,Livingston town
+SC,4555015,Pawleys Island,incorporated,43,A,130,"Pawleys Island, SC",0,249,0,0,Pawleys Island town
+SC,4573510,Vance,incorporated,43,A,128,"Vance, SC",0,250,0,0,Vance town
+SC,4557850,Pomaria,incorporated,43,A,127,"Pomaria, SC",0,251,0,0,Pomaria town
+SC,4542820,Lowndesville,incorporated,43,A,120,"Lowndesville, SC",0,252,0,0,Lowndesville town
+SC,4554700,Parksville,incorporated,43,A,120,"Parksville, SC",0,253,0,0,Parksville town
+SC,4562980,Salem,incorporated,43,A,120,"Salem, SC",0,254,0,0,Salem town
+SC,4574590,Ward,incorporated,43,A,119,"Ward, SC",0,255,0,0,Ward town
+SC,4506850,Blenheim,incorporated,43,A,115,"Blenheim, SC",0,256,0,0,Blenheim town
+SC,4578190,Windsor,incorporated,43,A,115,"Windsor, SC",0,257,0,0,Windsor town
+SC,4543090,Luray,incorporated,43,A,98,"Luray, SC",0,258,0,0,Luray town
+SC,4567165,Smoaks,incorporated,43,A,98,"Smoaks, SC",0,259,0,0,Smoaks town
+SC,4577785,Williams,incorporated,43,A,98,"Williams, SC",0,260,0,0,Williams town
+SC,4572655,Troy,incorporated,43,A,83,"Troy, SC",0,261,0,0,Troy town
+SC,4542280,Lodge,incorporated,43,A,82,"Lodge, SC",0,262,0,0,Lodge town
+SC,4571305,Tatum,incorporated,43,A,76,"Tatum, SC",0,263,0,0,Tatum town
+SC,4557670,Plum Branch,incorporated,43,A,72,"Plum Branch, SC",0,264,0,0,Plum Branch town
+SC,4536475,Jamestown,incorporated,43,A,68,"Jamestown, SC",0,265,0,0,Jamestown town
+SC,4572880,Ulmer,incorporated,43,A,65,"Ulmer, SC",0,266,0,0,Ulmer town
+SC,4529950,Govan,incorporated,43,A,56,"Govan, SC",0,267,0,0,Govan town
+SC,4567210,Smyrna,incorporated,43,A,55,"Smyrna, SC",0,268,0,0,Smyrna town
+SC,4555150,Peak,incorporated,43,A,51,"Peak, SC",0,269,0,0,Peak town
+SC,4536655,Jenkinsville,incorporated,43,A,40,"Jenkinsville, SC",0,270,0,0,Jenkinsville town
+SC,4516720,Cope,incorporated,43,A,37,"Cope, SC",0,271,0,0,Cope town

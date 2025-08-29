@@ -1,0 +1,301 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+MS,2836000,Jackson,incorporated,25,A,153701,"Jackson, MS",0,1,92,0.368,Jackson city
+MS,2829700,Gulfport,incorporated,25,A,72926,"Gulfport, MS",0,2,25,0.1,Gulfport city
+MS,2869280,Southaven,incorporated,25,A,54648,"Southaven, MS",0,3,15,0.06,Southaven city
+MS,2806220,Biloxi,incorporated,25,A,49449,"Biloxi, MS",0,4,12,0.048,Biloxi city
+MS,2831020,Hattiesburg,incorporated,25,A,48730,"Hattiesburg, MS",0,5,8,0.032,Hattiesburg city
+MS,2854040,Olive Branch,incorporated,25,A,39711,"Olive Branch, MS",0,6,6,0.024,Olive Branch city
+MS,2874840,Tupelo,incorporated,25,A,37923,"Tupelo, MS",0,7,5,0.02,Tupelo city
+MS,2846640,Meridian,incorporated,25,A,35052,"Meridian, MS",0,8,5,0.02,Meridian city
+MS,2829180,Greenville,incorporated,25,A,29670,"Greenville, MS",0,9,5,0.02,Greenville city
+MS,2814420,Clinton,incorporated,25,A,28100,"Clinton, MS",0,10,3,0.012,Clinton city
+MS,2844520,Madison,incorporated,25,A,27747,"Madison, MS",0,11,3,0.012,Madison city
+MS,2855760,Pearl,incorporated,25,A,27115,"Pearl, MS",0,12,4,0.016,Pearl city
+MS,2833700,Horn Lake,incorporated,25,A,26736,"Horn Lake, MS",0,13,2,0.008,Horn Lake city
+MS,2854840,Oxford,incorporated,25,A,25416,"Oxford, MS",0,14,2,0.008,Oxford city
+MS,2808300,Brandon,incorporated,25,A,25138,"Brandon, MS",0,15,2,0.008,Brandon city
+MS,2870240,Starkville,incorporated,25,A,24360,"Starkville, MS",0,16,3,0.012,Starkville city
+MS,2862520,Ridgeland,incorporated,25,A,24340,"Ridgeland, MS",0,17,3,0.012,Ridgeland city
+MS,2815380,Columbus,incorporated,25,A,24084,"Columbus, MS",0,18,3,0.012,Columbus city
+MS,2855360,Pascagoula,incorporated,25,A,22010,"Pascagoula, MS",0,19,3,0.012,Pascagoula city
+MS,2876720,Vicksburg,incorporated,25,A,21573,"Vicksburg, MS",0,20,1,0.004,Vicksburg city
+MS,2826860,Gautier,incorporated,25,A,19024,"Gautier, MS",0,21,1,0.004,Gautier city
+MS,2853520,Ocean Springs,incorporated,25,A,18429,"Ocean Springs, MS",0,22,1,0.004,Ocean Springs city
+MS,2839640,Laurel,incorporated,25,A,17161,"Laurel, MS",0,23,1,0.004,Laurel city
+MS,2831780,Hernando,incorporated,25,A,17138,"Hernando, MS",0,24,1,0.004,Hernando city
+MS,2841680,Long Beach,incorporated,25,A,16780,"Long Beach, MS",0,25,1,0.004,Long Beach city
+MS,2813820,Clarksdale,incorporated,25,A,14903,"Clarksdale, MS",0,26,1,0.004,Clarksdale city
+MS,2815700,Corinth,incorporated,25,A,14622,"Corinth, MS",0,27,2,0.008,Corinth city
+MS,2850440,Natchez,incorporated,25,A,14520,"Natchez, MS",0,28,2,0.008,Natchez city
+MS,2829340,Greenwood,incorporated,25,A,14490,"Greenwood, MS",0,29,2,0.008,Greenwood city
+MS,2819180,D'Iberville,incorporated,25,A,12721,"D'Iberville, MS",0,30,2,0.008,D'Iberville city
+MS,2829460,Grenada,incorporated,25,A,12700,"Grenada, MS",0,31,2,0.008,Grenada city
+MS,2810140,Byram,incorporated,25,A,12666,"Byram, MS",0,32,2,0.008,Byram city
+MS,2843280,McComb,incorporated,25,A,12413,"McComb, MS",0,33,2,0.008,McComb city
+MS,2849240,Moss Point,incorporated,25,A,12147,"Moss Point, MS",0,34,2,0.008,Moss Point city
+MS,2857160,Picayune,incorporated,25,A,11885,"Picayune, MS",0,35,2,0.008,Picayune city
+MS,2808820,Brookhaven,incorporated,25,A,11674,"Brookhaven, MS",0,36,2,0.008,Brookhaven city
+MS,2814260,Cleveland,incorporated,25,A,11199,"Cleveland, MS",0,37,2,0.008,Cleveland city
+MS,2856800,Petal,incorporated,25,A,11010,"Petal, MS",0,38,2,0.008,Petal city
+MS,2811100,Canton,incorporated,25,A,10948,"Canton, MS",0,39,2,0.008,Canton city
+MS,2881520,Yazoo City,incorporated,25,A,10316,"Yazoo City, MS",0,40,2,0.008,Yazoo City city
+MS,2825100,Flowood,incorporated,25,A,10202,"Flowood, MS",0,41,2,0.008,Flowood city
+MS,2879120,West Point,incorporated,25,A,10105,"West Point, MS",0,42,2,0.008,West Point city
+MS,2834740,Indianola,incorporated,25,A,9646,"Indianola, MS",0,43,2,0.008,Indianola city
+MS,2819100,Diamondhead,incorporated,25,A,9529,"Diamondhead, MS",0,44,2,0.008,Diamondhead city
+MS,2803980,Bay St. Louis,incorporated,25,A,9284,"Bay St. Louis, MS",0,45,2,0.008,Bay St. Louis city
+MS,2807780,Booneville,incorporated,25,A,9126,"Booneville, MS",0,46,2,0.008,Booneville city
+MS,2866440,Senatobia,incorporated,25,A,8354,"Senatobia, MS",0,47,1,0.004,Senatobia city
+MS,2851000,New Albany,incorporated,25,A,7626,"New Albany, MS",0,48,1,0.004,New Albany city
+MS,2803620,Batesville,incorporated,25,A,7523,"Batesville, MS",0,49,0,0,Batesville city
+MS,2878200,Waveland,incorporated,25,A,7210,"Waveland, MS",0,50,0,0,Waveland city
+MS,2862400,Richland,incorporated,25,A,7137,"Richland, MS",0,51,0,0,Richland city
+MS,2856960,Philadelphia,incorporated,25,A,7118,"Philadelphia, MS",0,52,0,0,Philadelphia city
+MS,2838320,Kosciusko,incorporated,25,A,7114,"Kosciusko, MS",0,53,0,0,Kosciusko city
+MS,2833100,Holly Springs,incorporated,25,A,6968,"Holly Springs, MS",0,54,0,0,Holly Springs city
+MS,2801260,Amory,incorporated,25,A,6666,"Amory, MS",0,55,0,0,Amory city
+MS,2842280,Louisville,incorporated,25,A,6072,"Louisville, MS",0,56,0,0,Louisville city
+MS,2815340,Columbia,incorporated,25,A,5864,"Columbia, MS",0,57,0,0,Columbia city
+MS,2855400,Pass Christian,incorporated,25,A,5686,"Pass Christian, MS",0,58,0,0,Pass Christian city
+MS,2859160,Pontotoc,incorporated,25,A,5640,"Pontotoc, MS",0,59,0,0,Pontotoc city
+MS,2862600,Ripley,incorporated,25,A,5462,"Ripley, MS",0,60,0,0,Ripley city
+MS,2825340,Forest,incorporated,25,A,5430,"Forest, MS",0,61,0,0,Forest city
+MS,2800180,Aberdeen,incorporated,25,A,4961,"Aberdeen, MS",0,62,0,0,Aberdeen city
+MS,2864840,Saltillo,incorporated,25,A,4922,"Saltillo, MS",0,63,0,0,Saltillo city
+MS,2811780,Carthage,incorporated,25,A,4901,"Carthage, MS",0,64,0,0,Carthage city
+MS,2817060,Crystal Springs,incorporated,25,A,4862,"Crystal Springs, MS",0,65,0,0,Crystal Springs city
+MS,2822020,Ellisville,incorporated,25,A,4652,"Ellisville, MS",0,66,0,0,Ellisville city
+MS,2824980,Florence,incorporated,25,A,4572,"Florence, MS",0,67,0,0,Florence city
+MS,2878360,Waynesboro,incorporated,25,A,4567,"Waynesboro, MS",0,68,0,0,Waynesboro city
+MS,2826300,Fulton,incorporated,25,A,4542,"Fulton, MS",0,69,0,0,Fulton city
+MS,2880760,Winona,incorporated,25,A,4505,"Winona, MS",0,70,0,0,Winona city
+MS,2880160,Wiggins,incorporated,25,A,4272,"Wiggins, MS",0,71,0,0,Wiggins city
+MS,2840280,Leland,incorporated,25,A,3988,"Leland, MS",0,72,0,0,Leland city
+MS,2844600,Magee,incorporated,25,A,3988,"Magee, MS",0,73,0,0,Magee city
+MS,2833900,Houston,incorporated,25,A,3797,"Houston, MS",0,74,0,0,Houston city
+MS,2839840,Leakesville,incorporated,43,A,3775,"Leakesville, MS",0,75,0,0,Leakesville town
+MS,2849080,Morton,incorporated,25,A,3711,"Morton, MS",0,76,0,0,Morton city
+MS,2831220,Hazlehurst,incorporated,25,A,3619,"Hazlehurst, MS",0,77,0,0,Hazlehurst city
+MS,2878000,Water Valley,incorporated,25,A,3380,"Water Valley, MS",0,78,0,0,Water Valley city
+MS,2827900,Gluckstadt,incorporated,25,A,3208,"Gluckstadt, MS",0,79,0,0,Gluckstadt city
+MS,2851720,Newton,incorporated,25,A,3195,"Newton, MS",0,80,0,0,Newton city
+MS,2835300,Iuka,incorporated,25,A,3139,"Iuka, MS",0,81,0,0,Iuka city
+MS,2802700,Baldwyn,incorporated,25,A,3071,"Baldwyn, MS",0,82,0,0,Baldwyn city
+MS,2842440,Lucedale,incorporated,25,A,2869,"Lucedale, MS",0,83,0,0,Lucedale city
+MS,2859480,Poplarville,incorporated,25,A,2833,"Poplarville, MS",0,84,0,0,Poplarville city
+MS,2876560,Verona,incorporated,25,A,2792,"Verona, MS",0,85,0,0,Verona city
+MS,2864200,Ruleville,incorporated,25,A,2642,"Ruleville, MS",0,86,0,0,Ruleville city
+MS,2844240,Macon,incorporated,25,A,2582,"Macon, MS",0,87,0,0,Macon city
+MS,2853680,Okolona,incorporated,25,A,2513,"Okolona, MS",0,88,0,0,Okolona city
+MS,2875040,Tutwiler,incorporated,43,A,2476,"Tutwiler, MS",0,89,0,0,Tutwiler town
+MS,2829940,Guntown,incorporated,43,A,2410,"Guntown, MS",0,90,0,0,Guntown town
+MS,2815140,Collins,incorporated,25,A,2342,"Collins, MS",0,91,0,0,Collins city
+MS,2832900,Hollandale,incorporated,25,A,2323,"Hollandale, MS",0,92,0,0,Hollandale city
+MS,2820500,Durant,incorporated,25,A,2231,"Durant, MS",0,93,0,0,Durant city
+MS,2846600,Mendenhall,incorporated,25,A,2199,"Mendenhall, MS",0,94,0,0,Mendenhall city
+MS,2860720,Quitman,incorporated,25,A,2061,"Quitman, MS",0,95,0,0,Quitman city
+MS,2824420,Farmington,incorporated,43,A,2055,"Farmington, MS",0,96,0,0,Farmington town
+MS,2875360,Union,incorporated,43,A,2042,"Union, MS",0,97,0,0,Union town
+MS,2867040,Shelby,incorporated,25,A,2021,"Shelby, MS",0,98,0,0,Shelby city
+MS,2823420,Eupora,incorporated,25,A,2018,"Eupora, MS",0,99,0,0,Eupora city
+MS,2861160,Raymond,incorporated,25,A,1960,"Raymond, MS",0,100,0,0,Raymond city
+MS,2818180,Decatur,incorporated,43,A,1945,"Decatur, MS",0,101,0,0,Decatur town
+MS,2805140,Belzoni,incorporated,25,A,1938,"Belzoni, MS",0,102,0,0,Belzoni city
+MS,2848760,Moorhead,incorporated,25,A,1937,"Moorhead, MS",0,103,0,0,Moorhead city
+MS,2850880,Nettleton,incorporated,25,A,1935,"Nettleton, MS",0,104,0,0,Nettleton city
+MS,2860480,Purvis,incorporated,25,A,1909,"Purvis, MS",0,105,0,0,Purvis city
+MS,2812900,Charleston,incorporated,25,A,1884,"Charleston, MS",0,106,0,0,Charleston city
+MS,2844680,Magnolia,incorporated,25,A,1883,"Magnolia, MS",0,107,0,0,Magnolia city
+MS,2863560,Rolling Fork,incorporated,25,A,1883,"Rolling Fork, MS",0,108,0,0,Rolling Fork city
+MS,2805100,Belmont,incorporated,43,A,1859,"Belmont, MS",0,109,0,0,Belmont town
+MS,2820020,Drew,incorporated,25,A,1852,"Drew, MS",0,110,0,0,Drew city
+MS,2878640,Wesson,incorporated,43,A,1833,"Wesson, MS",0,111,0,0,Wesson town
+MS,2871560,Sumrall,incorporated,43,A,1765,"Sumrall, MS",0,112,0,0,Sumrall town
+MS,2845160,Marion,incorporated,43,A,1751,"Marion, MS",0,113,0,0,Marion town
+MS,2865560,Sardis,incorporated,43,A,1748,"Sardis, MS",0,114,0,0,Sardis town
+MS,2809180,Bruce,incorporated,43,A,1707,"Bruce, MS",0,115,0,0,Bruce town
+MS,2835260,Itta Bena,incorporated,25,A,1679,"Itta Bena, MS",0,116,0,0,Itta Bena city
+MS,2804060,Bay Springs,incorporated,25,A,1670,"Bay Springs, MS",0,117,0,0,Bay Springs city
+MS,2872440,Tchula,incorporated,43,A,1652,"Tchula, MS",0,118,0,0,Tchula town
+MS,2824940,Flora,incorporated,43,A,1647,"Flora, MS",0,119,0,0,Flora town
+MS,2842640,Lumberton,incorporated,25,A,1617,"Lumberton, MS",0,120,0,0,Lumberton city
+MS,2840600,Lexington,incorporated,25,A,1602,"Lexington, MS",0,121,0,0,Lexington city
+MS,2800300,Ackerman,incorporated,43,A,1594,"Ackerman, MS",0,122,0,0,Ackerman town
+MS,2863720,Rosedale,incorporated,25,A,1584,"Rosedale, MS",0,123,0,0,Rosedale city
+MS,2849320,Mound Bayou,incorporated,25,A,1534,"Mound Bayou, MS",0,124,0,0,Mound Bayou city
+MS,2810580,Calhoun City,incorporated,43,A,1533,"Calhoun City, MS",0,125,0,0,Calhoun City town
+MS,2875160,Tylertown,incorporated,43,A,1515,"Tylertown, MS",0,126,0,0,Tylertown town
+MS,2871480,Summit,incorporated,43,A,1505,"Summit, MS",0,127,0,0,Summit town
+MS,2866720,Shannon,incorporated,43,A,1496,"Shannon, MS",0,128,0,0,Shannon town
+MS,2867000,Shaw,incorporated,25,A,1457,"Shaw, MS",0,129,0,0,Shaw city
+MS,2824500,Fayette,incorporated,25,A,1445,"Fayette, MS",0,130,0,0,Fayette city
+MS,2845240,Marks,incorporated,25,A,1444,"Marks, MS",0,131,0,0,Marks city
+MS,2848560,Monticello,incorporated,43,A,1441,"Monticello, MS",0,132,0,0,Monticello town
+MS,2814900,Coldwater,incorporated,43,A,1381,"Coldwater, MS",0,133,0,0,Coldwater town
+MS,2877400,Walls,incorporated,43,A,1351,"Walls, MS",0,134,0,0,Walls town
+MS,2810060,Byhalia,incorporated,43,A,1339,"Byhalia, MS",0,135,0,0,Byhalia town
+MS,2872680,Terry,incorporated,43,A,1304,"Terry, MS",0,136,0,0,Terry town
+MS,2839080,Lambert,incorporated,43,A,1273,"Lambert, MS",0,137,0,0,Lambert town
+MS,2856200,Pelahatchie,incorporated,43,A,1272,"Pelahatchie, MS",0,138,0,0,Pelahatchie town
+MS,2859560,Port Gibson,incorporated,25,A,1269,"Port Gibson, MS",0,139,0,0,Port Gibson city
+MS,2812740,Centreville,incorporated,43,A,1258,"Centreville, MS",0,140,0,0,Centreville town
+MS,2828220,Goodman,incorporated,43,A,1258,"Goodman, MS",0,141,0,0,Goodman town
+MS,2872400,Taylorsville,incorporated,43,A,1148,"Taylorsville, MS",0,142,0,0,Taylorsville town
+MS,2810460,Caledonia,incorporated,43,A,1135,"Caledonia, MS",0,143,0,0,Caledonia town
+MS,2844920,Mantachie,incorporated,43,A,1121,"Mantachie, MS",0,144,0,0,Mantachie town
+MS,2815500,Como,incorporated,43,A,1118,"Como, MS",0,145,0,0,Como town
+MS,2876320,Vardaman,incorporated,43,A,1110,"Vardaman, MS",0,146,0,0,Vardaman town
+MS,2860840,Raleigh,incorporated,43,A,1094,"Raleigh, MS",0,147,0,0,Raleigh town
+MS,2874760,Tunica,incorporated,43,A,1026,"Tunica, MS",0,148,0,0,Tunica town
+MS,2821580,Edwards,incorporated,43,A,995,"Edwards, MS",0,149,0,0,Edwards town
+MS,2859920,Prentiss,incorporated,43,A,976,"Prentiss, MS",0,150,0,0,Prentiss town
+MS,2871600,Sunflower,incorporated,43,A,964,"Sunflower, MS",0,151,0,0,Sunflower town
+MS,2836800,Jonestown,incorporated,43,A,962,"Jonestown, MS",0,152,0,0,Jonestown town
+MS,2818940,Derma,incorporated,43,A,957,"Derma, MS",0,153,0,0,Derma town
+MS,2807060,Blue Mountain,incorporated,43,A,948,"Blue Mountain, MS",0,154,0,0,Blue Mountain town
+MS,2881120,Woodville,incorporated,43,A,928,"Woodville, MS",0,155,0,0,Woodville town
+MS,2857200,Pickens,incorporated,43,A,920,"Pickens, MS",0,156,0,0,Pickens town
+MS,2862480,Richton,incorporated,43,A,920,"Richton, MS",0,157,0,0,Richton town
+MS,2808980,Brooksville,incorporated,43,A,915,"Brooksville, MS",0,158,0,0,Brooksville town
+MS,2875880,Vaiden,incorporated,43,A,907,"Vaiden, MS",0,159,0,0,Vaiden town
+MS,2821340,Ecru,incorporated,43,A,901,"Ecru, MS",0,160,0,0,Ecru town
+MS,2827820,Gloster,incorporated,43,A,897,"Gloster, MS",0,161,0,0,Gloster town
+MS,2826060,Friars Point,incorporated,43,A,896,"Friars Point, MS",0,162,0,0,Friars Point town
+MS,2849520,Mount Olive,incorporated,43,A,895,"Mount Olive, MS",0,163,0,0,Mount Olive town
+MS,2870760,Stonewall,incorporated,43,A,879,"Stonewall, MS",0,164,0,0,Stonewall town
+MS,2818340,De Kalb,incorporated,43,A,877,"De Kalb, MS",0,165,0,0,De Kalb town
+MS,2809820,Burnsville,incorporated,43,A,868,"Burnsville, MS",0,166,0,0,Burnsville town
+MS,2835020,Inverness,incorporated,43,A,868,"Inverness, MS",0,167,0,0,Inverness town
+MS,2858440,Plantersville,incorporated,43,A,868,"Plantersville, MS",0,168,0,0,Plantersville town
+MS,2845720,Mathiston,incorporated,43,A,831,"Mathiston, MS",0,169,0,0,Mathiston town
+MS,2846880,Metcalfe,incorporated,43,A,816,"Metcalfe, MS",0,170,0,0,Metcalfe town
+MS,2814740,Coffeeville,incorporated,43,A,797,"Coffeeville, MS",0,171,0,0,Coffeeville town
+MS,2809460,Bude,incorporated,43,A,780,"Bude, MS",0,172,0,0,Bude town
+MS,2842980,Maben,incorporated,43,A,771,"Maben, MS",0,173,0,0,Maben town
+MS,2866160,Scooba,incorporated,43,A,744,"Scooba, MS",0,174,0,0,Scooba town
+MS,2800820,Algoma,incorporated,43,A,705,"Algoma, MS",0,175,0,0,Algoma town
+MS,2877480,Walnut,incorporated,43,A,704,"Walnut, MS",0,176,0,0,Walnut town
+MS,2851420,New Houlka,incorporated,43,A,698,"New Houlka, MS",0,177,0,0,New Houlka town
+MS,2872760,Thaxton,incorporated,43,A,692,"Thaxton, MS",0,178,0,0,Thaxton town
+MS,2861890,Renova,incorporated,43,A,676,"Renova, MS",0,179,0,0,Renova town
+MS,2804500,Beaumont,incorporated,43,A,669,"Beaumont, MS",0,180,0,0,Beaumont town
+MS,2837560,Kilmichael,incorporated,43,A,639,"Kilmichael, MS",0,181,0,0,Kilmichael town
+MS,2816460,Crenshaw,incorporated,43,A,638,"Crenshaw, MS",0,182,0,0,Crenshaw town
+MS,2835220,Isola,incorporated,43,A,638,"Isola, MS",0,183,0,0,Isola town
+MS,2831420,Heidelberg,incorporated,43,A,637,"Heidelberg, MS",0,184,0,0,Heidelberg town
+MS,2864920,Sandersville,incorporated,43,A,636,"Sandersville, MS",0,185,0,0,Sandersville town
+MS,2875760,Utica,incorporated,43,A,636,"Utica, MS",0,186,0,0,Utica town
+MS,2820260,Duck Hill,incorporated,43,A,619,"Duck Hill, MS",0,187,0,0,Duck Hill town
+MS,2867200,Sherman,incorporated,43,A,600,"Sherman, MS",0,188,0,0,Sherman town
+MS,2858960,Polkville,incorporated,43,A,588,"Polkville, MS",0,189,0,0,Polkville town
+MS,2816940,Crowder,incorporated,43,A,573,"Crowder, MS",0,190,0,0,Crowder town
+MS,2840640,Liberty,incorporated,43,A,560,"Liberty, MS",0,191,0,0,Liberty town
+MS,2851040,New Augusta,incorporated,43,A,554,"New Augusta, MS",0,192,0,0,New Augusta town
+MS,2802140,Ashland,incorporated,43,A,551,"Ashland, MS",0,193,0,0,Ashland town
+MS,2808180,Boyle,incorporated,43,A,532,"Boyle, MS",0,194,0,0,Boyle town
+MS,2877520,Walnut Grove,incorporated,43,A,510,"Walnut Grove, MS",0,195,0,0,Walnut Grove town
+MS,2868720,Smithville,incorporated,43,A,509,"Smithville, MS",0,196,0,0,Smithville town
+MS,2801500,Anguilla,incorporated,43,A,496,"Anguilla, MS",0,197,0,0,Anguilla town
+MS,2822580,Enterprise,incorporated,43,A,496,"Enterprise, MS",0,198,0,0,Enterprise town
+MS,2832020,Hickory Flat,incorporated,43,A,496,"Hickory Flat, MS",0,199,0,0,Hickory Flat town
+MS,2830980,Hatley,incorporated,43,A,495,"Hatley, MS",0,200,0,0,Hatley town
+MS,2850280,Myrtle,incorporated,43,A,484,"Myrtle, MS",0,201,0,0,Myrtle town
+MS,2838600,Lake,incorporated,43,A,475,"Lake, MS",0,202,0,0,Lake town
+MS,2820340,Dumas,incorporated,43,A,471,"Dumas, MS",0,203,0,0,Dumas town
+MS,2815980,Courtland,incorporated,43,A,470,"Courtland, MS",0,204,0,0,Courtland town
+MS,2864080,Roxie,incorporated,43,A,469,"Roxie, MS",0,205,0,0,Roxie town
+MS,2874400,Tremont,incorporated,43,A,467,"Tremont, MS",0,206,0,0,Tremont town
+MS,2853200,Oakland,incorporated,43,A,462,"Oakland, MS",0,207,0,0,Oakland town
+MS,2870320,State Line,incorporated,43,A,452,"State Line, MS",0,208,0,0,State Line town
+MS,2846200,Meadville,incorporated,43,A,448,"Meadville, MS",0,209,0,0,Meadville town
+MS,2807540,Bolton,incorporated,43,A,441,"Bolton, MS",0,210,0,0,Bolton town
+MS,2878520,Weir,incorporated,43,A,441,"Weir, MS",0,211,0,0,Weir town
+MS,2824220,Falkner,incorporated,43,A,437,"Falkner, MS",0,212,0,0,Falkner town
+MS,2807100,Blue Springs,incorporated,47,A,436,"Blue Springs, MS",0,213,0,0,Blue Springs village
+MS,2846000,Mayersville,incorporated,43,A,433,"Mayersville, MS",0,214,0,0,Mayersville town
+MS,2837040,Jumpertown,incorporated,43,A,425,"Jumpertown, MS",0,215,0,0,Jumpertown town
+MS,2811580,Carrollton,incorporated,43,A,423,"Carrollton, MS",0,216,0,0,Carrollton town
+MS,2869160,Soso,incorporated,43,A,418,"Soso, MS",0,217,0,0,Soso town
+MS,2859720,Potts Camp,incorporated,43,A,416,"Potts Camp, MS",0,218,0,0,Potts Camp town
+MS,2878480,Webb,incorporated,43,A,416,"Webb, MS",0,219,0,0,Webb town
+MS,2816420,Crawford,incorporated,43,A,415,"Crawford, MS",0,220,0,0,Crawford town
+MS,2831980,Hickory,incorporated,43,A,408,"Hickory, MS",0,221,0,0,Hickory town
+MS,2867520,Shubuta,incorporated,43,A,406,"Shubuta, MS",0,222,0,0,Shubuta town
+MS,2852400,North Carrollton,incorporated,43,A,405,"North Carrollton, MS",0,223,0,0,North Carrollton town
+MS,2867640,Shuqualak,incorporated,43,A,399,"Shuqualak, MS",0,224,0,0,Shuqualak town
+MS,2852880,Noxapater,incorporated,43,A,390,"Noxapater, MS",0,225,0,0,Noxapater town
+MS,2851360,New Hebron,incorporated,43,A,386,"New Hebron, MS",0,226,0,0,New Hebron town
+MS,2827540,Glen,incorporated,43,A,382,"Glen, MS",0,227,0,0,Glen town
+MS,2854640,Osyka,incorporated,43,A,381,"Osyka, MS",0,228,0,0,Osyka town
+MS,2846720,Merigold,incorporated,43,A,379,"Merigold, MS",0,229,0,0,Merigold town
+MS,2819340,D'Lo,incorporated,43,A,373,"D'Lo, MS",0,230,0,0,D'Lo town
+MS,2800100,Abbeville,incorporated,43,A,372,"Abbeville, MS",0,231,0,0,Abbeville town
+MS,2873720,Tishomingo,incorporated,43,A,370,"Tishomingo, MS",0,232,0,0,Tishomingo town
+MS,2868400,Sledge,incorporated,43,A,368,"Sledge, MS",0,233,0,0,Sledge town
+MS,2805220,Benoit,incorporated,43,A,365,"Benoit, MS",0,234,0,0,Benoit town
+MS,2872360,Taylor,incorporated,47,A,355,"Taylor, MS",0,235,0,0,Taylor village
+MS,2823220,Ethel,incorporated,43,A,348,"Ethel, MS",0,236,0,0,Ethel town
+MS,2860360,Puckett,incorporated,47,A,342,"Puckett, MS",0,237,0,0,Puckett village
+MS,2805380,Bentonia,incorporated,43,A,319,"Bentonia, MS",0,238,0,0,Bentonia town
+MS,2848240,Mize,incorporated,43,A,317,"Mize, MS",0,239,0,0,Mize town
+MS,2843840,McLain,incorporated,43,A,313,"McLain, MS",0,240,0,0,McLain town
+MS,2867840,Sidon,incorporated,43,A,311,"Sidon, MS",0,241,0,0,Sidon town
+MS,2868960,Snow Lake Shores,incorporated,43,A,306,"Snow Lake Shores, MS",0,242,0,0,Snow Lake Shores town
+MS,2866400,Seminary,incorporated,43,A,305,"Seminary, MS",0,243,0,0,Seminary town
+MS,2801820,Arcola,incorporated,43,A,304,"Arcola, MS",0,244,0,0,Arcola town
+MS,2802100,Artesia,incorporated,43,A,304,"Artesia, MS",0,245,0,0,Artesia town
+MS,2842960,Lyon,incorporated,43,A,296,"Lyon, MS",0,246,0,0,Lyon town
+MS,2829900,Gunnison,incorporated,43,A,295,"Gunnison, MS",0,247,0,0,Gunnison town
+MS,2804540,Beauregard,incorporated,47,A,289,"Beauregard, MS",0,248,0,0,Beauregard village
+MS,2873760,Toccopola,incorporated,43,A,286,"Toccopola, MS",0,249,0,0,Toccopola town
+MS,2862560,Rienzi,incorporated,43,A,281,"Rienzi, MS",0,250,0,0,Rienzi town
+MS,2871520,Sumner,incorporated,43,A,278,"Sumner, MS",0,251,0,0,Sumner town
+MS,2820380,Duncan,incorporated,43,A,276,"Duncan, MS",0,252,0,0,Duncan town
+MS,2842200,Louin,incorporated,43,A,275,"Louin, MS",0,253,0,0,Louin town
+MS,2813580,Chunky,incorporated,43,A,272,"Chunky, MS",0,254,0,0,Chunky town
+MS,2816980,Cruger,incorporated,43,A,268,"Cruger, MS",0,255,0,0,Cruger town
+MS,2859240,Pope,incorporated,47,A,268,"Pope, MS",0,256,0,0,Pope village
+MS,2866280,Sebastopol,incorporated,43,A,266,"Sebastopol, MS",0,257,0,0,Sebastopol town
+MS,2826020,French Camp,incorporated,43,A,256,"French Camp, MS",0,258,0,0,French Camp town
+MS,2826980,Georgetown,incorporated,43,A,252,"Georgetown, MS",0,259,0,0,Georgetown town
+MS,2805820,Beulah,incorporated,43,A,242,"Beulah, MS",0,260,0,0,Beulah town
+MS,2816620,Crosby,incorporated,43,A,242,"Crosby, MS",0,261,0,0,Crosby town
+MS,2811820,Cary,incorporated,43,A,241,"Cary, MS",0,262,0,0,Cary town
+MS,2844960,Mantee,incorporated,47,A,237,"Mantee, MS",0,263,0,0,Mantee village
+MS,2866080,Schlater,incorporated,43,A,236,"Schlater, MS",0,264,0,0,Schlater town
+MS,2814580,Coahoma,incorporated,43,A,229,"Coahoma, MS",0,265,0,0,Coahoma town
+MS,2867920,Silver City,incorporated,43,A,223,"Silver City, MS",0,266,0,0,Silver City town
+MS,2848800,Morgan City,incorporated,43,A,207,"Morgan City, MS",0,267,0,0,Morgan City town
+MS,2854960,Pachuta,incorporated,43,A,207,"Pachuta, MS",0,268,0,0,Pachuta town
+MS,2871320,Sturgis,incorporated,43,A,207,"Sturgis, MS",0,269,0,0,Sturgis town
+MS,2842600,Lula,incorporated,43,A,204,"Lula, MS",0,270,0,0,Lula town
+MS,2845120,Marietta,incorporated,43,A,198,"Marietta, MS",0,271,0,0,Marietta town
+MS,2803580,Bassfield,incorporated,43,A,192,"Bassfield, MS",0,272,0,0,Bassfield town
+MS,2827940,Golden,incorporated,43,A,192,"Golden, MS",0,273,0,0,Golden town
+MS,2808460,Braxton,incorporated,47,A,186,"Braxton, MS",0,274,0,0,Braxton village
+MS,2854920,Pace,incorporated,43,A,183,"Pace, MS",0,275,0,0,Pace town
+MS,2842240,Louise,incorporated,43,A,178,"Louise, MS",0,276,0,0,Louise town
+MS,2867960,Silver Creek,incorporated,43,A,175,"Silver Creek, MS",0,277,0,0,Silver Creek town
+MS,2838360,Kossuth,incorporated,47,A,160,"Kossuth, MS",0,278,0,0,Kossuth village
+MS,2840360,Lena,incorporated,43,A,157,"Lena, MS",0,279,0,0,Lena town
+MS,2858360,Pittsboro,incorporated,47,A,157,"Pittsboro, MS",0,280,0,0,Pittsboro village
+MS,2827660,Glendora,incorporated,47,A,154,"Glendora, MS",0,281,0,0,Glendora village
+MS,2878680,West,incorporated,43,A,153,"West, MS",0,282,0,0,West town
+MS,2880800,Winstonville,incorporated,43,A,153,"Winstonville, MS",0,283,0,0,Winstonville town
+MS,2806060,Big Creek,incorporated,47,A,133,"Big Creek, MS",0,284,0,0,Big Creek village
+MS,2821420,Eden,incorporated,47,A,133,"Eden, MS",0,285,0,0,Eden village
+MS,2864800,Sallis,incorporated,43,A,131,"Sallis, MS",0,286,0,0,Sallis town
+MS,2800940,Alligator,incorporated,43,A,116,"Alligator, MS",0,287,0,0,Alligator town
+MS,2824180,Falcon,incorporated,43,A,116,"Falcon, MS",0,288,0,0,Falcon town
+MS,2877640,Walthall,incorporated,47,A,116,"Walthall, MS",0,289,0,0,Walthall village
+MS,2881000,Woodland,incorporated,47,A,110,"Woodland, MS",0,290,0,0,Woodland village
+MS,2868320,Slate Springs,incorporated,47,A,105,"Slate Springs, MS",0,291,0,0,Slate Springs village
+MS,2848640,Montrose,incorporated,43,A,104,"Montrose, MS",0,292,0,0,Montrose town
+MS,2855000,Paden,incorporated,47,A,104,"Paden, MS",0,293,0,0,Paden village
+MS,2843400,McCool,incorporated,43,A,103,"McCool, MS",0,294,0,0,McCool town
+MS,2873440,Tillatoba,incorporated,43,I,95,"Tillatoba, MS",0,295,0,0,Tillatoba town
+MS,2872040,Sylvarena,incorporated,47,A,87,"Sylvarena, MS",0,296,0,0,Sylvarena village
+MS,2826780,Gattman,incorporated,47,A,77,"Gattman, MS",0,297,0,0,Gattman village
+MS,2819420,Doddsville,incorporated,43,A,69,"Doddsville, MS",0,298,0,0,Doddsville town
+MS,2839880,Learned,incorporated,43,A,56,"Learned, MS",0,299,0,0,Learned town
+MS,2865680,Satartia,incorporated,47,A,41,"Satartia, MS",0,300,0,0,Satartia village

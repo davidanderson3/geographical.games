@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Name a city in Connecticut",
+    "answers": [
+      {
+        "answer": "Milford city",
+        "score": 250,
+        "count": 250
+      }
+    ]
+  },
+  {
+    "question": "Name a city in Georgia",
+    "answers": [
+      {
+        "answer": "Athens-Clarke County unified government",
+        "score": 125,
+        "count": 125
+      },
+      {
+        "answer": "Augusta-Richmond County consolidated government",
+        "score": 125,
+        "count": 125
+      }
+    ]
+  },
+  {
+    "question": "Name a city in Indiana",
+    "answers": [
+      {
+        "answer": "Indianapolis city",
+        "score": 250,
+        "count": 250
+      }
+    ]
+  },
+  {
+    "question": "Name a city in Kansas",
+    "answers": [
+      {
+        "answer": "Greeley County unified government",
+        "score": 250,
+        "count": 250
+      }
+    ]
+  },
+  {
+    "question": "Name a city in Kentucky",
+    "answers": [
+      {
+        "answer": "Louisville/Jefferson County metro government",
+        "score": 250,
+        "count": 250
+      }
+    ]
+  },
+  {
+    "question": "Name a city in Montana",
+    "answers": [
+      {
+        "answer": "Butte-Silver Bow",
+        "score": 250,
+        "count": 250
+      }
+    ]
+  },
+  {
+    "question": "Name a city in Tennessee",
+    "answers": [
+      {
+        "answer": "Nashville-Davidson metropolitan government",
+        "score": 250,
+        "count": 250
+      }
+    ]
+  }
+]

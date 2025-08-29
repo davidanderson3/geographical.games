@@ -1,0 +1,857 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+MN,2743000,Minneapolis,incorporated,25,A,429954,"Minneapolis, MN",0,1,66,0.264,Minneapolis city
+MN,2758000,St. Paul,incorporated,25,A,311527,"St. Paul, MN",0,2,27,0.108,St. Paul city
+MN,2754880,Rochester,incorporated,25,A,121395,"Rochester, MN",0,3,17,0.068,Rochester city
+MN,2706616,Bloomington,incorporated,25,A,89987,"Bloomington, MN",0,4,12,0.048,Bloomington city
+MN,2717000,Duluth,incorporated,25,A,86697,"Duluth, MN",0,5,10,0.04,Duluth city
+MN,2707966,Brooklyn Park,incorporated,25,A,86478,"Brooklyn Park, MN",0,6,8,0.032,Brooklyn Park city
+MN,2751730,Plymouth,incorporated,25,A,81026,"Plymouth, MN",0,7,7,0.028,Plymouth city
+MN,2771428,Woodbury,incorporated,25,A,75102,"Woodbury, MN",0,8,6,0.024,Woodbury city
+MN,2740166,Maple Grove,incorporated,25,A,70253,"Maple Grove, MN",0,9,4,0.016,Maple Grove city
+MN,2706382,Blaine,incorporated,25,A,70222,"Blaine, MN",0,10,5,0.02,Blaine city
+MN,2735180,Lakeville,incorporated,25,A,69490,"Lakeville, MN",0,11,3,0.012,Lakeville city
+MN,2756896,St. Cloud,incorporated,25,A,68881,"St. Cloud, MN",0,12,4,0.016,St. Cloud city
+MN,2717288,Eagan,incorporated,25,A,68855,"Eagan, MN",0,13,4,0.016,Eagan city
+MN,2708794,Burnsville,incorporated,25,A,64317,"Burnsville, MN",0,14,2,0.008,Burnsville city
+MN,2718116,Eden Prairie,incorporated,25,A,64198,"Eden Prairie, MN",0,15,2,0.008,Eden Prairie city
+MN,2713114,Coon Rapids,incorporated,25,A,63599,"Coon Rapids, MN",0,16,2,0.008,Coon Rapids city
+MN,2701900,Apple Valley,incorporated,25,A,56374,"Apple Valley, MN",0,17,3,0.012,Apple Valley city
+MN,2743252,Minnetonka,incorporated,25,A,53781,"Minnetonka, MN",0,18,3,0.012,Minnetonka city
+MN,2718188,Edina,incorporated,25,A,53494,"Edina, MN",0,19,3,0.012,Edina city
+MN,2757220,St. Louis Park,incorporated,25,A,50010,"St. Louis Park, MN",0,20,3,0.012,St. Louis Park city
+MN,2743864,Moorhead,incorporated,25,A,44505,"Moorhead, MN",0,21,2,0.008,Moorhead city
+MN,2739878,Mankato,incorporated,25,A,44488,"Mankato, MN",0,22,1,0.004,Mankato city
+MN,2759350,Shakopee,incorporated,25,A,43698,"Shakopee, MN",0,23,1,0.004,Shakopee city
+MN,2740382,Maplewood,incorporated,25,A,42088,"Maplewood, MN",0,24,1,0.004,Maplewood city
+MN,2713456,Cottage Grove,incorporated,25,A,38839,"Cottage Grove, MN",0,25,1,0.004,Cottage Grove city
+MN,2754214,Richfield,incorporated,25,A,36994,"Richfield, MN",0,26,1,0.004,Richfield city
+MN,2755852,Roseville,incorporated,25,A,36254,"Roseville, MN",0,27,1,0.004,Roseville city
+MN,2731076,Inver Grove Heights,incorporated,25,A,35801,"Inver Grove Heights, MN",0,28,1,0.004,Inver Grove Heights city
+MN,2707948,Brooklyn Center,incorporated,25,A,33782,"Brooklyn Center, MN",0,29,2,0.008,Brooklyn Center city
+MN,2701486,Andover,incorporated,25,A,32601,"Andover, MN",0,30,2,0.008,Andover city
+MN,2758738,Savage,incorporated,25,A,32465,"Savage, MN",0,31,2,0.008,Savage city
+MN,2722814,Fridley,incorporated,25,A,29590,"Fridley, MN",0,32,2,0.008,Fridley city
+MN,2747680,Oakdale,incorporated,25,A,28303,"Oakdale, MN",0,33,2,0.008,Oakdale city
+MN,2710972,Chaska,incorporated,25,A,27810,"Chaska, MN",0,34,2,0.008,Chaska city
+MN,2753026,Ramsey,incorporated,25,A,27646,"Ramsey, MN",0,35,2,0.008,Ramsey city
+MN,2752594,Prior Lake,incorporated,25,A,27617,"Prior Lake, MN",0,36,2,0.008,Prior Lake city
+MN,2759998,Shoreview,incorporated,25,A,26921,"Shoreview, MN",0,37,2,0.008,Shoreview city
+MN,2749300,Owatonna,incorporated,25,A,26420,"Owatonna, MN",0,38,2,0.008,Owatonna city
+MN,2702908,Austin,incorporated,25,A,26174,"Austin, MN",0,39,2,0.008,Austin city
+MN,2771032,Winona,incorporated,25,A,25948,"Winona, MN",0,40,2,0.008,Winona city
+MN,2710918,Chanhassen,incorporated,25,A,25947,"Chanhassen, MN",0,41,2,0.008,Chanhassen city
+MN,2718674,Elk River,incorporated,25,A,25835,"Elk River, MN",0,42,2,0.008,Elk River city
+MN,2755726,Rosemount,incorporated,25,A,25650,"Rosemount, MN",0,43,2,0.008,Rosemount city
+MN,2769970,White Bear Lake,incorporated,25,A,24883,"White Bear Lake, MN",0,44,2,0.008,White Bear Lake city
+MN,2720546,Faribault,incorporated,25,A,24453,"Faribault, MN",0,45,2,0.008,Faribault city
+MN,2710846,Champlin,incorporated,25,A,23919,"Champlin, MN",0,46,2,0.008,Champlin city
+MN,2720618,Farmington,incorporated,25,A,23632,"Farmington, MN",0,47,2,0.008,Farmington city
+MN,2745430,New Brighton,incorporated,25,A,23454,"New Brighton, MN",0,48,2,0.008,New Brighton city
+MN,2714158,Crystal,incorporated,25,A,23330,"Crystal, MN",0,49,2,0.008,Crystal city
+MN,2724308,Golden Valley,incorporated,25,A,22552,"Golden Valley, MN",0,50,1,0.004,Golden Valley city
+MN,2727530,Hastings,incorporated,25,A,22154,"Hastings, MN",0,51,1,0.004,Hastings city
+MN,2745628,New Hope,incorporated,25,A,21986,"New Hope, MN",0,52,1,0.004,New Hope city
+MN,2712700,Columbia Heights,incorporated,25,A,21973,"Columbia Heights, MN",0,53,1,0.004,Columbia Heights city
+MN,2737322,Lino Lakes,incorporated,25,A,21399,"Lino Lakes, MN",0,54,1,0.004,Lino Lakes city
+MN,2770420,Willmar,incorporated,25,A,21015,"Willmar, MN",0,55,1,0.004,Willmar city
+MN,2746924,Northfield,incorporated,25,A,20790,"Northfield, MN",0,56,1,0.004,Northfield city
+MN,2761492,South St. Paul,incorporated,25,A,20759,"South St. Paul, MN",0,57,1,0.004,South St. Paul city
+MN,2769700,West St. Paul,incorporated,25,A,20615,"West St. Paul, MN",0,58,0,0,West St. Paul city
+MN,2721770,Forest Lake,incorporated,25,A,20611,"Forest Lake, MN",0,59,0,0,Forest Lake city
+MN,2749138,Otsego,incorporated,25,A,19966,"Otsego, MN",0,60,0,0,Otsego city
+MN,2762824,Stillwater,incorporated,25,A,19394,"Stillwater, MN",0,61,0,0,Stillwater city
+MN,2758612,Sartell,incorporated,25,A,19351,"Sartell, MN",0,62,0,0,Sartell city
+MN,2730140,Hopkins,incorporated,25,A,19079,"Hopkins, MN",0,63,0,0,Hopkins city
+MN,2700694,Albert Lea,incorporated,25,A,18492,"Albert Lea, MN",0,64,0,0,Albert Lea city
+MN,2757346,St. Michael,incorporated,25,A,18235,"St. Michael, MN",0,65,0,0,St. Michael city
+MN,2701720,Anoka,incorporated,25,A,17921,"Anoka, MN",0,66,0,0,Anoka city
+MN,2753620,Red Wing,incorporated,25,A,16547,"Red Wing, MN",0,67,0,0,Red Wing city
+MN,2726738,Ham Lake,incorporated,25,A,16464,"Ham Lake, MN",0,68,0,0,Ham Lake city
+MN,2728790,Hibbing,incorporated,25,A,16214,"Hibbing, MN",0,69,0,0,Hibbing city
+MN,2708452,Buffalo,incorporated,25,A,16168,"Buffalo, MN",0,70,0,0,Buffalo city
+MN,2730392,Hugo,incorporated,25,A,15766,"Hugo, MN",0,71,0,0,Hugo city
+MN,2754808,Robbinsdale,incorporated,25,A,14646,"Robbinsdale, MN",0,72,0,0,Robbinsdale city
+MN,2730644,Hutchinson,incorporated,25,A,14599,"Hutchinson, MN",0,73,0,0,Hutchinson city
+MN,2705068,Bemidji,incorporated,25,A,14574,"Bemidji, MN",0,74,0,0,Bemidji city
+MN,2743774,Monticello,incorporated,25,A,14455,"Monticello, MN",0,75,0,0,Monticello city
+MN,2707300,Brainerd,incorporated,25,A,14395,"Brainerd, MN",0,76,0,0,Brainerd city
+MN,2700928,Alexandria,incorporated,25,A,14335,"Alexandria, MN",0,77,0,0,Alexandria city
+MN,2747068,North Mankato,incorporated,25,A,14275,"North Mankato, MN",0,78,0,0,North Mankato city
+MN,2746042,New Ulm,incorporated,25,A,14120,"New Ulm, MN",0,79,0,0,New Ulm city
+MN,2720906,Fergus Falls,incorporated,25,A,14119,"Fergus Falls, MN",0,80,0,0,Fergus Falls city
+MN,2771734,Worthington,incorporated,25,A,13947,"Worthington, MN",0,81,0,0,Worthington city
+MN,2758684,Sauk Rapids,incorporated,25,A,13862,"Sauk Rapids, MN",0,82,0,0,Sauk Rapids city
+MN,2740688,Marshall,incorporated,25,A,13628,"Marshall, MN",0,83,0,0,Marshall city
+MN,2755186,Rogers,incorporated,25,A,13295,"Rogers, MN",0,84,0,0,Rogers city
+MN,2744530,Mounds View,incorporated,25,A,13249,"Mounds View, MN",0,85,0,0,Mounds View city
+MN,2767432,Waconia,incorporated,25,A,13033,"Waconia, MN",0,86,0,0,Waconia city
+MN,2766460,Vadnais Heights,incorporated,25,A,12912,"Vadnais Heights, MN",0,87,0,0,Vadnais Heights city
+MN,2712160,Cloquet,incorporated,25,A,12568,"Cloquet, MN",0,88,0,0,Cloquet city
+MN,2747221,North St. Paul,incorporated,25,A,12364,"North St. Paul, MN",0,89,0,0,North St. Paul city
+MN,2758036,St. Peter,incorporated,25,A,12066,"St. Peter, MN",0,90,0,0,St. Peter city
+MN,2717486,East Bethel,incorporated,25,A,11786,"East Bethel, MN",0,91,0,0,East Bethel city
+MN,2741696,Mendota Heights,incorporated,25,A,11744,"Mendota Heights, MN",0,92,0,0,Mendota Heights city
+MN,2705752,Big Lake,incorporated,25,A,11686,"Big Lake, MN",0,93,0,0,Big Lake city
+MN,2734244,Lake Elmo,incorporated,25,A,11335,"Lake Elmo, MN",0,94,0,0,Lake Elmo city
+MN,2725118,Grand Rapids,incorporated,25,A,11126,"Grand Rapids, MN",0,95,0,0,Grand Rapids city
+MN,2737502,Little Canada,incorporated,25,A,10819,"Little Canada, MN",0,96,0,0,Little Canada city
+MN,2746798,North Branch,incorporated,25,A,10787,"North Branch, MN",0,97,0,0,North Branch city
+MN,2767036,Victoria,incorporated,25,A,10546,"Victoria, MN",0,98,0,0,Victoria city
+MN,2720330,Fairmont,incorporated,25,A,10487,"Fairmont, MN",0,99,0,0,Fairmont city
+MN,2728682,Hermantown,incorporated,25,A,10221,"Hermantown, MN",0,100,0,0,Hermantown city
+MN,2702026,Arden Hills,incorporated,25,A,9939,"Arden Hills, MN",0,101,0,0,Arden Hills city
+MN,2715832,Detroit Lakes,incorporated,25,A,9869,"Detroit Lakes, MN",0,102,0,0,Detroit Lakes city
+MN,2709370,Cambridge,incorporated,25,A,9611,"Cambridge, MN",0,103,0,0,Cambridge city
+MN,2744476,Mound,incorporated,25,A,9398,"Mound, MN",0,104,0,0,Mound city
+MN,2756680,St. Anthony,incorporated,25,A,9257,"St. Anthony, MN",0,105,0,0,St. Anthony city
+MN,2768296,Waseca,incorporated,25,A,9229,"Waseca, MN",0,106,0,0,Waseca city
+MN,2717612,East Grand Forks,incorporated,25,A,9176,"East Grand Forks, MN",0,107,0,0,East Grand Forks city
+MN,2737556,Little Falls,incorporated,25,A,9140,"Little Falls, MN",0,108,0,0,Little Falls city
+MN,2747690,Oak Grove,incorporated,25,A,8929,"Oak Grove, MN",0,109,0,0,Oak Grove city
+MN,2764570,Thief River Falls,incorporated,25,A,8749,"Thief River Falls, MN",0,110,0,0,Thief River Falls city
+MN,2704042,Baxter,incorporated,25,A,8612,"Baxter, MN",0,111,0,0,Baxter city
+MN,2767288,Virginia,incorporated,25,A,8421,"Virginia, MN",0,112,0,0,Virginia city
+MN,2767612,Waite Park,incorporated,25,A,8341,"Waite Park, MN",0,113,0,0,Waite Park city
+MN,2748580,Orono,incorporated,25,A,8315,"Orono, MN",0,114,0,0,Orono city
+MN,2743306,Minnetrista,incorporated,25,A,8262,"Minnetrista, MN",0,115,0,0,Minnetrista city
+MN,2745808,New Prague,incorporated,25,A,8162,"New Prague, MN",0,116,0,0,New Prague city
+MN,2756950,St. Francis,incorporated,25,A,8142,"St. Francis, MN",0,117,0,0,St. Francis city
+MN,2739428,Mahtomedi,incorporated,25,A,8138,"Mahtomedi, MN",0,118,0,0,Mahtomedi city
+MN,2772022,Wyoming,incorporated,25,A,8032,"Wyoming, MN",0,119,0,0,Wyoming city
+MN,2700730,Albertville,incorporated,25,A,7896,"Albertville, MN",0,120,0,0,Albertville city
+MN,2760016,Shorewood,incorporated,25,A,7783,"Shorewood, MN",0,121,0,0,Shorewood city
+MN,2713870,Crookston,incorporated,25,A,7482,"Crookston, MN",0,122,0,0,Crookston city
+MN,2704834,Belle Plaine,incorporated,25,A,7395,"Belle Plaine, MN",0,123,0,0,Belle Plaine city
+MN,2715022,Dayton,incorporated,25,A,7262,"Dayton, MN",0,124,0,0,Dayton city
+MN,2761996,Spring Lake Park,incorporated,25,A,7188,"Spring Lake Park, MN",0,125,0,0,Spring Lake Park city
+MN,2757130,St. Joseph,incorporated,25,A,7029,"St. Joseph, MN",0,126,0,0,St. Joseph city
+MN,2732498,Kasson,incorporated,25,A,6851,"Kasson, MN",0,127,0,0,Kasson city
+MN,2741480,Medina,incorporated,25,A,6837,"Medina, MN",0,128,0,0,Medina city
+MN,2731328,Isanti,incorporated,25,A,6804,"Isanti, MN",0,129,0,0,Isanti city
+MN,2762806,Stewartville,incorporated,25,A,6687,"Stewartville, MN",0,130,0,0,Stewartville city
+MN,2732174,Jordan,incorporated,25,A,6656,"Jordan, MN",0,131,0,0,Jordan city
+MN,2737448,Litchfield,incorporated,25,A,6624,"Litchfield, MN",0,132,0,0,Litchfield city
+MN,2715454,Delano,incorporated,25,A,6484,"Delano, MN",0,133,0,0,Delano city
+MN,2709154,Byron,incorporated,25,A,6312,"Byron, MN",0,134,0,0,Byron city
+MN,2772238,Zimmerman,incorporated,25,A,6189,"Zimmerman, MN",0,135,0,0,Zimmerman city
+MN,2713168,Corcoran,incorporated,25,A,6185,"Corcoran, MN",0,136,0,0,Corcoran city
+MN,2710144,Carver,incorporated,25,A,5829,"Carver, MN",0,137,0,0,Carver city
+MN,2731040,International Falls,incorporated,25,A,5802,"International Falls, MN",0,138,0,0,International Falls city
+MN,2723948,Glencoe,incorporated,25,A,5744,"Glencoe, MN",0,139,0,0,Glencoe city
+MN,2711350,Chisago City,incorporated,25,A,5558,"Chisago City, MN",0,140,0,0,Chisago City city
+MN,2758018,St. Paul Park,incorporated,25,A,5544,"St. Paul Park, MN",0,141,0,0,St. Paul Park city
+MN,2743720,Montevideo,incorporated,25,A,5398,"Montevideo, MN",0,142,0,0,Montevideo city
+MN,2720420,Falcon Heights,incorporated,25,A,5369,"Falcon Heights, MN",0,143,0,0,Falcon Heights city
+MN,2733866,La Crescent,incorporated,25,A,5276,"La Crescent, MN",0,144,0,0,La Crescent city
+MN,2747104,North Oaks,incorporated,25,A,5272,"North Oaks, MN",0,145,0,0,North Oaks city
+MN,2734172,Lake City,incorporated,25,A,5252,"Lake City, MN",0,146,0,0,Lake City city
+MN,2744242,Morris,incorporated,25,A,5105,"Morris, MN",0,147,0,0,Morris city
+MN,2753656,Redwood Falls,incorporated,25,A,5102,"Redwood Falls, MN",0,148,0,0,Redwood Falls city
+MN,2711494,Circle Pines,incorporated,25,A,5025,"Circle Pines, MN",0,149,0,0,Circle Pines city
+MN,2738564,Luverne,incorporated,25,A,4946,"Luverne, MN",0,150,0,0,Luverne city
+MN,2737304,Lindstrom,incorporated,25,A,4888,"Lindstrom, MN",0,151,0,0,Lindstrom city
+MN,2704618,Becker,incorporated,25,A,4877,"Becker, MN",0,152,0,0,Becker city
+MN,2747914,Oak Park Heights,incorporated,25,A,4849,"Oak Park Heights, MN",0,153,0,0,Oak Park Heights city
+MN,2718662,Elko New Market,incorporated,25,A,4846,"Elko New Market, MN",0,154,0,0,Elko New Market city
+MN,2752522,Princeton,incorporated,25,A,4819,"Princeton, MN",0,155,0,0,Princeton city
+MN,2770798,Windom,incorporated,25,A,4798,"Windom, MN",0,156,0,0,Windom city
+MN,2757040,St. James,incorporated,25,A,4793,"St. James, MN",0,157,0,0,St. James city
+MN,2711386,Chisholm,incorporated,25,A,4775,"Chisholm, MN",0,158,0,0,Chisholm city
+MN,2738150,Lonsdale,incorporated,25,A,4686,"Lonsdale, MN",0,159,0,0,Lonsdale city
+MN,2768548,Watertown,incorporated,25,A,4659,"Watertown, MN",0,160,0,0,Watertown city
+MN,2715976,Dilworth,incorporated,25,A,4612,"Dilworth, MN",0,161,0,0,Dilworth city
+MN,2758648,Sauk Centre,incorporated,25,A,4555,"Sauk Centre, MN",0,162,0,0,Sauk Centre city
+MN,2747536,Nowthen,incorporated,25,A,4536,"Nowthen, MN",0,163,0,0,Nowthen city
+MN,2755006,Rockford,incorporated,25,A,4500,"Rockford, MN",0,164,0,0,Rockford city
+MN,2768818,Wayzata,incorporated,25,A,4434,"Wayzata, MN",0,165,0,0,Wayzata city
+MN,2767504,Wadena,incorporated,25,A,4325,"Wadena, MN",0,166,0,0,Wadena city
+MN,2709730,Cannon Falls,incorporated,25,A,4220,"Cannon Falls, MN",0,167,0,0,Cannon Falls city
+MN,2751388,Pipestone,incorporated,25,A,4215,"Pipestone, MN",0,168,0,0,Pipestone city
+MN,2736746,Le Sueur,incorporated,25,A,4213,"Le Sueur, MN",0,169,0,0,Le Sueur city
+MN,2712484,Cold Spring,incorporated,25,A,4164,"Cold Spring, MN",0,170,0,0,Cold Spring city
+MN,2712718,Columbus,incorporated,25,A,4159,"Columbus, MN",0,171,0,0,Columbus city
+MN,2724524,Goodview,incorporated,25,A,4158,"Goodview, MN",0,172,0,0,Goodview city
+MN,2749768,Park Rapids,incorporated,25,A,4142,"Park Rapids, MN",0,173,0,0,Park Rapids city
+MN,2754060,Rice Lake,incorporated,25,A,4112,"Rice Lake, MN",0,174,0,0,Rice Lake city
+MN,2704114,Bayport,incorporated,25,A,4024,"Bayport, MN",0,175,0,0,Bayport city
+MN,2756788,St. Charles,incorporated,25,A,3990,"St. Charles, MN",0,176,0,0,St. Charles city
+MN,2758900,Scandia,incorporated,25,A,3984,"Scandia, MN",0,177,0,0,Scandia city
+MN,2725334,Grant,incorporated,25,A,3966,"Grant, MN",0,178,0,0,Grant city
+MN,2715148,Deephaven,incorporated,25,A,3899,"Deephaven, MN",0,179,0,0,Deephaven city
+MN,2710648,Centerville,incorporated,25,A,3896,"Centerville, MN",0,180,0,0,Centerville city
+MN,2747520,Norwood Young America,incorporated,25,A,3863,"Norwood Young America, MN",0,181,0,0,Norwood Young America city
+MN,2745790,Newport,incorporated,25,A,3797,"Newport, MN",0,182,0,0,Newport city
+MN,2743810,Montrose,incorporated,25,A,3775,"Montrose, MN",0,183,0,0,Montrose city
+MN,2751136,Pine Island,incorporated,25,A,3769,"Pine Island, MN",0,184,0,0,Pine Island city
+MN,2730842,Independence,incorporated,25,A,3755,"Independence, MN",0,185,0,0,Independence city
+MN,2772328,Zumbrota,incorporated,25,A,3726,"Zumbrota, MN",0,186,0,0,Zumbrota city
+MN,2744044,Mora,incorporated,25,A,3665,"Mora, MN",0,187,0,0,Mora city
+MN,2738060,Long Prairie,incorporated,25,A,3661,"Long Prairie, MN",0,188,0,0,Long Prairie city
+MN,2765956,Two Harbors,incorporated,25,A,3633,"Two Harbors, MN",0,189,0,0,Two Harbors city
+MN,2741570,Melrose,incorporated,25,A,3602,"Melrose, MN",0,190,0,0,Melrose city
+MN,2726990,Hanover,incorporated,25,A,3548,"Hanover, MN",0,191,0,0,Hanover city
+MN,2750470,Perham,incorporated,25,A,3512,"Perham, MN",0,192,0,0,Perham city
+MN,2756724,St. Augusta,incorporated,25,A,3497,"St. Augusta, MN",0,193,0,0,St. Augusta city
+MN,2719934,Eveleth,incorporated,25,A,3493,"Eveleth, MN",0,194,0,0,Eveleth city
+MN,2751424,Plainview,incorporated,25,A,3483,"Plainview, MN",0,195,0,0,Plainview city
+MN,2705212,Benson,incorporated,25,A,3480,"Benson, MN",0,196,0,0,Benson city
+MN,2760844,Sleepy Eye,incorporated,25,A,3452,"Sleepy Eye, MN",0,197,0,0,Sleepy Eye city
+MN,2707462,Breckenridge,incorporated,25,A,3430,"Breckenridge, MN",0,198,0,0,Breckenridge city
+MN,2701684,Annandale,incorporated,25,A,3330,"Annandale, MN",0,199,0,0,Annandale city
+MN,2731562,Jackson,incorporated,25,A,3323,"Jackson, MN",0,200,0,0,Jackson city
+MN,2717378,Eagle Lake,incorporated,25,A,3278,"Eagle Lake, MN",0,201,0,0,Eagle Lake city
+MN,2719142,Ely,incorporated,25,A,3268,"Ely, MN",0,202,0,0,Ely city
+MN,2743738,Montgomery,incorporated,25,A,3249,"Montgomery, MN",0,203,0,0,Montgomery city
+MN,2756266,Rush City,incorporated,25,A,3228,"Rush City, MN",0,204,0,0,Rush City city
+MN,2706688,Blue Earth,incorporated,25,A,3174,"Blue Earth, MN",0,205,0,0,Blue Earth city
+MN,2751064,Pine City,incorporated,25,A,3130,"Pine City, MN",0,206,0,0,Pine City city
+MN,2752630,Proctor,incorporated,25,A,3120,"Proctor, MN",0,207,0,0,Proctor city
+MN,2742110,Milaca,incorporated,25,A,3021,"Milaca, MN",0,208,0,0,Milaca city
+MN,2711008,Chatfield,incorporated,25,A,2997,"Chatfield, MN",0,209,0,0,Chatfield city
+MN,2762446,Staples,incorporated,25,A,2989,"Staples, MN",0,210,0,0,Staples city
+MN,2700316,Afton,incorporated,25,A,2955,"Afton, MN",0,211,0,0,Afton city
+MN,2725622,Greenfield,incorporated,25,A,2903,"Greenfield, MN",0,212,0,0,Greenfield city
+MN,2744548,Mountain Iron,incorporated,25,A,2878,"Mountain Iron, MN",0,213,0,0,Mountain Iron city
+MN,2709226,Caledonia,incorporated,25,A,2847,"Caledonia, MN",0,214,0,0,Caledonia city
+MN,2715994,Dodge Center,incorporated,25,A,2844,"Dodge Center, MN",0,215,0,0,Dodge Center city
+MN,2712430,Cokato,incorporated,25,A,2799,"Cokato, MN",0,216,0,0,Cokato city
+MN,2743954,Moose Lake,incorporated,25,A,2789,"Moose Lake, MN",0,217,0,0,Moose Lake city
+MN,2700622,Albany,incorporated,25,A,2780,"Albany, MN",0,218,0,0,Albany city
+MN,2703574,Barnesville,incorporated,25,A,2759,"Barnesville, MN",0,219,0,0,Barnesville city
+MN,2755546,Roseau,incorporated,25,A,2744,"Roseau, MN",0,220,0,0,Roseau city
+MN,2725280,Granite Falls,incorporated,25,A,2737,"Granite Falls, MN",0,221,0,0,Granite Falls city
+MN,2721536,Foley,incorporated,25,A,2711,"Foley, MN",0,222,0,0,Foley city
+MN,2712412,Cohasset,incorporated,25,A,2689,"Cohasset, MN",0,223,0,0,Cohasset city
+MN,2749012,Osseo,incorporated,25,A,2688,"Osseo, MN",0,224,0,0,Osseo city
+MN,2724074,Glenwood,incorporated,25,A,2657,"Glenwood, MN",0,225,0,0,Glenwood city
+MN,2750164,Pelican Rapids,incorporated,25,A,2577,"Pelican Rapids, MN",0,226,0,0,Pelican Rapids city
+MN,2707516,Breezy Point,incorporated,25,A,2574,"Breezy Point, MN",0,227,0,0,Breezy Point city
+MN,2767378,Wabasha,incorporated,25,A,2559,"Wabasha, MN",0,228,0,0,Wabasha city
+MN,2734190,Lake Crystal,incorporated,25,A,2539,"Lake Crystal, MN",0,229,0,0,Lake Crystal city
+MN,2736134,Le Center,incorporated,25,A,2517,"Le Center, MN",0,230,0,0,Le Center city
+MN,2758396,Sandstone,incorporated,25,A,2462,"Sandstone, MN",0,231,0,0,Sandstone city
+MN,2741138,Mayer,incorporated,25,A,2453,"Mayer, MN",0,232,0,0,Mayer city
+MN,2762104,Spring Valley,incorporated,25,A,2447,"Spring Valley, MN",0,233,0,0,Spring Valley city
+MN,2731706,Janesville,incorporated,25,A,2421,"Janesville, MN",0,234,0,0,Janesville city
+MN,2769106,Wells,incorporated,25,A,2410,"Wells, MN",0,235,0,0,Wells city
+MN,2739230,Madelia,incorporated,25,A,2396,"Madelia, MN",0,236,0,0,Madelia city
+MN,2750416,Pequot Lakes,incorporated,25,A,2395,"Pequot Lakes, MN",0,237,0,0,Pequot Lakes city
+MN,2713978,Crosslake,incorporated,25,A,2394,"Crosslake, MN",0,238,0,0,Crosslake city
+MN,2749966,Paynesville,incorporated,25,A,2388,"Paynesville, MN",0,239,0,0,Paynesville city
+MN,2755078,Rockville,incorporated,25,A,2382,"Rockville, MN",0,240,0,0,Rockville city
+MN,2713924,Crosby,incorporated,25,A,2360,"Crosby, MN",0,241,0,0,Crosby city
+MN,2720078,Excelsior,incorporated,25,A,2355,"Excelsior, MN",0,242,0,0,Excelsior city
+MN,2748256,Olivia,incorporated,25,A,2343,"Olivia, MN",0,243,0,0,Olivia city
+MN,2756770,St. Bonifacius,incorporated,25,A,2307,"St. Bonifacius, MN",0,244,0,0,St. Bonifacius city
+MN,2723300,Gaylord,incorporated,25,A,2273,"Gaylord, MN",0,245,0,0,Gaylord city
+MN,2735738,Lauderdale,incorporated,25,A,2271,"Lauderdale, MN",0,246,0,0,Lauderdale city
+MN,2736836,Lexington,incorporated,25,A,2248,"Lexington, MN",0,247,0,0,Lexington city
+MN,2702152,Arlington,incorporated,25,A,2247,"Arlington, MN",0,248,0,0,Arlington city
+MN,2771086,Winsted,incorporated,25,A,2240,"Winsted, MN",0,249,0,0,Winsted city
+MN,2727746,Hawley,incorporated,25,A,2219,"Hawley, MN",0,250,0,0,Hawley city
+MN,2700460,Aitkin,incorporated,25,A,2168,"Aitkin, MN",0,251,0,0,Aitkin city
+MN,2740220,Maple Lake,incorporated,25,A,2159,"Maple Lake, MN",0,252,0,0,Maple Lake city
+MN,2765308,Tracy,incorporated,25,A,2076,"Tracy, MN",0,253,0,0,Tracy city
+MN,2730284,Howard Lake,incorporated,25,A,2071,"Howard Lake, MN",0,254,0,0,Howard Lake city
+MN,2712664,Cologne,incorporated,25,A,2047,"Cologne, MN",0,255,0,0,Cologne city
+MN,2761816,Springfield,incorporated,25,A,2027,"Springfield, MN",0,256,0,0,Springfield city
+MN,2748706,Ortonville,incorporated,25,A,2021,"Ortonville, MN",0,257,0,0,Ortonville city
+MN,2730302,Hoyt Lakes,incorporated,25,A,2020,"Hoyt Lakes, MN",0,258,0,0,Hoyt Lakes city
+MN,2760808,Slayton,incorporated,25,A,2013,"Slayton, MN",0,259,0,0,Slayton city
+MN,2712502,Coleraine,incorporated,25,A,2006,"Coleraine, MN",0,260,0,0,Coleraine city
+MN,2720114,Eyota,incorporated,25,A,2006,"Eyota, MN",0,261,0,0,Eyota city
+MN,2744566,Mountain Lake,incorporated,25,A,1999,"Mountain Lake, MN",0,262,0,0,Mountain Lake city
+MN,2753998,Rice,incorporated,25,A,1975,"Rice, MN",0,263,0,0,Rice city
+MN,2706580,Blooming Prairie,incorporated,25,A,1974,"Blooming Prairie, MN",0,264,0,0,Blooming Prairie city
+MN,2746348,Nisswa,incorporated,25,A,1967,"Nisswa, MN",0,265,0,0,Nisswa city
+MN,2711800,Clearwater,incorporated,25,A,1922,"Clearwater, MN",0,266,0,0,Clearwater city
+MN,2729294,Hinckley,incorporated,25,A,1904,"Hinckley, MN",0,267,0,0,Hinckley city
+MN,2768764,Waverly,incorporated,25,A,1900,"Waverly, MN",0,268,0,0,Waverly city
+MN,2732840,Kenyon,incorporated,25,A,1894,"Kenyon, MN",0,269,0,0,Kenyon city
+MN,2736728,Lester Prairie,incorporated,25,A,1894,"Lester Prairie, MN",0,270,0,0,Lester Prairie city
+MN,2756284,Rushford,incorporated,25,A,1860,"Rushford, MN",0,271,0,0,Rushford city
+MN,2760250,Silver Bay,incorporated,25,A,1857,"Silver Bay, MN",0,272,0,0,Silver Bay city
+MN,2768224,Warroad,incorporated,25,A,1830,"Warroad, MN",0,273,0,0,Warroad city
+MN,2748598,Oronoco,incorporated,25,A,1802,"Oronoco, MN",0,274,0,0,Oronoco city
+MN,2748796,Osakis,incorporated,25,A,1771,"Osakis, MN",0,275,0,0,Osakis city
+MN,2707282,Braham,incorporated,25,A,1769,"Braham, MN",0,276,0,0,Braham city
+MN,2768584,Waterville,incorporated,25,A,1750,"Waterville, MN",0,277,0,0,Waterville city
+MN,2740256,Maple Plain,incorporated,25,A,1743,"Maple Plain, MN",0,278,0,0,Maple Plain city
+MN,2738006,Long Lake,incorporated,25,A,1741,"Long Lake, MN",0,279,0,0,Long Lake city
+MN,2700172,Ada,incorporated,25,A,1740,"Ada, MN",0,280,0,0,Ada city
+MN,2734316,Lakefield,incorporated,25,A,1735,"Lakefield, MN",0,281,0,0,Lakefield city
+MN,2762014,Spring Park,incorporated,25,A,1734,"Spring Park, MN",0,282,0,0,Spring Park city
+MN,2717126,Dundas,incorporated,25,A,1712,"Dundas, MN",0,283,0,0,Dundas city
+MN,2734622,Lakeland,incorporated,25,A,1710,"Lakeland, MN",0,284,0,0,Lakeland city
+MN,2740310,Mapleton,incorporated,25,A,1710,"Mapleton, MN",0,285,0,0,Mapleton city
+MN,2762320,Stacy,incorporated,25,A,1703,"Stacy, MN",0,286,0,0,Stacy city
+MN,2709604,Canby,incorporated,25,A,1695,"Canby, MN",0,287,0,0,Canby city
+MN,2723714,Gilbert,incorporated,25,A,1687,"Gilbert, MN",0,288,0,0,Gilbert city
+MN,2754934,Rock Creek,incorporated,25,A,1682,"Rock Creek, MN",0,289,0,0,Rock Creek city
+MN,2702872,Aurora,incorporated,25,A,1678,"Aurora, MN",0,290,0,0,Aurora city
+MN,2703070,Avon,incorporated,25,A,1618,"Avon, MN",0,291,0,0,Avon city
+MN,2768170,Warren,incorporated,25,A,1605,"Warren, MN",0,292,0,0,Warren city
+MN,2736800,Lewiston,incorporated,25,A,1533,"Lewiston, MN",0,293,0,0,Lewiston city
+MN,2739266,Madison,incorporated,25,A,1518,"Madison, MN",0,294,0,0,Madison city
+MN,2754268,Richmond,incorporated,25,A,1475,"Richmond, MN",0,295,0,0,Richmond city
+MN,2714878,Dassel,incorporated,25,A,1472,"Dassel, MN",0,296,0,0,Dassel city
+MN,2714968,Dawson,incorporated,25,A,1466,"Dawson, MN",0,297,0,0,Dawson city
+MN,2769844,Wheaton,incorporated,25,A,1460,"Wheaton, MN",0,298,0,0,Wheaton city
+MN,2765164,Tonka Bay,incorporated,25,A,1442,"Tonka Bay, MN",0,299,0,0,Tonka Bay city
+MN,2721986,Fosston,incorporated,25,A,1434,"Fosston, MN",0,300,0,0,Fosston city
+MN,2711548,Clara City,incorporated,25,A,1423,"Clara City, MN",0,301,0,0,Clara City city
+MN,2750776,Pierz,incorporated,25,A,1418,"Pierz, MN",0,302,0,0,Pierz city
+MN,2703106,Babbitt,incorporated,25,A,1397,"Babbitt, MN",0,303,0,0,Babbitt city
+MN,2701864,Appleton,incorporated,25,A,1392,"Appleton, MN",0,304,0,0,Appleton city
+MN,2770924,Winnebago,incorporated,25,A,1391,"Winnebago, MN",0,305,0,0,Winnebago city
+MN,2722958,Fulda,incorporated,25,A,1371,"Fulda, MN",0,306,0,0,Fulda city
+MN,2743126,Minneota,incorporated,25,A,1366,"Minneota, MN",0,307,0,0,Minneota city
+MN,2762500,Starbuck,incorporated,25,A,1365,"Starbuck, MN",0,308,0,0,Starbuck city
+MN,2727872,Hayfield,incorporated,25,A,1364,"Hayfield, MN",0,309,0,0,Hayfield city
+MN,2741660,Menahga,incorporated,25,A,1340,"Menahga, MN",0,310,0,0,Menahga city
+MN,2753476,Red Lake Falls,incorporated,25,A,1339,"Red Lake Falls, MN",0,311,0,0,Red Lake Falls city
+MN,2724992,Grand Marais,incorporated,25,A,1337,"Grand Marais, MN",0,312,0,0,Grand Marais city
+MN,2722472,Frazee,incorporated,25,A,1335,"Frazee, MN",0,313,0,0,Frazee city
+MN,2771122,Winthrop,incorporated,25,A,1332,"Winthrop, MN",0,314,0,0,Winthrop city
+MN,2752450,Preston,incorporated,25,A,1322,"Preston, MN",0,315,0,0,Preston city
+MN,2741426,Medford,incorporated,25,A,1315,"Medford, MN",0,316,0,0,Medford city
+MN,2724182,Glyndon,incorporated,25,A,1306,"Glyndon, MN",0,317,0,0,Glyndon city
+MN,2753890,Renville,incorporated,25,A,1301,"Renville, MN",0,318,0,0,Renville city
+MN,2746060,New York Mills,incorporated,25,A,1294,"New York Mills, MN",0,319,0,0,New York Mills city
+MN,2703196,Bagley,incorporated,25,A,1285,"Bagley, MN",0,320,0,0,Bagley city
+MN,2756176,Royalton,incorporated,25,A,1281,"Royalton, MN",0,321,0,0,Royalton city
+MN,2718458,Elbow Lake,incorporated,25,A,1276,"Elbow Lake, MN",0,322,0,0,Elbow Lake city
+MN,2718152,Edgerton,incorporated,25,A,1258,"Edgerton, MN",0,323,0,0,Edgerton city
+MN,2761852,Spring Grove,incorporated,25,A,1256,"Spring Grove, MN",0,324,0,0,Spring Grove city
+MN,2745682,New London,incorporated,25,A,1252,"New London, MN",0,325,0,0,New London city
+MN,2720222,Fairfax,incorporated,25,A,1250,"Fairfax, MN",0,326,0,0,Fairfax city
+MN,2724398,Goodhue,incorporated,25,A,1250,"Goodhue, MN",0,327,0,0,Goodhue city
+MN,2739320,Madison Lake,incorporated,25,A,1247,"Madison Lake, MN",0,328,0,0,Madison Lake city
+MN,2739392,Mahnomen,incorporated,25,A,1240,"Mahnomen, MN",0,329,0,0,Mahnomen city
+MN,2745862,New Richland,incorporated,25,A,1229,"New Richland, MN",0,330,0,0,New Richland city
+MN,2700262,Adrian,incorporated,25,A,1194,"Adrian, MN",0,331,0,0,Adrian city
+MN,2715616,Dellwood,incorporated,25,A,1171,"Dellwood, MN",0,332,0,0,Dellwood city
+MN,2713564,Cottonwood,incorporated,25,A,1149,"Cottonwood, MN",0,333,0,0,Cottonwood city
+MN,2746150,Nicollet,incorporated,25,A,1143,"Nicollet, MN",0,334,0,0,Nicollet city
+MN,2759314,Shafer,incorporated,25,A,1142,"Shafer, MN",0,335,0,0,Shafer city
+MN,2766046,Tyler,incorporated,25,A,1138,"Tyler, MN",0,336,0,0,Tyler city
+MN,2725010,Grand Meadow,incorporated,25,A,1127,"Grand Meadow, MN",0,337,0,0,Grand Meadow city
+MN,2702692,Atwater,incorporated,25,A,1124,"Atwater, MN",0,338,0,0,Atwater city
+MN,2718530,Elgin,incorporated,25,A,1115,"Elgin, MN",0,339,0,0,Elgin city
+MN,2767972,Wanamingo,incorporated,25,A,1113,"Wanamingo, MN",0,340,0,0,Wanamingo city
+MN,2761690,Spicer,incorporated,25,A,1112,"Spicer, MN",0,341,0,0,Spicer city
+MN,2727278,Harris,incorporated,25,A,1111,"Harris, MN",0,342,0,0,Harris city
+MN,2739986,Mantorville,incorporated,25,A,1111,"Mantorville, MN",0,343,0,0,Mantorville city
+MN,2765668,Truman,incorporated,25,A,1092,"Truman, MN",0,344,0,0,Truman city
+MN,2759620,Sherburn,incorporated,25,A,1058,"Sherburn, MN",0,345,0,0,Sherburn city
+MN,2734928,Lake Shore,incorporated,25,A,1056,"Lake Shore, MN",0,346,0,0,Lake Shore city
+MN,2764318,Taylors Falls,incorporated,25,A,1055,"Taylors Falls, MN",0,347,0,0,Taylors Falls city
+MN,2727188,Harmony,incorporated,25,A,1043,"Harmony, MN",0,348,0,0,Harmony city
+MN,2734865,Lake St. Croix Beach,incorporated,25,A,1043,"Lake St. Croix Beach, MN",0,349,0,0,Lake St. Croix Beach city
+MN,2718134,Eden Valley,incorporated,25,A,1027,"Eden Valley, MN",0,350,0,0,Eden Valley city
+MN,2749732,Parkers Prairie,incorporated,25,A,1020,"Parkers Prairie, MN",0,351,0,0,Parkers Prairie city
+MN,2728124,Hector,incorporated,25,A,1012,"Hector, MN",0,352,0,0,Hector city
+MN,2706076,Bird Island,incorporated,25,A,1005,"Bird Island, MN",0,353,0,0,Bird Island city
+MN,2730230,Houston,incorporated,25,A,997,"Houston, MN",0,354,0,0,Houston city
+MN,2768620,Watkins,incorporated,25,A,991,"Watkins, MN",0,355,0,0,Watkins city
+MN,2758936,Scanlon,incorporated,25,A,987,"Scanlon, MN",0,356,0,0,Scanlon city
+MN,2717630,East Gull Lake,incorporated,25,A,986,"East Gull Lake, MN",0,357,0,0,East Gull Lake city
+MN,2732570,Keewatin,incorporated,25,A,984,"Keewatin, MN",0,358,0,0,Keewatin city
+MN,2744980,Nashwauk,incorporated,25,A,970,"Nashwauk, MN",0,359,0,0,Nashwauk city
+MN,2704024,Baudette,incorporated,25,A,966,"Baudette, MN",0,360,0,0,Baudette city
+MN,2767792,Walker,incorporated,25,A,966,"Walker, MN",0,361,0,0,Walker city
+MN,2706148,Biwabik,incorporated,25,A,961,"Biwabik, MN",0,362,0,0,Biwabik city
+MN,2728394,Henderson,incorporated,25,A,960,"Henderson, MN",0,363,0,0,Henderson city
+MN,2729258,Hilltop,incorporated,25,A,958,"Hilltop, MN",0,364,0,0,Hilltop city
+MN,2736620,Le Roy,incorporated,25,A,957,"Le Roy, MN",0,365,0,0,Le Roy city
+MN,2708524,Buhl,incorporated,25,A,952,"Buhl, MN",0,366,0,0,Buhl city
+MN,2744296,Morristown,incorporated,25,A,949,"Morristown, MN",0,367,0,0,Morristown city
+MN,2710018,Carlton,incorporated,25,A,948,"Carlton, MN",0,368,0,0,Carlton city
+MN,2751280,Pine River,incorporated,25,A,911,"Pine River, MN",0,369,0,0,Pine River city
+MN,2715310,Deer River,incorporated,25,A,909,"Deer River, MN",0,370,0,0,Deer River city
+MN,2726576,Hallock,incorporated,25,A,906,"Hallock, MN",0,371,0,0,Hallock city
+MN,2744116,Morgan,incorporated,25,A,888,"Morgan, MN",0,372,0,0,Morgan city
+MN,2741282,Mazeppa,incorporated,25,A,874,"Mazeppa, MN",0,373,0,0,Mazeppa city
+MN,2760376,Silver Lake,incorporated,25,A,866,"Silver Lake, MN",0,374,0,0,Silver Lake city
+MN,2706058,Birchwood Village,incorporated,25,A,863,"Birchwood Village, MN",0,375,0,0,Birchwood Village city
+MN,2726936,Hancock,incorporated,25,A,863,"Hancock, MN",0,376,0,0,Hancock city
+MN,2769304,West Concord,incorporated,25,A,861,"West Concord, MN",0,377,0,0,West Concord city
+MN,2703970,Battle Lake,incorporated,25,A,857,"Battle Lake, MN",0,378,0,0,Battle Lake city
+MN,2728520,Henning,incorporated,25,A,854,"Henning, MN",0,379,0,0,Henning city
+MN,2711656,Clarkfield,incorporated,25,A,852,"Clarkfield, MN",0,380,0,0,Clarkfield city
+MN,2706256,Blackduck,incorporated,25,A,845,"Blackduck, MN",0,381,0,0,Blackduck city
+MN,2719286,Emily,incorporated,25,A,843,"Emily, MN",0,382,0,0,Emily city
+MN,2735414,Landfall,incorporated,25,A,843,"Landfall, MN",0,383,0,0,Landfall city
+MN,2708110,Browerville,incorporated,25,A,839,"Browerville, MN",0,384,0,0,Browerville city
+MN,2707048,Bovey,incorporated,25,A,829,"Bovey, MN",0,385,0,0,Bovey city
+MN,2737016,Lilydale,incorporated,25,A,809,"Lilydale, MN",0,386,0,0,Lilydale city
+MN,2762896,Stockton,incorporated,25,A,809,"Stockton, MN",0,387,0,0,Stockton city
+MN,2732876,Kerkhoven,incorporated,25,A,805,"Kerkhoven, MN",0,388,0,0,Kerkhoven city
+MN,2720978,Fertile,incorporated,25,A,804,"Fertile, MN",0,389,0,0,Fertile city
+MN,2731472,Isle,incorporated,25,A,803,"Isle, MN",0,390,0,0,Isle city
+MN,2733164,Kimball,incorporated,25,A,799,"Kimball, MN",0,391,0,0,Kimball city
+MN,2758090,St. Stephen,incorporated,25,A,797,"St. Stephen, MN",0,392,0,0,St. Stephen city
+MN,2735288,Lamberton,incorporated,25,A,792,"Lamberton, MN",0,393,0,0,Lamberton city
+MN,2756302,Rushford Village,incorporated,25,A,790,"Rushford Village, MN",0,394,0,0,Rushford Village city
+MN,2723678,Gibbon,incorporated,25,A,784,"Gibbon, MN",0,395,0,0,Gibbon city
+MN,2748310,Onamia,incorporated,25,A,784,"Onamia, MN",0,396,0,0,Onamia city
+MN,2716264,Dover,incorporated,25,A,782,"Dover, MN",0,397,0,0,Dover city
+MN,2753296,Raymond,incorporated,25,A,782,"Raymond, MN",0,398,0,0,Raymond city
+MN,2769250,Westbrook,incorporated,25,A,758,"Westbrook, MN",0,399,0,0,Westbrook city
+MN,2767846,Walnut Grove,incorporated,25,A,751,"Walnut Grove, MN",0,400,0,0,Walnut Grove city
+MN,2756824,St. Clair,incorporated,25,A,750,"St. Clair, MN",0,401,0,0,St. Clair city
+MN,2711872,Cleveland,incorporated,25,A,747,"Cleveland, MN",0,402,0,0,Cleveland city
+MN,2726864,Hampton,incorporated,25,A,744,"Hampton, MN",0,403,0,0,Hampton city
+MN,2729582,Holdingford,incorporated,25,A,743,"Holdingford, MN",0,404,0,0,Holdingford city
+MN,2759152,Sebeka,incorporated,25,A,741,"Sebeka, MN",0,405,0,0,Sebeka city
+MN,2767396,Wabasso,incorporated,25,A,739,"Wabasso, MN",0,406,0,0,Wabasso city
+MN,2704762,Belgrade,incorporated,25,A,738,"Belgrade, MN",0,407,0,0,Belgrade city
+MN,2713582,Courtland,incorporated,25,A,734,"Courtland, MN",0,408,0,0,Courtland city
+MN,2708254,Brownton,incorporated,25,A,731,"Brownton, MN",0,409,0,0,Brownton city
+MN,2734784,Lake Park,incorporated,25,A,728,"Lake Park, MN",0,410,0,0,Lake Park city
+MN,2725918,Greenwood,incorporated,25,A,726,"Greenwood, MN",0,411,0,0,Greenwood city
+MN,2735450,Lanesboro,incorporated,25,A,724,"Lanesboro, MN",0,412,0,0,Lanesboro city
+MN,2765938,Twin Valley,incorporated,25,A,723,"Twin Valley, MN",0,413,0,0,Twin Valley city
+MN,2738888,Mabel,incorporated,25,A,716,"Mabel, MN",0,414,0,0,Mabel city
+MN,2732462,Kasota,incorporated,25,A,714,"Kasota, MN",0,415,0,0,Kasota city
+MN,2732444,Karlstad,incorporated,25,A,710,"Karlstad, MN",0,416,0,0,Karlstad city
+MN,2769070,Welcome,incorporated,25,A,710,"Welcome, MN",0,417,0,0,Welcome city
+MN,2719160,Elysian,incorporated,25,A,708,"Elysian, MN",0,418,0,0,Elysian city
+MN,2765470,Trimont,incorporated,25,A,705,"Trimont, MN",0,419,0,0,Trimont city
+MN,2729474,Hoffman,incorporated,25,A,698,"Hoffman, MN",0,420,0,0,Hoffman city
+MN,2711674,Clarks Grove,incorporated,25,A,694,"Clarks Grove, MN",0,421,0,0,Clarks Grove city
+MN,2734100,Lake Benton,incorporated,25,A,687,"Lake Benton, MN",0,422,0,0,Lake Benton city
+MN,2729204,Hills,incorporated,25,A,686,"Hills, MN",0,423,0,0,Hills city
+MN,2700190,Adams,incorporated,25,A,683,"Adams, MN",0,424,0,0,Adams city
+MN,2725604,Greenbush,incorporated,25,A,682,"Greenbush, MN",0,425,0,0,Greenbush city
+MN,2744422,Motley,incorporated,25,A,680,"Motley, MN",0,426,0,0,Motley city
+MN,2755276,Rollingstone,incorporated,25,A,678,"Rollingstone, MN",0,427,0,0,Rollingstone city
+MN,2718746,Ellendale,incorporated,25,A,676,"Ellendale, MN",0,428,0,0,Ellendale city
+MN,2710252,Cass Lake,incorporated,25,A,675,"Cass Lake, MN",0,429,0,0,Cass Lake city
+MN,2722652,Freeport,incorporated,25,A,675,"Freeport, MN",0,430,0,0,Freeport city
+MN,2740562,Marine on St. Croix,incorporated,25,A,664,"Marine on St. Croix, MN",0,431,0,0,Marine on St. Croix city
+MN,2711602,Clarissa,incorporated,25,A,661,"Clarissa, MN",0,432,0,0,Clarissa city
+MN,2743198,Minnesota Lake,incorporated,25,A,661,"Minnesota Lake, MN",0,433,0,0,Minnesota Lake city
+MN,2708488,Buffalo Lake,incorporated,25,A,660,"Buffalo Lake, MN",0,434,0,0,Buffalo Lake city
+MN,2735648,La Prairie,incorporated,25,A,653,"La Prairie, MN",0,435,0,0,La Prairie city
+MN,2764048,Taconite,incorporated,25,A,651,"Taconite, MN",0,436,0,0,Taconite city
+MN,2738222,Loretto,incorporated,25,A,646,"Loretto, MN",0,437,0,0,Loretto city
+MN,2711764,Clear Lake,incorporated,25,A,641,"Clear Lake, MN",0,438,0,0,Clear Lake city
+MN,2708164,Brownsdale,incorporated,25,A,633,"Brownsdale, MN",0,439,0,0,Brownsdale city
+MN,2710576,Center City,incorporated,25,A,629,"Center City, MN",0,440,0,0,Center City city
+MN,2749210,Ottertail,incorporated,25,A,629,"Ottertail, MN",0,441,0,0,Ottertail city
+MN,2708092,Brooten,incorporated,25,A,626,"Brooten, MN",0,442,0,0,Brooten city
+MN,2726126,Grove City,incorporated,25,A,624,"Grove City, MN",0,443,0,0,Grove City city
+MN,2703628,Barnum,incorporated,25,A,620,"Barnum, MN",0,444,0,0,Barnum city
+MN,2756554,Sabin,incorporated,25,A,619,"Sabin, MN",0,445,0,0,Sabin city
+MN,2728430,Hendricks,incorporated,25,A,616,"Hendricks, MN",0,446,0,0,Hendricks city
+MN,2729096,Hill City,incorporated,25,A,613,"Hill City, MN",0,447,0,0,Hill City city
+MN,2731760,Jasper,incorporated,25,A,610,"Jasper, MN",0,448,0,0,Jasper city
+MN,2740418,Marble,incorporated,25,A,610,"Marble, MN",0,449,0,0,Marble city
+MN,2753080,Randall,incorporated,25,A,607,"Randall, MN",0,450,0,0,Randall city
+MN,2739050,McIntosh,incorporated,25,A,606,"McIntosh, MN",0,451,0,0,McIntosh city
+MN,2719898,Evansville,incorporated,25,A,603,"Evansville, MN",0,452,0,0,Evansville city
+MN,2728700,Heron Lake,incorporated,25,A,602,"Heron Lake, MN",0,453,0,0,Heron Lake city
+MN,2708992,Butterfield,incorporated,25,A,601,"Butterfield, MN",0,454,0,0,Butterfield city
+MN,2703250,Balaton,incorporated,25,A,595,"Balaton, MN",0,455,0,0,Balaton city
+MN,2762698,Stephen,incorporated,25,A,592,"Stephen, MN",0,456,0,0,Stephen city
+MN,2725658,Green Isle,incorporated,25,A,591,"Green Isle, MN",0,457,0,0,Green Isle city
+MN,2700838,Alden,incorporated,25,A,583,"Alden, MN",0,458,0,0,Alden city
+MN,2731274,Ironton,incorporated,25,A,576,"Ironton, MN",0,459,0,0,Ironton city
+MN,2732372,Kandiyohi,incorporated,25,A,569,"Kandiyohi, MN",0,460,0,0,Kandiyohi city
+MN,2753134,Ranier,incorporated,25,A,569,"Ranier, MN",0,461,0,0,Ranier city
+MN,2724056,Glenville,incorporated,25,A,568,"Glenville, MN",0,462,0,0,Glenville city
+MN,2708218,Brownsville,incorporated,25,A,566,"Brownsville, MN",0,463,0,0,Brownsville city
+MN,2726666,Hamburg,incorporated,25,A,566,"Hamburg, MN",0,464,0,0,Hamburg city
+MN,2726630,Halstad,incorporated,25,A,564,"Halstad, MN",0,465,0,0,Halstad city
+MN,2702728,Audubon,incorporated,25,A,560,"Audubon, MN",0,466,0,0,Audubon city
+MN,2705482,Bertha,incorporated,25,A,560,"Bertha, MN",0,467,0,0,Bertha city
+MN,2724506,Good Thunder,incorporated,25,A,560,"Good Thunder, MN",0,468,0,0,Good Thunder city
+MN,2731526,Ivanhoe,incorporated,25,A,560,"Ivanhoe, MN",0,469,0,0,Ivanhoe city
+MN,2721824,Foreston,incorporated,25,A,559,"Foreston, MN",0,470,0,0,Foreston city
+MN,2708200,Browns Valley,incorporated,25,A,558,"Browns Valley, MN",0,471,0,0,Browns Valley city
+MN,2729510,Hokah,incorporated,25,A,553,"Hokah, MN",0,472,0,0,Hokah city
+MN,2737592,Littlefork,incorporated,25,A,553,"Littlefork, MN",0,473,0,0,Littlefork city
+MN,2718998,Elmore,incorporated,25,A,549,"Elmore, MN",0,474,0,0,Elmore city
+MN,2717342,Eagle Bend,incorporated,25,A,546,"Eagle Bend, MN",0,475,0,0,Eagle Bend city
+MN,2702134,Argyle,incorporated,25,A,544,"Argyle, MN",0,476,0,0,Argyle city
+MN,2701324,Amboy,incorporated,25,A,535,"Amboy, MN",0,477,0,0,Amboy city
+MN,2713006,Cook,incorporated,25,A,534,"Cook, MN",0,478,0,0,Cook city
+MN,2724758,Graceville,incorporated,25,A,529,"Graceville, MN",0,479,0,0,Graceville city
+MN,2723318,Gem Lake,incorporated,25,A,528,"Gem Lake, MN",0,480,0,0,Gem Lake city
+MN,2715346,Deerwood,incorporated,25,A,526,"Deerwood, MN",0,481,0,0,Deerwood city
+MN,2738654,Lyle,incorporated,25,A,522,"Lyle, MN",0,482,0,0,Lyle city
+MN,2763544,Sunfish Lake,incorporated,25,A,522,"Sunfish Lake, MN",0,483,0,0,Sunfish Lake city
+MN,2752558,Prinsburg,incorporated,25,A,520,"Prinsburg, MN",0,484,0,0,Prinsburg city
+MN,2721338,Floodwood,incorporated,25,A,517,"Floodwood, MN",0,485,0,0,Floodwood city
+MN,2770366,Willernie,incorporated,25,A,515,"Willernie, MN",0,486,0,0,Willernie city
+MN,2711566,Claremont,incorporated,25,A,513,"Claremont, MN",0,487,0,0,Claremont city
+MN,2766874,Verndale,incorporated,25,A,511,"Verndale, MN",0,488,0,0,Verndale city
+MN,2756572,Sacred Heart,incorporated,25,A,510,"Sacred Heart, MN",0,489,0,0,Sacred Heart city
+MN,2723354,Geneva,incorporated,25,A,508,"Geneva, MN",0,490,0,0,Geneva city
+MN,2713420,Cosmos,incorporated,25,A,507,"Cosmos, MN",0,491,0,0,Cosmos city
+MN,2750902,Pillager,incorporated,25,A,507,"Pillager, MN",0,492,0,0,Pillager city
+MN,2707660,Brewster,incorporated,25,A,506,"Brewster, MN",0,493,0,0,Brewster city
+MN,2707336,Brandon,incorporated,25,A,501,"Brandon, MN",0,494,0,0,Brandon city
+MN,2756014,Rothsay,incorporated,25,A,498,"Rothsay, MN",0,495,0,0,Rothsay city
+MN,2709964,Carlos,incorporated,25,A,497,"Carlos, MN",0,496,0,0,Carlos city
+MN,2718836,Ellsworth,incorporated,25,A,497,"Ellsworth, MN",0,497,0,0,Ellsworth city
+MN,2722364,Franklin,incorporated,25,A,493,"Franklin, MN",0,498,0,0,Franklin city
+MN,2733920,Lafayette,incorporated,25,A,492,"Lafayette, MN",0,499,0,0,Lafayette city
+MN,2731832,Jenkins,incorporated,25,A,490,"Jenkins, MN",0,500,0,0,Jenkins city
+MN,2762788,Stewart,incorporated,25,A,489,"Stewart, MN",0,501,0,0,Stewart city
+MN,2733056,Kiester,incorporated,25,A,488,"Kiester, MN",0,502,0,0,Kiester city
+MN,2766334,Upsala,incorporated,25,A,487,"Upsala, MN",0,503,0,0,Upsala city
+MN,2750344,Pennock,incorporated,25,A,479,"Pennock, MN",0,504,0,0,Pennock city
+MN,2705554,Bethel,incorporated,25,A,476,"Bethel, MN",0,505,0,0,Bethel city
+MN,2766136,Ulen,incorporated,25,A,476,"Ulen, MN",0,506,0,0,Ulen city
+MN,2701234,Altura,incorporated,25,A,471,"Altura, MN",0,507,0,0,Altura city
+MN,2702422,Ashby,incorporated,25,A,469,"Ashby, MN",0,508,0,0,Ashby city
+MN,2753098,Randolph,incorporated,25,A,466,"Randolph, MN",0,509,0,0,Randolph city
+MN,2711746,Clearbrook,incorporated,25,A,464,"Clearbrook, MN",0,510,0,0,Clearbrook city
+MN,2745556,New Germany,incorporated,25,A,464,"New Germany, MN",0,511,0,0,New Germany city
+MN,2714716,Danube,incorporated,25,A,458,"Danube, MN",0,512,0,0,Danube city
+MN,2752882,Racine,incorporated,25,A,458,"Racine, MN",0,513,0,0,Racine city
+MN,2721032,Fifty Lakes,incorporated,25,A,443,"Fifty Lakes, MN",0,514,0,0,Fifty Lakes city
+MN,2766802,Vermillion,incorporated,25,A,441,"Vermillion, MN",0,515,0,0,Vermillion city
+MN,2738708,Lynd,incorporated,25,A,436,"Lynd, MN",0,516,0,0,Lynd city
+MN,2763220,Sturgeon Lake,incorporated,25,A,436,"Sturgeon Lake, MN",0,517,0,0,Sturgeon Lake city
+MN,2771950,Wykoff,incorporated,25,A,432,"Wykoff, MN",0,518,0,0,Wykoff city
+MN,2742398,Miltona,incorporated,25,A,431,"Miltona, MN",0,519,0,0,Miltona city
+MN,2765272,Tower,incorporated,25,A,430,"Tower, MN",0,520,0,0,Tower city
+MN,2703160,Badger,incorporated,25,A,429,"Badger, MN",0,521,0,0,Badger city
+MN,2742146,Milan,incorporated,25,A,428,"Milan, MN",0,522,0,0,Milan city
+MN,2771788,Wrenshall,incorporated,25,A,428,"Wrenshall, MN",0,523,0,0,Wrenshall city
+MN,2721158,Fisher,incorporated,25,A,422,"Fisher, MN",0,524,0,0,Fisher city
+MN,2732642,Kellogg,incorporated,25,A,415,"Kellogg, MN",0,525,0,0,Kellogg city
+MN,2748202,Oklee,incorporated,25,A,413,"Oklee, MN",0,526,0,0,Oklee city
+MN,2745376,New Auburn,incorporated,25,A,411,"New Auburn, MN",0,527,0,0,New Auburn city
+MN,2744368,Morton,incorporated,25,A,410,"Morton, MN",0,528,0,0,Morton city
+MN,2722094,Fountain,incorporated,25,A,409,"Fountain, MN",0,529,0,0,Fountain city
+MN,2768674,Waubun,incorporated,25,A,409,"Waubun, MN",0,530,0,0,Waubun city
+MN,2711440,Chokio,incorporated,25,A,405,"Chokio, MN",0,531,0,0,Chokio city
+MN,2700496,Akeley,incorporated,25,A,404,"Akeley, MN",0,532,0,0,Akeley city
+MN,2719700,Erskine,incorporated,25,A,403,"Erskine, MN",0,533,0,0,Erskine city
+MN,2705698,Bigfork,incorporated,25,A,400,"Bigfork, MN",0,534,0,0,Bigfork city
+MN,2755600,Rose Creek,incorporated,25,A,397,"Rose Creek, MN",0,535,0,0,Rose Creek city
+MN,2712772,Comfrey,incorporated,25,A,392,"Comfrey, MN",0,536,0,0,Comfrey city
+MN,2753782,Remer,incorporated,25,A,391,"Remer, MN",0,537,0,0,Remer city
+MN,2701252,Alvarado,incorporated,25,A,388,"Alvarado, MN",0,538,0,0,Alvarado city
+MN,2748166,Ogilvie,incorporated,25,A,388,"Ogilvie, MN",0,539,0,0,Ogilvie city
+MN,2711980,Clinton,incorporated,25,A,386,"Clinton, MN",0,540,0,0,Clinton city
+MN,2728646,Herman,incorporated,25,A,384,"Herman, MN",0,541,0,0,Herman city
+MN,2739014,McGregor,incorporated,25,A,384,"McGregor, MN",0,542,0,0,McGregor city
+MN,2770492,Willow River,incorporated,25,A,384,"Willow River, MN",0,543,0,0,Willow River city
+MN,2771500,Woodland,incorporated,25,A,384,"Woodland, MN",0,544,0,0,Woodland city
+MN,2727008,Hanska,incorporated,25,A,382,"Hanska, MN",0,545,0,0,Hanska city
+MN,2771446,Wood Lake,incorporated,25,A,381,"Wood Lake, MN",0,546,0,0,Wood Lake city
+MN,2745340,Nevis,incorporated,25,A,377,"Nevis, MN",0,547,0,0,Nevis city
+MN,2751316,Pine Springs,incorporated,25,A,377,"Pine Springs, MN",0,548,0,0,Pine Springs city
+MN,2756086,Round Lake,incorporated,25,A,377,"Round Lake, MN",0,549,0,0,Round Lake city
+MN,2723660,Ghent,incorporated,25,A,376,"Ghent, MN",0,550,0,0,Ghent city
+MN,2719340,Emmons,incorporated,25,A,367,"Emmons, MN",0,551,0,0,Emmons city
+MN,2703682,Barrett,incorporated,25,A,366,"Barrett, MN",0,552,0,0,Barrett city
+MN,2756338,Rushmore,incorporated,25,A,365,"Rushmore, MN",0,553,0,0,Rushmore city
+MN,2735378,Lancaster,incorporated,25,A,364,"Lancaster, MN",0,554,0,0,Lancaster city
+MN,2745772,New Munich,incorporated,25,A,356,"New Munich, MN",0,555,0,0,New Munich city
+MN,2766172,Underwood,incorporated,25,A,356,"Underwood, MN",0,556,0,0,Underwood city
+MN,2757292,St. Marys Point,incorporated,25,A,353,"St. Marys Point, MN",0,557,0,0,St. Marys Point city
+MN,2745520,Newfolden,incorporated,25,A,352,"Newfolden, MN",0,558,0,0,Newfolden city
+MN,2723120,Garfield,incorporated,25,A,349,"Garfield, MN",0,559,0,0,Garfield city
+MN,2731796,Jeffers,incorporated,25,A,349,"Jeffers, MN",0,560,0,0,Jeffers city
+MN,2707678,Bricelyn,incorporated,25,A,348,"Bricelyn, MN",0,561,0,0,Bricelyn city
+MN,2714842,Darwin,incorporated,25,A,348,"Darwin, MN",0,562,0,0,Darwin city
+MN,2756428,Russell,incorporated,25,A,348,"Russell, MN",0,563,0,0,Russell city
+MN,2766766,Vergas,incorporated,25,A,348,"Vergas, MN",0,564,0,0,Vergas city
+MN,2734658,Lakeland Shores,incorporated,25,A,339,"Lakeland Shores, MN",0,565,0,0,Lakeland Shores city
+MN,2737970,Long Beach,incorporated,25,A,338,"Long Beach, MN",0,566,0,0,Long Beach city
+MN,2741462,Medicine Lake,incorporated,25,A,337,"Medicine Lake, MN",0,567,0,0,Medicine Lake city
+MN,2709316,Calumet,incorporated,25,A,334,"Calumet, MN",0,568,0,0,Calumet city
+MN,2738366,Lowry,incorporated,25,A,334,"Lowry, MN",0,569,0,0,Lowry city
+MN,2770582,Wilmont,incorporated,25,A,332,"Wilmont, MN",0,570,0,0,Wilmont city
+MN,2702548,Askov,incorporated,25,A,331,"Askov, MN",0,571,0,0,Askov city
+MN,2715184,Deer Creek,incorporated,25,A,330,"Deer Creek, MN",0,572,0,0,Deer Creek city
+MN,2726000,Grey Eagle,incorporated,25,A,330,"Grey Eagle, MN",0,573,0,0,Grey Eagle city
+MN,2751460,Plato,incorporated,25,A,329,"Plato, MN",0,574,0,0,Plato city
+MN,2766910,Vernon Center,incorporated,25,A,328,"Vernon Center, MN",0,575,0,0,Vernon Center city
+MN,2763778,Swanville,incorporated,25,A,326,"Swanville, MN",0,576,0,0,Swanville city
+MN,2715886,Dexter,incorporated,25,A,324,"Dexter, MN",0,577,0,0,Dexter city
+MN,2758306,Sanborn,incorporated,25,A,323,"Sanborn, MN",0,578,0,0,Sanborn city
+MN,2727404,Hartland,incorporated,25,A,321,"Hartland, MN",0,579,0,0,Hartland city
+MN,2741210,Maynard,incorporated,25,A,319,"Maynard, MN",0,580,0,0,Maynard city
+MN,2757238,St. Martin,incorporated,25,A,312,"St. Martin, MN",0,581,0,0,St. Martin city
+MN,2709802,Canton,incorporated,25,A,310,"Canton, MN",0,582,0,0,Canton city
+MN,2729636,Hollandale,incorporated,25,A,308,"Hollandale, MN",0,583,0,0,Hollandale city
+MN,2708416,Buckman,incorporated,25,A,307,"Buckman, MN",0,584,0,0,Buckman city
+MN,2744818,Murdock,incorporated,25,A,306,"Murdock, MN",0,585,0,0,Murdock city
+MN,2714446,Cyrus,incorporated,25,A,305,"Cyrus, MN",0,586,0,0,Cyrus city
+MN,2741912,Middle River,incorporated,25,A,304,"Middle River, MN",0,587,0,0,Middle River city
+MN,2710792,Ceylon,incorporated,25,A,303,"Ceylon, MN",0,588,0,0,Ceylon city
+MN,2714428,Cuyuna,incorporated,25,A,296,"Cuyuna, MN",0,589,0,0,Cuyuna city
+MN,2714518,Dakota,incorporated,25,A,295,"Dakota, MN",0,590,0,0,Dakota city
+MN,2721122,Finlayson,incorporated,25,A,295,"Finlayson, MN",0,591,0,0,Finlayson city
+MN,2726378,Hackensack,incorporated,25,A,294,"Hackensack, MN",0,592,0,0,Hackensack city
+MN,2705050,Belview,incorporated,25,A,291,"Belview, MN",0,593,0,0,Belview city
+MN,2724884,Granada,incorporated,25,A,291,"Granada, MN",0,594,0,0,Granada city
+MN,2728484,Hendrum,incorporated,25,A,289,"Hendrum, MN",0,595,0,0,Hendrum city
+MN,2760754,Skyline,incorporated,25,A,288,"Skyline, MN",0,596,0,0,Skyline city
+MN,2704492,Beaver Creek,incorporated,25,A,280,"Beaver Creek, MN",0,597,0,0,Beaver Creek city
+MN,2707066,Bowlus,incorporated,25,A,279,"Bowlus, MN",0,598,0,0,Bowlus city
+MN,2710900,Chandler,incorporated,25,A,279,"Chandler, MN",0,599,0,0,Chandler city
+MN,2718368,Eitzen,incorporated,25,A,279,"Eitzen, MN",0,600,0,0,Eitzen city
+MN,2751712,Plummer,incorporated,25,A,276,"Plummer, MN",0,601,0,0,Plummer city
+MN,2766982,Vesta,incorporated,25,A,276,"Vesta, MN",0,602,0,0,Vesta city
+MN,2745196,Nerstrand,incorporated,25,A,273,"Nerstrand, MN",0,603,0,0,Nerstrand city
+MN,2757022,St. Hilaire,incorporated,25,A,273,"St. Hilaire, MN",0,604,0,0,St. Hilaire city
+MN,2732768,Kensington,incorporated,25,A,266,"Kensington, MN",0,605,0,0,Kensington city
+MN,2766424,Utica,incorporated,25,A,266,"Utica, MN",0,606,0,0,Utica city
+MN,2722526,Freeborn,incorporated,25,A,264,"Freeborn, MN",0,607,0,0,Freeborn city
+MN,2703124,Backus,incorporated,25,A,263,"Backus, MN",0,608,0,0,Backus city
+MN,2724344,Gonvick,incorporated,25,A,263,"Gonvick, MN",0,609,0,0,Gonvick city
+MN,2770708,Wilton,incorporated,25,A,263,"Wilton, MN",0,610,0,0,Wilton city
+MN,2742362,Milroy,incorporated,25,A,259,"Milroy, MN",0,611,0,0,Milroy city
+MN,2732606,Kelliher,incorporated,25,A,258,"Kelliher, MN",0,612,0,0,Kelliher city
+MN,2735198,Lake Wilson,incorporated,25,A,254,"Lake Wilson, MN",0,613,0,0,Lake Wilson city
+MN,2727944,Hayward,incorporated,25,A,252,"Hayward, MN",0,614,0,0,Hayward city
+MN,2728754,Hewitt,incorporated,25,A,251,"Hewitt, MN",0,615,0,0,Hewitt city
+MN,2734676,Lake Lillian,incorporated,25,A,246,"Lake Lillian, MN",0,616,0,0,Lake Lillian city
+MN,2711962,Climax,incorporated,25,A,243,"Climax, MN",0,617,0,0,Climax city
+MN,2717900,Echo,incorporated,25,A,243,"Echo, MN",0,618,0,0,Echo city
+MN,2726972,Hanley Falls,incorporated,25,A,243,"Hanley Falls, MN",0,619,0,0,Hanley Falls city
+MN,2713780,Cromwell,incorporated,25,A,240,"Cromwell, MN",0,620,0,0,Cromwell city
+MN,2748976,Oslo,incorporated,25,A,239,"Oslo, MN",0,621,0,0,Oslo city
+MN,2750056,Pease,incorporated,25,A,238,"Pease, MN",0,622,0,0,Pease city
+MN,2767558,Wahkon,incorporated,25,A,235,"Wahkon, MN",0,623,0,0,Wahkon city
+MN,2750596,Peterson,incorporated,25,A,234,"Peterson, MN",0,624,0,0,Peterson city
+MN,2749030,Ostrander,incorporated,25,A,231,"Ostrander, MN",0,625,0,0,Ostrander city
+MN,2750200,Pemberton,incorporated,25,A,229,"Pemberton, MN",0,626,0,0,Pemberton city
+MN,2705644,Bigelow,incorporated,25,A,227,"Bigelow, MN",0,627,0,0,Bigelow city
+MN,2723246,Gary,incorporated,25,A,227,"Gary, MN",0,628,0,0,Gary city
+MN,2723804,Gilman,incorporated,25,A,226,"Gilman, MN",0,629,0,0,Gilman city
+MN,2756482,Ruthton,incorporated,25,A,226,"Ruthton, MN",0,630,0,0,Ruthton city
+MN,2763022,Storden,incorporated,25,A,225,"Storden, MN",0,631,0,0,Storden city
+MN,2767144,Villard,incorporated,25,A,225,"Villard, MN",0,632,0,0,Villard city
+MN,2714320,Currie,incorporated,25,A,224,"Currie, MN",0,633,0,0,Currie city
+MN,2715706,Dennison,incorporated,25,A,223,"Dennison, MN",0,634,0,0,Dennison city
+MN,2747212,Northrop,incorporated,25,A,223,"Northrop, MN",0,635,0,0,Northrop city
+MN,2716084,Donnelly,incorporated,25,A,221,"Donnelly, MN",0,636,0,0,Donnelly city
+MN,2704204,Beardsley,incorporated,25,A,216,"Beardsley, MN",0,637,0,0,Beardsley city
+MN,2721266,Flensburg,incorporated,25,A,216,"Flensburg, MN",0,638,0,0,Flensburg city
+MN,2722940,Frost,incorporated,25,A,216,"Frost, MN",0,639,0,0,Frost city
+MN,2714626,Dalton,incorporated,25,A,215,"Dalton, MN",0,640,0,0,Dalton city
+MN,2738420,Lucan,incorporated,25,A,214,"Lucan, MN",0,641,0,0,Lucan city
+MN,2719088,Elrosa,incorporated,25,A,213,"Elrosa, MN",0,642,0,0,Elrosa city
+MN,2756518,Rutledge,incorporated,25,A,212,"Rutledge, MN",0,643,0,0,Rutledge city
+MN,2748634,Orr,incorporated,25,A,211,"Orr, MN",0,644,0,0,Orr city
+MN,2706778,Bluffton,incorporated,25,A,210,"Bluffton, MN",0,645,0,0,Bluffton city
+MN,2761006,Sobieski,incorporated,25,A,210,"Sobieski, MN",0,646,0,0,Sobieski city
+MN,2748130,Ogema,incorporated,25,A,208,"Ogema, MN",0,647,0,0,Ogema city
+MN,2736818,Lewisville,incorporated,25,A,204,"Lewisville, MN",0,648,0,0,Lewisville city
+MN,2748184,Okabena,incorporated,25,A,203,"Okabena, MN",0,649,0,0,Okabena city
+MN,2737412,Lismore,incorporated,25,A,202,"Lismore, MN",0,650,0,0,Lismore city
+MN,2743144,Minnesota City,incorporated,25,A,202,"Minnesota City, MN",0,651,0,0,Minnesota City city
+MN,2767756,Waldorf,incorporated,25,A,201,"Waldorf, MN",0,652,0,0,Waldorf city
+MN,2729402,Hitterdal,incorporated,25,A,199,"Hitterdal, MN",0,653,0,0,Hitterdal city
+MN,2725874,Greenwald,incorporated,25,A,197,"Greenwald, MN",0,654,0,0,Greenwald city
+MN,2739338,Magnolia,incorporated,25,A,196,"Magnolia, MN",0,655,0,0,Magnolia city
+MN,2723192,Garrison,incorporated,25,A,194,"Garrison, MN",0,656,0,0,Garrison city
+MN,2727116,Hardwick,incorporated,25,A,189,"Hardwick, MN",0,657,0,0,Hardwick city
+MN,2764444,Tenstrike,incorporated,25,A,186,"Tenstrike, MN",0,658,0,0,Tenstrike city
+MN,2761402,South Haven,incorporated,25,A,185,"South Haven, MN",0,659,0,0,South Haven city
+MN,2733344,Kingston,incorporated,25,A,184,"Kingston, MN",0,660,0,0,Kingston city
+MN,2741678,Mendota,incorporated,25,A,183,"Mendota, MN",0,661,0,0,Mendota city
+MN,2745106,Nelson,incorporated,25,A,182,"Nelson, MN",0,662,0,0,Nelson city
+MN,2768656,Watson,incorporated,25,A,182,"Watson, MN",0,663,0,0,Watson city
+MN,2726216,Grygla,incorporated,25,A,180,"Grygla, MN",0,664,0,0,Grygla city
+MN,2741534,Meire Grove,incorporated,25,A,180,"Meire Grove, MN",0,665,0,0,Meire Grove city
+MN,2759566,Shelly,incorporated,25,A,179,"Shelly, MN",0,666,0,0,Shelly city
+MN,2709280,Callaway,incorporated,25,A,178,"Callaway, MN",0,667,0,0,Callaway city
+MN,2729618,Holland,incorporated,25,A,178,"Holland, MN",0,668,0,0,Holland city
+MN,2734136,Lake Bronson,incorporated,25,A,178,"Lake Bronson, MN",0,669,0,0,Lake Bronson city
+MN,2717738,Easton,incorporated,25,A,177,"Easton, MN",0,670,0,0,Easton city
+MN,2720834,Felton,incorporated,25,A,177,"Felton, MN",0,671,0,0,Felton city
+MN,2704798,Bellechester,incorporated,25,A,176,"Bellechester, MN",0,672,0,0,Bellechester city
+MN,2732732,Kennedy,incorporated,25,A,176,"Kennedy, MN",0,673,0,0,Kennedy city
+MN,2705680,Big Falls,incorporated,25,A,175,"Big Falls, MN",0,674,0,0,Big Falls city
+MN,2770870,Winger,incorporated,25,A,174,"Winger, MN",0,675,0,0,Winger city
+MN,2715724,Dent,incorporated,25,A,173,"Dent, MN",0,676,0,0,Dent city
+MN,2715472,Delavan,incorporated,25,A,172,"Delavan, MN",0,677,0,0,Delavan city
+MN,2762662,Steen,incorporated,25,A,171,"Steen, MN",0,678,0,0,Steen city
+MN,2721608,Forada,incorporated,25,A,170,"Forada, MN",0,679,0,0,Forada city
+MN,2771140,Winton,incorporated,25,A,169,"Winton, MN",0,680,0,0,Winton city
+MN,2718566,Elizabeth,incorporated,25,A,168,"Elizabeth, MN",0,681,0,0,Elizabeth city
+MN,2768080,Warba,incorporated,25,A,168,"Warba, MN",0,682,0,0,Warba city
+MN,2771824,Wright,incorporated,25,A,168,"Wright, MN",0,683,0,0,Wright city
+MN,2731094,Iona,incorporated,25,A,166,"Iona, MN",0,684,0,0,Iona city
+MN,2732966,Kettle River,incorporated,25,A,166,"Kettle River, MN",0,685,0,0,Kettle River city
+MN,2752144,Porter,incorporated,25,A,166,"Porter, MN",0,686,0,0,Porter city
+MN,2769142,Wendell,incorporated,25,A,166,"Wendell, MN",0,687,0,0,Wendell city
+MN,2709496,Campbell,incorporated,25,A,164,"Campbell, MN",0,688,0,0,Campbell city
+MN,2767918,Waltham,incorporated,25,A,164,"Waltham, MN",0,689,0,0,Waltham city
+MN,2749498,Palisade,incorporated,25,A,162,"Palisade, MN",0,690,0,0,Palisade city
+MN,2770402,Williams,incorporated,25,A,157,"Williams, MN",0,691,0,0,Williams city
+MN,2711836,Clements,incorporated,25,A,155,"Clements, MN",0,692,0,0,Clements city
+MN,2747122,Northome,incorporated,25,A,155,"Northome, MN",0,693,0,0,Northome city
+MN,2772310,Zumbro Falls,incorporated,25,A,155,"Zumbro Falls, MN",0,694,0,0,Zumbro Falls city
+MN,2725424,Grasston,incorporated,25,A,154,"Grasston, MN",0,695,0,0,Grasston city
+MN,2712952,Conger,incorporated,25,A,153,"Conger, MN",0,696,0,0,Conger city
+MN,2738114,Longville,incorporated,25,A,153,"Longville, MN",0,697,0,0,Longville city
+MN,2755438,Roosevelt,incorporated,25,A,153,"Roosevelt, MN",0,698,0,0,Roosevelt city
+MN,2733416,Kinney,incorporated,25,A,152,"Kinney, MN",0,699,0,0,Kinney city
+MN,2742290,Millville,incorporated,25,A,151,"Millville, MN",0,700,0,0,Millville city
+MN,2704960,Bellingham,incorporated,25,A,148,"Bellingham, MN",0,701,0,0,Bellingham city
+MN,2733110,Kilkenny,incorporated,25,A,148,"Kilkenny, MN",0,702,0,0,Kilkenny city
+MN,2712376,Coates,incorporated,25,A,147,"Coates, MN",0,703,0,0,Coates city
+MN,2706490,Blomkest,incorporated,25,A,145,"Blomkest, MN",0,704,0,0,Blomkest city
+MN,2740346,Mapleview,incorporated,25,A,144,"Mapleview, MN",0,705,0,0,Mapleview city
+MN,2705104,Bena,incorporated,25,A,143,"Bena, MN",0,706,0,0,Bena city
+MN,2707138,Boyd,incorporated,25,A,141,"Boyd, MN",0,707,0,0,Boyd city
+MN,2742092,Miesville,incorporated,25,A,138,"Miesville, MN",0,708,0,0,Miesville city
+MN,2705896,Bingham Lake,incorporated,25,A,137,"Bingham Lake, MN",0,709,0,0,Bingham Lake city
+MN,2728214,Heidelberg,incorporated,25,A,137,"Heidelberg, MN",0,710,0,0,Heidelberg city
+MN,2759782,Shevlin,incorporated,25,A,137,"Shevlin, MN",0,711,0,0,Shevlin city
+MN,2764264,Taunton,incorporated,25,A,136,"Taunton, MN",0,712,0,0,Taunton city
+MN,2735612,Laporte,incorporated,25,A,134,"Laporte, MN",0,713,0,0,Laporte city
+MN,2741372,Meadowlands,incorporated,25,A,134,"Meadowlands, MN",0,714,0,0,Meadowlands city
+MN,2765920,Twin Lakes,incorporated,25,A,134,"Twin Lakes, MN",0,715,0,0,Twin Lakes city
+MN,2717180,Dunnell,incorporated,25,A,133,"Dunnell, MN",0,716,0,0,Dunnell city
+MN,2707984,Brook Park,incorporated,25,A,132,"Brook Park, MN",0,717,0,0,Brook Park city
+MN,2719556,Erhard,incorporated,25,A,132,"Erhard, MN",0,718,0,0,Erhard city
+MN,2718728,Elkton,incorporated,25,A,130,"Elkton, MN",0,719,0,0,Elkton city
+MN,2726828,Hammond,incorporated,25,A,130,"Hammond, MN",0,720,0,0,Hammond city
+MN,2755510,Roscoe,incorporated,25,A,130,"Roscoe, MN",0,721,0,0,Roscoe city
+MN,2718386,Elba,incorporated,25,A,129,"Elba, MN",0,722,0,0,Elba city
+MN,2711296,Chickamaw Beach,incorporated,25,A,128,"Chickamaw Beach, MN",0,723,0,0,Chickamaw Beach city
+MN,2712124,Clontarf,incorporated,25,A,128,"Clontarf, MN",0,724,0,0,Clontarf city
+MN,2771392,Wolverton,incorporated,25,A,128,"Wolverton, MN",0,725,0,0,Wolverton city
+MN,2722202,Foxhome,incorporated,25,A,126,"Foxhome, MN",0,726,0,0,Foxhome city
+MN,2723228,Garvin,incorporated,25,A,124,"Garvin, MN",0,727,0,0,Garvin city
+MN,2708902,Burtrum,incorporated,25,A,123,"Burtrum, MN",0,728,0,0,Burtrum city
+MN,2720798,Federal Dam,incorporated,25,A,123,"Federal Dam, MN",0,729,0,0,Federal Dam city
+MN,2727098,Harding,incorporated,25,A,123,"Harding, MN",0,730,0,0,Harding city
+MN,2748094,Odin,incorporated,25,A,123,"Odin, MN",0,731,0,0,Odin city
+MN,2704456,Beaver Bay,incorporated,25,A,120,"Beaver Bay, MN",0,732,0,0,Beaver Bay city
+MN,2735720,Lastrup,incorporated,25,A,120,"Lastrup, MN",0,733,0,0,Lastrup city
+MN,2708056,Brookston,incorporated,25,A,118,"Brookston, MN",0,734,0,0,Brookston city
+MN,2748562,Ormsby,incorporated,25,A,118,"Ormsby, MN",0,735,0,0,Ormsby city
+MN,2754736,Riverton,incorporated,25,A,118,"Riverton, MN",0,736,0,0,Riverton city
+MN,2708038,Brooks,incorporated,25,A,117,"Brooks, MN",0,737,0,0,Brooks city
+MN,2740526,Marietta,incorporated,25,A,116,"Marietta, MN",0,738,0,0,Marietta city
+MN,2718872,Elmdale,incorporated,25,A,114,"Elmdale, MN",0,739,0,0,Elmdale city
+MN,2706112,Biscay,incorporated,25,A,113,"Biscay, MN",0,740,0,0,Biscay city
+MN,2750506,Perley,incorporated,25,A,113,"Perley, MN",0,741,0,0,Perley city
+MN,2724470,Goodridge,incorporated,25,A,112,"Goodridge, MN",0,742,0,0,Goodridge city
+MN,2703052,Avoca,incorporated,25,A,111,"Avoca, MN",0,743,0,0,Avoca city
+MN,2715418,De Graff,incorporated,25,A,110,"De Graff, MN",0,744,0,0,De Graff city
+MN,2731238,Iron Junction,incorporated,25,A,110,"Iron Junction, MN",0,745,0,0,Iron Junction city
+MN,2771680,Woodstock,incorporated,25,A,110,"Woodstock, MN",0,746,0,0,Woodstock city
+MN,2718260,Effie,incorporated,25,A,109,"Effie, MN",0,747,0,0,Effie city
+MN,2752756,Quamba,incorporated,25,A,107,"Quamba, MN",0,748,0,0,Quamba city
+MN,2741714,Mentor,incorporated,25,A,104,"Mentor, MN",0,749,0,0,Mentor city
+MN,2714734,Danvers,incorporated,25,A,103,"Danvers, MN",0,750,0,0,Danvers city
+MN,2739140,McKinley,incorporated,25,A,103,"McKinley, MN",0,751,0,0,McKinley city
+MN,2748058,Odessa,incorporated,25,A,103,"Odessa, MN",0,752,0,0,Odessa city
+MN,2712862,Comstock,incorporated,25,A,100,"Comstock, MN",0,753,0,0,Comstock city
+MN,2742254,Millerville,incorporated,25,A,100,"Millerville, MN",0,754,0,0,Millerville city
+MN,2765506,Trommald,incorporated,25,A,99,"Trommald, MN",0,755,0,0,Trommald city
+MN,2762284,Squaw Lake,incorporated,25,A,98,"Squaw Lake, MN",0,756,0,0,Squaw Lake city
+MN,2765542,Trosky,incorporated,25,A,98,"Trosky, MN",0,757,0,0,Trosky city
+MN,2701162,Alpha,incorporated,25,A,97,"Alpha, MN",0,758,0,0,Alpha city
+MN,2743036,Minneiska,incorporated,25,A,97,"Minneiska, MN",0,759,0,0,Minneiska city
+MN,2707030,Borup,incorporated,25,A,96,"Borup, MN",0,760,0,0,Borup city
+MN,2700676,Alberta,incorporated,25,A,94,"Alberta, MN",0,761,0,0,Alberta city
+MN,2763454,Sunburg,incorporated,25,A,94,"Sunburg, MN",0,762,0,0,Sunburg city
+MN,2757202,St. Leo,incorporated,25,A,93,"St. Leo, MN",0,763,0,0,St. Leo city
+MN,2736404,Lengby,incorporated,25,A,92,"Lengby, MN",0,764,0,0,Lengby city
+MN,2769736,West Union,incorporated,25,A,92,"West Union, MN",0,765,0,0,West Union city
+MN,2756698,St. Anthony,incorporated,25,A,91,"St. Anthony, MN",0,766,0,0,St. Anthony city
+MN,2729870,Holt,incorporated,25,A,90,"Holt, MN",0,767,0,0,Holt city
+MN,2753908,Revere,incorporated,25,A,89,"Revere, MN",0,768,0,0,Revere city
+MN,2705014,Beltrami,incorporated,25,A,88,"Beltrami, MN",0,769,0,0,Beltrami city
+MN,2765794,Turtle River,incorporated,25,A,88,"Turtle River, MN",0,770,0,0,Turtle River city
+MN,2701972,Arco,incorporated,25,A,87,"Arco, MN",0,771,0,0,Arco city
+MN,2729672,Holloway,incorporated,25,A,87,"Holloway, MN",0,772,0,0,Holloway city
+MN,2723498,Georgetown,incorporated,25,A,86,"Georgetown, MN",0,773,0,0,Georgetown city
+MN,2746024,New Trier,incorporated,25,A,86,"New Trier, MN",0,774,0,0,New Trier city
+MN,2708290,Bruno,incorporated,25,A,85,"Bruno, MN",0,775,0,0,Bruno city
+MN,2704672,Bejou,incorporated,25,A,84,"Bejou, MN",0,776,0,0,Bejou city
+MN,2714770,Darfur,incorporated,25,A,84,"Darfur, MN",0,777,0,0,Darfur city
+MN,2721932,Fort Ripley,incorporated,25,A,84,"Fort Ripley, MN",0,778,0,0,Fort Ripley city
+MN,2746294,Nimrod,incorporated,25,A,84,"Nimrod, MN",0,779,0,0,Nimrod city
+MN,2759098,Seaforth,incorporated,25,A,82,"Seaforth, MN",0,780,0,0,Seaforth city
+MN,2735702,La Salle,incorporated,25,A,79,"La Salle, MN",0,781,0,0,La Salle city
+MN,2767090,Viking,incorporated,25,A,79,"Viking, MN",0,782,0,0,Viking city
+MN,2706814,Bock,incorporated,25,A,78,"Bock, MN",0,783,0,0,Bock city
+MN,2746258,Nielsville,incorporated,25,A,78,"Nielsville, MN",0,784,0,0,Nielsville city
+MN,2772184,Zemple,incorporated,25,A,78,"Zemple, MN",0,785,0,0,Zemple city
+MN,2754340,Richville,incorporated,25,A,77,"Richville, MN",0,786,0,0,Richville city
+MN,2717090,Dumont,incorporated,25,A,75,"Dumont, MN",0,787,0,0,Dumont city
+MN,2717144,Dundee,incorporated,25,A,73,"Dundee, MN",0,788,0,0,Dundee city
+MN,2761114,Solway,incorporated,25,A,73,"Solway, MN",0,789,0,0,Solway city
+MN,2734478,Lake Henry,incorporated,25,A,72,"Lake Henry, MN",0,790,0,0,Lake Henry city
+MN,2768008,Wanda,incorporated,25,A,72,"Wanda, MN",0,791,0,0,Wanda city
+MN,2732912,Kerrick,incorporated,25,A,71,"Kerrick, MN",0,792,0,0,Kerrick city
+MN,2771338,Wolf Lake,incorporated,25,A,71,"Wolf Lake, MN",0,793,0,0,Wolf Lake city
+MN,2719880,Evan,incorporated,25,A,70,"Evan, MN",0,794,0,0,Evan city
+MN,2723444,Genola,incorporated,25,A,70,"Genola, MN",0,795,0,0,Genola city
+MN,2763112,Strandquist,incorporated,25,A,70,"Strandquist, MN",0,796,0,0,Strandquist city
+MN,2767900,Walters,incorporated,25,A,69,"Walters, MN",0,797,0,0,Walters city
+MN,2761888,Spring Hill,incorporated,25,A,68,"Spring Hill, MN",0,798,0,0,Spring Hill city
+MN,2744944,Nashua,incorporated,25,A,67,"Nashua, MN",0,799,0,0,Nashua city
+MN,2764948,Tintah,incorporated,25,A,67,"Tintah, MN",0,800,0,0,Tintah city
+MN,2769808,Whalan,incorporated,25,A,67,"Whalan, MN",0,801,0,0,Whalan city
+MN,2732786,Kent,incorporated,25,A,65,"Kent, MN",0,802,0,0,Kent city
+MN,2745016,Nassau,incorporated,25,A,65,"Nassau, MN",0,803,0,0,Nassau city
+MN,2758576,Sargeant,incorporated,25,A,63,"Sargeant, MN",0,804,0,0,Sargeant city
+MN,2710468,Cedar Mills,incorporated,25,A,62,"Cedar Mills, MN",0,805,0,0,Cedar Mills city
+MN,2712088,Clitherall,incorporated,25,A,62,"Clitherall, MN",0,806,0,0,Clitherall city
+MN,2764156,Tamarack,incorporated,25,A,62,"Tamarack, MN",0,807,0,0,Tamarack city
+MN,2767216,Vining,incorporated,25,A,62,"Vining, MN",0,808,0,0,Vining city
+MN,2770258,Wilder,incorporated,25,A,62,"Wilder, MN",0,809,0,0,Wilder city
+MN,2730806,Ihlen,incorporated,25,A,61,"Ihlen, MN",0,810,0,0,Ihlen city
+MN,2739806,Manhattan Beach,incorporated,25,A,61,"Manhattan Beach, MN",0,811,0,0,Manhattan Beach city
+MN,2764210,Taopi,incorporated,25,A,61,"Taopi, MN",0,812,0,0,Taopi city
+MN,2732750,Kenneth,incorporated,25,A,60,"Kenneth, MN",0,813,0,0,Kenneth city
+MN,2726270,Gully,incorporated,25,A,59,"Gully, MN",0,814,0,0,Gully city
+MN,2716300,Dovray,incorporated,25,A,58,"Dovray, MN",0,815,0,0,Dovray city
+MN,2726612,Halma,incorporated,25,A,58,"Halma, MN",0,816,0,0,Halma city
+MN,2743540,Mizpah,incorporated,25,A,58,"Mizpah, MN",0,817,0,0,Mizpah city
+MN,2758072,St. Rosa,incorporated,25,A,58,"St. Rosa, MN",0,818,0,0,St. Rosa city
+MN,2728574,Henriette,incorporated,25,A,57,"Henriette, MN",0,819,0,0,Henriette city
+MN,2758144,St. Vincent,incorporated,25,A,57,"St. Vincent, MN",0,820,0,0,St. Vincent city
+MN,2720690,Farwell,incorporated,25,A,56,"Farwell, MN",0,821,0,0,Farwell city
+MN,2728016,Hazel Run,incorporated,25,A,55,"Hazel Run, MN",0,822,0,0,Hazel Run city
+MN,2726450,Hadley,incorporated,25,A,54,"Hadley, MN",0,823,0,0,Hadley city
+MN,2727566,Hatfield,incorporated,25,A,53,"Hatfield, MN",0,824,0,0,Hatfield city
+MN,2739716,Manchester,incorporated,25,A,52,"Manchester, MN",0,825,0,0,Manchester city
+MN,2746492,Norcross,incorporated,25,A,52,"Norcross, MN",0,826,0,0,Norcross city
+MN,2766388,Urbank,incorporated,25,A,52,"Urbank, MN",0,827,0,0,Urbank city
+MN,2736530,Leonidas,incorporated,25,A,50,"Leonidas, MN",0,828,0,0,Leonidas city
+MN,2744890,Myrtle,incorporated,25,A,47,"Myrtle, MN",0,829,0,0,Myrtle city
+MN,2715544,Delhi,incorporated,25,A,46,"Delhi, MN",0,830,0,0,Delhi city
+MN,2769628,Westport,incorporated,25,A,44,"Westport, MN",0,831,0,0,Westport city
+MN,2753710,Regal,incorporated,25,A,43,"Regal, MN",0,832,0,0,Regal city
+MN,2759188,Sedan,incorporated,25,A,43,"Sedan, MN",0,833,0,0,Sedan city
+MN,2730446,Humboldt,incorporated,25,A,41,"Humboldt, MN",0,834,0,0,Humboldt city
+MN,2736494,Leonard,incorporated,25,A,41,"Leonard, MN",0,835,0,0,Leonard city
+MN,2738996,McGrath,incorporated,25,A,41,"McGrath, MN",0,836,0,0,McGrath city
+MN,2765344,Trail,incorporated,25,A,40,"Trail, MN",0,837,0,0,Trail city
+MN,2715670,Denham,incorporated,25,A,37,"Denham, MN",0,838,0,0,Denham city
+MN,2712394,Cobden,incorporated,25,A,36,"Cobden, MN",0,839,0,0,Cobden city
+MN,2716156,Doran,incorporated,25,A,36,"Doran, MN",0,840,0,0,Doran city
+MN,2700892,Aldrich,incorporated,25,A,35,"Aldrich, MN",0,841,0,0,Aldrich city
+MN,2738258,Louisburg,incorporated,25,A,31,"Louisburg, MN",0,842,0,0,Louisburg city
+MN,2721410,Florence,incorporated,25,A,28,"Florence, MN",0,843,0,0,Florence city
+MN,2707174,Boy River,incorporated,25,A,26,"Boy River, MN",0,844,0,0,Boy River city
+MN,2713384,Correll,incorporated,25,A,26,"Correll, MN",0,845,0,0,Correll city
+MN,2763130,Strathcona,incorporated,25,A,25,"Strathcona, MN",0,846,0,0,Strathcona city
+MN,2732012,Johnson,incorporated,25,A,24,"Johnson, MN",0,847,0,0,Johnson city
+MN,2729150,Hillman,incorporated,25,A,23,"Hillman, MN",0,848,0,0,Hillman city
+MN,2716030,Donaldson,incorporated,25,A,20,"Donaldson, MN",0,849,0,0,Donaldson city
+MN,2722976,Funkley,incorporated,25,A,18,"Funkley, MN",0,850,0,0,Funkley city
+MN,2703718,Barry,incorporated,25,A,16,"Barry, MN",0,851,0,0,Barry city
+MN,2733236,Kinbrae,incorporated,25,A,10,"Kinbrae, MN",0,852,0,0,Kinbrae city
+MN,2703282,Baldwin,incorporated,25,A,0,"Baldwin, MN",0,853,0,0,Baldwin city
+MN,2713708,Credit River,incorporated,25,A,0,"Credit River, MN",0,854,0,0,Credit River city
+MN,2719358,Empire,incorporated,25,A,0,"Empire, MN",0,855,0,0,Empire city
+MN,2767130,Village of Minnetonka Beach,incorporated,25,A,0,"Village of Minnetonka Beach, MN",0,856,0,0,Village of Minnetonka Beach city

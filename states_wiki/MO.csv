@@ -1,0 +1,948 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+MO,2938000,Kansas City,incorporated,25,A,508090,"Kansas City, MO",0,1,64,0.256,Kansas City city
+MO,2965000,St. Louis,incorporated,25,A,301578,"St. Louis, MO",0,2,27,0.108,St. Louis city
+MO,2970000,Springfield,incorporated,25,A,169176,"Springfield, MO",0,3,16,0.064,Springfield city
+MO,2915670,Columbia,incorporated,25,A,126254,"Columbia, MO",0,4,11,0.044,Columbia city
+MO,2935000,Independence,incorporated,25,A,123011,"Independence, MO",0,5,10,0.04,Independence city
+MO,2941348,Lee's Summit,incorporated,25,A,101108,"Lee's Summit, MO",0,6,8,0.032,Lee's Summit city
+MO,2954074,O'Fallon,incorporated,25,A,91316,"O'Fallon, MO",0,7,7,0.028,O'Fallon city
+MO,2964550,St. Joseph,incorporated,25,A,72473,"St. Joseph, MO",0,8,6,0.024,St. Joseph city
+MO,2964082,St. Charles,incorporated,25,A,70493,"St. Charles, MO",0,9,4,0.016,St. Charles city
+MO,2906652,Blue Springs,incorporated,25,A,58603,"Blue Springs, MO",0,10,5,0.02,Blue Springs city
+MO,2965126,St. Peters,incorporated,25,A,57732,"St. Peters, MO",0,11,3,0.012,St. Peters city
+MO,2924778,Florissant,incorporated,25,A,52533,"Florissant, MO",0,12,4,0.016,Florissant city
+MO,2937592,Joplin,incorporated,25,A,51762,"Joplin, MO",0,13,4,0.016,Joplin city
+MO,2913600,Chesterfield,incorporated,25,A,49999,"Chesterfield, MO",0,14,2,0.008,Chesterfield city
+MO,2978442,Wentzville,incorporated,25,A,44372,"Wentzville, MO",0,15,2,0.008,Wentzville city
+MO,2937000,Jefferson City,incorporated,25,A,43228,"Jefferson City, MO",0,16,3,0.012,Jefferson City city
+MO,2911242,Cape Girardeau,incorporated,25,A,39540,"Cape Girardeau, MO",0,17,3,0.012,Cape Girardeau city
+MO,2979820,Wildwood,incorporated,25,A,35417,"Wildwood, MO",0,18,3,0.012,Wildwood city
+MO,2975220,University City,incorporated,25,A,35065,"University City, MO",0,19,3,0.012,University City city
+MO,2903160,Ballwin,incorporated,25,A,31103,"Ballwin, MO",0,20,3,0.012,Ballwin city
+MO,2942032,Liberty,incorporated,25,A,30167,"Liberty, MO",0,21,2,0.008,Liberty city
+MO,2960788,Raytown,incorporated,25,A,30012,"Raytown, MO",0,22,1,0.004,Raytown city
+MO,2939044,Kirkwood,incorporated,25,A,29461,"Kirkwood, MO",0,23,1,0.004,Kirkwood city
+MO,2946586,Maryland Heights,incorporated,25,A,28284,"Maryland Heights, MO",0,24,1,0.004,Maryland Heights city
+MO,2927190,Gladstone,incorporated,25,A,27063,"Gladstone, MO",0,25,1,0.004,Gladstone city
+MO,2928324,Grandview,incorporated,25,A,26209,"Grandview, MO",0,26,1,0.004,Grandview city
+MO,2931276,Hazelwood,incorporated,25,A,25458,"Hazelwood, MO",0,27,1,0.004,Hazelwood city
+MO,2978154,Webster Groves,incorporated,25,A,24010,"Webster Groves, MO",0,28,2,0.008,Webster Groves city
+MO,2904384,Belton,incorporated,25,A,23953,"Belton, MO",0,29,2,0.008,Belton city
+MO,2952616,Nixa,incorporated,25,A,23257,"Nixa, MO",0,30,2,0.008,Nixa city
+MO,2960752,Raymore,incorporated,25,A,22941,"Raymore, MO",0,31,2,0.008,Raymore city
+MO,2966440,Sedalia,incorporated,25,A,21725,"Sedalia, MO",0,32,2,0.008,Sedalia city
+MO,2955766,Ozark,incorporated,25,A,21284,"Ozark, MO",0,33,2,0.008,Ozark city
+MO,2901972,Arnold,incorporated,25,A,20858,"Arnold, MO",0,34,2,0.008,Arnold city
+MO,2962912,Rolla,incorporated,25,A,19943,"Rolla, MO",0,35,2,0.008,Rolla city
+MO,2977092,Warrensburg,incorporated,25,A,19337,"Warrensburg, MO",0,36,2,0.008,Warrensburg city
+MO,2917272,Creve Coeur,incorporated,25,A,18834,"Creve Coeur, MO",0,37,2,0.008,Creve Coeur city
+MO,2961238,Republic,incorporated,25,A,18750,"Republic, MO",0,38,2,0.008,Republic city
+MO,2923986,Ferguson,incorporated,25,A,18527,"Ferguson, MO",0,39,2,0.008,Ferguson city
+MO,2945668,Manchester,incorporated,25,A,18333,"Manchester, MO",0,40,2,0.008,Manchester city
+MO,2923752,Farmington,incorporated,25,A,18217,"Farmington, MO",0,41,2,0.008,Farmington city
+MO,2939026,Kirksville,incorporated,25,A,17530,"Kirksville, MO",0,42,2,0.008,Kirksville city
+MO,2914572,Clayton,incorporated,25,A,17355,"Clayton, MO",0,43,2,0.008,Clayton city
+MO,2930214,Hannibal,incorporated,25,A,17108,"Hannibal, MO",0,44,2,0.008,Hannibal city
+MO,2940043,Lake St. Louis,incorporated,25,A,16707,"Lake St. Louis, MO",0,45,2,0.008,Lake St. Louis city
+MO,2967790,Sikeston,incorporated,25,A,16291,"Sikeston, MO",0,46,2,0.008,Sikeston city
+MO,2959096,Poplar Bluff,incorporated,25,A,16225,"Poplar Bluff, MO",0,47,2,0.008,Poplar Bluff city
+MO,2955550,Overland,incorporated,25,A,15955,"Overland, MO",0,48,2,0.008,Overland city
+MO,2928090,Grain Valley,incorporated,25,A,15627,"Grain Valley, MO",0,49,1,0.004,Grain Valley city
+MO,2911656,Carthage,incorporated,25,A,15522,"Carthage, MO",0,50,1,0.004,Carthage city
+MO,2935648,Jackson,incorporated,25,A,15481,"Jackson, MO",0,51,1,0.004,Jackson city
+MO,2941168,Lebanon,incorporated,25,A,15013,"Lebanon, MO",0,52,1,0.004,Lebanon city
+MO,2977416,Washington,incorporated,25,A,14500,"Washington, MO",0,53,1,0.004,Washington city
+MO,2946316,Marshall,incorporated,25,A,13806,"Marshall, MO",0,54,1,0.004,Marshall city
+MO,2949034,Moberly,incorporated,25,A,13783,"Moberly, MO",0,55,1,0.004,Moberly city
+MO,2978118,Webb City,incorporated,25,A,13031,"Webb City, MO",0,56,1,0.004,Webb City city
+MO,2963956,St. Ann,incorporated,25,A,13019,"St. Ann, MO",0,57,1,0.004,St. Ann city
+MO,2937178,Jennings,incorporated,25,A,12895,"Jennings, MO",0,58,1,0.004,Jennings city
+MO,2918253,Dardenne Prairie,incorporated,25,A,12743,"Dardenne Prairie, MO",0,59,1,0.004,Dardenne Prairie city
+MO,2924094,Festus,incorporated,25,A,12706,"Festus, MO",0,60,1,0.004,Festus city
+MO,2973942,Troy,incorporated,25,A,12686,"Troy, MO",0,61,0,0,Troy city
+MO,2907966,Branson,incorporated,25,A,12638,"Branson, MO",0,62,0,0,Branson city
+MO,2926182,Fulton,incorporated,25,A,12600,"Fulton, MO",0,63,0,0,Fulton city
+MO,2951572,Neosho,incorporated,25,A,12590,"Neosho, MO",0,64,0,0,Neosho city
+MO,2917218,Crestwood,incorporated,25,A,12404,"Crestwood, MO",0,65,0,0,Crestwood city
+MO,2974626,Union,incorporated,25,A,12348,"Union, MO",0,66,0,0,Union city
+MO,2978928,West Plains,incorporated,25,A,12184,"West Plains, MO",0,67,0,0,West Plains city
+MO,2922834,Eureka,incorporated,25,A,11646,"Eureka, MO",0,68,0,0,Eureka city
+MO,2973618,Town and Country,incorporated,25,A,11640,"Town and Country, MO",0,69,0,0,Town and Country city
+MO,2947648,Mexico,incorporated,25,A,11469,"Mexico, MO",0,70,0,0,Mexico city
+MO,2908398,Bridgeton,incorporated,25,A,11445,"Bridgeton, MO",0,71,0,0,Bridgeton city
+MO,2904222,Bellefontaine Neighbors,incorporated,25,A,10740,"Bellefontaine Neighbors, MO",0,72,0,0,Bellefontaine Neighbors city
+MO,2906976,Bolivar,incorporated,25,A,10679,"Bolivar, MO",0,73,0,0,Bolivar city
+MO,2946640,Maryville,incorporated,25,A,10633,"Maryville, MO",0,74,0,0,Maryville city
+MO,2923086,Excelsior Springs,incorporated,25,A,10553,"Excelsior Springs, MO",0,75,0,0,Excelsior Springs city
+MO,2938306,Kennett,incorporated,25,A,10515,"Kennett, MO",0,76,0,0,Kennett city
+MO,2968420,Smithville,incorporated,25,A,10406,"Smithville, MO",0,77,0,0,Smithville city
+MO,2938072,Kearney,incorporated,25,A,10404,"Kearney, MO",0,78,0,0,Kearney city
+MO,2930610,Harrisonville,incorporated,25,A,10121,"Harrisonville, MO",0,79,0,0,Harrisonville city
+MO,2921898,Ellisville,incorporated,25,A,9985,"Ellisville, MO",0,80,0,0,Ellisville city
+MO,2949196,Monett,incorporated,25,A,9576,"Monett, MO",0,81,0,0,Monett city
+MO,2961706,Richmond Heights,incorporated,25,A,9286,"Richmond Heights, MO",0,82,0,0,Richmond Heights city
+MO,2971746,Sunset Hills,incorporated,25,A,9198,"Sunset Hills, MO",0,83,0,0,Sunset Hills city
+MO,2919270,Des Peres,incorporated,25,A,9193,"Des Peres, MO",0,84,0,0,Des Peres city
+MO,2914986,Clinton,incorporated,25,A,9174,"Clinton, MO",0,85,0,0,Clinton city
+MO,2913690,Chillicothe,incorporated,25,A,9107,"Chillicothe, MO",0,86,0,0,Chillicothe city
+MO,2939656,Ladue,incorporated,25,A,8989,"Ladue, MO",0,87,0,0,Ladue city
+MO,2958394,Pleasant Hill,incorporated,25,A,8777,"Pleasant Hill, MO",0,88,0,0,Pleasant Hill city
+MO,2956272,Park Hills,incorporated,25,A,8587,"Park Hills, MO",0,89,0,0,Park Hills city
+MO,2957116,Perryville,incorporated,25,A,8555,"Perryville, MO",0,90,0,0,Perryville city
+MO,2910828,Cameron,incorporated,25,A,8513,"Cameron, MO",0,91,0,0,Cameron city
+MO,2954650,Olivette,incorporated,25,A,8504,"Olivette, MO",0,92,0,0,Olivette city
+MO,2977128,Warrenton,incorporated,25,A,8429,"Warrenton, MO",0,93,0,0,Warrenton city
+MO,2945830,Maplewood,incorporated,25,A,8269,"Maplewood, MO",0,94,0,0,Maplewood city
+MO,2908236,Brentwood,incorporated,25,A,8233,"Brentwood, MO",0,95,0,0,Brentwood city
+MO,2904906,Berkeley,incorporated,25,A,8228,"Berkeley, MO",0,96,0,0,Berkeley city
+MO,2951644,Nevada,incorporated,25,A,8212,"Nevada, MO",0,97,0,0,Nevada city
+MO,2953624,Oak Grove,incorporated,25,A,8157,"Oak Grove, MO",0,98,0,0,Oak Grove city
+MO,2911368,Carl Junction,incorporated,25,A,8143,"Carl Junction, MO",0,99,0,0,Carl Junction city
+MO,2907318,Boonville,incorporated,25,A,7964,"Boonville, MO",0,100,0,0,Boonville city
+MO,2919396,Dexter,incorporated,25,A,7927,"Dexter, MO",0,101,0,0,Dexter city
+MO,2946388,Marshfield,incorporated,25,A,7458,"Marshfield, MO",0,102,0,0,Marshfield city
+MO,2955910,Pacific,incorporated,25,A,7414,"Pacific, MO",0,103,0,0,Pacific city
+MO,2902548,Aurora,incorporated,25,A,7219,"Aurora, MO",0,104,0,0,Aurora city
+MO,2956288,Parkville,incorporated,25,A,7117,"Parkville, MO",0,105,0,0,Parkville city
+MO,2971440,Sullivan,incorporated,25,A,6906,"Sullivan, MO",0,106,0,0,Sullivan city
+MO,2907102,Bonne Terre,incorporated,25,A,6903,"Bonne Terre, MO",0,107,0,0,Bonne Terre city
+MO,2975472,Valley Park,incorporated,25,A,6885,"Valley Park, MO",0,108,0,0,Valley Park city
+MO,2964478,St. John,incorporated,25,A,6643,"St. John, MO",0,109,0,0,St. John city
+MO,2906004,Black Jack,incorporated,25,A,6634,"Black Jack, MO",0,110,0,0,Black Jack city
+MO,2919252,De Soto,incorporated,25,A,6449,"De Soto, MO",0,111,0,0,De Soto city
+MO,2967700,Shrewsbury,incorporated,25,A,6406,"Shrewsbury, MO",0,112,0,0,Shrewsbury city
+MO,2979882,Willard,incorporated,25,A,6344,"Willard, MO",0,113,0,0,Willard city
+MO,2927334,Glendale,incorporated,25,A,6176,"Glendale, MO",0,114,0,0,Glendale city
+MO,2957278,Pevely,incorporated,25,A,6026,"Pevely, MO",0,115,0,0,Pevely city
+MO,2929494,Greenwood,incorporated,25,A,6021,"Greenwood, MO",0,116,0,0,Greenwood city
+MO,2961670,Richmond,incorporated,25,A,6013,"Richmond, MO",0,117,0,0,Richmond city
+MO,2903592,Battlefield,incorporated,25,A,5990,"Battlefield, MO",0,118,0,0,Battlefield city
+MO,2956756,Peculiar,incorporated,25,A,5621,"Peculiar, MO",0,119,0,0,Peculiar city
+MO,2916678,Cottleville,incorporated,25,A,5611,"Cottleville, MO",0,120,0,0,Cottleville city
+MO,2973816,Trenton,incorporated,25,A,5609,"Trenton, MO",0,121,0,0,Trenton city
+MO,2954038,Odessa,incorporated,25,A,5593,"Odessa, MO",0,122,0,0,Odessa city
+MO,2911692,Caruthersville,incorporated,25,A,5562,"Caruthersville, MO",0,123,0,0,Caruthersville city
+MO,2945326,Macon,incorporated,25,A,5457,"Macon, MO",0,124,0,0,Macon city
+MO,2977992,Waynesville,incorporated,25,A,5406,"Waynesville, MO",0,125,0,0,Waynesville city
+MO,2978314,Weldon Spring,incorporated,25,A,5326,"Weldon Spring, MO",0,126,0,0,Weldon Spring city
+MO,2965144,St. Robert,incorporated,25,A,5192,"St. Robert, MO",0,127,0,0,St. Robert city
+MO,2966044,Savannah,incorporated,25,A,5069,"Savannah, MO",0,128,0,0,Savannah city
+MO,2913366,Charleston,incorporated,25,A,5056,"Charleston, MO",0,129,0,0,Charleston city
+MO,2964180,Ste. Genevieve,incorporated,25,A,4999,"Ste. Genevieve, MO",0,130,0,0,Ste. Genevieve city
+MO,2919018,Dellwood,incorporated,25,A,4914,"Dellwood, MO",0,131,0,0,Dellwood city
+MO,2981124,Wright City,incorporated,25,A,4881,"Wright City, MO",0,132,0,0,Wright City city
+MO,2919216,Desloge,incorporated,25,A,4823,"Desloge, MO",0,133,0,0,Desloge city
+MO,2931960,Higginsville,incorporated,25,A,4817,"Higginsville, MO",0,134,0,0,Higginsville city
+MO,2964136,St. Clair,incorporated,25,A,4791,"St. Clair, MO",0,135,0,0,St. Clair city
+MO,2958178,Platte City,incorporated,25,A,4784,"Platte City, MO",0,136,0,0,Platte City city
+MO,2962660,Rock Hill,incorporated,25,A,4750,"Rock Hill, MO",0,137,0,0,Rock Hill city
+MO,2902242,Ashland,incorporated,25,A,4747,"Ashland, MO",0,138,0,0,Ashland city
+MO,2917632,Crystal City,incorporated,25,A,4740,"Crystal City, MO",0,139,0,0,Crystal City city
+MO,2931708,Herculaneum,incorporated,25,A,4672,"Herculaneum, MO",0,140,0,0,Herculaneum city
+MO,2941870,Lexington,incorporated,25,A,4652,"Lexington, MO",0,141,0,0,Lexington city
+MO,2955244,Osage Beach,incorporated,25,A,4637,"Osage Beach, MO",0,142,0,0,Osage Beach city
+MO,2965234,Salem,incorporated,25,A,4608,"Salem, MO",0,143,0,0,Salem city
+MO,2932662,Hollister,incorporated,25,A,4583,"Hollister, MO",0,144,0,0,Hollister city
+MO,2912898,Centralia,incorporated,25,A,4541,"Centralia, MO",0,145,0,0,Centralia city
+MO,2950672,Mount Vernon,incorporated,25,A,4526,"Mount Vernon, MO",0,146,0,0,Mount Vernon city
+MO,2910468,California,incorporated,25,A,4498,"California, MO",0,147,0,0,California city
+MO,2953102,North Kansas City,incorporated,25,A,4467,"North Kansas City, MO",0,148,0,0,North Kansas City city
+MO,2908164,Breckenridge Hills,incorporated,25,A,4458,"Breckenridge Hills, MO",0,149,0,0,Breckenridge Hills city
+MO,2932770,Holts Summit,incorporated,25,A,4458,"Holts Summit, MO",0,150,0,0,Holts Summit city
+MO,2925768,Fredericktown,incorporated,25,A,4429,"Fredericktown, MO",0,151,0,0,Fredericktown city
+MO,2921484,Eldon,incorporated,25,A,4416,"Eldon, MO",0,152,0,0,Eldon city
+MO,2966368,Scott City,incorporated,25,A,4346,"Scott City, MO",0,153,0,0,Scott City city
+MO,2950402,Mountain Grove,incorporated,25,A,4313,"Mountain Grove, MO",0,154,0,0,Mountain Grove city
+MO,2952796,Normandy,incorporated,25,A,4287,"Normandy, MO",0,155,0,0,Normandy city
+MO,2940376,Lamar,incorporated,25,A,4266,"Lamar, MO",0,156,0,0,Lamar city
+MO,2910054,Butler,incorporated,25,A,4220,"Butler, MO",0,157,0,0,Butler city
+MO,2907660,Bowling Green,incorporated,25,A,4195,"Bowling Green, MO",0,158,0,0,Bowling Green city
+MO,2908650,Brookfield,incorporated,25,A,4111,"Brookfield, MO",0,159,0,0,Brookfield city
+MO,2962156,Riverside,incorporated,25,A,4013,"Riverside, MO",0,160,0,0,Riverside city
+MO,2923950,Fenton,incorporated,25,A,3989,"Fenton, MO",0,161,0,0,Fenton city
+MO,2910810,Camdenton,incorporated,25,A,3960,"Camdenton, MO",0,162,0,0,Camdenton city
+MO,2980962,Woodson Terrace,incorporated,25,A,3950,"Woodson Terrace, MO",0,163,0,0,Woodson Terrace city
+MO,2964424,St. James,incorporated,25,A,3935,"St. James, MO",0,164,0,0,St. James city
+MO,2962894,Rogersville,incorporated,25,A,3897,"Rogersville, MO",0,165,0,0,Rogersville city
+MO,2945614,Malden,incorporated,25,A,3706,"Malden, MO",0,166,0,0,Malden city
+MO,2953408,Northwoods,incorporated,25,A,3687,"Northwoods, MO",0,167,0,0,Northwoods city
+MO,2956036,Palmyra,incorporated,25,A,3613,"Palmyra, MO",0,168,0,0,Palmyra city
+MO,2926110,Frontenac,incorporated,25,A,3612,"Frontenac, MO",0,169,0,0,Frontenac city
+MO,2975688,Vandalia,incorporated,25,A,3553,"Vandalia, MO",0,170,0,0,Vandalia city
+MO,2911566,Carrollton,incorporated,25,A,3514,"Carrollton, MO",0,171,0,0,Carrollton city
+MO,2921502,El Dorado Springs,incorporated,25,A,3493,"El Dorado Springs, MO",0,172,0,0,El Dorado Springs city
+MO,2932248,Hillsboro,incorporated,25,A,3473,"Hillsboro, MO",0,173,0,0,Hillsboro city
+MO,2950204,Moscow Mills,incorporated,25,A,3317,"Moscow Mills, MO",0,174,0,0,Moscow Mills city
+MO,2909514,Buffalo,incorporated,25,A,3290,"Buffalo, MO",0,175,0,0,Buffalo city
+MO,2971368,Sugar Creek,incorporated,25,A,3271,"Sugar Creek, MO",0,176,0,0,Sugar Creek city
+MO,2944174,Louisiana,incorporated,25,A,3199,"Louisiana, MO",0,177,0,0,Louisiana city
+MO,2911890,Cassville,incorporated,25,A,3190,"Cassville, MO",0,178,0,0,Cassville city
+MO,2917668,Cuba,incorporated,25,A,3181,"Cuba, MO",0,179,0,0,Cuba city
+MO,2910240,Byrnes Mill,incorporated,25,A,3173,"Byrnes Mill, MO",0,180,0,0,Byrnes Mill city
+MO,2912988,Chaffee,incorporated,25,A,3057,"Chaffee, MO",0,181,0,0,Chaffee city
+MO,2965108,St. Paul,incorporated,25,A,3005,"St. Paul, MO",0,182,0,0,St. Paul city
+MO,2909424,Buckner,incorporated,25,A,2945,"Buckner, MO",0,183,0,0,Buckner city
+MO,2921052,East Prairie,incorporated,25,A,2943,"East Prairie, MO",0,184,0,0,East Prairie city
+MO,2959186,Portageville,incorporated,25,A,2942,"Portageville, MO",0,185,0,0,Portageville city
+MO,2973420,Tipton,incorporated,25,A,2920,"Tipton, MO",0,186,0,0,Tipton city
+MO,2914788,Clever,incorporated,25,A,2918,"Clever, MO",0,187,0,0,Clever city
+MO,2905068,Bethany,incorporated,25,A,2915,"Bethany, MO",0,188,0,0,Bethany city
+MO,2902674,Ava,incorporated,25,A,2894,"Ava, MO",0,189,0,0,Ava city
+MO,2942464,Licking,incorporated,25,A,2851,"Licking, MO",0,190,0,0,Licking city
+MO,2949574,Montgomery City,incorporated,25,A,2811,"Montgomery City, MO",0,191,0,0,Montgomery City city
+MO,2923842,Fayette,incorporated,25,A,2803,"Fayette, MO",0,192,0,0,Fayette city
+MO,2952076,New Madrid,incorporated,25,A,2787,"New Madrid, MO",0,193,0,0,New Madrid city
+MO,2939188,Knob Noster,incorporated,25,A,2782,"Knob Noster, MO",0,194,0,0,Knob Noster city
+MO,2980350,Windsor,incorporated,25,A,2775,"Windsor, MO",0,195,0,0,Windsor city
+MO,2911134,Canton,incorporated,25,A,2774,"Canton, MO",0,196,0,0,Canton city
+MO,2955640,Owensville,incorporated,25,A,2757,"Owensville, MO",0,197,0,0,Owensville city
+MO,2957800,Pine Lawn,incorporated,25,A,2754,"Pine Lawn, MO",0,198,0,0,Pine Lawn city
+MO,2958520,Pleasant Valley,incorporated,25,A,2743,"Pleasant Valley, MO",0,199,0,0,Pleasant Valley city
+MO,2925192,Forsyth,incorporated,25,A,2730,"Forsyth, MO",0,200,0,0,Forsyth city
+MO,2929324,Green Park,incorporated,25,A,2705,"Green Park, MO",0,201,0,0,Green Park city
+MO,2949394,Monroe City,incorporated,25,A,2652,"Monroe City, MO",0,202,0,0,Monroe City city
+MO,2914176,Clarkson Valley,incorporated,25,A,2609,"Clarkson Valley, MO",0,203,0,0,Clarkson Valley city
+MO,2971062,Strafford,incorporated,25,A,2561,"Strafford, MO",0,204,0,0,Strafford city
+MO,2954920,Oronogo,incorporated,25,A,2558,"Oronogo, MO",0,205,0,0,Oronogo city
+MO,2955964,Pagedale,incorporated,25,A,2554,"Pagedale, MO",0,206,0,0,Pagedale city
+MO,2940988,Lawson,incorporated,25,A,2541,"Lawson, MO",0,207,0,0,Lawson city
+MO,2975922,Versailles,incorporated,25,A,2539,"Versailles, MO",0,208,0,0,Versailles city
+MO,2959330,Potosi,incorporated,25,A,2538,"Potosi, MO",0,209,0,0,Potosi city
+MO,2950438,Mountain View,incorporated,25,A,2533,"Mountain View, MO",0,210,0,0,Mountain View city
+MO,2931132,Hayti,incorporated,25,A,2493,"Hayti, MO",0,211,0,0,Hayti city
+MO,2916802,Country Club,incorporated,47,A,2487,"Country Club, MO",0,212,0,0,Country Club village
+MO,2951914,New Haven,incorporated,25,A,2414,"New Haven, MO",0,213,0,0,New Haven city
+MO,2962192,Riverview,incorporated,47,A,2397,"Riverview, MO",0,214,0,0,Riverview village
+MO,2976157,Village of Four Seasons,incorporated,47,A,2383,"Village of Four Seasons, MO",0,215,0,0,Village of Four Seasons village
+MO,2916102,Concordia,incorporated,25,A,2371,"Concordia, MO",0,216,0,0,Concordia city
+MO,2938612,Kimberling City,incorporated,25,A,2344,"Kimberling City, MO",0,217,0,0,Kimberling City city
+MO,2939980,Lake Lotawana,incorporated,25,A,2310,"Lake Lotawana, MO",0,218,0,0,Lake Lotawana city
+MO,2940826,Lathrop,incorporated,25,A,2271,"Lathrop, MO",0,219,0,0,Lathrop city
+MO,2966674,Seneca,incorporated,25,A,2230,"Seneca, MO",0,220,0,0,Seneca city
+MO,2958250,Plattsburg,incorporated,25,A,2222,"Plattsburg, MO",0,221,0,0,Plattsburg city
+MO,2946208,Marlborough,incorporated,47,A,2221,"Marlborough, MO",0,222,0,0,Marlborough village
+MO,2932572,Holden,incorporated,25,A,2210,"Holden, MO",0,223,0,0,Holden city
+MO,2977146,Warsaw,incorporated,25,A,2209,"Warsaw, MO",0,224,0,0,Warsaw city
+MO,2931762,Hermann,incorporated,25,A,2185,"Hermann, MO",0,225,0,0,Hermann city
+MO,2980098,Willow Springs,incorporated,25,A,2164,"Willow Springs, MO",0,226,0,0,Willow Springs city
+MO,2920512,Duquesne,incorporated,47,A,2159,"Duquesne, MO",0,227,0,0,Duquesne village
+MO,2949088,Moline Acres,incorporated,25,A,2156,"Moline Acres, MO",0,228,0,0,Moline Acres city
+MO,2904366,Bel-Ridge,incorporated,47,A,2132,"Bel-Ridge, MO",0,229,0,0,Bel-Ridge village
+MO,2952742,Noel,incorporated,25,A,2124,"Noel, MO",0,230,0,0,Noel city
+MO,2945866,Marceline,incorporated,25,A,2123,"Marceline, MO",0,231,0,0,Marceline city
+MO,2933238,Houston,incorporated,25,A,2079,"Houston, MO",0,232,0,0,Houston city
+MO,2940034,Lake Ozark,incorporated,25,A,2077,"Lake Ozark, MO",0,233,0,0,Lake Ozark city
+MO,2978046,Weatherby Lake,incorporated,25,A,2077,"Weatherby Lake, MO",0,234,0,0,Weatherby Lake city
+MO,2946172,Marionville,incorporated,25,A,2054,"Marionville, MO",0,235,0,0,Marionville city
+MO,2928108,Granby,incorporated,25,A,2050,"Granby, MO",0,236,0,0,Granby city
+MO,2977182,Warson Woods,incorporated,25,A,2018,"Warson Woods, MO",0,237,0,0,Warson Woods city
+MO,2930196,Hanley Hills,incorporated,47,A,2009,"Hanley Hills, MO",0,238,0,0,Hanley Hills village
+MO,2947520,Merriam Woods,incorporated,25,A,2006,"Merriam Woods, MO",0,239,0,0,Merriam Woods city
+MO,2901198,Anderson,incorporated,25,A,1981,"Anderson, MO",0,240,0,0,Anderson city
+MO,2976246,Vinita Park,incorporated,25,A,1970,"Vinita Park, MO",0,241,0,0,Vinita Park city
+MO,2937790,Kahoka,incorporated,25,A,1961,"Kahoka, MO",0,242,0,0,Kahoka city
+MO,2910288,Cabool,incorporated,25,A,1946,"Cabool, MO",0,243,0,0,Cabool city
+MO,2922114,Elsberry,incorporated,25,A,1937,"Elsberry, MO",0,244,0,0,Elsberry city
+MO,2957422,Piedmont,incorporated,25,A,1897,"Piedmont, MO",0,245,0,0,Piedmont city
+MO,2972826,Thayer,incorporated,25,A,1883,"Thayer, MO",0,246,0,0,Thayer city
+MO,2969302,Sparta,incorporated,25,A,1876,"Sparta, MO",0,247,0,0,Sparta city
+MO,2904960,Bernie,incorporated,25,A,1859,"Bernie, MO",0,248,0,0,Bernie city
+MO,2911638,Carterville,incorporated,25,A,1855,"Carterville, MO",0,249,0,0,Carterville city
+MO,2970558,Steele,incorporated,25,A,1853,"Steele, MO",0,250,0,0,Steele city
+MO,2966800,Seymour,incorporated,25,A,1841,"Seymour, MO",0,251,0,0,Seymour city
+MO,2968204,Slater,incorporated,25,A,1834,"Slater, MO",0,252,0,0,Slater city
+MO,2926308,Gallatin,incorporated,25,A,1821,"Gallatin, MO",0,253,0,0,Gallatin city
+MO,2948062,Milan,incorporated,25,A,1819,"Milan, MO",0,254,0,0,Milan city
+MO,2919792,Doniphan,incorporated,25,A,1781,"Doniphan, MO",0,255,0,0,Doniphan city
+MO,2978856,Weston,incorporated,25,A,1756,"Weston, MO",0,256,0,0,Weston city
+MO,2906382,Bloomfield,incorporated,25,A,1755,"Bloomfield, MO",0,257,0,0,Bloomfield city
+MO,2975166,Unionville,incorporated,25,A,1735,"Unionville, MO",0,258,0,0,Unionville city
+MO,2961562,Richland,incorporated,25,A,1734,"Richland, MO",0,259,0,0,Richland city
+MO,2947270,Memphis,incorporated,25,A,1731,"Memphis, MO",0,260,0,0,Memphis city
+MO,2900244,Adrian,incorporated,25,A,1730,"Adrian, MO",0,261,0,0,Adrian city
+MO,2930034,Hamilton,incorporated,25,A,1690,"Hamilton, MO",0,262,0,0,Hamilton city
+MO,2970828,Stockton,incorporated,25,A,1683,"Stockton, MO",0,263,0,0,Stockton city
+MO,2900514,Albany,incorporated,25,A,1679,"Albany, MO",0,264,0,0,Albany city
+MO,2926434,Garden City,incorporated,25,A,1629,"Garden City, MO",0,265,0,0,Garden City city
+MO,2929998,Hallsville,incorporated,25,A,1614,"Hallsville, MO",0,266,0,0,Hallsville city
+MO,2967178,Shelbina,incorporated,25,A,1613,"Shelbina, MO",0,267,0,0,Shelbina city
+MO,2910864,Campbell,incorporated,25,A,1605,"Campbell, MO",0,268,0,0,Campbell city
+MO,2977002,Wardsville,incorporated,47,A,1599,"Wardsville, MO",0,269,0,0,Wardsville village
+MO,2966638,Senath,incorporated,25,A,1593,"Senath, MO",0,270,0,0,Senath city
+MO,2923338,Fair Grove,incorporated,25,A,1582,"Fair Grove, MO",0,271,0,0,Fair Grove city
+MO,2907534,Bourbon,incorporated,25,A,1567,"Bourbon, MO",0,272,0,0,Bourbon city
+MO,2965450,Salisbury,incorporated,25,A,1563,"Salisbury, MO",0,273,0,0,Salisbury city
+MO,2940088,Lakeshire,incorporated,25,A,1554,"Lakeshire, MO",0,274,0,0,Lakeshire city
+MO,2978370,Wellston,incorporated,25,A,1537,"Wellston, MO",0,275,0,0,Wellston city
+MO,2928036,Gower,incorporated,25,A,1533,"Gower, MO",0,276,0,0,Gower city
+MO,2980422,Winfield,incorporated,25,A,1518,"Winfield, MO",0,277,0,0,Winfield city
+MO,2902188,Ash Grove,incorporated,25,A,1512,"Ash Grove, MO",0,278,0,0,Ash Grove city
+MO,2972340,Tarkio,incorporated,25,A,1506,"Tarkio, MO",0,279,0,0,Tarkio city
+MO,2917074,Crane,incorporated,25,A,1495,"Crane, MO",0,280,0,0,Crane city
+MO,2920314,Duenweg,incorporated,25,A,1495,"Duenweg, MO",0,281,0,0,Duenweg city
+MO,2943760,Lone Jack,incorporated,25,A,1492,"Lone Jack, MO",0,282,0,0,Lone Jack city
+MO,2935468,Ironton,incorporated,25,A,1475,"Ironton, MO",0,283,0,0,Ironton city
+MO,2970576,Steelville,incorporated,25,A,1472,"Steelville, MO",0,284,0,0,Steelville city
+MO,2980314,Winchester,incorporated,25,A,1447,"Winchester, MO",0,285,0,0,Winchester city
+MO,2940340,Lake Winnebago,incorporated,25,A,1433,"Lake Winnebago, MO",0,286,0,0,Lake Winnebago city
+MO,2965990,Sarcoxie,incorporated,25,A,1406,"Sarcoxie, MO",0,287,0,0,Sarcoxie city
+MO,2904348,Bel-Nor,incorporated,47,A,1399,"Bel-Nor, MO",0,288,0,0,Bel-Nor village
+MO,2953750,Oakland,incorporated,25,A,1390,"Oakland, MO",0,289,0,0,Oakland city
+MO,2945848,Marble Hill,incorporated,25,A,1388,"Marble Hill, MO",0,290,0,0,Marble Hill city
+MO,2904150,Belle,incorporated,25,A,1381,"Belle, MO",0,291,0,0,Belle city
+MO,2933886,Huntsville,incorporated,25,A,1376,"Huntsville, MO",0,292,0,0,Huntsville city
+MO,2926866,Gerald,incorporated,25,A,1361,"Gerald, MO",0,293,0,0,Gerald city
+MO,2943238,Linn,incorporated,25,A,1350,"Linn, MO",0,294,0,0,Linn city
+MO,2900262,Advance,incorporated,25,A,1349,"Advance, MO",0,295,0,0,Advance city
+MO,2914554,Claycomo,incorporated,47,A,1343,"Claycomo, MO",0,296,0,0,Claycomo village
+MO,2971890,Sweet Springs,incorporated,25,A,1316,"Sweet Springs, MO",0,297,0,0,Sweet Springs city
+MO,2913330,Charlack,incorporated,25,A,1304,"Charlack, MO",0,298,0,0,Charlack city
+MO,2962696,Rock Port,incorporated,25,A,1278,"Rock Port, MO",0,299,0,0,Rock Port city
+MO,2901702,Archie,incorporated,25,A,1268,"Archie, MO",0,300,0,0,Archie city
+MO,2940682,La Plata,incorporated,25,A,1257,"La Plata, MO",0,301,0,0,La Plata city
+MO,2957494,Pierce City,incorporated,25,A,1251,"Pierce City, MO",0,302,0,0,Pierce City city
+MO,2946424,Marthasville,incorporated,25,A,1245,"Marthasville, MO",0,303,0,0,Marthasville city
+MO,2905878,Bismarck,incorporated,25,A,1239,"Bismarck, MO",0,304,0,0,Bismarck city
+MO,2919630,Dixon,incorporated,25,A,1232,"Dixon, MO",0,305,0,0,Dixon city
+MO,2961418,Rich Hill,incorporated,25,A,1232,"Rich Hill, MO",0,306,0,0,Rich Hill city
+MO,2929206,Greenfield,incorporated,25,A,1220,"Greenfield, MO",0,307,0,0,Greenfield city
+MO,2932266,Hillsdale,incorporated,47,A,1216,"Hillsdale, MO",0,308,0,0,Hillsdale village
+MO,2927874,Goodman,incorporated,25,A,1202,"Goodman, MO",0,309,0,0,Goodman city
+MO,2954758,Oran,incorporated,25,A,1195,"Oran, MO",0,310,0,0,Oran city
+MO,2945740,Mansfield,incorporated,25,A,1193,"Mansfield, MO",0,311,0,0,Mansfield city
+MO,2965018,St. Martins,incorporated,25,A,1191,"St. Martins, MO",0,312,0,0,St. Martins city
+MO,2975796,Velda City,incorporated,25,A,1188,"Velda City, MO",0,313,0,0,Velda City city
+MO,2941078,Leadwood,incorporated,25,A,1178,"Leadwood, MO",0,314,0,0,Leadwood city
+MO,2956144,Paris,incorporated,25,A,1161,"Paris, MO",0,315,0,0,Paris city
+MO,2972304,Taos,incorporated,25,A,1150,"Taos, MO",0,316,0,0,Taos city
+MO,2942608,Lincoln,incorporated,25,A,1144,"Lincoln, MO",0,317,0,0,Lincoln city
+MO,2910612,Calverton Park,incorporated,25,A,1143,"Calverton Park, MO",0,318,0,0,Calverton Park city
+MO,2961112,Reeds Spring,incorporated,25,A,1136,"Reeds Spring, MO",0,319,0,0,Reeds Spring city
+MO,2970270,Stanberry,incorporated,25,A,1129,"Stanberry, MO",0,320,0,0,Stanberry city
+MO,2915436,Cole Camp,incorporated,25,A,1104,"Cole Camp, MO",0,321,0,0,Cole Camp city
+MO,2946946,Maysville,incorporated,25,A,1095,"Maysville, MO",0,322,0,0,Maysville city
+MO,2927208,Glasgow,incorporated,25,A,1087,"Glasgow, MO",0,323,0,0,Glasgow city
+MO,2905626,Billings,incorporated,25,A,1084,"Billings, MO",0,324,0,0,Billings city
+MO,2925957,Fremont Hills,incorporated,25,A,1049,"Fremont Hills, MO",0,325,0,0,Fremont Hills city
+MO,2916228,Cool Valley,incorporated,25,A,1039,"Cool Valley, MO",0,326,0,0,Cool Valley city
+MO,2901522,Appleton City,incorporated,25,A,1032,"Appleton City, MO",0,327,0,0,Appleton City city
+MO,2960176,Purdy,incorporated,25,A,1031,"Purdy, MO",0,328,0,0,Purdy city
+MO,2951824,New Franklin,incorporated,25,A,1027,"New Franklin, MO",0,329,0,0,New Franklin city
+MO,2916822,Country Club Hills,incorporated,25,A,1014,"Country Club Hills, MO",0,330,0,0,Country Club Hills city
+MO,2940520,La Monte,incorporated,25,A,1014,"La Monte, MO",0,331,0,0,La Monte city
+MO,2921322,Edina,incorporated,25,A,1012,"Edina, MO",0,332,0,0,Edina city
+MO,2914212,Clarkton,incorporated,25,A,1009,"Clarkton, MO",0,333,0,0,Clarkton city
+MO,2959942,Princeton,incorporated,25,A,1007,"Princeton, MO",0,334,0,0,Princeton city
+MO,2971044,Stover,incorporated,25,A,1006,"Stover, MO",0,335,0,0,Stover city
+MO,2950312,Mound City,incorporated,25,A,1004,"Mound City, MO",0,336,0,0,Mound City city
+MO,2902638,Auxvasse,incorporated,25,A,1001,"Auxvasse, MO",0,337,0,0,Auxvasse city
+MO,2978406,Wellsville,incorporated,25,A,998,"Wellsville, MO",0,338,0,0,Wellsville city
+MO,2942536,Lilbourn,incorporated,25,A,994,"Lilbourn, MO",0,339,0,0,Lilbourn city
+MO,2924688,Flint Hill,incorporated,25,A,981,"Flint Hill, MO",0,340,0,0,Flint Hill city
+MO,2920134,Drexel,incorporated,25,A,968,"Drexel, MO",0,341,0,0,Drexel city
+MO,2932068,Highlandville,incorporated,25,A,963,"Highlandville, MO",0,342,0,0,Highlandville city
+MO,2980512,Winona,incorporated,25,A,950,"Winona, MO",0,343,0,0,Winona city
+MO,2943672,Loma Linda,incorporated,43,A,943,"Loma Linda, MO",0,344,0,0,Loma Linda town
+MO,2952058,New London,incorporated,25,A,943,"New London, MO",0,345,0,0,New London city
+MO,2928630,Grantwood Village,incorporated,43,A,941,"Grantwood Village, MO",0,346,0,0,Grantwood Village town
+MO,2940916,Laurie,incorporated,25,A,939,"Laurie, MO",0,347,0,0,Laurie city
+MO,2917344,Crocker,incorporated,25,A,929,"Crocker, MO",0,348,0,0,Crocker city
+MO,2969230,Southwest City,incorporated,43,A,922,"Southwest City, MO",0,349,0,0,Southwest City town
+MO,2948656,Miner,incorporated,25,A,916,"Miner, MO",0,350,0,0,Miner city
+MO,2956396,Pasadena Hills,incorporated,25,A,912,"Pasadena Hills, MO",0,351,0,0,Pasadena Hills city
+MO,2955388,Osceola,incorporated,25,A,909,"Osceola, MO",0,352,0,0,Osceola city
+MO,2933706,Humansville,incorporated,25,A,907,"Humansville, MO",0,353,0,0,Humansville city
+MO,2971224,Sturgeon,incorporated,25,A,907,"Sturgeon, MO",0,354,0,0,Sturgeon city
+MO,2936512,Jasper,incorporated,25,A,906,"Jasper, MO",0,355,0,0,Jasper city
+MO,2953462,Norwood Court,incorporated,43,A,890,"Norwood Court, MO",0,356,0,0,Norwood Court town
+MO,2940322,Lake Waukomis,incorporated,25,A,888,"Lake Waukomis, MO",0,357,0,0,Lake Waukomis city
+MO,2975814,Velda Village Hills,incorporated,25,A,881,"Velda Village Hills, MO",0,358,0,0,Velda Village Hills city
+MO,2960284,Puxico,incorporated,25,A,873,"Puxico, MO",0,359,0,0,Puxico city
+MO,2904798,Benton,incorporated,25,A,866,"Benton, MO",0,360,0,0,Benton city
+MO,2943468,Loch Lloyd,incorporated,47,A,863,"Loch Lloyd, MO",0,361,0,0,Loch Lloyd village
+MO,2921376,Edmundson,incorporated,25,A,860,"Edmundson, MO",0,362,0,0,Edmundson city
+MO,2973978,Truesdale,incorporated,25,A,853,"Truesdale, MO",0,363,0,0,Truesdale city
+MO,2943490,Lockwood,incorporated,25,A,846,"Lockwood, MO",0,364,0,0,Lockwood city
+MO,2954848,Oregon,incorporated,25,A,837,"Oregon, MO",0,365,0,0,Oregon city
+MO,2919432,Diamond,incorporated,43,A,831,"Diamond, MO",0,366,0,0,Diamond town
+MO,2962570,Rockaway Beach,incorporated,25,A,829,"Rockaway Beach, MO",0,367,0,0,Rockaway Beach city
+MO,2939764,La Grange,incorporated,25,A,825,"La Grange, MO",0,368,0,0,La Grange city
+MO,2928594,Grant City,incorporated,43,A,817,"Grant City, MO",0,369,0,0,Grant City town
+MO,2966530,Seligman,incorporated,25,A,813,"Seligman, MO",0,370,0,0,Seligman city
+MO,2957818,Pineville,incorporated,25,A,802,"Pineville, MO",0,371,0,0,Pineville city
+MO,2909046,Brunswick,incorporated,25,A,801,"Brunswick, MO",0,372,0,0,Brunswick city
+MO,2938774,King City,incorporated,25,A,799,"King City, MO",0,373,0,0,King City city
+MO,2940196,Lake Tapawingo,incorporated,25,A,794,"Lake Tapawingo, MO",0,374,0,0,Lake Tapawingo city
+MO,2921844,Ellington,incorporated,25,A,790,"Ellington, MO",0,375,0,0,Ellington city
+MO,2977866,Waverly,incorporated,25,A,784,"Waverly, MO",0,376,0,0,Waverly city
+MO,2926974,Gideon,incorporated,25,A,780,"Gideon, MO",0,377,0,0,Gideon city
+MO,2925012,Fordland,incorporated,25,A,778,"Fordland, MO",0,378,0,0,Fordland city
+MO,2963704,Russellville,incorporated,25,A,778,"Russellville, MO",0,379,0,0,Russellville city
+MO,2900424,Airport Drive,incorporated,47,A,766,"Airport Drive, MO",0,380,0,0,Airport Drive village
+MO,2941024,Leadington,incorporated,25,A,764,"Leadington, MO",0,381,0,0,Leadington city
+MO,2904114,Bella Villa,incorporated,25,A,757,"Bella Villa, MO",0,382,0,0,Bella Villa city
+MO,2980767,Wood Heights,incorporated,25,A,757,"Wood Heights, MO",0,383,0,0,Wood Heights city
+MO,2954938,Orrick,incorporated,25,A,753,"Orrick, MO",0,384,0,0,Orrick city
+MO,2975580,Van Buren,incorporated,43,A,747,"Van Buren, MO",0,385,0,0,Van Buren town
+MO,2926218,Gainesville,incorporated,25,A,745,"Gainesville, MO",0,386,0,0,Gainesville city
+MO,2949898,Morehouse,incorporated,25,A,741,"Morehouse, MO",0,387,0,0,Morehouse city
+MO,2913978,Clarence,incorporated,25,A,738,"Clarence, MO",0,388,0,0,Clarence city
+MO,2978352,Wellington,incorporated,25,A,738,"Wellington, MO",0,389,0,0,Wellington city
+MO,2908038,Braymer,incorporated,25,A,737,"Braymer, MO",0,390,0,0,Braymer city
+MO,2923122,Exeter,incorporated,25,A,733,"Exeter, MO",0,391,0,0,Exeter city
+MO,2970738,Stewartsville,incorporated,25,A,733,"Stewartsville, MO",0,392,0,0,Stewartsville city
+MO,2916192,Conway,incorporated,25,A,729,"Conway, MO",0,393,0,0,Conway city
+MO,2937574,Jonesburg,incorporated,25,A,726,"Jonesburg, MO",0,394,0,0,Jonesburg city
+MO,2924706,Flordell Hills,incorporated,25,A,724,"Flordell Hills, MO",0,395,0,0,Flordell Hills city
+MO,2954686,Olympian Village,incorporated,25,A,719,"Olympian Village, MO",0,396,0,0,Olympian Village city
+MO,2904996,Bertrand,incorporated,25,A,718,"Bertrand, MO",0,397,0,0,Bertrand city
+MO,2900964,Alton,incorporated,25,A,707,"Alton, MO",0,398,0,0,Alton city
+MO,2948242,Miller,incorporated,25,A,704,"Miller, MO",0,399,0,0,Miller city
+MO,2934228,Iberia,incorporated,25,A,703,"Iberia, MO",0,400,0,0,Iberia city
+MO,2951680,New Bloomfield,incorporated,25,A,687,"New Bloomfield, MO",0,401,0,0,New Bloomfield city
+MO,2931024,Hawk Point,incorporated,25,A,676,"Hawk Point, MO",0,402,0,0,Hawk Point city
+MO,2940610,Lancaster,incorporated,25,A,675,"Lancaster, MO",0,403,0,0,Lancaster city
+MO,2979126,Wheaton,incorporated,25,A,672,"Wheaton, MO",0,404,0,0,Wheaton city
+MO,2900298,Agency,incorporated,47,A,671,"Agency, MO",0,405,0,0,Agency village
+MO,2957656,Pilot Knob,incorporated,25,A,671,"Pilot Knob, MO",0,406,0,0,Pilot Knob city
+MO,2976012,Viburnum,incorporated,25,A,667,"Viburnum, MO",0,407,0,0,Viburnum city
+MO,2957080,Perry,incorporated,25,A,665,"Perry, MO",0,408,0,0,Perry city
+MO,2957602,Pilot Grove,incorporated,25,A,665,"Pilot Grove, MO",0,409,0,0,Pilot Grove city
+MO,2939512,La Belle,incorporated,25,A,664,"La Belle, MO",0,410,0,0,La Belle city
+MO,2956306,Parkway,incorporated,47,A,663,"Parkway, MO",0,411,0,0,Parkway village
+MO,2958448,Pleasant Hope,incorporated,25,A,657,"Pleasant Hope, MO",0,412,0,0,Pleasant Hope city
+MO,2927676,Golden City,incorporated,25,A,656,"Golden City, MO",0,413,0,0,Golden City city
+MO,2976840,Walnut Grove,incorporated,25,A,652,"Walnut Grove, MO",0,414,0,0,Walnut Grove city
+MO,2914770,Cleveland,incorporated,25,A,650,"Cleveland, MO",0,415,0,0,Cleveland city
+MO,2923266,Fairfax,incorporated,25,A,648,"Fairfax, MO",0,416,0,0,Fairfax city
+MO,2924058,Ferrelview,incorporated,47,A,642,"Ferrelview, MO",0,417,0,0,Ferrelview village
+MO,2929152,Greendale,incorporated,25,A,642,"Greendale, MO",0,418,0,0,Greendale city
+MO,2932536,Holcomb,incorporated,25,A,642,"Holcomb, MO",0,419,0,0,Holcomb city
+MO,2951770,New Florence,incorporated,25,A,641,"New Florence, MO",0,420,0,0,New Florence city
+MO,2935450,Iron Mountain Lake,incorporated,25,A,640,"Iron Mountain Lake, MO",0,421,0,0,Iron Mountain Lake city
+MO,2906454,Bloomsdale,incorporated,25,A,639,"Bloomsdale, MO",0,422,0,0,Bloomsdale city
+MO,2905266,Bevier,incorporated,25,A,636,"Bevier, MO",0,423,0,0,Bevier city
+MO,2952760,Norborne,incorporated,25,A,634,"Norborne, MO",0,424,0,0,Norborne city
+MO,2949988,Morley,incorporated,25,A,630,"Morley, MO",0,425,0,0,Morley city
+MO,2941906,Liberal,incorporated,25,A,629,"Liberal, MO",0,426,0,0,Liberal city
+MO,2927928,Gordonville,incorporated,47,A,625,"Gordonville, MO",0,427,0,0,Gordonville village
+MO,2931780,Hermitage,incorporated,25,A,621,"Hermitage, MO",0,428,0,0,Hermitage city
+MO,2941132,Leawood,incorporated,47,A,620,"Leawood, MO",0,429,0,0,Leawood village
+MO,2901648,Arcadia,incorporated,25,A,618,"Arcadia, MO",0,430,0,0,Arcadia city
+MO,2944282,Lowry City,incorporated,25,A,613,"Lowry City, MO",0,431,0,0,Lowry City city
+MO,2974284,Twin Oaks,incorporated,47,A,605,"Twin Oaks, MO",0,432,0,0,Twin Oaks village
+MO,2929134,Green City,incorporated,25,A,602,"Green City, MO",0,433,0,0,Green City city
+MO,2921250,Edgerton,incorporated,25,A,601,"Edgerton, MO",0,434,0,0,Edgerton city
+MO,2935240,Innsbrook,incorporated,47,A,596,"Innsbrook, MO",0,435,0,0,Innsbrook village
+MO,2930754,Hartville,incorporated,25,A,594,"Hartville, MO",0,436,0,0,Hartville city
+MO,2976102,Vienna,incorporated,25,A,581,"Vienna, MO",0,437,0,0,Vienna city
+MO,2953454,Norwood,incorporated,25,A,578,"Norwood, MO",0,438,0,0,Norwood city
+MO,2973852,Trimble,incorporated,25,A,573,"Trimble, MO",0,439,0,0,Trimble city
+MO,2930322,Hardin,incorporated,25,A,571,"Hardin, MO",0,440,0,0,Hardin city
+MO,2919828,Doolittle,incorporated,25,A,564,"Doolittle, MO",0,441,0,0,Doolittle city
+MO,2960356,Queen City,incorporated,25,A,562,"Queen City, MO",0,442,0,0,Queen City city
+MO,2911350,Cardwell,incorporated,25,A,561,"Cardwell, MO",0,443,0,0,Cardwell city
+MO,2972034,Sycamore Hills,incorporated,47,A,561,"Sycamore Hills, MO",0,444,0,0,Sycamore Hills village
+MO,2936332,Jamesport,incorporated,25,A,559,"Jamesport, MO",0,445,0,0,Jamesport city
+MO,2956342,Parma,incorporated,25,A,555,"Parma, MO",0,446,0,0,Parma city
+MO,2938216,Kelso,incorporated,47,A,554,"Kelso, MO",0,447,0,0,Kelso village
+MO,2925120,Foristell,incorporated,25,A,550,"Foristell, MO",0,448,0,0,Foristell city
+MO,2935186,Indian Point,incorporated,47,A,550,"Indian Point, MO",0,449,0,0,Indian Point village
+MO,2900496,Alba,incorporated,25,A,544,"Alba, MO",0,450,0,0,Alba city
+MO,2905734,Birch Tree,incorporated,25,A,541,"Birch Tree, MO",0,451,0,0,Birch Tree city
+MO,2952148,New Melle,incorporated,25,A,541,"New Melle, MO",0,452,0,0,New Melle city
+MO,2927262,Glenaire,incorporated,25,A,539,"Glenaire, MO",0,453,0,0,Glenaire city
+MO,2933076,Hornersville,incorporated,25,A,537,"Hornersville, MO",0,454,0,0,Hornersville city
+MO,2946730,Matthews,incorporated,25,A,534,"Matthews, MO",0,455,0,0,Matthews city
+MO,2941402,Leeton,incorporated,25,A,532,"Leeton, MO",0,456,0,0,Leeton city
+MO,2912592,Center,incorporated,25,A,528,"Center, MO",0,457,0,0,Center city
+MO,2909838,Burlington Junction,incorporated,25,A,521,"Burlington Junction, MO",0,458,0,0,Burlington Junction city
+MO,2941852,Lewistown,incorporated,43,A,521,"Lewistown, MO",0,459,0,0,Lewistown town
+MO,2967196,Shelbyville,incorporated,25,A,518,"Shelbyville, MO",0,460,0,0,Shelbyville city
+MO,2922276,Eminence,incorporated,25,A,515,"Eminence, MO",0,461,0,0,Eminence city
+MO,2931168,Hayti Heights,incorporated,25,A,515,"Hayti Heights, MO",0,462,0,0,Hayti Heights city
+MO,2945470,Madison,incorporated,25,A,515,"Madison, MO",0,463,0,0,Madison city
+MO,2937700,Josephville,incorporated,47,A,512,"Josephville, MO",0,464,0,0,Josephville village
+MO,2958916,Polo,incorporated,25,A,509,"Polo, MO",0,465,0,0,Polo city
+MO,2917650,Crystal Lake Park,incorporated,25,A,508,"Crystal Lake Park, MO",0,466,0,0,Crystal Lake Park city
+MO,2975886,Verona,incorporated,43,A,507,"Verona, MO",0,467,0,0,Verona town
+MO,2906256,Bland,incorporated,25,A,506,"Bland, MO",0,468,0,0,Bland city
+MO,2968384,Smithton,incorporated,25,A,506,"Smithton, MO",0,469,0,0,Smithton city
+MO,2939602,Laddonia,incorporated,25,A,502,"Laddonia, MO",0,470,0,0,Laddonia city
+MO,2907989,Branson West,incorporated,25,A,484,"Branson West, MO",0,471,0,0,Branson West city
+MO,2918658,Dearborn,incorporated,25,A,482,"Dearborn, MO",0,472,0,0,Dearborn city
+MO,2905248,Beverly Hills,incorporated,25,A,475,"Beverly Hills, MO",0,473,0,0,Beverly Hills city
+MO,2925894,Freeman,incorporated,25,A,475,"Freeman, MO",0,474,0,0,Freeman city
+MO,2922474,Eolia,incorporated,47,A,472,"Eolia, MO",0,475,0,0,Eolia village
+MO,2933004,Hopkins,incorporated,25,A,472,"Hopkins, MO",0,476,0,0,Hopkins city
+MO,2932752,Holt,incorporated,25,A,471,"Holt, MO",0,477,0,0,Holt city
+MO,2929332,Green Ridge,incorporated,25,A,468,"Green Ridge, MO",0,478,0,0,Green Ridge city
+MO,2904132,Bell City,incorporated,25,A,464,"Bell City, MO",0,479,0,0,Bell City city
+MO,2975346,Urich,incorporated,25,A,463,"Urich, MO",0,480,0,0,Urich city
+MO,2960428,Qulin,incorporated,25,A,460,"Qulin, MO",0,481,0,0,Qulin city
+MO,2931924,Higbee,incorporated,25,A,459,"Higbee, MO",0,482,0,0,Higbee city
+MO,2910792,Camden Point,incorporated,25,A,457,"Camden Point, MO",0,483,0,0,Camden Point city
+MO,2926254,Galena,incorporated,25,A,455,"Galena, MO",0,484,0,0,Galena city
+MO,2971512,Summersville,incorporated,25,A,453,"Summersville, MO",0,485,0,0,Summersville city
+MO,2929476,Greenville,incorporated,25,A,443,"Greenville, MO",0,486,0,0,Greenville city
+MO,2938468,Keytesville,incorporated,25,A,440,"Keytesville, MO",0,487,0,0,Keytesville city
+MO,2951302,Naylor,incorporated,25,A,440,"Naylor, MO",0,488,0,0,Naylor city
+MO,2955478,Otterville,incorporated,25,A,440,"Otterville, MO",0,489,0,0,Otterville city
+MO,2960716,Ravenwood,incorporated,43,A,439,"Ravenwood, MO",0,490,0,0,Ravenwood town
+MO,2979756,Wilbur Park,incorporated,47,A,439,"Wilbur Park, MO",0,491,0,0,Wilbur Park village
+MO,2902800,Avondale,incorporated,25,A,436,"Avondale, MO",0,492,0,0,Avondale city
+MO,2956414,Pasadena Park,incorporated,47,A,435,"Pasadena Park, MO",0,493,0,0,Pasadena Park village
+MO,2967214,Sheldon,incorporated,25,A,435,"Sheldon, MO",0,494,0,0,Sheldon city
+MO,2971728,Sunrise Beach,incorporated,47,A,431,"Sunrise Beach, MO",0,495,0,0,Sunrise Beach village
+MO,2909642,Bull Creek,incorporated,47,A,426,"Bull Creek, MO",0,496,0,0,Bull Creek village
+MO,2923428,Fair Play,incorporated,25,A,422,"Fair Play, MO",0,497,0,0,Fair Play city
+MO,2923518,Fairview,incorporated,43,A,419,"Fairview, MO",0,498,0,0,Fairview town
+MO,2916408,Corder,incorporated,25,A,418,"Corder, MO",0,499,0,0,Corder city
+MO,2964190,St. Elizabeth,incorporated,47,A,418,"St. Elizabeth, MO",0,500,0,0,St. Elizabeth village
+MO,2921916,Ellsinore,incorporated,25,A,416,"Ellsinore, MO",0,501,0,0,Ellsinore city
+MO,2947036,Meadville,incorporated,25,A,415,"Meadville, MO",0,502,0,0,Meadville city
+MO,2909388,Bucklin,incorporated,25,A,413,"Bucklin, MO",0,503,0,0,Bucklin city
+MO,2953650,Oak Grove Village,incorporated,47,A,412,"Oak Grove Village, MO",0,504,0,0,Oak Grove Village village
+MO,2925822,Freeburg,incorporated,47,A,409,"Freeburg, MO",0,505,0,0,Freeburg village
+MO,2977920,Wayland,incorporated,25,A,408,"Wayland, MO",0,506,0,0,Wayland city
+MO,2977200,Washburn,incorporated,25,A,407,"Washburn, MO",0,507,0,0,Washburn city
+MO,2923032,Ewing,incorporated,25,A,406,"Ewing, MO",0,508,0,0,Ewing city
+MO,2901630,Arbyrd,incorporated,25,A,404,"Arbyrd, MO",0,509,0,0,Arbyrd city
+MO,2922600,Essex,incorporated,25,A,403,"Essex, MO",0,510,0,0,Essex city
+MO,2900802,Alma,incorporated,25,A,400,"Alma, MO",0,511,0,0,Alma city
+MO,2946406,Marston,incorporated,25,A,397,"Marston, MO",0,512,0,0,Marston city
+MO,2958196,Platte Woods,incorporated,25,A,394,"Platte Woods, MO",0,513,0,0,Platte Woods city
+MO,2910450,Calhoun,incorporated,25,A,392,"Calhoun, MO",0,514,0,0,Calhoun city
+MO,2917660,Crystal Lakes,incorporated,25,A,390,"Crystal Lakes, MO",0,515,0,0,Crystal Lakes city
+MO,2952418,Niangua,incorporated,25,A,390,"Niangua, MO",0,516,0,0,Niangua city
+MO,2963110,Rosebud,incorporated,25,A,390,"Rosebud, MO",0,517,0,0,Rosebud city
+MO,2929422,Greentop,incorporated,25,A,388,"Greentop, MO",0,518,0,0,Greentop city
+MO,2975310,Urbana,incorporated,25,A,387,"Urbana, MO",0,519,0,0,Urbana city
+MO,2949664,Montrose,incorporated,25,A,383,"Montrose, MO",0,520,0,0,Montrose city
+MO,2953534,Novinger,incorporated,25,A,383,"Novinger, MO",0,521,0,0,Novinger city
+MO,2975130,Union Star,incorporated,43,A,380,"Union Star, MO",0,522,0,0,Union Star town
+MO,2902422,Atlanta,incorporated,25,A,379,"Atlanta, MO",0,523,0,0,Atlanta city
+MO,2910144,Butterfield,incorporated,25,A,378,"Butterfield, MO",0,524,0,0,Butterfield city
+MO,2978064,Weaubleau,incorporated,25,A,378,"Weaubleau, MO",0,525,0,0,Weaubleau city
+MO,2978910,Westphalia,incorporated,25,A,378,"Westphalia, MO",0,526,0,0,Westphalia city
+MO,2913060,Chamois,incorporated,25,A,377,"Chamois, MO",0,527,0,0,Chamois city
+MO,2919072,Delta,incorporated,25,A,376,"Delta, MO",0,528,0,0,Delta city
+MO,2950078,Morrisville,incorporated,43,A,376,"Morrisville, MO",0,529,0,0,Morrisville town
+MO,2929908,Hale,incorporated,25,A,375,"Hale, MO",0,530,0,0,Hale city
+MO,2955352,Osborn,incorporated,25,A,374,"Osborn, MO",0,531,0,0,Osborn city
+MO,2940592,Lanagan,incorporated,43,A,373,"Lanagan, MO",0,532,0,0,Lanagan town
+MO,2914194,Clarksville,incorporated,25,A,372,"Clarksville, MO",0,533,0,0,Clarksville city
+MO,2961904,Ridgeway,incorporated,25,A,372,"Ridgeway, MO",0,534,0,0,Ridgeway city
+MO,2935396,Irondale,incorporated,25,A,368,"Irondale, MO",0,535,0,0,Irondale city
+MO,2953858,Oakview,incorporated,47,A,366,"Oakview, MO",0,536,0,0,Oakview village
+MO,2933850,Huntleigh,incorporated,25,A,361,"Huntleigh, MO",0,537,0,0,Huntleigh city
+MO,2936422,Jane,incorporated,43,A,359,"Jane, MO",0,538,0,0,Jane town
+MO,2978514,West Alton,incorporated,25,A,359,"West Alton, MO",0,539,0,0,West Alton city
+MO,2980380,Windsor Place,incorporated,47,A,358,"Windsor Place, MO",0,540,0,0,Windsor Place village
+MO,2967628,Shoal Creek Drive,incorporated,47,A,356,"Shoal Creek Drive, MO",0,541,0,0,Shoal Creek Drive village
+MO,2918730,Deepwater,incorporated,25,A,355,"Deepwater, MO",0,542,0,0,Deepwater city
+MO,2960734,Raymondville,incorporated,43,A,345,"Raymondville, MO",0,543,0,0,Raymondville town
+MO,2916336,Cooter,incorporated,25,A,343,"Cooter, MO",0,544,0,0,Cooter city
+MO,2925552,Frankford,incorporated,25,A,343,"Frankford, MO",0,545,0,0,Frankford city
+MO,2900928,Altenburg,incorporated,25,A,341,"Altenburg, MO",0,546,0,0,Altenburg city
+MO,2959150,Portage Des Sioux,incorporated,25,A,335,"Portage Des Sioux, MO",0,547,0,0,Portage Des Sioux city
+MO,2909658,Bunceton,incorporated,25,A,334,"Bunceton, MO",0,548,0,0,Bunceton city
+MO,2951716,Newburg,incorporated,25,A,333,"Newburg, MO",0,549,0,0,Newburg city
+MO,2936368,Jamestown,incorporated,43,A,330,"Jamestown, MO",0,550,0,0,Jamestown town
+MO,2927064,Gilman City,incorporated,25,A,329,"Gilman City, MO",0,551,0,0,Gilman City city
+MO,2917164,Creighton,incorporated,25,A,327,"Creighton, MO",0,552,0,0,Creighton city
+MO,2941114,Leasburg,incorporated,47,A,326,"Leasburg, MO",0,553,0,0,Leasburg village
+MO,2904330,Bellflower,incorporated,25,A,325,"Bellflower, MO",0,554,0,0,Bellflower city
+MO,2951446,Neelyville,incorporated,25,A,318,"Neelyville, MO",0,555,0,0,Neelyville city
+MO,2960140,Purcell,incorporated,25,A,318,"Purcell, MO",0,556,0,0,Purcell city
+MO,2979054,Westwood,incorporated,47,A,316,"Westwood, MO",0,557,0,0,Westwood village
+MO,2956558,Pattonsburg,incorporated,25,A,314,"Pattonsburg, MO",0,558,0,0,Pattonsburg city
+MO,2967718,Sibley,incorporated,47,A,314,"Sibley, MO",0,559,0,0,Sibley village
+MO,2924328,Fisk,incorporated,25,A,312,"Fisk, MO",0,560,0,0,Fisk city
+MO,2975238,Uplands Park,incorporated,47,A,312,"Uplands Park, MO",0,561,0,0,Uplands Park village
+MO,2976966,Wardell,incorporated,43,A,310,"Wardell, MO",0,562,0,0,Wardell town
+MO,2963857,Saddlebrooke,incorporated,47,A,309,"Saddlebrooke, MO",0,563,0,0,Saddlebrooke village
+MO,2965034,St. Mary,incorporated,25,A,309,"St. Mary, MO",0,564,0,0,St. Mary city
+MO,2919504,Diggins,incorporated,47,A,305,"Diggins, MO",0,565,0,0,Diggins village
+MO,2939566,Laclede,incorporated,25,A,305,"Laclede, MO",0,566,0,0,Laclede city
+MO,2919990,Downing,incorporated,25,A,300,"Downing, MO",0,567,0,0,Downing city
+MO,2963902,Saginaw,incorporated,47,A,300,"Saginaw, MO",0,568,0,0,Saginaw village
+MO,2909694,Bunker,incorporated,25,A,295,"Bunker, MO",0,569,0,0,Bunker city
+MO,2920980,East Lynne,incorporated,25,A,294,"East Lynne, MO",0,570,0,0,East Lynne city
+MO,2913654,Chilhowee,incorporated,43,A,291,"Chilhowee, MO",0,571,0,0,Chilhowee town
+MO,2953174,Northmoor,incorporated,25,A,291,"Northmoor, MO",0,572,0,0,Northmoor city
+MO,2938846,Kingston,incorporated,25,A,290,"Kingston, MO",0,573,0,0,Kingston city
+MO,2906526,Blue Eye,incorporated,43,A,289,"Blue Eye, MO",0,574,0,0,Blue Eye town
+MO,2911728,Carytown,incorporated,25,A,287,"Carytown, MO",0,575,0,0,Carytown city
+MO,2961994,Risco,incorporated,25,A,286,"Risco, MO",0,576,0,0,Risco city
+MO,2979000,West Sullivan,incorporated,43,A,285,"West Sullivan, MO",0,577,0,0,West Sullivan town
+MO,2912664,Centertown,incorporated,43,A,284,"Centertown, MO",0,578,0,0,Centertown town
+MO,2910342,Cainsville,incorporated,25,A,283,"Cainsville, MO",0,579,0,0,Cainsville city
+MO,2933724,Hume,incorporated,43,A,283,"Hume, MO",0,580,0,0,Hume town
+MO,2937736,Junction City,incorporated,47,A,283,"Junction City, MO",0,581,0,0,Junction City village
+MO,2943292,Linneus,incorporated,25,A,281,"Linneus, MO",0,582,0,0,Linneus city
+MO,2980026,Williamsville,incorporated,25,A,279,"Williamsville, MO",0,583,0,0,Williamsville city
+MO,2931654,Henrietta,incorporated,25,A,278,"Henrietta, MO",0,584,0,0,Henrietta city
+MO,2933364,Howardville,incorporated,25,A,277,"Howardville, MO",0,585,0,0,Howardville city
+MO,2939952,Lake Lafayette,incorporated,25,A,277,"Lake Lafayette, MO",0,586,0,0,Lake Lafayette city
+MO,2979090,Wheatland,incorporated,25,A,277,"Wheatland, MO",0,587,0,0,Wheatland city
+MO,2945596,Maitland,incorporated,25,A,276,"Maitland, MO",0,588,0,0,Maitland city
+MO,2920674,Eagleville,incorporated,43,A,275,"Eagleville, MO",0,589,0,0,Eagleville town
+MO,2972232,Taneyville,incorporated,47,A,274,"Taneyville, MO",0,590,0,0,Taneyville village
+MO,2922996,Everton,incorporated,25,A,273,"Everton, MO",0,591,0,0,Everton city
+MO,2930484,Harrisburg,incorporated,43,A,271,"Harrisburg, MO",0,592,0,0,Harrisburg town
+MO,2948566,Mindenmines,incorporated,25,A,271,"Mindenmines, MO",0,593,0,0,Mindenmines city
+MO,2902512,Augusta,incorporated,43,A,270,"Augusta, MO",0,594,0,0,Augusta town
+MO,2973690,Tracy,incorporated,25,A,269,"Tracy, MO",0,595,0,0,Tracy city
+MO,2938522,Kidder,incorporated,25,A,267,"Kidder, MO",0,596,0,0,Kidder city
+MO,2923698,Farley,incorporated,47,A,265,"Farley, MO",0,597,0,0,Farley village
+MO,2915220,Cobalt,incorporated,47,A,264,"Cobalt, MO",0,598,0,0,Cobalt village
+MO,2938972,Kinloch,incorporated,25,A,263,"Kinloch, MO",0,599,0,0,Kinloch city
+MO,2947486,Mercer,incorporated,43,A,263,"Mercer, MO",0,600,0,0,Mercer town
+MO,2959726,Prairie Home,incorporated,25,A,262,"Prairie Home, MO",0,601,0,0,Prairie Home city
+MO,2908128,Breckenridge,incorporated,25,A,258,"Breckenridge, MO",0,602,0,0,Breckenridge city
+MO,2904888,Berger,incorporated,25,A,256,"Berger, MO",0,603,0,0,Berger city
+MO,2923662,Farber,incorporated,25,A,255,"Farber, MO",0,604,0,0,Farber city
+MO,2914068,Clark,incorporated,25,A,254,"Clark, MO",0,605,0,0,Clark city
+MO,2914140,Clarksburg,incorporated,25,A,254,"Clarksburg, MO",0,606,0,0,Clarksburg city
+MO,2961184,Rensselaer,incorporated,47,A,253,"Rensselaer, MO",0,607,0,0,Rensselaer village
+MO,2910486,Callao,incorporated,25,A,251,"Callao, MO",0,608,0,0,Callao city
+MO,2946460,Martinsburg,incorporated,43,A,251,"Martinsburg, MO",0,609,0,0,Martinsburg town
+MO,2901270,Annapolis,incorporated,25,A,250,"Annapolis, MO",0,610,0,0,Annapolis city
+MO,2954416,Old Monroe,incorporated,25,A,249,"Old Monroe, MO",0,611,0,0,Old Monroe city
+MO,2914158,Clarksdale,incorporated,25,A,245,"Clarksdale, MO",0,612,0,0,Clarksdale city
+MO,2926092,Frohna,incorporated,25,A,245,"Frohna, MO",0,613,0,0,Frohna city
+MO,2938918,Kingsville,incorporated,25,A,245,"Kingsville, MO",0,614,0,0,Kingsville city
+MO,2968132,Skidmore,incorporated,25,A,245,"Skidmore, MO",0,615,0,0,Skidmore city
+MO,2901954,Armstrong,incorporated,25,A,243,"Armstrong, MO",0,616,0,0,Armstrong city
+MO,2925066,Forest City,incorporated,25,A,243,"Forest City, MO",0,617,0,0,Forest City city
+MO,2901018,Amazonia,incorporated,47,A,238,"Amazonia, MO",0,618,0,0,Amazonia village
+MO,2953786,Oak Ridge,incorporated,43,A,237,"Oak Ridge, MO",0,619,0,0,Oak Ridge town
+MO,2908002,Brashear,incorporated,25,A,235,"Brashear, MO",0,620,0,0,Brashear city
+MO,2918946,De Kalb,incorporated,43,A,233,"De Kalb, MO",0,621,0,0,De Kalb town
+MO,2948710,Mineral Point,incorporated,43,A,231,"Mineral Point, MO",0,622,0,0,Mineral Point town
+MO,2940214,Lake Tekakwitha,incorporated,47,A,230,"Lake Tekakwitha, MO",0,623,0,0,Lake Tekakwitha village
+MO,2933292,Houston Lake,incorporated,25,A,229,"Houston Lake, MO",0,624,0,0,Houston Lake city
+MO,2980548,Winston,incorporated,47,A,229,"Winston, MO",0,625,0,0,Winston village
+MO,2951356,Neck City,incorporated,25,A,228,"Neck City, MO",0,626,0,0,Neck City city
+MO,2951860,New Hampton,incorporated,25,A,228,"New Hampton, MO",0,627,0,0,New Hampton city
+MO,2966134,Schell City,incorporated,25,A,228,"Schell City, MO",0,628,0,0,Schell City city
+MO,2921034,Easton,incorporated,25,A,227,"Easton, MO",0,629,0,0,Easton city
+MO,2924120,Fidelity,incorporated,43,A,227,"Fidelity, MO",0,630,0,0,Fidelity town
+MO,2917992,Dadeville,incorporated,47,A,226,"Dadeville, MO",0,631,0,0,Dadeville village
+MO,2928180,Grandin,incorporated,25,A,226,"Grandin, MO",0,632,0,0,Grandin city
+MO,2963596,Rushville,incorporated,47,A,225,"Rushville, MO",0,633,0,0,Rushville village
+MO,2905950,Blackburn,incorporated,25,A,224,"Blackburn, MO",0,634,0,0,Blackburn city
+MO,2929116,Green Castle,incorporated,25,A,224,"Green Castle, MO",0,635,0,0,Green Castle city
+MO,2969464,Spickard,incorporated,25,A,222,"Spickard, MO",0,636,0,0,Spickard city
+MO,2965162,St. Thomas,incorporated,43,A,222,"St. Thomas, MO",0,637,0,0,St. Thomas town
+MO,2975364,Utica,incorporated,47,A,222,"Utica, MO",0,638,0,0,Utica village
+MO,2979180,Wheeling,incorporated,25,A,220,"Wheeling, MO",0,639,0,0,Wheeling city
+MO,2903556,Bates City,incorporated,25,A,219,"Bates City, MO",0,640,0,0,Bates City city
+MO,2908884,Browning,incorporated,25,A,219,"Browning, MO",0,641,0,0,Browning city
+MO,2981178,Wyatt,incorporated,25,A,219,"Wyatt, MO",0,642,0,0,Wyatt city
+MO,2901090,Amsterdam,incorporated,25,A,218,"Amsterdam, MO",0,643,0,0,Amsterdam city
+MO,2948980,Missouri City,incorporated,25,A,217,"Missouri City, MO",0,644,0,0,Missouri City city
+MO,2943274,Linn Creek,incorporated,25,A,216,"Linn Creek, MO",0,645,0,0,Linn Creek city
+MO,2981142,Wyaconda,incorporated,25,A,214,"Wyaconda, MO",0,646,0,0,Wyaconda city
+MO,2907426,Bosworth,incorporated,25,A,213,"Bosworth, MO",0,647,0,0,Bosworth city
+MO,2922250,Emerald Beach,incorporated,47,A,212,"Emerald Beach, MO",0,648,0,0,Emerald Beach village
+MO,2944829,McCord Bend,incorporated,47,A,212,"McCord Bend, MO",0,649,0,0,McCord Bend village
+MO,2906742,Blythedale,incorporated,47,A,211,"Blythedale, MO",0,650,0,0,Blythedale village
+MO,2951140,Napoleon,incorporated,25,A,211,"Napoleon, MO",0,651,0,0,Napoleon city
+MO,2906346,Blodgett,incorporated,25,A,209,"Blodgett, MO",0,652,0,0,Blodgett city
+MO,2923077,Excelsior Estates,incorporated,47,A,209,"Excelsior Estates, MO",0,653,0,0,Excelsior Estates village
+MO,2971008,Stoutland,incorporated,25,A,209,"Stoutland, MO",0,654,0,0,Stoutland city
+MO,2946964,Mayview,incorporated,25,A,208,"Mayview, MO",0,655,0,0,Mayview city
+MO,2910360,Cairo,incorporated,47,A,205,"Cairo, MO",0,656,0,0,Cairo village
+MO,2952292,Newtonia,incorporated,43,A,204,"Newtonia, MO",0,657,0,0,Newtonia town
+MO,2912376,Cedar Hill Lakes,incorporated,47,A,203,"Cedar Hill Lakes, MO",0,658,0,0,Cedar Hill Lakes village
+MO,2903340,Barnard,incorporated,25,A,201,"Barnard, MO",0,659,0,0,Barnard city
+MO,2922312,Emma,incorporated,25,A,201,"Emma, MO",0,660,0,0,Emma city
+MO,2962498,Rocheport,incorporated,25,A,201,"Rocheport, MO",0,661,0,0,Rocheport city
+MO,2921214,Edgar Springs,incorporated,25,A,199,"Edgar Springs, MO",0,662,0,0,Edgar Springs city
+MO,2976660,Walker,incorporated,25,A,199,"Walker, MO",0,663,0,0,Walker city
+MO,2933256,Houstonia,incorporated,25,A,198,"Houstonia, MO",0,664,0,0,Houstonia city
+MO,2953894,Oakwood,incorporated,47,A,198,"Oakwood, MO",0,665,0,0,Oakwood village
+MO,2917902,Curryville,incorporated,25,A,197,"Curryville, MO",0,666,0,0,Curryville city
+MO,2939440,Koshkonong,incorporated,43,A,196,"Koshkonong, MO",0,667,0,0,Koshkonong town
+MO,2913852,Chula,incorporated,25,A,195,"Chula, MO",0,668,0,0,Chula city
+MO,2939008,Kirbyville,incorporated,47,A,195,"Kirbyville, MO",0,669,0,0,Kirbyville village
+MO,2932590,Holland,incorporated,43,A,194,"Holland, MO",0,670,0,0,Holland town
+MO,2966337,Scotsdale,incorporated,43,A,194,"Scotsdale, MO",0,671,0,0,Scotsdale town
+MO,2902098,Asbury,incorporated,25,A,193,"Asbury, MO",0,672,0,0,Asbury city
+MO,2932806,Homestead,incorporated,47,A,192,"Homestead, MO",0,673,0,0,Homestead village
+MO,2904248,Bellerive Acres,incorporated,25,A,191,"Bellerive Acres, MO",0,674,0,0,Bellerive Acres city
+MO,2939278,Knox City,incorporated,25,A,191,"Knox City, MO",0,675,0,0,Knox City city
+MO,2966476,Sedgewickville,incorporated,47,A,191,"Sedgewickville, MO",0,676,0,0,Sedgewickville village
+MO,2905824,Birmingham,incorporated,47,A,189,"Birmingham, MO",0,677,0,0,Birmingham village
+MO,2912682,Centerview,incorporated,25,A,189,"Centerview, MO",0,678,0,0,Centerview city
+MO,2953948,Oakwood Park,incorporated,47,A,189,"Oakwood Park, MO",0,679,0,0,Oakwood Park village
+MO,2949070,Mokane,incorporated,25,A,188,"Mokane, MO",0,680,0,0,Mokane city
+MO,2972898,Theodosia,incorporated,47,A,188,"Theodosia, MO",0,681,0,0,Theodosia village
+MO,2974194,Tuscumbia,incorporated,43,A,188,"Tuscumbia, MO",0,682,0,0,Tuscumbia town
+MO,2945632,Malta Bend,incorporated,43,A,187,"Malta Bend, MO",0,683,0,0,Malta Bend town
+MO,2903052,Bakersfield,incorporated,47,A,186,"Bakersfield, MO",0,684,0,0,Bakersfield village
+MO,2931996,High Hill,incorporated,25,A,186,"High Hill, MO",0,685,0,0,High Hill city
+MO,2946244,Marquand,incorporated,25,A,186,"Marquand, MO",0,686,0,0,Marquand city
+MO,2975724,Vanduser,incorporated,47,A,183,"Vanduser, MO",0,687,0,0,Vanduser village
+MO,2927514,Glenwood,incorporated,47,A,181,"Glenwood, MO",0,688,0,0,Glenwood village
+MO,2901288,Anniston,incorporated,43,A,180,"Anniston, MO",0,689,0,0,Anniston town
+MO,2947594,Meta,incorporated,25,A,180,"Meta, MO",0,690,0,0,Meta city
+MO,2925912,Freistatt,incorporated,47,A,179,"Freistatt, MO",0,691,0,0,Freistatt village
+MO,2915922,Conception Junction,incorporated,43,A,177,"Conception Junction, MO",0,692,0,0,Conception Junction town
+MO,2933922,Hurley,incorporated,25,A,176,"Hurley, MO",0,693,0,0,Hurley city
+MO,2910738,Camden,incorporated,25,A,175,"Camden, MO",0,694,0,0,Camden city
+MO,2927028,Gilliam,incorporated,25,A,175,"Gilliam, MO",0,695,0,0,Gilliam city
+MO,2943652,Lohman,incorporated,25,A,175,"Lohman, MO",0,696,0,0,Lohman city
+MO,2924184,Fillmore,incorporated,25,A,173,"Fillmore, MO",0,697,0,0,Fillmore city
+MO,2926578,Gasconade,incorporated,25,A,172,"Gasconade, MO",0,698,0,0,Gasconade city
+MO,2900910,Altamont,incorporated,47,A,171,"Altamont, MO",0,699,0,0,Altamont village
+MO,2947900,Middletown,incorporated,43,A,171,"Middletown, MO",0,700,0,0,Middletown town
+MO,2906148,Blackwater,incorporated,25,A,170,"Blackwater, MO",0,701,0,0,Blackwater city
+MO,2940430,Lamar Heights,incorporated,25,A,170,"Lamar Heights, MO",0,702,0,0,Lamar Heights city
+MO,2925411,Fountain N' Lakes,incorporated,47,A,169,"Fountain N' Lakes, MO",0,703,0,0,Fountain N' Lakes village
+MO,2916984,Cowgill,incorporated,25,A,168,"Cowgill, MO",0,704,0,0,Cowgill city
+MO,2926362,Galt,incorporated,25,A,168,"Galt, MO",0,705,0,0,Galt city
+MO,2906832,Bogard,incorporated,25,A,167,"Bogard, MO",0,706,0,0,Bogard city
+MO,2912718,Centerville,incorporated,25,A,167,"Centerville, MO",0,707,0,0,Centerville city
+MO,2970990,Stotts City,incorporated,25,A,167,"Stotts City, MO",0,708,0,0,Stotts City city
+MO,2970648,Stella,incorporated,43,A,166,"Stella, MO",0,709,0,0,Stella town
+MO,2957368,Phillipsburg,incorporated,47,A,164,"Phillipsburg, MO",0,710,0,0,Phillipsburg village
+MO,2960986,Redings Mill,incorporated,47,A,164,"Redings Mill, MO",0,711,0,0,Redings Mill village
+MO,2906922,Bolckow,incorporated,25,A,163,"Bolckow, MO",0,712,0,0,Bolckow city
+MO,2908614,Bronaugh,incorporated,25,A,163,"Bronaugh, MO",0,713,0,0,Bronaugh city
+MO,2947288,Mendon,incorporated,25,A,163,"Mendon, MO",0,714,0,0,Mendon city
+MO,2937214,Jerico Springs,incorporated,47,A,160,"Jerico Springs, MO",0,715,0,0,Jerico Springs village
+MO,2948386,Mill Spring,incorporated,47,A,159,"Mill Spring, MO",0,716,0,0,Mill Spring village
+MO,2956226,Parkdale,incorporated,47,A,159,"Parkdale, MO",0,717,0,0,Parkdale village
+MO,2903376,Barnett,incorporated,25,A,158,"Barnett, MO",0,718,0,0,Barnett city
+MO,2911026,Canalou,incorporated,25,A,158,"Canalou, MO",0,719,0,0,Canalou city
+MO,2914662,Clearmont,incorporated,25,A,158,"Clearmont, MO",0,720,0,0,Clearmont city
+MO,2919486,Diehlstadt,incorporated,47,A,157,"Diehlstadt, MO",0,721,0,0,Diehlstadt village
+MO,2959870,Preston,incorporated,47,A,157,"Preston, MO",0,722,0,0,Preston village
+MO,2940736,Laredo,incorporated,25,A,156,"Laredo, MO",0,723,0,0,Laredo city
+MO,2933904,Hurdland,incorporated,25,A,155,"Hurdland, MO",0,724,0,0,Hurdland city
+MO,2961166,Renick,incorporated,47,A,154,"Renick, MO",0,725,0,0,Renick village
+MO,2951734,New Cambria,incorporated,25,A,153,"New Cambria, MO",0,726,0,0,New Cambria city
+MO,2947684,Miami,incorporated,25,A,152,"Miami, MO",0,727,0,0,Miami city
+MO,2951500,Nelson,incorporated,25,A,152,"Nelson, MO",0,728,0,0,Nelson city
+MO,2915274,Coffey,incorporated,25,A,151,"Coffey, MO",0,729,0,0,Coffey city
+MO,2929962,Halfway,incorporated,47,A,151,"Halfway, MO",0,730,0,0,Halfway village
+MO,2972106,Syracuse,incorporated,25,A,151,"Syracuse, MO",0,731,0,0,Syracuse city
+MO,2933652,Hughesville,incorporated,47,A,150,"Hughesville, MO",0,732,0,0,Hughesville village
+MO,2957404,Pickering,incorporated,25,A,149,"Pickering, MO",0,733,0,0,Pickering city
+MO,2928072,Graham,incorporated,43,A,147,"Graham, MO",0,734,0,0,Graham town
+MO,2967358,Sheridan,incorporated,43,A,145,"Sheridan, MO",0,735,0,0,Sheridan town
+MO,2901828,Argyle,incorporated,43,A,144,"Argyle, MO",0,736,0,0,Argyle town
+MO,2960158,Purdin,incorporated,25,A,141,"Purdin, MO",0,737,0,0,Purdin city
+MO,2933760,Hunnewell,incorporated,25,A,139,"Hunnewell, MO",0,738,0,0,Hunnewell city
+MO,2961328,Rhineland,incorporated,43,A,139,"Rhineland, MO",0,739,0,0,Rhineland town
+MO,2973330,Tina,incorporated,47,A,139,"Tina, MO",0,740,0,0,Tina village
+MO,2941690,Leslie,incorporated,47,A,136,"Leslie, MO",0,741,0,0,Leslie village
+MO,2905104,Bethel,incorporated,47,A,135,"Bethel, MO",0,742,0,0,Bethel village
+MO,2956360,Parnell,incorporated,25,A,135,"Parnell, MO",0,743,0,0,Parnell city
+MO,2962786,Rockville,incorporated,25,A,135,"Rockville, MO",0,744,0,0,Rockville city
+MO,2938792,Kingdom City,incorporated,47,A,134,"Kingdom City, MO",0,745,0,0,Kingdom City village
+MO,2940790,La Russell,incorporated,25,A,134,"La Russell, MO",0,746,0,0,La Russell city
+MO,2944156,Louisburg,incorporated,47,A,134,"Louisburg, MO",0,747,0,0,Louisburg village
+MO,2901072,Amoret,incorporated,25,A,133,"Amoret, MO",0,748,0,0,Amoret city
+MO,2930718,Hartsburg,incorporated,43,A,133,"Hartsburg, MO",0,749,0,0,Hartsburg town
+MO,2931204,Haywood City,incorporated,47,A,133,"Haywood City, MO",0,750,0,0,Haywood City village
+MO,2938684,Kimmswick,incorporated,25,A,133,"Kimmswick, MO",0,751,0,0,Kimmswick city
+MO,2910432,Caledonia,incorporated,47,A,131,"Caledonia, MO",0,752,0,0,Caledonia village
+MO,2919198,Des Arc,incorporated,47,A,131,"Des Arc, MO",0,753,0,0,Des Arc village
+MO,2928828,Gravois Mills,incorporated,43,A,129,"Gravois Mills, MO",0,754,0,0,Gravois Mills town
+MO,2953804,Oaks,incorporated,47,A,128,"Oaks, MO",0,755,0,0,Oaks village
+MO,2907948,Brandsville,incorporated,25,A,127,"Brandsville, MO",0,756,0,0,Brandsville city
+MO,2948880,Miramiguoa Park,incorporated,47,A,126,"Miramiguoa Park, MO",0,757,0,0,Miramiguoa Park village
+MO,2903322,Baring,incorporated,25,A,125,"Baring, MO",0,758,0,0,Baring city
+MO,2915562,Collins,incorporated,47,A,125,"Collins, MO",0,759,0,0,Collins village
+MO,2970414,Stark City,incorporated,43,A,125,"Stark City, MO",0,760,0,0,Stark City town
+MO,2936224,Jacksonville,incorporated,47,A,122,"Jacksonville, MO",0,761,0,0,Jacksonville village
+MO,2968888,South Greenfield,incorporated,47,A,122,"South Greenfield, MO",0,762,0,0,South Greenfield village
+MO,2959816,Prathersville,incorporated,47,A,121,"Prathersville, MO",0,763,0,0,Prathersville village
+MO,2917524,Cross Timbers,incorporated,25,A,119,"Cross Timbers, MO",0,764,0,0,Cross Timbers city
+MO,2945020,McFall,incorporated,25,A,119,"McFall, MO",0,765,0,0,McFall city
+MO,2963200,Rosendale,incorporated,25,A,119,"Rosendale, MO",0,766,0,0,Rosendale city
+MO,2978838,West Line,incorporated,47,A,117,"West Line, MO",0,767,0,0,West Line village
+MO,2978622,Westboro,incorporated,25,A,116,"Westboro, MO",0,768,0,0,Westboro city
+MO,2916588,Cosby,incorporated,47,A,114,"Cosby, MO",0,769,0,0,Cosby village
+MO,2922024,Elmo,incorporated,25,A,114,"Elmo, MO",0,770,0,0,Elmo city
+MO,2924562,Fleming,incorporated,25,A,114,"Fleming, MO",0,771,0,0,Fleming city
+MO,2932626,Holliday,incorporated,47,A,114,"Holliday, MO",0,772,0,0,Holliday village
+MO,2954560,Olean,incorporated,43,A,114,"Olean, MO",0,773,0,0,Olean town
+MO,2974176,Turney,incorporated,47,A,114,"Turney, MO",0,774,0,0,Turney village
+MO,2952328,Newtown,incorporated,43,A,113,"Newtown, MO",0,775,0,0,Newtown town
+MO,2944390,Ludlow,incorporated,43,A,111,"Ludlow, MO",0,776,0,0,Ludlow town
+MO,2924580,Flemington,incorporated,47,A,110,"Flemington, MO",0,777,0,0,Flemington village
+MO,2939845,Lake Annette,incorporated,25,A,107,"Lake Annette, MO",0,778,0,0,Lake Annette city
+MO,2967632,Shoal Creek Estates,incorporated,47,A,107,"Shoal Creek Estates, MO",0,779,0,0,Shoal Creek Estates village
+MO,2971098,Strasburg,incorporated,25,A,107,"Strasburg, MO",0,780,0,0,Strasburg city
+MO,2913015,Chain-O-Lakes,incorporated,47,A,106,"Chain-O-Lakes, MO",0,781,0,0,Chain-O-Lakes village
+MO,2900604,Alexandria,incorporated,25,A,105,"Alexandria, MO",0,782,0,0,Alexandria city
+MO,2917056,Craig,incorporated,25,A,105,"Craig, MO",0,783,0,0,Craig city
+MO,2930016,Halltown,incorporated,47,A,104,"Halltown, MO",0,784,0,0,Halltown village
+MO,2949592,Monticello,incorporated,47,A,104,"Monticello, MO",0,785,0,0,Monticello village
+MO,2902746,Avilla,incorporated,43,A,103,"Avilla, MO",0,786,0,0,Avilla town
+MO,2928170,Grand Falls Plaza,incorporated,43,A,103,"Grand Falls Plaza, MO",0,787,0,0,Grand Falls Plaza town
+MO,2963560,Rush Hill,incorporated,47,A,103,"Rush Hill, MO",0,788,0,0,Rush Hill village
+MO,2953516,Novelty,incorporated,47,A,102,"Novelty, MO",0,789,0,0,Novelty village
+MO,2904834,Benton City,incorporated,47,A,101,"Benton City, MO",0,790,0,0,Benton City village
+MO,2908776,Brooklyn Heights,incorporated,43,A,101,"Brooklyn Heights, MO",0,791,0,0,Brooklyn Heights town
+MO,2920296,Dudley,incorporated,25,A,101,"Dudley, MO",0,792,0,0,Dudley city
+MO,2950168,Mosby,incorporated,25,A,101,"Mosby, MO",0,793,0,0,Mosby city
+MO,2949790,Mooresville,incorporated,47,A,98,"Mooresville, MO",0,794,0,0,Mooresville village
+MO,2978424,Wentworth,incorporated,47,A,98,"Wentworth, MO",0,795,0,0,Wentworth village
+MO,2913006,Chain of Rocks,incorporated,47,A,97,"Chain of Rocks, MO",0,796,0,0,Chain of Rocks village
+MO,2958628,Pocahontas,incorporated,43,A,97,"Pocahontas, MO",0,797,0,0,Pocahontas town
+MO,2941834,Lewis and Clark Village,incorporated,43,A,96,"Lewis and Clark Village, MO",0,798,0,0,Lewis and Clark Village town
+MO,2900748,Allenville,incorporated,47,A,95,"Allenville, MO",0,799,0,0,Allenville village
+MO,2906238,Blairstown,incorporated,25,A,95,"Blairstown, MO",0,800,0,0,Blairstown city
+MO,2956620,Peaceful Village,incorporated,47,A,95,"Peaceful Village, MO",0,801,0,0,Peaceful Village village
+MO,2961886,Ridgely,incorporated,47,A,95,"Ridgely, MO",0,802,0,0,Ridgely village
+MO,2950060,Morrison,incorporated,25,A,93,"Morrison, MO",0,803,0,0,Morrison city
+MO,2978334,Weldon Spring Heights,incorporated,43,A,93,"Weldon Spring Heights, MO",0,804,0,0,Weldon Spring Heights town
+MO,2961094,Reeds,incorporated,43,A,91,"Reeds, MO",0,805,0,0,Reeds town
+MO,2943940,Longtown,incorporated,43,A,90,"Longtown, MO",0,806,0,0,Longtown town
+MO,2924886,Foley,incorporated,25,A,89,"Foley, MO",0,807,0,0,Foley city
+MO,2933742,Humphreys,incorporated,47,A,89,"Humphreys, MO",0,808,0,0,Humphreys village
+MO,2963074,Roscoe,incorporated,47,A,89,"Roscoe, MO",0,809,0,0,Roscoe village
+MO,2914896,Clifton Hill,incorporated,25,A,88,"Clifton Hill, MO",0,810,0,0,Clifton Hill city
+MO,2979612,Whitewater,incorporated,43,A,88,"Whitewater, MO",0,811,0,0,Whitewater town
+MO,2956432,Pascola,incorporated,47,A,87,"Pascola, MO",0,812,0,0,Pascola village
+MO,2963776,Rutledge,incorporated,43,A,86,"Rutledge, MO",0,813,0,0,Rutledge town
+MO,2903124,Baldwin Park,incorporated,47,A,85,"Baldwin Park, MO",0,814,0,0,Baldwin Park village
+MO,2919378,De Witt,incorporated,25,A,83,"De Witt, MO",0,815,0,0,De Witt city
+MO,2919918,Dover,incorporated,43,A,83,"Dover, MO",0,816,0,0,Dover town
+MO,2958088,Plato,incorporated,47,A,82,"Plato, MO",0,817,0,0,Plato village
+MO,2929764,Gunn City,incorporated,47,A,80,"Gunn City, MO",0,818,0,0,Gunn City village
+MO,2978028,Weatherby,incorporated,43,A,80,"Weatherby, MO",0,819,0,0,Weatherby town
+MO,2948134,Millard,incorporated,47,A,79,"Millard, MO",0,820,0,0,Millard village
+MO,2950330,Moundville,incorporated,43,A,78,"Moundville, MO",0,821,0,0,Moundville town
+MO,2962210,Riverview Estates,incorporated,47,A,78,"Riverview Estates, MO",0,822,0,0,Riverview Estates village
+MO,2971620,Sumner,incorporated,43,A,78,"Sumner, MO",0,823,0,0,Sumner town
+MO,2972196,Tallapoosa,incorporated,25,A,78,"Tallapoosa, MO",0,824,0,0,Tallapoosa city
+MO,2902530,Aullville,incorporated,47,A,77,"Aullville, MO",0,825,0,0,Aullville village
+MO,2941762,Levasy,incorporated,25,A,77,"Levasy, MO",0,826,0,0,Levasy city
+MO,2945200,McKittrick,incorporated,43,A,77,"McKittrick, MO",0,827,0,0,McKittrick town
+MO,2980260,Wilson City,incorporated,47,A,77,"Wilson City, MO",0,828,0,0,Wilson City village
+MO,2900568,Aldrich,incorporated,47,A,76,"Aldrich, MO",0,829,0,0,Aldrich village
+MO,2925372,Foster,incorporated,47,A,76,"Foster, MO",0,830,0,0,Foster village
+MO,2961292,Revere,incorporated,43,A,76,"Revere, MO",0,831,0,0,Revere town
+MO,2902034,Arrow Point,incorporated,47,A,75,"Arrow Point, MO",0,832,0,0,Arrow Point village
+MO,2950528,Mount Moriah,incorporated,43,A,75,"Mount Moriah, MO",0,833,0,0,Mount Moriah town
+MO,2932824,Homestown,incorporated,25,A,73,"Homestown, MO",0,834,0,0,Homestown city
+MO,2936314,Jameson,incorporated,43,A,73,"Jameson, MO",0,835,0,0,Jameson town
+MO,2944516,Luray,incorporated,47,A,73,"Luray, MO",0,836,0,0,Luray village
+MO,2954200,Old Appleton,incorporated,43,A,73,"Old Appleton, MO",0,837,0,0,Old Appleton town
+MO,2907876,Bragg City,incorporated,43,A,72,"Bragg City, MO",0,838,0,0,Bragg City town
+MO,2916876,Country Life Acres,incorporated,47,A,72,"Country Life Acres, MO",0,839,0,0,Country Life Acres village
+MO,2976444,Waco,incorporated,25,A,72,"Waco, MO",0,840,0,0,Waco city
+MO,2908902,Brownington,incorporated,43,A,71,"Brownington, MO",0,841,0,0,Brownington town
+MO,2935306,Ionia,incorporated,43,A,71,"Ionia, MO",0,842,0,0,Ionia town
+MO,2925624,Franklin,incorporated,25,A,70,"Franklin, MO",0,843,0,0,Franklin city
+MO,2926920,Gibbs,incorporated,47,A,70,"Gibbs, MO",0,844,0,0,Gibbs village
+MO,2908974,Brumley,incorporated,43,A,69,"Brumley, MO",0,845,0,0,Brumley town
+MO,2947540,Merwin,incorporated,47,A,69,"Merwin, MO",0,846,0,0,Merwin village
+MO,2918316,Darlington,incorporated,47,A,66,"Darlington, MO",0,847,0,0,Darlington village
+MO,2962030,Ritchey,incorporated,43,A,66,"Ritchey, MO",0,848,0,0,Ritchey town
+MO,2975202,Unity Village,incorporated,47,A,66,"Unity Village, MO",0,849,0,0,Unity Village village
+MO,2905495,Big Lake,incorporated,47,A,65,"Big Lake, MO",0,850,0,0,Big Lake village
+MO,2930466,Harris,incorporated,43,A,65,"Harris, MO",0,851,0,0,Harris town
+MO,2950510,Mount Leonard,incorporated,43,A,65,"Mount Leonard, MO",0,852,0,0,Mount Leonard town
+MO,2981070,Worth,incorporated,47,A,65,"Worth, MO",0,853,0,0,Worth village
+MO,2957512,Pierpont,incorporated,47,A,64,"Pierpont, MO",0,854,0,0,Pierpont village
+MO,2963236,Rothville,incorporated,47,A,63,"Rothville, MO",0,855,0,0,Rothville village
+MO,2975706,Vandiver,incorporated,47,A,63,"Vandiver, MO",0,856,0,0,Vandiver village
+MO,2968870,South Gorin,incorporated,43,A,62,"South Gorin, MO",0,857,0,0,South Gorin town
+MO,2977848,Watson,incorporated,47,A,61,"Watson, MO",0,858,0,0,Watson village
+MO,2902044,Arrow Rock,incorporated,43,A,60,"Arrow Rock, MO",0,859,0,0,Arrow Rock town
+MO,2929692,Guilford,incorporated,43,A,60,"Guilford, MO",0,860,0,0,Guilford town
+MO,2956612,Paynesville,incorporated,47,A,60,"Paynesville, MO",0,861,0,0,Paynesville village
+MO,2974014,Truxton,incorporated,47,A,59,"Truxton, MO",0,862,0,0,Truxton village
+MO,2973240,Tightwad,incorporated,47,A,58,"Tightwad, MO",0,863,0,0,Tightwad village
+MO,2927280,Glen Allen,incorporated,43,A,57,"Glen Allen, MO",0,864,0,0,Glen Allen town
+MO,2941546,Leonard,incorporated,47,A,57,"Leonard, MO",0,865,0,0,Leonard village
+MO,2944372,Lucerne,incorporated,47,A,57,"Lucerne, MO",0,866,0,0,Lucerne village
+MO,2948476,Milo,incorporated,47,A,57,"Milo, MO",0,867,0,0,Milo village
+MO,2960590,Randolph,incorporated,47,A,57,"Randolph, MO",0,868,0,0,Randolph village
+MO,2901864,Arkoe,incorporated,43,A,56,"Arkoe, MO",0,869,0,0,Arkoe town
+MO,2926776,Gentry,incorporated,47,A,56,"Gentry, MO",0,870,0,0,Gentry village
+MO,2915130,Clyde,incorporated,47,A,55,"Clyde, MO",0,871,0,0,Clyde village
+MO,2951662,Newark,incorporated,47,A,54,"Newark, MO",0,872,0,0,Newark village
+MO,2943454,Livonia,incorporated,47,A,52,"Livonia, MO",0,873,0,0,Livonia village
+MO,2979558,Whiteside,incorporated,47,A,52,"Whiteside, MO",0,874,0,0,Whiteside village
+MO,2921988,Elmer,incorporated,25,A,51,"Elmer, MO",0,875,0,0,Elmer city
+MO,2956900,Penermon,incorporated,47,A,51,"Penermon, MO",0,876,0,0,Penermon village
+MO,2908470,Brimson,incorporated,47,A,50,"Brimson, MO",0,877,0,0,Brimson village
+MO,2928198,Grand Pass,incorporated,47,A,49,"Grand Pass, MO",0,878,0,0,Grand Pass village
+MO,2900712,Allendale,incorporated,47,A,48,"Allendale, MO",0,879,0,0,Allendale village
+MO,2932410,Hoberg,incorporated,47,I,48,"Hoberg, MO",0,880,0,0,Hoberg village
+MO,2940448,Lambert,incorporated,47,I,48,"Lambert, MO",0,881,0,0,Lambert village
+MO,2916115,Coney Island,incorporated,47,A,47,"Coney Island, MO",0,882,0,0,Coney Island village
+MO,2919090,Dennis Acres,incorporated,47,A,47,"Dennis Acres, MO",0,883,0,0,Dennis Acres village
+MO,2981106,Worthington,incorporated,47,A,47,"Worthington, MO",0,884,0,0,Worthington village
+MO,2958898,Pollock,incorporated,47,A,46,"Pollock, MO",0,885,0,0,Pollock village
+MO,2960842,Rea,incorporated,25,A,46,"Rea, MO",0,886,0,0,Rea city
+MO,2973348,Tindall,incorporated,43,A,46,"Tindall, MO",0,887,0,0,Tindall town
+MO,2915760,Commerce,incorporated,47,A,45,"Commerce, MO",0,888,0,0,Commerce village
+MO,2902962,Bagnell,incorporated,43,A,43,"Bagnell, MO",0,889,0,0,Bagnell town
+MO,2961364,Richards,incorporated,43,A,43,"Richards, MO",0,890,0,0,Richards town
+MO,2964172,St. Cloud,incorporated,47,A,43,"St. Cloud, MO",0,891,0,0,St. Cloud village
+MO,2959420,Powersville,incorporated,47,A,42,"Powersville, MO",0,892,0,0,Powersville village
+MO,2962228,Rives,incorporated,43,A,42,"Rives, MO",0,893,0,0,Rives town
+MO,2912052,Catron,incorporated,43,A,41,"Catron, MO",0,894,0,0,Catron town
+MO,2922672,Ethel,incorporated,43,A,41,"Ethel, MO",0,895,0,0,Ethel town
+MO,2974473,Umber View Heights,incorporated,47,A,41,"Umber View Heights, MO",0,896,0,0,Umber View Heights village
+MO,2914806,Cliff Village,incorporated,47,A,40,"Cliff Village, MO",0,897,0,0,Cliff Village village
+MO,2918802,Deerfield,incorporated,47,A,40,"Deerfield, MO",0,898,0,0,Deerfield village
+MO,2943472,Lock Springs,incorporated,47,A,40,"Lock Springs, MO",0,899,0,0,Lock Springs village
+MO,2922006,Elmira,incorporated,47,A,39,"Elmira, MO",0,900,0,0,Elmira village
+MO,2934210,Iatan,incorporated,47,A,39,"Iatan, MO",0,901,0,0,Iatan village
+MO,2901720,Arcola,incorporated,47,A,37,"Arcola, MO",0,902,0,0,Arcola village
+MO,2927100,Ginger Blue,incorporated,47,A,37,"Ginger Blue, MO",0,903,0,0,Ginger Blue village
+MO,2971026,Stoutsville,incorporated,47,A,37,"Stoutsville, MO",0,904,0,0,Stoutsville village
+MO,2976390,Vista,incorporated,47,A,36,"Vista, MO",0,905,0,0,Vista village
+MO,2956882,Pendleton,incorporated,47,A,34,"Pendleton, MO",0,906,0,0,Pendleton village
+MO,2902152,Ashburn,incorporated,43,I,33,"Ashburn, MO",0,907,0,0,Ashburn town
+MO,2973870,Triplett,incorporated,25,A,33,"Triplett, MO",0,908,0,0,Triplett city
+MO,2919162,Denver,incorporated,47,A,32,"Denver, MO",0,909,0,0,Denver village
+MO,2930862,Harwood,incorporated,47,A,29,"Harwood, MO",0,910,0,0,Harwood village
+MO,2933868,Huntsdale,incorporated,43,A,29,"Huntsdale, MO",0,911,0,0,Huntsdale town
+MO,2944498,Lupus,incorporated,43,A,28,"Lupus, MO",0,912,0,0,Lupus town
+MO,2981016,Wooldridge,incorporated,47,A,28,"Wooldridge, MO",0,913,0,0,Wooldridge village
+MO,2939638,La Due,incorporated,47,I,27,"La Due, MO",0,914,0,0,La Due village
+MO,2901054,Amity,incorporated,43,A,26,"Amity, MO",0,915,0,0,Amity town
+MO,2956468,Passaic,incorporated,43,A,26,"Passaic, MO",0,916,0,0,Passaic town
+MO,2901576,Arbela,incorporated,43,A,24,"Arbela, MO",0,917,0,0,Arbela town
+MO,2948098,Milford,incorporated,47,A,24,"Milford, MO",0,918,0,0,Milford village
+MO,2955424,Osgood,incorporated,47,A,24,"Osgood, MO",0,919,0,0,Osgood village
+MO,2967808,Silex,incorporated,25,A,24,"Silex, MO",0,920,0,0,Silex city
+MO,2928360,Granger,incorporated,47,A,22,"Granger, MO",0,921,0,0,Granger village
+MO,2947612,Metz,incorporated,43,A,22,"Metz, MO",0,922,0,0,Metz town
+MO,2953138,North Lilbourn,incorporated,47,A,22,"North Lilbourn, MO",0,923,0,0,North Lilbourn village
+MO,2968852,South Gifford,incorporated,47,A,22,"South Gifford, MO",0,924,0,0,South Gifford village
+MO,2972376,Tarrants,incorporated,47,I,22,"Tarrants, MO",0,925,0,0,Tarrants village
+MO,2925228,Fortescue,incorporated,43,A,21,"Fortescue, MO",0,926,0,0,Fortescue town
+MO,2926902,Gerster,incorporated,43,A,21,"Gerster, MO",0,927,0,0,Gerster town
+MO,2922951,Evergreen,incorporated,47,A,20,"Evergreen, MO",0,928,0,0,Evergreen village
+MO,2913390,Charmwood,incorporated,43,A,17,"Charmwood, MO",0,929,0,0,Charmwood town
+MO,2944768,McBaine,incorporated,43,A,17,"McBaine, MO",0,930,0,0,McBaine town
+MO,2901252,Annada,incorporated,47,A,14,"Annada, MO",0,931,0,0,Annada village
+MO,2935324,Irena,incorporated,47,A,14,"Irena, MO",0,932,0,0,Irena village
+MO,2968942,South Lineville,incorporated,43,A,13,"South Lineville, MO",0,933,0,0,South Lineville town
+MO,2970954,Stotesbury,incorporated,43,A,12,"Stotesbury, MO",0,934,0,0,Stotesbury town
+MO,2913078,Champ,incorporated,47,A,10,"Champ, MO",0,935,0,0,Champ village
+MO,2973127,Three Creeks,incorporated,47,A,8,"Three Creeks, MO",0,936,0,0,Three Creeks village
+MO,2918118,Dalton,incorporated,43,A,7,"Dalton, MO",0,937,0,0,Dalton town
+MO,2957926,Pinhook,incorporated,47,I,6,"Pinhook, MO",0,938,0,0,Pinhook village
+MO,2905464,Bigelow,incorporated,47,A,5,"Bigelow, MO",0,939,0,0,Bigelow village
+MO,2924760,Florida,incorporated,47,I,5,"Florida, MO",0,940,0,0,Florida village
+MO,2926000,Friedenswald,incorporated,47,A,4,"Friedenswald, MO",0,941,0,0,Friedenswald village
+MO,2903034,Baker,incorporated,47,I,3,"Baker, MO",0,942,0,0,Baker village
+MO,2916462,Corning,incorporated,43,A,3,"Corning, MO",0,943,0,0,Corning town
+MO,2962056,River Bend,incorporated,47,A,3,"River Bend, MO",0,944,0,0,River Bend village
+MO,2912079,Cave,incorporated,43,I,0,"Cave, MO",0,945,0,0,Cave town
+MO,2928000,Goss,incorporated,43,I,0,"Goss, MO",0,946,0,0,Goss town
+MO,2940142,Lakeside,incorporated,25,I,0,"Lakeside, MO",0,947,0,0,Lakeside city

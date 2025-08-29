@@ -1,0 +1,609 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+WI,5553000,Milwaukee,incorporated,25,A,577222,"Milwaukee, WI",0,1,64,0.256,Milwaukee city
+WI,5548000,Madison,incorporated,25,A,269840,"Madison, WI",0,2,39,0.156,Madison city
+WI,5531000,Green Bay,incorporated,25,A,107395,"Green Bay, WI",0,3,17,0.068,Green Bay city
+WI,5539225,Kenosha,incorporated,25,A,99986,"Kenosha, WI",0,4,11,0.044,Kenosha city
+WI,5566000,Racine,incorporated,25,A,77816,"Racine, WI",0,5,8,0.032,Racine city
+WI,5502375,Appleton,incorporated,25,A,75644,"Appleton, WI",0,6,8,0.032,Appleton city
+WI,5584250,Waukesha,incorporated,25,A,71158,"Waukesha, WI",0,7,6,0.024,Waukesha city
+WI,5522300,Eau Claire,incorporated,25,A,69421,"Eau Claire, WI",0,8,6,0.024,Eau Claire city
+WI,5560500,Oshkosh,incorporated,25,A,66816,"Oshkosh, WI",0,9,4,0.016,Oshkosh city
+WI,5537825,Janesville,incorporated,25,A,65615,"Janesville, WI",0,10,5,0.02,Janesville city
+WI,5585300,West Allis,incorporated,25,A,60325,"West Allis, WI",0,11,3,0.012,West Allis city
+WI,5540775,La Crosse,incorporated,25,A,52680,"La Crosse, WI",0,12,4,0.016,La Crosse city
+WI,5572975,Sheboygan,incorporated,25,A,49929,"Sheboygan, WI",0,13,4,0.016,Sheboygan city
+WI,5584675,Wauwatosa,incorporated,25,A,48387,"Wauwatosa, WI",0,14,2,0.008,Wauwatosa city
+WI,5526275,Fond du Lac,incorporated,25,A,44678,"Fond du Lac, WI",0,15,2,0.008,Fond du Lac city
+WI,5510025,Brookfield,incorporated,25,A,41464,"Brookfield, WI",0,16,3,0.012,Brookfield city
+WI,5556375,New Berlin,incorporated,25,A,40451,"New Berlin, WI",0,17,3,0.012,New Berlin city
+WI,5584475,Wausau,incorporated,25,A,39994,"Wausau, WI",0,18,3,0.012,Wausau city
+WI,5551000,Menomonee Falls,incorporated,47,A,38527,"Menomonee Falls, WI",0,19,3,0.012,Menomonee Falls village
+WI,5531175,Greenfield,incorporated,25,A,37803,"Greenfield, WI",0,20,2,0.008,Greenfield city
+WI,5527300,Franklin,incorporated,25,A,36816,"Franklin, WI",0,21,1,0.004,Franklin city
+WI,5506500,Beloit,incorporated,25,A,36657,"Beloit, WI",0,22,1,0.004,Beloit city
+WI,5558800,Oak Creek,incorporated,25,A,36497,"Oak Creek, WI",0,23,1,0.004,Oak Creek city
+WI,5578600,Sun Prairie,incorporated,25,A,35967,"Sun Prairie, WI",0,24,1,0.004,Sun Prairie city
+WI,5548500,Manitowoc,incorporated,25,A,34626,"Manitowoc, WI",0,25,1,0.004,Manitowoc city
+WI,5585350,West Bend,incorporated,25,A,31752,"West Bend, WI",0,26,1,0.004,West Bend city
+WI,5525950,Fitchburg,incorporated,25,A,29609,"Fitchburg, WI",0,27,1,0.004,Fitchburg city
+WI,5554875,Mount Pleasant,incorporated,47,A,27732,"Mount Pleasant, WI",0,28,2,0.008,Mount Pleasant village
+WI,5555750,Neenah,incorporated,25,A,27319,"Neenah, WI",0,29,2,0.008,Neenah city
+WI,5578650,Superior,incorporated,25,A,26751,"Superior, WI",0,30,2,0.008,Superior city
+WI,5577200,Stevens Point,incorporated,25,A,25666,"Stevens Point, WI",0,31,2,0.008,Stevens Point city
+WI,5519775,De Pere,incorporated,25,A,25410,"De Pere, WI",0,32,2,0.008,De Pere city
+WI,5511950,Caledonia,incorporated,47,A,25361,"Caledonia, WI",0,33,2,0.008,Caledonia village
+WI,5551150,Mequon,incorporated,25,A,25142,"Mequon, WI",0,34,2,0.008,Mequon city
+WI,5555275,Muskego,incorporated,25,A,25032,"Muskego, WI",0,35,2,0.008,Muskego city
+WI,5583975,Watertown,incorporated,25,A,22926,"Watertown, WI",0,36,2,0.008,Watertown city
+WI,5551575,Middleton,incorporated,25,A,21827,"Middleton, WI",0,37,2,0.008,Middleton city
+WI,5563300,Pleasant Prairie,incorporated,47,A,21250,"Pleasant Prairie, WI",0,38,2,0.008,Pleasant Prairie village
+WI,5528875,Germantown,incorporated,47,A,20917,"Germantown, WI",0,39,2,0.008,Germantown village
+WI,5575125,South Milwaukee,incorporated,25,A,20795,"South Milwaukee, WI",0,40,2,0.008,South Milwaukee city
+WI,5535950,Howard,incorporated,47,A,19950,"Howard, WI",0,41,2,0.008,Howard village
+WI,5526982,Fox Crossing,incorporated,47,A,18974,"Fox Crossing, WI",0,42,2,0.008,Fox Crossing village
+WI,5549675,Marshfield,incorporated,25,A,18929,"Marshfield, WI",0,43,2,0.008,Marshfield city
+WI,5588200,Wisconsin Rapids,incorporated,25,A,18877,"Wisconsin Rapids, WI",0,44,2,0.008,Wisconsin Rapids city
+WI,5559925,Onalaska,incorporated,25,A,18803,"Onalaska, WI",0,45,2,0.008,Onalaska city
+WI,5550825,Menasha,incorporated,25,A,18268,"Menasha, WI",0,46,2,0.008,Menasha city
+WI,5517975,Cudahy,incorporated,25,A,18204,"Cudahy, WI",0,47,2,0.008,Cudahy city
+WI,5559250,Oconomowoc,incorporated,25,A,18203,"Oconomowoc, WI",0,48,1,0.004,Oconomowoc city
+WI,5538800,Kaukauna,incorporated,25,A,17089,"Kaukauna, WI",0,49,1,0.004,Kaukauna city
+WI,5503425,Ashwaubenon,incorporated,47,A,16991,"Ashwaubenon, WI",0,50,1,0.004,Ashwaubenon village
+WI,5551025,Menomonie,incorporated,25,A,16843,"Menomonie, WI",0,51,1,0.004,Menomonie city
+WI,5505900,Beaver Dam,incorporated,25,A,16708,"Beaver Dam, WI",0,52,1,0.004,Beaver Dam city
+WI,5568275,River Falls,incorporated,25,A,16182,"River Falls, WI",0,53,1,0.004,River Falls city
+WI,5506350,Bellevue,incorporated,47,A,15935,"Bellevue, WI",0,54,0,0,Bellevue village
+WI,5562240,Pewaukee,incorporated,25,A,15914,"Pewaukee, WI",0,55,0,0,Pewaukee city
+WI,5586025,Weston,incorporated,47,A,15723,"Weston, WI",0,56,0,0,Weston village
+WI,5533000,Hartford,incorporated,25,A,15626,"Hartford, WI",0,57,0,0,Hartford city
+WI,5586700,Whitefish Bay,incorporated,47,A,14954,"Whitefish Bay, WI",0,58,0,0,Whitefish Bay village
+WI,5586925,Whitewater,incorporated,25,A,14889,"Whitewater, WI",0,59,0,0,Whitewater city
+WI,5584350,Waunakee,incorporated,47,A,14879,"Waunakee, WI",0,60,0,0,Waunakee village
+WI,5531125,Greendale,incorporated,47,A,14854,"Greendale, WI",0,61,0,0,Greendale village
+WI,5536250,Hudson,incorporated,25,A,14755,"Hudson, WI",0,62,0,0,Hudson city
+WI,5514575,Chippewa Falls,incorporated,25,A,14731,"Chippewa Falls, WI",0,63,0,0,Chippewa Falls city
+WI,5571163,Salem Lakes,incorporated,47,A,14601,"Salem Lakes, WI",0,64,0,0,Salem Lakes village
+WI,5501150,Allouez,incorporated,47,A,14156,"Allouez, WI",0,65,0,0,Allouez village
+WI,5582600,Verona,incorporated,25,A,14030,"Verona, WI",0,66,0,0,Verona city
+WI,5573725,Shorewood,incorporated,47,A,13859,"Shorewood, WI",0,67,0,0,Shorewood village
+WI,5563525,Plover,incorporated,47,A,13519,"Plover, WI",0,68,0,0,Plover village
+WI,5529400,Glendale,incorporated,25,A,13357,"Glendale, WI",0,69,0,0,Glendale city
+WI,5577675,Stoughton,incorporated,25,A,13173,"Stoughton, WI",0,70,0,0,Stoughton city
+WI,5577975,Suamico,incorporated,47,A,12820,"Suamico, WI",0,71,0,0,Suamico village
+WI,5526675,Fort Atkinson,incorporated,25,A,12579,"Fort Atkinson, WI",0,72,0,0,Fort Atkinson city
+WI,5504625,Baraboo,incorporated,25,A,12556,"Baraboo, WI",0,73,0,0,Baraboo city
+WI,5510375,Brown Deer,incorporated,47,A,12507,"Brown Deer, WI",0,74,0,0,Brown Deer village
+WI,5532790,Harrison,incorporated,47,A,12418,"Harrison, WI",0,75,0,0,Harrison village
+WI,5564450,Port Washington,incorporated,25,A,12353,"Port Washington, WI",0,76,0,0,Port Washington city
+WI,5513375,Cedarburg,incorporated,25,A,12121,"Cedarburg, WI",0,77,0,0,Cedarburg city
+WI,5530000,Grafton,incorporated,47,A,12094,"Grafton, WI",0,78,0,0,Grafton village
+WI,5563250,Platteville,incorporated,25,A,11836,"Platteville, WI",0,79,0,0,Platteville city
+WI,5567475,Richfield,incorporated,47,A,11739,"Richfield, WI",0,80,0,0,Richfield village
+WI,5544950,Little Chute,incorporated,47,A,11619,"Little Chute, WI",0,81,0,0,Little Chute village
+WI,5578750,Sussex,incorporated,47,A,11487,"Sussex, WI",0,82,0,0,Sussex village
+WI,5584425,Waupun,incorporated,25,A,11344,"Waupun, WI",0,83,0,0,Waupun city
+WI,5581325,Two Rivers,incorporated,25,A,11271,"Two Rivers, WI",0,84,0,0,Two Rivers city
+WI,5560200,Oregon,incorporated,47,A,11179,"Oregon, WI",0,85,0,0,Oregon village
+WI,5549300,Marinette,incorporated,25,A,11119,"Marinette, WI",0,86,0,0,Marinette city
+WI,5511200,Burlington,incorporated,25,A,11047,"Burlington, WI",0,87,0,0,Burlington city
+WI,5519350,DeForest,incorporated,47,A,10811,"DeForest, WI",0,88,0,0,DeForest village
+WI,5535450,Holmen,incorporated,47,A,10661,"Holmen, WI",0,89,0,0,Holmen village
+WI,5553750,Monroe,incorporated,25,A,10661,"Monroe, WI",0,90,0,0,Monroe city
+WI,5564100,Portage,incorporated,25,A,10581,"Portage, WI",0,91,0,0,Portage city
+WI,5523300,Elkhorn,incorporated,25,A,10247,"Elkhorn, WI",0,92,0,0,Elkhorn city
+WI,5535150,Hobart,incorporated,47,A,10211,"Hobart, WI",0,93,0,0,Hobart village
+WI,5557100,New Richmond,incorporated,25,A,10079,"New Richmond, WI",0,94,0,0,New Richmond city
+WI,5575325,Sparta,incorporated,25,A,10025,"Sparta, WI",0,95,0,0,Sparta city
+WI,5566800,Reedsburg,incorporated,25,A,9984,"Reedsburg, WI",0,96,0,0,Reedsburg city
+WI,5577875,Sturgeon Bay,incorporated,25,A,9646,"Sturgeon Bay, WI",0,97,0,0,Sturgeon Bay city
+WI,5580075,Tomah,incorporated,25,A,9570,"Tomah, WI",0,98,0,0,Tomah city
+WI,5533100,Hartland,incorporated,47,A,9501,"Hartland, WI",0,99,0,0,Hartland village
+WI,5551250,Merrill,incorporated,25,A,9347,"Merrill, WI",0,100,0,0,Merrill city
+WI,5572925,Shawano,incorporated,25,A,9243,"Shawano, WI",0,101,0,0,Shawano city
+WI,5570650,St. Francis,incorporated,25,A,9161,"St. Francis, WI",0,102,0,0,St. Francis city
+WI,5567350,Rice Lake,incorporated,25,A,9040,"Rice Lake, WI",0,103,0,0,Rice Lake city
+WI,5546850,McFarland,incorporated,47,A,8991,"McFarland, WI",0,104,0,0,McFarland village
+WI,5563700,Plymouth,incorporated,25,A,8932,"Plymouth, WI",0,105,0,0,Plymouth city
+WI,5587725,Windsor,incorporated,47,A,8754,"Windsor, WI",0,106,0,0,Windsor village
+WI,5553675,Monona,incorporated,25,A,8624,"Monona, WI",0,107,0,0,Monona city
+WI,5519450,Delavan,incorporated,25,A,8505,"Delavan, WI",0,108,0,0,Delavan city
+WI,5574625,Somers,incorporated,47,A,8402,"Somers, WI",0,109,0,0,Somers village
+WI,5540550,Kronenwetter,incorporated,47,A,8353,"Kronenwetter, WI",0,110,0,0,Kronenwetter village
+WI,5501550,Altoona,incorporated,25,A,8293,"Altoona, WI",0,111,0,0,Altoona city
+WI,5567200,Rhinelander,incorporated,25,A,8285,"Rhinelander, WI",0,112,0,0,Rhinelander city
+WI,5541450,Lake Geneva,incorporated,25,A,8277,"Lake Geneva, WI",0,113,0,0,Lake Geneva city
+WI,5555050,Mukwonago,incorporated,47,A,8262,"Mukwonago, WI",0,114,0,0,Mukwonago village
+WI,5562250,Pewaukee,incorporated,47,A,8238,"Pewaukee, WI",0,115,0,0,Pewaukee village
+WI,5573025,Sheboygan Falls,incorporated,25,A,8210,"Sheboygan Falls, WI",0,116,0,0,Sheboygan Falls city
+WI,5502250,Antigo,incorporated,25,A,8100,"Antigo, WI",0,117,0,0,Antigo city
+WI,5503225,Ashland,incorporated,25,A,7908,"Ashland, WI",0,118,0,0,Ashland city
+WI,5568175,Ripon,incorporated,25,A,7863,"Ripon, WI",0,119,0,0,Ripon city
+WI,5537900,Jefferson,incorporated,25,A,7793,"Jefferson, WI",0,120,0,0,Jefferson city
+WI,5554725,Mount Horeb,incorporated,47,A,7754,"Mount Horeb, WI",0,121,0,0,Mount Horeb village
+WI,5532075,Hales Corners,incorporated,47,A,7720,"Hales Corners, WI",0,122,0,0,Hales Corners village
+WI,5556925,New London,incorporated,25,A,7348,"New London, WI",0,123,0,0,New London city
+WI,5539650,Kimberly,incorporated,47,A,7320,"Kimberly, WI",0,124,0,0,Kimberly village
+WI,5517175,Cottage Grove,incorporated,47,A,7303,"Cottage Grove, WI",0,125,0,0,Cottage Grove village
+WI,5519400,Delafield,incorporated,25,A,7185,"Delafield, WI",0,126,0,0,Delafield city
+WI,5537675,Jackson,incorporated,47,A,7185,"Jackson, WI",0,127,0,0,Jackson village
+WI,5541525,Lake Hallie,incorporated,47,A,7170,"Lake Hallie, WI",0,128,0,0,Lake Hallie village
+WI,5527075,Fox Point,incorporated,47,A,6934,"Fox Point, WI",0,129,0,0,Fox Point village
+WI,5577925,Sturtevant,incorporated,47,A,6919,"Sturtevant, WI",0,130,0,0,Sturtevant village
+WI,5523575,Elm Grove,incorporated,47,A,6513,"Elm Grove, WI",0,131,0,0,Elm Grove village
+WI,5581250,Twin Lakes,incorporated,47,A,6309,"Twin Lakes, WI",0,132,0,0,Twin Lakes village
+WI,5584375,Waupaca,incorporated,25,A,6282,"Waupaca, WI",0,133,0,0,Waupaca city
+WI,5541675,Lake Mills,incorporated,25,A,6211,"Lake Mills, WI",0,134,0,0,Lake Mills city
+WI,5567320,Rib Mountain,incorporated,47,A,6061,"Rib Mountain, WI",0,135,0,0,Rib Mountain village
+WI,5574400,Slinger,incorporated,47,A,5992,"Slinger, WI",0,136,0,0,Slinger village
+WI,5522575,Edgerton,incorporated,25,A,5945,"Edgerton, WI",0,137,0,0,Edgerton city
+WI,5552200,Milton,incorporated,25,A,5716,"Milton, WI",0,138,0,0,Milton city
+WI,5524550,Evansville,incorporated,25,A,5703,"Evansville, WI",0,139,0,0,Evansville city
+WI,5506925,Berlin,incorporated,25,A,5571,"Berlin, WI",0,140,0,0,Berlin city
+WI,5569725,Rothschild,incorporated,47,A,5567,"Rothschild, WI",0,141,0,0,Rothschild village
+WI,5583825,Waterford,incorporated,47,A,5542,"Waterford, WI",0,142,0,0,Waterford village
+WI,5516450,Columbus,incorporated,25,A,5540,"Columbus, WI",0,143,0,0,Columbus city
+WI,5565050,Prairie du Chien,incorporated,25,A,5506,"Prairie du Chien, WI",0,144,0,0,Prairie du Chien city
+WI,5558000,North Fond du Lac,incorporated,47,A,5378,"North Fond du Lac, WI",0,145,0,0,North Fond du Lac village
+WI,5586275,West Salem,incorporated,47,A,5277,"West Salem, WI",0,146,0,0,West Salem village
+WI,5550200,Mayville,incorporated,25,A,5196,"Mayville, WI",0,147,0,0,Mayville city
+WI,5509800,Bristol,incorporated,47,A,5192,"Bristol, WI",0,148,0,0,Bristol village
+WI,5567625,Richland Center,incorporated,25,A,5114,"Richland Center, WI",0,149,0,0,Richland Center city
+WI,5520350,Dodgeville,incorporated,25,A,4984,"Dodgeville, WI",0,150,0,0,Dodgeville city
+WI,5581775,Union Grove,incorporated,47,A,4806,"Union Grove, WI",0,151,0,0,Union Grove village
+WI,5578375,Summit,incorporated,47,A,4784,"Summit, WI",0,152,0,0,Summit village
+WI,5508265,Bloomfield,incorporated,47,A,4781,"Bloomfield, WI",0,153,0,0,Bloomfield village
+WI,5522100,East Troy,incorporated,47,A,4687,"East Troy, WI",0,154,0,0,East Troy village
+WI,5559350,Oconto,incorporated,25,A,4609,"Oconto, WI",0,155,0,0,Oconto city
+WI,5515725,Clintonville,incorporated,25,A,4591,"Clintonville, WI",0,156,0,0,Clintonville city
+WI,5582925,Viroqua,incorporated,25,A,4504,"Viroqua, WI",0,157,0,0,Viroqua city
+WI,5505450,Bayside,incorporated,47,A,4482,"Bayside, WI",0,158,0,0,Bayside village
+WI,5554500,Mosinee,incorporated,25,A,4452,"Mosinee, WI",0,159,0,0,Mosinee city
+WI,5565100,Prairie du Sac,incorporated,47,A,4420,"Prairie du Sac, WI",0,160,0,0,Prairie du Sac village
+WI,5550425,Medford,incorporated,25,A,4349,"Medford, WI",0,161,0,0,Medford city
+WI,5550025,Mauston,incorporated,25,A,4347,"Mauston, WI",0,162,0,0,Mauston city
+WI,5565375,Prescott,incorporated,25,A,4333,"Prescott, WI",0,163,0,0,Prescott city
+WI,5539300,Kewaskum,incorporated,47,A,4309,"Kewaskum, WI",0,164,0,0,Kewaskum village
+WI,5504400,Baldwin,incorporated,47,A,4291,"Baldwin, WI",0,165,0,0,Baldwin village
+WI,5571700,Saukville,incorporated,47,A,4258,"Saukville, WI",0,166,0,0,Saukville village
+WI,5585875,West Milwaukee,incorporated,47,A,4114,"West Milwaukee, WI",0,167,0,0,West Milwaukee village
+WI,5517775,Cross Plains,incorporated,47,A,4104,"Cross Plains, WI",0,168,0,0,Cross Plains village
+WI,5514475,Chilton,incorporated,25,A,4080,"Chilton, WI",0,169,0,0,Chilton city
+WI,5539525,Kiel,incorporated,25,A,3932,"Kiel, WI",0,170,0,0,Kiel city
+WI,5566350,Raymond,incorporated,47,A,3926,"Raymond, WI",0,171,0,0,Raymond village
+WI,5542250,Lancaster,incorporated,25,A,3907,"Lancaster, WI",0,172,0,0,Lancaster city
+WI,5565675,Pulaski,incorporated,47,A,3870,"Pulaski, WI",0,173,0,0,Pulaski village
+WI,5576625,Stanley,incorporated,25,A,3804,"Stanley, WI",0,174,0,0,Stanley city
+WI,5558050,North Hudson,incorporated,47,A,3803,"North Hudson, WI",0,175,0,0,North Hudson village
+WI,5549575,Marshall,incorporated,47,A,3787,"Marshall, WI",0,176,0,0,Marshall village
+WI,5568550,Rochester,incorporated,47,A,3785,"Rochester, WI",0,177,0,0,Rochester village
+WI,5535750,Horicon,incorporated,25,A,3767,"Horicon, WI",0,178,0,0,Horicon city
+WI,5502500,Arcadia,incorporated,25,A,3737,"Arcadia, WI",0,179,0,0,Arcadia city
+WI,5504875,Barron,incorporated,25,A,3733,"Barron, WI",0,180,0,0,Barron city
+WI,5508225,Bloomer,incorporated,25,A,3683,"Bloomer, WI",0,181,0,0,Bloomer city
+WI,5559875,Omro,incorporated,25,A,3652,"Omro, WI",0,182,0,0,Omro city
+WI,5516500,Combined Locks,incorporated,47,A,3634,"Combined Locks, WI",0,183,0,0,Combined Locks village
+WI,5572725,Seymour,incorporated,25,A,3546,"Seymour, WI",0,184,0,0,Seymour city
+WI,5507900,Black River Falls,incorporated,25,A,3523,"Black River Falls, WI",0,185,0,0,Black River Falls city
+WI,5571650,Sauk City,incorporated,47,A,3518,"Sauk City, WI",0,186,0,0,Sauk City village
+WI,5541300,Lake Delton,incorporated,47,A,3501,"Lake Delton, WI",0,187,0,0,Lake Delton village
+WI,5583925,Waterloo,incorporated,25,A,3492,"Waterloo, WI",0,188,0,0,Waterloo city
+WI,5551375,Merton,incorporated,47,A,3441,"Merton, WI",0,189,0,0,Merton village
+WI,5580125,Tomahawk,incorporated,25,A,3441,"Tomahawk, WI",0,190,0,0,Tomahawk city
+WI,5562175,Peshtigo,incorporated,25,A,3420,"Peshtigo, WI",0,191,0,0,Peshtigo city
+WI,5523525,Ellsworth,incorporated,47,A,3348,"Ellsworth, WI",0,192,0,0,Ellsworth village
+WI,5538350,Johnson Creek,incorporated,47,A,3318,"Johnson Creek, WI",0,193,0,0,Johnson Creek village
+WI,5579475,Thiensville,incorporated,47,A,3290,"Thiensville, WI",0,194,0,0,Thiensville village
+WI,5508850,Boscobel,incorporated,25,A,3286,"Boscobel, WI",0,195,0,0,Boscobel city
+WI,5509925,Brodhead,incorporated,25,A,3274,"Brodhead, WI",0,196,0,0,Brodhead city
+WI,5573525,Sherwood,incorporated,47,A,3271,"Sherwood, WI",0,197,0,0,Sherwood village
+WI,5509725,Brillion,incorporated,25,A,3262,"Brillion, WI",0,198,0,0,Brillion city
+WI,5589550,Yorkville,incorporated,47,A,3246,"Yorkville, WI",0,199,0,0,Yorkville village
+WI,5501000,Algoma,incorporated,25,A,3243,"Algoma, WI",0,200,0,0,Algoma city
+WI,5536025,Howards Grove,incorporated,47,A,3237,"Howards Grove, WI",0,201,0,0,Howards Grove village
+WI,5540850,Ladysmith,incorporated,25,A,3216,"Ladysmith, WI",0,202,0,0,Ladysmith city
+WI,5556800,New Holstein,incorporated,25,A,3195,"New Holstein, WI",0,203,0,0,New Holstein city
+WI,5545350,Lodi,incorporated,25,A,3189,"Lodi, WI",0,204,0,0,Lodi city
+WI,5589150,Wrightstown,incorporated,47,A,3179,"Wrightstown, WI",0,205,0,0,Wrightstown village
+WI,5526350,Fontana-on-Geneva Lake,incorporated,47,A,3120,"Fontana-on-Geneva Lake, WI",0,206,0,0,Fontana-on-Geneva Lake village
+WI,5560100,Oostburg,incorporated,47,A,3056,"Oostburg, WI",0,207,0,0,Oostburg village
+WI,5535850,Hortonville,incorporated,47,A,3028,"Hortonville, WI",0,208,0,0,Hortonville village
+WI,5574675,Somerset,incorporated,47,A,3019,"Somerset, WI",0,209,0,0,Somerset village
+WI,5528675,Genoa City,incorporated,47,A,2982,"Genoa City, WI",0,210,0,0,Genoa City village
+WI,5501725,Amery,incorporated,25,A,2962,"Amery, WI",0,211,0,0,Amery city
+WI,5559400,Oconto Falls,incorporated,25,A,2957,"Oconto Falls, WI",0,212,0,0,Oconto Falls city
+WI,5587200,Williams Bay,incorporated,47,A,2953,"Williams Bay, WI",0,213,0,0,Williams Bay village
+WI,5588150,Wisconsin Dells,incorporated,25,A,2942,"Wisconsin Dells, WI",0,214,0,0,Wisconsin Dells city
+WI,5560975,Paddock Lake,incorporated,47,A,2919,"Paddock Lake, WI",0,215,0,0,Paddock Lake village
+WI,5583175,Wales,incorporated,47,A,2862,"Wales, WI",0,216,0,0,Wales village
+WI,5553600,Mondovi,incorporated,25,A,2845,"Mondovi, WI",0,217,0,0,Mondovi city
+WI,5539350,Kewaunee,incorporated,25,A,2837,"Kewaunee, WI",0,218,0,0,Kewaunee city
+WI,5560450,Osceola,incorporated,47,A,2765,"Osceola, WI",0,219,0,0,Osceola village
+WI,5525600,Fennimore,incorporated,25,A,2764,"Fennimore, WI",0,220,0,0,Fennimore city
+WI,5583250,Walworth,incorporated,47,A,2759,"Walworth, WI",0,221,0,0,Walworth village
+WI,5546400,Luxemburg,incorporated,47,A,2685,"Luxemburg, WI",0,222,0,0,Luxemburg village
+WI,5545475,Lomira,incorporated,47,A,2678,"Lomira, WI",0,223,0,0,Lomira village
+WI,5538675,Juneau,incorporated,25,A,2658,"Juneau, WI",0,224,0,0,Juneau city
+WI,5548225,Maine,incorporated,47,A,2613,"Maine, WI",0,225,0,0,Maine village
+WI,5564900,Poynette,incorporated,47,A,2590,"Poynette, WI",0,226,0,0,Poynette village
+WI,5553100,Mineral Point,incorporated,25,A,2581,"Mineral Point, WI",0,227,0,0,Mineral Point city
+WI,5587900,Winneconne,incorporated,47,A,2544,"Winneconne, WI",0,228,0,0,Winneconne village
+WI,5533450,Hayward,incorporated,25,A,2533,"Hayward, WI",0,229,0,0,Hayward city
+WI,5519250,Deerfield,incorporated,47,A,2507,"Deerfield, WI",0,230,0,0,Deerfield village
+WI,5506300,Belleville,incorporated,47,A,2491,"Belleville, WI",0,231,0,0,Belleville village
+WI,5575625,Spooner,incorporated,25,A,2477,"Spooner, WI",0,232,0,0,Spooner city
+WI,5518875,Darlington,incorporated,25,A,2462,"Darlington, WI",0,233,0,0,Darlington city
+WI,5555875,Nekoosa,incorporated,25,A,2449,"Nekoosa, WI",0,234,0,0,Nekoosa city
+WI,5506150,Belgium,incorporated,47,A,2421,"Belgium, WI",0,235,0,0,Belgium village
+WI,5520550,Dousman,incorporated,47,A,2419,"Dousman, WI",0,236,0,0,Dousman village
+WI,5561200,Park Falls,incorporated,25,A,2410,"Park Falls, WI",0,237,0,0,Park Falls city
+WI,5519700,Denmark,incorporated,47,A,2408,"Denmark, WI",0,238,0,0,Denmark village
+WI,5555800,Neillsville,incorporated,25,A,2384,"Neillsville, WI",0,239,0,0,Neillsville city
+WI,5585475,Westby,incorporated,25,A,2332,"Westby, WI",0,240,0,0,Westby city
+WI,5527550,Fredonia,incorporated,47,A,2279,"Fredonia, WI",0,241,0,0,Fredonia village
+WI,5500100,Abbotsford,incorporated,25,A,2275,"Abbotsford, WI",0,242,0,0,Abbotsford city
+WI,5518025,Cumberland,incorporated,25,A,2274,"Cumberland, WI",0,243,0,0,Cumberland city
+WI,5556700,New Glarus,incorporated,47,A,2266,"New Glarus, WI",0,244,0,0,New Glarus village
+WI,5515625,Clinton,incorporated,47,A,2221,"Clinton, WI",0,245,0,0,Clinton village
+WI,5584625,Wautoma,incorporated,25,A,2209,"Wautoma, WI",0,246,0,0,Wautoma city
+WI,5570550,St. Croix Falls,incorporated,25,A,2208,"St. Croix Falls, WI",0,247,0,0,St. Croix Falls city
+WI,5558400,North Prairie,incorporated,47,A,2202,"North Prairie, WI",0,248,0,0,North Prairie village
+WI,5540275,Kohler,incorporated,47,A,2195,"Kohler, WI",0,249,0,0,Kohler village
+WI,5514325,Chetek,incorporated,25,A,2172,"Chetek, WI",0,250,0,0,Chetek city
+WI,5573750,Shorewood Hills,incorporated,47,A,2169,"Shorewood Hills, WI",0,251,0,0,Shorewood Hills village
+WI,5572150,Schofield,incorporated,25,A,2157,"Schofield, WI",0,252,0,0,Schofield city
+WI,5517950,Cuba City,incorporated,25,A,2138,"Cuba City, WI",0,253,0,0,Cuba City city
+WI,5513475,Cedar Grove,incorporated,47,A,2101,"Cedar Grove, WI",0,254,0,0,Cedar Grove village
+WI,5561100,Pardeeville,incorporated,47,A,2074,"Pardeeville, WI",0,255,0,0,Pardeeville village
+WI,5521425,Eagle,incorporated,47,A,2071,"Eagle, WI",0,256,0,0,Eagle village
+WI,5566625,Redgranite,incorporated,47,A,2061,"Redgranite, WI",0,257,0,0,Redgranite village
+WI,5583525,Washburn,incorporated,25,A,2051,"Washburn, WI",0,258,0,0,Washburn city
+WI,5516150,Colby,incorporated,25,A,1952,"Colby, WI",0,259,0,0,Colby city
+WI,5568475,Roberts,incorporated,47,A,1919,"Roberts, WI",0,260,0,0,Roberts village
+WI,5512325,Campbellsport,incorporated,47,A,1907,"Campbellsport, WI",0,261,0,0,Campbellsport village
+WI,5532325,Hammond,incorporated,47,A,1873,"Hammond, WI",0,262,0,0,Hammond village
+WI,5512250,Cameron,incorporated,47,A,1872,"Cameron, WI",0,263,0,0,Cameron village
+WI,5521225,Durand,incorporated,25,A,1854,"Durand, WI",0,264,0,0,Durand city
+WI,5580475,Trempealeau,incorporated,47,A,1843,"Trempealeau, WI",0,265,0,0,Trempealeau village
+WI,5575400,Spencer,incorporated,47,A,1818,"Spencer, WI",0,266,0,0,Spencer village
+WI,5560575,Osseo,incorporated,25,A,1811,"Osseo, WI",0,267,0,0,Osseo city
+WI,5525150,Fall River,incorporated,47,A,1801,"Fall River, WI",0,268,0,0,Fall River village
+WI,5566150,Randolph,incorporated,47,A,1796,"Randolph, WI",0,269,0,0,Randolph village
+WI,5586400,Weyauwega,incorporated,25,A,1796,"Weyauwega, WI",0,270,0,0,Weyauwega city
+WI,5579625,Thorp,incorporated,25,A,1795,"Thorp, WI",0,271,0,0,Thorp city
+WI,5511475,Butler,incorporated,47,A,1787,"Butler, WI",0,272,0,0,Butler village
+WI,5550225,Mazomanie,incorporated,47,A,1768,"Mazomanie, WI",0,273,0,0,Mazomanie village
+WI,5564175,Port Edwards,incorporated,47,A,1762,"Port Edwards, WI",0,274,0,0,Port Edwards village
+WI,5500275,Adams,incorporated,25,A,1761,"Adams, WI",0,275,0,0,Adams city
+WI,5556900,New Lisbon,incorporated,25,A,1748,"New Lisbon, WI",0,276,0,0,New Lisbon city
+WI,5561025,Palmyra,incorporated,47,A,1719,"Palmyra, WI",0,277,0,0,Palmyra village
+WI,5517425,Crandon,incorporated,25,A,1713,"Crandon, WI",0,278,0,0,Crandon city
+WI,5528200,Galesville,incorporated,25,A,1662,"Galesville, WI",0,279,0,0,Galesville city
+WI,5587700,Wind Point,incorporated,47,A,1651,"Wind Point, WI",0,280,0,0,Wind Point village
+WI,5586725,Whitehall,incorporated,25,A,1645,"Whitehall, WI",0,281,0,0,Whitehall city
+WI,5512225,Cambridge,incorporated,47,A,1638,"Cambridge, WI",0,282,0,0,Cambridge village
+WI,5521625,Eagle River,incorporated,25,A,1628,"Eagle River, WI",0,283,0,0,Eagle River city
+WI,5585325,West Baraboo,incorporated,47,A,1627,"West Baraboo, WI",0,284,0,0,West Baraboo village
+WI,5527000,Fox Lake,incorporated,25,A,1604,"Fox Lake, WI",0,285,0,0,Fox Lake city
+WI,5557325,Niagara,incorporated,25,A,1602,"Niagara, WI",0,286,0,0,Niagara city
+WI,5568325,River Hills,incorporated,47,A,1602,"River Hills, WI",0,287,0,0,River Hills village
+WI,5586975,Whiting,incorporated,47,A,1601,"Whiting, WI",0,288,0,0,Whiting village
+WI,5572875,Sharon,incorporated,47,A,1586,"Sharon, WI",0,289,0,0,Sharon village
+WI,5577750,Stratford,incorporated,47,A,1581,"Stratford, WI",0,290,0,0,Stratford village
+WI,5515400,Cleveland,incorporated,47,A,1579,"Cleveland, WI",0,291,0,0,Cleveland village
+WI,5549100,Marathon City,incorporated,47,A,1576,"Marathon City, WI",0,292,0,0,Marathon City village
+WI,5518825,Darien,incorporated,47,A,1573,"Darien, WI",0,293,0,0,Darien village
+WI,5503825,Augusta,incorporated,25,A,1567,"Augusta, WI",0,294,0,0,Augusta city
+WI,5576025,Spring Green,incorporated,47,A,1566,"Spring Green, WI",0,295,0,0,Spring Green village
+WI,5566200,Random Lake,incorporated,47,A,1561,"Random Lake, WI",0,296,0,0,Random Lake village
+WI,5536525,Hurley,incorporated,25,A,1558,"Hurley, WI",0,297,0,0,Hurley city
+WI,5562450,Phillips,incorporated,25,A,1533,"Phillips, WI",0,298,0,0,Phillips city
+WI,5510075,Brooklyn,incorporated,47,A,1524,"Brooklyn, WI",0,299,0,0,Brooklyn village
+WI,5511750,Cadott,incorporated,47,A,1498,"Cadott, WI",0,300,0,0,Cadott village
+WI,5536800,Independence,incorporated,25,A,1498,"Independence, WI",0,301,0,0,Independence city
+WI,5507800,Black Earth,incorporated,47,A,1493,"Black Earth, WI",0,302,0,0,Black Earth village
+WI,5507200,Big Bend,incorporated,47,A,1483,"Big Bend, WI",0,303,0,0,Big Bend village
+WI,5560250,Orfordville,incorporated,47,A,1473,"Orfordville, WI",0,304,0,0,Orfordville village
+WI,5517100,Cornell,incorporated,25,A,1453,"Cornell, WI",0,305,0,0,Cornell city
+WI,5553875,Montello,incorporated,25,A,1448,"Montello, WI",0,306,0,0,Montello city
+WI,5548350,Manawa,incorporated,25,A,1441,"Manawa, WI",0,307,0,0,Manawa city
+WI,5522550,Edgar,incorporated,47,A,1439,"Edgar, WI",0,308,0,0,Edgar village
+WI,5504550,Bangor,incorporated,47,A,1437,"Bangor, WI",0,309,0,0,Bangor village
+WI,5553325,Mishicot,incorporated,47,A,1432,"Mishicot, WI",0,310,0,0,Mishicot village
+WI,5525125,Fall Creek,incorporated,47,A,1422,"Fall Creek, WI",0,311,0,0,Fall Creek village
+WI,5508725,Bonduel,incorporated,47,A,1417,"Bonduel, WI",0,312,0,0,Bonduel village
+WI,5576300,Spring Valley,incorporated,47,A,1401,"Spring Valley, WI",0,313,0,0,Spring Valley village
+WI,5534825,Hillsboro,incorporated,25,A,1397,"Hillsboro, WI",0,314,0,0,Hillsboro city
+WI,5589025,Woodville,incorporated,47,A,1386,"Woodville, WI",0,315,0,0,Woodville village
+WI,5549450,Markesan,incorporated,25,A,1377,"Markesan, WI",0,316,0,0,Markesan city
+WI,5573200,Shell Lake,incorporated,25,A,1371,"Shell Lake, WI",0,317,0,0,Shell Lake city
+WI,5548750,Maple Bluff,incorporated,47,A,1368,"Maple Bluff, WI",0,318,0,0,Maple Bluff village
+WI,5507725,Black Creek,incorporated,47,A,1357,"Black Creek, WI",0,319,0,0,Black Creek village
+WI,5523800,Elroy,incorporated,25,A,1356,"Elroy, WI",0,320,0,0,Elroy city
+WI,5542450,Lannon,incorporated,47,A,1355,"Lannon, WI",0,321,0,0,Lannon village
+WI,5504775,Barneveld,incorporated,47,A,1331,"Barneveld, WI",0,322,0,0,Barneveld village
+WI,5530450,Grantsburg,incorporated,47,A,1330,"Grantsburg, WI",0,323,0,0,Grantsburg village
+WI,5508075,Blair,incorporated,25,A,1325,"Blair, WI",0,324,0,0,Blair city
+WI,5549400,Marion,incorporated,25,A,1324,"Marion, WI",0,325,0,0,Marion city
+WI,5555550,Nashotah,incorporated,47,A,1321,"Nashotah, WI",0,326,0,0,Nashotah village
+WI,5555200,Muscoda,incorporated,47,A,1307,"Muscoda, WI",0,327,0,0,Muscoda village
+WI,5529625,Glenwood City,incorporated,25,A,1306,"Glenwood City, WI",0,328,0,0,Glenwood City city
+WI,5585575,Westfield,incorporated,47,A,1302,"Westfield, WI",0,329,0,0,Westfield village
+WI,5529050,Gillett,incorporated,25,A,1289,"Gillett, WI",0,330,0,0,Gillett city
+WI,5565600,Princeton,incorporated,25,A,1267,"Princeton, WI",0,331,0,0,Princeton city
+WI,5579375,Theresa,incorporated,47,A,1255,"Theresa, WI",0,332,0,0,Theresa village
+WI,5537025,Iola,incorporated,47,A,1249,"Iola, WI",0,333,0,0,Iola village
+WI,5534575,Hilbert,incorporated,47,A,1248,"Hilbert, WI",0,334,0,0,Hilbert village
+WI,5546075,Loyal,incorporated,25,A,1203,"Loyal, WI",0,335,0,0,Loyal city
+WI,5566875,Reedsville,incorporated,47,A,1195,"Reedsville, WI",0,336,0,0,Reedsville village
+WI,5554000,Monticello,incorporated,47,A,1192,"Monticello, WI",0,337,0,0,Monticello village
+WI,5516275,Colfax,incorporated,47,A,1182,"Colfax, WI",0,338,0,0,Colfax village
+WI,5533500,Hazel Green,incorporated,47,A,1173,"Hazel Green, WI",0,339,0,0,Hazel Green village
+WI,5573825,Shullsburg,incorporated,25,A,1173,"Shullsburg, WI",0,340,0,0,Shullsburg city
+WI,5512950,Cashton,incorporated,47,A,1158,"Cashton, WI",0,341,0,0,Cashton village
+WI,5527500,Frederic,incorporated,47,A,1154,"Frederic, WI",0,342,0,0,Frederic village
+WI,5574225,Sister Bay,incorporated,47,A,1148,"Sister Bay, WI",0,343,0,0,Sister Bay village
+WI,5556450,Newburg,incorporated,47,A,1142,"Newburg, WI",0,344,0,0,Newburg village
+WI,5541725,Lake Nebagamon,incorporated,47,A,1123,"Lake Nebagamon, WI",0,345,0,0,Lake Nebagamon village
+WI,5568100,Rio,incorporated,47,A,1119,"Rio, WI",0,346,0,0,Rio village
+WI,5501750,Amherst,incorporated,47,A,1117,"Amherst, WI",0,347,0,0,Amherst village
+WI,5518700,Dane,incorporated,47,A,1117,"Dane, WI",0,348,0,0,Dane village
+WI,5536625,Hustisford,incorporated,47,A,1101,"Hustisford, WI",0,349,0,0,Hustisford village
+WI,5509050,Boyceville,incorporated,47,A,1100,"Boyceville, WI",0,350,0,0,Boyceville village
+WI,5515250,Clear Lake,incorporated,47,A,1099,"Clear Lake, WI",0,351,0,0,Clear Lake village
+WI,5500750,Albany,incorporated,47,A,1096,"Albany, WI",0,352,0,0,Albany village
+WI,5517725,Crivitz,incorporated,47,A,1093,"Crivitz, WI",0,353,0,0,Crivitz village
+WI,5546200,Luck,incorporated,47,A,1093,"Luck, WI",0,354,0,0,Luck village
+WI,5577825,Strum,incorporated,47,A,1076,"Strum, WI",0,355,0,0,Strum village
+WI,5503550,Athens,incorporated,47,A,1059,"Athens, WI",0,356,0,0,Athens village
+WI,5531575,Greenwood,incorporated,25,A,1058,"Greenwood, WI",0,357,0,0,Greenwood city
+WI,5558900,Oakfield,incorporated,47,A,1052,"Oakfield, WI",0,358,0,0,Oakfield village
+WI,5569525,Rosendale,incorporated,47,A,1039,"Rosendale, WI",0,359,0,0,Rosendale village
+WI,5581075,Turtle Lake,incorporated,47,A,1037,"Turtle Lake, WI",0,360,0,0,Turtle Lake village
+WI,5520175,Dickeyville,incorporated,47,A,1015,"Dickeyville, WI",0,361,0,0,Dickeyville village
+WI,5588325,Wittenberg,incorporated,47,A,1015,"Wittenberg, WI",0,362,0,0,Wittenberg village
+WI,5511062,Buffalo City,incorporated,25,A,1007,"Buffalo City, WI",0,363,0,0,Buffalo City city
+WI,5531300,Green Lake,incorporated,25,A,1001,"Green Lake, WI",0,364,0,0,Green Lake city
+WI,5506425,Belmont,incorporated,47,A,989,"Belmont, WI",0,365,0,0,Belmont village
+WI,5523325,Elk Mound,incorporated,47,A,985,"Elk Mound, WI",0,366,0,0,Elk Mound village
+WI,5582200,Valders,incorporated,47,A,952,"Valders, WI",0,367,0,0,Valders village
+WI,5508475,Blue Mounds,incorporated,47,A,948,"Blue Mounds, WI",0,368,0,0,Blue Mounds village
+WI,5552075,Milltown,incorporated,47,A,948,"Milltown, WI",0,369,0,0,Milltown village
+WI,5506825,Benton,incorporated,47,A,946,"Benton, WI",0,370,0,0,Benton village
+WI,5523275,Elkhart Lake,incorporated,47,A,941,"Elkhart Lake, WI",0,371,0,0,Elkhart Lake village
+WI,5573625,Shiocton,incorporated,47,A,939,"Shiocton, WI",0,372,0,0,Shiocton village
+WI,5520850,Dresser,incorporated,47,A,935,"Dresser, WI",0,373,0,0,Dresser village
+WI,5567275,Rib Lake,incorporated,47,A,935,"Rib Lake, WI",0,374,0,0,Rib Lake village
+WI,5504475,Balsam Lake,incorporated,47,A,934,"Balsam Lake, WI",0,375,0,0,Balsam Lake village
+WI,5555700,Necedah,incorporated,47,A,924,"Necedah, WI",0,376,0,0,Necedah village
+WI,5563150,Plainfield,incorporated,47,A,924,"Plainfield, WI",0,377,0,0,Plainfield village
+WI,5560825,Owen,incorporated,25,A,916,"Owen, WI",0,378,0,0,Owen city
+WI,5537150,Iron Ridge,incorporated,47,A,904,"Iron Ridge, WI",0,379,0,0,Iron Ridge village
+WI,5538900,Kekoskee,incorporated,47,A,896,"Kekoskee, WI",0,380,0,0,Kekoskee village
+WI,5513850,Centuria,incorporated,47,A,891,"Centuria, WI",0,381,0,0,Centuria village
+WI,5522475,Eden,incorporated,47,A,884,"Eden, WI",0,382,0,0,Eden village
+WI,5509300,Brandon,incorporated,47,A,882,"Brandon, WI",0,383,0,0,Brandon village
+WI,5534450,Highland,incorporated,47,A,874,"Highland, WI",0,384,0,0,Highland village
+WI,5520450,Dorchester,incorporated,47,A,849,"Dorchester, WI",0,385,0,0,Dorchester village
+WI,5502550,Arena,incorporated,47,A,844,"Arena, WI",0,386,0,0,Arena village
+WI,5502800,Arlington,incorporated,47,A,844,"Arlington, WI",0,387,0,0,Arlington village
+WI,5577550,Stoddard,incorporated,47,A,840,"Stoddard, WI",0,388,0,0,Stoddard village
+WI,5507650,Biron,incorporated,47,A,839,"Biron, WI",0,389,0,0,Biron village
+WI,5545575,Lone Rock,incorporated,47,A,829,"Lone Rock, WI",0,390,0,0,Lone Rock village
+WI,5574175,Siren,incorporated,47,A,824,"Siren, WI",0,391,0,0,Siren village
+WI,5523700,Elmwood,incorporated,47,A,820,"Elmwood, WI",0,392,0,0,Elmwood village
+WI,5563100,Pittsville,incorporated,25,A,813,"Pittsville, WI",0,393,0,0,Pittsville city
+WI,5508125,Blanchardville,incorporated,47,A,807,"Blanchardville, WI",0,394,0,0,Blanchardville village
+WI,5526850,Fountain City,incorporated,25,A,806,"Fountain City, WI",0,395,0,0,Fountain City city
+WI,5554075,Montreal,incorporated,25,A,801,"Montreal, WI",0,396,0,0,Montreal city
+WI,5534250,Hewitt,incorporated,47,A,796,"Hewitt, WI",0,397,0,0,Hewitt village
+WI,5502650,Argyle,incorporated,47,A,783,"Argyle, WI",0,398,0,0,Argyle village
+WI,5510500,Bruce,incorporated,47,A,781,"Bruce, WI",0,399,0,0,Bruce village
+WI,5587075,Wild Rose,incorporated,47,A,780,"Wild Rose, WI",0,400,0,0,Wild Rose village
+WI,5512200,Cambria,incorporated,47,A,777,"Cambria, WI",0,401,0,0,Cambria village
+WI,5513050,Cassville,incorporated,47,A,777,"Cassville, WI",0,402,0,0,Cassville village
+WI,5526400,Footville,incorporated,47,A,772,"Footville, WI",0,403,0,0,Footville village
+WI,5568900,Rockland,incorporated,47,A,765,"Rockland, WI",0,404,0,0,Rockland village
+WI,5566900,Reeseville,incorporated,47,A,763,"Reeseville, WI",0,405,0,0,Reeseville village
+WI,5516900,Coon Valley,incorporated,47,A,758,"Coon Valley, WI",0,406,0,0,Coon Valley village
+WI,5588500,Wonewoc,incorporated,47,A,758,"Wonewoc, WI",0,407,0,0,Wonewoc village
+WI,5589300,Wyocena,incorporated,47,A,756,"Wyocena, WI",0,408,0,0,Wyocena village
+WI,5563125,Plain,incorporated,47,A,749,"Plain, WI",0,409,0,0,Plain village
+WI,5508375,Bloomington,incorporated,47,A,741,"Bloomington, WI",0,410,0,0,Bloomington village
+WI,5586775,Whitelaw,incorporated,47,A,737,"Whitelaw, WI",0,411,0,0,Whitelaw village
+WI,5531375,Greenleaf,incorporated,47,A,733,"Greenleaf, WI",0,412,0,0,Greenleaf village
+WI,5561925,Pepin,incorporated,47,A,731,"Pepin, WI",0,413,0,0,Pepin village
+WI,5507600,Birnamwood,incorporated,47,A,730,"Birnamwood, WI",0,414,0,0,Birnamwood village
+WI,5540875,La Farge,incorporated,47,A,730,"La Farge, WI",0,415,0,0,La Farge village
+WI,5516250,Coleman,incorporated,47,A,726,"Coleman, WI",0,416,0,0,Coleman village
+WI,5512825,Cascade,incorporated,47,A,722,"Cascade, WI",0,417,0,0,Cascade village
+WI,5501225,Alma,incorporated,25,A,716,"Alma, WI",0,418,0,0,Alma city
+WI,5571025,St. Nazianz,incorporated,47,A,714,"St. Nazianz, WI",0,419,0,0,St. Nazianz village
+WI,5579825,Tigerton,incorporated,47,A,708,"Tigerton, WI",0,420,0,0,Tigerton village
+WI,5501325,Almena,incorporated,47,A,705,"Almena, WI",0,421,0,0,Almena village
+WI,5553950,Montfort,incorporated,47,A,705,"Montfort, WI",0,422,0,0,Montfort village
+WI,5503775,Auburndale,incorporated,47,A,702,"Auburndale, WI",0,423,0,0,Auburndale village
+WI,5550700,Mellen,incorporated,25,A,698,"Mellen, WI",0,424,0,0,Mellen city
+WI,5585025,Webster,incorporated,47,A,694,"Webster, WI",0,425,0,0,Webster village
+WI,5527800,Fremont,incorporated,47,A,689,"Fremont, WI",0,426,0,0,Fremont village
+WI,5523175,Eleva,incorporated,47,A,685,"Eleva, WI",0,427,0,0,Eleva village
+WI,5576825,Star Prairie,incorporated,47,A,678,"Star Prairie, WI",0,428,0,0,Star Prairie village
+WI,5577400,Stockbridge,incorporated,47,A,678,"Stockbridge, WI",0,429,0,0,Stockbridge village
+WI,5578660,Superior,incorporated,47,A,677,"Superior, WI",0,430,0,0,Superior village
+WI,5582900,Viola,incorporated,47,A,676,"Viola, WI",0,431,0,0,Viola village
+WI,5527125,Francis Creek,incorporated,47,A,659,"Francis Creek, WI",0,432,0,0,Francis Creek village
+WI,5574575,Solon Springs,incorporated,47,A,656,"Solon Springs, WI",0,433,0,0,Solon Springs village
+WI,5578175,Sullivan,incorporated,47,A,651,"Sullivan, WI",0,434,0,0,Sullivan village
+WI,5527950,Friendship,incorporated,47,A,648,"Friendship, WI",0,435,0,0,Friendship village
+WI,5533175,Hatley,incorporated,47,A,648,"Hatley, WI",0,436,0,0,Hatley village
+WI,5512350,Camp Douglas,incorporated,47,A,647,"Camp Douglas, WI",0,437,0,0,Camp Douglas village
+WI,5564625,Potosi,incorporated,47,A,646,"Potosi, WI",0,438,0,0,Potosi village
+WI,5545325,Livingston,incorporated,47,A,637,"Livingston, WI",0,439,0,0,Livingston village
+WI,5512850,Casco,incorporated,47,A,630,"Casco, WI",0,440,0,0,Casco village
+WI,5563975,Poplar,incorporated,47,A,629,"Poplar, WI",0,441,0,0,Poplar village
+WI,5584725,Wauzeka,incorporated,47,A,628,"Wauzeka, WI",0,442,0,0,Wauzeka village
+WI,5567875,Ridgeway,incorporated,47,A,624,"Ridgeway, WI",0,443,0,0,Ridgeway village
+WI,5558575,Norwalk,incorporated,47,A,611,"Norwalk, WI",0,444,0,0,Norwalk village
+WI,5509075,Boyd,incorporated,47,A,605,"Boyd, WI",0,445,0,0,Boyd village
+WI,5558025,North Freedom,incorporated,47,A,603,"North Freedom, WI",0,446,0,0,North Freedom village
+WI,5510450,Brownsville,incorporated,47,A,598,"Brownsville, WI",0,447,0,0,Brownsville village
+WI,5563600,Plum City,incorporated,47,A,596,"Plum City, WI",0,448,0,0,Plum City village
+WI,5584525,Wausaukee,incorporated,47,A,596,"Wausaukee, WI",0,449,0,0,Wausaukee village
+WI,5556075,Neosho,incorporated,47,A,591,"Neosho, WI",0,450,0,0,Neosho village
+WI,5505350,Bayfield,incorporated,25,A,584,"Bayfield, WI",0,451,0,0,Bayfield city
+WI,5559300,Oconomowoc Lake,incorporated,47,A,566,"Oconomowoc Lake, WI",0,452,0,0,Oconomowoc Lake village
+WI,5565325,Prentice,incorporated,47,A,563,"Prentice, WI",0,453,0,0,Prentice village
+WI,5577100,Stetsonville,incorporated,47,A,563,"Stetsonville, WI",0,454,0,0,Stetsonville village
+WI,5551300,Merrillan,incorporated,47,A,562,"Merrillan, WI",0,455,0,0,Merrillan village
+WI,5556350,New Auburn,incorporated,47,A,562,"New Auburn, WI",0,456,0,0,New Auburn village
+WI,5504025,Avoca,incorporated,47,A,553,"Avoca, WI",0,457,0,0,Avoca village
+WI,5574550,Soldiers Grove,incorporated,47,A,552,"Soldiers Grove, WI",0,458,0,0,Soldiers Grove village
+WI,5515100,Clayton,incorporated,47,A,550,"Clayton, WI",0,459,0,0,Clayton village
+WI,5553250,Minong,incorporated,47,A,548,"Minong, WI",0,460,0,0,Minong village
+WI,5554650,Mount Calvary,incorporated,47,A,548,"Mount Calvary, WI",0,461,0,0,Mount Calvary village
+WI,5550750,Melrose,incorporated,47,A,544,"Melrose, WI",0,462,0,0,Melrose village
+WI,5583450,Warrens,incorporated,47,A,544,"Warrens, WI",0,463,0,0,Warrens village
+WI,5543325,Lena,incorporated,47,A,537,"Lena, WI",0,464,0,0,Lena village
+WI,5560875,Oxford,incorporated,47,A,537,"Oxford, WI",0,465,0,0,Oxford village
+WI,5560075,Ontario,incorporated,47,A,534,"Ontario, WI",0,466,0,0,Ontario village
+WI,5587525,Wilton,incorporated,47,A,532,"Wilton, WI",0,467,0,0,Wilton village
+WI,5531675,Gresham,incorporated,47,A,530,"Gresham, WI",0,468,0,0,Gresham village
+WI,5561325,Park Ridge,incorporated,47,A,530,"Park Ridge, WI",0,469,0,0,Park Ridge village
+WI,5513325,Cecil,incorporated,47,A,529,"Cecil, WI",0,470,0,0,Cecil village
+WI,5551325,Merrimac,incorporated,47,A,527,"Merrimac, WI",0,471,0,0,Merrimac village
+WI,5514225,Chenequa,incorporated,47,A,526,"Chenequa, WI",0,472,0,0,Chenequa village
+WI,5524400,Ettrick,incorporated,47,A,525,"Ettrick, WI",0,473,0,0,Ettrick village
+WI,5528450,Gays Mills,incorporated,47,A,523,"Gays Mills, WI",0,474,0,0,Gays Mills village
+WI,5578725,Suring,incorporated,47,A,517,"Suring, WI",0,475,0,0,Suring village
+WI,5582650,Vesper,incorporated,47,A,513,"Vesper, WI",0,476,0,0,Vesper village
+WI,5523725,Elmwood Park,incorporated,47,A,510,"Elmwood Park, WI",0,477,0,0,Elmwood Park village
+WI,5588275,Withee,incorporated,47,A,506,"Withee, WI",0,478,0,0,Withee village
+WI,5544625,Linden,incorporated,47,A,504,"Linden, WI",0,479,0,0,Linden village
+WI,5500450,Adell,incorporated,47,A,498,"Adell, WI",0,480,0,0,Adell village
+WI,5546600,Lyndon Station,incorporated,47,A,498,"Lyndon Station, WI",0,481,0,0,Lyndon Station village
+WI,5565150,Prairie Farm,incorporated,47,A,494,"Prairie Farm, WI",0,482,0,0,Prairie Farm village
+WI,5570500,St. Cloud,incorporated,47,A,489,"St. Cloud, WI",0,483,0,0,St. Cloud village
+WI,5501300,Alma Center,incorporated,47,A,487,"Alma Center, WI",0,484,0,0,Alma Center village
+WI,5539150,Kendall,incorporated,47,A,484,"Kendall, WI",0,485,0,0,Kendall village
+WI,5579150,Taylor,incorporated,47,A,484,"Taylor, WI",0,486,0,0,Taylor village
+WI,5526625,Forestville,incorporated,47,A,482,"Forestville, WI",0,487,0,0,Forestville village
+WI,5515975,Cobb,incorporated,47,A,480,"Cobb, WI",0,488,0,0,Cobb village
+WI,5539975,Knapp,incorporated,47,A,478,"Knapp, WI",0,489,0,0,Knapp village
+WI,5569575,Rosholt,incorporated,47,A,478,"Rosholt, WI",0,490,0,0,Rosholt village
+WI,5583100,Waldo,incorporated,47,A,467,"Waldo, WI",0,491,0,0,Waldo village
+WI,5508525,Blue River,incorporated,47,A,457,"Blue River, WI",0,492,0,0,Blue River village
+WI,5535075,Hixton,incorporated,47,A,456,"Hixton, WI",0,493,0,0,Hixton village
+WI,5524825,Fairchild,incorporated,47,A,451,"Fairchild, WI",0,494,0,0,Fairchild village
+WI,5529350,Glenbeulah,incorporated,47,A,451,"Glenbeulah, WI",0,495,0,0,Glenbeulah village
+WI,5516375,Coloma,incorporated,47,A,448,"Coloma, WI",0,496,0,0,Coloma village
+WI,5575275,South Wayne,incorporated,47,A,444,"South Wayne, WI",0,497,0,0,South Wayne village
+WI,5505325,Bay City,incorporated,47,A,441,"Bay City, WI",0,498,0,0,Bay City village
+WI,5545425,Lohrville,incorporated,47,A,434,"Lohrville, WI",0,499,0,0,Lohrville village
+WI,5570000,Rudolph,incorporated,47,A,433,"Rudolph, WI",0,500,0,0,Rudolph village
+WI,5524075,Endeavor,incorporated,47,A,432,"Endeavor, WI",0,501,0,0,Endeavor village
+WI,5505575,Bear Creek,incorporated,47,A,427,"Bear Creek, WI",0,502,0,0,Bear Creek village
+WI,5501400,Almond,incorporated,47,A,424,"Almond, WI",0,503,0,0,Almond village
+WI,5516025,Cochrane,incorporated,47,A,423,"Cochrane, WI",0,504,0,0,Cochrane village
+WI,5559800,Oliver,incorporated,47,A,423,"Oliver, WI",0,505,0,0,Oliver village
+WI,5538650,Junction City,incorporated,47,A,420,"Junction City, WI",0,506,0,0,Junction City village
+WI,5556125,Neshkoro,incorporated,47,A,412,"Neshkoro, WI",0,507,0,0,Neshkoro village
+WI,5507550,Birchwood,incorporated,47,A,402,"Birchwood, WI",0,508,0,0,Birchwood village
+WI,5515900,Clyman,incorporated,47,A,397,"Clyman, WI",0,509,0,0,Clyman village
+WI,5532450,Hancock,incorporated,47,A,393,"Hancock, WI",0,510,0,0,Hancock village
+WI,5542825,La Valle,incorporated,47,A,388,"La Valle, WI",0,511,0,0,La Valle village
+WI,5581850,Unity,incorporated,47,A,384,"Unity, WI",0,512,0,0,Unity village
+WI,5501800,Amherst Junction,incorporated,47,A,383,"Amherst Junction, WI",0,513,0,0,Amherst Junction village
+WI,5530425,Granton,incorporated,47,A,381,"Granton, WI",0,514,0,0,Granton village
+WI,5562675,Pigeon Falls,incorporated,47,A,381,"Pigeon Falls, WI",0,515,0,0,Pigeon Falls village
+WI,5529175,Gilman,incorporated,47,A,378,"Gilman, WI",0,516,0,0,Gilman village
+WI,5566450,Readstown,incorporated,47,A,376,"Readstown, WI",0,517,0,0,Readstown village
+WI,5571975,Scandinavia,incorporated,47,A,371,"Scandinavia, WI",0,518,0,0,Scandinavia village
+WI,5511525,Butternut,incorporated,47,A,366,"Butternut, WI",0,519,0,0,Butternut village
+WI,5513300,Cazenovia,incorporated,47,A,363,"Cazenovia, WI",0,520,0,0,Cazenovia village
+WI,5518575,Dallas,incorporated,47,A,359,"Dallas, WI",0,521,0,0,Dallas village
+WI,5522850,Egg Harbor,incorporated,47,A,358,"Egg Harbor, WI",0,522,0,0,Egg Harbor village
+WI,5550000,Mattoon,incorporated,47,A,357,"Mattoon, WI",0,523,0,0,Mattoon village
+WI,5564750,Pound,incorporated,47,A,357,"Pound, WI",0,524,0,0,Pound village
+WI,5504250,Bagley,incorporated,47,A,356,"Bagley, WI",0,525,0,0,Bagley village
+WI,5523850,Embarrass,incorporated,47,A,353,"Embarrass, WI",0,526,0,0,Embarrass village
+WI,5521900,Eastman,incorporated,47,A,350,"Eastman, WI",0,527,0,0,Eastman village
+WI,5579250,Tennyson,incorporated,47,A,348,"Tennyson, WI",0,528,0,0,Tennyson village
+WI,5525075,Fairwater,incorporated,47,A,346,"Fairwater, WI",0,529,0,0,Fairwater village
+WI,5524150,Ephraim,incorporated,47,A,345,"Ephraim, WI",0,530,0,0,Ephraim village
+WI,5549250,Maribel,incorporated,47,A,336,"Maribel, WI",0,531,0,0,Maribel village
+WI,5533275,Hawkins,incorporated,47,A,331,"Hawkins, WI",0,532,0,0,Hawkins village
+WI,5568975,Rock Springs,incorporated,47,A,327,"Rock Springs, WI",0,533,0,0,Rock Springs village
+WI,5586575,Wheeler,incorporated,47,A,326,"Wheeler, WI",0,534,0,0,Wheeler village
+WI,5587975,Winter,incorporated,47,A,325,"Winter, WI",0,535,0,0,Winter village
+WI,5555950,Nelson,incorporated,47,A,322,"Nelson, WI",0,536,0,0,Nelson village
+WI,5509025,Bowler,incorporated,47,A,320,"Bowler, WI",0,537,0,0,Bowler village
+WI,5528000,Friesland,incorporated,47,A,320,"Friesland, WI",0,538,0,0,Friesland village
+WI,5519850,De Soto,incorporated,47,A,309,"De Soto, WI",0,539,0,0,De Soto village
+WI,5545950,Lowell,incorporated,47,A,309,"Lowell, WI",0,540,0,0,Lowell village
+WI,5539000,Kellnersville,incorporated,47,A,307,"Kellnersville, WI",0,541,0,0,Kellnersville village
+WI,5535400,Hollandale,incorporated,47,A,306,"Hollandale, WI",0,542,0,0,Hollandale village
+WI,5503025,Arpin,incorporated,47,A,305,"Arpin, WI",0,543,0,0,Arpin village
+WI,5558850,Oakdale,incorporated,47,A,302,"Oakdale, WI",0,544,0,0,Oakdale village
+WI,5545400,Loganville,incorporated,47,A,301,"Loganville, WI",0,545,0,0,Loganville village
+WI,5518125,Curtiss,incorporated,47,A,292,"Curtiss, WI",0,546,0,0,Curtiss village
+WI,5557375,Nichols,incorporated,47,A,290,"Nichols, WI",0,547,0,0,Nichols village
+WI,5539750,Kingston,incorporated,47,A,281,"Kingston, WI",0,548,0,0,Kingston village
+WI,5540750,Lac La Belle,incorporated,47,A,281,"Lac La Belle, WI",0,549,0,0,Lac La Belle village
+WI,5520775,Doylestown,incorporated,47,A,280,"Doylestown, WI",0,550,0,0,Doylestown village
+WI,5537225,Ironton,incorporated,47,A,274,"Ironton, WI",0,551,0,0,Ironton village
+WI,5566050,Radisson,incorporated,47,A,273,"Radisson, WI",0,552,0,0,Radisson village
+WI,5551875,Milladore,incorporated,47,A,268,"Milladore, WI",0,553,0,0,Milladore village
+WI,5533225,Haugen,incorporated,47,A,266,"Haugen, WI",0,554,0,0,Haugen village
+WI,5586750,White Lake,incorporated,47,A,262,"White Lake, WI",0,555,0,0,White Lake village
+WI,5573175,Sheldon,incorporated,47,A,261,"Sheldon, WI",0,556,0,0,Sheldon village
+WI,5567100,Rewey,incorporated,47,A,258,"Rewey, WI",0,557,0,0,Rewey village
+WI,5567800,Ridgeland,incorporated,47,A,258,"Ridgeland, WI",0,558,0,0,Ridgeland village
+WI,5519325,Deer Park,incorporated,47,A,249,"Deer Park, WI",0,559,0,0,Deer Park village
+WI,5510475,Browntown,incorporated,47,A,245,"Browntown, WI",0,560,0,0,Browntown village
+WI,5564675,Potter,incorporated,47,A,244,"Potter, WI",0,561,0,0,Potter village
+WI,5502075,Aniwa,incorporated,47,A,243,"Aniwa, WI",0,562,0,0,Aniwa village
+WI,5514150,Chaseburg,incorporated,47,A,241,"Chaseburg, WI",0,563,0,0,Chaseburg village
+WI,5520675,Downing,incorporated,47,A,234,"Downing, WI",0,564,0,0,Downing village
+WI,5528625,Genoa,incorporated,47,A,232,"Genoa, WI",0,565,0,0,Genoa village
+WI,5586450,Weyerhaeuser,incorporated,47,A,232,"Weyerhaeuser, WI",0,566,0,0,Weyerhaeuser village
+WI,5524700,Exeland,incorporated,47,A,229,"Exeland, WI",0,567,0,0,Exeland village
+WI,5581725,Union Center,incorporated,47,A,225,"Union Center, WI",0,568,0,0,Union Center village
+WI,5530575,Gratiot,incorporated,47,A,224,"Gratiot, WI",0,569,0,0,Gratiot village
+WI,5554675,Mount Hope,incorporated,47,A,215,"Mount Hope, WI",0,570,0,0,Mount Hope village
+WI,5557700,North Bay,incorporated,47,A,209,"North Bay, WI",0,571,0,0,North Bay village
+WI,5587475,Wilson,incorporated,47,A,209,"Wilson, WI",0,572,0,0,Wilson village
+WI,5568725,Rockdale,incorporated,47,A,207,"Rockdale, WI",0,573,0,0,Rockdale village
+WI,5561425,Patch Grove,incorporated,47,A,201,"Patch Grove, WI",0,574,0,0,Patch Grove village
+WI,5522975,Eland,incorporated,47,A,199,"Eland, WI",0,575,0,0,Eland village
+WI,5525725,Ferryville,incorporated,47,A,191,"Ferryville, WI",0,576,0,0,Ferryville village
+WI,5554900,Mount Sterling,incorporated,47,A,189,"Mount Sterling, WI",0,577,0,0,Mount Sterling village
+WI,5559475,Ogdensburg,incorporated,47,A,188,"Ogdensburg, WI",0,578,0,0,Ogdensburg village
+WI,5549500,Marquette,incorporated,47,A,172,"Marquette, WI",0,579,0,0,Marquette village
+WI,5536675,Hustler,incorporated,47,A,162,"Hustler, WI",0,580,0,0,Hustler village
+WI,5523075,Elderon,incorporated,47,A,161,"Elderon, WI",0,581,0,0,Elderon village
+WI,5544225,Lime Ridge,incorporated,47,A,158,"Lime Ridge, WI",0,582,0,0,Lime Ridge village
+WI,5556000,Nelsonville,incorporated,47,A,158,"Nelsonville, WI",0,583,0,0,Nelsonville village
+WI,5539175,Kennan,incorporated,47,A,143,"Kennan, WI",0,584,0,0,Kennan village
+WI,5513175,Catawba,incorporated,47,A,141,"Catawba, WI",0,585,0,0,Catawba village
+WI,5525650,Fenwood,incorporated,47,A,141,"Fenwood, WI",0,586,0,0,Fenwood village
+WI,5546675,Lynxville,incorporated,47,A,132,"Lynxville, WI",0,587,0,0,Lynxville village
+WI,5508600,Boaz,incorporated,47,A,129,"Boaz, WI",0,588,0,0,Boaz village
+WI,5577175,Steuben,incorporated,47,A,122,"Steuben, WI",0,589,0,0,Steuben village
+WI,5589275,Wyeville,incorporated,47,A,121,"Wyeville, WI",0,590,0,0,Wyeville village
+WI,5588825,Woodman,incorporated,47,A,118,"Woodman, WI",0,591,0,0,Woodman village
+WI,5546150,Lublin,incorporated,47,A,117,"Lublin, WI",0,592,0,0,Lublin village
+WI,5548175,Maiden Rock,incorporated,47,A,115,"Maiden Rock, WI",0,593,0,0,Maiden Rock village
+WI,5506225,Bell Center,incorporated,47,A,108,"Bell Center, WI",0,594,0,0,Bell Center village
+WI,5580225,Tony,incorporated,47,A,105,"Tony, WI",0,595,0,0,Tony village
+WI,5549900,Mason,incorporated,47,A,101,"Mason, WI",0,596,0,0,Mason village
+WI,5529475,Glen Flora,incorporated,47,A,100,"Glen Flora, WI",0,597,0,0,Glen Flora village
+WI,5550800,Melvina,incorporated,47,A,93,"Melvina, WI",0,598,0,0,Melvina village
+WI,5516775,Conrath,incorporated,47,A,88,"Conrath, WI",0,599,0,0,Conrath village
+WI,5517225,Couderay,incorporated,47,A,81,"Couderay, WI",0,600,0,0,Couderay village
+WI,5577475,Stockholm,incorporated,47,A,78,"Stockholm, WI",0,601,0,0,Stockholm village
+WI,5536925,Ingram,incorporated,47,A,70,"Ingram, WI",0,602,0,0,Ingram village
+WI,5507250,Big Falls,incorporated,47,A,60,"Big Falls, WI",0,603,0,0,Big Falls village
+WI,5589625,Yuba,incorporated,47,A,53,"Yuba, WI",0,604,0,0,Yuba village
+WI,5531525,Greenville,incorporated,47,A,0,"Greenville, WI",0,605,0,0,Greenville village
+WI,5544847,Lisbon,incorporated,47,A,0,"Lisbon, WI",0,606,0,0,Lisbon village
+WI,5582575,Vernon,incorporated,47,A,0,"Vernon, WI",0,607,0,0,Vernon village
+WI,5584275,Waukesha,incorporated,47,A,0,"Waukesha, WI",0,608,0,0,Waukesha village

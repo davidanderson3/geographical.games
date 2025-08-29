@@ -1,0 +1,926 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+OH,3918000,Columbus,incorporated,25,A,905748,"Columbus, OH",0,1,87,0.348,Columbus city
+OH,3916000,Cleveland,incorporated,25,A,372624,"Cleveland, OH",0,2,24,0.096,Cleveland city
+OH,3915000,Cincinnati,incorporated,25,A,309317,"Cincinnati, OH",0,3,15,0.06,Cincinnati city
+OH,3977000,Toledo,incorporated,25,A,270871,"Toledo, OH",0,4,10,0.04,Toledo city
+OH,3901000,Akron,incorporated,25,A,190469,"Akron, OH",0,5,9,0.036,Akron city
+OH,3921000,Dayton,incorporated,25,A,137644,"Dayton, OH",0,6,6,0.024,Dayton city
+OH,3961000,Parma,incorporated,25,A,81146,"Parma, OH",0,7,5,0.02,Parma city
+OH,3912000,Canton,incorporated,25,A,70872,"Canton, OH",0,8,4,0.016,Canton city
+OH,3944856,Lorain,incorporated,25,A,65211,"Lorain, OH",0,9,5,0.02,Lorain city
+OH,3933012,Hamilton,incorporated,25,A,63399,"Hamilton, OH",0,10,3,0.012,Hamilton city
+OH,3988000,Youngstown,incorporated,25,A,60068,"Youngstown, OH",0,11,4,0.016,Youngstown city
+OH,3974118,Springfield,incorporated,25,A,58662,"Springfield, OH",0,12,4,0.016,Springfield city
+OH,3940040,Kettering,incorporated,25,A,57862,"Kettering, OH",0,13,2,0.008,Kettering city
+OH,3925256,Elyria,incorporated,25,A,52656,"Elyria, OH",0,14,2,0.008,Elyria city
+OH,3919778,Cuyahoga Falls,incorporated,25,A,51114,"Cuyahoga Falls, OH",0,15,3,0.012,Cuyahoga Falls city
+OH,3949840,Middletown,incorporated,25,A,50987,"Middletown, OH",0,16,3,0.012,Middletown city
+OH,3941664,Lakewood,incorporated,25,A,50942,"Lakewood, OH",0,17,3,0.012,Lakewood city
+OH,3954040,Newark,incorporated,25,A,49934,"Newark, OH",0,18,3,0.012,Newark city
+OH,3925704,Euclid,incorporated,25,A,49692,"Euclid, OH",0,19,2,0.008,Euclid city
+OH,3922694,Dublin,incorporated,25,A,49328,"Dublin, OH",0,20,1,0.004,Dublin city
+OH,3947138,Mansfield,incorporated,25,A,47534,"Mansfield, OH",0,21,1,0.004,Mansfield city
+OH,3949056,Mentor,incorporated,25,A,47450,"Mentor, OH",0,22,1,0.004,Mentor city
+OH,3904720,Beavercreek,incorporated,25,A,46549,"Beavercreek, OH",0,23,1,0.004,Beavercreek city
+OH,3975098,Strongsville,incorporated,25,A,46491,"Strongsville, OH",0,24,1,0.004,Strongsville city
+OH,3916014,Cleveland Heights,incorporated,25,A,45312,"Cleveland Heights, OH",0,25,1,0.004,Cleveland Heights city
+OH,3925970,Fairfield,incorporated,25,A,44907,"Fairfield, OH",0,26,2,0.008,Fairfield city
+OH,3936610,Huber Heights,incorporated,25,A,43439,"Huber Heights, OH",0,27,2,0.008,Huber Heights city
+OH,3921434,Delaware,incorporated,25,A,41302,"Delaware, OH",0,28,2,0.008,Delaware city
+OH,3932592,Grove City,incorporated,25,A,41252,"Grove City, OH",0,29,2,0.008,Grove City city
+OH,3966390,Reynoldsburg,incorporated,25,A,41076,"Reynoldsburg, OH",0,30,2,0.008,Reynoldsburg city
+OH,3941720,Lancaster,incorporated,25,A,40552,"Lancaster, OH",0,31,2,0.008,Lancaster city
+OH,3927048,Findlay,incorporated,25,A,40313,"Findlay, OH",0,32,2,0.008,Findlay city
+OH,3980892,Warren,incorporated,25,A,39201,"Warren, OH",0,33,2,0.008,Warren city
+OH,3983342,Westerville,incorporated,25,A,39190,"Westerville, OH",0,34,2,0.008,Westerville city
+OH,3935476,Hilliard,incorporated,25,A,37114,"Hilliard, OH",0,35,2,0.008,Hilliard city
+OH,3979002,Upper Arlington,incorporated,25,A,36800,"Upper Arlington, OH",0,36,2,0.008,Upper Arlington city
+OH,3947754,Marion,incorporated,25,A,35999,"Marion, OH",0,37,2,0.008,Marion city
+OH,3929106,Gahanna,incorporated,25,A,35726,"Gahanna, OH",0,38,2,0.008,Gahanna city
+OH,3943554,Lima,incorporated,25,A,35579,"Lima, OH",0,39,2,0.008,Lima city
+OH,3909680,Brunswick,incorporated,25,A,35426,"Brunswick, OH",0,40,2,0.008,Brunswick city
+OH,3956966,North Ridgeville,incorporated,25,A,35280,"North Ridgeville, OH",0,41,2,0.008,North Ridgeville city
+OH,3948188,Mason,incorporated,25,A,34792,"Mason, OH",0,42,2,0.008,Mason city
+OH,3925914,Fairborn,incorporated,25,A,34510,"Fairborn, OH",0,43,2,0.008,Fairborn city
+OH,3974944,Stow,incorporated,25,A,34483,"Stow, OH",0,44,2,0.008,Stow city
+OH,3983622,Westlake,incorporated,25,A,34228,"Westlake, OH",0,45,1,0.004,Westlake city
+OH,3956882,North Olmsted,incorporated,25,A,32442,"North Olmsted, OH",0,46,1,0.004,North Olmsted city
+OH,3948244,Massillon,incorporated,25,A,32146,"Massillon, OH",0,47,1,0.004,Massillon city
+OH,3957008,North Royalton,incorporated,25,A,31322,"North Royalton, OH",0,48,1,0.004,North Royalton city
+OH,3907972,Bowling Green,incorporated,25,A,30808,"Bowling Green, OH",0,49,1,0.004,Bowling Green city
+OH,3929428,Garfield Heights,incorporated,25,A,29781,"Garfield Heights, OH",0,50,1,0.004,Garfield Heights city
+OH,3971682,Shaker Heights,incorporated,25,A,29439,"Shaker Heights, OH",0,51,1,0.004,Shaker Heights city
+OH,3939872,Kent,incorporated,25,A,28215,"Kent, OH",0,52,1,0.004,Kent city
+OH,3931860,Green,incorporated,25,A,27475,"Green, OH",0,53,1,0.004,Green city
+OH,3986548,Wooster,incorporated,25,A,27232,"Wooster, OH",0,54,1,0.004,Wooster city
+OH,3977588,Troy,incorporated,25,A,26305,"Troy, OH",0,55,1,0.004,Troy city
+OH,3948790,Medina,incorporated,25,A,26094,"Medina, OH",0,56,1,0.004,Medina city
+OH,3948160,Marysville,incorporated,25,A,25571,"Marysville, OH",0,57,0,0,Marysville city
+OH,3986772,Xenia,incorporated,25,A,25441,"Xenia, OH",0,58,0,0,Xenia city
+OH,3903464,Avon Lake,incorporated,25,A,25206,"Avon Lake, OH",0,59,0,0,Avon Lake city
+OH,3903828,Barberton,incorporated,25,A,25191,"Barberton, OH",0,60,0,0,Barberton city
+OH,3970380,Sandusky,incorporated,25,A,25095,"Sandusky, OH",0,61,0,0,Sandusky city
+OH,3962148,Perrysburg,incorporated,25,A,25041,"Perrysburg, OH",0,62,0,0,Perrysburg city
+OH,3903352,Avon,incorporated,25,A,24847,"Avon, OH",0,63,0,0,Avon city
+OH,3988084,Zanesville,incorporated,25,A,24765,"Zanesville, OH",0,64,0,0,Zanesville city
+OH,3967468,Riverside,incorporated,25,A,24474,"Riverside, OH",0,65,0,0,Riverside city
+OH,3972928,Solon,incorporated,25,A,24262,"Solon, OH",0,66,0,0,Solon city
+OH,3913190,Centerville,incorporated,25,A,24240,"Centerville, OH",0,67,0,0,Centerville city
+OH,3980304,Wadsworth,incorporated,25,A,24007,"Wadsworth, OH",0,68,0,0,Wadsworth city
+OH,3985484,Willoughby,incorporated,25,A,23959,"Willoughby, OH",0,69,0,0,Willoughby city
+OH,3902736,Athens,incorporated,25,A,23849,"Athens, OH",0,70,0,0,Athens city
+OH,3947306,Maple Heights,incorporated,25,A,23701,"Maple Heights, OH",0,71,0,0,Maple Heights city
+OH,3936651,Hudson,incorporated,25,A,23110,"Hudson, OH",0,72,0,0,Hudson city
+OH,3962498,Pickerington,incorporated,25,A,23094,"Pickerington, OH",0,73,0,0,Pickerington city
+OH,3977504,Trotwood,incorporated,25,A,23070,"Trotwood, OH",0,74,0,0,Trotwood city
+OH,3959234,Oxford,incorporated,25,A,23035,"Oxford, OH",0,75,0,0,Oxford city
+OH,3914184,Chillicothe,incorporated,25,A,22059,"Chillicothe, OH",0,76,0,0,Chillicothe city
+OH,3973264,South Euclid,incorporated,25,A,21883,"South Euclid, OH",0,77,0,0,South Euclid city
+OH,3968056,Rocky River,incorporated,25,A,21755,"Rocky River, OH",0,78,0,0,Rocky River city
+OH,3901420,Alliance,incorporated,25,A,21672,"Alliance, OH",0,79,0,0,Alliance city
+OH,3961028,Parma Heights,incorporated,25,A,20863,"Parma Heights, OH",0,80,0,0,Parma Heights city
+OH,3942364,Lebanon,incorporated,25,A,20841,"Lebanon, OH",0,81,0,0,Lebanon city
+OH,3972424,Sidney,incorporated,25,A,20589,"Sidney, OH",0,82,0,0,Sidney city
+OH,3962848,Piqua,incorporated,25,A,20354,"Piqua, OH",0,83,0,0,Piqua city
+OH,3948482,Mayfield Heights,incorporated,25,A,20351,"Mayfield Heights, OH",0,84,0,0,Mayfield Heights city
+OH,3959416,Painesville,incorporated,25,A,20312,"Painesville, OH",0,85,0,0,Painesville city
+OH,3927706,Forest Park,incorporated,25,A,20189,"Forest Park, OH",0,86,0,0,Forest Park city
+OH,3984742,Whitehall,incorporated,25,A,20127,"Whitehall, OH",0,87,0,0,Whitehall city
+OH,3958730,Oregon,incorporated,25,A,19950,"Oregon, OH",0,88,0,0,Oregon city
+OH,3909064,Broadview Heights,incorporated,25,A,19936,"Broadview Heights, OH",0,89,0,0,Broadview Heights city
+OH,3949434,Miamisburg,incorporated,25,A,19923,"Miamisburg, OH",0,90,0,0,Miamisburg city
+OH,3978050,Twinsburg,incorporated,25,A,19248,"Twinsburg, OH",0,91,0,0,Twinsburg city
+OH,3902568,Ashland,incorporated,25,A,19225,"Ashland, OH",0,92,0,0,Ashland city
+OH,3974076,Springboro,incorporated,25,A,19062,"Springboro, OH",0,93,0,0,Springboro city
+OH,3957386,Norwood,incorporated,25,A,19043,"Norwood, OH",0,94,0,0,Norwood city
+OH,3976022,Sylvania,incorporated,25,A,19011,"Sylvania, OH",0,95,0,0,Sylvania city
+OH,3909288,Brook Park,incorporated,25,A,18595,"Brook Park, OH",0,96,0,0,Brook Park city
+OH,3905690,Berea,incorporated,25,A,18545,"Berea, OH",0,97,0,0,Berea city
+OH,3955916,Niles,incorporated,25,A,18443,"Niles, OH",0,98,0,0,Niles city
+OH,3976106,Tallmadge,incorporated,25,A,18394,"Tallmadge, OH",0,99,0,0,Tallmadge city
+OH,3964304,Portsmouth,incorporated,25,A,18252,"Portsmouth, OH",0,100,0,0,Portsmouth city
+OH,3974608,Steubenville,incorporated,25,A,18161,"Steubenville, OH",0,101,0,0,Steubenville city
+OH,3902638,Ashtabula,incorporated,25,A,17975,"Ashtabula, OH",0,102,0,0,Ashtabula city
+OH,3976778,Tiffin,incorporated,25,A,17953,"Tiffin, OH",0,103,0,0,Tiffin city
+OH,3961112,Pataskala,incorporated,25,A,17886,"Pataskala, OH",0,104,0,0,Pataskala city
+OH,3956294,North Canton,incorporated,25,A,17842,"North Canton, OH",0,105,0,0,North Canton city
+OH,3955216,New Philadelphia,incorporated,25,A,17677,"New Philadelphia, OH",0,106,0,0,New Philadelphia city
+OH,3923618,Eastlake,incorporated,25,A,17670,"Eastlake, OH",0,107,0,0,Eastlake city
+OH,3926446,Fairview Park,incorporated,25,A,17291,"Fairview Park, OH",0,108,0,0,Fairview Park city
+OH,3975014,Streetsboro,incorporated,25,A,17260,"Streetsboro, OH",0,109,0,0,Streetsboro city
+OH,3903086,Aurora,incorporated,25,A,17239,"Aurora, OH",0,110,0,0,Aurora city
+OH,3957302,Norwalk,incorporated,25,A,17068,"Norwalk, OH",0,111,0,0,Norwalk city
+OH,3921308,Defiance,incorporated,25,A,17066,"Defiance, OH",0,112,0,0,Defiance city
+OH,3953102,Mount Vernon,incorporated,25,A,16956,"Mount Vernon, OH",0,113,0,0,Mount Vernon city
+OH,3904416,Bay Village,incorporated,25,A,16163,"Bay Village, OH",0,114,0,0,Bay Village city
+OH,3949644,Middleburg Heights,incorporated,25,A,16004,"Middleburg Heights, OH",0,115,0,0,Middleburg Heights city
+OH,3928826,Fremont,incorporated,25,A,15930,"Fremont, OH",0,116,0,0,Fremont city
+OH,3951310,Monroe,incorporated,25,A,15412,"Monroe, OH",0,117,0,0,Monroe city
+OH,3979492,Vandalia,incorporated,25,A,15209,"Vandalia, OH",0,118,0,0,Vandalia city
+OH,3986604,Worthington,incorporated,25,A,14786,"Worthington, OH",0,119,0,0,Worthington city
+OH,3981718,Washington Court House,incorporated,25,A,14401,"Washington Court House, OH",0,120,0,0,Washington Court House city
+OH,3985638,Willowick,incorporated,25,A,14204,"Willowick, OH",0,121,0,0,Willowick city
+OH,3964486,Powell,incorporated,25,A,14163,"Powell, OH",0,122,0,0,Powell city
+OH,3971892,Sharonville,incorporated,25,A,14117,"Sharonville, OH",0,123,0,0,Sharonville city
+OH,3905130,Bellefontaine,incorporated,25,A,14115,"Bellefontaine, OH",0,124,0,0,Bellefontaine city
+OH,3945556,Lyndhurst,incorporated,25,A,14050,"Lyndhurst, OH",0,125,0,0,Lyndhurst city
+OH,3904500,Beachwood,incorporated,25,A,14040,"Beachwood, OH",0,126,0,0,Beachwood city
+OH,3906278,Bexley,incorporated,25,A,13928,"Bexley, OH",0,127,0,0,Bexley city
+OH,3915070,Circleville,incorporated,25,A,13927,"Circleville, OH",0,128,0,0,Circleville city
+OH,3978932,University Heights,incorporated,25,A,13914,"University Heights, OH",0,129,0,0,University Heights city
+OH,3948342,Maumee,incorporated,25,A,13896,"Maumee, OH",0,130,0,0,Maumee city
+OH,3954562,New Franklin,incorporated,25,A,13877,"New Franklin, OH",0,131,0,0,New Franklin city
+OH,3923380,East Cleveland,incorporated,25,A,13792,"East Cleveland, OH",0,132,0,0,East Cleveland city
+OH,3980990,Warrensville Heights,incorporated,25,A,13789,"Warrensville Heights, OH",0,133,0,0,Warrensville Heights city
+OH,3908364,Brecksville,incorporated,25,A,13635,"Brecksville, OH",0,134,0,0,Brecksville city
+OH,3925396,Englewood,incorporated,25,A,13463,"Englewood, OH",0,135,0,0,Englewood city
+OH,3907300,Blue Ash,incorporated,25,A,13394,"Blue Ash, OH",0,136,0,0,Blue Ash city
+OH,3947628,Marietta,incorporated,25,A,13385,"Marietta, OH",0,137,0,0,Marietta city
+OH,3915644,Clayton,incorporated,25,A,13310,"Clayton, OH",0,138,0,0,Clayton city
+OH,3945108,Loveland,incorporated,25,A,13307,"Loveland, OH",0,139,0,0,Loveland city
+OH,3904878,Bedford,incorporated,25,A,13149,"Bedford, OH",0,140,0,0,Bedford city
+OH,3983090,West Carrollton,incorporated,25,A,13129,"West Carrollton, OH",0,141,0,0,West Carrollton city
+OH,3922456,Dover,incorporated,25,A,13112,"Dover, OH",0,142,0,0,Dover city
+OH,3928014,Fostoria,incorporated,25,A,13046,"Fostoria, OH",0,143,0,0,Fostoria city
+OH,3977322,Trenton,incorporated,25,A,13021,"Trenton, OH",0,144,0,0,Trenton city
+OH,3932340,Greenville,incorporated,25,A,12786,"Greenville, OH",0,145,0,0,Greenville city
+OH,3901798,Amherst,incorporated,25,A,12681,"Amherst, OH",0,146,0,0,Amherst city
+OH,3985792,Wilmington,incorporated,25,A,12664,"Wilmington, OH",0,147,0,0,Wilmington city
+OH,3985036,Wickliffe,incorporated,25,A,12652,"Wickliffe, OH",0,148,0,0,Wickliffe city
+OH,3933838,Harrison,incorporated,25,A,12563,"Harrison, OH",0,149,0,0,Harrison city
+OH,3918350,Conneaut,incorporated,25,A,12318,"Conneaut, OH",0,150,0,0,Conneaut city
+OH,3945976,Macedonia,incorporated,25,A,12168,"Macedonia, OH",0,151,0,0,Macedonia city
+OH,3969834,Salem,incorporated,25,A,11915,"Salem, OH",0,152,0,0,Salem city
+OH,3971416,Seven Hills,incorporated,25,A,11720,"Seven Hills, OH",0,153,0,0,Seven Hills city
+OH,3928476,Franklin,incorporated,25,A,11690,"Franklin, OH",0,154,0,0,Franklin city
+OH,3910030,Bucyrus,incorporated,25,A,11684,"Bucyrus, OH",0,155,0,0,Bucyrus city
+OH,3957260,Norton,incorporated,25,A,11673,"Norton, OH",0,156,0,0,Norton city
+OH,3909246,Brooklyn,incorporated,25,A,11359,"Brooklyn, OH",0,157,0,0,Brooklyn city
+OH,3965592,Ravenna,incorporated,25,A,11323,"Ravenna, OH",0,158,0,0,Ravenna city
+OH,3979072,Urbana,incorporated,25,A,11115,"Urbana, OH",0,159,0,0,Urbana city
+OH,3979562,Van Wert,incorporated,25,A,11092,"Van Wert, OH",0,160,0,0,Van Wert city
+OH,3918868,Coshocton,incorporated,25,A,11050,"Coshocton, OH",0,161,0,0,Coshocton city
+OH,3904920,Bedford Heights,incorporated,25,A,11020,"Bedford Heights, OH",0,162,0,0,Bedford Heights city
+OH,3974104,Springdale,incorporated,25,A,11007,"Springdale, OH",0,163,0,0,Springdale city
+OH,3912868,Celina,incorporated,25,A,10935,"Celina, OH",0,164,0,0,Celina city
+OH,3951716,Montgomery,incorporated,25,A,10853,"Montgomery, OH",0,165,0,0,Montgomery city
+OH,3953970,New Albany,incorporated,25,A,10825,"New Albany, OH",0,166,0,0,New Albany city
+OH,3966894,Richmond Heights,incorporated,25,A,10801,"Richmond Heights, OH",0,167,0,0,Richmond Heights city
+OH,3979716,Vermilion,incorporated,25,A,10659,"Vermilion, OH",0,168,0,0,Vermilion city
+OH,3965732,Reading,incorporated,25,A,10600,"Reading, OH",0,169,0,0,Reading city
+OH,3937464,Ironton,incorporated,25,A,10571,"Ironton, OH",0,170,0,0,Ironton city
+OH,3929162,Galion,incorporated,25,A,10453,"Galion, OH",0,171,0,0,Galion city
+OH,3934748,Heath,incorporated,25,A,10412,"Heath, OH",0,172,0,0,Heath city
+OH,3944674,London,incorporated,25,A,10279,"London, OH",0,173,0,0,London city
+OH,3976876,Tipp City,incorporated,25,A,10274,"Tipp City, OH",0,174,0,0,Tipp City city
+OH,3910996,Cambridge,incorporated,25,A,10089,"Cambridge, OH",0,175,0,0,Cambridge city
+OH,3975126,Struthers,incorporated,25,A,10063,"Struthers, OH",0,176,0,0,Struthers city
+OH,3985512,Willoughby Hills,incorporated,25,A,10019,"Willoughby Hills, OH",0,177,0,0,Willoughby Hills city
+OH,3923730,East Liverpool,incorporated,25,A,9958,"East Liverpool, OH",0,178,0,0,East Liverpool city
+OH,3980766,Wapakoneta,incorporated,25,A,9957,"Wapakoneta, OH",0,179,0,0,Wapakoneta city
+OH,3956322,North College Hill,incorporated,25,A,9663,"North College Hill, OH",0,180,0,0,North College Hill city
+OH,3930198,Girard,incorporated,25,A,9603,"Girard, OH",0,181,0,0,Girard city
+OH,3957764,Oakwood,incorporated,25,A,9572,"Oakwood, OH",0,182,0,0,Oakwood city
+OH,3945094,Louisville,incorporated,25,A,9521,"Louisville, OH",0,183,0,0,Louisville city
+OH,3946312,Madeira,incorporated,25,A,9487,"Madeira, OH",0,184,0,0,Madeira city
+OH,3972102,Shelby,incorporated,25,A,9282,"Shelby, OH",0,185,0,0,Shelby city
+OH,3911332,Canal Winchester,incorporated,25,A,9107,"Canal Winchester, OH",0,186,0,0,Canal Winchester city
+OH,3972088,Sheffield Lake,incorporated,25,A,8957,"Sheffield Lake, OH",0,187,0,0,Sheffield Lake city
+OH,3953550,Napoleon,incorporated,25,A,8862,"Napoleon, OH",0,188,0,0,Napoleon city
+OH,3986730,Wyoming,incorporated,25,A,8756,"Wyoming, OH",0,189,0,0,Wyoming city
+OH,3909792,Bryan,incorporated,25,A,8729,"Bryan, OH",0,190,0,0,Bryan city
+OH,3935252,Highland Heights,incorporated,25,A,8719,"Highland Heights, OH",0,191,0,0,Highland Heights city
+OH,3914128,Cheviot,incorporated,25,A,8658,"Cheviot, OH",0,192,0,0,Cheviot city
+OH,3958422,Olmsted Falls,incorporated,25,A,8582,"Olmsted Falls, OH",0,193,0,0,Olmsted Falls city
+OH,3957834,Oberlin,incorporated,25,A,8555,"Oberlin, OH",0,194,0,0,Oberlin city
+OH,3958828,Orrville,incorporated,25,A,8452,"Orrville, OH",0,195,0,0,Orrville city
+OH,3969680,St. Marys,incorporated,25,A,8397,"St. Marys, OH",0,196,0,0,St. Marys city
+OH,3924234,Eaton,incorporated,25,A,8375,"Eaton, OH",0,197,0,0,Eaton city
+OH,3905228,Bellevue,incorporated,25,A,8249,"Bellevue, OH",0,198,0,0,Bellevue city
+OH,3931304,Grandview Heights,incorporated,25,A,8085,"Grandview Heights, OH",0,199,0,0,Grandview Heights city
+OH,3939886,Kenton,incorporated,25,A,7947,"Kenton, OH",0,200,0,0,Kenton city
+OH,3911066,Campbell,incorporated,25,A,7852,"Campbell, OH",0,201,0,0,Campbell city
+OH,3926166,Fairlawn,incorporated,25,A,7710,"Fairlawn, OH",0,202,0,0,Fairlawn city
+OH,3911360,Canfield,incorporated,25,A,7699,"Canfield, OH",0,203,0,0,Canfield city
+OH,3936582,Hubbard,incorporated,25,A,7636,"Hubbard, OH",0,204,0,0,Hubbard city
+OH,3937240,Independence,incorporated,25,A,7584,"Independence, OH",0,205,0,0,Independence city
+OH,3981928,Wauseon,incorporated,25,A,7568,"Wauseon, OH",0,206,0,0,Wauseon city
+OH,3905102,Bellbrook,incorporated,25,A,7317,"Bellbrook, OH",0,207,0,0,Bellbrook city
+OH,3944632,Logan,incorporated,25,A,7296,"Logan, OH",0,208,0,0,Logan city
+OH,3949098,Mentor-on-the-Lake,incorporated,25,A,7131,"Mentor-on-the-Lake, OH",0,209,0,0,Mentor-on-the-Lake city
+OH,3921602,Delphos,incorporated,25,A,7117,"Delphos, OH",0,210,0,0,Delphos city
+OH,3918812,Cortland,incorporated,25,A,7105,"Cortland, OH",0,211,0,0,Cortland city
+OH,3952752,Mount Healthy,incorporated,25,A,6996,"Mount Healthy, OH",0,212,0,0,Mount Healthy city
+OH,3940642,Kirtland,incorporated,25,A,6937,"Kirtland, OH",0,213,0,0,Kirtland city
+OH,3937016,Huron,incorporated,25,A,6922,"Huron, OH",0,214,0,0,Huron city
+OH,3978470,Union,incorporated,25,A,6859,"Union, OH",0,215,0,0,Union city
+OH,3961686,Pepper Pike,incorporated,25,A,6796,"Pepper Pike, OH",0,216,0,0,Pepper Pike city
+OH,3905424,Belpre,incorporated,25,A,6728,"Belpre, OH",0,217,0,0,Belpre city
+OH,3979044,Upper Sandusky,incorporated,25,A,6698,"Upper Sandusky, OH",0,218,0,0,Upper Sandusky city
+OH,3958520,Ontario,incorporated,25,A,6656,"Ontario, OH",0,219,0,0,Ontario city
+OH,3975602,Sunbury,incorporated,25,A,6614,"Sunbury, OH",0,220,0,0,Sunbury city
+OH,3950176,Milford,incorporated,25,A,6582,"Milford, OH",0,221,0,0,Milford city
+OH,3917036,Columbiana,incorporated,25,A,6559,"Columbiana, OH",0,222,0,0,Columbiana city
+OH,3935560,Hillsboro,incorporated,25,A,6481,"Hillsboro, OH",0,223,0,0,Hillsboro city
+OH,3952010,Moraine,incorporated,25,A,6393,"Moraine, OH",0,224,0,0,Moraine city
+OH,3973446,South Lebanon,incorporated,25,A,6384,"South Lebanon, OH",0,225,0,0,South Lebanon city
+OH,3968686,Rossford,incorporated,25,A,6299,"Rossford, OH",0,226,0,0,Rossford city
+OH,3916308,Clyde,incorporated,25,A,6294,"Clyde, OH",0,227,0,0,Clyde city
+OH,3948104,Martins Ferry,incorporated,25,A,6260,"Martins Ferry, OH",0,228,0,0,Martins Ferry city
+OH,3937842,Jackson,incorporated,25,A,6252,"Jackson, OH",0,229,0,0,Jackson city
+OH,3985232,Willard,incorporated,25,A,6197,"Willard, OH",0,230,0,0,Willard city
+OH,3967356,Rittman,incorporated,25,A,6131,"Rittman, OH",0,231,0,0,Rittman city
+OH,3976582,The Village of Indian Hill,incorporated,25,A,6087,"The Village of Indian Hill, OH",0,232,0,0,The Village of Indian Hill city
+OH,3964150,Port Clinton,incorporated,25,A,6025,"Port Clinton, OH",0,233,0,0,Port Clinton city
+OH,3932606,Groveport,incorporated,25,A,6009,"Groveport, OH",0,234,0,0,Groveport city
+OH,3981858,Waterville,incorporated,25,A,6003,"Waterville, OH",0,235,0,0,Waterville city
+OH,3909358,Brookville,incorporated,25,A,5989,"Brookville, OH",0,236,0,0,Brookville city
+OH,3931402,Granville,incorporated,47,A,5946,"Granville, OH",0,237,0,0,Granville village
+OH,3929610,Geneva,incorporated,25,A,5924,"Geneva, OH",0,238,0,0,Geneva city
+OH,3931150,Grafton,incorporated,47,A,5895,"Grafton, OH",0,239,0,0,Grafton village
+OH,3929932,Germantown,incorporated,25,A,5796,"Germantown, OH",0,240,0,0,Germantown city
+OH,3954334,New Carlisle,incorporated,25,A,5559,"New Carlisle, OH",0,241,0,0,New Carlisle city
+OH,3912168,Carlisle,incorporated,25,A,5501,"Carlisle, OH",0,242,0,0,Carlisle city
+OH,3957862,Obetz,incorporated,25,A,5489,"Obetz, OH",0,243,0,0,Obetz city
+OH,3921266,Deer Park,incorporated,25,A,5432,"Deer Park, OH",0,244,0,0,Deer Park city
+OH,3966152,Reminderville,incorporated,25,A,5412,"Reminderville, OH",0,245,0,0,Reminderville city
+OH,3982712,Wellston,incorporated,25,A,5412,"Wellston, OH",0,246,0,0,Wellston city
+OH,3900198,Ada,incorporated,47,A,5334,"Ada, OH",0,247,0,0,Ada village
+OH,3911304,Canal Fulton,incorporated,25,A,5325,"Canal Fulton, OH",0,248,0,0,Canal Fulton city
+OH,3977112,Toronto,incorporated,25,A,5303,"Toronto, OH",0,249,0,0,Toronto city
+OH,3978176,Uhrichsville,incorporated,25,A,5272,"Uhrichsville, OH",0,250,0,0,Uhrichsville city
+OH,3913554,Chardon,incorporated,25,A,5242,"Chardon, OH",0,251,0,0,Chardon city
+OH,3939340,Johnstown,incorporated,25,A,5182,"Johnstown, OH",0,252,0,0,Johnstown city
+OH,3957190,Northwood,incorporated,25,A,5160,"Northwood, OH",0,253,0,0,Northwood city
+OH,3969526,St. Clairsville,incorporated,25,A,5096,"St. Clairsville, OH",0,254,0,0,St. Clairsville city
+OH,3953312,Munroe Falls,incorporated,25,A,5044,"Munroe Falls, OH",0,255,0,0,Munroe Falls city
+OH,3984770,Whitehouse,incorporated,47,A,4990,"Whitehouse, OH",0,256,0,0,Whitehouse village
+OH,3972522,Silverton,incorporated,47,A,4908,"Silverton, OH",0,257,0,0,Silverton village
+OH,3942994,Lexington,incorporated,47,A,4848,"Lexington, OH",0,258,0,0,Lexington village
+OH,3982642,Wellington,incorporated,47,A,4799,"Wellington, OH",0,259,0,0,Wellington village
+OH,3959010,Ottawa Hills,incorporated,47,A,4790,"Ottawa Hills, OH",0,260,0,0,Ottawa Hills village
+OH,3916532,Coldwater,incorporated,47,A,4774,"Coldwater, OH",0,261,0,0,Coldwater village
+OH,3923940,East Palestine,incorporated,47,A,4761,"East Palestine, OH",0,262,0,0,East Palestine village
+OH,3983902,West Milton,incorporated,47,A,4697,"West Milton, OH",0,263,0,0,West Milton village
+OH,3953886,Nelsonville,incorporated,25,A,4612,"Nelsonville, OH",0,264,0,0,Nelsonville city
+OH,3955650,Newton Falls,incorporated,47,A,4557,"Newton Falls, OH",0,265,0,0,Newton Falls village
+OH,3902680,Ashville,incorporated,47,A,4529,"Ashville, OH",0,266,0,0,Ashville village
+OH,3919330,Crestline,incorporated,47,A,4525,"Crestline, OH",0,267,0,0,Crestline village
+OH,3902344,Archbold,incorporated,47,A,4516,"Archbold, OH",0,268,0,0,Archbold village
+OH,3958982,Ottawa,incorporated,47,A,4456,"Ottawa, OH",0,269,0,0,Ottawa village
+OH,3929778,Georgetown,incorporated,47,A,4453,"Georgetown, OH",0,270,0,0,Georgetown village
+OH,3954866,New Lexington,incorporated,47,A,4435,"New Lexington, OH",0,271,0,0,New Lexington village
+OH,3952906,Mount Orab,incorporated,47,A,4347,"Mount Orab, OH",0,272,0,0,Mount Orab village
+OH,3932088,Greenfield,incorporated,47,A,4339,"Greenfield, OH",0,273,0,0,Greenfield village
+OH,3912784,Cedarville,incorporated,47,A,4257,"Cedarville, OH",0,274,0,0,Cedarville village
+OH,3906908,Blanchester,incorporated,47,A,4224,"Blanchester, OH",0,275,0,0,Blanchester village
+OH,3971220,Sebring,incorporated,47,A,4191,"Sebring, OH",0,276,0,0,Sebring village
+OH,3913358,Chagrin Falls,incorporated,47,A,4188,"Chagrin Falls, OH",0,277,0,0,Chagrin Falls village
+OH,3981935,Waverly,incorporated,47,A,4165,"Waverly, OH",0,278,0,0,Waverly village
+OH,3983580,West Jefferson,incorporated,47,A,4137,"West Jefferson, OH",0,279,0,0,West Jefferson village
+OH,3972060,Sheffield,incorporated,47,A,4135,"Sheffield, OH",0,280,0,0,Sheffield village
+OH,3969470,St. Bernard,incorporated,47,A,4070,"St. Bernard, OH",0,281,0,0,St. Bernard village
+OH,3963030,Plain City,incorporated,47,A,4065,"Plain City, OH",0,282,0,0,Plain City village
+OH,3903926,Barnesville,incorporated,47,A,4008,"Barnesville, OH",0,283,0,0,Barnesville village
+OH,3973684,South Russell,incorporated,47,A,3972,"South Russell, OH",0,284,0,0,South Russell village
+OH,3907426,Bluffton,incorporated,47,A,3967,"Bluffton, OH",0,285,0,0,Bluffton village
+OH,3951772,Montpelier,incorporated,47,A,3942,"Montpelier, OH",0,286,0,0,Montpelier village
+OH,3986366,Woodlawn,incorporated,47,A,3916,"Woodlawn, OH",0,287,0,0,Woodlawn village
+OH,3975896,Swanton,incorporated,47,A,3897,"Swanton, OH",0,288,0,0,Swanton village
+OH,3905074,Bellaire,incorporated,47,A,3870,"Bellaire, OH",0,289,0,0,Bellaire village
+OH,3901672,Amberley,incorporated,47,A,3840,"Amberley, OH",0,290,0,0,Amberley village
+OH,3973670,South Point,incorporated,47,A,3836,"South Point, OH",0,291,0,0,South Point village
+OH,3930786,Golf Manor,incorporated,47,A,3814,"Golf Manor, OH",0,292,0,0,Golf Manor village
+OH,3951058,Mogadore,incorporated,47,A,3811,"Mogadore, OH",0,293,0,0,Mogadore village
+OH,3954852,New Lebanon,incorporated,47,A,3796,"New Lebanon, OH",0,294,0,0,New Lebanon village
+OH,3986184,Wintersville,incorporated,47,A,3765,"Wintersville, OH",0,295,0,0,Wintersville village
+OH,3932158,Greenhills,incorporated,47,A,3741,"Greenhills, OH",0,296,0,0,Greenhills village
+OH,3966530,Richfield,incorporated,47,A,3729,"Richfield, OH",0,297,0,0,Richfield village
+OH,3954432,Newcomerstown,incorporated,47,A,3702,"Newcomerstown, OH",0,298,0,0,Newcomerstown village
+OH,3986940,Yellow Springs,incorporated,47,A,3697,"Yellow Springs, OH",0,299,0,0,Yellow Springs village
+OH,3950834,Minerva,incorporated,47,A,3684,"Minerva, OH",0,300,0,0,Minerva village
+OH,3957750,Oakwood,incorporated,47,A,3572,"Oakwood, OH",0,301,0,0,Oakwood village
+OH,3912112,Carey,incorporated,47,A,3565,"Carey, OH",0,302,0,0,Carey village
+OH,3961252,Paulding,incorporated,47,A,3555,"Paulding, OH",0,303,0,0,Paulding village
+OH,3956448,Northfield,incorporated,47,A,3541,"Northfield, OH",0,304,0,0,Northfield village
+OH,3947600,Mariemont,incorporated,47,A,3518,"Mariemont, OH",0,305,0,0,Mariemont village
+OH,3944366,Lockland,incorporated,47,A,3514,"Lockland, OH",0,306,0,0,Lockland village
+OH,3952738,Mount Gilead,incorporated,47,A,3503,"Mount Gilead, OH",0,307,0,0,Mount Gilead village
+OH,3952052,Moreland Hills,incorporated,47,A,3466,"Moreland Hills, OH",0,308,0,0,Moreland Hills village
+OH,3971640,Shadyside,incorporated,47,A,3454,"Shadyside, OH",0,309,0,0,Shadyside village
+OH,3946480,Madison,incorporated,47,A,3435,"Madison, OH",0,310,0,0,Madison village
+OH,3935098,Hicksville,incorporated,47,A,3431,"Hicksville, OH",0,311,0,0,Hicksville village
+OH,3958604,Orange,incorporated,47,A,3421,"Orange, OH",0,312,0,0,Orange village
+OH,3916028,Cleves,incorporated,47,A,3414,"Cleves, OH",0,313,0,0,Cleves village
+OH,3956154,North Baltimore,incorporated,47,A,3369,"North Baltimore, OH",0,314,0,0,North Baltimore village
+OH,3948468,Mayfield,incorporated,47,A,3356,"Mayfield, OH",0,315,0,0,Mayfield village
+OH,3950904,Mingo Junction,incorporated,47,A,3347,"Mingo Junction, OH",0,316,0,0,Mingo Junction village
+OH,3944912,Lordstown,incorporated,47,A,3332,"Lordstown, OH",0,317,0,0,Lordstown village
+OH,3934328,Hartville,incorporated,47,A,3329,"Hartville, OH",0,318,0,0,Hartville village
+OH,3921616,Delta,incorporated,47,A,3316,"Delta, OH",0,319,0,0,Delta village
+OH,3929204,Gallipolis,incorporated,47,A,3313,"Gallipolis, OH",0,320,0,0,Gallipolis village
+OH,3938500,Jefferson,incorporated,47,A,3226,"Jefferson, OH",0,321,0,0,Jefferson village
+OH,3945934,McDonald,incorporated,47,A,3172,"McDonald, OH",0,322,0,0,McDonald village
+OH,3950372,Millersburg,incorporated,47,A,3151,"Millersburg, OH",0,323,0,0,Millersburg village
+OH,3943722,Lincoln Heights,incorporated,47,A,3144,"Lincoln Heights, OH",0,324,0,0,Lincoln Heights village
+OH,3982740,Wellsville,incorporated,47,A,3113,"Wellsville, OH",0,325,0,0,Wellsville village
+OH,3926306,Fairport Harbor,incorporated,47,A,3108,"Fairport Harbor, OH",0,326,0,0,Fairport Harbor village
+OH,3912280,Carrollton,incorporated,47,A,3087,"Carrollton, OH",0,327,0,0,Carrollton village
+OH,3918070,Commercial Point,incorporated,47,A,3078,"Commercial Point, OH",0,328,0,0,Commercial Point village
+OH,3910800,Cadiz,incorporated,47,A,3051,"Cadiz, OH",0,329,0,0,Cadiz village
+OH,3922568,Doylestown,incorporated,47,A,3051,"Doylestown, OH",0,330,0,0,Doylestown village
+OH,3950918,Minster,incorporated,47,A,3046,"Minster, OH",0,331,0,0,Minster village
+OH,3954194,New Bremen,incorporated,47,A,3034,"New Bremen, OH",0,332,0,0,New Bremen village
+OH,3980486,Walbridge,incorporated,47,A,3011,"Walbridge, OH",0,333,0,0,Walbridge village
+OH,3984294,West Union,incorporated,47,A,3004,"West Union, OH",0,334,0,0,West Union village
+OH,3903758,Baltimore,incorporated,47,A,2981,"Baltimore, OH",0,335,0,0,Baltimore village
+OH,3941454,Lakemore,incorporated,47,A,2926,"Lakemore, OH",0,336,0,0,Lakemore village
+OH,3957582,Oak Harbor,incorporated,47,A,2821,"Oak Harbor, OH",0,337,0,0,Oak Harbor village
+OH,3945066,Loudonville,incorporated,47,A,2786,"Loudonville, OH",0,338,0,0,Loudonville village
+OH,3949700,Middlefield,incorporated,47,A,2748,"Middlefield, OH",0,339,0,0,Middlefield village
+OH,3944604,Lodi,incorporated,47,A,2746,"Lodi, OH",0,340,0,0,Lodi village
+OH,3956700,North Kingsville,incorporated,47,A,2742,"North Kingsville, OH",0,341,0,0,North Kingsville village
+OH,3974958,Strasburg,incorporated,47,A,2735,"Strasburg, OH",0,342,0,0,Strasburg village
+OH,3955384,New Richmond,incorporated,47,A,2727,"New Richmond, OH",0,343,0,0,New Richmond village
+OH,3921714,Dennison,incorporated,47,A,2709,"Dennison, OH",0,344,0,0,Dennison village
+OH,3955678,Newtown,incorporated,47,A,2702,"Newtown, OH",0,345,0,0,Newtown village
+OH,3979912,Versailles,incorporated,47,A,2692,"Versailles, OH",0,346,0,0,Versailles village
+OH,3925802,Evendale,incorporated,47,A,2669,"Evendale, OH",0,347,0,0,Evendale village
+OH,3982418,Waynesville,incorporated,47,A,2669,"Waynesville, OH",0,348,0,0,Waynesville village
+OH,3928658,Fredericktown,incorporated,47,A,2648,"Fredericktown, OH",0,349,0,0,Fredericktown village
+OH,3906068,Bethel,incorporated,47,A,2620,"Bethel, OH",0,350,0,0,Bethel village
+OH,3944030,Lisbon,incorporated,47,A,2597,"Lisbon, OH",0,351,0,0,Lisbon village
+OH,3969540,St. Henry,incorporated,47,A,2596,"St. Henry, OH",0,352,0,0,St. Henry village
+OH,3941230,LaGrange,incorporated,47,A,2595,"LaGrange, OH",0,353,0,0,LaGrange village
+OH,3985288,Williamsburg,incorporated,47,A,2570,"Williamsburg, OH",0,354,0,0,Williamsburg village
+OH,3919050,Covington,incorporated,47,A,2548,"Covington, OH",0,355,0,0,Covington village
+OH,3909890,Buckeye Lake,incorporated,47,A,2520,"Buckeye Lake, OH",0,356,0,0,Buckeye Lake village
+OH,3972494,Silver Lake,incorporated,47,A,2516,"Silver Lake, OH",0,357,0,0,Silver Lake village
+OH,3969400,Sabina,incorporated,47,A,2499,"Sabina, OH",0,358,0,0,Sabina village
+OH,3963954,Poland,incorporated,47,A,2463,"Poland, OH",0,359,0,0,Poland village
+OH,3930072,Gibsonburg,incorporated,47,A,2452,"Gibsonburg, OH",0,360,0,0,Gibsonburg village
+OH,3925452,Enon,incorporated,47,A,2449,"Enon, OH",0,361,0,0,Enon village
+OH,3929442,Garrettsville,incorporated,47,A,2449,"Garrettsville, OH",0,362,0,0,Garrettsville village
+OH,3919456,Crooksville,incorporated,47,A,2418,"Crooksville, OH",0,363,0,0,Crooksville village
+OH,3983608,West Lafayette,incorporated,47,A,2417,"West Lafayette, OH",0,364,0,0,West Lafayette village
+OH,3954908,New London,incorporated,47,A,2416,"New London, OH",0,365,0,0,New London village
+OH,3975210,Sugarcreek,incorporated,47,A,2373,"Sugarcreek, OH",0,366,0,0,Sugarcreek village
+OH,3910716,Byesville,incorporated,47,A,2364,"Byesville, OH",0,367,0,0,Byesville village
+OH,3954446,New Concord,incorporated,47,A,2361,"New Concord, OH",0,368,0,0,New Concord village
+OH,3976428,Terrace Park,incorporated,47,A,2355,"Terrace Park, OH",0,369,0,0,Terrace Park village
+OH,3902330,Arcanum,incorporated,47,A,2347,"Arcanum, OH",0,370,0,0,Arcanum village
+OH,3971486,Seville,incorporated,47,A,2335,"Seville, OH",0,371,0,0,Seville village
+OH,3934790,Hebron,incorporated,47,A,2326,"Hebron, OH",0,372,0,0,Hebron village
+OH,3930380,Glendale,incorporated,47,A,2298,"Glendale, OH",0,373,0,0,Glendale village
+OH,3954166,New Boston,incorporated,47,A,2297,"New Boston, OH",0,374,0,0,New Boston village
+OH,3929498,Gates Mills,incorporated,47,A,2264,"Gates Mills, OH",0,375,0,0,Gates Mills village
+OH,3929722,Genoa,incorporated,47,A,2232,"Genoa, OH",0,376,0,0,Genoa village
+OH,3966936,Richwood,incorporated,47,A,2222,"Richwood, OH",0,377,0,0,Richwood village
+OH,3955104,New Miami,incorporated,47,A,2217,"New Miami, OH",0,378,0,0,New Miami village
+OH,3929246,Gambier,incorporated,47,A,2213,"Gambier, OH",0,379,0,0,Gambier village
+OH,3986436,Woodsfield,incorporated,47,A,2210,"Woodsfield, OH",0,380,0,0,Woodsfield village
+OH,3949756,Middleport,incorporated,47,A,2208,"Middleport, OH",0,381,0,0,Middleport village
+OH,3974034,Spencerville,incorporated,47,A,2198,"Spencerville, OH",0,382,0,0,Spencerville village
+OH,3942602,Leipsic,incorporated,47,A,2177,"Leipsic, OH",0,383,0,0,Leipsic village
+OH,3918014,Columbus Grove,incorporated,47,A,2160,"Columbus Grove, OH",0,384,0,0,Columbus Grove village
+OH,3973068,South Bloomfield,incorporated,47,A,2143,"South Bloomfield, OH",0,385,0,0,South Bloomfield village
+OH,3919344,Creston,incorporated,47,A,2139,"Creston, OH",0,386,0,0,Creston village
+OH,3944086,Lithopolis,incorporated,47,A,2134,"Lithopolis, OH",0,387,0,0,Lithopolis village
+OH,3908504,Brewster,incorporated,47,A,2113,"Brewster, OH",0,388,0,0,Brewster village
+OH,3962708,Piketon,incorporated,47,A,2111,"Piketon, OH",0,389,0,0,Piketon village
+OH,3925186,Elmwood Place,incorporated,47,A,2087,"Elmwood Place, OH",0,390,0,0,Elmwood Place village
+OH,3912084,Cardington,incorporated,47,A,2079,"Cardington, OH",0,391,0,0,Cardington village
+OH,3979114,Utica,incorporated,47,A,2064,"Utica, OH",0,392,0,0,Utica village
+OH,3938374,Jamestown,incorporated,47,A,2052,"Jamestown, OH",0,393,0,0,Jamestown village
+OH,3952374,Morrow,incorporated,47,A,2049,"Morrow, OH",0,394,0,0,Morrow village
+OH,3980738,Walton Hills,incorporated,47,A,2033,"Walton Hills, OH",0,395,0,0,Walton Hills village
+OH,3950862,Minerva Park,incorporated,47,A,2009,"Minerva Park, OH",0,396,0,0,Minerva Park village
+OH,3986492,Woodville,incorporated,47,A,2006,"Woodville, OH",0,397,0,0,Woodville village
+OH,3911024,Camden,incorporated,47,A,1989,"Camden, OH",0,398,0,0,Camden village
+OH,3904150,Batavia,incorporated,47,A,1972,"Batavia, OH",0,399,0,0,Batavia village
+OH,3905284,Bellville,incorporated,47,A,1963,"Bellville, OH",0,400,0,0,Bellville village
+OH,3953046,Mount Sterling,incorporated,47,A,1945,"Mount Sterling, OH",0,401,0,0,Mount Sterling village
+OH,3919974,Dalton,incorporated,47,A,1927,"Dalton, OH",0,402,0,0,Dalton village
+OH,3924808,Elida,incorporated,47,A,1923,"Elida, OH",0,403,0,0,Elida village
+OH,3979268,Valley View,incorporated,47,A,1897,"Valley View, OH",0,404,0,0,Valley View village
+OH,3973894,South Zanesville,incorporated,47,A,1894,"South Zanesville, OH",0,405,0,0,South Zanesville village
+OH,3916378,Coal Grove,incorporated,47,A,1889,"Coal Grove, OH",0,406,0,0,Coal Grove village
+OH,3969708,St. Paris,incorporated,47,A,1882,"St. Paris, OH",0,407,0,0,St. Paris village
+OH,3924486,Edgerton,incorporated,47,A,1881,"Edgerton, OH",0,408,0,0,Edgerton village
+OH,3954250,Newburgh Heights,incorporated,47,A,1862,"Newburgh Heights, OH",0,409,0,0,Newburgh Heights village
+OH,3953690,Navarre,incorporated,47,A,1846,"Navarre, OH",0,410,0,0,Navarre village
+OH,3947012,Manchester,incorporated,47,A,1839,"Manchester, OH",0,411,0,0,Manchester village
+OH,3942560,Leetonia,incorporated,47,A,1833,"Leetonia, OH",0,412,0,0,Leetonia village
+OH,3935882,Holland,incorporated,47,A,1820,"Holland, OH",0,413,0,0,Holland village
+OH,3908084,Bradford,incorporated,47,A,1796,"Bradford, OH",0,414,0,0,Bradford village
+OH,3919400,Cridersville,incorporated,47,A,1791,"Cridersville, OH",0,415,0,0,Cridersville village
+OH,3945696,McArthur,incorporated,47,A,1783,"McArthur, OH",0,416,0,0,McArthur village
+OH,3961420,Peebles,incorporated,47,A,1774,"Peebles, OH",0,417,0,0,Peebles village
+OH,3983734,West Liberty,incorporated,47,A,1770,"West Liberty, OH",0,418,0,0,West Liberty village
+OH,3925942,Fairfax,incorporated,47,A,1768,"Fairfax, OH",0,419,0,0,Fairfax village
+OH,3984308,West Unity,incorporated,47,A,1763,"West Unity, OH",0,420,0,0,West Unity village
+OH,3968560,Roseville,incorporated,47,A,1746,"Roseville, OH",0,421,0,0,Roseville village
+OH,3942938,Lewisburg,incorporated,47,A,1745,"Lewisburg, OH",0,422,0,0,Lewisburg village
+OH,3963800,Plymouth,incorporated,47,A,1707,"Plymouth, OH",0,423,0,0,Plymouth village
+OH,3973124,South Charleston,incorporated,47,A,1706,"South Charleston, OH",0,424,0,0,South Charleston village
+OH,3910940,Caldwell,incorporated,47,A,1691,"Caldwell, OH",0,425,0,0,Caldwell village
+OH,3913036,Centerburg,incorporated,47,A,1690,"Centerburg, OH",0,426,0,0,Centerburg village
+OH,3948706,Mechanicsburg,incorporated,47,A,1681,"Mechanicsburg, OH",0,427,0,0,Mechanicsburg village
+OH,3902204,Antwerp,incorporated,47,A,1676,"Antwerp, OH",0,428,0,0,Antwerp village
+OH,3945822,McConnelsville,incorporated,47,A,1667,"McConnelsville, OH",0,429,0,0,McConnelsville village
+OH,3985946,Windham,incorporated,47,A,1666,"Windham, OH",0,430,0,0,Windham village
+OH,3930674,Glouster,incorporated,47,A,1659,"Glouster, OH",0,431,0,0,Glouster village
+OH,3922610,Dresden,incorporated,47,A,1650,"Dresden, OH",0,432,0,0,Dresden village
+OH,3956770,North Lewisburg,incorporated,47,A,1636,"North Lewisburg, OH",0,433,0,0,North Lewisburg village
+OH,3961882,Perry,incorporated,47,A,1602,"Perry, OH",0,434,0,0,Perry village
+OH,3967272,Ripley,incorporated,47,A,1591,"Ripley, OH",0,435,0,0,Ripley village
+OH,3927832,Fort Loramie,incorporated,47,A,1590,"Fort Loramie, OH",0,436,0,0,Fort Loramie village
+OH,3921812,Deshler,incorporated,47,A,1588,"Deshler, OH",0,437,0,0,Deshler village
+OH,3967600,Roaming Shores,incorporated,47,A,1586,"Roaming Shores, OH",0,438,0,0,Roaming Shores village
+OH,3908560,Bridgeport,incorporated,47,A,1582,"Bridgeport, OH",0,439,0,0,Bridgeport village
+OH,3978624,Union City,incorporated,47,A,1582,"Union City, OH",0,440,0,0,Union City village
+OH,3973040,South Amherst,incorporated,47,A,1581,"South Amherst, OH",0,441,0,0,South Amherst village
+OH,3964024,Pomeroy,incorporated,47,A,1573,"Pomeroy, OH",0,442,0,0,Pomeroy village
+OH,3945808,McComb,incorporated,47,A,1558,"McComb, OH",0,443,0,0,McComb village
+OH,3958856,Orwell,incorporated,47,A,1533,"Orwell, OH",0,444,0,0,Orwell village
+OH,3923324,East Canton,incorporated,47,A,1521,"East Canton, OH",0,445,0,0,East Canton village
+OH,3909274,Brooklyn Heights,incorporated,47,A,1519,"Brooklyn Heights, OH",0,446,0,0,Brooklyn Heights village
+OH,3900142,Aberdeen,incorporated,47,A,1515,"Aberdeen, OH",0,447,0,0,Aberdeen village
+OH,3945542,Lynchburg,incorporated,47,A,1510,"Lynchburg, OH",0,448,0,0,Lynchburg village
+OH,3955118,New Middletown,incorporated,47,A,1507,"New Middletown, OH",0,449,0,0,New Middletown village
+OH,3927902,Fort Recovery,incorporated,47,A,1501,"Fort Recovery, OH",0,450,0,0,Fort Recovery village
+OH,3972396,Shreve,incorporated,47,A,1497,"Shreve, OH",0,451,0,0,Shreve village
+OH,3955188,New Paris,incorporated,47,A,1494,"New Paris, OH",0,452,0,0,New Paris village
+OH,3902400,Arlington,incorporated,47,A,1492,"Arlington, OH",0,453,0,0,Arlington village
+OH,3972977,Somerset,incorporated,47,A,1481,"Somerset, OH",0,454,0,0,Somerset village
+OH,3908392,Bremen,incorporated,47,A,1479,"Bremen, OH",0,455,0,0,Bremen village
+OH,3902092,Anna,incorporated,47,A,1470,"Anna, OH",0,456,0,0,Anna village
+OH,3964542,Powhatan Point,incorporated,47,A,1461,"Powhatan Point, OH",0,457,0,0,Powhatan Point village
+OH,3939536,Kalida,incorporated,47,A,1455,"Kalida, OH",0,458,0,0,Kalida village
+OH,3983972,Weston,incorporated,47,A,1455,"Weston, OH",0,459,0,0,Weston village
+OH,3938220,Jackson Center,incorporated,47,A,1441,"Jackson Center, OH",0,460,0,0,Jackson Center village
+OH,3908336,Bratenahl,incorporated,47,A,1430,"Bratenahl, OH",0,461,0,0,Bratenahl village
+OH,3984196,West Salem,incorporated,47,A,1430,"West Salem, OH",0,462,0,0,West Salem village
+OH,3962834,Pioneer,incorporated,47,A,1429,"Pioneer, OH",0,463,0,0,Pioneer village
+OH,3932368,Greenwich,incorporated,47,A,1409,"Greenwich, OH",0,464,0,0,Greenwich village
+OH,3910436,Burton,incorporated,47,A,1407,"Burton, OH",0,465,0,0,Burton village
+OH,3957596,Oak Hill,incorporated,47,A,1407,"Oak Hill, OH",0,466,0,0,Oak Hill village
+OH,3946872,Maineville,incorporated,47,A,1405,"Maineville, OH",0,467,0,0,Maineville village
+OH,3907790,Boston Heights,incorporated,47,A,1402,"Boston Heights, OH",0,468,0,0,Boston Heights village
+OH,3950134,Milan,incorporated,47,A,1371,"Milan, OH",0,469,0,0,Milan village
+OH,3925144,Elmore,incorporated,47,A,1370,"Elmore, OH",0,470,0,0,Elmore village
+OH,3928574,Frazeysburg,incorporated,47,A,1354,"Frazeysburg, OH",0,471,0,0,Frazeysburg village
+OH,3927636,Forest,incorporated,47,A,1350,"Forest, OH",0,472,0,0,Forest village
+OH,3972788,Smithville,incorporated,47,A,1338,"Smithville, OH",0,473,0,0,Smithville village
+OH,3982880,West Alexandria,incorporated,47,A,1334,"West Alexandria, OH",0,474,0,0,West Alexandria village
+OH,3961504,Pemberville,incorporated,47,A,1326,"Pemberville, OH",0,475,0,0,Pemberville village
+OH,3969302,Russells Point,incorporated,47,A,1320,"Russells Point, OH",0,476,0,0,Russells Point village
+OH,3926768,Fayette,incorporated,47,A,1305,"Fayette, OH",0,477,0,0,Fayette village
+OH,3951618,Monroeville,incorporated,47,A,1300,"Monroeville, OH",0,478,0,0,Monroeville village
+OH,3942476,Leesburg,incorporated,47,A,1273,"Leesburg, OH",0,479,0,0,Leesburg village
+OH,3933292,Hanover,incorporated,47,A,1270,"Hanover, OH",0,480,0,0,Hanover village
+OH,3940376,Kingston,incorporated,47,A,1262,"Kingston, OH",0,481,0,0,Kingston village
+OH,3975140,Stryker,incorporated,47,A,1259,"Stryker, OH",0,482,0,0,Stryker village
+OH,3976806,Tiltonsville,incorporated,47,A,1259,"Tiltonsville, OH",0,483,0,0,Tiltonsville village
+OH,3938920,Jeffersonville,incorporated,47,A,1258,"Jeffersonville, OH",0,484,0,0,Jeffersonville village
+OH,3921378,De Graff,incorporated,47,A,1250,"De Graff, OH",0,485,0,0,De Graff village
+OH,3934412,Haskins,incorporated,47,A,1245,"Haskins, OH",0,486,0,0,Haskins village
+OH,3963534,Pleasant Hill,incorporated,47,A,1241,"Pleasant Hill, OH",0,487,0,0,Pleasant Hill village
+OH,3930702,Gnadenhutten,incorporated,47,A,1240,"Gnadenhutten, OH",0,488,0,0,Gnadenhutten village
+OH,3906222,Beverly,incorporated,47,A,1233,"Beverly, OH",0,489,0,0,Beverly village
+OH,3932256,Green Springs,incorporated,47,A,1233,"Green Springs, OH",0,490,0,0,Green Springs village
+OH,3906138,Bethesda,incorporated,47,A,1211,"Bethesda, OH",0,491,0,0,Bethesda village
+OH,3970100,Salineville,incorporated,47,A,1206,"Salineville, OH",0,492,0,0,Salineville village
+OH,3959738,Pandora,incorporated,47,A,1204,"Pandora, OH",0,493,0,0,Pandora village
+OH,3902582,Ashley,incorporated,47,A,1198,"Ashley, OH",0,494,0,0,Ashley village
+OH,3916182,Clinton,incorporated,47,A,1197,"Clinton, OH",0,495,0,0,Clinton village
+OH,3955790,New Waterford,incorporated,47,A,1194,"New Waterford, OH",0,496,0,0,New Waterford village
+OH,3950260,Millbury,incorporated,47,A,1193,"Millbury, OH",0,497,0,0,Millbury village
+OH,3961322,Payne,incorporated,47,A,1192,"Payne, OH",0,498,0,0,Payne village
+OH,3902232,Apple Creek,incorporated,47,A,1188,"Apple Creek, OH",0,499,0,0,Apple Creek village
+OH,3941608,Lakeview,incorporated,47,A,1184,"Lakeview, OH",0,500,0,0,Lakeview village
+OH,3983468,Westfield Center,incorporated,47,A,1184,"Westfield Center, OH",0,501,0,0,Westfield Center village
+OH,3902120,Ansonia,incorporated,47,A,1160,"Ansonia, OH",0,502,0,0,Ansonia village
+OH,3907832,Botkins,incorporated,47,A,1155,"Botkins, OH",0,503,0,0,Botkins village
+OH,3946998,Malvern,incorporated,47,A,1110,"Malvern, OH",0,504,0,0,Malvern village
+OH,3943414,Liberty Center,incorporated,47,A,1108,"Liberty Center, OH",0,505,0,0,Liberty Center village
+OH,3955748,New Vienna,incorporated,47,A,1108,"New Vienna, OH",0,506,0,0,New Vienna village
+OH,3918504,Continental,incorporated,47,A,1102,"Continental, OH",0,507,0,0,Continental village
+OH,3958940,Ostrander,incorporated,47,A,1094,"Ostrander, OH",0,508,0,0,Ostrander village
+OH,3976680,Thornville,incorporated,47,A,1087,"Thornville, OH",0,509,0,0,Thornville village
+OH,3928182,Frankfort,incorporated,47,A,1084,"Frankfort, OH",0,510,0,0,Frankfort village
+OH,3970534,Sardinia,incorporated,47,A,1083,"Sardinia, OH",0,511,0,0,Sardinia village
+OH,3919106,Craig Beach,incorporated,47,A,1076,"Craig Beach, OH",0,512,0,0,Craig Beach village
+OH,3964780,Prospect,incorporated,47,A,1067,"Prospect, OH",0,513,0,0,Prospect village
+OH,3935854,Holgate,incorporated,47,A,1061,"Holgate, OH",0,514,0,0,Holgate village
+OH,3967874,Rockford,incorporated,47,A,1051,"Rockford, OH",0,515,0,0,Rockford village
+OH,3977924,Tuscarawas,incorporated,47,A,1035,"Tuscarawas, OH",0,516,0,0,Tuscarawas village
+OH,3979100,Urbancrest,incorporated,47,A,1031,"Urbancrest, OH",0,517,0,0,Urbancrest village
+OH,3920114,Danville,incorporated,47,A,1019,"Danville, OH",0,518,0,0,Danville village
+OH,3946844,Magnolia,incorporated,47,A,1013,"Magnolia, OH",0,519,0,0,Magnolia village
+OH,3918546,Convoy,incorporated,47,A,1012,"Convoy, OH",0,520,0,0,Convoy village
+OH,3945332,Luckey,incorporated,47,A,1009,"Luckey, OH",0,521,0,0,Luckey village
+OH,3947180,Mantua,incorporated,47,A,1001,"Mantua, OH",0,522,0,0,Mantua village
+OH,3907594,Bolivar,incorporated,47,A,1000,"Bolivar, OH",0,523,0,0,Bolivar village
+OH,3935658,Hiram,incorporated,47,A,996,"Hiram, OH",0,524,0,0,Hiram village
+OH,3945178,Lowellville,incorporated,47,A,996,"Lowellville, OH",0,525,0,0,Lowellville village
+OH,3930632,Glenwillow,incorporated,47,A,994,"Glenwillow, OH",0,526,0,0,Glenwillow village
+OH,3980458,Wakeman,incorporated,47,A,990,"Wakeman, OH",0,527,0,0,Wakeman village
+OH,3985876,Winchester,incorporated,47,A,987,"Winchester, OH",0,528,0,0,Winchester village
+OH,3950400,Millersport,incorporated,47,A,978,"Millersport, OH",0,529,0,0,Millersport village
+OH,3926656,Farmersville,incorporated,47,A,975,"Farmersville, OH",0,530,0,0,Farmersville village
+OH,3971206,Seaman,incorporated,47,A,973,"Seaman, OH",0,531,0,0,Seaman village
+OH,3902050,Andover,incorporated,47,A,972,"Andover, OH",0,532,0,0,Andover village
+OH,3908112,Bradner,incorporated,47,A,971,"Bradner, OH",0,533,0,0,Bradner village
+OH,3985414,Williamsport,incorporated,47,A,970,"Williamsport, OH",0,534,0,0,Williamsport village
+OH,3930282,Glandorf,incorporated,47,A,969,"Glandorf, OH",0,535,0,0,Glandorf village
+OH,3987178,Yorkville,incorporated,47,A,968,"Yorkville, OH",0,536,0,0,Yorkville village
+OH,3959052,Ottoville,incorporated,47,A,966,"Ottoville, OH",0,537,0,0,Ottoville village
+OH,3913778,Chauncey,incorporated,47,A,959,"Chauncey, OH",0,538,0,0,Chauncey village
+OH,3956924,North Randall,incorporated,47,A,954,"North Randall, OH",0,539,0,0,North Randall village
+OH,3954838,New Knoxville,incorporated,47,A,946,"New Knoxville, OH",0,540,0,0,New Knoxville village
+OH,3910632,Butler,incorporated,47,A,941,"Butler, OH",0,541,0,0,Butler village
+OH,3904458,Beach City,incorporated,47,A,940,"Beach City, OH",0,542,0,0,Beach City village
+OH,3963716,Pleasantville,incorporated,47,A,934,"Pleasantville, OH",0,543,0,0,Pleasantville village
+OH,3900436,Addyston,incorporated,47,A,927,"Addyston, OH",0,544,0,0,Addyston village
+OH,3931206,Grand Rapids,incorporated,47,A,925,"Grand Rapids, OH",0,545,0,0,Grand Rapids village
+OH,3982376,Waynesburg,incorporated,47,A,925,"Waynesburg, OH",0,546,0,0,Waynesburg village
+OH,3929148,Galena,incorporated,47,A,924,"Galena, OH",0,547,0,0,Galena village
+OH,3936260,Hopedale,incorporated,47,A,920,"Hopedale, OH",0,548,0,0,Hopedale village
+OH,3901042,Albany,incorporated,47,A,917,"Albany, OH",0,549,0,0,Albany village
+OH,3929652,Geneva-on-the-Lake,incorporated,47,A,916,"Geneva-on-the-Lake, OH",0,550,0,0,Geneva-on-the-Lake village
+OH,3956910,North Perry,incorporated,47,A,915,"North Perry, OH",0,551,0,0,North Perry village
+OH,3905410,Beloit,incorporated,47,A,903,"Beloit, OH",0,552,0,0,Beloit village
+OH,3905550,Bentleyville,incorporated,47,A,897,"Bentleyville, OH",0,553,0,0,Bentleyville village
+OH,3907188,Bloomingburg,incorporated,47,A,878,"Bloomingburg, OH",0,554,0,0,Bloomingburg village
+OH,3902820,Attica,incorporated,47,A,873,"Attica, OH",0,555,0,0,Attica village
+OH,3955776,New Washington,incorporated,47,A,873,"New Washington, OH",0,556,0,0,New Washington village
+OH,3907286,Bloomville,incorporated,47,A,867,"Bloomville, OH",0,557,0,0,Bloomville village
+OH,3947502,Marblehead,incorporated,47,A,865,"Marblehead, OH",0,558,0,0,Marblehead village
+OH,3903744,Baltic,incorporated,47,A,851,"Baltic, OH",0,559,0,0,Baltic village
+OH,3931472,Gratis,incorporated,47,A,842,"Gratis, OH",0,560,0,0,Gratis village
+OH,3982334,Wayne,incorporated,47,A,841,"Wayne, OH",0,561,0,0,Wayne village
+OH,3954978,New Madison,incorporated,47,A,840,"New Madison, OH",0,562,0,0,New Madison village
+OH,3901210,Alger,incorporated,47,A,837,"Alger, OH",0,563,0,0,Alger village
+OH,3956182,North Bend,incorporated,47,A,835,"North Bend, OH",0,564,0,0,North Bend village
+OH,3971976,Shawnee Hills,incorporated,47,A,835,"Shawnee Hills, OH",0,565,0,0,Shawnee Hills village
+OH,3927552,Flushing,incorporated,47,A,830,"Flushing, OH",0,566,0,0,Flushing village
+OH,3902428,Arlington Heights,incorporated,47,A,823,"Arlington Heights, OH",0,567,0,0,Arlington Heights village
+OH,3940180,Killbuck,incorporated,47,A,810,"Killbuck, OH",0,568,0,0,Killbuck village
+OH,3905116,Belle Center,incorporated,47,A,809,"Belle Center, OH",0,569,0,0,Belle Center village
+OH,3950218,Milford Center,incorporated,47,A,807,"Milford Center, OH",0,570,0,0,Milford Center village
+OH,3954726,New Holland,incorporated,47,A,804,"New Holland, OH",0,571,0,0,New Holland village
+OH,3972256,Sherwood,incorporated,47,A,802,"Sherwood, OH",0,572,0,0,Sherwood village
+OH,3924640,Edon,incorporated,47,A,796,"Edon, OH",0,573,0,0,Edon village
+OH,3975980,Sycamore,incorporated,47,A,793,"Sycamore, OH",0,574,0,0,Sycamore village
+OH,3948048,Marshallville,incorporated,47,A,789,"Marshallville, OH",0,575,0,0,Marshallville village
+OH,3959220,Owensville,incorporated,47,A,786,"Owensville, OH",0,576,0,0,Owensville village
+OH,3976050,Syracuse,incorporated,47,A,781,"Syracuse, OH",0,577,0,0,Syracuse village
+OH,3912476,Castalia,incorporated,47,A,774,"Castalia, OH",0,578,0,0,Castalia village
+OH,3922946,Dunkirk,incorporated,47,A,774,"Dunkirk, OH",0,579,0,0,Dunkirk village
+OH,3903604,Bainbridge,incorporated,47,A,765,"Bainbridge, OH",0,580,0,0,Bainbridge village
+OH,3913904,Chesapeake,incorporated,47,A,765,"Chesapeake, OH",0,581,0,0,Chesapeake village
+OH,3936918,Hunting Valley,incorporated,47,A,763,"Hunting Valley, OH",0,582,0,0,Hunting Valley village
+OH,3924052,East Sparta,incorporated,47,A,749,"East Sparta, OH",0,583,0,0,East Sparta village
+OH,3982390,Waynesfield,incorporated,47,A,749,"Waynesfield, OH",0,584,0,0,Waynesfield village
+OH,3983818,West Mansfield,incorporated,47,A,749,"West Mansfield, OH",0,585,0,0,West Mansfield village
+OH,3962190,Perrysville,incorporated,47,A,729,"Perrysville, OH",0,586,0,0,Perrysville village
+OH,3932956,Hamden,incorporated,47,A,727,"Hamden, OH",0,587,0,0,Hamden village
+OH,3949294,Meyers Lake,incorporated,47,A,724,"Meyers Lake, OH",0,588,0,0,Meyers Lake village
+OH,3967258,Rio Grande,incorporated,47,A,724,"Rio Grande, OH",0,589,0,0,Rio Grande village
+OH,3939508,Junction City,incorporated,47,A,721,"Junction City, OH",0,590,0,0,Junction City village
+OH,3962442,Philo,incorporated,47,A,720,"Philo, OH",0,591,0,0,Philo village
+OH,3969344,Russia,incorporated,47,A,712,"Russia, OH",0,592,0,0,Russia village
+OH,3971444,Seven Mile,incorporated,47,A,712,"Seven Mile, OH",0,593,0,0,Seven Mile village
+OH,3981732,Washingtonville,incorporated,47,A,712,"Washingtonville, OH",0,594,0,0,Washingtonville village
+OH,3953942,Nevada,incorporated,47,A,706,"Nevada, OH",0,595,0,0,Nevada village
+OH,3948286,Matamoras (New Matamoras),incorporated,47,A,702,"Matamoras (New Matamoras), OH",0,596,0,0,Matamoras (New Matamoras) village
+OH,3945794,McClure,incorporated,47,A,700,"McClure, OH",0,597,0,0,McClure village
+OH,3982348,Wayne Lakes,incorporated,47,A,693,"Wayne Lakes, OH",0,598,0,0,Wayne Lakes village
+OH,3940670,Kirtland Hills,incorporated,47,A,692,"Kirtland Hills, OH",0,599,0,0,Kirtland Hills village
+OH,3973992,Spencer,incorporated,47,A,684,"Spencer, OH",0,600,0,0,Spencer village
+OH,3965256,Racine,incorporated,47,A,683,"Racine, OH",0,601,0,0,Racine village
+OH,3941902,La Rue,incorporated,47,A,676,"La Rue, OH",0,602,0,0,La Rue village
+OH,3901630,Amanda,incorporated,47,A,673,"Amanda, OH",0,603,0,0,Amanda village
+OH,3949966,Midvale,incorporated,47,A,673,"Midvale, OH",0,604,0,0,Midvale village
+OH,3970814,Scio,incorporated,47,A,673,"Scio, OH",0,605,0,0,Scio village
+OH,3973824,South Webster,incorporated,47,A,670,"South Webster, OH",0,606,0,0,South Webster village
+OH,3979282,Valleyview,incorporated,47,A,669,"Valleyview, OH",0,607,0,0,Valleyview village
+OH,3967846,Rock Creek,incorporated,47,A,667,"Rock Creek, OH",0,608,0,0,Rock Creek village
+OH,3907062,Bloomdale,incorporated,47,A,665,"Bloomdale, OH",0,609,0,0,Bloomdale village
+OH,3900464,Adena,incorporated,47,A,664,"Adena, OH",0,610,0,0,Adena village
+OH,3935255,Highland Hills,incorporated,47,A,662,"Highland Hills, OH",0,611,0,0,Highland Hills village
+OH,3914254,Chippewa Lake,incorporated,47,A,654,"Chippewa Lake, OH",0,612,0,0,Chippewa Lake village
+OH,3950764,Mineral City,incorporated,47,A,652,"Mineral City, OH",0,613,0,0,Mineral City village
+OH,3955552,New Straitsville,incorporated,47,A,652,"New Straitsville, OH",0,614,0,0,New Straitsville village
+OH,3905900,Berlin Heights,incorporated,47,A,651,"Berlin Heights, OH",0,615,0,0,Berlin Heights village
+OH,3926880,Felicity,incorporated,47,A,651,"Felicity, OH",0,616,0,0,Felicity village
+OH,3958002,Ohio City,incorporated,47,A,651,"Ohio City, OH",0,617,0,0,Ohio City village
+OH,3986394,Woodmere,incorporated,47,A,641,"Woodmere, OH",0,618,0,0,Woodmere village
+OH,3947474,Marble Cliff,incorporated,47,A,634,"Marble Cliff, OH",0,619,0,0,Marble Cliff village
+OH,3950540,Millville,incorporated,47,A,634,"Millville, OH",0,620,0,0,Millville village
+OH,3981032,Warsaw,incorporated,47,A,634,"Warsaw, OH",0,621,0,0,Warsaw village
+OH,3976834,Timberlake,incorporated,47,A,629,"Timberlake, OH",0,622,0,0,Timberlake village
+OH,3949042,Mendon,incorporated,47,A,628,"Mendon, OH",0,623,0,0,Mendon village
+OH,3972298,Shiloh,incorporated,47,A,619,"Shiloh, OH",0,624,0,0,Shiloh village
+OH,3904402,Bay View,incorporated,47,A,608,"Bay View, OH",0,625,0,0,Bay View village
+OH,3976764,Thurston,incorporated,47,A,603,"Thurston, OH",0,626,0,0,Thurston village
+OH,3945626,Lyons,incorporated,47,A,602,"Lyons, OH",0,627,0,0,Lyons village
+OH,3953144,Mount Victory,incorporated,47,A,601,"Mount Victory, OH",0,628,0,0,Mount Victory village
+OH,3933096,Hamler,incorporated,47,A,600,"Hamler, OH",0,629,0,0,Hamler village
+OH,3967440,Riverlea,incorporated,47,A,599,"Riverlea, OH",0,630,0,0,Riverlea village
+OH,3906194,Bettsville,incorporated,47,A,595,"Bettsville, OH",0,631,0,0,Bettsville village
+OH,3922022,Dillonvale,incorporated,47,A,589,"Dillonvale, OH",0,632,0,0,Dillonvale village
+OH,3945276,Lucas,incorporated,47,A,589,"Lucas, OH",0,633,0,0,Lucas village
+OH,3974916,Stoutsville,incorporated,47,A,579,"Stoutsville, OH",0,634,0,0,Stoutsville village
+OH,3919806,Cuyahoga Heights,incorporated,47,A,573,"Cuyahoga Heights, OH",0,635,0,0,Cuyahoga Heights village
+OH,3965634,Rawson,incorporated,47,A,567,"Rawson, OH",0,636,0,0,Rawson village
+OH,3949238,Metamora,incorporated,47,A,566,"Metamora, OH",0,637,0,0,Metamora village
+OH,3949728,Middle Point,incorporated,47,A,566,"Middle Point, OH",0,638,0,0,Middle Point village
+OH,3945164,Lowell,incorporated,47,A,565,"Lowell, OH",0,639,0,0,Lowell village
+OH,3902316,Arcadia,incorporated,47,A,564,"Arcadia, OH",0,640,0,0,Arcadia village
+OH,3910954,Caledonia,incorporated,47,A,560,"Caledonia, OH",0,641,0,0,Caledonia village
+OH,3946970,Malta,incorporated,47,A,559,"Malta, OH",0,642,0,0,Malta village
+OH,3966320,Republic,incorporated,47,A,556,"Republic, OH",0,643,0,0,Republic village
+OH,3934384,Harveysburg,incorporated,47,A,554,"Harveysburg, OH",0,644,0,0,Harveysburg village
+OH,3939172,Jewett,incorporated,47,A,554,"Jewett, OH",0,645,0,0,Jewett village
+OH,3964346,Port Washington,incorporated,47,A,548,"Port Washington, OH",0,646,0,0,Port Washington village
+OH,3957792,Oakwood,incorporated,47,A,546,"Oakwood, OH",0,647,0,0,Oakwood village
+OH,3905718,Bergholz,incorporated,47,A,544,"Bergholz, OH",0,648,0,0,Bergholz village
+OH,3919820,Cygnet,incorporated,47,A,543,"Cygnet, OH",0,649,0,0,Cygnet village
+OH,3980402,Waite Hill,incorporated,47,A,543,"Waite Hill, OH",0,650,0,0,Waite Hill village
+OH,3969316,Russellville,incorporated,47,A,542,"Russellville, OH",0,651,0,0,Russellville village
+OH,3983384,West Farmington,incorporated,47,A,542,"West Farmington, OH",0,652,0,0,West Farmington village
+OH,3967314,Risingsun,incorporated,47,A,541,"Risingsun, OH",0,653,0,0,Risingsun village
+OH,3909316,Brookside,incorporated,47,A,538,"Brookside, OH",0,654,0,0,Brookside village
+OH,3961574,Peninsula,incorporated,47,A,536,"Peninsula, OH",0,655,0,0,Peninsula village
+OH,3965200,Quincy,incorporated,47,A,536,"Quincy, OH",0,656,0,0,Quincy village
+OH,3915406,Clarksville,incorporated,47,A,534,"Clarksville, OH",0,657,0,0,Clarksville village
+OH,3939060,Jeromesville,incorporated,47,A,531,"Jeromesville, OH",0,658,0,0,Jeromesville village
+OH,3927818,Fort Jennings,incorporated,47,A,525,"Fort Jennings, OH",0,659,0,0,Fort Jennings village
+OH,3964766,Proctorville,incorporated,47,A,523,"Proctorville, OH",0,660,0,0,Proctorville village
+OH,3909834,Buchtel,incorporated,47,A,518,"Buchtel, OH",0,661,0,0,Buchtel village
+OH,3910884,Cairo,incorporated,47,A,517,"Cairo, OH",0,662,0,0,Cairo village
+OH,3942084,Laurelville,incorporated,47,A,512,"Laurelville, OH",0,663,0,0,Laurelville village
+OH,3914296,Christiansburg,incorporated,47,A,505,"Christiansburg, OH",0,664,0,0,Christiansburg village
+OH,3971962,Shawnee,incorporated,47,A,505,"Shawnee, OH",0,665,0,0,Shawnee village
+OH,3912252,Carroll,incorporated,47,A,501,"Carroll, OH",0,666,0,0,Carroll village
+OH,3962414,Phillipsburg,incorporated,47,A,498,"Phillipsburg, OH",0,667,0,0,Phillipsburg village
+OH,3969176,Rushsylvania,incorporated,47,A,491,"Rushsylvania, OH",0,668,0,0,Rushsylvania village
+OH,3918770,Corning,incorporated,47,A,488,"Corning, OH",0,669,0,0,Corning village
+OH,3932984,Hamersville,incorporated,47,A,485,"Hamersville, OH",0,670,0,0,Hamersville village
+OH,3918840,Corwin,incorporated,47,A,484,"Corwin, OH",0,671,0,0,Corwin village
+OH,3901154,Alexandria,incorporated,47,A,483,"Alexandria, OH",0,672,0,0,Alexandria village
+OH,3974748,Stockport,incorporated,47,A,483,"Stockport, OH",0,673,0,0,Stockport village
+OH,3940572,Kirkersville,incorporated,47,A,471,"Kirkersville, OH",0,674,0,0,Kirkersville village
+OH,3952598,Mount Blanchard,incorporated,47,A,471,"Mount Blanchard, OH",0,675,0,0,Mount Blanchard village
+OH,3946046,McGuffey,incorporated,47,A,466,"McGuffey, OH",0,676,0,0,McGuffey village
+OH,3956420,North Fairfield,incorporated,47,A,465,"North Fairfield, OH",0,677,0,0,North Fairfield village
+OH,3929974,Gettysburg,incorporated,47,A,463,"Gettysburg, OH",0,678,0,0,Gettysburg village
+OH,3924766,Eldorado,incorporated,47,A,458,"Eldorado, OH",0,679,0,0,Eldorado village
+OH,3943904,Lindsey,incorporated,47,A,457,"Lindsey, OH",0,680,0,0,Lindsey village
+OH,3956588,North Hampton,incorporated,47,A,457,"North Hampton, OH",0,681,0,0,North Hampton village
+OH,3918588,Coolville,incorporated,47,A,454,"Coolville, OH",0,682,0,0,Coolville village
+OH,3939074,Jerry City,incorporated,47,A,454,"Jerry City, OH",0,683,0,0,Jerry City village
+OH,3927412,Fletcher,incorporated,47,A,451,"Fletcher, OH",0,684,0,0,Fletcher village
+OH,3934636,Hayesville,incorporated,47,A,447,"Hayesville, OH",0,685,0,0,Hayesville village
+OH,3916434,Coalton,incorporated,47,A,445,"Coalton, OH",0,686,0,0,Coalton village
+OH,3904696,Beaver,incorporated,47,A,442,"Beaver, OH",0,687,0,0,Beaver village
+OH,3901938,Amsterdam,incorporated,47,A,436,"Amsterdam, OH",0,688,0,0,Amsterdam village
+OH,3975252,Sugar Grove,incorporated,47,A,429,"Sugar Grove, OH",0,689,0,0,Sugar Grove village
+OH,3969358,Rutland,incorporated,47,A,427,"Rutland, OH",0,690,0,0,Rutland village
+OH,3919554,Crown City,incorporated,47,A,424,"Crown City, OH",0,691,0,0,Crown City village
+OH,3934118,Harrod,incorporated,47,A,423,"Harrod, OH",0,692,0,0,Harrod village
+OH,3924598,Edison,incorporated,47,A,422,"Edison, OH",0,693,0,0,Edison village
+OH,3971360,Senecaville,incorporated,47,A,422,"Senecaville, OH",0,694,0,0,Senecaville village
+OH,3948118,Martinsville,incorporated,47,A,416,"Martinsville, OH",0,695,0,0,Martinsville village
+OH,3974216,Spring Valley,incorporated,47,A,415,"Spring Valley, OH",0,696,0,0,Spring Valley village
+OH,3983804,West Manchester,incorporated,47,A,415,"West Manchester, OH",0,697,0,0,West Manchester village
+OH,3905312,Belmont,incorporated,47,A,414,"Belmont, OH",0,698,0,0,Belmont village
+OH,3954152,New Bloomington,incorporated,47,A,413,"New Bloomington, OH",0,699,0,0,New Bloomington village
+OH,3966824,Richmond,incorporated,47,A,412,"Richmond, OH",0,700,0,0,Richmond village
+OH,3915336,Clarksburg,incorporated,47,A,409,"Clarksburg, OH",0,701,0,0,Clarksburg village
+OH,3928616,Fredericksburg,incorporated,47,A,409,"Fredericksburg, OH",0,702,0,0,Fredericksburg village
+OH,3936988,Huntsville,incorporated,47,A,408,"Huntsville, OH",0,703,0,0,Huntsville village
+OH,3941118,Lafayette,incorporated,47,A,406,"Lafayette, OH",0,704,0,0,Lafayette village
+OH,3985736,Willshire,incorporated,47,A,405,"Willshire, OH",0,705,0,0,Willshire village
+OH,3934202,Hartford (Croton),incorporated,47,A,404,"Hartford (Croton), OH",0,706,0,0,Hartford (Croton) village
+OH,3979898,Verona,incorporated,47,A,403,"Verona, OH",0,707,0,0,Verona village
+OH,3973796,South Vienna,incorporated,47,A,402,"South Vienna, OH",0,708,0,0,South Vienna village
+OH,3938304,Jacksonville,incorporated,47,A,400,"Jacksonville, OH",0,709,0,0,Jacksonville village
+OH,3963436,Pleasant City,incorporated,47,A,400,"Pleasant City, OH",0,710,0,0,Pleasant City village
+OH,3942028,Laura,incorporated,47,A,398,"Laura, OH",0,711,0,0,Laura village
+OH,3964108,Portage,incorporated,47,A,398,"Portage, OH",0,712,0,0,Portage village
+OH,3979394,Van Buren,incorporated,47,A,396,"Van Buren, OH",0,713,0,0,Van Buren village
+OH,3965662,Rayland,incorporated,47,A,395,"Rayland, OH",0,714,0,0,Rayland village
+OH,3931234,Grand River,incorporated,47,A,394,"Grand River, OH",0,715,0,0,Grand River village
+OH,3952976,Mount Pleasant,incorporated,47,A,394,"Mount Pleasant, OH",0,716,0,0,Mount Pleasant village
+OH,3916700,College Corner,incorporated,47,A,387,"College Corner, OH",0,717,0,0,College Corner village
+OH,3977070,Tontogany,incorporated,47,A,387,"Tontogany, OH",0,718,0,0,Tontogany village
+OH,3953186,Mowrystown,incorporated,47,A,385,"Mowrystown, OH",0,719,0,0,Mowrystown village
+OH,3903940,Barnhill,incorporated,47,A,383,"Barnhill, OH",0,720,0,0,Barnhill village
+OH,3932620,Grover Hill,incorporated,47,A,382,"Grover Hill, OH",0,721,0,0,Grover Hill village
+OH,3962890,Pitsburg,incorporated,47,A,381,"Pitsburg, OH",0,722,0,0,Pitsburg village
+OH,3965116,Quaker City,incorporated,47,A,379,"Quaker City, OH",0,723,0,0,Quaker City village
+OH,3952276,Morral,incorporated,47,A,373,"Morral, OH",0,724,0,0,Morral village
+OH,3935994,Holmesville,incorporated,47,A,371,"Holmesville, OH",0,725,0,0,Holmesville village
+OH,3930660,Gloria Glens Park,incorporated,47,A,369,"Gloria Glens Park, OH",0,726,0,0,Gloria Glens Park village
+OH,3914156,Chickasaw,incorporated,47,A,358,"Chickasaw, OH",0,727,0,0,Chickasaw village
+OH,3907916,Bowerston,incorporated,47,A,356,"Bowerston, OH",0,728,0,0,Bowerston village
+OH,3904542,Beallsville,incorporated,47,A,355,"Beallsville, OH",0,729,0,0,Beallsville village
+OH,3933306,Hanoverton,incorporated,47,A,354,"Hanoverton, OH",0,730,0,0,Hanoverton village
+OH,3969652,St. Louisville,incorporated,47,A,352,"St. Louisville, OH",0,731,0,0,St. Louisville village
+OH,3977308,Tremont City,incorporated,47,A,352,"Tremont City, OH",0,732,0,0,Tremont City village
+OH,3903562,Bailey Lakes,incorporated,47,A,349,"Bailey Lakes, OH",0,733,0,0,Bailey Lakes village
+OH,3953410,Murray City,incorporated,47,A,341,"Murray City, OH",0,734,0,0,Murray City village
+OH,3979534,Vanlue,incorporated,47,A,341,"Vanlue, OH",0,735,0,0,Vanlue village
+OH,3935924,Holloway,incorporated,47,A,330,"Holloway, OH",0,736,0,0,Holloway village
+OH,3970576,Savannah,incorporated,47,A,329,"Savannah, OH",0,737,0,0,Savannah village
+OH,3973768,South Solon,incorporated,47,A,329,"South Solon, OH",0,738,0,0,South Solon village
+OH,3977406,Trimble,incorporated,47,A,329,"Trimble, OH",0,739,0,0,Trimble village
+OH,3918266,Conesville,incorporated,47,A,328,"Conesville, OH",0,740,0,0,Conesville village
+OH,3984574,Wharton,incorporated,47,A,328,"Wharton, OH",0,741,0,0,Wharton village
+OH,3937422,Irondale,incorporated,47,A,326,"Irondale, OH",0,742,0,0,Irondale village
+OH,3980500,Waldo,incorporated,47,A,326,"Waldo, OH",0,743,0,0,Waldo village
+OH,3900450,Adelphi,incorporated,47,A,322,"Adelphi, OH",0,744,0,0,Adelphi village
+OH,3928798,Freeport,incorporated,47,A,321,"Freeport, OH",0,745,0,0,Freeport village
+OH,3904752,Beaverdam,incorporated,47,A,319,"Beaverdam, OH",0,746,0,0,Beaverdam village
+OH,3919694,Cumberland,incorporated,47,A,317,"Cumberland, OH",0,747,0,0,Cumberland village
+OH,3926796,Fayetteville,incorporated,47,A,317,"Fayetteville, OH",0,748,0,0,Fayetteville village
+OH,3933740,Harrisburg,incorporated,47,A,315,"Harrisburg, OH",0,749,0,0,Harrisburg village
+OH,3967118,Ridgeway,incorporated,47,A,314,"Ridgeway, OH",0,750,0,0,Ridgeway village
+OH,3968042,Rocky Ridge,incorporated,47,A,312,"Rocky Ridge, OH",0,751,0,0,Rocky Ridge village
+OH,3931948,Green Camp,incorporated,47,A,310,"Green Camp, OH",0,752,0,0,Green Camp village
+OH,3963996,Polk,incorporated,47,A,310,"Polk, OH",0,753,0,0,Polk village
+OH,3964262,Port Jefferson,incorporated,47,A,308,"Port Jefferson, OH",0,754,0,0,Port Jefferson village
+OH,3949896,Midland,incorporated,47,A,307,"Midland, OH",0,755,0,0,Midland village
+OH,3958912,Osgood,incorporated,47,A,306,"Osgood, OH",0,756,0,0,Osgood village
+OH,3902274,Aquilla,incorporated,47,A,305,"Aquilla, OH",0,757,0,0,Aquilla village
+OH,3969204,Rushville,incorporated,47,A,304,"Rushville, OH",0,758,0,0,Rushville village
+OH,3955874,Ney,incorporated,47,A,303,"Ney, OH",0,759,0,0,Ney village
+OH,3910254,Burbank,incorporated,47,A,296,"Burbank, OH",0,760,0,0,Burbank village
+OH,3986478,Woodstock,incorporated,47,A,287,"Woodstock, OH",0,761,0,0,Woodstock village
+OH,3955398,New Riegel,incorporated,47,A,286,"New Riegel, OH",0,762,0,0,New Riegel village
+OH,3947558,Marengo,incorporated,47,A,283,"Marengo, OH",0,763,0,0,Marengo village
+OH,3944954,Lore City,incorporated,47,A,282,"Lore City, OH",0,764,0,0,Lore City village
+OH,3985806,Wilmot,incorporated,47,A,282,"Wilmot, OH",0,765,0,0,Wilmot village
+OH,3915210,Clarington,incorporated,47,A,280,"Clarington, OH",0,766,0,0,Clarington village
+OH,3902722,Athalia,incorporated,47,A,279,"Athalia, OH",0,767,0,0,Athalia village
+OH,3914086,Chesterhill,incorporated,47,A,276,"Chesterhill, OH",0,768,0,0,Chesterhill village
+OH,3905732,Berkey,incorporated,47,A,275,"Berkey, OH",0,769,0,0,Berkey village
+OH,3905662,Benton Ridge,incorporated,47,A,272,"Benton Ridge, OH",0,770,0,0,Benton Ridge village
+OH,3910296,Burkettsville,incorporated,47,A,272,"Burkettsville, OH",0,771,0,0,Burkettsville village
+OH,3912462,Casstown,incorporated,47,A,270,"Casstown, OH",0,772,0,0,Casstown village
+OH,3950008,Midway,incorporated,47,A,269,"Midway, OH",0,773,0,0,Midway village
+OH,3921560,Dellroy,incorporated,47,A,268,"Dellroy, OH",0,774,0,0,Dellroy village
+OH,3946830,Magnetic Springs,incorporated,47,A,267,"Magnetic Springs, OH",0,775,0,0,Magnetic Springs village
+OH,3975000,Stratton,incorporated,47,A,267,"Stratton, OH",0,776,0,0,Stratton village
+OH,3915588,Clay Center,incorporated,47,A,262,"Clay Center, OH",0,777,0,0,Clay Center village
+OH,3907930,Bowersville,incorporated,47,A,261,"Bowersville, OH",0,778,0,0,Bowersville village
+OH,3938948,Jenera,incorporated,47,A,257,"Jenera, OH",0,779,0,0,Jenera village
+OH,3939662,Kelleys Island,incorporated,47,A,256,"Kelleys Island, OH",0,780,0,0,Kelleys Island village
+OH,3922288,Donnelsville,incorporated,47,A,255,"Donnelsville, OH",0,781,0,0,Donnelsville village
+OH,3976148,Tarlton,incorporated,47,A,254,"Tarlton, OH",0,782,0,0,Tarlton village
+OH,3929050,Fulton,incorporated,47,A,250,"Fulton, OH",0,783,0,0,Fulton village
+OH,3935532,Hills and Dales,incorporated,47,A,250,"Hills and Dales, OH",0,784,0,0,Hills and Dales village
+OH,3952346,Morristown,incorporated,47,A,248,"Morristown, OH",0,785,0,0,Morristown village
+OH,3912560,Catawba,incorporated,47,A,245,"Catawba, OH",0,786,0,0,Catawba village
+OH,3930912,Gordon,incorporated,47,A,245,"Gordon, OH",0,787,0,0,Gordon village
+OH,3935896,Hollansburg,incorporated,47,A,243,"Hollansburg, OH",0,788,0,0,Hollansburg village
+OH,3971080,Scott,incorporated,47,A,242,"Scott, OH",0,789,0,0,Scott village
+OH,3978834,Unionville Center,incorporated,47,A,241,"Unionville Center, OH",0,790,0,0,Unionville Center village
+OH,3930506,Glenmont,incorporated,47,A,240,"Glenmont, OH",0,791,0,0,Glenmont village
+OH,3975406,Summerfield,incorporated,47,A,237,"Summerfield, OH",0,792,0,0,Summerfield village
+OH,3944310,Lockbourne,incorporated,47,A,236,"Lockbourne, OH",0,793,0,0,Lockbourne village
+OH,3946942,Malinta,incorporated,47,A,236,"Malinta, OH",0,794,0,0,Malinta village
+OH,3909974,Buckland,incorporated,47,A,233,"Buckland, OH",0,795,0,0,Buckland village
+OH,3949000,Melrose,incorporated,47,A,233,"Melrose, OH",0,796,0,0,Melrose village
+OH,3925368,Empire,incorporated,47,A,232,"Empire, OH",0,797,0,0,Empire village
+OH,3935210,Highland,incorporated,47,A,232,"Highland, OH",0,798,0,0,Highland village
+OH,3954012,New Alexandria,incorporated,47,A,232,"New Alexandria, OH",0,799,0,0,New Alexandria village
+OH,3988028,Zaleski,incorporated,47,A,230,"Zaleski, OH",0,800,0,0,Zaleski village
+OH,3964360,Port William,incorporated,47,A,229,"Port William, OH",0,801,0,0,Port William village
+OH,3979226,Valley Hi,incorporated,47,A,228,"Valley Hi, OH",0,802,0,0,Valley Hi village
+OH,3983706,West Leipsic,incorporated,47,A,226,"West Leipsic, OH",0,803,0,0,West Leipsic village
+OH,3952668,Mount Cory,incorporated,47,A,225,"Mount Cory, OH",0,804,0,0,Mount Cory village
+OH,3964430,Potsdam,incorporated,47,A,225,"Potsdam, OH",0,805,0,0,Potsdam village
+OH,3957064,North Star,incorporated,47,A,224,"North Star, OH",0,806,0,0,North Star village
+OH,3980178,Vinton,incorporated,47,A,224,"Vinton, OH",0,807,0,0,Vinton village
+OH,3958226,Old Washington,incorporated,47,A,223,"Old Washington, OH",0,808,0,0,Old Washington village
+OH,3948090,Martinsburg,incorporated,47,A,222,"Martinsburg, OH",0,809,0,0,Martinsburg village
+OH,3954068,New Athens,incorporated,47,A,222,"New Athens, OH",0,810,0,0,New Athens village
+OH,3972242,Sherrodsville,incorporated,47,A,222,"Sherrodsville, OH",0,811,0,0,Sherrodsville village
+OH,3936568,Hoytville,incorporated,47,A,220,"Hoytville, OH",0,812,0,0,Hoytville village
+OH,3956994,North Robinson,incorporated,47,A,219,"North Robinson, OH",0,813,0,0,North Robinson village
+OH,3968742,Roswell,incorporated,47,A,219,"Roswell, OH",0,814,0,0,Roswell village
+OH,3973698,South Salem,incorporated,47,A,219,"South Salem, OH",0,815,0,0,South Salem village
+OH,3976932,Tiro,incorporated,47,A,219,"Tiro, OH",0,816,0,0,Tiro village
+OH,3975196,Sugar Bush Knolls,incorporated,47,A,217,"Sugar Bush Knolls, OH",0,817,0,0,Sugar Bush Knolls village
+OH,3941398,Lakeline,incorporated,47,A,216,"Lakeline, OH",0,818,0,0,Lakeline village
+OH,3927538,Florida,incorporated,47,A,215,"Florida, OH",0,819,0,0,Florida village
+OH,3931458,Gratiot,incorporated,47,A,215,"Gratiot, OH",0,820,0,0,Gratiot village
+OH,3935168,Higginsport,incorporated,47,A,213,"Higginsport, OH",0,821,0,0,Higginsport village
+OH,3922974,Dupont,incorporated,47,A,212,"Dupont, OH",0,822,0,0,Dupont village
+OH,3934860,Helena,incorporated,47,A,211,"Helena, OH",0,823,0,0,Helena village
+OH,3940544,Kipton,incorporated,47,A,209,"Kipton, OH",0,824,0,0,Kipton village
+OH,3913694,Chatfield,incorporated,47,A,205,"Chatfield, OH",0,825,0,0,Chatfield village
+OH,3961056,Parral,incorporated,47,A,205,"Parral, OH",0,826,0,0,Parral village
+OH,3933194,Hanging Rock,incorporated,47,A,204,"Hanging Rock, OH",0,827,0,0,Hanging Rock village
+OH,3905158,Belle Valley,incorporated,47,A,201,"Belle Valley, OH",0,828,0,0,Belle Valley village
+OH,3968084,Rogers,incorporated,47,A,194,"Rogers, OH",0,829,0,0,Rogers village
+OH,3988070,Zanesfield,incorporated,47,A,194,"Zanesfield, OH",0,830,0,0,Zanesfield village
+OH,3914114,Chesterville,incorporated,47,A,191,"Chesterville, OH",0,831,0,0,Chesterville village
+OH,3920212,Darbyville,incorporated,47,A,186,"Darbyville, OH",0,832,0,0,Darbyville village
+OH,3942980,Lewisville,incorporated,47,A,184,"Lewisville, OH",0,833,0,0,Lewisville village
+OH,3910282,Burgoon,incorporated,47,A,183,"Burgoon, OH",0,834,0,0,Burgoon village
+OH,3953634,Nashville,incorporated,47,A,183,"Nashville, OH",0,835,0,0,Nashville village
+OH,3959598,Palestine,incorporated,47,A,180,"Palestine, OH",0,836,0,0,Palestine village
+OH,3934090,Harrisville,incorporated,47,A,179,"Harrisville, OH",0,837,0,0,Harrisville village
+OH,3919750,Custar,incorporated,47,A,178,"Custar, OH",0,838,0,0,Custar village
+OH,3945374,Ludlow Falls,incorporated,47,A,175,"Ludlow Falls, OH",0,839,0,0,Ludlow Falls village
+OH,3958674,Orangeville,incorporated,47,A,174,"Orangeville, OH",0,840,0,0,Orangeville village
+OH,3988168,Zoar,incorporated,47,A,172,"Zoar, OH",0,841,0,0,Zoar village
+OH,3901784,Amesville,incorporated,47,A,171,"Amesville, OH",0,842,0,0,Amesville village
+OH,3952682,Mount Eaton,incorporated,47,A,171,"Mount Eaton, OH",0,843,0,0,Mount Eaton village
+OH,3916266,Cloverdale,incorporated,47,A,170,"Cloverdale, OH",0,844,0,0,Cloverdale village
+OH,3930114,Gilboa,incorporated,47,A,168,"Gilboa, OH",0,845,0,0,Gilboa village
+OH,3984182,West Rushville,incorporated,47,A,166,"West Rushville, OH",0,846,0,0,West Rushville village
+OH,3930436,Glenford,incorporated,47,A,165,"Glenford, OH",0,847,0,0,Glenford village
+OH,3941986,Latty,incorporated,47,A,165,"Latty, OH",0,848,0,0,Latty village
+OH,3986632,Wren,incorporated,47,A,165,"Wren, OH",0,849,0,0,Wren village
+OH,3940054,Kettlersville,incorporated,47,A,164,"Kettlersville, OH",0,850,0,0,Kettlersville village
+OH,3983216,West Elkton,incorporated,47,A,164,"West Elkton, OH",0,851,0,0,West Elkton village
+OH,3944352,Lockington,incorporated,47,A,162,"Lockington, OH",0,852,0,0,Lockington village
+OH,3933656,Harpster,incorporated,47,A,160,"Harpster, OH",0,853,0,0,Harpster village
+OH,3934552,Haviland,incorporated,47,A,160,"Haviland, OH",0,854,0,0,Haviland village
+OH,3967762,Rochester,incorporated,47,A,159,"Rochester, OH",0,855,0,0,Rochester village
+OH,3968672,Rossburg,incorporated,47,A,159,"Rossburg, OH",0,856,0,0,Rossburg village
+OH,3950036,Mifflin,incorporated,47,A,158,"Mifflin, OH",0,857,0,0,Mifflin village
+OH,3910674,Butlerville,incorporated,47,A,155,"Butlerville, OH",0,858,0,0,Butlerville village
+OH,3952416,Moscow,incorporated,47,A,155,"Moscow, OH",0,859,0,0,Moscow village
+OH,3965032,Put-in-Bay,incorporated,47,A,154,"Put-in-Bay, OH",0,860,0,0,Put-in-Bay village
+OH,3974804,Stone Creek,incorporated,47,A,153,"Stone Creek, OH",0,861,0,0,Stone Creek village
+OH,3951674,Montezuma,incorporated,47,A,152,"Montezuma, OH",0,862,0,0,Montezuma village
+OH,3970520,Sarahsville,incorporated,47,A,147,"Sarahsville, OH",0,863,0,0,Sarahsville village
+OH,3912700,Cecil,incorporated,47,A,146,"Cecil, OH",0,864,0,0,Cecil village
+OH,3965508,Rarden,incorporated,47,A,146,"Rarden, OH",0,865,0,0,Rarden village
+OH,3907202,Bloomingdale,incorporated,47,A,145,"Bloomingdale, OH",0,866,0,0,Bloomingdale village
+OH,3934888,Hemlock,incorporated,47,A,142,"Hemlock, OH",0,867,0,0,Hemlock village
+OH,3963044,Plainfield,incorporated,47,A,141,"Plainfield, OH",0,868,0,0,Plainfield village
+OH,3900380,Adamsville,incorporated,47,A,140,"Adamsville, OH",0,869,0,0,Adamsville village
+OH,3979632,Venedocia,incorporated,47,A,140,"Venedocia, OH",0,870,0,0,Venedocia village
+OH,3950708,Milton Center,incorporated,47,A,137,"Milton Center, OH",0,871,0,0,Milton Center village
+OH,3950358,Miller City,incorporated,47,A,134,"Miller City, OH",0,872,0,0,Miller City village
+OH,3918308,Congress,incorporated,47,A,132,"Congress, OH",0,873,0,0,Congress village
+OH,3916056,Clifton,incorporated,47,A,131,"Clifton, OH",0,874,0,0,Clifton village
+OH,3983888,West Millgrove,incorporated,47,A,131,"West Millgrove, OH",0,875,0,0,West Millgrove village
+OH,3961182,Patterson,incorporated,47,A,130,"Patterson, OH",0,876,0,0,Patterson village
+OH,3963576,Pleasant Plain,incorporated,47,A,129,"Pleasant Plain, OH",0,877,0,0,Pleasant Plain village
+OH,3985834,Wilson,incorporated,47,A,129,"Wilson, OH",0,878,0,0,Wilson village
+OH,3942518,Leesville,incorporated,47,A,127,"Leesville, OH",0,879,0,0,Leesville village
+OH,3953480,Mutual,incorporated,47,A,127,"Mutual, OH",0,880,0,0,Mutual village
+OH,3955818,New Weston,incorporated,47,A,124,"New Weston, OH",0,881,0,0,New Weston village
+OH,3913932,Cheshire,incorporated,47,A,123,"Cheshire, OH",0,882,0,0,Cheshire village
+OH,3953816,Nellie,incorporated,47,A,122,"Nellie, OH",0,883,0,0,Nellie village
+OH,3939130,Jerusalem,incorporated,47,A,121,"Jerusalem, OH",0,884,0,0,Jerusalem village
+OH,3973950,Sparta,incorporated,47,A,121,"Sparta, OH",0,885,0,0,Sparta village
+OH,3940558,Kirby,incorporated,47,A,120,"Kirby, OH",0,886,0,0,Kirby village
+OH,3946158,Macksburg,incorporated,47,A,120,"Macksburg, OH",0,887,0,0,Macksburg village
+OH,3972578,Sinking Spring,incorporated,47,A,118,"Sinking Spring, OH",0,888,0,0,Sinking Spring village
+OH,3909386,Broughton,incorporated,47,A,116,"Broughton, OH",0,889,0,0,Broughton village
+OH,3985190,Wilkesville,incorporated,47,A,116,"Wilkesville, OH",0,890,0,0,Wilkesville village
+OH,3903646,Bairdstown,incorporated,47,A,115,"Bairdstown, OH",0,891,0,0,Bairdstown village
+OH,3929064,Fultonham,incorporated,47,A,115,"Fultonham, OH",0,892,0,0,Fultonham village
+OH,3912504,Castine,incorporated,47,A,110,"Castine, OH",0,893,0,0,Castine village
+OH,3975574,Summitville,incorporated,47,A,110,"Summitville, OH",0,894,0,0,Summitville village
+OH,3943918,Linndale,incorporated,47,A,108,"Linndale, OH",0,895,0,0,Linndale village
+OH,3906810,Blakeslee,incorporated,47,A,104,"Blakeslee, OH",0,896,0,0,Blakeslee village
+OH,3904192,Batesville,incorporated,47,A,101,"Batesville, OH",0,897,0,0,Batesville village
+OH,3950316,Milledgeville,incorporated,47,A,98,"Milledgeville, OH",0,898,0,0,Milledgeville village
+OH,3987164,Yorkshire,incorporated,47,A,95,"Yorkshire, OH",0,899,0,0,Yorkshire village
+OH,3908532,Brice,incorporated,47,A,93,"Brice, OH",0,900,0,0,Brice village
+OH,3947992,Marseilles,incorporated,47,A,93,"Marseilles, OH",0,901,0,0,Marseilles village
+OH,3959066,Otway,incorporated,47,A,92,"Otway, OH",0,902,0,0,Otway village
+OH,3933376,Harbor View,incorporated,47,A,89,"Harbor View, OH",0,903,0,0,Harbor View village
+OH,3913169,Centerville (Thurman),incorporated,47,A,87,"Centerville (Thurman), OH",0,904,0,0,Centerville (Thurman) village
+OH,3953956,Neville,incorporated,47,A,87,"Neville, OH",0,905,0,0,Neville village
+OH,3957372,Norwich,incorporated,47,A,87,"Norwich, OH",0,906,0,0,Norwich village
+OH,3954110,New Bavaria,incorporated,47,A,86,"New Bavaria, OH",0,907,0,0,New Bavaria village
+OH,3921910,Dexter City,incorporated,47,A,81,"Dexter City, OH",0,908,0,0,Dexter City village
+OH,3937604,Ithaca,incorporated,47,A,81,"Ithaca, OH",0,909,0,0,Ithaca village
+OH,3945220,Lower Salem,incorporated,47,A,75,"Lower Salem, OH",0,910,0,0,Lower Salem village
+OH,3986856,Yankee Lake,incorporated,47,A,75,"Yankee Lake, OH",0,911,0,0,Yankee Lake village
+OH,3902148,Antioch,incorporated,47,A,71,"Antioch, OH",0,912,0,0,Antioch village
+OH,3914226,Chilo,incorporated,47,A,71,"Chilo, OH",0,913,0,0,Chilo village
+OH,3974300,Stafford,incorporated,47,A,71,"Stafford, OH",0,914,0,0,Stafford village
+OH,3931542,Graysville,incorporated,47,A,70,"Graysville, OH",0,915,0,0,Graysville village
+OH,3921294,Deersville,incorporated,47,A,69,"Deersville, OH",0,916,0,0,Deersville village
+OH,3926348,Fairview,incorporated,47,A,67,"Fairview, OH",0,917,0,0,Fairview village
+OH,3905396,Belmore,incorporated,47,A,65,"Belmore, OH",0,918,0,0,Belmore village
+OH,3957918,Octa,incorporated,47,A,58,"Octa, OH",0,919,0,0,Octa village
+OH,3938192,Jacksonburg,incorporated,47,A,55,"Jacksonburg, OH",0,920,0,0,Jacksonburg village
+OH,3924794,Elgin,incorporated,47,A,49,"Elgin, OH",0,921,0,0,Elgin village
+OH,3935864,Holiday City,incorporated,47,A,48,"Holiday City, OH",0,922,0,0,Holiday City village
+OH,3950722,Miltonsburg,incorporated,47,A,42,"Miltonsburg, OH",0,923,0,0,Miltonsburg village
+OH,3966222,Rendville,incorporated,47,I,28,"Rendville, OH",0,924,0,0,Rendville village
+OH,3908859,Brinkhaven,incorporated,47,A,0,"Brinkhaven, OH",0,925,0,0,Brinkhaven village

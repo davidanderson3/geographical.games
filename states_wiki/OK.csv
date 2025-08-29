@@ -1,0 +1,600 @@
+stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
+OK,4055000,Oklahoma City,incorporated,25,A,681054,"Oklahoma City, OK",0,1,88,0.352,Oklahoma City city
+OK,4075000,Tulsa,incorporated,25,A,413066,"Tulsa, OK",0,2,26,0.104,Tulsa city
+OK,4052500,Norman,incorporated,25,A,128026,"Norman, OK",0,3,16,0.064,Norman city
+OK,4009050,Broken Arrow,incorporated,25,A,113540,"Broken Arrow, OK",0,4,10,0.04,Broken Arrow city
+OK,4023200,Edmond,incorporated,25,A,94428,"Edmond, OK",0,5,9,0.036,Edmond city
+OK,4041850,Lawton,incorporated,25,A,90381,"Lawton, OK",0,6,6,0.024,Lawton city
+OK,4049200,Moore,incorporated,25,A,62793,"Moore, OK",0,7,5,0.02,Moore city
+OK,4048350,Midwest City,incorporated,25,A,58409,"Midwest City, OK",0,8,4,0.016,Midwest City city
+OK,4023950,Enid,incorporated,25,A,51308,"Enid, OK",0,9,5,0.02,Enid city
+OK,4070300,Stillwater,incorporated,25,A,48394,"Stillwater, OK",0,10,3,0.012,Stillwater city
+OK,4056650,Owasso,incorporated,25,A,38240,"Owasso, OK",0,11,4,0.016,Owasso city
+OK,4004450,Bartlesville,incorporated,25,A,37290,"Bartlesville, OK",0,12,4,0.016,Bartlesville city
+OK,4050050,Muskogee,incorporated,25,A,36878,"Muskogee, OK",0,13,2,0.008,Muskogee city
+OK,4066800,Shawnee,incorporated,25,A,31377,"Shawnee, OK",0,14,2,0.008,Shawnee city
+OK,4006400,Bixby,incorporated,25,A,28609,"Bixby, OK",0,15,3,0.012,Bixby city
+OK,4037800,Jenks,incorporated,25,A,25949,"Jenks, OK",0,16,3,0.012,Jenks city
+OK,4002600,Ardmore,incorporated,25,A,24725,"Ardmore, OK",0,17,3,0.012,Ardmore city
+OK,4059850,Ponca City,incorporated,25,A,24424,"Ponca City, OK",0,18,3,0.012,Ponca City city
+OK,4082950,Yukon,incorporated,25,A,23630,"Yukon, OK",0,19,2,0.008,Yukon city
+OK,4021900,Duncan,incorporated,25,A,22692,"Duncan, OK",0,20,1,0.004,Duncan city
+OK,4065400,Sapulpa,incorporated,25,A,21929,"Sapulpa, OK",0,21,1,0.004,Sapulpa city
+OK,4019900,Del City,incorporated,25,A,21822,"Del City, OK",0,22,1,0.004,Del City city
+OK,4005700,Bethany,incorporated,25,A,20831,"Bethany, OK",0,23,1,0.004,Bethany city
+OK,4050100,Mustang,incorporated,25,A,19879,"Mustang, OK",0,24,1,0.004,Mustang city
+OK,4065300,Sand Springs,incorporated,25,A,19874,"Sand Springs, OK",0,25,1,0.004,Sand Springs city
+OK,4014700,Claremore,incorporated,25,A,19580,"Claremore, OK",0,26,2,0.008,Claremore city
+OK,4001700,Altus,incorporated,25,A,18729,"Altus, OK",0,27,2,0.008,Altus city
+OK,4022050,Durant,incorporated,25,A,18589,"Durant, OK",0,28,2,0.008,Durant city
+OK,4044800,McAlester,incorporated,25,A,18171,"McAlester, OK",0,29,2,0.008,McAlester city
+OK,4023700,El Reno,incorporated,25,A,16989,"El Reno, OK",0,30,2,0.008,El Reno city
+OK,4000200,Ada,incorporated,25,A,16481,"Ada, OK",0,31,2,0.008,Ada city
+OK,4072100,Tahlequah,incorporated,25,A,16209,"Tahlequah, OK",0,32,2,0.008,Tahlequah city
+OK,4013950,Chickasha,incorporated,25,A,16051,"Chickasha, OK",0,33,2,0.008,Chickasha city
+OK,4029600,Glenpool,incorporated,25,A,13691,"Glenpool, OK",0,34,2,0.008,Glenpool city
+OK,4048000,Miami,incorporated,25,A,12969,"Miami, OK",0,35,2,0.008,Miami city
+OK,4031750,Guymon,incorporated,25,A,12965,"Guymon, OK",0,36,2,0.008,Guymon city
+OK,4014200,Choctaw,incorporated,25,A,12182,"Choctaw, OK",0,37,2,0.008,Choctaw city
+OK,4082150,Woodward,incorporated,25,A,12133,"Woodward, OK",0,38,2,0.008,Woodward city
+OK,4079450,Weatherford,incorporated,25,A,12076,"Weatherford, OK",0,39,2,0.008,Weatherford city
+OK,4023500,Elk City,incorporated,25,A,11561,"Elk City, OK",0,40,2,0.008,Elk City city
+OK,4055150,Okmulgee,incorporated,25,A,11322,"Okmulgee, OK",0,41,2,0.008,Okmulgee city
+OK,4051150,Newcastle,incorporated,25,A,10984,"Newcastle, OK",0,42,2,0.008,Newcastle city
+OK,4031700,Guthrie,incorporated,25,A,10749,"Guthrie, OK",0,43,2,0.008,Guthrie city
+OK,4078500,Warr Acres,incorporated,25,A,10452,"Warr Acres, OK",0,44,2,0.008,Warr Acres city
+OK,4017800,Coweta,incorporated,25,A,9654,"Coweta, OK",0,45,2,0.008,Coweta city
+OK,4073250,The Village,incorporated,25,A,9538,"The Village, OK",0,46,1,0.004,The Village city
+OK,4061000,Pryor Creek,incorporated,25,A,9444,"Pryor Creek, OK",0,47,1,0.004,Pryor Creek city
+OK,4006700,Blanchard,incorporated,25,A,8879,"Blanchard, OK",0,48,1,0.004,Blanchard city
+OK,4060350,Poteau,incorporated,25,A,8807,"Poteau, OK",0,49,1,0.004,Poteau city
+OK,4015400,Clinton,incorporated,25,A,8521,"Clinton, OK",0,50,1,0.004,Clinton city
+OK,4065000,Sallisaw,incorporated,25,A,8510,"Sallisaw, OK",0,51,1,0.004,Sallisaw city
+OK,4067850,Skiatook,incorporated,25,A,8450,"Skiatook, OK",0,52,0,0,Skiatook city
+OK,4018850,Cushing,incorporated,25,A,8327,"Cushing, OK",0,53,0,0,Cushing city
+OK,4016350,Collinsville,incorporated,25,A,7881,"Collinsville, OK",0,54,0,0,Collinsville city
+OK,4077850,Wagoner,incorporated,25,A,7621,"Wagoner, OK",0,55,0,0,Wagoner city
+OK,4012900,Catoosa,incorporated,25,A,7440,"Catoosa, OK",0,56,0,0,Catoosa city
+OK,4075450,Tuttle,incorporated,25,A,7413,"Tuttle, OK",0,57,0,0,Tuttle city
+OK,4058700,Piedmont,incorporated,25,A,7402,"Piedmont, OK",0,58,0,0,Piedmont city
+OK,4066350,Seminole,incorporated,25,A,7146,"Seminole, OK",0,59,0,0,Seminole city
+OK,4052150,Noble,incorporated,25,A,6985,"Noble, OK",0,60,0,0,Noble city
+OK,4036750,Idabel,incorporated,25,A,6961,"Idabel, OK",0,61,0,0,Idabel city
+OK,4031600,Grove,incorporated,25,A,6956,"Grove, OK",0,62,0,0,Grove city
+OK,4061150,Purcell,incorporated,25,A,6651,"Purcell, OK",0,63,0,0,Purcell city
+OK,4072650,Tecumseh,incorporated,25,A,6302,"Tecumseh, OK",0,64,0,0,Tecumseh city
+OK,4032750,Harrah,incorporated,25,A,6245,"Harrah, OK",0,65,0,0,Harrah city
+OK,4006600,Blackwell,incorporated,25,A,6085,"Blackwell, OK",0,66,0,0,Blackwell city
+OK,4057550,Pauls Valley,incorporated,25,A,5992,"Pauls Valley, OK",0,67,0,0,Pauls Valley city
+OK,4035400,Holdenville,incorporated,25,A,5934,"Holdenville, OK",0,68,0,0,Holdenville city
+OK,4002050,Anadarko,incorporated,25,A,5745,"Anadarko, OK",0,69,0,0,Anadarko city
+OK,4033750,Henryetta,incorporated,25,A,5640,"Henryetta, OK",0,70,0,0,Henryetta city
+OK,4077050,Verdigris,incorporated,43,A,5256,"Verdigris, OK",0,71,0,0,Verdigris town
+OK,4077550,Vinita,incorporated,25,A,5193,"Vinita, OK",0,72,0,0,Vinita city
+OK,4036300,Hugo,incorporated,25,A,5166,"Hugo, OK",0,73,0,0,Hugo city
+OK,4071350,Sulphur,incorporated,25,A,5065,"Sulphur, OK",0,74,0,0,Sulphur city
+OK,4001800,Alva,incorporated,25,A,5028,"Alva, OK",0,75,0,0,Alva city
+OK,4043750,Lone Grove,incorporated,25,A,4993,"Lone Grove, OK",0,76,0,0,Lone Grove city
+OK,4034750,Hinton,incorporated,43,A,4917,"Hinton, OK",0,77,0,0,Hinton town
+OK,4039850,Kingfisher,incorporated,25,A,4903,"Kingfisher, OK",0,78,0,0,Kingfisher city
+OK,4065700,Sayre,incorporated,25,A,4809,"Sayre, OK",0,79,0,0,Sayre city
+OK,4058250,Perry,incorporated,25,A,4484,"Perry, OK",0,80,0,0,Perry city
+OK,4046600,Marlow,incorporated,25,A,4385,"Marlow, OK",0,81,0,0,Marlow city
+OK,4045350,McLoud,incorporated,25,A,4351,"McLoud, OK",0,82,0,0,McLoud city
+OK,4059750,Pocola,incorporated,43,A,4255,"Pocola, OK",0,83,0,0,Pocola town
+OK,4008900,Bristow,incorporated,25,A,4248,"Bristow, OK",0,84,0,0,Bristow city
+OK,4009100,Broken Bow,incorporated,25,A,4228,"Broken Bow, OK",0,85,0,0,Broken Bow city
+OK,4067950,Slaughterville,incorporated,43,A,4163,"Slaughterville, OK",0,86,0,0,Slaughterville town
+OK,4069200,Spencer,incorporated,25,A,3978,"Spencer, OK",0,87,0,0,Spencer city
+OK,4045750,Madill,incorporated,25,A,3914,"Madill, OK",0,88,0,0,Madill city
+OK,4051800,Nichols Hills,incorporated,25,A,3870,"Nichols Hills, OK",0,89,0,0,Nichols Hills city
+OK,4027200,Fort Gibson,incorporated,43,A,3814,"Fort Gibson, OK",0,90,0,0,Fort Gibson town
+OK,4070350,Stilwell,incorporated,25,A,3700,"Stilwell, OK",0,91,0,0,Stilwell city
+OK,4023450,Elgin,incorporated,25,A,3656,"Elgin, OK",0,92,0,0,Elgin city
+OK,4052900,Nowata,incorporated,25,A,3517,"Nowata, OK",0,93,0,0,Nowata city
+OK,4027800,Frederick,incorporated,25,A,3468,"Frederick, OK",0,94,0,0,Frederick city
+OK,4035000,Hobart,incorporated,25,A,3413,"Hobart, OK",0,95,0,0,Hobart city
+OK,4020550,Dewey,incorporated,25,A,3372,"Dewey, OK",0,96,0,0,Dewey city
+OK,4035850,Hominy,incorporated,25,A,3329,"Hominy, OK",0,97,0,0,Hominy city
+OK,4063800,Roland,incorporated,43,A,3316,"Roland, OK",0,98,0,0,Roland town
+OK,4049850,Muldrow,incorporated,43,A,3272,"Muldrow, OK",0,99,0,0,Muldrow town
+OK,4046200,Mannford,incorporated,43,A,3262,"Mannford, OK",0,100,0,0,Mannford town
+OK,4015350,Cleveland,incorporated,25,A,3205,"Cleveland, OK",0,101,0,0,Cleveland city
+OK,4058150,Perkins,incorporated,25,A,3205,"Perkins, OK",0,102,0,0,Perkins city
+OK,4003300,Atoka,incorporated,25,A,3195,"Atoka, OK",0,103,0,0,Atoka city
+OK,4080550,Wewoka,incorporated,25,A,3133,"Wewoka, OK",0,104,0,0,Wewoka city
+OK,4073900,Tishomingo,incorporated,25,A,3101,"Tishomingo, OK",0,105,0,0,Tishomingo city
+OK,4054200,Okemah,incorporated,25,A,3074,"Okemah, OK",0,106,0,0,Okemah city
+OK,4005800,Bethel Acres,incorporated,43,A,3029,"Bethel Acres, OK",0,107,0,0,Bethel Acres town
+OK,4013650,Checotah,incorporated,25,A,3018,"Checotah, OK",0,108,0,0,Checotah city
+OK,4074150,Tonkawa,incorporated,25,A,3015,"Tonkawa, OK",0,109,0,0,Tonkawa city
+OK,4033400,Heavener,incorporated,25,A,2985,"Heavener, OK",0,110,0,0,Heavener city
+OK,4057600,Pawhuska,incorporated,25,A,2984,"Pawhuska, OK",0,111,0,0,Pawhuska city
+OK,4010700,Cache,incorporated,25,A,2930,"Cache, OK",0,112,0,0,Cache city
+OK,4010950,Calera,incorporated,43,A,2916,"Calera, OK",0,113,0,0,Calera town
+OK,4038350,Jones,incorporated,43,A,2885,"Jones, OK",0,114,0,0,Jones town
+OK,4043150,Lindsay,incorporated,25,A,2864,"Lindsay, OK",0,115,0,0,Lindsay city
+OK,4013500,Chandler,incorporated,25,A,2858,"Chandler, OK",0,116,0,0,Chandler city
+OK,4019450,Davis,incorporated,25,A,2823,"Davis, OK",0,117,0,0,Davis city
+OK,4051250,New Cordell,incorporated,25,A,2775,"New Cordell, OK",0,118,0,0,New Cordell city
+OK,4024650,Eufaula,incorporated,25,A,2766,"Eufaula, OK",0,119,0,0,Eufaula city
+OK,4046050,Mangum,incorporated,25,A,2762,"Mangum, OK",0,120,0,0,Mangum city
+OK,4025100,Fairview,incorporated,25,A,2740,"Fairview, OK",0,121,0,0,Fairview city
+OK,4046500,Marietta,incorporated,25,A,2719,"Marietta, OK",0,122,0,0,Marietta city
+OK,4071000,Stroud,incorporated,25,A,2719,"Stroud, OK",0,123,0,0,Stroud city
+OK,4070250,Stigler,incorporated,25,A,2703,"Stigler, OK",0,124,0,0,Stigler city
+OK,4029850,Goldsby,incorporated,43,A,2694,"Goldsby, OK",0,125,0,0,Goldsby town
+OK,4078950,Watonga,incorporated,25,A,2690,"Watonga, OK",0,126,0,0,Watonga city
+OK,4021750,Drumright,incorporated,25,A,2560,"Drumright, OK",0,127,0,0,Drumright city
+OK,4037650,Jay,incorporated,25,A,2425,"Jay, OK",0,128,0,0,Jay city
+OK,4078150,Walters,incorporated,25,A,2412,"Walters, OK",0,129,0,0,Walters city
+OK,4060500,Prague,incorporated,25,A,2356,"Prague, OK",0,130,0,0,Prague city
+OK,4033350,Healdton,incorporated,25,A,2328,"Healdton, OK",0,131,0,0,Healdton city
+OK,4051850,Nicoma Park,incorporated,25,A,2313,"Nicoma Park, OK",0,132,0,0,Nicoma Park city
+OK,4081000,Wilburton,incorporated,25,A,2285,"Wilburton, OK",0,133,0,0,Wilburton city
+OK,4016500,Commerce,incorporated,25,A,2271,"Commerce, OK",0,134,0,0,Commerce city
+OK,4002250,Antlers,incorporated,25,A,2221,"Antlers, OK",0,135,0,0,Antlers city
+OK,4039750,Kiefer,incorporated,43,A,2187,"Kiefer, OK",0,136,0,0,Kiefer town
+OK,4051300,Newkirk,incorporated,25,A,2172,"Newkirk, OK",0,137,0,0,Newkirk city
+OK,4033700,Hennessey,incorporated,43,A,2151,"Hennessey, OK",0,138,0,0,Hennessey town
+OK,4069350,Spiro,incorporated,43,A,2102,"Spiro, OK",0,139,0,0,Spiro town
+OK,4059150,Pink,incorporated,43,A,2091,"Pink, OK",0,140,0,0,Pink town
+OK,4040300,Krebs,incorporated,25,A,2083,"Krebs, OK",0,141,0,0,Krebs city
+OK,4014300,Chouteau,incorporated,43,A,2059,"Chouteau, OK",0,142,0,0,Chouteau town
+OK,4042700,Lexington,incorporated,25,A,2010,"Lexington, OK",0,143,0,0,Lexington city
+OK,4013700,Chelsea,incorporated,43,A,1991,"Chelsea, OK",0,144,0,0,Chelsea town
+OK,4010250,Burns Flat,incorporated,43,A,1948,"Burns Flat, OK",0,145,0,0,Burns Flat town
+OK,4032850,Hartshorne,incorporated,25,A,1947,"Hartshorne, OK",0,146,0,0,Hartshorne city
+OK,4057650,Pawnee,incorporated,25,A,1936,"Pawnee, OK",0,147,0,0,Pawnee city
+OK,4082400,Wynnewood,incorporated,25,A,1927,"Wynnewood, OK",0,148,0,0,Wynnewood city
+OK,4037100,Inola,incorporated,43,A,1890,"Inola, OK",0,149,0,0,Inola town
+OK,4079250,Waurika,incorporated,25,A,1837,"Waurika, OK",0,150,0,0,Waurika city
+OK,4002650,Arkoma,incorporated,43,A,1806,"Arkoma, OK",0,151,0,0,Arkoma town
+OK,4036000,Hooker,incorporated,25,A,1802,"Hooker, OK",0,152,0,0,Hooker city
+OK,4035500,Hollis,incorporated,25,A,1795,"Hollis, OK",0,153,0,0,Hollis city
+OK,4075950,Union City,incorporated,43,A,1794,"Union City, OK",0,154,0,0,Union City town
+OK,4015800,Coalgate,incorporated,25,A,1667,"Coalgate, OK",0,155,0,0,Coalgate city
+OK,4030950,Granite,incorporated,43,A,1628,"Granite, OK",0,156,0,0,Granite town
+OK,4032900,Haskell,incorporated,43,A,1626,"Haskell, OK",0,157,0,0,Haskell town
+OK,4041550,Langston,incorporated,43,A,1619,"Langston, OK",0,158,0,0,Langston town
+OK,4078400,Warner,incorporated,43,A,1593,"Warner, OK",0,159,0,0,Warner town
+OK,4033450,Helena,incorporated,43,A,1537,"Helena, OK",0,160,0,0,Helena town
+OK,4048750,Minco,incorporated,25,A,1500,"Minco, OK",0,161,0,0,Minco city
+OK,4044500,Luther,incorporated,43,A,1492,"Luther, OK",0,162,0,0,Luther town
+OK,4013750,Cherokee,incorporated,25,A,1476,"Cherokee, OK",0,163,0,0,Cherokee city
+OK,4039900,Kingston,incorporated,43,A,1431,"Kingston, OK",0,164,0,0,Kingston town
+OK,4012050,Carnegie,incorporated,43,A,1430,"Carnegie, OK",0,165,0,0,Carnegie town
+OK,4070800,Stratford,incorporated,43,A,1405,"Stratford, OK",0,166,0,0,Stratford town
+OK,4081500,Wilson,incorporated,25,A,1399,"Wilson, OK",0,167,0,0,Wilson city
+OK,4010600,Byng,incorporated,43,A,1393,"Byng, OK",0,168,0,0,Byng town
+OK,4016450,Comanche,incorporated,25,A,1378,"Comanche, OK",0,169,0,0,Comanche city
+OK,4077250,Vian,incorporated,43,A,1374,"Vian, OK",0,170,0,0,Vian town
+OK,4043500,Locust Grove,incorporated,43,A,1371,"Locust Grove, OK",0,171,0,0,Locust Grove town
+OK,4080450,Westville,incorporated,43,A,1364,"Westville, OK",0,172,0,0,Westville town
+OK,4079200,Waukomis,incorporated,43,A,1349,"Waukomis, OK",0,173,0,0,Waukomis town
+OK,4020700,Dickson,incorporated,43,A,1331,"Dickson, OK",0,174,0,0,Dickson town
+OK,4055750,Oologah,incorporated,43,A,1305,"Oologah, OK",0,175,0,0,Oologah town
+OK,4068400,Snyder,incorporated,25,A,1301,"Snyder, OK",0,176,0,0,Snyder city
+OK,4018250,Crescent,incorporated,25,A,1299,"Crescent, OK",0,177,0,0,Crescent city
+OK,4049400,Morris,incorporated,25,A,1299,"Morris, OK",0,178,0,0,Morris city
+OK,4040200,Konawa,incorporated,25,A,1288,"Konawa, OK",0,179,0,0,Konawa city
+OK,4004750,Beaver,incorporated,43,A,1280,"Beaver, OK",0,180,0,0,Beaver town
+OK,4056900,Panama,incorporated,43,A,1269,"Panama, OK",0,181,0,0,Panama town
+OK,4066750,Shattuck,incorporated,43,A,1249,"Shattuck, OK",0,182,0,0,Shattuck town
+OK,4041700,Laverne,incorporated,43,A,1223,"Laverne, OK",0,183,0,0,Laverne town
+OK,4026350,Fletcher,incorporated,43,A,1204,"Fletcher, OK",0,184,0,0,Fletcher town
+OK,4013135,Central High,incorporated,43,A,1181,"Central High, OK",0,185,0,0,Central High town
+OK,4005000,Beggs,incorporated,25,A,1179,"Beggs, OK",0,186,0,0,Beggs city
+OK,4049250,Mooreland,incorporated,43,A,1178,"Mooreland, OK",0,187,0,0,Mooreland town
+OK,4007300,Boise City,incorporated,25,A,1166,"Boise City, OK",0,188,0,0,Boise City city
+OK,4029100,Geronimo,incorporated,43,A,1158,"Geronimo, OK",0,189,0,0,Geronimo town
+OK,4073450,Thomas,incorporated,25,A,1143,"Thomas, OK",0,190,0,0,Thomas city
+OK,4054050,Okarche,incorporated,43,A,1141,"Okarche, OK",0,191,0,0,Okarche town
+OK,4024850,Fairfax,incorporated,43,A,1136,"Fairfax, OK",0,192,0,0,Fairfax town
+OK,4080500,Wetumka,incorporated,25,A,1135,"Wetumka, OK",0,193,0,0,Wetumka city
+OK,4069300,Sperry,incorporated,43,A,1115,"Sperry, OK",0,194,0,0,Sperry town
+OK,4024900,Fairland,incorporated,43,A,1106,"Fairland, OK",0,195,0,0,Fairland town
+OK,4007500,Boley,incorporated,43,A,1091,"Boley, OK",0,196,0,0,Boley town
+OK,4054150,Okeene,incorporated,43,A,1090,"Okeene, OK",0,197,0,0,Okeene town
+OK,4047150,Maysville,incorporated,43,A,1087,"Maysville, OK",0,198,0,0,Maysville town
+OK,4064950,Salina,incorporated,43,A,1085,"Salina, OK",0,199,0,0,Salina town
+OK,4082500,Yale,incorporated,25,A,1059,"Yale, OK",0,200,0,0,Yale city
+OK,4026850,Forest Park,incorporated,43,A,1049,"Forest Park, OK",0,201,0,0,Forest Park town
+OK,4009850,Buffalo,incorporated,43,A,1039,"Buffalo, OK",0,202,0,0,Buffalo town
+OK,4002300,Apache,incorporated,43,A,1034,"Apache, OK",0,203,0,0,Apache town
+OK,4004250,Barnsdall,incorporated,25,A,1034,"Barnsdall, OK",0,204,0,0,Barnsdall city
+OK,4081750,Wister,incorporated,43,A,1031,"Wister, OK",0,205,0,0,Wister town
+OK,4016050,Colbert,incorporated,43,A,1027,"Colbert, OK",0,206,0,0,Colbert town
+OK,4039000,Kellyville,incorporated,43,A,1019,"Kellyville, OK",0,207,0,0,Kellyville town
+OK,4010800,Caddo,incorporated,43,A,1017,"Caddo, OK",0,208,0,0,Caddo town
+OK,4047450,Meeker,incorporated,43,A,1004,"Meeker, OK",0,209,0,0,Meeker town
+OK,4052600,North Enid,incorporated,43,A,1003,"North Enid, OK",0,210,0,0,North Enid town
+OK,4024200,Erick,incorporated,25,A,1000,"Erick, OK",0,211,0,0,Erick city
+OK,4080350,West Siloam Springs,incorporated,43,A,1000,"West Siloam Springs, OK",0,212,0,0,West Siloam Springs town
+OK,4064300,Rush Springs,incorporated,43,A,997,"Rush Springs, OK",0,213,0,0,Rush Springs town
+OK,4028900,Geary,incorporated,25,A,994,"Geary, OK",0,214,0,0,Geary city
+OK,4066550,Shady Point,incorporated,43,A,972,"Shady Point, OK",0,215,0,0,Shady Point town
+OK,4008550,Bray,incorporated,43,A,952,"Bray, OK",0,216,0,0,Bray town
+OK,4030200,Goodwell,incorporated,43,A,951,"Goodwell, OK",0,217,0,0,Goodwell town
+OK,4030300,Gore,incorporated,43,A,951,"Gore, OK",0,218,0,0,Gore town
+OK,4047300,Medford,incorporated,25,A,932,"Medford, OK",0,219,0,0,Medford city
+OK,4049550,Mounds,incorporated,43,A,932,"Mounds, OK",0,220,0,0,Mounds town
+OK,4036700,Hydro,incorporated,43,A,927,"Hydro, OK",0,221,0,0,Hydro town
+OK,4072250,Talihina,incorporated,43,A,925,"Talihina, OK",0,222,0,0,Talihina town
+OK,4030850,Grandfield,incorporated,25,A,919,"Grandfield, OK",0,223,0,0,Grandfield city
+OK,4054000,Oilton,incorporated,25,A,885,"Oilton, OK",0,224,0,0,Oilton city
+OK,4059950,Pond Creek,incorporated,25,A,885,"Pond Creek, OK",0,225,0,0,Pond Creek city
+OK,4063350,Ringling,incorporated,43,A,869,"Ringling, OK",0,226,0,0,Ringling town
+OK,4020650,Dibble,incorporated,43,A,867,"Dibble, OK",0,227,0,0,Dibble town
+OK,4046900,Maud,incorporated,25,A,867,"Maud, OK",0,228,0,0,Maud city
+OK,4073850,Tipton,incorporated,43,A,864,"Tipton, OK",0,229,0,0,Tipton town
+OK,4061550,Quinton,incorporated,43,A,863,"Quinton, OK",0,230,0,0,Quinton town
+OK,4072750,Temple,incorporated,43,A,862,"Temple, OK",0,231,0,0,Temple town
+OK,4073100,Texhoma,incorporated,43,A,856,"Texhoma, OK",0,232,0,0,Texhoma town
+OK,4012650,Cashion,incorporated,43,A,850,"Cashion, OK",0,233,0,0,Cashion town
+OK,4066250,Seiling,incorporated,25,A,850,"Seiling, OK",0,234,0,0,Seiling city
+OK,4053400,Oakland,incorporated,43,A,831,"Oakland, OK",0,235,0,0,Oakland town
+OK,4019000,Cyril,incorporated,43,A,827,"Cyril, OK",0,236,0,0,Cyril town
+OK,4076650,Valliant,incorporated,43,A,819,"Valliant, OK",0,237,0,0,Valliant town
+OK,4061400,Quapaw,incorporated,43,A,811,"Quapaw, OK",0,238,0,0,Quapaw town
+OK,4019350,Davenport,incorporated,43,A,809,"Davenport, OK",0,239,0,0,Davenport town
+OK,4079800,Weleetka,incorporated,43,A,806,"Weleetka, OK",0,240,0,0,Weleetka town
+OK,4001400,Allen,incorporated,43,A,805,"Allen, OK",0,241,0,0,Allen town
+OK,4052100,Ninnekah,incorporated,43,A,775,"Ninnekah, OK",0,242,0,0,Ninnekah town
+OK,4013900,Cheyenne,incorporated,43,A,771,"Cheyenne, OK",0,243,0,0,Cheyenne town
+OK,4020500,Dewar,incorporated,43,A,763,"Dewar, OK",0,244,0,0,Dewar town
+OK,4066400,Sentinel,incorporated,43,A,763,"Sentinel, OK",0,245,0,0,Sentinel town
+OK,4049650,Mountain View,incorporated,43,A,740,"Mountain View, OK",0,246,0,0,Mountain View town
+OK,4023600,Elmore City,incorporated,43,A,738,"Elmore City, OK",0,247,0,0,Elmore City town
+OK,4000600,Afton,incorporated,43,A,734,"Afton, OK",0,248,0,0,Afton town
+OK,4000250,Adair,incorporated,43,A,732,"Adair, OK",0,249,0,0,Adair town
+OK,4075750,Tyrone,incorporated,43,A,729,"Tyrone, OK",0,250,0,0,Tyrone town
+OK,4016100,Colcord,incorporated,43,A,728,"Colcord, OK",0,251,0,0,Colcord town
+OK,4046300,Mannsville,incorporated,43,A,728,"Mannsville, OK",0,252,0,0,Mannsville town
+OK,4006650,Blair,incorporated,43,A,727,"Blair, OK",0,253,0,0,Blair town
+OK,4028500,Garber,incorporated,25,A,725,"Garber, OK",0,254,0,0,Garber city
+OK,4049450,Morrison,incorporated,43,A,723,"Morrison, OK",0,255,0,0,Morrison town
+OK,4063600,Rock Island,incorporated,43,A,717,"Rock Island, OK",0,256,0,0,Rock Island town
+OK,4031900,Haileyville,incorporated,25,A,716,"Haileyville, OK",0,257,0,0,Haileyville city
+OK,4038600,Kansas,incorporated,43,A,711,"Kansas, OK",0,258,0,0,Kansas town
+OK,4017100,Copan,incorporated,43,A,710,"Copan, OK",0,259,0,0,Copan town
+OK,4079350,Waynoka,incorporated,25,A,708,"Waynoka, OK",0,260,0,0,Waynoka city
+OK,4023900,Empire City,incorporated,43,A,703,"Empire City, OK",0,261,0,0,Empire City town
+OK,4069500,Springer,incorporated,43,A,685,"Springer, OK",0,262,0,0,Springer town
+OK,4068600,South Coffeyville,incorporated,43,A,683,"South Coffeyville, OK",0,263,0,0,South Coffeyville town
+OK,4079900,Wellston,incorporated,43,A,679,"Wellston, OK",0,264,0,0,Wellston town
+OK,4078700,Washington,incorporated,43,A,673,"Washington, OK",0,265,0,0,Washington town
+OK,4002500,Arapaho,incorporated,43,A,668,"Arapaho, OK",0,266,0,0,Arapaho town
+OK,4070150,Sterling,incorporated,43,A,668,"Sterling, OK",0,267,0,0,Sterling town
+OK,4064600,Ryan,incorporated,43,A,667,"Ryan, OK",0,268,0,0,Ryan town
+OK,4076500,Valley Brook,incorporated,43,A,665,"Valley Brook, OK",0,269,0,0,Valley Brook town
+OK,4063750,Roff,incorporated,43,A,632,"Roff, OK",0,270,0,0,Roff town
+OK,4036150,Howe,incorporated,43,A,625,"Howe, OK",0,271,0,0,Howe town
+OK,4079300,Wayne,incorporated,43,A,625,"Wayne, OK",0,272,0,0,Wayne town
+OK,4016200,Cole,incorporated,43,A,624,"Cole, OK",0,273,0,0,Cole town
+OK,4065600,Savanna,incorporated,43,A,623,"Savanna, OK",0,274,0,0,Savanna town
+OK,4079750,Welch,incorporated,43,A,622,"Welch, OK",0,275,0,0,Welch town
+OK,4082200,Wright City,incorporated,43,A,616,"Wright City, OK",0,276,0,0,Wright City town
+OK,4077300,Vici,incorporated,43,A,611,"Vici, OK",0,277,0,0,Vici town
+OK,4041500,Langley,incorporated,43,A,606,"Langley, OK",0,278,0,0,Langley town
+OK,4060250,Porum,incorporated,43,A,602,"Porum, OK",0,279,0,0,Porum town
+OK,4040000,Kiowa,incorporated,43,A,595,"Kiowa, OK",0,280,0,0,Kiowa town
+OK,4022500,Earlsboro,incorporated,43,A,594,"Earlsboro, OK",0,281,0,0,Earlsboro town
+OK,4017300,Corn,incorporated,43,A,592,"Corn, OK",0,282,0,0,Corn town
+OK,4057100,Paoli,incorporated,43,A,583,"Paoli, OK",0,283,0,0,Paoli town
+OK,4007750,Boswell,incorporated,43,A,579,"Boswell, OK",0,284,0,0,Boswell town
+OK,4006100,Billings,incorporated,43,A,578,"Billings, OK",0,285,0,0,Billings town
+OK,4007350,Bokchito,incorporated,43,A,574,"Bokchito, OK",0,286,0,0,Bokchito town
+OK,4060150,Porter,incorporated,43,A,561,"Porter, OK",0,287,0,0,Porter town
+OK,4014900,Clayton,incorporated,43,A,555,"Clayton, OK",0,288,0,0,Clayton town
+OK,4076900,Velma,incorporated,43,A,554,"Velma, OK",0,289,0,0,Velma town
+OK,4081575,Winchester,incorporated,43,A,546,"Winchester, OK",0,290,0,0,Winchester town
+OK,4012100,Carney,incorporated,43,A,545,"Carney, OK",0,291,0,0,Carney town
+OK,4040700,Lahoma,incorporated,43,A,539,"Lahoma, OK",0,292,0,0,Lahoma town
+OK,4062550,Red Oak,incorporated,43,A,537,"Red Oak, OK",0,293,0,0,Red Oak town
+OK,4061700,Ramona,incorporated,43,A,524,"Ramona, OK",0,294,0,0,Ramona town
+OK,4027100,Fort Cobb,incorporated,43,A,518,"Fort Cobb, OK",0,295,0,0,Fort Cobb town
+OK,4077000,Verden,incorporated,43,A,508,"Verden, OK",0,296,0,0,Verden town
+OK,4054100,Okay,incorporated,43,A,505,"Okay, OK",0,297,0,0,Okay town
+OK,4029400,Glencoe,incorporated,43,A,499,"Glencoe, OK",0,298,0,0,Glencoe town
+OK,4002800,Arnett,incorporated,43,A,495,"Arnett, OK",0,299,0,0,Arnett town
+OK,4011650,Canute,incorporated,43,A,494,"Canute, OK",0,300,0,0,Canute town
+OK,4027400,Fort Towson,incorporated,43,A,492,"Fort Towson, OK",0,301,0,0,Fort Towson town
+OK,4082250,Wyandotte,incorporated,43,A,488,"Wyandotte, OK",0,302,0,0,Wyandotte town
+OK,4036400,Hulbert,incorporated,43,A,483,"Hulbert, OK",0,303,0,0,Hulbert town
+OK,4001250,Alex,incorporated,43,A,482,"Alex, OK",0,304,0,0,Alex town
+OK,4032250,Hammon,incorporated,43,A,479,"Hammon, OK",0,305,0,0,Hammon town
+OK,4017700,Covington,incorporated,43,A,472,"Covington, OK",0,306,0,0,Covington town
+OK,4039550,Ketchum,incorporated,43,A,471,"Ketchum, OK",0,307,0,0,Ketchum town
+OK,4011600,Canton,incorporated,43,A,468,"Canton, OK",0,308,0,0,Canton town
+OK,4055450,Olustee,incorporated,43,A,468,"Olustee, OK",0,309,0,0,Olustee town
+OK,4062000,Ravia,incorporated,43,A,464,"Ravia, OK",0,310,0,0,Ravia town
+OK,4038200,Johnson,incorporated,43,A,457,"Johnson, OK",0,311,0,0,Johnson town
+OK,4021700,Drummond,incorporated,43,A,455,"Drummond, OK",0,312,0,0,Drummond town
+OK,4026900,Forgan,incorporated,43,A,450,"Forgan, OK",0,313,0,0,Forgan town
+OK,4080250,Westport,incorporated,43,A,448,"Westport, OK",0,314,0,0,Westport town
+OK,4011050,Calumet,incorporated,43,A,443,"Calumet, OK",0,315,0,0,Calumet town
+OK,4006200,Binger,incorporated,43,A,438,"Binger, OK",0,316,0,0,Binger town
+OK,4039500,Keota,incorporated,43,A,437,"Keota, OK",0,317,0,0,Keota town
+OK,4013000,Cement,incorporated,43,A,436,"Cement, OK",0,318,0,0,Cement town
+OK,4028250,Gage,incorporated,43,A,433,"Gage, OK",0,319,0,0,Gage town
+OK,4053700,Ochelata,incorporated,43,A,427,"Ochelata, OK",0,320,0,0,Ochelata town
+OK,4005550,Bernice,incorporated,43,A,422,"Bernice, OK",0,321,0,0,Bernice town
+OK,4065900,Schulter,incorporated,43,A,422,"Schulter, OK",0,322,0,0,Schulter town
+OK,4020850,Dill City,incorporated,43,A,420,"Dill City, OK",0,323,0,0,Dill City town
+OK,4056800,Paden,incorporated,43,A,419,"Paden, OK",0,324,0,0,Paden town
+OK,4070850,Stringtown,incorporated,43,A,419,"Stringtown, OK",0,325,0,0,Stringtown town
+OK,4042050,Leedey,incorporated,43,A,415,"Leedey, OK",0,326,0,0,Leedey town
+OK,4070500,Stonewall,incorporated,43,A,414,"Stonewall, OK",0,327,0,0,Stonewall town
+OK,4001900,Amber,incorporated,43,A,413,"Amber, OK",0,328,0,0,Amber town
+OK,4075250,Tushka,incorporated,43,A,413,"Tushka, OK",0,329,0,0,Tushka town
+OK,4020300,Depew,incorporated,43,A,411,"Depew, OK",0,330,0,0,Depew town
+OK,4047350,Medicine Park,incorporated,43,A,411,"Medicine Park, OK",0,331,0,0,Medicine Park town
+OK,4012960,Cedar Valley,incorporated,25,A,405,"Cedar Valley, OK",0,332,0,0,Cedar Valley city
+OK,4063450,Ringwood,incorporated,43,A,401,"Ringwood, OK",0,333,0,0,Ringwood town
+OK,4013600,Chattanooga,incorporated,43,A,400,"Chattanooga, OK",0,334,0,0,Chattanooga town
+OK,4021350,Dover,incorporated,43,A,400,"Dover, OK",0,335,0,0,Dover town
+OK,4073200,Thackerville,incorporated,43,A,400,"Thackerville, OK",0,336,0,0,Thackerville town
+OK,4000100,Achille,incorporated,43,A,398,"Achille, OK",0,337,0,0,Achille town
+OK,4007450,Bokoshe,incorporated,43,A,396,"Bokoshe, OK",0,338,0,0,Bokoshe town
+OK,4022550,East Duke,incorporated,43,A,394,"East Duke, OK",0,339,0,0,East Duke town
+OK,4078300,Wapanucka,incorporated,43,A,386,"Wapanucka, OK",0,340,0,0,Wapanucka town
+OK,4067550,Silo,incorporated,43,A,384,"Silo, OK",0,341,0,0,Silo town
+OK,4074550,Tryon,incorporated,43,A,378,"Tryon, OK",0,342,0,0,Tryon town
+OK,4060850,Prue,incorporated,43,A,374,"Prue, OK",0,343,0,0,Prue town
+OK,4043850,Lone Wolf,incorporated,43,A,373,"Lone Wolf, OK",0,344,0,0,Lone Wolf town
+OK,4080800,Whitefield,incorporated,43,A,371,"Whitefield, OK",0,345,0,0,Whitefield town
+OK,4003000,Asher,incorporated,43,A,370,"Asher, OK",0,346,0,0,Asher town
+OK,4082450,Wynona,incorporated,43,A,370,"Wynona, OK",0,347,0,0,Wynona town
+OK,4027600,Foyil,incorporated,43,A,368,"Foyil, OK",0,348,0,0,Foyil town
+OK,4018950,Custer City,incorporated,43,A,367,"Custer City, OK",0,349,0,0,Custer City town
+OK,4012000,Carmen,incorporated,43,A,360,"Carmen, OK",0,350,0,0,Carmen town
+OK,4007950,Bowlegs,incorporated,43,A,357,"Bowlegs, OK",0,351,0,0,Bowlegs town
+OK,4044950,McCurtain,incorporated,43,A,355,"McCurtain, OK",0,352,0,0,McCurtain town
+OK,4017950,Coyle,incorporated,43,A,350,"Coyle, OK",0,353,0,0,Coyle town
+OK,4069050,Spavinaw,incorporated,43,A,350,"Spavinaw, OK",0,354,0,0,Spavinaw town
+OK,4063500,Ripley,incorporated,43,A,346,"Ripley, OK",0,355,0,0,Ripley town
+OK,4055200,Oktaha,incorporated,43,A,343,"Oktaha, OK",0,356,0,0,Oktaha town
+OK,4065650,Sawyer,incorporated,43,A,340,"Sawyer, OK",0,357,0,0,Sawyer town
+OK,4055850,Optima,incorporated,43,A,338,"Optima, OK",0,358,0,0,Optima town
+OK,4079650,Webbers Falls,incorporated,43,A,338,"Webbers Falls, OK",0,359,0,0,Webbers Falls town
+OK,4074400,Tribbey,incorporated,43,A,337,"Tribbey, OK",0,360,0,0,Tribbey town
+OK,4008725,Bridge Creek,incorporated,43,A,336,"Bridge Creek, OK",0,361,0,0,Bridge Creek town
+OK,4027150,Fort Coffee,incorporated,43,A,335,"Fort Coffee, OK",0,362,0,0,Fort Coffee town
+OK,4076950,Vera,incorporated,43,A,334,"Vera, OK",0,363,0,0,Vera town
+OK,4038700,Katie,incorporated,43,A,332,"Katie, OK",0,364,0,0,Katie town
+OK,4067200,Shidler,incorporated,25,A,328,"Shidler, OK",0,365,0,0,Shidler city
+OK,4022200,Dustin,incorporated,43,A,327,"Dustin, OK",0,366,0,0,Dustin town
+OK,4075050,Tupelo,incorporated,25,A,327,"Tupelo, OK",0,367,0,0,Tupelo city
+OK,4038800,Kaw City,incorporated,25,A,325,"Kaw City, OK",0,368,0,0,Kaw City city
+OK,4011300,Cameron,incorporated,43,A,323,"Cameron, OK",0,369,0,0,Cameron town
+OK,4049600,Mountain Park,incorporated,43,A,320,"Mountain Park, OK",0,370,0,0,Mountain Park town
+OK,4023350,Eldorado,incorporated,43,A,317,"Eldorado, OK",0,371,0,0,Eldorado town
+OK,4025400,Fanshawe,incorporated,43,A,317,"Fanshawe, OK",0,372,0,0,Fanshawe town
+OK,4027350,Fort Supply,incorporated,43,A,317,"Fort Supply, OK",0,373,0,0,Fort Supply town
+OK,4069400,Sportsmen Acres,incorporated,43,A,317,"Sportsmen Acres, OK",0,374,0,0,Sportsmen Acres town
+OK,4025450,Fargo,incorporated,43,A,312,"Fargo, OK",0,375,0,0,Fargo town
+OK,4000700,Agra,incorporated,43,A,311,"Agra, OK",0,376,0,0,Agra town
+OK,4077950,Wakita,incorporated,43,A,311,"Wakita, OK",0,377,0,0,Wakita town
+OK,4011100,Calvin,incorporated,43,A,309,"Calvin, OK",0,378,0,0,Calvin town
+OK,4018550,Crowder,incorporated,43,A,306,"Crowder, OK",0,379,0,0,Crowder town
+OK,4003500,Avant,incorporated,43,A,301,"Avant, OK",0,380,0,0,Avant town
+OK,4041350,Lamont,incorporated,43,A,301,"Lamont, OK",0,381,0,0,Lamont town
+OK,4022400,Eakly,incorporated,43,A,293,"Eakly, OK",0,382,0,0,Eakly town
+OK,4048500,Mill Creek,incorporated,43,A,293,"Mill Creek, OK",0,383,0,0,Mill Creek town
+OK,4033150,Haworth,incorporated,43,A,291,"Haworth, OK",0,384,0,0,Haworth town
+OK,4052700,North Miami,incorporated,43,A,290,"North Miami, OK",0,385,0,0,North Miami town
+OK,4061850,Randlett,incorporated,43,A,289,"Randlett, OK",0,386,0,0,Randlett town
+OK,4072350,Taloga,incorporated,43,A,288,"Taloga, OK",0,387,0,0,Taloga town
+OK,4015300,Cleo Springs,incorporated,43,A,287,"Cleo Springs, OK",0,388,0,0,Cleo Springs town
+OK,4039950,Kinta,incorporated,43,A,285,"Kinta, OK",0,389,0,0,Kinta town
+OK,4005400,Bennington,incorporated,43,A,282,"Bennington, OK",0,390,0,0,Bennington town
+OK,4037850,Jennings,incorporated,43,A,280,"Jennings, OK",0,391,0,0,Jennings town
+OK,4072900,Terral,incorporated,43,A,280,"Terral, OK",0,392,0,0,Terral town
+OK,4030600,Gracemont,incorporated,43,A,279,"Gracemont, OK",0,393,0,0,Gracemont town
+OK,4078200,Wanette,incorporated,43,A,279,"Wanette, OK",0,394,0,0,Wanette town
+OK,4039600,Keyes,incorporated,43,A,276,"Keyes, OK",0,395,0,0,Keyes town
+OK,4061950,Rattan,incorporated,43,A,276,"Rattan, OK",0,396,0,0,Rattan town
+OK,4036850,Indiahoma,incorporated,43,A,275,"Indiahoma, OK",0,397,0,0,Indiahoma town
+OK,4042200,Lehigh,incorporated,25,A,272,"Lehigh, OK",0,398,0,0,Lehigh city
+OK,4042300,Lenapah,incorporated,43,A,272,"Lenapah, OK",0,399,0,0,Lenapah town
+OK,4008400,Braggs,incorporated,43,A,270,"Braggs, OK",0,400,0,0,Braggs town
+OK,4019850,Delaware,incorporated,43,A,267,"Delaware, OK",0,401,0,0,Delaware town
+OK,4053550,Oaks,incorporated,43,A,267,"Oaks, OK",0,402,0,0,Oaks town
+OK,4061650,Ralston,incorporated,43,A,266,"Ralston, OK",0,403,0,0,Ralston town
+OK,4072200,Talala,incorporated,43,A,258,"Talala, OK",0,404,0,0,Talala town
+OK,4063900,Roosevelt,incorporated,43,A,254,"Roosevelt, OK",0,405,0,0,Roosevelt town
+OK,4048400,Milburn,incorporated,43,A,252,"Milburn, OK",0,406,0,0,Milburn town
+OK,4028350,Gans,incorporated,43,A,251,"Gans, OK",0,407,0,0,Gans town
+OK,4029900,Goltry,incorporated,43,A,251,"Goltry, OK",0,408,0,0,Goltry town
+OK,4040400,Kremlin,incorporated,43,A,247,"Kremlin, OK",0,409,0,0,Kremlin town
+OK,4027500,Foster,incorporated,43,A,246,"Foster, OK",0,410,0,0,Foster town
+OK,4062650,Red Rock,incorporated,43,A,245,"Red Rock, OK",0,411,0,0,Red Rock town
+OK,4027650,Francis,incorporated,43,A,244,"Francis, OK",0,412,0,0,Francis town
+OK,4035030,Hochatown,incorporated,43,A,242,"Hochatown, OK",0,413,0,0,Hochatown town
+OK,4019400,Davidson,incorporated,43,A,241,"Davidson, OK",0,414,0,0,Davidson town
+OK,4018450,Cromwell,incorporated,43,A,238,"Cromwell, OK",0,415,0,0,Cromwell town
+OK,4006950,Bluejacket,incorporated,43,A,235,"Bluejacket, OK",0,416,0,0,Bluejacket town
+OK,4047250,Mead,incorporated,43,A,227,"Mead, OK",0,417,0,0,Mead town
+OK,4079100,Watts,incorporated,43,A,227,"Watts, OK",0,418,0,0,Watts town
+OK,4068500,Soper,incorporated,43,A,225,"Soper, OK",0,419,0,0,Soper town
+OK,4020900,Disney,incorporated,43,A,222,"Disney, OK",0,420,0,0,Disney town
+OK,4001150,Alderson,incorporated,43,A,220,"Alderson, OK",0,421,0,0,Alderson town
+OK,4048600,Millerton,incorporated,43,A,215,"Millerton, OK",0,422,0,0,Millerton town
+OK,4049900,Mulhall,incorporated,43,A,212,"Mulhall, OK",0,423,0,0,Mulhall town
+OK,4046650,Marshall,incorporated,43,A,210,"Marshall, OK",0,424,0,0,Marshall town
+OK,4010450,Butler,incorporated,43,A,208,"Butler, OK",0,425,0,0,Butler town
+OK,4032550,Hardesty,incorporated,43,A,205,"Hardesty, OK",0,426,0,0,Hardesty town
+OK,4008600,Breckenridge,incorporated,43,A,199,"Breckenridge, OK",0,427,0,0,Breckenridge town
+OK,4021200,Dougherty,incorporated,43,A,199,"Dougherty, OK",0,428,0,0,Dougherty town
+OK,4047750,Meno,incorporated,43,A,198,"Meno, OK",0,429,0,0,Meno town
+OK,4038000,Jet,incorporated,43,A,197,"Jet, OK",0,430,0,0,Jet town
+OK,4001950,Ames,incorporated,43,A,193,"Ames, OK",0,431,0,0,Ames town
+OK,4011150,Camargo,incorporated,43,A,193,"Camargo, OK",0,432,0,0,Camargo town
+OK,4050300,Nash,incorporated,43,A,192,"Nash, OK",0,433,0,0,Nash town
+OK,4071050,Stuart,incorporated,43,A,192,"Stuart, OK",0,434,0,0,Stuart town
+OK,4043950,Longdale,incorporated,43,A,186,"Longdale, OK",0,435,0,0,Longdale town
+OK,4046450,Marble City,incorporated,43,A,186,"Marble City, OK",0,436,0,0,Marble City town
+OK,4011550,Caney,incorporated,43,A,185,"Caney, OK",0,437,0,0,Caney town
+OK,4010550,Byars,incorporated,43,A,184,"Byars, OK",0,438,0,0,Byars town
+OK,4046550,Marland,incorporated,43,A,184,"Marland, OK",0,439,0,0,Marland town
+OK,4012300,Carter,incorporated,43,A,183,"Carter, OK",0,440,0,0,Carter town
+OK,4026250,Fitzhugh,incorporated,43,A,183,"Fitzhugh, OK",0,441,0,0,Fitzhugh town
+OK,4059700,Pocasset,incorporated,43,A,183,"Pocasset, OK",0,442,0,0,Pocasset town
+OK,4005650,Bessie,incorporated,43,A,182,"Bessie, OK",0,443,0,0,Bessie town
+OK,4059350,Pittsburg,incorporated,43,A,180,"Pittsburg, OK",0,444,0,0,Pittsburg town
+OK,4028700,Garvin,incorporated,43,A,177,"Garvin, OK",0,445,0,0,Garvin town
+OK,4056150,Osage,incorporated,43,A,177,"Osage, OK",0,446,0,0,Osage town
+OK,4005900,Big Cabin,incorporated,43,A,174,"Big Cabin, OK",0,447,0,0,Big Cabin town
+OK,4027850,Freedom,incorporated,43,A,174,"Freedom, OK",0,448,0,0,Freedom town
+OK,4030350,Gotebo,incorporated,43,A,174,"Gotebo, OK",0,449,0,0,Gotebo town
+OK,4072050,Taft,incorporated,43,A,174,"Taft, OK",0,450,0,0,Taft town
+OK,4046150,Manitou,incorporated,43,A,171,"Manitou, OK",0,451,0,0,Manitou town
+OK,4002550,Arcadia,incorporated,43,A,169,"Arcadia, OK",0,452,0,0,Arcadia town
+OK,4012750,Castle,incorporated,43,A,169,"Castle, OK",0,453,0,0,Castle town
+OK,4001350,Aline,incorporated,43,A,168,"Aline, OK",0,454,0,0,Aline town
+OK,4078650,Warwick,incorporated,43,A,164,"Warwick, OK",0,455,0,0,Warwick town
+OK,4046700,Martha,incorporated,43,A,162,"Martha, OK",0,456,0,0,Martha town
+OK,4008150,Boynton,incorporated,43,A,161,"Boynton, OK",0,457,0,0,Boynton town
+OK,4008450,Braman,incorporated,43,A,160,"Braman, OK",0,458,0,0,Braman town
+OK,4082000,Woodlawn Park,incorporated,43,A,160,"Woodlawn Park, OK",0,459,0,0,Woodlawn Park town
+OK,4024460,Etowah,incorporated,43,A,159,"Etowah, OK",0,460,0,0,Etowah town
+OK,4014500,Cimarron City,incorporated,43,A,155,"Cimarron City, OK",0,461,0,0,Cimarron City town
+OK,4028950,Gene Autry,incorporated,43,A,154,"Gene Autry, OK",0,462,0,0,Gene Autry town
+OK,4042860,Liberty,incorporated,43,A,153,"Liberty, OK",0,463,0,0,Liberty town
+OK,4072400,Tamaha,incorporated,43,A,152,"Tamaha, OK",0,464,0,0,Tamaha town
+OK,4068000,Slick,incorporated,43,A,151,"Slick, OK",0,465,0,0,Slick town
+OK,4042150,Le Flore,incorporated,43,A,150,"Le Flore, OK",0,466,0,0,Le Flore town
+OK,4069000,Spaulding,incorporated,43,A,149,"Spaulding, OK",0,467,0,0,Spaulding town
+OK,4036950,Indianola,incorporated,43,A,148,"Indianola, OK",0,468,0,0,Indianola town
+OK,4039200,Kenefic,incorporated,43,A,147,"Kenefic, OK",0,469,0,0,Kenefic town
+OK,4036600,Hunter,incorporated,43,A,145,"Hunter, OK",0,470,0,0,Hunter town
+OK,4011450,Canadian,incorporated,43,A,143,"Canadian, OK",0,471,0,0,Canadian town
+OK,4063100,Reydon,incorporated,43,A,137,"Reydon, OK",0,472,0,0,Reydon town
+OK,4004700,Bearden,incorporated,43,A,135,"Bearden, OK",0,473,0,0,Bearden town
+OK,4066650,Sharon,incorporated,43,A,133,"Sharon, OK",0,474,0,0,Sharon town
+OK,4024950,Fairmont,incorporated,43,A,132,"Fairmont, OK",0,475,0,0,Fairmont town
+OK,4056050,Orlando,incorporated,43,A,130,"Orlando, OK",0,476,0,0,Orlando town
+OK,4052450,Norge,incorporated,43,A,129,"Norge, OK",0,477,0,0,Norge town
+OK,4063700,Rocky,incorporated,43,A,128,"Rocky, OK",0,478,0,0,Rocky town
+OK,4031150,Grayson,incorporated,43,A,127,"Grayson, OK",0,479,0,0,Grayson town
+OK,4039050,Kemp,incorporated,43,A,126,"Kemp, OK",0,480,0,0,Kemp town
+OK,4058100,Peoria,incorporated,43,A,126,"Peoria, OK",0,481,0,0,Peoria town
+OK,4010050,Burlington,incorporated,43,A,124,"Burlington, OK",0,482,0,0,Burlington town
+OK,4009150,Bromide,incorporated,43,A,123,"Bromide, OK",0,483,0,0,Bromide town
+OK,4009950,Burbank,incorporated,43,A,123,"Burbank, OK",0,484,0,0,Burbank town
+OK,4058500,Phillips,incorporated,43,A,122,"Phillips, OK",0,485,0,0,Phillips town
+OK,4068950,Sparks,incorporated,43,A,122,"Sparks, OK",0,486,0,0,Sparks town
+OK,4041760,Lawrence Creek,incorporated,43,A,121,"Lawrence Creek, OK",0,487,0,0,Lawrence Creek town
+OK,4064850,St. Louis,incorporated,43,A,121,"St. Louis, OK",0,488,0,0,St. Louis town
+OK,4081300,Willow,incorporated,43,A,119,"Willow, OK",0,489,0,0,Willow town
+OK,4041250,Lamar,incorporated,43,A,118,"Lamar, OK",0,490,0,0,Lamar town
+OK,4025650,Faxon,incorporated,43,A,114,"Faxon, OK",0,491,0,0,Faxon town
+OK,4031250,Greenfield,incorporated,43,A,114,"Greenfield, OK",0,492,0,0,Greenfield town
+OK,4002750,Armstrong,incorporated,43,A,113,"Armstrong, OK",0,493,0,0,Armstrong town
+OK,4016400,Colony,incorporated,43,A,112,"Colony, OK",0,494,0,0,Colony town
+OK,4072500,Tatums,incorporated,43,A,111,"Tatums, OK",0,495,0,0,Tatums town
+OK,4017350,Cornish,incorporated,43,A,110,"Cornish, OK",0,496,0,0,Cornish town
+OK,4017850,Cowlington,incorporated,43,I,109,"Cowlington, OK",0,497,0,0,Cowlington town
+OK,4019050,Dacoma,incorporated,43,A,109,"Dacoma, OK",0,498,0,0,Dacoma town
+OK,4017550,Council Hill,incorporated,43,A,108,"Council Hill, OK",0,499,0,0,Council Hill town
+OK,4071450,Summit,incorporated,43,A,108,"Summit, OK",0,500,0,0,Summit town
+OK,4032050,Hallett,incorporated,43,A,105,"Hallett, OK",0,501,0,0,Hallett town
+OK,4033000,Hastings,incorporated,43,A,104,"Hastings, OK",0,502,0,0,Hastings town
+OK,4030400,Gould,incorporated,43,A,103,"Gould, OK",0,503,0,0,Gould town
+OK,4062950,Rentiesville,incorporated,43,A,103,"Rentiesville, OK",0,504,0,0,Rentiesville town
+OK,4032350,Hanna,incorporated,43,A,102,"Hanna, OK",0,505,0,0,Hanna town
+OK,4034850,Hitchcock,incorporated,43,A,102,"Hitchcock, OK",0,506,0,0,Hitchcock town
+OK,4071900,Sweetwater,incorporated,43,A,102,"Sweetwater, OK",0,507,0,0,Sweetwater town
+OK,4027450,Foss,incorporated,43,A,101,"Foss, OK",0,508,0,0,Foss town
+OK,4058050,Pensacola,incorporated,43,A,101,"Pensacola, OK",0,509,0,0,Pensacola town
+OK,4043450,Loco,incorporated,43,A,99,"Loco, OK",0,510,0,0,Loco town
+OK,4008750,Bridgeport,incorporated,25,A,97,"Bridgeport, OK",0,511,0,0,Bridgeport city
+OK,4078250,Wann,incorporated,43,A,95,"Wann, OK",0,512,0,0,Wann town
+OK,4011990,Carlton Landing,incorporated,43,A,94,"Carlton Landing, OK",0,513,0,0,Carlton Landing town
+OK,4020450,Devol,incorporated,43,A,93,"Devol, OK",0,514,0,0,Devol town
+OK,4077900,Wainwright,incorporated,43,A,93,"Wainwright, OK",0,515,0,0,Wainwright town
+OK,4029150,Gerty,incorporated,43,A,92,"Gerty, OK",0,516,0,0,Gerty town
+OK,4036090,Horntown,incorporated,43,A,92,"Horntown, OK",0,517,0,0,Horntown town
+OK,4012200,Carrier,incorporated,43,A,90,"Carrier, OK",0,518,0,0,Carrier town
+OK,4046000,Manchester,incorporated,43,A,90,"Manchester, OK",0,519,0,0,Manchester town
+OK,4024300,Erin Springs,incorporated,43,I,89,"Erin Springs, OK",0,520,0,0,Erin Springs town
+OK,4051050,New Alluwe,incorporated,43,A,89,"New Alluwe, OK",0,521,0,0,New Alluwe town
+OK,4062200,Redbird,incorporated,43,A,89,"Redbird, OK",0,522,0,0,Redbird town
+OK,4039150,Kendrick,incorporated,43,A,87,"Kendrick, OK",0,523,0,0,Kendrick town
+OK,4040800,Lake Aluma,incorporated,43,A,87,"Lake Aluma, OK",0,524,0,0,Lake Aluma town
+OK,4034150,Hickory,incorporated,43,A,86,"Hickory, OK",0,525,0,0,Hickory town
+OK,4039800,Kildare,incorporated,43,A,86,"Kildare, OK",0,526,0,0,Kildare town
+OK,4003350,Atwood,incorporated,43,A,85,"Atwood, OK",0,527,0,0,Atwood town
+OK,4000450,Addington,incorporated,43,A,83,"Addington, OK",0,528,0,0,Addington town
+OK,4074650,Tullahassee,incorporated,43,A,83,"Tullahassee, OK",0,529,0,0,Tullahassee town
+OK,4013100,Centrahoma,incorporated,25,A,81,"Centrahoma, OK",0,530,0,0,Centrahoma city
+OK,4035300,Hoffman,incorporated,43,A,81,"Hoffman, OK",0,531,0,0,Hoffman town
+OK,4030900,Grand Lake Towne,incorporated,43,A,80,"Grand Lake Towne, OK",0,532,0,0,Grand Lake Towne town
+OK,4065500,Sasakwa,incorporated,43,A,80,"Sasakwa, OK",0,533,0,0,Sasakwa town
+OK,4008300,Bradley,incorporated,43,A,78,"Bradley, OK",0,534,0,0,Bradley town
+OK,4019650,Deer Creek,incorporated,43,A,78,"Deer Creek, OK",0,535,0,0,Deer Creek town
+OK,4044000,Lookeba,incorporated,43,A,78,"Lookeba, OK",0,536,0,0,Lookeba town
+OK,4068250,Smithville,incorporated,43,I,77,"Smithville, OK",0,537,0,0,Smithville town
+OK,4072850,Terlton,incorporated,43,A,77,"Terlton, OK",0,538,0,0,Terlton town
+OK,4034650,Hillsdale,incorporated,43,A,75,"Hillsdale, OK",0,539,0,0,Hillsdale town
+OK,4033300,Headrick,incorporated,43,A,74,"Headrick, OK",0,540,0,0,Headrick town
+OK,4042450,Leon,incorporated,43,A,74,"Leon, OK",0,541,0,0,Leon town
+OK,4053600,Oakwood,incorporated,43,A,74,"Oakwood, OK",0,542,0,0,Oakwood town
+OK,4025000,Fair Oaks,incorporated,43,A,73,"Fair Oaks, OK",0,543,0,0,Fair Oaks town
+OK,4057150,Paradise Hill,incorporated,43,A,73,"Paradise Hill, OK",0,544,0,0,Paradise Hill town
+OK,4009400,Brooksville,incorporated,43,A,71,"Brooksville, OK",0,545,0,0,Brooksville town
+OK,4044300,Loyal,incorporated,43,A,71,"Loyal, OK",0,546,0,0,Loyal town
+OK,4006450,Blackburn,incorporated,43,A,70,"Blackburn, OK",0,547,0,0,Blackburn town
+OK,4043000,Lima,incorporated,43,A,68,"Lima, OK",0,548,0,0,Lima town
+OK,4046400,Maramec,incorporated,43,A,66,"Maramec, OK",0,549,0,0,Maramec town
+OK,4023550,Elmer,incorporated,43,A,65,"Elmer, OK",0,550,0,0,Elmer town
+OK,4066600,Shamrock,incorporated,43,I,65,"Shamrock, OK",0,551,0,0,Shamrock town
+OK,4061900,Ratliff City,incorporated,43,A,64,"Ratliff City, OK",0,552,0,0,Ratliff City town
+OK,4070750,Strang,incorporated,43,A,64,"Strang, OK",0,553,0,0,Strang town
+OK,4050150,Mutual,incorporated,43,A,63,"Mutual, OK",0,554,0,0,Mutual town
+OK,4064000,Rosedale,incorporated,43,A,62,"Rosedale, OK",0,555,0,0,Rosedale town
+OK,4067800,Skedee,incorporated,43,A,62,"Skedee, OK",0,556,0,0,Skedee town
+OK,4033600,Hendrix,incorporated,43,A,61,"Hendrix, OK",0,557,0,0,Hendrix town
+OK,4028800,Gate,incorporated,43,A,60,"Gate, OK",0,558,0,0,Gate town
+OK,4034900,Hitchita,incorporated,43,A,60,"Hitchita, OK",0,559,0,0,Hitchita town
+OK,4051750,New Woodville,incorporated,43,I,60,"New Woodville, OK",0,560,0,0,New Woodville town
+OK,4037410,IXL,incorporated,43,A,59,"IXL, OK",0,561,0,0,IXL town
+OK,4001050,Albion,incorporated,43,A,58,"Albion, OK",0,562,0,0,Albion town
+OK,4079600,Webb City,incorporated,43,A,58,"Webb City, OK",0,563,0,0,Webb City town
+OK,4064050,Rosston,incorporated,43,A,52,"Rosston, OK",0,564,0,0,Rosston town
+OK,4021250,Douglas,incorporated,43,A,51,"Douglas, OK",0,565,0,0,Douglas town
+OK,4068200,Smith Village,incorporated,43,A,49,"Smith Village, OK",0,566,0,0,Smith Village town
+OK,4082650,Yeager,incorporated,43,A,45,"Yeager, OK",0,567,0,0,Yeager town
+OK,4073150,Texola,incorporated,43,A,43,"Texola, OK",0,568,0,0,Texola town
+OK,4015050,Clearview,incorporated,43,A,41,"Clearview, OK",0,569,0,0,Clearview town
+OK,4002000,Amorita,incorporated,43,A,38,"Amorita, OK",0,570,0,0,Amorita town
+OK,4049000,Moffett,incorporated,43,A,38,"Moffett, OK",0,571,0,0,Moffett town
+OK,4010650,Byron,incorporated,43,A,37,"Byron, OK",0,572,0,0,Byron town
+OK,4003050,Ashland,incorporated,43,A,35,"Ashland, OK",0,573,0,0,Ashland town
+OK,4035550,Hollister,incorporated,43,A,35,"Hollister, OK",0,574,0,0,Hollister town
+OK,4070950,Strong City,incorporated,43,A,33,"Strong City, OK",0,575,0,0,Strong City town
+OK,4030750,Grainola,incorporated,43,A,31,"Grainola, OK",0,576,0,0,Grainola town
+OK,4061250,Putnam,incorporated,43,A,30,"Putnam, OK",0,577,0,0,Putnam town
+OK,4047000,May,incorporated,43,A,29,"May, OK",0,578,0,0,May town
+OK,4011750,Capron,incorporated,43,I,27,"Capron, OK",0,579,0,0,Capron town
+OK,4027900,Friendship,incorporated,43,A,23,"Friendship, OK",0,580,0,0,Friendship town
+OK,4045500,Macomb,incorporated,43,A,22,"Macomb, OK",0,581,0,0,Macomb town
+OK,4053210,Oak Grove,incorporated,43,I,22,"Oak Grove, OK",0,582,0,0,Oak Grove town
+OK,4071250,Sugden,incorporated,43,A,22,"Sugden, OK",0,583,0,0,Sugden town
+OK,4025250,Fallis,incorporated,43,A,21,"Fallis, OK",0,584,0,0,Fallis town
+OK,4076600,Valley Park,incorporated,43,A,19,"Valley Park, OK",0,585,0,0,Valley Park town
+OK,4026750,Foraker,incorporated,43,A,18,"Foraker, OK",0,586,0,0,Foraker town
+OK,4070200,Stidham,incorporated,43,A,17,"Stidham, OK",0,587,0,0,Stidham town
+OK,4062900,Renfrow,incorporated,43,A,15,"Renfrow, OK",0,588,0,0,Renfrow town
+OK,4047800,Meridian,incorporated,43,A,14,"Meridian, OK",0,589,0,0,Meridian town
+OK,4044150,Loveland,incorporated,43,A,13,"Loveland, OK",0,590,0,0,Loveland town
+OK,4037750,Jefferson,incorporated,43,A,9,"Jefferson, OK",0,591,0,0,Jefferson town
+OK,4040100,Knowles,incorporated,43,A,6,"Knowles, OK",0,592,0,0,Knowles town
+OK,4044100,Lotsee,incorporated,43,A,6,"Lotsee, OK",0,593,0,0,Lotsee town
+OK,4041300,Lambert,incorporated,43,A,5,"Lambert, OK",0,594,0,0,Lambert town
+OK,4017050,Cooperton,incorporated,43,A,3,"Cooperton, OK",0,595,0,0,Cooperton town
+OK,4036020,Hoot Owl,incorporated,43,I,0,"Hoot Owl, OK",0,596,0,0,Hoot Owl town
+OK,4043725,Lone Chimney,incorporated,43,A,0,"Lone Chimney, OK",0,597,0,0,Lone Chimney town
+OK,4049860,Mule Barn,incorporated,43,A,0,"Mule Barn, OK",0,598,0,0,Mule Barn town
+OK,4077150,Vernon,incorporated,43,A,0,"Vernon, OK",0,599,0,0,Vernon town
