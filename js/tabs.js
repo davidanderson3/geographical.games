@@ -2,6 +2,7 @@ function initTabs() {
   const buttons = Array.from(document.querySelectorAll('.tab-button'));
   const panels = {
     geoscorePanel: document.getElementById('geoscorePanel'),
+    geoscoreGamePanel: document.getElementById('geoscoreGamePanel'),
     geolayersPanel: document.getElementById('geolayersPanel')
   };
 
@@ -14,27 +15,50 @@ function initTabs() {
     frame.style.height = available + 'px';
   }
 
-  buttons.forEach(btn => {
-    btn.addEventListener('click', () => {
-      buttons.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      Object.entries(panels).forEach(([id, el]) => {
-        el.style.display = id === btn.dataset.target ? 'flex' : 'none';
-      });
-      if (btn.dataset.target === 'geoscorePanel') {
-        window.initGeoScorePanel && window.initGeoScorePanel();
-      } else if (btn.dataset.target === 'geolayersPanel') {
-        adjustGeolayersFrame();
-      }
+  const idToParam = (id) => (id === 'geolayersPanel' ? 'geolayers' : (id==='geoscoreGamePanel'?'geoscoreGame':'geoscoreAdmin'));
+  const paramToId = (p) => (p === 'geolayers' ? 'geolayersPanel' : (p==='geoscoreGame'?'geoscoreGamePanel':'geoscorePanel'));
+
+  function setActive(targetId, push) {
+    // Update tab styles and panels
+    buttons.forEach(b => b.classList.toggle('active', b.dataset.target === targetId));
+    Object.entries(panels).forEach(([id, el]) => {
+      el.style.display = id === targetId ? 'flex' : 'none';
     });
+    if (targetId === 'geoscorePanel') {
+      window.initGeoScorePanel && window.initGeoScorePanel();
+    } else if (targetId === 'geoscoreGamePanel') {
+      window.initGeoScoreGame && window.initGeoScoreGame();
+    } else if (targetId === 'geolayersPanel') {
+      adjustGeolayersFrame();
+      window.initGeolayersAdmin && window.initGeolayersAdmin();
+    }
+    // Update URL ?tab=...
+    try {
+      const url = new URL(location.href);
+      url.searchParams.set('tab', idToParam(targetId));
+      if (push) history.pushState({ tab: idToParam(targetId) }, '', url);
+      else history.replaceState({ tab: idToParam(targetId) }, '', url);
+    } catch {}
+  }
+
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => setActive(btn.dataset.target, true));
   });
 
-  // initialize default view
-  window.initGeoScorePanel && window.initGeoScorePanel();
+  // Initialize from URL (?tab=geoscore|geolayers) or default to geoscore
+  const params = new URLSearchParams(location.search);
+  const tabParam = params.get('tab');
+  const initialId = (tabParam && panels[paramToId(tabParam)]) ? paramToId(tabParam) : 'geoscorePanel';
+  setActive(initialId, false);
 
-  window.addEventListener('resize', () => {
-    adjustGeolayersFrame();
+  // Handle back/forward
+  window.addEventListener('popstate', () => {
+    const p = new URLSearchParams(location.search).get('tab');
+    const id = (p && panels[paramToId(p)]) ? paramToId(p) : 'geoscorePanel';
+    setActive(id, false);
   });
+
+  window.addEventListener('resize', adjustGeolayersFrame);
 }
 
 document.addEventListener('DOMContentLoaded', initTabs);

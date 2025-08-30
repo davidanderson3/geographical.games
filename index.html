@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Dashboard</title>
+  <title>Geo Geo</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="style.css?v=20250901" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -14,10 +14,11 @@
 <body>
   <nav class="navbar">
     <div class="container navbar-inner">
-      <div class="navbar-left site-name">Dashboard</div>
+      <div class="navbar-left site-name">Geo Geo</div>
     </div>
     <div class="tabs scroll-tabs" id="tabsContainer">
-      <button class="tab-button active" data-target="geoscorePanel">GeoScore</button>
+      <button class="tab-button active" data-target="geoscorePanel">GeoScore Admin</button>
+      <button class="tab-button" data-target="geoscoreGamePanel">GeoScore Game</button>
       <button class="tab-button" data-target="geolayersPanel">GeoLayers</button>
     </div>
   </nav>
@@ -31,17 +32,54 @@
     </div>
   </section>
 
+  <section id="geoscoreGamePanel" class="main-layout" style="display:none;">
+    <div class="full-column">
+      <div class="panel-header">
+        <h2>GeoScore Game</h2>
+      </div>
+      <div id="geoscoreGame"></div>
+    </div>
+  </section>
+
   <section id="geolayersPanel" class="main-layout" style="display:none;">
     <div class="full-column">
-      <div class="panel-header" id="geolayersHeader" style="display:none;">
-        <h2>GeoLayers Game</h2>
+      <div class="panel-header">
+        <h2>GeoLayers</h2>
       </div>
-      <iframe id="geolayersFrame" src="geolayers-game/public/index.v20250901.html?country=MEX&layers=all" style="width:100%;height:100%;border:none;"></iframe>
+      <div id="geolayersSubtabs" style="display:flex; gap:8px; margin-bottom:8px;">
+        <button class="subtab-button active" data-mode="game">Game</button>
+        <button class="subtab-button" data-mode="admin">Admin</button>
+      </div>
+      <div id="geolayersAdminShell" style="display:flex; gap:12px; align-items:flex-start;">
+        <div id="glList" style="display:none; width:220px; max-height:70vh; overflow:auto; border:1px solid #ccc; border-radius:6px; padding:6px;"></div>
+        <div style="flex:1; min-width:0;">
+          <div id="geolayersAdminControls" style="display:none; gap:8px; align-items:center; margin-bottom:8px; flex-wrap: wrap;">
+            <input id="glCountry" type="text" placeholder="ISO3 or name" list="glCountries" style="min-width:180px;" />
+            <datalist id="glCountries"></datalist>
+            <strong>Preview:</strong>
+            <label><input type="checkbox" class="gl-layer" value="rivers" checked /> Rivers</label>
+            <label><input type="checkbox" class="gl-layer" value="cities" /> Cities</label>
+            <label><input type="checkbox" class="gl-layer" value="topo" /> Topo</label>
+            <label><input type="checkbox" class="gl-layer" value="roads" /> Roads</label>
+            <label><input type="checkbox" class="gl-layer" value="outline" /> Border</label>
+            <span style="flex-basis:100%; height:0;"></span>
+            <strong>Approve:</strong>
+            <label><input type="checkbox" class="gl-approve" value="rivers" /> Rivers</label>
+            <label><input type="checkbox" class="gl-approve" value="cities" /> Cities</label>
+            <label><input type="checkbox" class="gl-approve" value="topo" /> Topo</label>
+            <label><input type="checkbox" class="gl-approve" value="roads" /> Roads</label>
+            <label><input type="checkbox" class="gl-approve" value="outline" /> Border</label>
+          </div>
+          <iframe id="geolayersFrame" src="geolayers-game/public/index.v20250901.html?layers=rivers" style="width:100%;height:70vh;border:none;"></iframe>
+        </div>
+      </div>
     </div>
   </section>
 
   <script type="module" src="js/geoscore.js?v=20250901"></script>
   <script type="module" src="js/tabs.js?v=20250901"></script>
+  <script type="module" src="js/geoscore_game.js?v=20250901"></script>
+  <script type="module" src="js/geolayers_admin.js?v=20250901"></script>
   <script>
     // Dev: auto-reload on changes served by backend/server.js
     (function(){
@@ -57,7 +95,7 @@
   <script>
     // Proactively unregister any existing service workers and clear caches
     (function(){
-      try { console.log('Dashboard version 20250901'); } catch(e){}
+      try { console.log('Geo Geo version 20250901'); } catch(e){}
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.getRegistrations().then(rs => {
           rs.forEach(r => r.unregister());

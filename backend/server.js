@@ -1,4 +1,5 @@
 const express = require('express');
+const compression = require('compression');
 const path = require('path');
 const fs = require('fs');
 const { execFile } = require('child_process');
@@ -18,6 +19,7 @@ const PORT = process.env.PORT || 3002;
 
 // Enable CORS for all routes so the frontend can reach the API
 app.use(cors());
+app.use(compression());
 
 const CONTACT_EMAIL = Buffer.from('ZHZkbmRyc25AZ21haWwuY29t', 'base64').toString('utf8');
 const mailer = (() => {
@@ -53,7 +55,16 @@ const plaidClient = (() => {
 })();
 
 // Serve static files (like index.html, style.css, script.js)
-app.use(express.static(path.resolve(__dirname, '../')));
+app.use(express.static(path.resolve(__dirname, '../'), {
+  setHeaders: (res, p) => {
+    // Strong caching for static assets and large GeoJSONs; versioned URLs bust cache
+    if (/\.(?:geojson|json|js|css|png|jpe?g|svg|ico|woff2?)$/i.test(p)) {
+      res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
+    } else {
+      res.setHeader('Cache-Control', 'public, max-age=600');
+    }
+  }
+}));
 
 app.post('/contact', async (req, res) => {
   const { name, from, message } = req.body || {};
