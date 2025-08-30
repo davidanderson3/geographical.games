@@ -13,6 +13,12 @@
     "monitor:temp": "node scripts/tempAlert.js",
     "generate:geoscore": "node scripts/generateGeoscoreQuestions.js",
     "update:cities": "node scripts/populateCities.js",
+    "fetch:cities": "node scripts/fetchMajorCities.js",
+    "fetch:cities:simple": "node scripts/fetchCitiesSimple.js",
+    "fetch:topo": "node scripts/fetchTopoLines.js",
+    "fetch:borders": "node scripts/fetchCountryBorders.js",
+    "gen:topo": "node scripts/generateTopoLines.js --step-deg=0.75 --both",
+    "fetch:elevation": "node scripts/fetchElevationContours.js --zoom=8 --interval=500",
     "fetch:rivers": "node scripts/fetchRiversToFirestore.js",
     "prepare": "husky install",
     "start": "node backend/server.js"
@@ -21,6 +27,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "d3-contour": "^3.0.2",
+    "pngjs": "^7.0.0",
+    "compression": "^1.7.4",
     "cors": "^2.8.5",
     "d3": "^7.9.0",
     "express": "^5.1.0",

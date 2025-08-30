@@ -33,6 +33,7 @@ try {
 } catch {}
 let finished = false;
 const guess = document.getElementById('guess');
+const countriesList = document.getElementById('countriesList');
 let map;
 let outline;
 let citiesLayer;
@@ -47,6 +48,29 @@ function safeCoordsToLatLng(coords){
     return L.latLng(0, 0);
   }
   return L.latLng(lat, lng);
+}
+
+function formatCityName(name){
+  let n = String(name||'').trim();
+  if(!n) return n;
+  const suffixes = [
+    'city municipality',
+    'town municipality',
+    'city', 'town', 'village', 'municipality', 'borough', 'commune'
+  ];
+  let changed = true;
+  while(changed){
+    changed = false;
+    for(const suf of suffixes){
+      const re = new RegExp('\\s+' + suf.replace(/\s+/g,'\\s+') + '\\.?$', 'i');
+      if(re.test(n)){
+        n = n.replace(re,'').trim();
+        changed = true;
+        break;
+      }
+    }
+  }
+  return n;
 }
 
 function pruneGeometry(geom){
@@ -107,15 +131,18 @@ function pickLocation(locations) {
 
 const urlParams = new URLSearchParams(location.search);
 const forcedCountry = urlParams.get('country');
-const layerMode = (urlParams.get('layers')||'all').toLowerCase();
+const layerMode = (urlParams.get('layers')||'rivers').toLowerCase();
 
 fetch('countries.json').then(r=>r.json()).then(data=>{
   data.sort((a,b)=>a.name.localeCompare(b.name));
+  const codeByName = new Map();
+  const codeSet = new Set();
   for (const c of data) {
     const opt = document.createElement('option');
-    opt.value = c.code;
-    opt.textContent = c.name;
-    guess.appendChild(opt);
+    opt.value = c.name;
+    if (countriesList) countriesList.appendChild(opt);
+    codeByName.set(c.name.toLowerCase(), c.code);
+    codeSet.add(c.code.toLowerCase());
   }
   const locations = data.map(c=>c.code);
   if (forcedCountry && locations.includes(forcedCountry)) {
@@ -125,6 +152,36 @@ fetch('countries.json').then(r=>r.json()).then(data=>{
   }
   try { console.log('GeoLayers selected location', locationId); } catch {}
   loadCountry();
+
+  function normalizeGuess(v){ return String(v||'').trim().toLowerCase(); }
+  function resolveGuess(val){
+    const n = normalizeGuess(val);
+    if (!n) return '';
+    if (codeSet.has(n)) return n.toUpperCase();
+    if (codeByName.has(n)) return codeByName.get(n);
+    return '';
+  }
+  function handleGuess(){
+    if (finished) return;
+    const typed = guess.value;
+    const code = resolveGuess(typed);
+    try { guess.value = ''; } catch {}
+    if (!code) return;
+    if (code === locationId) {
+      document.getElementById('score').textContent = `Correct! It is ${code}.`;
+      finished = true;
+      outline.addTo(map);
+      const b = outline.getBounds();
+      if (b && b.isValid && b.isValid()) {
+        map.fitBounds(b.pad(0.1));
+      }
+    } else {
+      document.getElementById('score').textContent = 'Incorrect, try again!';
+      showCities();
+    }
+  }
+  guess.addEventListener('change', handleGuess);
+  guess.addEventListener('keydown', (e)=>{ if(e.key==='Enter') handleGuess(); });
 });
 
 function loadCountry() {
@@ -150,7 +207,7 @@ function loadCountry() {
     }
     let riversLayer;
     try {
-      riversLayer = L.geoJSON(riversSan, { style: { color: '#0ff' }, coordsToLatLng: safeCoordsToLatLng });
+      riversLayer = L.geoJSON(riversSan, { style: { color: '#0ff', weight: 1, opacity: 0.9, lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
     } catch {
       riversLayer = L.geoJSON({ type:'FeatureCollection', features: [] });
     }
@@ -163,13 +220,10 @@ function loadCountry() {
       map.setView([20, 0], 2);
     }
 
-    // Conditionally add layers for debugging
+    // Add layers: default to rivers only; outline only when requested
     if (layerMode === 'outline') {
       outline.addTo(map);
-    } else if (layerMode === 'rivers') {
-      riversLayer.addTo(map);
     } else {
-      outline.addTo(map);
       riversLayer.addTo(map);
     }
   }).catch(() => {
@@ -195,27 +249,9 @@ function showCities() {
       citiesLayer = L.geoJSON(citiesSan, {
         coordsToLatLng: safeCoordsToLatLng,
         pointToLayer: (feature, latlng) =>
-          L.circleMarker(latlng, { radius: 5, color: '#f00' }).bindTooltip((feature && feature.properties && feature.properties.name) || '')
+          L.circleMarker(latlng, { radius: 5, color: '#f00' }).bindTooltip(formatCityName((feature && feature.properties && feature.properties.name) || ''))
       });
       citiesLayer.addTo(map);
     } catch {}
   }).catch(() => {});
 }
-
-guess.addEventListener('change', () => {
-  if (finished) return;
-  const val = guess.value;
-  if (!val) return;
-  if (val === locationId) {
-    document.getElementById('score').textContent = `Correct! It is ${val}.`;
-    finished = true;
-    outline.addTo(map);
-    const b = outline.getBounds();
-    if (b && b.isValid && b.isValid()) {
-      map.fitBounds(b.pad(0.1));
-    }
-  } else {
-    document.getElementById('score').textContent = 'Incorrect, try again!';
-    showCities();
-  }
-});

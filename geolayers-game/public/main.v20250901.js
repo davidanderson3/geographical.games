@@ -41,9 +41,21 @@ try {
 
 let finished = false;
 const guess = document.getElementById('guess');
+const countriesList = document.getElementById('countriesList');
 let map;
 let outline;
 let citiesLayer;
+let riversLayer;
+let roadsLayer;
+let topoLayer;
+let round = 1;
+const MAX_ROUNDS = 4;
+const guessedSet = new Set(); // solved/revealed across rotations
+let triedSet = new Set();     // guesses for current country
+let rotateTimer = null;
+let rotateTimeout = null;
+const nameByCode = {};        // code -> display name
+let currentAbort = null;      // abort controller for in-flight fetches
 
 function isFiniteNum(n){ return typeof n === 'number' && isFinite(n); }
 function coordValid(c){ return Array.isArray(c) && isFiniteNum(c[0]) && isFiniteNum(c[1]); }
@@ -54,6 +66,39 @@ function safeCoordsToLatLng(coords){
     return L.latLng(0, 0);
   }
   return L.latLng(lat, lng);
+}
+
+function formatCityName(name){
+  let n = String(name||'').trim();
+  if(!n) return n;
+  // Strip generic descriptor suffixes regardless of case (data often appends these)
+  const suffixes = [
+    'city municipality',
+    'town municipality',
+    'city', 'town', 'village', 'municipality', 'borough', 'commune'
+  ];
+  let changed = true;
+  while(changed){
+    changed = false;
+    for(const suf of suffixes){
+      const re = new RegExp('\\s+' + suf.replace(/\s+/g,'\\s+') + '\\.?$', 'i');
+      if(re.test(n)){
+        n = n.replace(re,'').trim();
+        changed = true;
+        break;
+      }
+    }
+  }
+  return n;
+}
+
+function capFeatureCount(gj, max=30000){
+  try{
+    if(!gj || gj.type!=='FeatureCollection') return gj;
+    const feats = Array.isArray(gj.features)?gj.features:[];
+    if(feats.length <= max) return gj;
+    return { type:'FeatureCollection', features: feats.slice(0, max) };
+  }catch{ return gj; }
 }
 
 function pruneGeometry(geom){
@@ -108,23 +153,69 @@ function sanitizeGeoJSON(fc){
   return g ? g : null;
 }
 
+// Prefer major roads across the entire country instead of early-file bias.
+function limitRoads(fc, max=30000){
+  try{
+    if(!fc || fc.type !== 'FeatureCollection') return fc;
+    const feats = Array.isArray(fc.features) ? fc.features : [];
+    if(feats.length <= max) return fc;
+
+    const prioOrder = ['motorway','trunk','primary','secondary','tertiary','unclassified','residential','service','track','path','road'];
+    const bins = new Map();
+    for(const key of prioOrder) bins.set(key, []);
+    bins.set('__other__', []);
+
+    for(const f of feats){
+      const hw = (f && f.properties && String(f.properties.highway||'').toLowerCase()) || '';
+      const key = prioOrder.includes(hw) ? hw : '__other__';
+      bins.get(key).push(f);
+    }
+
+    const out = [];
+    for(const key of prioOrder.concat(['__other__'])){
+      if(out.length >= max) break;
+      const arr = bins.get(key) || [];
+      if(!arr.length) continue;
+      const remaining = max - out.length;
+      if(arr.length <= remaining){
+        out.push(...arr);
+      } else {
+        // Evenly sample this category to fill remaining slots
+        const step = arr.length / remaining;
+        for(let i=0;i<remaining;i++){
+          const idx = Math.floor(i * step);
+          out.push(arr[idx]);
+        }
+      }
+    }
+    return { type:'FeatureCollection', features: out };
+  }catch{ return fc; }
+}
+
 function pickLocation(locations) {
   return locations[Math.floor(Math.random() * locations.length)];
 }
 
 const urlParams = new URLSearchParams(location.search);
 const forcedCountry = urlParams.get('country');
-const layerMode = (urlParams.get('layers')||'all').toLowerCase();
+const adminMode = /^(1|true|yes)$/i.test(String(urlParams.get('admin')||''));
+const layerMode = (urlParams.get('layers')||'rivers').toLowerCase();
+const adminLayers = String(urlParams.get('layers')||'rivers').toLowerCase().split(',').map(s=>s.trim()).filter(Boolean);
 
 fetch('countries.json').then(r=>r.json()).then(data=>{
   data.sort((a,b)=>a.name.localeCompare(b.name));
+  const codeByName = new Map();
+  const codeSet = new Set();
   for (const c of data) {
     const opt = document.createElement('option');
-    opt.value = c.code;
-    opt.textContent = c.name;
-    guess.appendChild(opt);
+    opt.value = c.name;
+    if (countriesList) countriesList.appendChild(opt);
+    codeByName.set(c.name.toLowerCase(), c.code);
+    codeSet.add(c.code.toLowerCase());
   }
   const locations = data.map(c=>c.code);
+  for(const c of data){ nameByCode[c.code] = c.name; }
+  window.__countryCodes = locations.slice();
   if (forcedCountry && locations.includes(forcedCountry)) {
     locationId = forcedCountry;
   } else {
@@ -132,47 +223,209 @@ fetch('countries.json').then(r=>r.json()).then(data=>{
   }
   try { console.log('GeoLayers selected location', locationId); } catch {}
   loadCountry();
+  if(!adminMode) scheduleRotation();
+
+  function normalizeGuess(v){ return String(v||'').trim().toLowerCase(); }
+  function resolveGuess(val){
+    const n = normalizeGuess(val);
+    if (!n) return '';
+    if (codeSet.has(n)) return n.toUpperCase();
+    if (codeByName.has(n)) return codeByName.get(n);
+    return '';
+  }
+  function handleGuess(){
+    if (adminMode) return; // disable guessing in admin view
+    if (finished) return;
+    const typed = guess.value;
+    const code = resolveGuess(typed);
+    try { guess.value = ''; } catch {}
+    if (!code) return;
+    if (code === locationId) {
+      document.getElementById('score').textContent = `Correct! It is ${code}.`;
+      finished = true;
+      guessedSet.add(code);
+      updateGuessedUI();
+      outline.addTo(map);
+      const b = outline.getBounds();
+      if (b && b.isValid && b.isValid()) {
+        map.fitBounds(b.pad(0.1));
+      }
+    } else {
+      triedSet.add(code);
+      if (round < MAX_ROUNDS) {
+        round += 1;
+        applyRoundLayers();
+        document.getElementById('score').textContent = `Round ${round}/${MAX_ROUNDS} — keep guessing!`;
+        updateGuessedUI();
+      } else {
+        document.getElementById('score').textContent = `Out of rounds. It was ${nameByCode[locationId] || locationId}.`;
+        finished = true;
+        guessedSet.add(locationId);
+        updateGuessedUI();
+        outline.addTo(map);
+      }
+    }
+  }
+  guess.addEventListener('change', handleGuess);
+  guess.addEventListener('keydown', (e)=>{ if(e.key==='Enter') handleGuess(); });
 });
+
+function updateGuessedUI(){
+  try{
+    const el = document.getElementById('guessed');
+    if(!el) return;
+    const parts = [];
+    if(triedSet.size>0){
+      parts.push('Tried: ' + Array.from(triedSet).map(c=> nameByCode[c]||c).join(', '));
+    }
+    if(guessedSet.size>0){
+      parts.push('Solved: ' + Array.from(guessedSet).map(c=> nameByCode[c]||c).join(', '));
+    }
+    el.textContent = parts.join('  •  ');
+  }catch{}
+}
+
+function applyRoundLayers(){
+  if(!map) return;
+  try{
+    const layers = [riversLayer, citiesLayer, topoLayer, roadsLayer, outline];
+    for(const l of layers){ if(l && map.hasLayer(l)) map.removeLayer(l); }
+  }catch{}
+  if(riversLayer) riversLayer.addTo(map);
+  if(round>=2 && citiesLayer) citiesLayer.addTo(map);
+  if(round>=3 && topoLayer) topoLayer.addTo(map);
+  if(round>=4 && roadsLayer) roadsLayer.addTo(map);
+  if(round>=4 && outline) outline.addTo(map);
+}
+
+function applyAdminLayers(){
+  if(!map) return;
+  try{
+    const layersAll = [riversLayer, citiesLayer, topoLayer, roadsLayer, outline];
+    for(const l of layersAll){ if(l && map.hasLayer(l)) map.removeLayer(l); }
+  }catch{}
+  const set = new Set(adminLayers);
+  if(set.has('all')){ set.clear(); ['rivers','cities','topo','roads','outline'].forEach(x=>set.add(x)); }
+  if(set.has('rivers') && riversLayer) riversLayer.addTo(map);
+  if(set.has('cities') && citiesLayer) citiesLayer.addTo(map);
+  if(set.has('topo') && topoLayer) topoLayer.addTo(map);
+  if(set.has('roads') && roadsLayer) roadsLayer.addTo(map);
+  if(set.has('outline') && outline) outline.addTo(map);
+}
+
+function rotateCountry(){
+  if(!window.__countryCodes || !window.__countryCodes.length) return;
+  const list = window.__countryCodes;
+  let next = locationId;
+  for(let i=0;i<10;i++){
+    const cand = list[Math.floor(Math.random()*list.length)];
+    if(cand!==locationId){ next=cand; break; }
+  }
+  locationId = next;
+  finished = false;
+  round = 1;
+  triedSet = new Set();
+  document.getElementById('score').textContent = '';
+  updateGuessedUI();
+  try { guess.value = ''; } catch {}
+  loadCountry();
+}
+
+function scheduleRotation(){
+  try{ if(rotateTimer) clearInterval(rotateTimer); }catch{}
+  try{ if(rotateTimeout) clearTimeout(rotateTimeout); }catch{}
+  rotateTimeout = setTimeout(rotateCountry, 5*60*1000); // 5 minutes
+}
 
 function loadCountry() {
   try { console.log('GeoLayers loading', locationId); } catch {}
+  // Cancel any in-flight loads from the previous country
+  try { if (currentAbort) currentAbort.abort(); } catch {}
+  currentAbort = new AbortController();
+  const signal = currentAbort.signal;
+
+  // Remove existing layers explicitly to free memory
+  try { if (riversLayer && map && map.hasLayer(riversLayer)) map.removeLayer(riversLayer); } catch {}
+  try { if (citiesLayer && map && map.hasLayer(citiesLayer)) map.removeLayer(citiesLayer); } catch {}
+  try { if (roadsLayer  && map && map.hasLayer(roadsLayer))  map.removeLayer(roadsLayer); } catch {}
+  try { if (topoLayer   && map && map.hasLayer(topoLayer))   map.removeLayer(topoLayer); } catch {}
+  try { if (outline     && map && map.hasLayer(outline))     map.removeLayer(outline); } catch {}
+  riversLayer = citiesLayer = roadsLayer = topoLayer = null;
+
   Promise.all([
-    fetch(`data/${locationId}/outline.geojson`).then(r => r.ok ? r.json() : { type:'FeatureCollection', features: [] }).catch(() => ({ type:'FeatureCollection', features: [] })),
+    fetch(`data/${locationId}/outline.geojson`, { signal }).then(r => r.ok ? r.json() : { type:'FeatureCollection', features: [] }).catch(() => ({ type:'FeatureCollection', features: [] })),
     (async () => {
       try {
-        const r1 = await fetch(`data/${locationId}/rivers_highres.geojson`);
+        const r1 = await fetch(`data/${locationId}/rivers_highres.geojson`, { signal });
         if (r1.ok) return r1.json();
       } catch {}
       try {
-        const r2 = await fetch(`data/${locationId}/rivers.geojson`);
+        const r2 = await fetch(`data/${locationId}/rivers.geojson`, { signal });
         if (r2.ok) return r2.json();
       } catch {}
       return { type:'FeatureCollection', features: [] };
+    })(),
+    (async () => {
+      try {
+        const r1 = await fetch(`data/${locationId}/roads.geojson`, { signal });
+        if (r1.ok) return r1.json();
+      } catch {}
+      return { type:'FeatureCollection', features: [] };
+    })(),
+    (async () => {
+      try {
+        const r1 = await fetch(`data/${locationId}/elevation.geojson`, { signal });
+        if (r1.ok) return r1.json();
+      } catch {}
+      return { type:'FeatureCollection', features: [] };
+    })(),
+    (async () => {
+      try {
+        const r1 = await fetch(`data/${locationId}/cities.geojson`, { signal });
+        if (r1.ok) return r1.json();
+      } catch {}
+      return { type:'FeatureCollection', features: [] };
     })()
-  ]).then(([outlineGeo, riversGeo]) => {
+  ]).then(([outlineGeo, riversGeo, roadsGeo, elevationGeo, citiesGeo]) => {
     if (!map) {
       // Initialize with a safe default view so resize/getCenter never sees undefined zoom
-      map = L.map('map', { zoomControl: false, attributionControl: false, center: [20, 0], zoom: 2 });
+      map = L.map('map', { zoomControl: false, attributionControl: false, center: [20, 0], zoom: 2, preferCanvas: true });
       try { map.on('resize', (ev) => { try { console.log('Map resize event, zoom=', map.getZoom()); } catch {} }); } catch {}
     } else {
-      map.eachLayer(l => map.removeLayer(l));
+      // Do not remove baselayers; we already removed our vector layers above
     }
 
     citiesLayer = null;
 
     const outlineSan = sanitizeGeoJSON(outlineGeo) || outlineGeo;
-    const riversSan = sanitizeGeoJSON(riversGeo) || riversGeo;
+    const riversSan = capFeatureCount(sanitizeGeoJSON(riversGeo) || riversGeo, 40000);
     try {
       outline = L.geoJSON(outlineSan, { coordsToLatLng: safeCoordsToLatLng });
     } catch {
       outline = L.geoJSON({ type:'FeatureCollection', features: [] });
     }
-    let riversLayer;
     try {
-      riversLayer = L.geoJSON(riversSan, { style: { color: '#0ff' }, coordsToLatLng: safeCoordsToLatLng });
+      riversLayer = L.geoJSON(riversSan, { style: { color: '#0ff', weight: 1, opacity: 0.9, lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
     } catch {
       riversLayer = L.geoJSON({ type:'FeatureCollection', features: [] });
     }
+    try {
+      const roadsSan0 = sanitizeGeoJSON(roadsGeo) || roadsGeo;
+      const roadsSan = limitRoads(roadsSan0, 30000);
+      roadsLayer = L.geoJSON(roadsSan, { style: { color: '#888', weight: 1, opacity: 0.7, lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
+    } catch { roadsLayer = null; }
+    try {
+      const topoSan = capFeatureCount(sanitizeGeoJSON(elevationGeo) || elevationGeo, 30000);
+      topoLayer = L.geoJSON(topoSan, { style: { color: '#aaa', weight: 0.8, opacity: 0.6, dashArray: '2,2', lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
+    } catch { topoLayer = null; }
+    try {
+      const citiesSan = sanitizeGeoJSON(citiesGeo) || citiesGeo;
+      citiesLayer = L.geoJSON(citiesSan, {
+        coordsToLatLng: safeCoordsToLatLng,
+        pointToLayer: (feature, latlng) =>
+          L.circleMarker(latlng, { radius: 5, color: '#f00' }).bindTooltip((feature && feature.properties && feature.properties.name) || '')
+      });
+    } catch { citiesLayer = null; }
 
     // Defer fitBounds until container has real size to avoid Infinity zoom
     const ensureSized = () => {
@@ -190,15 +443,7 @@ function loadCountry() {
       } else {
         map.setView([20, 0], 2);
       }
-      // Add layers after view set
-      if (layerMode === 'outline') {
-        outline.addTo(map);
-      } else if (layerMode === 'rivers') {
-        riversLayer.addTo(map);
-      } else {
-        outline.addTo(map);
-        riversLayer.addTo(map);
-      }
+      if(adminMode) applyAdminLayers(); else applyRoundLayers();
     };
     if (ensureSized()) {
       applyView();
@@ -213,11 +458,20 @@ function loadCountry() {
     }
   }).catch(() => {
     if (!map) {
-      map = L.map('map', { zoomControl: false, attributionControl: false, center: [20, 0], zoom: 2 });
+      map = L.map('map', { zoomControl: false, attributionControl: false, center: [20, 0], zoom: 2, preferCanvas: true });
     }
     map.setView([20, 0], 2);
   });
 }
+
+// Clear timers and aborts on unload to avoid background work
+try{
+  window.addEventListener('beforeunload', () => {
+    try { if (rotateTimer) clearInterval(rotateTimer); } catch {}
+    try { if (rotateTimeout) clearTimeout(rotateTimeout); } catch {}
+    try { if (currentAbort) currentAbort.abort(); } catch {}
+  });
+}catch{}
 
 function showCities() {
   if (citiesLayer) {
@@ -229,32 +483,14 @@ function showCities() {
     return r.json();
   }).then(citiesGeo => {
     if (!citiesGeo) return;
-    const citiesSan = sanitizeGeoJSON(citiesGeo) || citiesGeo;
-    try {
-      citiesLayer = L.geoJSON(citiesSan, {
-        coordsToLatLng: safeCoordsToLatLng,
-        pointToLayer: (feature, latlng) =>
-          L.circleMarker(latlng, { radius: 5, color: '#f00' }).bindTooltip((feature && feature.properties && feature.properties.name) || '')
-      });
-      citiesLayer.addTo(map);
-    } catch {}
+      const citiesSan = sanitizeGeoJSON(citiesGeo) || citiesGeo;
+      try {
+        citiesLayer = L.geoJSON(citiesSan, {
+          coordsToLatLng: safeCoordsToLatLng,
+          pointToLayer: (feature, latlng) =>
+          L.circleMarker(latlng, { radius: 5, color: '#f00' }).bindTooltip(formatCityName((feature && feature.properties && feature.properties.name) || ''))
+        });
+        citiesLayer.addTo(map);
+      } catch {}
   }).catch(() => {});
 }
-
-guess.addEventListener('change', () => {
-  if (finished) return;
-  const val = guess.value;
-  if (!val) return;
-  if (val === locationId) {
-    document.getElementById('score').textContent = `Correct! It is ${val}.`;
-    finished = true;
-    outline.addTo(map);
-    const b = outline.getBounds();
-    if (b && b.isValid && b.isValid()) {
-      map.fitBounds(b.pad(0.1));
-    }
-  } else {
-    document.getElementById('score').textContent = 'Incorrect, try again!';
-    showCities();
-  }
-});

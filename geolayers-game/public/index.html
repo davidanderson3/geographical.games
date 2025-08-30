@@ -11,10 +11,10 @@
 </head>
 <body>
   <div id="map"></div>
-  <select id="guess">
-    <option value="">Guess country...</option>
-  </select>
+  <input id="guess" type="text" placeholder="Guess country..." list="countriesList" autocomplete="off" />
+  <datalist id="countriesList"></datalist>
   <div id="score"></div>
+  <div id="guessed"></div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="main.js?v=20250829"></script>

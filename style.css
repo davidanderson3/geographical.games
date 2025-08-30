@@ -1203,6 +1203,19 @@ h2 {
   max-width: none !important;
   margin: 0 !important;
   width: 100% !important;
+  padding: 0 !important;             /* remove side gutters */
+  background: transparent !important; /* no panel background */
+  box-shadow: none !important;        /* no outer shadow */
+}
+
+#geolayersPanel .full-column {
+  width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  background: transparent !important;
 }
 
 #metricsPanel .full-column {
@@ -2318,6 +2331,60 @@ h2 {
 }
 
 /* GeoScore admin styles */
+.geoscore-admin-shell {
+  display: flex;
+  gap: 12px;
+  align-items: stretch;
+}
+
+.geoscore-col {
+  display: flex;
+  flex-direction: column;
+  min-width: 220px;
+  max-height: 70vh;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.geoscore-col:first-child {
+  width: 240px;
+}
+
+.geoscore-col-title {
+  padding: 8px 10px;
+  font-weight: 600;
+  border-bottom: 1px solid #e3e3e3;
+  background: #f9f9f9;
+}
+
+.geoscore-col-body {
+  padding: 6px;
+  overflow: auto;
+}
+
+.geoscore-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.geoscore-item {
+  padding: 6px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.geoscore-item:hover {
+  background: #f2f6ff;
+}
+
+.geoscore-item.selected {
+  background: #e6efff;
+  border: 1px solid #c8dcff;
+}
+
 .geoscore-answers {
   margin: 8px 0;
 }
