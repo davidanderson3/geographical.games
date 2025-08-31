@@ -1,2 +1,347 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-TN,4752004,Nashville-Davidson,consolidated,MG,A,0,"Nashville-Davidson, TN",0,1,250,1,Nashville-Davidson metropolitan government
+TN,4752006,Nashville-Davidson metropolitan government (balance),incorporated,00,F,689447,"Nashville-Davidson metropolitan government (balance), TN",0,1,37,0.37,Nashville-Davidson metropolitan government (balance)
+TN,4748000,Memphis,incorporated,25,A,633104,"Memphis, TN",0,2,10,0.1,Memphis city
+TN,4740000,Knoxville,incorporated,25,A,190740,"Knoxville, TN",0,3,6,0.06,Knoxville city
+TN,4714000,Chattanooga,incorporated,25,A,181099,"Chattanooga, TN",0,4,4,0.04,Chattanooga city
+TN,4715160,Clarksville,incorporated,25,A,166722,"Clarksville, TN",0,5,3,0.03,Clarksville city
+TN,4751560,Murfreesboro,incorporated,25,A,152769,"Murfreesboro, TN",0,6,4,0.04,Murfreesboro city
+TN,4727740,Franklin,incorporated,25,A,83454,"Franklin, TN",0,7,2,0.02,Franklin city
+TN,4738320,Johnson City,incorporated,25,A,71046,"Johnson City, TN",0,8,3,0.03,Johnson City city
+TN,4737640,Jackson,incorporated,25,A,68205,"Jackson, TN",0,9,3,0.03,Jackson city
+TN,4733280,Hendersonville,incorporated,25,A,61753,"Hendersonville, TN",0,10,1,0.01,Hendersonville city
+TN,4703440,Bartlett,incorporated,25,A,57786,"Bartlett, TN",0,11,1,0.01,Bartlett city
+TN,4739560,Kingsport,incorporated,25,A,55442,"Kingsport, TN",0,12,1,0.01,Kingsport city
+TN,4769420,Smyrna,incorporated,43,A,53070,"Smyrna, TN",0,13,2,0.02,Smyrna town
+TN,4716420,Collierville,incorporated,43,A,51324,"Collierville, TN",0,14,2,0.02,Collierville town
+TN,4770580,Spring Hill,incorporated,25,A,50005,"Spring Hill, TN",0,15,2,0.02,Spring Hill city
+TN,4715400,Cleveland,incorporated,25,A,47356,"Cleveland, TN",0,16,2,0.02,Cleveland city
+TN,4708280,Brentwood,incorporated,25,A,45373,"Brentwood, TN",0,17,2,0.02,Brentwood city
+TN,4728540,Gallatin,incorporated,25,A,44431,"Gallatin, TN",0,18,2,0.02,Gallatin city
+TN,4716540,Columbia,incorporated,25,A,41690,"Columbia, TN",0,19,2,0.02,Columbia city
+TN,4728960,Germantown,incorporated,25,A,41333,"Germantown, TN",0,20,2,0.02,Germantown city
+TN,4750780,Mount Juliet,incorporated,25,A,39289,"Mount Juliet, TN",0,21,2,0.02,Mount Juliet city
+TN,4741200,La Vergne,incorporated,25,A,38719,"La Vergne, TN",0,22,2,0.02,La Vergne city
+TN,4741520,Lebanon,incorporated,25,A,38431,"Lebanon, TN",0,23,1,0.01,Lebanon city
+TN,4716920,Cookeville,incorporated,25,A,34842,"Cookeville, TN",0,24,1,0.01,Cookeville city
+TN,4746380,Maryville,incorporated,25,A,31907,"Maryville, TN",0,25,1,0.01,Maryville city
+TN,4755120,Oak Ridge,incorporated,25,A,31402,"Oak Ridge, TN",0,26,1,0.01,Oak Ridge city
+TN,4750280,Morristown,incorporated,25,A,30431,"Morristown, TN",0,27,1,0.01,Morristown city
+TN,4708540,Bristol,incorporated,25,A,27147,"Bristol, TN",0,28,0,0,Bristol city
+TN,4767760,Shelbyville,incorporated,25,A,23557,"Shelbyville, TN",0,29,0,0,Shelbyville city
+TN,4725760,Farragut,incorporated,43,A,23506,"Farragut, TN",0,30,0,0,Farragut town
+TN,4722720,East Ridge,incorporated,25,A,22167,"East Ridge, TN",0,31,0,0,East Ridge city
+TN,4775320,Tullahoma,incorporated,25,A,20339,"Tullahoma, TN",0,32,0,0,Tullahoma city
+TN,4770500,Springfield,incorporated,25,A,18782,"Springfield, TN",0,33,0,0,Springfield city
+TN,4767120,Sevierville,incorporated,25,A,17889,"Sevierville, TN",0,34,0,0,Sevierville city
+TN,4729920,Goodlettsville,incorporated,25,A,17789,"Goodlettsville, TN",0,35,0,0,Goodlettsville city
+TN,4722200,Dyersburg,incorporated,25,A,16164,"Dyersburg, TN",0,36,0,0,Dyersburg city
+TN,4720620,Dickson,incorporated,25,A,16058,"Dickson, TN",0,37,0,0,Dickson city
+TN,4730980,Greeneville,incorporated,43,A,15479,"Greeneville, TN",0,38,0,0,Greeneville town
+TN,4701740,Arlington,incorporated,43,A,14549,"Arlington, TN",0,39,0,0,Arlington town
+TN,4723500,Elizabethton,incorporated,25,A,14546,"Elizabethton, TN",0,40,0,0,Elizabethton city
+TN,4702320,Athens,incorporated,25,A,14084,"Athens, TN",0,41,0,0,Athens city
+TN,4740350,Lakeland,incorporated,25,A,13904,"Lakeland, TN",0,42,0,0,Lakeland city
+TN,4753460,Nolensville,incorporated,43,A,13829,"Nolensville, TN",0,43,0,0,Nolensville town
+TN,4745100,McMinnville,incorporated,25,A,13788,"McMinnville, TN",0,44,0,0,McMinnville city
+TN,4760280,Portland,incorporated,25,A,13156,"Portland, TN",0,45,0,0,Portland city
+TN,4769560,Soddy-Daisy,incorporated,25,A,13070,"Soddy-Daisy, TN",0,46,0,0,Soddy-Daisy city
+TN,4780200,White House,incorporated,25,A,12982,"White House, TN",0,47,0,0,White House city
+TN,4741860,Lewisburg,incorporated,25,A,12288,"Lewisburg, TN",0,48,0,0,Lewisburg city
+TN,4745500,Manchester,incorporated,25,A,12212,"Manchester, TN",0,49,0,0,Manchester city
+TN,4718540,Crossville,incorporated,25,A,12071,"Crossville, TN",0,50,0,0,Crossville city
+TN,4761960,Red Bank,incorporated,25,A,11899,"Red Bank, TN",0,51,0,0,Red Bank city
+TN,4741340,Lawrenceburg,incorporated,25,A,11633,"Lawrenceburg, TN",0,52,0,0,Lawrenceburg city
+TN,4732742,Hartsville/Trousdale County,incorporated,00,A,11615,"Hartsville/Trousdale County, TN",0,53,0,0,Hartsville/Trousdale County
+TN,4775940,Union City,incorporated,25,A,11170,"Union City, TN",0,54,0,0,Union City city
+TN,4716300,Collegedale,incorporated,25,A,11109,"Collegedale, TN",0,55,0,0,Collegedale city
+TN,4700540,Alcoa,incorporated,25,A,10978,"Alcoa, TN",0,56,0,0,Alcoa city
+TN,4746240,Martin,incorporated,25,A,10825,"Martin, TN",0,57,0,0,Martin city
+TN,4749060,Millington,incorporated,25,A,10582,"Millington, TN",0,58,0,0,Millington city
+TN,4756720,Paris,incorporated,25,A,10316,"Paris, TN",0,59,0,0,Paris city
+TN,4741760,Lenoir City,incorporated,25,A,10117,"Lenoir City, TN",0,60,0,0,Lenoir City city
+TN,4715580,Clinton,incorporated,25,A,10056,"Clinton, TN",0,61,0,0,Clinton city
+TN,4702340,Atoka,incorporated,43,A,10008,"Atoka, TN",0,62,0,0,Atoka town
+TN,4708920,Brownsville,incorporated,25,A,9788,"Brownsville, TN",0,63,0,0,Brownsville city
+TN,4781080,Winchester,incorporated,25,A,9375,"Winchester, TN",0,64,0,0,Winchester city
+TN,4725440,Fairview,incorporated,25,A,9357,"Fairview, TN",0,65,0,0,Fairview city
+TN,4754920,Oakland,incorporated,43,A,8936,"Oakland, TN",0,66,0,0,Oakland town
+TN,4768540,Signal Mountain,incorporated,43,A,8852,"Signal Mountain, TN",0,67,0,0,Signal Mountain town
+TN,4717680,Covington,incorporated,25,A,8663,"Covington, TN",0,68,0,0,Covington city
+TN,4737960,Jefferson City,incorporated,25,A,8419,"Jefferson City, TN",0,69,0,0,Jefferson City city
+TN,4761040,Pulaski,incorporated,25,A,8397,"Pulaski, TN",0,70,0,0,Pulaski city
+TN,4748660,Milan,incorporated,25,A,8171,"Milan, TN",0,71,0,0,Milan city
+TN,4741980,Lexington,incorporated,25,A,7956,"Lexington, TN",0,72,0,0,Lexington city
+TN,4736460,Humboldt,incorporated,25,A,7874,"Humboldt, TN",0,73,0,0,Humboldt city
+TN,4763340,Ripley,incorporated,25,A,7800,"Ripley, TN",0,74,0,0,Ripley city
+TN,4773900,Thompson's Station,incorporated,43,A,7485,"Thompson's Station, TN",0,75,0,0,Thompson's Station town
+TN,4740180,La Follette,incorporated,25,A,7430,"La Follette, TN",0,76,0,0,La Follette city
+TN,4766720,Savannah,incorporated,25,A,7213,"Savannah, TN",0,77,0,0,Savannah city
+TN,4725920,Fayetteville,incorporated,25,A,7068,"Fayetteville, TN",0,78,0,0,Fayetteville city
+TN,4719700,Dayton,incorporated,25,A,7065,"Dayton, TN",0,79,0,0,Dayton city
+TN,4714980,Church Hill,incorporated,25,A,6998,"Church Hill, TN",0,80,0,0,Church Hill city
+TN,4730960,Greenbrier,incorporated,43,A,6898,"Greenbrier, TN",0,81,0,0,Greenbrier town
+TN,4753000,Newport,incorporated,25,A,6868,"Newport, TN",0,82,0,0,Newport city
+TN,4744382,"Lynchburg, Moore County",incorporated,MG,A,6461,"Lynchburg, Moore County, TN",0,83,0,0,"Lynchburg, Moore County metropolitan government"
+TN,4758080,Pigeon Forge,incorporated,25,A,6343,"Pigeon Forge, TN",0,84,0,0,Pigeon Forge city
+TN,4772540,Sweetwater,incorporated,25,A,6312,"Sweetwater, TN",0,85,0,0,Sweetwater city
+TN,4733260,Henderson,incorporated,25,A,6308,"Henderson, TN",0,86,0,0,Henderson city
+TN,4751540,Munford,incorporated,25,A,6302,"Munford, TN",0,87,0,0,Munford city
+TN,4748980,Millersville,incorporated,25,A,6299,"Millersville, TN",0,88,0,0,Millersville city
+TN,4724360,Erwin,incorporated,43,A,6083,"Erwin, TN",0,89,0,0,Erwin town
+TN,4743780,Loudon,incorporated,25,A,5991,"Loudon, TN",0,90,0,0,Loudon city
+TN,4739620,Kingston,incorporated,25,A,5953,"Kingston, TN",0,91,0,0,Kingston city
+TN,4732520,Harriman,incorporated,25,A,5892,"Harriman, TN",0,92,0,0,Harriman city
+TN,4738540,Jonesborough,incorporated,43,A,5860,"Jonesborough, TN",0,93,0,0,Jonesborough town
+TN,4740160,Lafayette,incorporated,25,A,5584,"Lafayette, TN",0,94,0,0,Lafayette city
+TN,4744940,McKenzie,incorporated,25,A,5529,"McKenzie, TN",0,95,0,0,McKenzie city
+TN,4750580,Mount Carmel,incorporated,43,A,5473,"Mount Carmel, TN",0,96,0,0,Mount Carmel town
+TN,4764440,Rockwood,incorporated,25,A,5444,"Rockwood, TN",0,97,0,0,Rockwood city
+TN,4722000,Dunlap,incorporated,25,A,5357,"Dunlap, TN",0,98,0,0,Dunlap city
+TN,4707180,Bolivar,incorporated,25,A,5205,"Bolivar, TN",0,99,0,0,Bolivar city
+TN,4702180,Ashland City,incorporated,43,A,5193,"Ashland City, TN",0,100,0,0,Ashland City town
+TN,4745320,Madisonville,incorporated,25,A,5132,"Madisonville, TN",0,101,0,0,Madisonville city
+TN,4747000,Medina,incorporated,25,A,5126,"Medina, TN",0,102,0,0,Medina city
+TN,4727020,Forest Hills,incorporated,25,A,5038,"Forest Hills, TN",0,103,0,0,Forest Hills city
+TN,4769320,Smithville,incorporated,25,A,5004,"Smithville, TN",0,104,0,0,Smithville city
+TN,4770180,Sparta,incorporated,25,A,4998,"Sparta, TN",0,105,0,0,Sparta city
+TN,4754780,Oak Hill,incorporated,25,A,4891,"Oak Hill, TN",0,106,0,0,Oak Hill city
+TN,4759560,Pleasant View,incorporated,25,A,4807,"Pleasant View, TN",0,107,0,0,Pleasant View city
+TN,4751080,Mount Pleasant,incorporated,25,A,4784,"Mount Pleasant, TN",0,108,0,0,Mount Pleasant city
+TN,4764820,Rogersville,incorporated,43,A,4671,"Rogersville, TN",0,109,0,0,Rogersville town
+TN,4716980,Coopertown,incorporated,43,A,4480,"Coopertown, TN",0,110,0,0,Coopertown town
+TN,4766940,Selmer,incorporated,43,A,4446,"Selmer, TN",0,111,0,0,Selmer town
+TN,4736580,Huntingdon,incorporated,43,A,4439,"Huntingdon, TN",0,112,0,0,Huntingdon town
+TN,4732640,Harrogate,incorporated,25,A,4400,"Harrogate, TN",0,113,0,0,Harrogate city
+TN,4743820,Louisville,incorporated,25,A,4384,"Louisville, TN",0,114,0,0,Louisville city
+TN,4778560,Waverly,incorporated,25,A,4297,"Waverly, TN",0,115,0,0,Waverly city
+TN,4775000,Trenton,incorporated,25,A,4240,"Trenton, TN",0,116,0,0,Trenton city
+TN,4774540,Tiptonville,incorporated,43,A,3976,"Tiptonville, TN",0,117,0,0,Tiptonville town
+TN,4700640,Algood,incorporated,25,A,3963,"Algood, TN",0,118,0,0,Algood city
+TN,4743140,Livingston,incorporated,43,A,3905,"Livingston, TN",0,119,0,0,Livingston town
+TN,4779980,White Bluff,incorporated,43,A,3862,"White Bluff, TN",0,120,0,0,White Bluff town
+TN,4775820,Unicoi,incorporated,43,A,3833,"Unicoi, TN",0,121,0,0,Unicoi town
+TN,4755860,Oneida,incorporated,43,A,3787,"Oneida, TN",0,122,0,0,Oneida town
+TN,4710560,Camden,incorporated,25,A,3674,"Camden, TN",0,123,0,0,Camden city
+TN,4735160,Hohenwald,incorporated,25,A,3668,"Hohenwald, TN",0,124,0,0,Hohenwald city
+TN,4737820,Jasper,incorporated,43,A,3612,"Jasper, TN",0,125,0,0,Jasper town
+TN,4724480,Etowah,incorporated,25,A,3603,"Etowah, TN",0,126,0,0,Etowah city
+TN,4728800,Gatlinburg,incorporated,25,A,3577,"Gatlinburg, TN",0,127,0,0,Gatlinburg city
+TN,4712420,Centerville,incorporated,43,A,3532,"Centerville, TN",0,128,0,0,Centerville town
+TN,4769620,Somerville,incorporated,43,A,3415,"Somerville, TN",0,129,0,0,Somerville town
+TN,4752400,Newbern,incorporated,43,A,3349,"Newbern, TN",0,130,0,0,Newbern town
+TN,4719380,Dandridge,incorporated,43,A,3344,"Dandridge, TN",0,131,0,0,Dandridge town
+TN,4775560,Tusculum,incorporated,25,A,3298,"Tusculum, TN",0,132,0,0,Tusculum city
+TN,4755800,Oliver Springs,incorporated,43,A,3297,"Oliver Springs, TN",0,133,0,0,Oliver Springs town
+TN,4770060,South Pittsburg,incorporated,25,A,3106,"South Pittsburg, TN",0,134,0,0,South Pittsburg city
+TN,4721540,Dresden,incorporated,43,A,3019,"Dresden, TN",0,135,0,0,Dresden town
+TN,4703760,Bean Station,incorporated,25,A,2967,"Bean Station, TN",0,136,0,0,Bean Station city
+TN,4704620,Belle Meade,incorporated,25,A,2901,"Belle Meade, TN",0,137,0,0,Belle Meade city
+TN,4708500,Brighton,incorporated,43,A,2888,"Brighton, TN",0,138,0,0,Brighton town
+TN,4739660,Kingston Springs,incorporated,43,A,2824,"Kingston Springs, TN",0,139,0,0,Kingston Springs town
+TN,4753140,New Tazewell,incorporated,43,A,2769,"New Tazewell, TN",0,140,0,0,New Tazewell town
+TN,4749760,Monterey,incorporated,43,A,2746,"Monterey, TN",0,141,0,0,Monterey town
+TN,4779420,Westmoreland,incorporated,43,A,2718,"Westmoreland, TN",0,142,0,0,Westmoreland town
+TN,4781560,Woodbury,incorporated,43,A,2703,"Woodbury, TN",0,143,0,0,Woodbury town
+TN,4715480,Clifton,incorporated,25,A,2651,"Clifton, TN",0,144,0,0,Clifton city
+TN,4780540,Whiteville,incorporated,43,A,2606,"Whiteville, TN",0,145,0,0,Whiteville town
+TN,4750320,Mosheim,incorporated,43,A,2479,"Mosheim, TN",0,146,0,0,Mosheim town
+TN,4780360,White Pine,incorporated,43,A,2471,"White Pine, TN",0,147,0,0,White Pine town
+TN,4704720,Bells,incorporated,25,A,2463,"Bells, TN",0,148,0,0,Bells city
+TN,4746700,Maynardville,incorporated,25,A,2456,"Maynardville, TN",0,149,0,0,Maynardville city
+TN,4750400,Mountain City,incorporated,43,A,2415,"Mountain City, TN",0,150,0,0,Mountain City town
+TN,4719920,Decherd,incorporated,25,A,2379,"Decherd, TN",0,151,0,0,Decherd city
+TN,4773120,Tazewell,incorporated,43,A,2348,"Tazewell, TN",0,152,0,0,Tazewell town
+TN,4700440,Alamo,incorporated,43,A,2336,"Alamo, TN",0,153,0,0,Alamo town
+TN,4778600,Waynesboro,incorporated,25,A,2317,"Waynesboro, TN",0,154,0,0,Waynesboro city
+TN,4722180,Dyer,incorporated,25,A,2308,"Dyer, TN",0,155,0,0,Dyer city
+TN,4737600,Jacksboro,incorporated,43,A,2306,"Jacksboro, TN",0,156,0,0,Jacksboro town
+TN,4711280,Carthage,incorporated,43,A,2291,"Carthage, TN",0,157,0,0,Carthage town
+TN,4724440,Estill Springs,incorporated,43,A,2267,"Estill Springs, TN",0,158,0,0,Estill Springs town
+TN,4700240,Adamsville,incorporated,43,A,2265,"Adamsville, TN",0,159,0,0,Adamsville town
+TN,4758840,Piperton,incorporated,25,A,2263,"Piperton, TN",0,160,0,0,Piperton city
+TN,4769900,South Fulton,incorporated,25,A,2245,"South Fulton, TN",0,161,0,0,South Fulton city
+TN,4711360,Caryville,incorporated,43,A,2212,"Caryville, TN",0,162,0,0,Caryville town
+TN,4763140,Ridgetop,incorporated,25,A,2155,"Ridgetop, TN",0,163,0,0,Ridgetop city
+TN,4738020,Jellico,incorporated,25,A,2154,"Jellico, TN",0,164,0,0,Jellico city
+TN,4705140,Berry Hill,incorporated,25,A,2112,"Berry Hill, TN",0,165,0,0,Berry Hill city
+TN,4757080,Parsons,incorporated,25,A,2100,"Parsons, TN",0,166,0,0,Parsons city
+TN,4731820,Halls,incorporated,43,A,2091,"Halls, TN",0,167,0,0,Halls town
+TN,4706340,Blaine,incorporated,25,A,2084,"Blaine, TN",0,168,0,0,Blaine city
+TN,4757480,Pegram,incorporated,43,A,2072,"Pegram, TN",0,169,0,0,Pegram town
+TN,4759020,Plainview,incorporated,25,A,2060,"Plainview, TN",0,170,0,0,Plainview city
+TN,4743640,Lookout Mountain,incorporated,43,A,2058,"Lookout Mountain, TN",0,171,0,0,Lookout Mountain town
+TN,4731000,Greenfield,incorporated,25,A,2031,"Greenfield, TN",0,172,0,0,Greenfield city
+TN,4777540,Walden,incorporated,43,A,1981,"Walden, TN",0,173,0,0,Walden town
+TN,4770400,Spring City,incorporated,43,A,1949,"Spring City, TN",0,174,0,0,Spring City town
+TN,4737780,Jamestown,incorporated,25,A,1935,"Jamestown, TN",0,175,0,0,Jamestown city
+TN,4772380,Surgoinsville,incorporated,43,A,1882,"Surgoinsville, TN",0,176,0,0,Surgoinsville town
+TN,4774100,Three Way,incorporated,25,A,1877,"Three Way, TN",0,177,0,0,Three Way city
+TN,4740540,Lakesite,incorporated,25,A,1856,"Lakesite, TN",0,178,0,0,Lakesite city
+TN,4721400,Dover,incorporated,25,A,1826,"Dover, TN",0,179,0,0,Dover city
+TN,4758120,Pikeville,incorporated,25,A,1824,"Pikeville, TN",0,180,0,0,Pikeville city
+TN,4706960,Bluff City,incorporated,25,A,1822,"Bluff City, TN",0,181,0,0,Bluff City city
+TN,4752820,New Johnsonville,incorporated,25,A,1804,"New Johnsonville, TN",0,182,0,0,New Johnsonville city
+TN,4718420,Cross Plains,incorporated,25,A,1789,"Cross Plains, TN",0,183,0,0,Cross Plains city
+TN,4717700,Cowan,incorporated,25,A,1759,"Cowan, TN",0,184,0,0,Cowan city
+TN,4731490,Gruetli-Laager,incorporated,25,A,1742,"Gruetli-Laager, TN",0,185,0,0,Gruetli-Laager city
+TN,4743700,Loretto,incorporated,25,A,1739,"Loretto, TN",0,186,0,0,Loretto city
+TN,4712880,Chapel Hill,incorporated,43,A,1717,"Chapel Hill, TN",0,187,0,0,Chapel Hill town
+TN,4763060,Ridgely,incorporated,43,A,1690,"Ridgely, TN",0,188,0,0,Ridgely town
+TN,4713080,Charlotte,incorporated,43,A,1656,"Charlotte, TN",0,189,0,0,Charlotte town
+TN,4744840,McEwen,incorporated,25,A,1643,"McEwen, TN",0,190,0,0,McEwen city
+TN,4780620,Whitwell,incorporated,25,A,1641,"Whitwell, TN",0,191,0,0,Whitwell city
+TN,4764668,Rocky Top,incorporated,25,A,1628,"Rocky Top, TN",0,192,0,0,Rocky Top city
+TN,4753600,Norris,incorporated,25,A,1599,"Norris, TN",0,193,0,0,Norris city
+TN,4718620,Crump,incorporated,25,A,1594,"Crump, TN",0,194,0,0,Crump city
+TN,4703680,Baxter,incorporated,43,A,1578,"Baxter, TN",0,195,0,0,Baxter town
+TN,4777480,Vonore,incorporated,43,A,1574,"Vonore, TN",0,196,0,0,Vonore town
+TN,4709880,Burns,incorporated,43,A,1573,"Burns, TN",0,197,0,0,Burns town
+TN,4719880,Decatur,incorporated,43,A,1563,"Decatur, TN",0,198,0,0,Decatur town
+TN,4778320,Watertown,incorporated,25,A,1553,"Watertown, TN",0,199,0,0,Watertown city
+TN,4739400,Kimball,incorporated,43,A,1545,"Kimball, TN",0,200,0,0,Kimball town
+TN,4705040,Benton,incorporated,43,A,1523,"Benton, TN",0,201,0,0,Benton town
+TN,4708960,Bruceton,incorporated,43,A,1507,"Bruceton, TN",0,202,0,0,Bruceton town
+TN,4769680,South Carthage,incorporated,43,A,1490,"South Carthage, TN",0,203,0,0,South Carthage town
+TN,4724040,Englewood,incorporated,43,A,1483,"Englewood, TN",0,204,0,0,Englewood town
+TN,4730760,Graysville,incorporated,43,A,1471,"Graysville, TN",0,205,0,0,Graysville town
+TN,4770240,Spencer,incorporated,25,A,1462,"Spencer, TN",0,206,0,0,Spencer city
+TN,4775240,Troy,incorporated,43,A,1423,"Troy, TN",0,207,0,0,Troy town
+TN,4712100,Celina,incorporated,25,A,1422,"Celina, TN",0,208,0,0,Celina city
+TN,4774880,Tracy City,incorporated,43,A,1406,"Tracy City, TN",0,209,0,0,Tracy City town
+TN,4749740,Monteagle,incorporated,43,A,1393,"Monteagle, TN",0,210,0,0,Monteagle town
+TN,4729300,Gleason,incorporated,43,A,1369,"Gleason, TN",0,211,0,0,Gleason town
+TN,4730120,Gordonsville,incorporated,43,A,1363,"Gordonsville, TN",0,212,0,0,Gordonsville town
+TN,4752940,New Market,incorporated,43,A,1349,"New Market, TN",0,213,0,0,New Market town
+TN,4746420,Mason,incorporated,43,A,1337,"Mason, TN",0,214,0,0,Mason town
+TN,4773460,Tennessee Ridge,incorporated,43,A,1332,"Tennessee Ridge, TN",0,215,0,0,Tennessee Ridge town
+TN,4765820,Rutledge,incorporated,43,A,1321,"Rutledge, TN",0,216,0,0,Rutledge town
+TN,4760500,Powells Crossroads,incorporated,43,A,1296,"Powells Crossroads, TN",0,217,0,0,Powells Crossroads town
+TN,4769460,Sneedville,incorporated,43,A,1282,"Sneedville, TN",0,218,0,0,Sneedville town
+TN,4736640,Huntsville,incorporated,43,A,1270,"Huntsville, TN",0,219,0,0,Huntsville town
+TN,4717180,Cornersville,incorporated,43,A,1228,"Cornersville, TN",0,220,0,0,Cornersville town
+TN,4724320,Erin,incorporated,25,A,1224,"Erin, TN",0,221,0,0,Erin city
+TN,4701640,Ardmore,incorporated,25,A,1217,"Ardmore, TN",0,222,0,0,Ardmore city
+TN,4739140,Kenton,incorporated,43,A,1205,"Kenton, TN",0,223,0,0,Kenton town
+TN,4762000,Red Boiling Springs,incorporated,25,A,1205,"Red Boiling Springs, TN",0,224,0,0,Red Boiling Springs city
+TN,4765760,Rutherford,incorporated,43,A,1163,"Rutherford, TN",0,225,0,0,Rutherford town
+TN,4700940,Altamont,incorporated,43,A,1117,"Altamont, TN",0,226,0,0,Altamont town
+TN,4730880,Greenback,incorporated,25,A,1102,"Greenback, TN",0,227,0,0,Greenback city
+TN,4765240,Rossville,incorporated,43,A,1041,"Rossville, TN",0,228,0,0,Rossville town
+TN,4744300,Luttrell,incorporated,43,A,1017,"Luttrell, TN",0,229,0,0,Luttrell town
+TN,4707860,Bradford,incorporated,43,A,1001,"Bradford, TN",0,230,0,0,Bradford town
+TN,4742720,Linden,incorporated,43,A,997,"Linden, TN",0,231,0,0,Linden town
+TN,4755240,Obion,incorporated,43,A,991,"Obion, TN",0,232,0,0,Obion town
+TN,4752780,New Hope,incorporated,25,A,987,"New Hope, TN",0,233,0,0,New Hope city
+TN,4700620,Alexandria,incorporated,43,A,981,"Alexandria, TN",0,234,0,0,Alexandria town
+TN,4756020,Orlinda,incorporated,25,A,947,"Orlinda, TN",0,235,0,0,Orlinda city
+TN,4781280,Winfield,incorporated,43,A,947,"Winfield, TN",0,236,0,0,Winfield town
+TN,4702380,Atwood,incorporated,43,A,940,"Atwood, TN",0,237,0,0,Atwood town
+TN,4767540,Sharon,incorporated,43,A,935,"Sharon, TN",0,238,0,0,Sharon town
+TN,4728420,Gainesboro,incorporated,43,A,920,"Gainesboro, TN",0,239,0,0,Gainesboro town
+TN,4743160,Lobelville,incorporated,25,A,919,"Lobelville, TN",0,240,0,0,Lobelville city
+TN,4716480,Collinwood,incorporated,25,A,898,"Collinwood, TN",0,241,0,0,Collinwood city
+TN,4728060,Friendsville,incorporated,25,A,896,"Friendsville, TN",0,242,0,0,Friendsville city
+TN,4736600,Huntland,incorporated,43,A,886,"Huntland, TN",0,243,0,0,Huntland town
+TN,4766880,Scotts Hill,incorporated,43,A,877,"Scotts Hill, TN",0,244,0,0,Scotts Hill town
+TN,4733360,Henning,incorporated,43,A,871,"Henning, TN",0,245,0,0,Henning town
+TN,4778100,Wartburg,incorporated,25,A,848,"Wartburg, TN",0,246,0,0,Wartburg city
+TN,4764160,Rockford,incorporated,25,A,822,"Rockford, TN",0,247,0,0,Rockford city
+TN,4722360,Eagleville,incorporated,25,A,813,"Eagleville, TN",0,248,0,0,Eagleville city
+TN,4719900,Decaturville,incorporated,43,A,807,"Decaturville, TN",0,249,0,0,Decaturville town
+TN,4775100,Trezevant,incorporated,43,A,799,"Trezevant, TN",0,250,0,0,Trezevant town
+TN,4710180,Byrdstown,incorporated,43,A,798,"Byrdstown, TN",0,251,0,0,Byrdstown town
+TN,4766160,St. Joseph,incorporated,25,A,790,"St. Joseph, TN",0,252,0,0,St. Joseph city
+TN,4715920,Coalmont,incorporated,25,A,784,"Coalmont, TN",0,253,0,0,Coalmont city
+TN,4753380,Niota,incorporated,25,A,772,"Niota, TN",0,254,0,0,Niota city
+TN,4722920,Eastview,incorporated,43,A,763,"Eastview, TN",0,255,0,0,Eastview town
+TN,4773260,Tellico Plains,incorporated,43,A,762,"Tellico Plains, TN",0,256,0,0,Tellico Plains town
+TN,4709560,Bulls Gap,incorporated,43,A,756,"Bulls Gap, TN",0,257,0,0,Bulls Gap town
+TN,4705380,Bethel Springs,incorporated,43,A,742,"Bethel Springs, TN",0,258,0,0,Bethel Springs town
+TN,4750220,Morrison,incorporated,43,A,733,"Morrison, TN",0,259,0,0,Morrison town
+TN,4717840,Crab Orchard,incorporated,25,A,720,"Crab Orchard, TN",0,260,0,0,Crab Orchard city
+TN,4761160,Puryear,incorporated,25,A,706,"Puryear, TN",0,261,0,0,Puryear city
+TN,4735280,Hollow Rock,incorporated,43,A,683,"Hollow Rock, TN",0,262,0,0,Hollow Rock town
+TN,4748180,Michie,incorporated,43,A,679,"Michie, TN",0,263,0,0,Michie town
+TN,4713020,Charleston,incorporated,25,A,664,"Charleston, TN",0,264,0,0,Charleston city
+TN,4728740,Gates,incorporated,43,A,664,"Gates, TN",0,265,0,0,Gates town
+TN,4748340,Middleton,incorporated,25,A,658,"Middleton, TN",0,266,0,0,Middleton city
+TN,4778120,Wartrace,incorporated,43,A,653,"Wartrace, TN",0,267,0,0,Wartrace town
+TN,4700200,Adams,incorporated,25,A,624,"Adams, TN",0,268,0,0,Adams city
+TN,4727960,Friendship,incorporated,25,A,613,"Friendship, TN",0,269,0,0,Friendship city
+TN,4757900,Philadelphia,incorporated,25,A,607,"Philadelphia, TN",0,270,0,0,Philadelphia city
+TN,4746540,Maury City,incorporated,43,A,583,"Maury City, TN",0,271,0,0,Maury City town
+TN,4750300,Moscow,incorporated,25,A,572,"Moscow, TN",0,272,0,0,Moscow city
+TN,4700660,Allardt,incorporated,25,A,555,"Allardt, TN",0,273,0,0,Allardt city
+TN,4756560,Palmer,incorporated,43,A,551,"Palmer, TN",0,274,0,0,Palmer town
+TN,4774860,Townsend,incorporated,25,A,550,"Townsend, TN",0,275,0,0,Townsend city
+TN,4775160,Trimble,incorporated,43,A,547,"Trimble, TN",0,276,0,0,Trimble town
+TN,4723660,Elkton,incorporated,25,A,545,"Elkton, TN",0,277,0,0,Elkton city
+TN,4759240,Pleasant Hill,incorporated,43,A,540,"Pleasant Hill, TN",0,278,0,0,Pleasant Hill town
+TN,4724460,Ethridge,incorporated,43,A,537,"Ethridge, TN",0,279,0,0,Ethridge town
+TN,4710440,Calhoun,incorporated,43,A,536,"Calhoun, TN",0,280,0,0,Calhoun town
+TN,4728560,Gallaway,incorporated,25,A,528,"Gallaway, TN",0,281,0,0,Gallaway city
+TN,4757740,Petersburg,incorporated,43,A,528,"Petersburg, TN",0,282,0,0,Petersburg town
+TN,4703078,Baneberry,incorporated,25,A,523,"Baneberry, TN",0,283,0,0,Baneberry city
+TN,4772140,Sunbright,incorporated,25,A,519,"Sunbright, TN",0,284,0,0,Sunbright city
+TN,4736000,Hornbeak,incorporated,43,A,511,"Hornbeak, TN",0,285,0,0,Hornbeak town
+TN,4749360,Minor Hill,incorporated,25,A,504,"Minor Hill, TN",0,286,0,0,Minor Hill city
+TN,4721500,Doyle,incorporated,43,A,493,"Doyle, TN",0,287,0,0,Doyle town
+TN,4705860,Big Sandy,incorporated,43,A,486,"Big Sandy, TN",0,288,0,0,Big Sandy town
+TN,4729160,Gilt Edge,incorporated,25,A,476,"Gilt Edge, TN",0,289,0,0,Gilt Edge city
+TN,4728380,Gadsden,incorporated,43,A,469,"Gadsden, TN",0,290,0,0,Gadsden town
+TN,4721740,Ducktown,incorporated,25,A,461,"Ducktown, TN",0,291,0,0,Ducktown city
+TN,4758940,Pittman Center,incorporated,43,A,454,"Pittman Center, TN",0,292,0,0,Pittman Center town
+TN,4733400,Henry,incorporated,43,A,446,"Henry, TN",0,293,0,0,Henry town
+TN,4763080,Ridgeside,incorporated,25,A,446,"Ridgeside, TN",0,294,0,0,Ridgeside city
+TN,4717000,Copperhill,incorporated,25,A,443,"Copperhill, TN",0,295,0,0,Copperhill city
+TN,4702780,Baileyton,incorporated,43,A,436,"Baileyton, TN",0,296,0,0,Baileyton town
+TN,4704240,Beersheba Springs,incorporated,43,A,434,"Beersheba Springs, TN",0,297,0,0,Beersheba Springs town
+TN,4766340,Saltillo,incorporated,43,A,420,"Saltillo, TN",0,298,0,0,Saltillo town
+TN,4770820,Stanton,incorporated,43,A,417,"Stanton, TN",0,299,0,0,Stanton town
+TN,4731680,Guys,incorporated,43,A,414,"Guys, TN",0,300,0,0,Guys town
+TN,4766660,Sardis,incorporated,43,A,414,"Sardis, TN",0,301,0,0,Sardis town
+TN,4704460,Bell Buckle,incorporated,43,A,410,"Bell Buckle, TN",0,302,0,0,Bell Buckle town
+TN,4715140,Clarksburg,incorporated,43,A,379,"Clarksburg, TN",0,303,0,0,Clarksburg town
+TN,4776860,Vanleer,incorporated,43,A,374,"Vanleer, TN",0,304,0,0,Vanleer town
+TN,4709860,Burlison,incorporated,43,A,367,"Burlison, TN",0,305,0,0,Burlison town
+TN,4729020,Gibson,incorporated,43,A,366,"Gibson, TN",0,306,0,0,Gibson town
+TN,4778240,Watauga,incorporated,25,A,353,"Watauga, TN",0,307,0,0,Watauga city
+TN,4781020,Williston,incorporated,25,A,349,"Williston, TN",0,308,0,0,Williston city
+TN,4781700,Woodland Mills,incorporated,25,A,346,"Woodland Mills, TN",0,309,0,0,Woodland Mills city
+TN,4721420,Dowelltown,incorporated,43,A,342,"Dowelltown, TN",0,310,0,0,Dowelltown town
+TN,4730280,Grand Junction,incorporated,25,A,338,"Grand Junction, TN",0,311,0,0,Grand Junction city
+TN,4770840,Stantonville,incorporated,43,A,335,"Stantonville, TN",0,312,0,0,Stantonville town
+TN,4742040,Liberty,incorporated,43,A,334,"Liberty, TN",0,313,0,0,Liberty town
+TN,4761520,Ramer,incorporated,25,A,325,"Ramer, TN",0,314,0,0,Ramer city
+TN,4718880,Cumberland Gap,incorporated,43,A,313,"Cumberland Gap, TN",0,315,0,0,Cumberland Gap town
+TN,4718820,Cumberland City,incorporated,43,A,305,"Cumberland City, TN",0,316,0,0,Cumberland City town
+TN,4711980,Cedar Hill,incorporated,25,A,301,"Cedar Hill, TN",0,317,0,0,Cedar Hill city
+TN,4712380,Centertown,incorporated,43,A,297,"Centertown, TN",0,318,0,0,Centertown town
+TN,4744420,Lynnville,incorporated,43,A,292,"Lynnville, TN",0,319,0,0,Lynnville town
+TN,4728680,Garland,incorporated,43,A,289,"Garland, TN",0,320,0,0,Garland town
+TN,4745000,McLemoresville,incorporated,43,A,288,"McLemoresville, TN",0,321,0,0,McLemoresville town
+TN,4756870,Parker's Crossroads,incorporated,25,A,284,"Parker's Crossroads, TN",0,322,0,0,Parker's Crossroads city
+TN,4726160,Finger,incorporated,25,A,276,"Finger, TN",0,323,0,0,Finger city
+TN,4702400,Auburntown,incorporated,43,A,272,"Auburntown, TN",0,324,0,0,Auburntown town
+TN,4748920,Milledgeville,incorporated,43,A,271,"Milledgeville, TN",0,325,0,0,Milledgeville town
+TN,4774640,Toone,incorporated,43,A,270,"Toone, TN",0,326,0,0,Toone town
+TN,4736080,Hornsby,incorporated,43,A,264,"Hornsby, TN",0,327,0,0,Hornsby town
+TN,4707840,Braden,incorporated,43,A,255,"Braden, TN",0,328,0,0,Braden town
+TN,4763800,Rives,incorporated,43,A,246,"Rives, TN",0,329,0,0,Rives town
+TN,4782360,Yorkville,incorporated,25,A,236,"Yorkville, TN",0,330,0,0,Yorkville city
+TN,4757040,Parrottsville,incorporated,43,A,217,"Parrottsville, TN",0,331,0,0,Parrottsville town
+TN,4766360,Samburg,incorporated,43,A,210,"Samburg, TN",0,332,0,0,Samburg town
+TN,4754280,Oakdale,incorporated,43,A,191,"Oakdale, TN",0,333,0,0,Oakdale town
+TN,4747020,Medon,incorporated,25,A,189,"Medon, TN",0,334,0,0,Medon city
+TN,4724240,Enville,incorporated,43,A,188,"Enville, TN",0,335,0,0,Enville town
+TN,4769080,Slayden,incorporated,43,A,170,"Slayden, TN",0,336,0,0,Slayden town
+TN,4749460,Mitchellville,incorporated,25,A,163,"Mitchellville, TN",0,337,0,0,Mitchellville city
+TN,4740200,La Grange,incorporated,43,A,123,"La Grange, TN",0,338,0,0,La Grange town
+TN,4766680,Saulsbury,incorporated,43,A,112,"Saulsbury, TN",0,339,0,0,Saulsbury town
+TN,4753580,Normandy,incorporated,43,A,108,"Normandy, TN",0,340,0,0,Normandy town
+TN,4768560,Silerton,incorporated,43,A,97,"Silerton, TN",0,341,0,0,Silerton town
+TN,4777400,Viola,incorporated,43,A,93,"Viola, TN",0,342,0,0,Viola town
+TN,4756040,Orme,incorporated,43,A,87,"Orme, TN",0,343,0,0,Orme town
+TN,4733920,Hickory Valley,incorporated,43,A,78,"Hickory Valley, TN",0,344,0,0,Hickory Valley town
+TN,4717340,Cottage Grove,incorporated,43,A,66,"Cottage Grove, TN",0,345,0,0,Cottage Grove town
+TN,4752004,Nashville-Davidson,consolidated,MG,A,0,"Nashville-Davidson, TN",0,346,0,0,Nashville-Davidson metropolitan government

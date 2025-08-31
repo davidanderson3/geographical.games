@@ -1,54 +1,54 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-NC,3712000,Charlotte,incorporated,25,A,874579,"Charlotte, NC",0,1,64,0.256,Charlotte city
-NC,3755000,Raleigh,incorporated,25,A,467665,"Raleigh, NC",0,2,41,0.164,Raleigh city
-NC,3728000,Greensboro,incorporated,25,A,299035,"Greensboro, NC",0,3,17,0.068,Greensboro city
-NC,3719000,Durham,incorporated,25,A,283506,"Durham, NC",0,4,11,0.044,Durham city
-NC,3775000,Winston-Salem,incorporated,25,A,249545,"Winston-Salem, NC",0,5,8,0.032,Winston-Salem city
-NC,3722920,Fayetteville,incorporated,25,A,208501,"Fayetteville, NC",0,6,8,0.032,Fayetteville city
-NC,3710740,Cary,incorporated,43,A,174721,"Cary, NC",0,7,7,0.028,Cary town
-NC,3774440,Wilmington,incorporated,25,A,115451,"Wilmington, NC",0,8,6,0.024,Wilmington city
-NC,3731400,High Point,incorporated,25,A,114059,"High Point, NC",0,9,4,0.016,High Point city
-NC,3714100,Concord,incorporated,25,A,105240,"Concord, NC",0,10,5,0.02,Concord city
-NC,3702140,Asheville,incorporated,25,A,94589,"Asheville, NC",0,11,3,0.012,Asheville city
-NC,3728080,Greenville,incorporated,25,A,87521,"Greenville, NC",0,12,4,0.016,Greenville city
-NC,3725580,Gastonia,incorporated,25,A,80411,"Gastonia, NC",0,13,4,0.016,Gastonia city
-NC,3734200,Jacksonville,incorporated,25,A,72723,"Jacksonville, NC",0,14,2,0.008,Jacksonville city
-NC,3711800,Chapel Hill,incorporated,43,A,61960,"Chapel Hill, NC",0,15,2,0.008,Chapel Hill town
-NC,3733120,Huntersville,incorporated,43,A,61376,"Huntersville, NC",0,16,3,0.012,Huntersville town
-NC,3701520,Apex,incorporated,43,A,58780,"Apex, NC",0,17,3,0.012,Apex town
-NC,3709060,Burlington,incorporated,25,A,57303,"Burlington, NC",0,18,3,0.012,Burlington city
-NC,3757500,Rocky Mount,incorporated,25,A,54341,"Rocky Mount, NC",0,19,3,0.012,Rocky Mount city
-NC,3735200,Kannapolis,incorporated,25,A,53114,"Kannapolis, NC",0,20,2,0.008,Kannapolis city
-NC,3744220,Mooresville,incorporated,43,A,50193,"Mooresville, NC",0,21,1,0.004,Mooresville town
-NC,3774540,Wilson,incorporated,25,A,47851,"Wilson, NC",0,22,1,0.004,Wilson city
-NC,3770540,Wake Forest,incorporated,43,A,47601,"Wake Forest, NC",0,23,1,0.004,Wake Forest town
-NC,3731060,Hickory,incorporated,25,A,43490,"Hickory, NC",0,24,1,0.004,Hickory city
-NC,3732260,Holly Springs,incorporated,43,A,41239,"Holly Springs, NC",0,25,1,0.004,Holly Springs town
-NC,3733560,Indian Trail,incorporated,43,A,39997,"Indian Trail, NC",0,26,1,0.004,Indian Trail town
-NC,3758860,Salisbury,incorporated,25,A,35540,"Salisbury, NC",0,27,1,0.004,Salisbury city
-NC,3743920,Monroe,incorporated,25,A,34562,"Monroe, NC",0,28,2,0.008,Monroe city
-NC,3725300,Fuquay-Varina,incorporated,43,A,34152,"Fuquay-Varina, NC",0,29,2,0.008,Fuquay-Varina town
-NC,3726880,Goldsboro,incorporated,25,A,33657,"Goldsboro, NC",0,30,2,0.008,Goldsboro city
-NC,3714700,Cornelius,incorporated,43,A,31412,"Cornelius, NC",0,31,2,0.008,Cornelius town
-NC,3746340,New Bern,incorporated,25,A,31291,"New Bern, NC",0,32,2,0.008,New Bern city
-NC,3725480,Garner,incorporated,43,A,31159,"Garner, NC",0,33,2,0.008,Garner town
-NC,3759280,Sanford,incorporated,25,A,30261,"Sanford, NC",0,34,2,0.008,Sanford city
-NC,3744520,Morrisville,incorporated,43,A,29630,"Morrisville, NC",0,35,2,0.008,Morrisville town
-NC,3741960,Matthews,incorporated,43,A,29435,"Matthews, NC",0,36,2,0.008,Matthews town
-NC,3764740,Statesville,incorporated,25,A,28419,"Statesville, NC",0,37,2,0.008,Statesville city
-NC,3767420,Thomasville,incorporated,25,A,27183,"Thomasville, NC",0,38,2,0.008,Thomasville city
-NC,3702080,Asheboro,incorporated,25,A,27156,"Asheboro, NC",0,39,2,0.008,Asheboro city
-NC,3743480,Mint Hill,incorporated,43,A,26450,"Mint Hill, NC",0,40,2,0.008,Mint Hill town
-NC,3735600,Kernersville,incorporated,43,A,26449,"Kernersville, NC",0,41,2,0.008,Kernersville town
-NC,3712860,Clayton,incorporated,43,A,26307,"Clayton, NC",0,42,2,0.008,Clayton town
-NC,3737680,Leland,incorporated,43,A,22908,"Leland, NC",0,43,2,0.008,Leland town
-NC,3761200,Shelby,incorporated,25,A,21918,"Shelby, NC",0,44,2,0.008,Shelby city
-NC,3710620,Carrboro,incorporated,43,A,21295,"Carrboro, NC",0,45,2,0.008,Carrboro town
-NC,3712960,Clemmons,incorporated,47,A,21163,"Clemmons, NC",0,46,2,0.008,Clemmons village
-NC,3771460,Waxhaw,incorporated,43,A,20534,"Waxhaw, NC",0,47,2,0.008,Waxhaw town
-NC,3735920,Kinston,incorporated,25,A,19900,"Kinston, NC",0,48,1,0.004,Kinston city
-NC,3738060,Lexington,incorporated,25,A,19632,"Lexington, NC",0,49,1,0.004,Lexington city
-NC,3736080,Knightdale,incorporated,43,A,19435,"Knightdale, NC",0,50,1,0.004,Knightdale town
+NC,3712000,Charlotte,incorporated,25,A,874579,"Charlotte, NC",0,1,25,0.25,Charlotte city
+NC,3755000,Raleigh,incorporated,25,A,467665,"Raleigh, NC",0,2,17,0.17,Raleigh city
+NC,3728000,Greensboro,incorporated,25,A,299035,"Greensboro, NC",0,3,7,0.07,Greensboro city
+NC,3719000,Durham,incorporated,25,A,283506,"Durham, NC",0,4,5,0.05,Durham city
+NC,3775000,Winston-Salem,incorporated,25,A,249545,"Winston-Salem, NC",0,5,4,0.04,Winston-Salem city
+NC,3722920,Fayetteville,incorporated,25,A,208501,"Fayetteville, NC",0,6,4,0.04,Fayetteville city
+NC,3710740,Cary,incorporated,43,A,174721,"Cary, NC",0,7,2,0.02,Cary town
+NC,3774440,Wilmington,incorporated,25,A,115451,"Wilmington, NC",0,8,3,0.03,Wilmington city
+NC,3731400,High Point,incorporated,25,A,114059,"High Point, NC",0,9,3,0.03,High Point city
+NC,3714100,Concord,incorporated,25,A,105240,"Concord, NC",0,10,2,0.02,Concord city
+NC,3702140,Asheville,incorporated,25,A,94589,"Asheville, NC",0,11,1,0.01,Asheville city
+NC,3728080,Greenville,incorporated,25,A,87521,"Greenville, NC",0,12,1,0.01,Greenville city
+NC,3725580,Gastonia,incorporated,25,A,80411,"Gastonia, NC",0,13,1,0.01,Gastonia city
+NC,3734200,Jacksonville,incorporated,25,A,72723,"Jacksonville, NC",0,14,2,0.02,Jacksonville city
+NC,3711800,Chapel Hill,incorporated,43,A,61960,"Chapel Hill, NC",0,15,2,0.02,Chapel Hill town
+NC,3733120,Huntersville,incorporated,43,A,61376,"Huntersville, NC",0,16,2,0.02,Huntersville town
+NC,3701520,Apex,incorporated,43,A,58780,"Apex, NC",0,17,2,0.02,Apex town
+NC,3709060,Burlington,incorporated,25,A,57303,"Burlington, NC",0,18,2,0.02,Burlington city
+NC,3757500,Rocky Mount,incorporated,25,A,54341,"Rocky Mount, NC",0,19,2,0.02,Rocky Mount city
+NC,3735200,Kannapolis,incorporated,25,A,53114,"Kannapolis, NC",0,20,2,0.02,Kannapolis city
+NC,3744220,Mooresville,incorporated,43,A,50193,"Mooresville, NC",0,21,2,0.02,Mooresville town
+NC,3774540,Wilson,incorporated,25,A,47851,"Wilson, NC",0,22,2,0.02,Wilson city
+NC,3770540,Wake Forest,incorporated,43,A,47601,"Wake Forest, NC",0,23,1,0.01,Wake Forest town
+NC,3731060,Hickory,incorporated,25,A,43490,"Hickory, NC",0,24,1,0.01,Hickory city
+NC,3732260,Holly Springs,incorporated,43,A,41239,"Holly Springs, NC",0,25,1,0.01,Holly Springs town
+NC,3733560,Indian Trail,incorporated,43,A,39997,"Indian Trail, NC",0,26,1,0.01,Indian Trail town
+NC,3758860,Salisbury,incorporated,25,A,35540,"Salisbury, NC",0,27,1,0.01,Salisbury city
+NC,3743920,Monroe,incorporated,25,A,34562,"Monroe, NC",0,28,1,0.01,Monroe city
+NC,3725300,Fuquay-Varina,incorporated,43,A,34152,"Fuquay-Varina, NC",0,29,1,0.01,Fuquay-Varina town
+NC,3726880,Goldsboro,incorporated,25,A,33657,"Goldsboro, NC",0,30,0,0,Goldsboro city
+NC,3714700,Cornelius,incorporated,43,A,31412,"Cornelius, NC",0,31,0,0,Cornelius town
+NC,3746340,New Bern,incorporated,25,A,31291,"New Bern, NC",0,32,0,0,New Bern city
+NC,3725480,Garner,incorporated,43,A,31159,"Garner, NC",0,33,0,0,Garner town
+NC,3759280,Sanford,incorporated,25,A,30261,"Sanford, NC",0,34,0,0,Sanford city
+NC,3744520,Morrisville,incorporated,43,A,29630,"Morrisville, NC",0,35,0,0,Morrisville town
+NC,3741960,Matthews,incorporated,43,A,29435,"Matthews, NC",0,36,0,0,Matthews town
+NC,3764740,Statesville,incorporated,25,A,28419,"Statesville, NC",0,37,0,0,Statesville city
+NC,3767420,Thomasville,incorporated,25,A,27183,"Thomasville, NC",0,38,0,0,Thomasville city
+NC,3702080,Asheboro,incorporated,25,A,27156,"Asheboro, NC",0,39,0,0,Asheboro city
+NC,3743480,Mint Hill,incorporated,43,A,26450,"Mint Hill, NC",0,40,0,0,Mint Hill town
+NC,3735600,Kernersville,incorporated,43,A,26449,"Kernersville, NC",0,41,0,0,Kernersville town
+NC,3712860,Clayton,incorporated,43,A,26307,"Clayton, NC",0,42,0,0,Clayton town
+NC,3737680,Leland,incorporated,43,A,22908,"Leland, NC",0,43,0,0,Leland town
+NC,3761200,Shelby,incorporated,25,A,21918,"Shelby, NC",0,44,0,0,Shelby city
+NC,3710620,Carrboro,incorporated,43,A,21295,"Carrboro, NC",0,45,0,0,Carrboro town
+NC,3712960,Clemmons,incorporated,47,A,21163,"Clemmons, NC",0,46,0,0,Clemmons village
+NC,3771460,Waxhaw,incorporated,43,A,20534,"Waxhaw, NC",0,47,0,0,Waxhaw town
+NC,3735920,Kinston,incorporated,25,A,19900,"Kinston, NC",0,48,0,0,Kinston city
+NC,3738060,Lexington,incorporated,25,A,19632,"Lexington, NC",0,49,0,0,Lexington city
+NC,3736080,Knightdale,incorporated,43,A,19435,"Knightdale, NC",0,50,0,0,Knightdale town
 NC,3707080,Boone,incorporated,43,A,19092,"Boone, NC",0,51,0,0,Boone town
 NC,3739700,Lumberton,incorporated,25,A,19025,"Lumberton, NC",0,52,0,0,Lumberton city
 NC,3729800,Harrisburg,incorporated,43,A,18967,"Harrisburg, NC",0,53,0,0,Harrisburg town

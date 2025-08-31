@@ -1,56 +1,56 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-MD,2404000,Baltimore,incorporated,25,A,585708,"Baltimore, MD",0,1,71,0.284,Baltimore city
-MD,2430325,Frederick,incorporated,25,A,78171,"Frederick, MD",0,2,31,0.124,Frederick city
-MD,2431175,Gaithersburg,incorporated,25,A,69657,"Gaithersburg, MD",0,3,18,0.072,Gaithersburg city
-MD,2467675,Rockville,incorporated,25,A,67117,"Rockville, MD",0,4,13,0.052,Rockville city
-MD,2408775,Bowie,incorporated,25,A,58329,"Bowie, MD",0,5,10,0.04,Bowie city
-MD,2436075,Hagerstown,incorporated,25,A,43527,"Hagerstown, MD",0,6,8,0.032,Hagerstown city
-MD,2401600,Annapolis,incorporated,25,A,40812,"Annapolis, MD",0,7,9,0.036,Annapolis city
-MD,2418750,College Park,incorporated,25,A,34740,"College Park, MD",0,8,5,0.02,College Park city
-MD,2469925,Salisbury,incorporated,25,A,33050,"Salisbury, MD",0,9,5,0.02,Salisbury city
-MD,2445900,Laurel,incorporated,25,A,30060,"Laurel, MD",0,10,4,0.016,Laurel city
-MD,2434775,Greenbelt,incorporated,25,A,24921,"Greenbelt, MD",0,11,4,0.016,Greenbelt city
-MD,2441250,Hyattsville,incorporated,25,A,21187,"Hyattsville, MD",0,12,3,0.012,Hyattsville city
-MD,2483100,Westminster,incorporated,25,A,20126,"Westminster, MD",0,13,4,0.016,Westminster city
-MD,2421325,Cumberland,incorporated,25,A,19076,"Cumberland, MD",0,14,4,0.016,Cumberland city
-MD,2476650,Takoma Park,incorporated,25,A,17629,"Takoma Park, MD",0,15,2,0.008,Takoma Park city
-MD,2424475,Easton,incorporated,43,A,17101,"Easton, MD",0,16,2,0.008,Easton town
-MD,2400125,Aberdeen,incorporated,25,A,16254,"Aberdeen, MD",0,17,2,0.008,Aberdeen city
-MD,2425800,Elkton,incorporated,43,A,15807,"Elkton, MD",0,18,3,0.012,Elkton town
-MD,2437600,Havre de Grace,incorporated,25,A,14807,"Havre de Grace, MD",0,19,3,0.012,Havre de Grace city
-MD,2455400,New Carrollton,incorporated,25,A,13715,"New Carrollton, MD",0,20,3,0.012,New Carrollton city
-MD,2412400,Cambridge,incorporated,25,A,13096,"Cambridge, MD",0,21,2,0.008,Cambridge city
-MD,2405550,Bel Air,incorporated,43,A,10661,"Bel Air, MD",0,22,1,0.004,Bel Air town
-MD,2445750,La Plata,incorporated,43,A,10159,"La Plata, MD",0,23,1,0.004,La Plata town
-MD,2407850,Bladensburg,incorporated,43,A,9657,"Bladensburg, MD",0,24,1,0.004,Bladensburg town
-MD,2453875,Mount Airy,incorporated,43,A,9654,"Mount Airy, MD",0,25,1,0.004,Mount Airy town
-MD,2454275,Mount Rainier,incorporated,25,A,8333,"Mount Rainier, MD",0,26,1,0.004,Mount Rainier city
-MD,2410900,Brunswick,incorporated,25,A,7762,"Brunswick, MD",0,27,1,0.004,Brunswick city
-MD,2466635,Riverdale Park,incorporated,43,A,7351,"Riverdale Park, MD",0,28,1,0.004,Riverdale Park town
-MD,2476725,Taneytown,incorporated,25,A,7234,"Taneytown, MD",0,29,1,0.004,Taneytown city
-MD,2430900,Frostburg,incorporated,25,A,7027,"Frostburg, MD",0,30,1,0.004,Frostburg city
-MD,2458225,Ocean City,incorporated,43,A,6844,"Ocean City, MD",0,31,2,0.008,Ocean City town
-MD,2432500,Glenarden,incorporated,25,A,6402,"Glenarden, MD",0,32,2,0.008,Glenarden city
-MD,2415925,Chesapeake Beach,incorporated,43,A,6356,"Chesapeake Beach, MD",0,33,2,0.008,Chesapeake Beach town
-MD,2436500,Hampstead,incorporated,43,A,6241,"Hampstead, MD",0,34,2,0.008,Hampstead town
-MD,2477825,Thurmont,incorporated,43,A,6213,"Thurmont, MD",0,35,2,0.008,Thurmont town
-MD,2416550,Cheverly,incorporated,43,A,6170,"Cheverly, MD",0,36,2,0.008,Cheverly town
-MD,2481275,Walkersville,incorporated,43,A,6156,"Walkersville, MD",0,37,2,0.008,Walkersville town
-MD,2423025,District Heights,incorporated,25,A,5959,"District Heights, MD",0,38,2,0.008,District Heights city
-MD,2462850,Poolesville,incorporated,43,A,5742,"Poolesville, MD",0,39,2,0.008,Poolesville town
-MD,2430950,Fruitland,incorporated,25,A,5534,"Fruitland, MD",0,40,2,0.008,Fruitland city
-MD,2416225,Chestertown,incorporated,43,A,5532,"Chestertown, MD",0,41,2,0.008,Chestertown town
-MD,2449950,Manchester,incorporated,43,A,5408,"Manchester, MD",0,42,2,0.008,Manchester town
-MD,2406800,Berlin,incorporated,43,A,5026,"Berlin, MD",0,43,2,0.008,Berlin town
-MD,2452425,Middletown,incorporated,43,A,4943,"Middletown, MD",0,44,1,0.004,Middletown town
-MD,2422725,Denton,incorporated,43,A,4848,"Denton, MD",0,45,1,0.004,Denton town
-MD,2414950,Centreville,incorporated,43,A,4727,"Centreville, MD",0,46,1,0.004,Centreville town
-MD,2446475,Leonardtown,incorporated,43,A,4563,"Leonardtown, MD",0,47,1,0.004,Leonardtown town
-MD,2470850,Seat Pleasant,incorporated,25,A,4522,"Seat Pleasant, MD",0,48,1,0.004,Seat Pleasant city
-MD,2461150,Perryville,incorporated,43,A,4391,"Perryville, MD",0,49,1,0.004,Perryville town
-MD,2476550,Sykesville,incorporated,43,A,4316,"Sykesville, MD",0,50,1,0.004,Sykesville town
-MD,2462475,Pocomoke City,incorporated,25,A,4295,"Pocomoke City, MD",0,51,1,0.004,Pocomoke City city
-MD,2456450,North East,incorporated,43,A,4085,"North East, MD",0,52,1,0.004,North East town
+MD,2404000,Baltimore,incorporated,25,A,585708,"Baltimore, MD",0,1,28,0.28,Baltimore city
+MD,2430325,Frederick,incorporated,25,A,78171,"Frederick, MD",0,2,13,0.13,Frederick city
+MD,2431175,Gaithersburg,incorporated,25,A,69657,"Gaithersburg, MD",0,3,7,0.07,Gaithersburg city
+MD,2467675,Rockville,incorporated,25,A,67117,"Rockville, MD",0,4,5,0.05,Rockville city
+MD,2408775,Bowie,incorporated,25,A,58329,"Bowie, MD",0,5,5,0.05,Bowie city
+MD,2436075,Hagerstown,incorporated,25,A,43527,"Hagerstown, MD",0,6,3,0.03,Hagerstown city
+MD,2401600,Annapolis,incorporated,25,A,40812,"Annapolis, MD",0,7,5,0.05,Annapolis city
+MD,2418750,College Park,incorporated,25,A,34740,"College Park, MD",0,8,2,0.02,College Park city
+MD,2469925,Salisbury,incorporated,25,A,33050,"Salisbury, MD",0,9,3,0.03,Salisbury city
+MD,2445900,Laurel,incorporated,25,A,30060,"Laurel, MD",0,10,3,0.03,Laurel city
+MD,2434775,Greenbelt,incorporated,25,A,24921,"Greenbelt, MD",0,11,1,0.01,Greenbelt city
+MD,2441250,Hyattsville,incorporated,25,A,21187,"Hyattsville, MD",0,12,1,0.01,Hyattsville city
+MD,2483100,Westminster,incorporated,25,A,20126,"Westminster, MD",0,13,1,0.01,Westminster city
+MD,2421325,Cumberland,incorporated,25,A,19076,"Cumberland, MD",0,14,1,0.01,Cumberland city
+MD,2476650,Takoma Park,incorporated,25,A,17629,"Takoma Park, MD",0,15,2,0.02,Takoma Park city
+MD,2424475,Easton,incorporated,43,A,17101,"Easton, MD",0,16,2,0.02,Easton town
+MD,2400125,Aberdeen,incorporated,25,A,16254,"Aberdeen, MD",0,17,2,0.02,Aberdeen city
+MD,2425800,Elkton,incorporated,43,A,15807,"Elkton, MD",0,18,2,0.02,Elkton town
+MD,2437600,Havre de Grace,incorporated,25,A,14807,"Havre de Grace, MD",0,19,2,0.02,Havre de Grace city
+MD,2455400,New Carrollton,incorporated,25,A,13715,"New Carrollton, MD",0,20,2,0.02,New Carrollton city
+MD,2412400,Cambridge,incorporated,25,A,13096,"Cambridge, MD",0,21,2,0.02,Cambridge city
+MD,2405550,Bel Air,incorporated,43,A,10661,"Bel Air, MD",0,22,2,0.02,Bel Air town
+MD,2445750,La Plata,incorporated,43,A,10159,"La Plata, MD",0,23,2,0.02,La Plata town
+MD,2407850,Bladensburg,incorporated,43,A,9657,"Bladensburg, MD",0,24,2,0.02,Bladensburg town
+MD,2453875,Mount Airy,incorporated,43,A,9654,"Mount Airy, MD",0,25,2,0.02,Mount Airy town
+MD,2454275,Mount Rainier,incorporated,25,A,8333,"Mount Rainier, MD",0,26,0,0,Mount Rainier city
+MD,2410900,Brunswick,incorporated,25,A,7762,"Brunswick, MD",0,27,0,0,Brunswick city
+MD,2466635,Riverdale Park,incorporated,43,A,7351,"Riverdale Park, MD",0,28,0,0,Riverdale Park town
+MD,2476725,Taneytown,incorporated,25,A,7234,"Taneytown, MD",0,29,0,0,Taneytown city
+MD,2430900,Frostburg,incorporated,25,A,7027,"Frostburg, MD",0,30,0,0,Frostburg city
+MD,2458225,Ocean City,incorporated,43,A,6844,"Ocean City, MD",0,31,0,0,Ocean City town
+MD,2432500,Glenarden,incorporated,25,A,6402,"Glenarden, MD",0,32,0,0,Glenarden city
+MD,2415925,Chesapeake Beach,incorporated,43,A,6356,"Chesapeake Beach, MD",0,33,0,0,Chesapeake Beach town
+MD,2436500,Hampstead,incorporated,43,A,6241,"Hampstead, MD",0,34,0,0,Hampstead town
+MD,2477825,Thurmont,incorporated,43,A,6213,"Thurmont, MD",0,35,0,0,Thurmont town
+MD,2416550,Cheverly,incorporated,43,A,6170,"Cheverly, MD",0,36,0,0,Cheverly town
+MD,2481275,Walkersville,incorporated,43,A,6156,"Walkersville, MD",0,37,0,0,Walkersville town
+MD,2423025,District Heights,incorporated,25,A,5959,"District Heights, MD",0,38,0,0,District Heights city
+MD,2462850,Poolesville,incorporated,43,A,5742,"Poolesville, MD",0,39,0,0,Poolesville town
+MD,2430950,Fruitland,incorporated,25,A,5534,"Fruitland, MD",0,40,0,0,Fruitland city
+MD,2416225,Chestertown,incorporated,43,A,5532,"Chestertown, MD",0,41,0,0,Chestertown town
+MD,2449950,Manchester,incorporated,43,A,5408,"Manchester, MD",0,42,0,0,Manchester town
+MD,2406800,Berlin,incorporated,43,A,5026,"Berlin, MD",0,43,0,0,Berlin town
+MD,2452425,Middletown,incorporated,43,A,4943,"Middletown, MD",0,44,0,0,Middletown town
+MD,2422725,Denton,incorporated,43,A,4848,"Denton, MD",0,45,0,0,Denton town
+MD,2414950,Centreville,incorporated,43,A,4727,"Centreville, MD",0,46,0,0,Centreville town
+MD,2446475,Leonardtown,incorporated,43,A,4563,"Leonardtown, MD",0,47,0,0,Leonardtown town
+MD,2470850,Seat Pleasant,incorporated,25,A,4522,"Seat Pleasant, MD",0,48,0,0,Seat Pleasant city
+MD,2461150,Perryville,incorporated,43,A,4391,"Perryville, MD",0,49,0,0,Perryville town
+MD,2476550,Sykesville,incorporated,43,A,4316,"Sykesville, MD",0,50,0,0,Sykesville town
+MD,2462475,Pocomoke City,incorporated,25,A,4295,"Pocomoke City, MD",0,51,0,0,Pocomoke City city
+MD,2456450,North East,incorporated,43,A,4085,"North East, MD",0,52,0,0,North East town
 MD,2413000,Capitol Heights,incorporated,43,A,4050,"Capitol Heights, MD",0,53,0,0,Capitol Heights town
 MD,2441500,Indian Head,incorporated,43,A,3894,"Indian Head, MD",0,54,0,0,Indian Head town
 MD,2409500,Brentwood,incorporated,43,A,3828,"Brentwood, MD",0,55,0,0,Brentwood town

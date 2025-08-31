@@ -1,50 +1,50 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-CO,0820000,Denver,incorporated,25,A,715522,"Denver, CO",0,1,91,0.364,Denver city
-CO,0816000,Colorado Springs,incorporated,25,A,478961,"Colorado Springs, CO",0,2,27,0.108,Colorado Springs city
-CO,0804000,Aurora,incorporated,25,A,386261,"Aurora, CO",0,3,15,0.06,Aurora city
-CO,0827425,Fort Collins,incorporated,25,A,169810,"Fort Collins, CO",0,4,12,0.048,Fort Collins city
-CO,0843000,Lakewood,incorporated,25,A,155984,"Lakewood, CO",0,5,8,0.032,Lakewood city
-CO,0877290,Thornton,incorporated,25,A,141867,"Thornton, CO",0,6,6,0.024,Thornton city
-CO,0803455,Arvada,incorporated,25,A,124402,"Arvada, CO",0,7,5,0.02,Arvada city
-CO,0883835,Westminster,incorporated,25,A,116317,"Westminster, CO",0,8,6,0.024,Westminster city
-CO,0862000,Pueblo,incorporated,25,A,111876,"Pueblo, CO",0,9,5,0.02,Pueblo city
-CO,0832155,Greeley,incorporated,25,A,108795,"Greeley, CO",0,10,3,0.012,Greeley city
-CO,0812815,Centennial,incorporated,25,A,108418,"Centennial, CO",0,11,3,0.012,Centennial city
-CO,0807850,Boulder,incorporated,25,A,108250,"Boulder, CO",0,12,4,0.016,Boulder city
-CO,0845970,Longmont,incorporated,25,A,98885,"Longmont, CO",0,13,2,0.008,Longmont city
-CO,0846465,Loveland,incorporated,25,A,76378,"Loveland, CO",0,14,2,0.008,Loveland city
-CO,0809280,Broomfield,incorporated,25,A,74112,"Broomfield, CO",0,15,2,0.008,Broomfield city
-CO,0812415,Castle Rock,incorporated,43,A,73158,"Castle Rock, CO",0,16,3,0.012,Castle Rock town
-CO,0831660,Grand Junction,incorporated,25,A,65560,"Grand Junction, CO",0,17,3,0.012,Grand Junction city
-CO,0816495,Commerce City,incorporated,25,A,62418,"Commerce City, CO",0,18,3,0.012,Commerce City city
-CO,0857630,Parker,incorporated,43,A,58512,"Parker, CO",0,19,3,0.012,Parker town
-CO,0845255,Littleton,incorporated,25,A,45652,"Littleton, CO",0,20,1,0.004,Littleton city
-CO,0808675,Brighton,incorporated,25,A,40083,"Brighton, CO",0,21,1,0.004,Brighton city
-CO,0854330,Northglenn,incorporated,25,A,38131,"Northglenn, CO",0,22,1,0.004,Northglenn city
-CO,0824785,Englewood,incorporated,25,A,33659,"Englewood, CO",0,23,1,0.004,Englewood city
-CO,0885485,Windsor,incorporated,43,A,32716,"Windsor, CO",0,24,1,0.004,Windsor town
-CO,0884440,Wheat Ridge,incorporated,25,A,32398,"Wheat Ridge, CO",0,25,1,0.004,Wheat Ridge city
-CO,0841835,Lafayette,incorporated,25,A,30411,"Lafayette, CO",0,26,1,0.004,Lafayette city
-CO,0824950,Erie,incorporated,43,A,30038,"Erie, CO",0,27,2,0.008,Erie town
-CO,0827865,Fountain,incorporated,25,A,29802,"Fountain, CO",0,28,2,0.008,Fountain city
-CO,0825280,Evans,incorporated,25,A,22165,"Evans, CO",0,29,2,0.008,Evans city
-CO,0846355,Louisville,incorporated,25,A,21226,"Louisville, CO",0,30,2,0.008,Louisville city
-CO,0830835,Golden,incorporated,25,A,20399,"Golden, CO",0,31,2,0.008,Golden city
-CO,0851745,Montrose,incorporated,25,A,20291,"Montrose, CO",0,32,2,0.008,Montrose city
-CO,0822035,Durango,incorporated,25,A,19071,"Durango, CO",0,33,2,0.008,Durango city
-CO,0839855,Johnstown,incorporated,43,A,17303,"Johnstown, CO",0,34,2,0.008,Johnstown town
-CO,0811810,Cañon City,incorporated,25,A,17141,"Cañon City, CO",0,35,2,0.008,Cañon City city
-CO,0826600,Firestone,incorporated,43,A,16381,"Firestone, CO",0,36,2,0.008,Firestone town
-CO,0833035,Greenwood Village,incorporated,25,A,15691,"Greenwood Village, CO",0,37,2,0.008,Greenwood Village city
-CO,0828360,Frederick,incorporated,43,A,14513,"Frederick, CO",0,38,2,0.008,Frederick town
-CO,0826270,Federal Heights,incorporated,25,A,14382,"Federal Heights, CO",0,39,2,0.008,Federal Heights city
-CO,0845955,Lone Tree,incorporated,25,A,14253,"Lone Tree, CO",0,40,2,0.008,Lone Tree city
-CO,0873935,Sterling,incorporated,25,A,13735,"Sterling, CO",0,41,2,0.008,Sterling city
-CO,0828745,Fruita,incorporated,25,A,13395,"Fruita, CO",0,42,2,0.008,Fruita city
-CO,0873825,Steamboat Springs,incorporated,25,A,13224,"Steamboat Springs, CO",0,43,2,0.008,Steamboat Springs city
-CO,0875640,Superior,incorporated,43,A,13094,"Superior, CO",0,44,2,0.008,Superior town
-CO,0827810,Fort Morgan,incorporated,25,A,11597,"Fort Morgan, CO",0,45,2,0.008,Fort Morgan city
-CO,0883230,Wellington,incorporated,43,A,11047,"Wellington, CO",0,46,2,0.008,Wellington town
+CO,0820000,Denver,incorporated,25,A,715522,"Denver, CO",0,1,37,0.37,Denver city
+CO,0816000,Colorado Springs,incorporated,25,A,478961,"Colorado Springs, CO",0,2,10,0.1,Colorado Springs city
+CO,0804000,Aurora,incorporated,25,A,386261,"Aurora, CO",0,3,6,0.06,Aurora city
+CO,0827425,Fort Collins,incorporated,25,A,169810,"Fort Collins, CO",0,4,4,0.04,Fort Collins city
+CO,0843000,Lakewood,incorporated,25,A,155984,"Lakewood, CO",0,5,3,0.03,Lakewood city
+CO,0877290,Thornton,incorporated,25,A,141867,"Thornton, CO",0,6,4,0.04,Thornton city
+CO,0803455,Arvada,incorporated,25,A,124402,"Arvada, CO",0,7,2,0.02,Arvada city
+CO,0883835,Westminster,incorporated,25,A,116317,"Westminster, CO",0,8,3,0.03,Westminster city
+CO,0862000,Pueblo,incorporated,25,A,111876,"Pueblo, CO",0,9,3,0.03,Pueblo city
+CO,0832155,Greeley,incorporated,25,A,108795,"Greeley, CO",0,10,1,0.01,Greeley city
+CO,0812815,Centennial,incorporated,25,A,108418,"Centennial, CO",0,11,1,0.01,Centennial city
+CO,0807850,Boulder,incorporated,25,A,108250,"Boulder, CO",0,12,1,0.01,Boulder city
+CO,0845970,Longmont,incorporated,25,A,98885,"Longmont, CO",0,13,2,0.02,Longmont city
+CO,0846465,Loveland,incorporated,25,A,76378,"Loveland, CO",0,14,2,0.02,Loveland city
+CO,0809280,Broomfield,incorporated,25,A,74112,"Broomfield, CO",0,15,2,0.02,Broomfield city
+CO,0812415,Castle Rock,incorporated,43,A,73158,"Castle Rock, CO",0,16,2,0.02,Castle Rock town
+CO,0831660,Grand Junction,incorporated,25,A,65560,"Grand Junction, CO",0,17,2,0.02,Grand Junction city
+CO,0816495,Commerce City,incorporated,25,A,62418,"Commerce City, CO",0,18,2,0.02,Commerce City city
+CO,0857630,Parker,incorporated,43,A,58512,"Parker, CO",0,19,2,0.02,Parker town
+CO,0845255,Littleton,incorporated,25,A,45652,"Littleton, CO",0,20,2,0.02,Littleton city
+CO,0808675,Brighton,incorporated,25,A,40083,"Brighton, CO",0,21,2,0.02,Brighton city
+CO,0854330,Northglenn,incorporated,25,A,38131,"Northglenn, CO",0,22,2,0.02,Northglenn city
+CO,0824785,Englewood,incorporated,25,A,33659,"Englewood, CO",0,23,1,0.01,Englewood city
+CO,0885485,Windsor,incorporated,43,A,32716,"Windsor, CO",0,24,1,0.01,Windsor town
+CO,0884440,Wheat Ridge,incorporated,25,A,32398,"Wheat Ridge, CO",0,25,1,0.01,Wheat Ridge city
+CO,0841835,Lafayette,incorporated,25,A,30411,"Lafayette, CO",0,26,1,0.01,Lafayette city
+CO,0824950,Erie,incorporated,43,A,30038,"Erie, CO",0,27,1,0.01,Erie town
+CO,0827865,Fountain,incorporated,25,A,29802,"Fountain, CO",0,28,0,0,Fountain city
+CO,0825280,Evans,incorporated,25,A,22165,"Evans, CO",0,29,0,0,Evans city
+CO,0846355,Louisville,incorporated,25,A,21226,"Louisville, CO",0,30,0,0,Louisville city
+CO,0830835,Golden,incorporated,25,A,20399,"Golden, CO",0,31,0,0,Golden city
+CO,0851745,Montrose,incorporated,25,A,20291,"Montrose, CO",0,32,0,0,Montrose city
+CO,0822035,Durango,incorporated,25,A,19071,"Durango, CO",0,33,0,0,Durango city
+CO,0839855,Johnstown,incorporated,43,A,17303,"Johnstown, CO",0,34,0,0,Johnstown town
+CO,0811810,Cañon City,incorporated,25,A,17141,"Cañon City, CO",0,35,0,0,Cañon City city
+CO,0826600,Firestone,incorporated,43,A,16381,"Firestone, CO",0,36,0,0,Firestone town
+CO,0833035,Greenwood Village,incorporated,25,A,15691,"Greenwood Village, CO",0,37,0,0,Greenwood Village city
+CO,0828360,Frederick,incorporated,43,A,14513,"Frederick, CO",0,38,0,0,Frederick town
+CO,0826270,Federal Heights,incorporated,25,A,14382,"Federal Heights, CO",0,39,0,0,Federal Heights city
+CO,0845955,Lone Tree,incorporated,25,A,14253,"Lone Tree, CO",0,40,0,0,Lone Tree city
+CO,0873935,Sterling,incorporated,25,A,13735,"Sterling, CO",0,41,0,0,Sterling city
+CO,0828745,Fruita,incorporated,25,A,13395,"Fruita, CO",0,42,0,0,Fruita city
+CO,0873825,Steamboat Springs,incorporated,25,A,13224,"Steamboat Springs, CO",0,43,0,0,Steamboat Springs city
+CO,0875640,Superior,incorporated,43,A,13094,"Superior, CO",0,44,0,0,Superior town
+CO,0827810,Fort Morgan,incorporated,25,A,11597,"Fort Morgan, CO",0,45,0,0,Fort Morgan city
+CO,0883230,Wellington,incorporated,43,A,11047,"Wellington, CO",0,46,0,0,Wellington town
 CO,0812387,Castle Pines,incorporated,25,A,11036,"Castle Pines, CO",0,47,0,0,Castle Pines city
 CO,0864255,Rifle,incorporated,25,A,10437,"Rifle, CO",0,48,0,0,Rifle city
 CO,0851800,Monument,incorporated,43,A,10399,"Monument, CO",0,49,0,0,Monument town

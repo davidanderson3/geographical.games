@@ -1,55 +1,55 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-AL,0137000,Huntsville,incorporated,25,A,215006,"Huntsville, AL",0,1,66,0.264,Huntsville city
-AL,0107000,Birmingham,incorporated,25,A,200733,"Birmingham, AL",0,2,27,0.108,Birmingham city
-AL,0151000,Montgomery,incorporated,25,A,200603,"Montgomery, AL",0,3,26,0.104,Montgomery city
-AL,0150000,Mobile,incorporated,25,A,187041,"Mobile, AL",0,4,11,0.044,Mobile city
-AL,0177256,Tuscaloosa,incorporated,25,A,99600,"Tuscaloosa, AL",0,5,10,0.04,Tuscaloosa city
-AL,0135896,Hoover,incorporated,25,A,92606,"Hoover, AL",0,6,8,0.032,Hoover city
-AL,0103076,Auburn,incorporated,25,A,76143,"Auburn, AL",0,7,7,0.028,Auburn city
-AL,0121184,Dothan,incorporated,25,A,71072,"Dothan, AL",0,8,6,0.024,Dothan city
-AL,0120104,Decatur,incorporated,25,A,57938,"Decatur, AL",0,9,4,0.016,Decatur city
-AL,0145784,Madison,incorporated,25,A,56933,"Madison, AL",0,10,5,0.02,Madison city
-AL,0126896,Florence,incorporated,25,A,40184,"Florence, AL",0,11,3,0.012,Florence city
-AL,0178552,Vestavia Hills,incorporated,25,A,39102,"Vestavia Hills, AL",0,12,4,0.016,Vestavia Hills city
-AL,0159472,Phenix City,incorporated,25,A,38816,"Phenix City, AL",0,13,4,0.016,Phenix City city
-AL,0162328,Prattville,incorporated,25,A,37781,"Prattville, AL",0,14,2,0.008,Prattville city
-AL,0128696,Gadsden,incorporated,25,A,33945,"Gadsden, AL",0,15,2,0.008,Gadsden city
-AL,0100820,Alabaster,incorporated,25,A,33284,"Alabaster, AL",0,16,2,0.008,Alabaster city
-AL,0155200,Northport,incorporated,25,A,31125,"Northport, AL",0,17,3,0.012,Northport city
-AL,0157048,Opelika,incorporated,25,A,30995,"Opelika, AL",0,18,3,0.012,Opelika city
-AL,0124184,Enterprise,incorporated,25,A,28711,"Enterprise, AL",0,19,3,0.012,Enterprise city
-AL,0119648,Daphne,incorporated,25,A,27462,"Daphne, AL",0,20,3,0.012,Daphne city
-AL,0135800,Homewood,incorporated,25,A,26414,"Homewood, AL",0,21,1,0.004,Homewood city
-AL,0176944,Trussville,incorporated,25,A,26123,"Trussville, AL",0,22,1,0.004,Trussville city
-AL,0105980,Bessemer,incorporated,25,A,26019,"Bessemer, AL",0,23,1,0.004,Bessemer city
-AL,0102956,Athens,incorporated,25,A,25406,"Athens, AL",0,24,1,0.004,Athens city
-AL,0158848,Pelham,incorporated,25,A,24318,"Pelham, AL",0,25,1,0.004,Pelham city
-AL,0125240,Fairhope,incorporated,25,A,22477,"Fairhope, AL",0,26,1,0.004,Fairhope city
-AL,0151696,Mountain Brook,incorporated,25,A,22461,"Mountain Brook, AL",0,27,1,0.004,Mountain Brook city
-AL,0100988,Albertville,incorporated,25,A,22386,"Albertville, AL",0,28,1,0.004,Albertville city
-AL,0157576,Oxford,incorporated,25,A,22069,"Oxford, AL",0,29,2,0.008,Oxford city
-AL,0101852,Anniston,incorporated,25,A,21564,"Anniston, AL",0,30,2,0.008,Anniston city
-AL,0134024,Helena,incorporated,25,A,20914,"Helena, AL",0,31,2,0.008,Helena city
-AL,0126992,Foley,incorporated,25,A,20335,"Foley, AL",0,32,2,0.008,Foley city
-AL,0162496,Prichard,incorporated,25,A,19322,"Prichard, AL",0,33,2,0.008,Prichard city
-AL,0118976,Cullman,incorporated,25,A,18213,"Cullman, AL",0,34,2,0.008,Cullman city
-AL,0169120,Selma,incorporated,25,A,17971,"Selma, AL",0,35,2,0.008,Selma city
-AL,0176920,Troy,incorporated,25,A,17727,"Troy, AL",0,36,2,0.008,Troy city
-AL,0136448,Hueytown,incorporated,25,A,16776,"Hueytown, AL",0,37,2,0.008,Hueytown city
-AL,0148712,Millbrook,incorporated,25,A,16564,"Millbrook, AL",0,38,2,0.008,Millbrook city
-AL,0111416,Calera,incorporated,25,A,16494,"Calera, AL",0,39,2,0.008,Calera city
-AL,0113264,Center Point,incorporated,25,A,16406,"Center Point, AL",0,40,2,0.008,Center Point city
-AL,0153016,Muscle Shoals,incorporated,25,A,16275,"Muscle Shoals, AL",0,41,2,0.008,Muscle Shoals city
-AL,0168160,Saraland,incorporated,25,A,16171,"Saraland, AL",0,42,2,0.008,Saraland city
-AL,0129056,Gardendale,incorporated,25,A,16044,"Gardendale, AL",0,43,2,0.008,Gardendale city
-AL,0174592,Talladega,incorporated,25,A,15861,"Talladega, AL",0,44,2,0.008,Talladega city
-AL,0168736,Scottsboro,incorporated,25,A,15578,"Scottsboro, AL",0,45,2,0.008,Scottsboro city
-AL,0133448,Hartselle,incorporated,25,A,15455,"Hartselle, AL",0,46,2,0.008,Hartselle city
-AL,0132272,Gulf Shores,incorporated,25,A,15014,"Gulf Shores, AL",0,47,2,0.008,Gulf Shores city
-AL,0114104,Chelsea,incorporated,25,A,14982,"Chelsea, AL",0,48,2,0.008,Chelsea city
-AL,0127616,Fort Payne,incorporated,25,A,14877,"Fort Payne, AL",0,49,1,0.004,Fort Payne city
-AL,0101132,Alexander City,incorporated,25,A,14843,"Alexander City, AL",0,50,1,0.004,Alexander City city
-AL,0138416,Jasper,incorporated,25,A,14572,"Jasper, AL",0,51,1,0.004,Jasper city
+AL,0137000,Huntsville,incorporated,25,A,215006,"Huntsville, AL",0,1,27,0.27,Huntsville city
+AL,0107000,Birmingham,incorporated,25,A,200733,"Birmingham, AL",0,2,12,0.12,Birmingham city
+AL,0151000,Montgomery,incorporated,25,A,200603,"Montgomery, AL",0,3,11,0.11,Montgomery city
+AL,0150000,Mobile,incorporated,25,A,187041,"Mobile, AL",0,4,6,0.06,Mobile city
+AL,0177256,Tuscaloosa,incorporated,25,A,99600,"Tuscaloosa, AL",0,5,4,0.04,Tuscaloosa city
+AL,0135896,Hoover,incorporated,25,A,92606,"Hoover, AL",0,6,4,0.04,Hoover city
+AL,0103076,Auburn,incorporated,25,A,76143,"Auburn, AL",0,7,2,0.02,Auburn city
+AL,0121184,Dothan,incorporated,25,A,71072,"Dothan, AL",0,8,3,0.03,Dothan city
+AL,0120104,Decatur,incorporated,25,A,57938,"Decatur, AL",0,9,3,0.03,Decatur city
+AL,0145784,Madison,incorporated,25,A,56933,"Madison, AL",0,10,2,0.02,Madison city
+AL,0126896,Florence,incorporated,25,A,40184,"Florence, AL",0,11,1,0.01,Florence city
+AL,0178552,Vestavia Hills,incorporated,25,A,39102,"Vestavia Hills, AL",0,12,1,0.01,Vestavia Hills city
+AL,0159472,Phenix City,incorporated,25,A,38816,"Phenix City, AL",0,13,1,0.01,Phenix City city
+AL,0162328,Prattville,incorporated,25,A,37781,"Prattville, AL",0,14,2,0.02,Prattville city
+AL,0128696,Gadsden,incorporated,25,A,33945,"Gadsden, AL",0,15,2,0.02,Gadsden city
+AL,0100820,Alabaster,incorporated,25,A,33284,"Alabaster, AL",0,16,2,0.02,Alabaster city
+AL,0155200,Northport,incorporated,25,A,31125,"Northport, AL",0,17,2,0.02,Northport city
+AL,0157048,Opelika,incorporated,25,A,30995,"Opelika, AL",0,18,2,0.02,Opelika city
+AL,0124184,Enterprise,incorporated,25,A,28711,"Enterprise, AL",0,19,2,0.02,Enterprise city
+AL,0119648,Daphne,incorporated,25,A,27462,"Daphne, AL",0,20,2,0.02,Daphne city
+AL,0135800,Homewood,incorporated,25,A,26414,"Homewood, AL",0,21,2,0.02,Homewood city
+AL,0176944,Trussville,incorporated,25,A,26123,"Trussville, AL",0,22,2,0.02,Trussville city
+AL,0105980,Bessemer,incorporated,25,A,26019,"Bessemer, AL",0,23,2,0.02,Bessemer city
+AL,0102956,Athens,incorporated,25,A,25406,"Athens, AL",0,24,1,0.01,Athens city
+AL,0158848,Pelham,incorporated,25,A,24318,"Pelham, AL",0,25,1,0.01,Pelham city
+AL,0125240,Fairhope,incorporated,25,A,22477,"Fairhope, AL",0,26,1,0.01,Fairhope city
+AL,0151696,Mountain Brook,incorporated,25,A,22461,"Mountain Brook, AL",0,27,0,0,Mountain Brook city
+AL,0100988,Albertville,incorporated,25,A,22386,"Albertville, AL",0,28,0,0,Albertville city
+AL,0157576,Oxford,incorporated,25,A,22069,"Oxford, AL",0,29,0,0,Oxford city
+AL,0101852,Anniston,incorporated,25,A,21564,"Anniston, AL",0,30,0,0,Anniston city
+AL,0134024,Helena,incorporated,25,A,20914,"Helena, AL",0,31,0,0,Helena city
+AL,0126992,Foley,incorporated,25,A,20335,"Foley, AL",0,32,0,0,Foley city
+AL,0162496,Prichard,incorporated,25,A,19322,"Prichard, AL",0,33,0,0,Prichard city
+AL,0118976,Cullman,incorporated,25,A,18213,"Cullman, AL",0,34,0,0,Cullman city
+AL,0169120,Selma,incorporated,25,A,17971,"Selma, AL",0,35,0,0,Selma city
+AL,0176920,Troy,incorporated,25,A,17727,"Troy, AL",0,36,0,0,Troy city
+AL,0136448,Hueytown,incorporated,25,A,16776,"Hueytown, AL",0,37,0,0,Hueytown city
+AL,0148712,Millbrook,incorporated,25,A,16564,"Millbrook, AL",0,38,0,0,Millbrook city
+AL,0111416,Calera,incorporated,25,A,16494,"Calera, AL",0,39,0,0,Calera city
+AL,0113264,Center Point,incorporated,25,A,16406,"Center Point, AL",0,40,0,0,Center Point city
+AL,0153016,Muscle Shoals,incorporated,25,A,16275,"Muscle Shoals, AL",0,41,0,0,Muscle Shoals city
+AL,0168160,Saraland,incorporated,25,A,16171,"Saraland, AL",0,42,0,0,Saraland city
+AL,0129056,Gardendale,incorporated,25,A,16044,"Gardendale, AL",0,43,0,0,Gardendale city
+AL,0174592,Talladega,incorporated,25,A,15861,"Talladega, AL",0,44,0,0,Talladega city
+AL,0168736,Scottsboro,incorporated,25,A,15578,"Scottsboro, AL",0,45,0,0,Scottsboro city
+AL,0133448,Hartselle,incorporated,25,A,15455,"Hartselle, AL",0,46,0,0,Hartselle city
+AL,0132272,Gulf Shores,incorporated,25,A,15014,"Gulf Shores, AL",0,47,0,0,Gulf Shores city
+AL,0114104,Chelsea,incorporated,25,A,14982,"Chelsea, AL",0,48,0,0,Chelsea city
+AL,0127616,Fort Payne,incorporated,25,A,14877,"Fort Payne, AL",0,49,0,0,Fort Payne city
+AL,0101132,Alexander City,incorporated,25,A,14843,"Alexander City, AL",0,50,0,0,Alexander City city
+AL,0138416,Jasper,incorporated,25,A,14572,"Jasper, AL",0,51,0,0,Jasper city
 AL,0138272,Jacksonville,incorporated,25,A,14385,"Jacksonville, AL",0,52,0,0,Jacksonville city
 AL,0157648,Ozark,incorporated,25,A,14368,"Ozark, AL",0,53,0,0,Ozark city
 AL,0137864,Irondale,incorporated,25,A,13497,"Irondale, AL",0,54,0,0,Irondale city

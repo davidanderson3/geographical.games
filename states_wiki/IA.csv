@@ -1,57 +1,57 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-IA,1921000,Des Moines,incorporated,25,A,214133,"Des Moines, IA",0,1,86,0.344,Des Moines city
-IA,1912000,Cedar Rapids,incorporated,25,A,137710,"Cedar Rapids, IA",0,2,25,0.1,Cedar Rapids city
-IA,1919000,Davenport,incorporated,25,A,101724,"Davenport, IA",0,3,14,0.056,Davenport city
-IA,1973335,Sioux City,incorporated,25,A,85797,"Sioux City, IA",0,4,11,0.044,Sioux City city
-IA,1938595,Iowa City,incorporated,25,A,74828,"Iowa City, IA",0,5,9,0.036,Iowa City city
-IA,1983910,West Des Moines,incorporated,25,A,68723,"West Des Moines, IA",0,6,9,0.036,West Des Moines city
-IA,1902305,Ankeny,incorporated,25,A,67887,"Ankeny, IA",0,7,6,0.024,Ankeny city
-IA,1982425,Waterloo,incorporated,25,A,67314,"Waterloo, IA",0,8,4,0.016,Waterloo city
-IA,1901855,Ames,incorporated,25,A,66427,"Ames, IA",0,9,5,0.02,Ames city
-IA,1916860,Council Bluffs,incorporated,25,A,62799,"Council Bluffs, IA",0,10,3,0.012,Council Bluffs city
-IA,1922395,Dubuque,incorporated,25,A,59667,"Dubuque, IA",0,11,4,0.016,Dubuque city
-IA,1979950,Urbandale,incorporated,25,A,45580,"Urbandale, IA",0,12,4,0.016,Urbandale city
-IA,1949485,Marion,incorporated,25,A,41535,"Marion, IA",0,13,2,0.008,Marion city
-IA,1911755,Cedar Falls,incorporated,25,A,40713,"Cedar Falls, IA",0,14,2,0.008,Cedar Falls city
-IA,1906355,Bettendorf,incorporated,25,A,39102,"Bettendorf, IA",0,15,3,0.012,Bettendorf city
-IA,1949755,Marshalltown,incorporated,25,A,27591,"Marshalltown, IA",0,16,3,0.012,Marshalltown city
-IA,1950160,Mason City,incorporated,25,A,27338,"Mason City, IA",0,17,3,0.012,Mason City city
-IA,1960465,Ottumwa,incorporated,25,A,25529,"Ottumwa, IA",0,18,3,0.012,Ottumwa city
-IA,1928515,Fort Dodge,incorporated,25,A,24871,"Fort Dodge, IA",0,19,2,0.008,Fort Dodge city
-IA,1914430,Clinton,incorporated,25,A,24469,"Clinton, IA",0,20,1,0.004,Clinton city
-IA,1939765,Johnston,incorporated,25,A,24064,"Johnston, IA",0,21,1,0.004,Johnston city
-IA,1909550,Burlington,incorporated,25,A,23982,"Burlington, IA",0,22,1,0.004,Burlington city
-IA,1982695,Waukee,incorporated,25,A,23940,"Waukee, IA",0,23,1,0.004,Waukee city
-IA,1955110,Muscatine,incorporated,25,A,23797,"Muscatine, IA",0,24,1,0.004,Muscatine city
-IA,1916230,Coralville,incorporated,25,A,22318,"Coralville, IA",0,25,1,0.004,Coralville city
-IA,1957360,North Liberty,incorporated,25,A,20479,"North Liberty, IA",0,26,2,0.008,North Liberty city
-IA,1901630,Altoona,incorporated,25,A,19565,"Altoona, IA",0,27,2,0.008,Altoona city
-IA,1914520,Clive,incorporated,25,A,18601,"Clive, IA",0,28,2,0.008,Clive city
-IA,1938280,Indianola,incorporated,25,A,15833,"Indianola, IA",0,29,2,0.008,Indianola city
-IA,1956505,Newton,incorporated,25,A,15760,"Newton, IA",0,30,2,0.008,Newton city
-IA,1933060,Grimes,incorporated,25,A,15392,"Grimes, IA",0,31,2,0.008,Grimes city
-IA,1957675,Norwalk,incorporated,25,A,12799,"Norwalk, IA",0,32,2,0.008,Norwalk city
-IA,1907480,Boone,incorporated,25,A,12460,"Boone, IA",0,33,2,0.008,Boone city
-IA,1959925,Oskaloosa,incorporated,25,A,11558,"Oskaloosa, IA",0,34,2,0.008,Oskaloosa city
-IA,1974280,Spencer,incorporated,25,A,11325,"Spencer, IA",0,35,2,0.008,Spencer city
-IA,1975630,Storm Lake,incorporated,25,A,11269,"Storm Lake, IA",0,36,2,0.008,Storm Lake city
-IA,1944400,Le Mars,incorporated,25,A,10571,"Le Mars, IA",0,37,2,0.008,Le Mars city
-IA,1962040,Pella,incorporated,25,A,10464,"Pella, IA",0,38,2,0.008,Pella city
-IA,1982875,Waverly,incorporated,25,A,10394,"Waverly, IA",0,39,2,0.008,Waverly city
-IA,1911080,Carroll,incorporated,25,A,10321,"Carroll, IA",0,40,2,0.008,Carroll city
-IA,1928605,Fort Madison,incorporated,25,A,10270,"Fort Madison, IA",0,41,2,0.008,Fort Madison city
-IA,1963525,Pleasant Hill,incorporated,25,A,10147,"Pleasant Hill, IA",0,42,2,0.008,Pleasant Hill city
-IA,1940845,Keokuk,incorporated,25,A,9900,"Keokuk, IA",0,43,2,0.008,Keokuk city
-IA,1933105,Grinnell,incorporated,25,A,9564,"Grinnell, IA",0,44,1,0.004,Grinnell city
-IA,1926445,Fairfield,incorporated,25,A,9416,"Fairfield, IA",0,45,1,0.004,Fairfield city
-IA,1954705,Mount Pleasant,incorporated,25,A,9274,"Mount Pleasant, IA",0,46,1,0.004,Mount Pleasant city
-IA,1919945,Denison,incorporated,25,A,8373,"Denison, IA",0,47,1,0.004,Denison city
-IA,1973290,Sioux Center,incorporated,25,A,8229,"Sioux Center, IA",0,48,1,0.004,Sioux Center city
-IA,1962355,Perry,incorporated,25,A,7836,"Perry, IA",0,49,1,0.004,Perry city
-IA,1983145,Webster City,incorporated,25,A,7825,"Webster City, IA",0,50,1,0.004,Webster City city
-IA,1914025,Clear Lake,incorporated,25,A,7687,"Clear Lake, IA",0,51,1,0.004,Clear Lake city
-IA,1942015,Knoxville,incorporated,25,A,7595,"Knoxville, IA",0,52,1,0.004,Knoxville city
-IA,1919405,Decorah,incorporated,25,A,7587,"Decorah, IA",0,53,1,0.004,Decorah city
+IA,1921000,Des Moines,incorporated,25,A,214133,"Des Moines, IA",0,1,35,0.35,Des Moines city
+IA,1912000,Cedar Rapids,incorporated,25,A,137710,"Cedar Rapids, IA",0,2,10,0.1,Cedar Rapids city
+IA,1919000,Davenport,incorporated,25,A,101724,"Davenport, IA",0,3,7,0.07,Davenport city
+IA,1973335,Sioux City,incorporated,25,A,85797,"Sioux City, IA",0,4,5,0.05,Sioux City city
+IA,1938595,Iowa City,incorporated,25,A,74828,"Iowa City, IA",0,5,3,0.03,Iowa City city
+IA,1983910,West Des Moines,incorporated,25,A,68723,"West Des Moines, IA",0,6,5,0.05,West Des Moines city
+IA,1902305,Ankeny,incorporated,25,A,67887,"Ankeny, IA",0,7,3,0.03,Ankeny city
+IA,1982425,Waterloo,incorporated,25,A,67314,"Waterloo, IA",0,8,3,0.03,Waterloo city
+IA,1901855,Ames,incorporated,25,A,66427,"Ames, IA",0,9,2,0.02,Ames city
+IA,1916860,Council Bluffs,incorporated,25,A,62799,"Council Bluffs, IA",0,10,1,0.01,Council Bluffs city
+IA,1922395,Dubuque,incorporated,25,A,59667,"Dubuque, IA",0,11,1,0.01,Dubuque city
+IA,1979950,Urbandale,incorporated,25,A,45580,"Urbandale, IA",0,12,1,0.01,Urbandale city
+IA,1949485,Marion,incorporated,25,A,41535,"Marion, IA",0,13,2,0.02,Marion city
+IA,1911755,Cedar Falls,incorporated,25,A,40713,"Cedar Falls, IA",0,14,2,0.02,Cedar Falls city
+IA,1906355,Bettendorf,incorporated,25,A,39102,"Bettendorf, IA",0,15,2,0.02,Bettendorf city
+IA,1949755,Marshalltown,incorporated,25,A,27591,"Marshalltown, IA",0,16,2,0.02,Marshalltown city
+IA,1950160,Mason City,incorporated,25,A,27338,"Mason City, IA",0,17,2,0.02,Mason City city
+IA,1960465,Ottumwa,incorporated,25,A,25529,"Ottumwa, IA",0,18,2,0.02,Ottumwa city
+IA,1928515,Fort Dodge,incorporated,25,A,24871,"Fort Dodge, IA",0,19,2,0.02,Fort Dodge city
+IA,1914430,Clinton,incorporated,25,A,24469,"Clinton, IA",0,20,2,0.02,Clinton city
+IA,1939765,Johnston,incorporated,25,A,24064,"Johnston, IA",0,21,2,0.02,Johnston city
+IA,1909550,Burlington,incorporated,25,A,23982,"Burlington, IA",0,22,1,0.01,Burlington city
+IA,1982695,Waukee,incorporated,25,A,23940,"Waukee, IA",0,23,1,0.01,Waukee city
+IA,1955110,Muscatine,incorporated,25,A,23797,"Muscatine, IA",0,24,1,0.01,Muscatine city
+IA,1916230,Coralville,incorporated,25,A,22318,"Coralville, IA",0,25,1,0.01,Coralville city
+IA,1957360,North Liberty,incorporated,25,A,20479,"North Liberty, IA",0,26,1,0.01,North Liberty city
+IA,1901630,Altoona,incorporated,25,A,19565,"Altoona, IA",0,27,1,0.01,Altoona city
+IA,1914520,Clive,incorporated,25,A,18601,"Clive, IA",0,28,0,0,Clive city
+IA,1938280,Indianola,incorporated,25,A,15833,"Indianola, IA",0,29,0,0,Indianola city
+IA,1956505,Newton,incorporated,25,A,15760,"Newton, IA",0,30,0,0,Newton city
+IA,1933060,Grimes,incorporated,25,A,15392,"Grimes, IA",0,31,0,0,Grimes city
+IA,1957675,Norwalk,incorporated,25,A,12799,"Norwalk, IA",0,32,0,0,Norwalk city
+IA,1907480,Boone,incorporated,25,A,12460,"Boone, IA",0,33,0,0,Boone city
+IA,1959925,Oskaloosa,incorporated,25,A,11558,"Oskaloosa, IA",0,34,0,0,Oskaloosa city
+IA,1974280,Spencer,incorporated,25,A,11325,"Spencer, IA",0,35,0,0,Spencer city
+IA,1975630,Storm Lake,incorporated,25,A,11269,"Storm Lake, IA",0,36,0,0,Storm Lake city
+IA,1944400,Le Mars,incorporated,25,A,10571,"Le Mars, IA",0,37,0,0,Le Mars city
+IA,1962040,Pella,incorporated,25,A,10464,"Pella, IA",0,38,0,0,Pella city
+IA,1982875,Waverly,incorporated,25,A,10394,"Waverly, IA",0,39,0,0,Waverly city
+IA,1911080,Carroll,incorporated,25,A,10321,"Carroll, IA",0,40,0,0,Carroll city
+IA,1928605,Fort Madison,incorporated,25,A,10270,"Fort Madison, IA",0,41,0,0,Fort Madison city
+IA,1963525,Pleasant Hill,incorporated,25,A,10147,"Pleasant Hill, IA",0,42,0,0,Pleasant Hill city
+IA,1940845,Keokuk,incorporated,25,A,9900,"Keokuk, IA",0,43,0,0,Keokuk city
+IA,1933105,Grinnell,incorporated,25,A,9564,"Grinnell, IA",0,44,0,0,Grinnell city
+IA,1926445,Fairfield,incorporated,25,A,9416,"Fairfield, IA",0,45,0,0,Fairfield city
+IA,1954705,Mount Pleasant,incorporated,25,A,9274,"Mount Pleasant, IA",0,46,0,0,Mount Pleasant city
+IA,1919945,Denison,incorporated,25,A,8373,"Denison, IA",0,47,0,0,Denison city
+IA,1973290,Sioux Center,incorporated,25,A,8229,"Sioux Center, IA",0,48,0,0,Sioux Center city
+IA,1962355,Perry,incorporated,25,A,7836,"Perry, IA",0,49,0,0,Perry city
+IA,1983145,Webster City,incorporated,25,A,7825,"Webster City, IA",0,50,0,0,Webster City city
+IA,1914025,Clear Lake,incorporated,25,A,7687,"Clear Lake, IA",0,51,0,0,Clear Lake city
+IA,1942015,Knoxville,incorporated,25,A,7595,"Knoxville, IA",0,52,0,0,Knoxville city
+IA,1919405,Decorah,incorporated,25,A,7587,"Decorah, IA",0,53,0,0,Decorah city
 IA,1917265,Creston,incorporated,25,A,7536,"Creston, IA",0,54,0,0,Creston city
 IA,1912765,Charles City,incorporated,25,A,7396,"Charles City, IA",0,55,0,0,Charles City city
 IA,1907390,Bondurant,incorporated,25,A,7365,"Bondurant, IA",0,56,0,0,Bondurant city

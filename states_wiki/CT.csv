@@ -1,2 +1,32 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-CT,0947500,Milford,consolidated,25,A,0,"Milford, CT",0,1,250,1,Milford city
+CT,0908000,Bridgeport,incorporated,25,A,148654,"Bridgeport, CT",0,1,33,0.33,Bridgeport city
+CT,0973000,Stamford,incorporated,25,A,135470,"Stamford, CT",0,2,14,0.14,Stamford city
+CT,0952000,New Haven,incorporated,25,A,134023,"New Haven, CT",0,3,8,0.08,New Haven city
+CT,0937000,Hartford,incorporated,25,A,121054,"Hartford, CT",0,4,9,0.09,Hartford city
+CT,0980000,Waterbury,incorporated,25,A,114403,"Waterbury, CT",0,5,4,0.04,Waterbury city
+CT,0955990,Norwalk,incorporated,25,A,91184,"Norwalk, CT",0,6,4,0.04,Norwalk city
+CT,0918430,Danbury,incorporated,25,A,86518,"Danbury, CT",0,7,3,0.03,Danbury city
+CT,0950370,New Britain,incorporated,25,A,74135,"New Britain, CT",0,8,2,0.02,New Britain city
+CT,0946450,Meriden,incorporated,25,A,60850,"Meriden, CT",0,9,2,0.02,Meriden city
+CT,0908420,Bristol,incorporated,25,A,60833,"Bristol, CT",0,10,2,0.02,Bristol city
+CT,0982800,West Haven,incorporated,25,A,55584,"West Haven, CT",0,11,2,0.02,West Haven city
+CT,0947515,Milford city (balance),incorporated,00,F,50558,"Milford city (balance), CT",0,12,1,0.01,Milford city (balance)
+CT,0947290,Middletown,incorporated,25,A,47717,"Middletown, CT",0,13,1,0.01,Middletown city
+CT,0968100,Shelton,incorporated,25,A,40869,"Shelton, CT",0,14,1,0.01,Shelton city
+CT,0956200,Norwich,incorporated,25,A,40125,"Norwich, CT",0,15,1,0.01,Norwich city
+CT,0976500,Torrington,incorporated,25,A,35515,"Torrington, CT",0,16,1,0.01,Torrington city
+CT,0949880,Naugatuck,incorporated,21,A,31519,"Naugatuck, CT",0,17,1,0.01,Naugatuck borough
+CT,0952280,New London,incorporated,25,A,27367,"New London, CT",0,18,1,0.01,New London city
+CT,0901150,Ansonia,incorporated,25,A,18918,"Ansonia, CT",0,19,1,0.01,Ansonia city
+CT,0919480,Derby,incorporated,25,A,12325,"Derby, CT",0,20,1,0.01,Derby city
+CT,0934180,Groton,incorporated,25,A,9387,"Groton, CT",0,21,1,0.01,Groton city
+CT,0918780,Danielson,incorporated,21,A,4155,"Danielson, CT",0,22,1,0.01,Danielson borough
+CT,0939940,Jewett City,incorporated,21,A,3328,"Jewett City, CT",0,23,1,0.01,Jewett City borough
+CT,0952910,Newtown,incorporated,21,A,1914,"Newtown, CT",0,24,1,0.01,Newtown borough
+CT,0988050,Woodmont,incorporated,21,A,1486,"Woodmont, CT",0,25,1,0.01,Woodmont borough
+CT,0943300,Litchfield,incorporated,21,A,1179,"Litchfield, CT",0,26,1,0.01,Litchfield borough
+CT,0973700,Stonington,incorporated,21,A,976,"Stonington, CT",0,27,1,0.01,Stonington borough
+CT,0902690,Bantam,incorporated,21,A,720,"Bantam, CT",0,28,1,0.01,Bantam borough
+CT,0934460,Groton Long Point,incorporated,21,A,530,"Groton Long Point, CT",0,29,0,0,Groton Long Point borough
+CT,0927810,Fenwick,incorporated,21,A,53,"Fenwick, CT",0,30,0,0,Fenwick borough
+CT,0947500,Milford,consolidated,25,A,0,"Milford, CT",0,31,0,0,Milford city

@@ -25,10 +25,11 @@ const NE_CACHE = path.join(__dirname, 'ne_10m_populated_places_simple.geojson');
 
 function readJson(p){ return JSON.parse(fs.readFileSync(p, 'utf8')); }
 
-function getISO3List(){
+function getCountries(){
   const arr = readJson(COUNTRIES_FILE);
-  return arr.map(r=>r.code);
+  return arr.map(r=>({ code: r.code, name: r.name }));
 }
+function getISO3List(){ return getCountries().map(r=>r.code); }
 
 async function ensureNE(refresh){
   if (!refresh && fs.existsSync(NE_CACHE)) return;
@@ -59,7 +60,7 @@ function filterNEByISO3(ne, code){
   });
 }
 
-function toCityFeature(f){
+function toCityFeature(f, iso3, countryName){
   const g = f.geometry;
   if(!g || g.type !== 'Point' || !Array.isArray(g.coordinates)) return null;
   const lon = Number(g.coordinates[0]);
@@ -68,8 +69,9 @@ function toCityFeature(f){
   const p = f.properties || {};
   const pop = Number(p.POP_MAX ?? p.pop_max ?? p.POP_MIN ?? p.pop_min) || null;
   const name = p.NAME || p.name || p.NAMEASCII || p.nameascii || null;
+  const admin1 = p.ADM1NAME || p.adm1name || p.REGION || p.region || null;
   if(!name) return null;
-  return { type:'Feature', properties:{ name, population: pop, source:'NE10m' }, geometry:{ type:'Point', coordinates:[lon,lat] } };
+  return { type:'Feature', properties:{ name, population: pop, country: countryName||iso3, admin1, iso3, source:'NE10m' }, geometry:{ type:'Point', coordinates:[lon,lat] } };
 }
 
 function writeCities(iso3, features){
@@ -86,23 +88,33 @@ async function main(){
   const limitArg = argv.find(a=>a.startsWith('--limit='));
   const minPopArg = argv.find(a=>a.startsWith('--min-pop='));
   const refresh = argv.includes('--refresh-ne');
-  const limit = limitArg ? Math.max(1, Number(limitArg.split('=')[1])||20) : 20;
+  let limit = Infinity;
+  if(limitArg){
+    const raw = String(limitArg.split('=')[1]||'').trim().toLowerCase();
+    if(raw==='all' || raw==='0' || raw==='inf' || raw==='infinity') limit = Infinity;
+    else {
+      const n = Number(raw); limit = (!isFinite(n)||n<=0) ? Infinity : Math.max(1, n);
+    }
+  }
   const minPop = minPopArg ? Math.max(0, Number(minPopArg.split('=')[1])||0) : 0;
   const targets = argv.filter(a=>/^[A-Z]{3}$/.test(a));
-  const list = targets.length ? targets : getISO3List();
+  const countries = getCountries();
+  const list = targets.length ? countries.filter(c=>targets.includes(c.code)).map(c=>c.code) : countries.map(c=>c.code);
 
   await ensureNE(refresh);
   const ne = readJson(NE_CACHE);
 
-  console.log(`Writing simple city layers for ${list.length} countries (limit=${limit}, minPop=${minPop})`);
+  // Map ISO3->name for properties.country
+  const nameByCode = new Map(countries.map(c=>[c.code, c.name]));
+  console.log(`Writing simple city layers for ${list.length} countries (limit=${limit===Infinity?'all':limit}, minPop=${minPop})`);
   for(const code of list){
     try{
       const subset = filterNEByISO3(ne, code)
-        .map(toCityFeature)
+        .map(f=> toCityFeature(f, code, nameByCode.get(code)))
         .filter(Boolean)
         .filter(f => (Number(f.properties.population)||0) >= minPop)
         .sort((a,b)=> (Number(b.properties.population)||0) - (Number(a.properties.population)||0))
-        .slice(0, limit);
+        .slice(0, limit===Infinity?undefined:limit);
       const file = writeCities(code, subset);
       console.log(`  ${code}: wrote ${subset.length} to ${file}`);
     }catch(e){

@@ -1,55 +1,55 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-FL,1235000,Jacksonville,incorporated,25,A,949611,"Jacksonville, FL",0,1,68,0.272,Jacksonville city
-FL,1245000,Miami,incorporated,25,A,442241,"Miami, FL",0,2,28,0.112,Miami city
-FL,1271000,Tampa,incorporated,25,A,384959,"Tampa, FL",0,3,18,0.072,Tampa city
-FL,1253000,Orlando,incorporated,25,A,307573,"Orlando, FL",0,4,13,0.052,Orlando city
-FL,1263000,St. Petersburg,incorporated,25,A,258308,"St. Petersburg, FL",0,5,10,0.04,St. Petersburg city
-FL,1230000,Hialeah,incorporated,25,A,223109,"Hialeah, FL",0,6,7,0.028,Hialeah city
-FL,1258715,Port St. Lucie,incorporated,25,A,204851,"Port St. Lucie, FL",0,7,7,0.028,Port St. Lucie city
-FL,1270600,Tallahassee,incorporated,25,A,196169,"Tallahassee, FL",0,8,7,0.028,Tallahassee city
-FL,1210275,Cape Coral,incorporated,25,A,194016,"Cape Coral, FL",0,9,4,0.016,Cape Coral city
-FL,1224000,Fort Lauderdale,incorporated,25,A,182760,"Fort Lauderdale, FL",0,10,5,0.02,Fort Lauderdale city
-FL,1255775,Pembroke Pines,incorporated,25,A,171178,"Pembroke Pines, FL",0,11,3,0.012,Pembroke Pines city
-FL,1232000,Hollywood,incorporated,25,A,153067,"Hollywood, FL",0,12,4,0.016,Hollywood city
-FL,1225175,Gainesville,incorporated,25,A,141085,"Gainesville, FL",0,13,4,0.016,Gainesville city
-FL,1245975,Miramar,incorporated,25,A,134721,"Miramar, FL",0,14,2,0.008,Miramar city
-FL,1214400,Coral Springs,incorporated,25,A,134394,"Coral Springs, FL",0,15,2,0.008,Coral Springs city
-FL,1254000,Palm Bay,incorporated,25,A,119760,"Palm Bay, FL",0,16,2,0.008,Palm Bay city
-FL,1276600,West Palm Beach,incorporated,25,A,117415,"West Palm Beach, FL",0,17,3,0.012,West Palm Beach city
-FL,1212875,Clearwater,incorporated,25,A,117292,"Clearwater, FL",0,18,3,0.012,Clearwater city
-FL,1238250,Lakeland,incorporated,25,A,112641,"Lakeland, FL",0,19,3,0.012,Lakeland city
-FL,1258050,Pompano Beach,incorporated,25,A,112046,"Pompano Beach, FL",0,20,3,0.012,Pompano Beach city
-FL,1245060,Miami Gardens,incorporated,25,A,111640,"Miami Gardens, FL",0,21,2,0.008,Miami Gardens city
-FL,1216475,Davie,incorporated,43,A,105691,"Davie, FL",0,22,1,0.004,Davie town
-FL,1207300,Boca Raton,incorporated,25,A,97422,"Boca Raton, FL",0,23,1,0.004,Boca Raton city
-FL,1269700,Sunrise,incorporated,25,A,97335,"Sunrise, FL",0,24,1,0.004,Sunrise city
-FL,1217200,Deltona,incorporated,25,A,93692,"Deltona, FL",0,25,1,0.004,Deltona city
-FL,1257425,Plantation,incorporated,25,A,91750,"Plantation, FL",0,26,1,0.004,Plantation city
-FL,1254200,Palm Coast,incorporated,25,A,89258,"Palm Coast, FL",0,27,1,0.004,Palm Coast city
-FL,1216725,Deerfield Beach,incorporated,25,A,86859,"Deerfield Beach, FL",0,28,1,0.004,Deerfield Beach city
-FL,1224125,Fort Myers,incorporated,25,A,86395,"Fort Myers, FL",0,29,2,0.008,Fort Myers city
-FL,1243975,Melbourne,incorporated,25,A,84678,"Melbourne, FL",0,30,2,0.008,Melbourne city
-FL,1245025,Miami Beach,incorporated,25,A,82890,"Miami Beach, FL",0,31,2,0.008,Miami Beach city
-FL,1239425,Largo,incorporated,25,A,82485,"Largo, FL",0,32,2,0.008,Largo city
-FL,1232275,Homestead,incorporated,25,A,80737,"Homestead, FL",0,33,2,0.008,Homestead city
-FL,1207875,Boynton Beach,incorporated,25,A,80380,"Boynton Beach, FL",0,34,2,0.008,Boynton Beach city
-FL,1236950,Kissimmee,incorporated,25,A,79226,"Kissimmee, FL",0,35,2,0.008,Kissimmee city
-FL,1217935,Doral,incorporated,25,A,75874,"Doral, FL",0,36,2,0.008,Doral city
-FL,1249675,North Port,incorporated,25,A,74793,"North Port, FL",0,37,2,0.008,North Port city
-FL,1239550,Lauderhill,incorporated,25,A,74482,"Lauderhill, FL",0,38,2,0.008,Lauderhill city
-FL,1216525,Daytona Beach,incorporated,25,A,72647,"Daytona Beach, FL",0,39,2,0.008,Daytona Beach city
-FL,1270675,Tamarac,incorporated,25,A,71897,"Tamarac, FL",0,40,2,0.008,Tamarac city
-FL,1276582,Weston,incorporated,25,A,68107,"Weston, FL",0,41,2,0.008,Weston city
-FL,1217100,Delray Beach,incorporated,25,A,66846,"Delray Beach, FL",0,42,2,0.008,Delray Beach city
-FL,1250750,Ocala,incorporated,25,A,63591,"Ocala, FL",0,43,2,0.008,Ocala city
-FL,1258575,Port Orange,incorporated,25,A,62596,"Port Orange, FL",0,44,2,0.008,Port Orange city
-FL,1275812,Wellington,incorporated,47,A,61637,"Wellington, FL",0,45,2,0.008,Wellington village
-FL,1263650,Sanford,incorporated,25,A,61051,"Sanford, FL",0,46,2,0.008,Sanford city
-FL,1235875,Jupiter,incorporated,43,A,61047,"Jupiter, FL",0,47,2,0.008,Jupiter town
-FL,1249450,North Miami,incorporated,25,A,60191,"North Miami, FL",0,48,2,0.008,North Miami city
-FL,1254075,Palm Beach Gardens,incorporated,25,A,59182,"Palm Beach Gardens, FL",0,49,2,0.008,Palm Beach Gardens city
-FL,1262625,St. Cloud,incorporated,25,A,58964,"St. Cloud, FL",0,50,2,0.008,St. Cloud city
-FL,1243125,Margate,incorporated,25,A,58712,"Margate, FL",0,51,1,0.004,Margate city
+FL,1235000,Jacksonville,incorporated,25,A,949611,"Jacksonville, FL",0,1,28,0.28,Jacksonville city
+FL,1245000,Miami,incorporated,25,A,442241,"Miami, FL",0,2,11,0.11,Miami city
+FL,1271000,Tampa,incorporated,25,A,384959,"Tampa, FL",0,3,8,0.08,Tampa city
+FL,1253000,Orlando,incorporated,25,A,307573,"Orlando, FL",0,4,6,0.06,Orlando city
+FL,1263000,St. Petersburg,incorporated,25,A,258308,"St. Petersburg, FL",0,5,5,0.05,St. Petersburg city
+FL,1230000,Hialeah,incorporated,25,A,223109,"Hialeah, FL",0,6,4,0.04,Hialeah city
+FL,1258715,Port St. Lucie,incorporated,25,A,204851,"Port St. Lucie, FL",0,7,2,0.02,Port St. Lucie city
+FL,1270600,Tallahassee,incorporated,25,A,196169,"Tallahassee, FL",0,8,4,0.04,Tallahassee city
+FL,1210275,Cape Coral,incorporated,25,A,194016,"Cape Coral, FL",0,9,3,0.03,Cape Coral city
+FL,1224000,Fort Lauderdale,incorporated,25,A,182760,"Fort Lauderdale, FL",0,10,3,0.03,Fort Lauderdale city
+FL,1255775,Pembroke Pines,incorporated,25,A,171178,"Pembroke Pines, FL",0,11,1,0.01,Pembroke Pines city
+FL,1232000,Hollywood,incorporated,25,A,153067,"Hollywood, FL",0,12,1,0.01,Hollywood city
+FL,1225175,Gainesville,incorporated,25,A,141085,"Gainesville, FL",0,13,1,0.01,Gainesville city
+FL,1245975,Miramar,incorporated,25,A,134721,"Miramar, FL",0,14,2,0.02,Miramar city
+FL,1214400,Coral Springs,incorporated,25,A,134394,"Coral Springs, FL",0,15,2,0.02,Coral Springs city
+FL,1254000,Palm Bay,incorporated,25,A,119760,"Palm Bay, FL",0,16,2,0.02,Palm Bay city
+FL,1276600,West Palm Beach,incorporated,25,A,117415,"West Palm Beach, FL",0,17,2,0.02,West Palm Beach city
+FL,1212875,Clearwater,incorporated,25,A,117292,"Clearwater, FL",0,18,2,0.02,Clearwater city
+FL,1238250,Lakeland,incorporated,25,A,112641,"Lakeland, FL",0,19,2,0.02,Lakeland city
+FL,1258050,Pompano Beach,incorporated,25,A,112046,"Pompano Beach, FL",0,20,2,0.02,Pompano Beach city
+FL,1245060,Miami Gardens,incorporated,25,A,111640,"Miami Gardens, FL",0,21,2,0.02,Miami Gardens city
+FL,1216475,Davie,incorporated,43,A,105691,"Davie, FL",0,22,2,0.02,Davie town
+FL,1207300,Boca Raton,incorporated,25,A,97422,"Boca Raton, FL",0,23,2,0.02,Boca Raton city
+FL,1269700,Sunrise,incorporated,25,A,97335,"Sunrise, FL",0,24,2,0.02,Sunrise city
+FL,1217200,Deltona,incorporated,25,A,93692,"Deltona, FL",0,25,1,0.01,Deltona city
+FL,1257425,Plantation,incorporated,25,A,91750,"Plantation, FL",0,26,0,0,Plantation city
+FL,1254200,Palm Coast,incorporated,25,A,89258,"Palm Coast, FL",0,27,0,0,Palm Coast city
+FL,1216725,Deerfield Beach,incorporated,25,A,86859,"Deerfield Beach, FL",0,28,0,0,Deerfield Beach city
+FL,1224125,Fort Myers,incorporated,25,A,86395,"Fort Myers, FL",0,29,0,0,Fort Myers city
+FL,1243975,Melbourne,incorporated,25,A,84678,"Melbourne, FL",0,30,0,0,Melbourne city
+FL,1245025,Miami Beach,incorporated,25,A,82890,"Miami Beach, FL",0,31,0,0,Miami Beach city
+FL,1239425,Largo,incorporated,25,A,82485,"Largo, FL",0,32,0,0,Largo city
+FL,1232275,Homestead,incorporated,25,A,80737,"Homestead, FL",0,33,0,0,Homestead city
+FL,1207875,Boynton Beach,incorporated,25,A,80380,"Boynton Beach, FL",0,34,0,0,Boynton Beach city
+FL,1236950,Kissimmee,incorporated,25,A,79226,"Kissimmee, FL",0,35,0,0,Kissimmee city
+FL,1217935,Doral,incorporated,25,A,75874,"Doral, FL",0,36,0,0,Doral city
+FL,1249675,North Port,incorporated,25,A,74793,"North Port, FL",0,37,0,0,North Port city
+FL,1239550,Lauderhill,incorporated,25,A,74482,"Lauderhill, FL",0,38,0,0,Lauderhill city
+FL,1216525,Daytona Beach,incorporated,25,A,72647,"Daytona Beach, FL",0,39,0,0,Daytona Beach city
+FL,1270675,Tamarac,incorporated,25,A,71897,"Tamarac, FL",0,40,0,0,Tamarac city
+FL,1276582,Weston,incorporated,25,A,68107,"Weston, FL",0,41,0,0,Weston city
+FL,1217100,Delray Beach,incorporated,25,A,66846,"Delray Beach, FL",0,42,0,0,Delray Beach city
+FL,1250750,Ocala,incorporated,25,A,63591,"Ocala, FL",0,43,0,0,Ocala city
+FL,1258575,Port Orange,incorporated,25,A,62596,"Port Orange, FL",0,44,0,0,Port Orange city
+FL,1275812,Wellington,incorporated,47,A,61637,"Wellington, FL",0,45,0,0,Wellington village
+FL,1263650,Sanford,incorporated,25,A,61051,"Sanford, FL",0,46,0,0,Sanford city
+FL,1235875,Jupiter,incorporated,43,A,61047,"Jupiter, FL",0,47,0,0,Jupiter town
+FL,1249450,North Miami,incorporated,25,A,60191,"North Miami, FL",0,48,0,0,North Miami city
+FL,1254075,Palm Beach Gardens,incorporated,25,A,59182,"Palm Beach Gardens, FL",0,49,0,0,Palm Beach Gardens city
+FL,1262625,St. Cloud,incorporated,25,A,58964,"St. Cloud, FL",0,50,0,0,St. Cloud city
+FL,1243125,Margate,incorporated,25,A,58712,"Margate, FL",0,51,0,0,Margate city
 FL,1213275,Coconut Creek,incorporated,25,A,57833,"Coconut Creek, FL",0,52,0,0,Coconut Creek city
 FL,1207950,Bradenton,incorporated,25,A,55698,"Bradenton, FL",0,53,0,0,Bradenton city
 FL,1201700,Apopka,incorporated,25,A,54873,"Apopka, FL",0,54,0,0,Apopka city

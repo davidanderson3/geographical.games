@@ -1,56 +1,56 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-MI,2622000,Detroit,incorporated,25,A,639111,"Detroit, MI",0,1,65,0.26,Detroit city
-MI,2634000,Grand Rapids,incorporated,25,A,198917,"Grand Rapids, MI",0,2,28,0.112,Grand Rapids city
-MI,2684000,Warren,incorporated,25,A,139387,"Warren, MI",0,3,18,0.072,Warren city
-MI,2676460,Sterling Heights,incorporated,25,A,134346,"Sterling Heights, MI",0,4,13,0.052,Sterling Heights city
-MI,2603000,Ann Arbor,incorporated,25,A,123851,"Ann Arbor, MI",0,5,10,0.04,Ann Arbor city
-MI,2646000,Lansing,incorporated,25,A,112644,"Lansing, MI",0,6,10,0.04,Lansing city
-MI,2621000,Dearborn,incorporated,25,A,109976,"Dearborn, MI",0,7,7,0.028,Dearborn city
-MI,2649000,Livonia,incorporated,25,A,95535,"Livonia, MI",0,8,6,0.024,Livonia city
-MI,2680700,Troy,incorporated,25,A,87294,"Troy, MI",0,9,4,0.016,Troy city
-MI,2686000,Westland,incorporated,25,A,85420,"Westland, MI",0,10,5,0.02,Westland city
-MI,2627440,Farmington Hills,incorporated,25,A,83986,"Farmington Hills, MI",0,11,3,0.012,Farmington Hills city
-MI,2629000,Flint,incorporated,25,A,81252,"Flint, MI",0,12,4,0.016,Flint city
-MI,2674900,Southfield,incorporated,25,A,76618,"Southfield, MI",0,13,4,0.016,Southfield city
-MI,2688940,Wyoming,incorporated,25,A,76501,"Wyoming, MI",0,14,2,0.008,Wyoming city
-MI,2669035,Rochester Hills,incorporated,25,A,76300,"Rochester Hills, MI",0,15,2,0.008,Rochester Hills city
-MI,2642160,Kalamazoo,incorporated,25,A,73598,"Kalamazoo, MI",0,16,2,0.008,Kalamazoo city
-MI,2659440,Novi,incorporated,25,A,66243,"Novi, MI",0,17,3,0.012,Novi city
-MI,2679000,Taylor,incorporated,25,A,63409,"Taylor, MI",0,18,3,0.012,Taylor city
-MI,2621020,Dearborn Heights,incorporated,25,A,63292,"Dearborn Heights, MI",0,19,3,0.012,Dearborn Heights city
-MI,2665440,Pontiac,incorporated,25,A,61606,"Pontiac, MI",0,20,3,0.012,Pontiac city
-MI,2670760,St. Clair Shores,incorporated,25,A,58874,"St. Clair Shores, MI",0,21,1,0.004,St. Clair Shores city
-MI,2670040,Royal Oak,incorporated,25,A,58211,"Royal Oak, MI",0,22,1,0.004,Royal Oak city
-MI,2642820,Kentwood,incorporated,25,A,54304,"Kentwood, MI",0,23,1,0.004,Kentwood city
-MI,2605920,Battle Creek,incorporated,25,A,52721,"Battle Creek, MI",0,24,1,0.004,Battle Creek city
-MI,2665560,Portage,incorporated,25,A,48891,"Portage, MI",0,25,1,0.004,Portage city
-MI,2624120,East Lansing,incorporated,25,A,47741,"East Lansing, MI",0,26,3,0.012,East Lansing city
-MI,2669800,Roseville,incorporated,25,A,47710,"Roseville, MI",0,27,1,0.004,Roseville city
-MI,2670520,Saginaw,incorporated,25,A,44202,"Saginaw, MI",0,28,1,0.004,Saginaw city
-MI,2653780,Midland,incorporated,25,A,42547,"Midland, MI",0,29,2,0.008,Midland city
-MI,2647800,Lincoln Park,incorporated,25,A,40245,"Lincoln Park, MI",0,30,2,0.008,Lincoln Park city
-MI,2656320,Muskegon,incorporated,25,A,38318,"Muskegon, MI",0,31,2,0.008,Muskegon city
-MI,2638640,Holland,incorporated,25,A,34378,"Holland, MI",0,32,2,0.008,Holland city
-MI,2624290,Eastpointe,incorporated,25,A,34318,"Eastpointe, MI",0,33,2,0.008,Eastpointe city
-MI,2606020,Bay City,incorporated,25,A,32661,"Bay City, MI",0,34,2,0.008,Bay City city
-MI,2641420,Jackson,incorporated,25,A,31309,"Jackson, MI",0,35,2,0.008,Jackson city
-MI,2674960,Southgate,incorporated,25,A,30014,"Southgate, MI",0,36,2,0.008,Southgate city
-MI,2612060,Burton,incorporated,25,A,29715,"Burton, MI",0,37,2,0.008,Burton city
-MI,2659920,Oak Park,incorporated,25,A,29560,"Oak Park, MI",0,38,2,0.008,Oak Park city
-MI,2665820,Port Huron,incorporated,25,A,28983,"Port Huron, MI",0,39,2,0.008,Port Huron city
-MI,2601380,Allen Park,incorporated,25,A,28638,"Allen Park, MI",0,40,2,0.008,Allen Park city
-MI,2650560,Madison Heights,incorporated,25,A,28468,"Madison Heights, MI",0,41,2,0.008,Madison Heights city
-MI,2636280,Hamtramck,incorporated,25,A,28433,"Hamtramck, MI",0,42,2,0.008,Hamtramck city
-MI,2631420,Garden City,incorporated,25,A,27380,"Garden City, MI",0,43,2,0.008,Garden City city
-MI,2640680,Inkster,incorporated,25,A,26088,"Inkster, MI",0,44,2,0.008,Inkster city
-MI,2669420,Romulus,incorporated,25,A,25178,"Romulus, MI",0,45,2,0.008,Romulus city
-MI,2682960,Walker,incorporated,25,A,25132,"Walker, MI",0,46,2,0.008,Walker city
-MI,2688900,Wyandotte,incorporated,25,A,25058,"Wyandotte, MI",0,47,2,0.008,Wyandotte city
-MI,2659140,Norton Shores,incorporated,25,A,25030,"Norton Shores, MI",0,48,2,0.008,Norton Shores city
-MI,2604105,Auburn Hills,incorporated,25,A,24360,"Auburn Hills, MI",0,49,2,0.008,Auburn Hills city
-MI,2608640,Birmingham,incorporated,25,A,21813,"Birmingham, MI",0,50,1,0.004,Birmingham city
-MI,2656020,Mount Pleasant,incorporated,25,A,21688,"Mount Pleasant, MI",0,51,1,0.004,Mount Pleasant city
-MI,2689140,Ypsilanti,incorporated,25,A,20648,"Ypsilanti, MI",0,52,1,0.004,Ypsilanti city
+MI,2622000,Detroit,incorporated,25,A,639111,"Detroit, MI",0,1,26,0.26,Detroit city
+MI,2634000,Grand Rapids,incorporated,25,A,198917,"Grand Rapids, MI",0,2,12,0.12,Grand Rapids city
+MI,2684000,Warren,incorporated,25,A,139387,"Warren, MI",0,3,8,0.08,Warren city
+MI,2676460,Sterling Heights,incorporated,25,A,134346,"Sterling Heights, MI",0,4,6,0.06,Sterling Heights city
+MI,2603000,Ann Arbor,incorporated,25,A,123851,"Ann Arbor, MI",0,5,4,0.04,Ann Arbor city
+MI,2646000,Lansing,incorporated,25,A,112644,"Lansing, MI",0,6,4,0.04,Lansing city
+MI,2621000,Dearborn,incorporated,25,A,109976,"Dearborn, MI",0,7,2,0.02,Dearborn city
+MI,2649000,Livonia,incorporated,25,A,95535,"Livonia, MI",0,8,3,0.03,Livonia city
+MI,2680700,Troy,incorporated,25,A,87294,"Troy, MI",0,9,3,0.03,Troy city
+MI,2686000,Westland,incorporated,25,A,85420,"Westland, MI",0,10,2,0.02,Westland city
+MI,2627440,Farmington Hills,incorporated,25,A,83986,"Farmington Hills, MI",0,11,1,0.01,Farmington Hills city
+MI,2629000,Flint,incorporated,25,A,81252,"Flint, MI",0,12,1,0.01,Flint city
+MI,2674900,Southfield,incorporated,25,A,76618,"Southfield, MI",0,13,1,0.01,Southfield city
+MI,2688940,Wyoming,incorporated,25,A,76501,"Wyoming, MI",0,14,2,0.02,Wyoming city
+MI,2669035,Rochester Hills,incorporated,25,A,76300,"Rochester Hills, MI",0,15,2,0.02,Rochester Hills city
+MI,2642160,Kalamazoo,incorporated,25,A,73598,"Kalamazoo, MI",0,16,2,0.02,Kalamazoo city
+MI,2659440,Novi,incorporated,25,A,66243,"Novi, MI",0,17,2,0.02,Novi city
+MI,2679000,Taylor,incorporated,25,A,63409,"Taylor, MI",0,18,2,0.02,Taylor city
+MI,2621020,Dearborn Heights,incorporated,25,A,63292,"Dearborn Heights, MI",0,19,2,0.02,Dearborn Heights city
+MI,2665440,Pontiac,incorporated,25,A,61606,"Pontiac, MI",0,20,2,0.02,Pontiac city
+MI,2670760,St. Clair Shores,incorporated,25,A,58874,"St. Clair Shores, MI",0,21,2,0.02,St. Clair Shores city
+MI,2670040,Royal Oak,incorporated,25,A,58211,"Royal Oak, MI",0,22,2,0.02,Royal Oak city
+MI,2642820,Kentwood,incorporated,25,A,54304,"Kentwood, MI",0,23,2,0.02,Kentwood city
+MI,2605920,Battle Creek,incorporated,25,A,52721,"Battle Creek, MI",0,24,1,0.01,Battle Creek city
+MI,2665560,Portage,incorporated,25,A,48891,"Portage, MI",0,25,1,0.01,Portage city
+MI,2624120,East Lansing,incorporated,25,A,47741,"East Lansing, MI",0,26,2,0.02,East Lansing city
+MI,2669800,Roseville,incorporated,25,A,47710,"Roseville, MI",0,27,1,0.01,Roseville city
+MI,2670520,Saginaw,incorporated,25,A,44202,"Saginaw, MI",0,28,1,0.01,Saginaw city
+MI,2653780,Midland,incorporated,25,A,42547,"Midland, MI",0,29,1,0.01,Midland city
+MI,2647800,Lincoln Park,incorporated,25,A,40245,"Lincoln Park, MI",0,30,0,0,Lincoln Park city
+MI,2656320,Muskegon,incorporated,25,A,38318,"Muskegon, MI",0,31,0,0,Muskegon city
+MI,2638640,Holland,incorporated,25,A,34378,"Holland, MI",0,32,0,0,Holland city
+MI,2624290,Eastpointe,incorporated,25,A,34318,"Eastpointe, MI",0,33,0,0,Eastpointe city
+MI,2606020,Bay City,incorporated,25,A,32661,"Bay City, MI",0,34,0,0,Bay City city
+MI,2641420,Jackson,incorporated,25,A,31309,"Jackson, MI",0,35,0,0,Jackson city
+MI,2674960,Southgate,incorporated,25,A,30014,"Southgate, MI",0,36,0,0,Southgate city
+MI,2612060,Burton,incorporated,25,A,29715,"Burton, MI",0,37,0,0,Burton city
+MI,2659920,Oak Park,incorporated,25,A,29560,"Oak Park, MI",0,38,0,0,Oak Park city
+MI,2665820,Port Huron,incorporated,25,A,28983,"Port Huron, MI",0,39,0,0,Port Huron city
+MI,2601380,Allen Park,incorporated,25,A,28638,"Allen Park, MI",0,40,0,0,Allen Park city
+MI,2650560,Madison Heights,incorporated,25,A,28468,"Madison Heights, MI",0,41,0,0,Madison Heights city
+MI,2636280,Hamtramck,incorporated,25,A,28433,"Hamtramck, MI",0,42,0,0,Hamtramck city
+MI,2631420,Garden City,incorporated,25,A,27380,"Garden City, MI",0,43,0,0,Garden City city
+MI,2640680,Inkster,incorporated,25,A,26088,"Inkster, MI",0,44,0,0,Inkster city
+MI,2669420,Romulus,incorporated,25,A,25178,"Romulus, MI",0,45,0,0,Romulus city
+MI,2682960,Walker,incorporated,25,A,25132,"Walker, MI",0,46,0,0,Walker city
+MI,2688900,Wyandotte,incorporated,25,A,25058,"Wyandotte, MI",0,47,0,0,Wyandotte city
+MI,2659140,Norton Shores,incorporated,25,A,25030,"Norton Shores, MI",0,48,0,0,Norton Shores city
+MI,2604105,Auburn Hills,incorporated,25,A,24360,"Auburn Hills, MI",0,49,0,0,Auburn Hills city
+MI,2608640,Birmingham,incorporated,25,A,21813,"Birmingham, MI",0,50,0,0,Birmingham city
+MI,2656020,Mount Pleasant,incorporated,25,A,21688,"Mount Pleasant, MI",0,51,0,0,Mount Pleasant city
+MI,2689140,Ypsilanti,incorporated,25,A,20648,"Ypsilanti, MI",0,52,0,0,Ypsilanti city
 MI,2600440,Adrian,incorporated,25,A,20645,"Adrian, MI",0,53,0,0,Adrian city
 MI,2651900,Marquette,incorporated,25,A,20629,"Marquette, MI",0,54,0,0,Marquette city
 MI,2655020,Monroe,incorporated,25,A,20462,"Monroe, MI",0,55,0,0,Monroe city

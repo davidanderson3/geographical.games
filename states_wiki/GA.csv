@@ -1,3 +1,541 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-GA,1303436,Athens-Clarke County,consolidated,UG,A,0,"Athens-Clarke County, GA",0,1,125,0.5,Athens-Clarke County unified government
-GA,1304200,Augusta-Richmond County,consolidated,CG,A,0,"Augusta-Richmond County, GA",0,2,125,0.5,Augusta-Richmond County consolidated government
+GA,1304000,Atlanta,incorporated,25,A,498715,"Atlanta, GA",0,1,35,0.35,Atlanta city
+GA,1319000,Columbus,incorporated,25,A,206922,"Columbus, GA",0,2,11,0.11,Columbus city
+GA,1304204,Augusta-Richmond County consolidated government (balance),incorporated,00,F,202081,"Augusta-Richmond County consolidated government (balance), GA",0,3,7,0.07,Augusta-Richmond County consolidated government (balance)
+GA,1349008,Macon-Bibb County,incorporated,00,A,157346,"Macon-Bibb County, GA",0,4,4,0.04,Macon-Bibb County
+GA,1369000,Savannah,incorporated,25,A,147780,"Savannah, GA",0,5,3,0.03,Savannah city
+GA,1303440,Athens-Clarke County unified government (balance),incorporated,00,F,127315,"Athens-Clarke County unified government (balance), GA",0,6,3,0.03,Athens-Clarke County unified government (balance)
+GA,1368516,Sandy Springs,incorporated,25,A,108080,"Sandy Springs, GA",0,7,2,0.02,Sandy Springs city
+GA,1372122,South Fulton,incorporated,25,A,107436,"South Fulton, GA",0,8,3,0.03,South Fulton city
+GA,1367284,Roswell,incorporated,25,A,92833,"Roswell, GA",0,9,3,0.03,Roswell city
+GA,1342425,Johns Creek,incorporated,25,A,82453,"Johns Creek, GA",0,10,1,0.01,Johns Creek city
+GA,1380508,Warner Robins,incorporated,25,A,80308,"Warner Robins, GA",0,11,1,0.01,Warner Robins city
+GA,1301052,Albany,incorporated,25,A,69647,"Albany, GA",0,12,1,0.01,Albany city
+GA,1301696,Alpharetta,incorporated,25,A,65818,"Alpharetta, GA",0,13,2,0.02,Alpharetta city
+GA,1349756,Marietta,incorporated,25,A,60972,"Marietta, GA",0,14,2,0.02,Marietta city
+GA,1373784,Stonecrest,incorporated,25,A,59194,"Stonecrest, GA",0,15,2,0.02,Stonecrest city
+GA,1371492,Smyrna,incorporated,25,A,55663,"Smyrna, GA",0,16,2,0.02,Smyrna city
+GA,1378800,Valdosta,incorporated,25,A,55378,"Valdosta, GA",0,17,2,0.02,Valdosta city
+GA,1310944,Brookhaven,incorporated,25,A,55161,"Brookhaven, GA",0,18,2,0.02,Brookhaven city
+GA,1324768,Dunwoody,incorporated,25,A,51683,"Dunwoody, GA",0,19,2,0.02,Dunwoody city
+GA,1355020,Newnan,incorporated,25,A,42549,"Newnan, GA",0,20,2,0.02,Newnan city
+GA,1331908,Gainesville,incorporated,25,A,42296,"Gainesville, GA",0,21,2,0.02,Gainesville city
+GA,1359735,Peachtree Corners,incorporated,25,A,42243,"Peachtree Corners, GA",0,22,1,0.01,Peachtree Corners city
+GA,1351670,Milton,incorporated,25,A,41296,"Milton, GA",0,23,1,0.01,Milton city
+GA,1348288,Mableton,incorporated,25,A,40834,"Mableton, GA",0,24,1,0.01,Mableton city
+GA,1325720,East Point,incorporated,25,A,38358,"East Point, GA",0,25,1,0.01,East Point city
+GA,1359724,Peachtree City,incorporated,25,A,38244,"Peachtree City, GA",0,26,1,0.01,Peachtree City city
+GA,1366668,Rome,incorporated,25,A,37713,"Rome, GA",0,27,1,0.01,Rome city
+GA,1377652,Tucker,incorporated,25,A,37005,"Tucker, GA",0,28,1,0.01,Tucker city
+GA,1384176,Woodstock,incorporated,25,A,35065,"Woodstock, GA",0,29,1,0.01,Woodstock city
+GA,1338964,Hinesville,incorporated,25,A,34891,"Hinesville, GA",0,30,0,0,Hinesville city
+GA,1323900,Douglasville,incorporated,25,A,34650,"Douglasville, GA",0,31,0,0,Douglasville city
+GA,1321380,Dalton,incorporated,25,A,34417,"Dalton, GA",0,32,0,0,Dalton city
+GA,1373256,Statesboro,incorporated,25,A,33438,"Statesboro, GA",0,33,0,0,Statesboro city
+GA,1343192,Kennesaw,incorporated,25,A,33036,"Kennesaw, GA",0,34,0,0,Kennesaw city
+GA,1312988,Canton,incorporated,25,A,32973,"Canton, GA",0,35,0,0,Canton city
+GA,1324600,Duluth,incorporated,25,A,31873,"Duluth, GA",0,36,0,0,Duluth city
+GA,1344340,LaGrange,incorporated,25,A,30858,"LaGrange, GA",0,37,0,0,LaGrange city
+GA,1345488,Lawrenceville,incorporated,25,A,30629,"Lawrenceville, GA",0,38,0,0,Lawrenceville city
+GA,1315172,Chamblee,incorporated,25,A,30164,"Chamblee, GA",0,39,0,0,Chamblee city
+GA,1348624,McDonough,incorporated,25,A,29051,"McDonough, GA",0,40,0,0,McDonough city
+GA,1373704,Stockbridge,incorporated,25,A,28973,"Stockbridge, GA",0,41,0,0,Stockbridge city
+GA,1378324,Union City,incorporated,25,A,26830,"Union City, GA",0,42,0,0,Union City city
+GA,1313492,Carrollton,incorporated,25,A,26738,"Carrollton, GA",0,43,0,0,Carrollton city
+GA,1362104,Pooler,incorporated,25,A,25711,"Pooler, GA",0,44,0,0,Pooler city
+GA,1374180,Sugar Hill,incorporated,25,A,25076,"Sugar Hill, GA",0,45,0,0,Sugar Hill city
+GA,1322052,Decatur,incorporated,25,A,24928,"Decatur, GA",0,46,0,0,Decatur city
+GA,1335324,Griffin,incorporated,25,A,23478,"Griffin, GA",0,47,0,0,Griffin city
+GA,1313688,Cartersville,incorporated,25,A,23187,"Cartersville, GA",0,48,0,0,Cartersville city
+GA,1300408,Acworth,incorporated,25,A,22440,"Acworth, GA",0,49,0,0,Acworth city
+GA,1374936,Suwanee,incorporated,25,A,20786,"Suwanee, GA",0,50,0,0,Suwanee city
+GA,1360340,Perry,incorporated,25,A,20624,"Perry, GA",0,51,0,0,Perry city
+GA,1371604,Snellville,incorporated,25,A,20573,"Snellville, GA",0,52,0,0,Snellville city
+GA,1330536,Forest Park,incorporated,25,A,19932,"Forest Park, GA",0,53,0,0,Forest Park city
+GA,1328968,Fayetteville,incorporated,25,A,18957,"Fayetteville, GA",0,54,0,0,Fayetteville city
+GA,1376224,Thomasville,incorporated,25,A,18881,"Thomasville, GA",0,55,0,0,Thomasville city
+GA,1383420,Winder,incorporated,25,A,18338,"Winder, GA",0,56,0,0,Winder city
+GA,1343640,Kingsland,incorporated,25,A,18337,"Kingsland, GA",0,57,0,0,Kingsland city
+GA,1367984,St. Marys,incorporated,25,A,18256,"St. Marys, GA",0,58,0,0,St. Marys city
+GA,1319336,Conyers,incorporated,25,A,17305,"Conyers, GA",0,59,0,0,Conyers city
+GA,1355776,Norcross,incorporated,25,A,17209,"Norcross, GA",0,60,0,0,Norcross city
+GA,1311784,Buford,incorporated,25,A,17144,"Buford, GA",0,61,0,0,Buford city
+GA,1351492,Milledgeville,incorporated,25,A,17070,"Milledgeville, GA",0,62,0,0,Milledgeville city
+GA,1376476,Tifton,incorporated,25,A,17045,"Tifton, GA",0,63,0,0,Tifton city
+GA,1379528,Villa Rica,incorporated,25,A,16970,"Villa Rica, GA",0,64,0,0,Villa Rica city
+GA,1312456,Calhoun,incorporated,25,A,16949,"Calhoun, GA",0,65,0,0,Calhoun city
+GA,1362524,Powder Springs,incorporated,25,A,16887,"Powder Springs, GA",0,66,0,0,Powder Springs city
+GA,1365044,Richmond Hill,incorporated,25,A,16633,"Richmond Hill, GA",0,67,0,0,Richmond Hill city
+GA,1328380,Fairburn,incorporated,25,A,16483,"Fairburn, GA",0,68,0,0,Fairburn city
+GA,1302116,Americus,incorporated,25,A,16230,"Americus, GA",0,69,0,0,Americus city
+GA,1339524,Holly Springs,incorporated,25,A,16213,"Holly Springs, GA",0,70,0,0,Holly Springs city
+GA,1324376,Dublin,incorporated,25,A,16074,"Dublin, GA",0,71,0,0,Dublin city
+GA,1335716,Grovetown,incorporated,25,A,15577,"Grovetown, GA",0,72,0,0,Grovetown city
+GA,1311560,Brunswick,incorporated,25,A,15210,"Brunswick, GA",0,73,0,0,Brunswick city
+GA,1365464,Riverdale,incorporated,25,A,15129,"Riverdale, GA",0,74,0,0,Riverdale city
+GA,1352192,Monroe,incorporated,25,A,14928,"Monroe, GA",0,75,0,0,Monroe city
+GA,1316544,Clarkston,incorporated,25,A,14756,"Clarkston, GA",0,76,0,0,Clarkston city
+GA,1353060,Moultrie,incorporated,25,A,14638,"Moultrie, GA",0,77,0,0,Moultrie city
+GA,1346356,Lilburn,incorporated,25,A,14502,"Lilburn, GA",0,78,0,0,Lilburn city
+GA,1304896,Bainbridge,incorporated,25,A,14468,"Bainbridge, GA",0,79,0,0,Bainbridge city
+GA,1320064,Covington,incorporated,25,A,14192,"Covington, GA",0,80,0,0,Covington city
+GA,1347196,Loganville,incorporated,25,A,14127,"Loganville, GA",0,81,0,0,Loganville city
+GA,1321324,Dallas,incorporated,25,A,14042,"Dallas, GA",0,82,0,0,Dallas city
+GA,1380956,Waycross,incorporated,25,A,13942,"Waycross, GA",0,83,0,0,Waycross city
+GA,1317776,College Park,incorporated,25,A,13930,"College Park, GA",0,84,0,0,College Park city
+GA,1310076,Braselton,incorporated,43,A,13403,"Braselton, GA",0,85,0,0,Braselton town
+GA,1341988,Jefferson,incorporated,25,A,13233,"Jefferson, GA",0,86,0,0,Jefferson city
+GA,1323872,Douglas,incorporated,25,A,11722,"Douglas, GA",0,87,0,0,Douglas city
+GA,1365296,Rincon,incorporated,25,A,10934,"Rincon, GA",0,88,0,0,Rincon city
+GA,1362328,Port Wentworth,incorporated,25,A,10878,"Port Wentworth, GA",0,89,0,0,Port Wentworth city
+GA,1379388,Vidalia,incorporated,25,A,10785,"Vidalia, GA",0,90,0,0,Vidalia city
+GA,1323536,Doraville,incorporated,25,A,10623,"Doraville, GA",0,91,0,0,Doraville city
+GA,1330956,Fort Oglethorpe,incorporated,25,A,10423,"Fort Oglethorpe, GA",0,92,0,0,Fort Oglethorpe city
+GA,1332048,Garden City,incorporated,25,A,10289,"Garden City, GA",0,93,0,0,Garden City city
+GA,1319616,Cordele,incorporated,25,A,10220,"Cordele, GA",0,94,0,0,Cordele city
+GA,1314500,Cedartown,incorporated,25,A,10190,"Cedartown, GA",0,95,0,0,Cedartown city
+GA,1312400,Cairo,incorporated,25,A,10179,"Cairo, GA",0,96,0,0,Cairo city
+GA,1347616,Lovejoy,incorporated,25,A,10122,"Lovejoy, GA",0,97,0,0,Lovejoy city
+GA,1376168,Thomaston,incorporated,25,A,9816,"Thomaston, GA",0,98,0,0,Thomaston city
+GA,1342268,Jesup,incorporated,25,A,9809,"Jesup, GA",0,99,0,0,Jesup city
+GA,1321017,Cusseta-Chattahoochee County,incorporated,UG,A,9565,"Cusseta-Chattahoochee County, GA",0,100,0,0,Cusseta-Chattahoochee County unified government
+GA,1330340,Flowery Branch,incorporated,25,A,9391,"Flowery Branch, GA",0,101,0,0,Flowery Branch city
+GA,1376756,Toccoa,incorporated,25,A,9133,"Toccoa, GA",0,102,0,0,Toccoa city
+GA,1329528,Fitzgerald,incorporated,25,A,9006,"Fitzgerald, GA",0,103,0,0,Fitzgerald city
+GA,1347140,Locust Grove,incorporated,25,A,8947,"Locust Grove, GA",0,104,0,0,Locust Grove city
+GA,1331096,Fort Valley,incorporated,25,A,8780,"Fort Valley, GA",0,105,0,0,Fort Valley city
+GA,1336276,Hampton,incorporated,25,A,8368,"Hampton, GA",0,106,0,0,Hampton city
+GA,1314920,Centerville,incorporated,25,A,8228,"Centerville, GA",0,107,0,0,Centerville city
+GA,1304252,Austell,incorporated,25,A,7713,"Austell, GA",0,108,0,0,Austell city
+GA,1378044,Tyrone,incorporated,43,A,7658,"Tyrone, GA",0,109,0,0,Tyrone town
+GA,1321240,Dahlonega,incorporated,25,A,7537,"Dahlonega, GA",0,110,0,0,Dahlonega city
+GA,1304140,Auburn,incorporated,25,A,7495,"Auburn, GA",0,111,0,0,Auburn city
+GA,1374964,Swainsboro,incorporated,25,A,7425,"Swainsboro, GA",0,112,0,0,Swainsboro city
+GA,1319112,Commerce,incorporated,25,A,7387,"Commerce, GA",0,113,0,0,Commerce city
+GA,1320932,Cumming,incorporated,25,A,7318,"Cumming, GA",0,114,0,0,Cumming city
+GA,1310132,Bremen,incorporated,25,A,7185,"Bremen, GA",0,115,0,0,Bremen city
+GA,1344312,LaFayette,incorporated,25,A,6888,"LaFayette, GA",0,116,0,0,LaFayette city
+GA,1321184,Dacula,incorporated,25,A,6882,"Dacula, GA",0,117,0,0,Dacula city
+GA,1376280,Thomson,incorporated,25,A,6814,"Thomson, GA",0,118,0,0,Thomson city
+GA,1373816,Stone Mountain,incorporated,25,A,6703,"Stone Mountain, GA",0,119,0,0,Stone Mountain city
+GA,1353004,Morrow,incorporated,25,A,6569,"Morrow, GA",0,120,0,0,Morrow city
+GA,1336472,Hapeville,incorporated,25,A,6553,"Hapeville, GA",0,121,0,0,Hapeville city
+GA,1326084,Eatonton,incorporated,25,A,6307,"Eatonton, GA",0,122,0,0,Eatonton city
+GA,1305344,Barnesville,incorporated,25,A,6292,"Barnesville, GA",0,123,0,0,Barnesville city
+GA,1349100,McRae-Helena,incorporated,25,A,6253,"McRae-Helena, GA",0,124,0,0,McRae-Helena city
+GA,1368208,Sandersville,incorporated,25,A,5813,"Sandersville, GA",0,125,0,0,Sandersville city
+GA,1380984,Waynesboro,incorporated,25,A,5799,"Waynesboro, GA",0,126,0,0,Waynesboro city
+GA,1312260,Byron,incorporated,25,A,5702,"Byron, GA",0,127,0,0,Byron city
+GA,1325552,Eastman,incorporated,25,A,5658,"Eastman, GA",0,128,0,0,Eastman city
+GA,1375188,Sylvester,incorporated,25,A,5644,"Sylvester, GA",0,129,0,0,Sylvester city
+GA,1300576,Adel,incorporated,25,A,5571,"Adel, GA",0,130,0,0,Adel city
+GA,1341596,Jackson,incorporated,25,A,5557,"Jackson, GA",0,131,0,0,Jackson city
+GA,1308536,Blakely,incorporated,25,A,5371,"Blakely, GA",0,132,0,0,Blakely city
+GA,1312624,Camilla,incorporated,25,A,5187,"Camilla, GA",0,133,0,0,Camilla city
+GA,1375832,Temple,incorporated,25,A,5089,"Temple, GA",0,134,0,0,Temple city
+GA,1358884,Palmetto,incorporated,25,A,5071,"Palmetto, GA",0,135,0,0,Palmetto city
+GA,1317328,Cochran,incorporated,25,A,5026,"Cochran, GA",0,136,0,0,Cochran city
+GA,1369672,Senoia,incorporated,25,A,5016,"Senoia, GA",0,137,0,0,Senoia city
+GA,1371660,Social Circle,incorporated,25,A,4974,"Social Circle, GA",0,138,0,0,Social Circle city
+GA,1354264,Nashville,incorporated,25,A,4947,"Nashville, GA",0,139,0,0,Nashville city
+GA,1306016,Baxley,incorporated,25,A,4942,"Baxley, GA",0,140,0,0,Baxley city
+GA,1339076,Hiram,incorporated,25,A,4929,"Hiram, GA",0,141,0,0,Hiram city
+GA,1300436,Adairsville,incorporated,25,A,4878,"Adairsville, GA",0,142,0,0,Adairsville city
+GA,1315508,Chatsworth,incorporated,25,A,4874,"Chatsworth, GA",0,143,0,0,Chatsworth city
+GA,1357260,Oakwood,incorporated,25,A,4822,"Oakwood, GA",0,144,0,0,Oakwood city
+GA,1366276,Rockmart,incorporated,25,A,4732,"Rockmart, GA",0,145,0,0,Rockmart city
+GA,1334596,Grayson,incorporated,25,A,4730,"Grayson, GA",0,146,0,0,Grayson city
+GA,1326616,Elberton,incorporated,25,A,4640,"Elberton, GA",0,147,0,0,Elberton city
+GA,1319728,Cornelia,incorporated,25,A,4503,"Cornelia, GA",0,148,0,0,Cornelia city
+GA,1337144,Hartwell,incorporated,25,A,4470,"Hartwell, GA",0,149,0,0,Hartwell city
+GA,1330424,Folkston,incorporated,25,A,4464,"Folkston, GA",0,150,0,0,Folkston city
+GA,1349196,Madison,incorporated,25,A,4447,"Madison, GA",0,151,0,0,Madison city
+GA,1374376,Summerville,incorporated,25,A,4435,"Summerville, GA",0,152,0,0,Summerville city
+GA,1321912,Dawson,incorporated,25,A,4414,"Dawson, GA",0,153,0,0,Dawson city
+GA,1330732,Forsyth,incorporated,25,A,4384,"Forsyth, GA",0,154,0,0,Forsyth city
+GA,1303236,Ashburn,incorporated,25,A,4291,"Ashburn, GA",0,155,0,0,Ashburn city
+GA,1327988,Euharlee,incorporated,25,A,4268,"Euharlee, GA",0,156,0,0,Euharlee city
+GA,1348232,Lyons,incorporated,25,A,4239,"Lyons, GA",0,157,0,0,Lyons city
+GA,1342604,Jonesboro,incorporated,25,A,4235,"Jonesboro, GA",0,158,0,0,Jonesboro city
+GA,1337564,Hazlehurst,incorporated,25,A,4088,"Hazlehurst, GA",0,159,0,0,Hazlehurst city
+GA,1341932,Jasper,incorporated,25,A,4084,"Jasper, GA",0,160,0,0,Jasper city
+GA,1363224,Quitman,incorporated,25,A,4064,"Quitman, GA",0,161,0,0,Quitman city
+GA,1351072,Metter,incorporated,25,A,4004,"Metter, GA",0,162,0,0,Metter city
+GA,1337396,Hawkinsville,incorporated,25,A,3980,"Hawkinsville, GA",0,163,0,0,Hawkinsville city
+GA,1367256,Rossville,incorporated,25,A,3980,"Rossville, GA",0,164,0,0,Rossville city
+GA,1333336,Glennville,incorporated,25,A,3834,"Glennville, GA",0,165,0,0,Glennville city
+GA,1338040,Hephzibah,incorporated,25,A,3830,"Hephzibah, GA",0,166,0,0,Hephzibah city
+GA,1380704,Washington,incorporated,25,A,3754,"Washington, GA",0,167,0,0,Washington city
+GA,1321940,Dawsonville,incorporated,25,A,3720,"Dawsonville, GA",0,168,0,0,Dawsonville city
+GA,1382132,West Point,incorporated,25,A,3719,"West Point, GA",0,169,0,0,West Point city
+GA,1326156,Echols County,incorporated,CG,A,3697,"Echols County, GA",0,170,0,0,Echols County consolidated government
+GA,1380256,Walthourville,incorporated,25,A,3680,"Walthourville, GA",0,171,0,0,Walthourville city
+GA,1334876,Greensboro,incorporated,25,A,3648,"Greensboro, GA",0,172,0,0,Greensboro city
+GA,1304980,Baldwin,incorporated,25,A,3629,"Baldwin, GA",0,173,0,0,Baldwin city
+GA,1349532,Manchester,incorporated,25,A,3584,"Manchester, GA",0,174,0,0,Manchester city
+GA,1336696,Harlem,incorporated,25,A,3571,"Harlem, GA",0,175,0,0,Harlem city
+GA,1304644,Avondale Estates,incorporated,25,A,3567,"Avondale Estates, GA",0,176,0,0,Avondale Estates city
+GA,1316824,Cleveland,incorporated,25,A,3514,"Cleveland, GA",0,177,0,0,Cleveland city
+GA,1359976,Pelham,incorporated,25,A,3507,"Pelham, GA",0,178,0,0,Pelham city
+GA,1308284,Blackshear,incorporated,25,A,3506,"Blackshear, GA",0,179,0,0,Blackshear city
+GA,1357428,Ocilla,incorporated,25,A,3498,"Ocilla, GA",0,180,0,0,Ocilla city
+GA,1345768,Leesburg,incorporated,25,A,3480,"Leesburg, GA",0,181,0,0,Leesburg city
+GA,1384512,Wrightsville,incorporated,25,A,3449,"Wrightsville, GA",0,182,0,0,Wrightsville city
+GA,1334512,Gray,incorporated,25,A,3436,"Gray, GA",0,183,0,0,Gray city
+GA,1301612,Alma,incorporated,25,A,3433,"Alma, GA",0,184,0,0,Alma city
+GA,1365324,Ringgold,incorporated,25,A,3414,"Ringgold, GA",0,185,0,0,Ringgold city
+GA,1336052,Hahira,incorporated,25,A,3384,"Hahira, GA",0,186,0,0,Hahira city
+GA,1339244,Hogansville,incorporated,25,A,3267,"Hogansville, GA",0,187,0,0,Hogansville city
+GA,1375300,Tallapoosa,incorporated,25,A,3227,"Tallapoosa, GA",0,188,0,0,Tallapoosa city
+GA,1355440,Nicholls,incorporated,25,A,3147,"Nicholls, GA",0,189,0,0,Nicholls city
+GA,1321072,Cuthbert,incorporated,25,A,3143,"Cuthbert, GA",0,190,0,0,Cuthbert city
+GA,1378156,Unadilla,incorporated,25,A,3118,"Unadilla, GA",0,191,0,0,Unadilla city
+GA,1378036,Tybee Island,incorporated,25,A,3114,"Tybee Island, GA",0,192,0,0,Tybee Island city
+GA,1334428,Grantville,incorporated,25,A,3103,"Grantville, GA",0,193,0,0,Grantville city
+GA,1352304,Montezuma,incorporated,25,A,3047,"Montezuma, GA",0,194,0,0,Montezuma city
+GA,1351520,Millen,incorporated,25,A,2966,"Millen, GA",0,195,0,0,Millen city
+GA,1344508,Lake City,incorporated,25,A,2952,"Lake City, GA",0,196,0,0,Lake City city
+GA,1315552,Chattahoochee Hills,incorporated,25,A,2950,"Chattahoochee Hills, GA",0,197,0,0,Chattahoochee Hills city
+GA,1379444,Vienna,incorporated,25,A,2928,"Vienna, GA",0,198,0,0,Vienna city
+GA,1315984,Chickamauga,incorporated,25,A,2917,"Chickamauga, GA",0,199,0,0,Chickamauga city
+GA,1380788,Watkinsville,incorporated,25,A,2896,"Watkinsville, GA",0,200,0,0,Watkinsville city
+GA,1371772,Soperton,incorporated,25,A,2889,"Soperton, GA",0,201,0,0,Soperton city
+GA,1344592,Lakeland,incorporated,25,A,2875,"Lakeland, GA",0,202,0,0,Lakeland city
+GA,1323368,Donalsonville,incorporated,25,A,2833,"Donalsonville, GA",0,203,0,0,Donalsonville city
+GA,1347896,Lula,incorporated,25,A,2822,"Lula, GA",0,204,0,0,Lula city
+GA,1373312,Statham,incorporated,25,A,2813,"Statham, GA",0,205,0,0,Statham city
+GA,1308844,Bloomingdale,incorporated,25,A,2790,"Bloomingdale, GA",0,206,0,0,Bloomingdale city
+GA,1372780,Springfield,incorporated,25,A,2703,"Springfield, GA",0,207,0,0,Springfield city
+GA,1300184,Abbeville,incorporated,25,A,2685,"Abbeville, GA",0,208,0,0,Abbeville city
+GA,1340056,Hoschton,incorporated,25,A,2666,"Hoschton, GA",0,209,0,0,Hoschton city
+GA,1346860,Lithonia,incorporated,25,A,2662,"Lithonia, GA",0,210,0,0,Lithonia city
+GA,1367452,Royston,incorporated,25,A,2649,"Royston, GA",0,211,0,0,Royston city
+GA,1375160,Sylvania,incorporated,25,A,2634,"Sylvania, GA",0,212,0,0,Sylvania city
+GA,1316600,Claxton,incorporated,25,A,2602,"Claxton, GA",0,213,0,0,Claxton city
+GA,1305036,Ball Ground,incorporated,25,A,2560,"Ball Ground, GA",0,214,0,0,Ball Ground city
+GA,1376364,Thunderbolt,incorporated,43,A,2556,"Thunderbolt, GA",0,215,0,0,Thunderbolt town
+GA,1352416,Monticello,incorporated,25,A,2541,"Monticello, GA",0,216,0,0,Monticello city
+GA,1364512,Reidsville,incorporated,25,A,2515,"Reidsville, GA",0,217,0,0,Reidsville city
+GA,1360004,Pembroke,incorporated,25,A,2513,"Pembroke, GA",0,218,0,0,Pembroke city
+GA,1325300,East Dublin,incorporated,25,A,2492,"East Dublin, GA",0,219,0,0,East Dublin city
+GA,1347560,Louisville,incorporated,25,A,2381,"Louisville, GA",0,220,0,0,Louisville city
+GA,1381128,Webster County,incorporated,UG,A,2348,"Webster County, GA",0,221,0,0,Webster County unified government
+GA,1339748,Homerville,incorporated,25,A,2344,"Homerville, GA",0,222,0,0,Homerville city
+GA,1358744,Oxford,incorporated,25,A,2308,"Oxford, GA",0,223,0,0,Oxford city
+GA,1335884,Guyton,incorporated,25,A,2289,"Guyton, GA",0,224,0,0,Guyton city
+GA,1332528,Georgetown-Quitman County,incorporated,UG,A,2235,"Georgetown-Quitman County, GA",0,225,0,0,Georgetown-Quitman County unified government
+GA,1384456,Wrens,incorporated,25,A,2217,"Wrens, GA",0,226,0,0,Wrens city
+GA,1377372,Trenton,incorporated,25,A,2195,"Trenton, GA",0,227,0,0,Trenton city
+GA,1378996,Varnell,incorporated,25,A,2179,"Varnell, GA",0,228,0,0,Varnell city
+GA,1309544,Bowdon,incorporated,25,A,2161,"Bowdon, GA",0,229,0,0,Bowdon city
+GA,1345460,Lavonia,incorporated,25,A,2143,"Lavonia, GA",0,230,0,0,Lavonia city
+GA,1351352,Midway,incorporated,25,A,2141,"Midway, GA",0,231,0,0,Midway city
+GA,1307248,Berkeley Lake,incorporated,25,A,2054,"Berkeley Lake, GA",0,232,0,0,Berkeley Lake city
+GA,1372556,Sparks,incorporated,43,A,2043,"Sparks, GA",0,233,0,0,Sparks town
+GA,1322304,Demorest,incorporated,25,A,2022,"Demorest, GA",0,234,0,0,Demorest city
+GA,1316656,Clayton,incorporated,25,A,2003,"Clayton, GA",0,235,0,0,Clayton city
+GA,1318000,Colquitt,incorporated,25,A,2001,"Colquitt, GA",0,236,0,0,Colquitt city
+GA,1353508,Mount Vernon,incorporated,25,A,1990,"Mount Vernon, GA",0,237,0,0,Mount Vernon city
+GA,1377540,Trion,incorporated,43,A,1960,"Trion, GA",0,238,0,0,Trion town
+GA,1316460,Clarkesville,incorporated,25,A,1911,"Clarkesville, GA",0,239,0,0,Clarkesville city
+GA,1302648,Arcade,incorporated,25,A,1884,"Arcade, GA",0,240,0,0,Arcade city
+GA,1312120,Butler,incorporated,25,A,1881,"Butler, GA",0,241,0,0,Butler city
+GA,1350484,Maysville,incorporated,43,A,1867,"Maysville, GA",0,242,0,0,Maysville town
+GA,1327092,Ellijay,incorporated,25,A,1862,"Ellijay, GA",0,243,0,0,Ellijay city
+GA,1321800,Davisboro,incorporated,25,A,1832,"Davisboro, GA",0,244,0,0,Davisboro city
+GA,1359808,Pearson,incorporated,25,A,1821,"Pearson, GA",0,245,0,0,Pearson city
+GA,1355468,Nicholson,incorporated,25,A,1808,"Nicholson, GA",0,246,0,0,Nicholson city
+GA,1362244,Porterdale,incorporated,25,A,1799,"Porterdale, GA",0,247,0,0,Porterdale city
+GA,1333980,Gordon,incorporated,25,A,1783,"Gordon, GA",0,248,0,0,Gordon city
+GA,1353620,Mount Zion,incorporated,25,A,1766,"Mount Zion, GA",0,249,0,0,Mount Zion city
+GA,1380592,Warrenton,incorporated,25,A,1744,"Warrenton, GA",0,250,0,0,Warrenton city
+GA,1352696,Morgan,incorporated,25,A,1741,"Morgan, GA",0,251,0,0,Morgan city
+GA,1311000,Brooklet,incorporated,25,A,1704,"Brooklet, GA",0,252,0,0,Brooklet city
+GA,1360032,Pendergrass,incorporated,43,A,1692,"Pendergrass, GA",0,253,0,0,Pendergrass town
+GA,1336220,Hamilton,incorporated,25,A,1680,"Hamilton, GA",0,254,0,0,Hamilton city
+GA,1379864,Wadley,incorporated,25,A,1643,"Wadley, GA",0,255,0,0,Wadley city
+GA,1377988,Twin City,incorporated,25,A,1642,"Twin City, GA",0,256,0,0,Twin City city
+GA,1347336,Lookout Mountain,incorporated,25,A,1641,"Lookout Mountain, GA",0,257,0,0,Lookout Mountain city
+GA,1378380,Union Point,incorporated,25,A,1597,"Union Point, GA",0,258,0,0,Union Point city
+GA,1326980,Ellaville,incorporated,25,A,1595,"Ellaville, GA",0,259,0,0,Ellaville city
+GA,1347784,Ludowici,incorporated,25,A,1590,"Ludowici, GA",0,260,0,0,Ludowici city
+GA,1311728,Buena Vista,incorporated,25,A,1585,"Buena Vista, GA",0,261,0,0,Buena Vista city
+GA,1319084,Comer,incorporated,25,A,1512,"Comer, GA",0,262,0,0,Comer city
+GA,1346552,Lincolnton,incorporated,25,A,1480,"Lincolnton, GA",0,263,0,0,Lincolnton city
+GA,1375888,Tennille,incorporated,25,A,1469,"Tennille, GA",0,264,0,0,Tennille city
+GA,1321716,Darien,incorporated,25,A,1460,"Darien, GA",0,265,0,0,Darien city
+GA,1302592,Aragon,incorporated,25,A,1440,"Aragon, GA",0,266,0,0,Aragon city
+GA,1327344,Emerson,incorporated,25,A,1415,"Emerson, GA",0,267,0,0,Emerson city
+GA,1353284,Mount Airy,incorporated,43,A,1391,"Mount Airy, GA",0,268,0,0,Mount Airy town
+GA,1365016,Richland,incorporated,25,A,1370,"Richland, GA",0,269,0,0,Richland city
+GA,1372584,Sparta,incorporated,25,A,1357,"Sparta, GA",0,270,0,0,Sparta city
+GA,1364596,Remerton,incorporated,25,A,1334,"Remerton, GA",0,271,0,0,Remerton city
+GA,1309068,Bogart,incorporated,43,A,1326,"Bogart, GA",0,272,0,0,Bogart town
+GA,1380228,Walnut Grove,incorporated,25,A,1322,"Walnut Grove, GA",0,273,0,0,Walnut Grove city
+GA,1358184,Omega,incorporated,25,A,1318,"Omega, GA",0,274,0,0,Omega city
+GA,1339720,Homer,incorporated,43,A,1264,"Homer, GA",0,275,0,0,Homer town
+GA,1308928,Blue Ridge,incorporated,25,A,1253,"Blue Ridge, GA",0,276,0,0,Blue Ridge city
+GA,1382972,Willacoochee,incorporated,25,A,1240,"Willacoochee, GA",0,277,0,0,Willacoochee city
+GA,1326448,Edison,incorporated,25,A,1230,"Edison, GA",0,278,0,0,Edison city
+GA,1385128,Zebulon,incorporated,25,A,1225,"Zebulon, GA",0,279,0,0,Zebulon city
+GA,1361124,Pine Mountain,incorporated,43,A,1216,"Pine Mountain, GA",0,280,0,0,Pine Mountain town
+GA,1302928,Arlington,incorporated,25,A,1209,"Arlington, GA",0,281,0,0,Arlington city
+GA,1309460,Boston,incorporated,25,A,1207,"Boston, GA",0,282,0,0,Boston city
+GA,1383728,Winterville,incorporated,25,A,1201,"Winterville, GA",0,283,0,0,Winterville city
+GA,1314108,Cave Spring,incorporated,25,A,1174,"Cave Spring, GA",0,284,0,0,Cave Spring city
+GA,1366024,Rochelle,incorporated,25,A,1167,"Rochelle, GA",0,285,0,0,Rochelle city
+GA,1331320,Franklin Springs,incorporated,25,A,1155,"Franklin Springs, GA",0,286,0,0,Franklin Springs city
+GA,1348428,McCaysville,incorporated,25,A,1149,"McCaysville, GA",0,287,0,0,McCaysville city
+GA,1354572,Nelson,incorporated,25,A,1145,"Nelson, GA",0,288,0,0,Nelson city
+GA,1364736,Resaca,incorporated,43,A,1142,"Resaca, GA",0,289,0,0,Resaca town
+GA,1384960,Young Harris,incorporated,25,A,1098,"Young Harris, GA",0,290,0,0,Young Harris city
+GA,1383868,Woodbine,incorporated,25,A,1062,"Woodbine, GA",0,291,0,0,Woodbine city
+GA,1311504,Broxton,incorporated,25,A,1060,"Broxton, GA",0,292,0,0,Broxton city
+GA,1327596,Enigma,incorporated,43,A,1058,"Enigma, GA",0,293,0,0,Enigma town
+GA,1349924,Marshallville,incorporated,25,A,1048,"Marshallville, GA",0,294,0,0,Marshallville city
+GA,1341540,Ivey,incorporated,25,A,1037,"Ivey, GA",0,295,0,0,Ivey city
+GA,1316796,Clermont,incorporated,43,A,1021,"Clermont, GA",0,296,0,0,Clermont town
+GA,1354124,Nahunta,incorporated,25,A,1013,"Nahunta, GA",0,297,0,0,Nahunta city
+GA,1330816,Fort Gaines,incorporated,25,A,995,"Fort Gaines, GA",0,298,0,0,Fort Gaines city
+GA,1357736,Oglethorpe,incorporated,25,A,995,"Oglethorpe, GA",0,299,0,0,Oglethorpe city
+GA,1368740,Sardis,incorporated,25,A,995,"Sardis, GA",0,300,0,0,Sardis city
+GA,1338124,Hiawassee,incorporated,25,A,981,"Hiawassee, GA",0,301,0,0,Hiawassee city
+GA,1342100,Jeffersonville,incorporated,25,A,977,"Jeffersonville, GA",0,302,0,0,Jeffersonville city
+GA,1301948,Alto,incorporated,43,A,970,"Alto, GA",0,303,0,0,Alto town
+GA,1347952,Lumber City,incorporated,25,A,967,"Lumber City, GA",0,304,0,0,Lumber City city
+GA,1355860,Norman Park,incorporated,25,A,963,"Norman Park, GA",0,305,0,0,Norman Park city
+GA,1377736,Tunnel Hill,incorporated,25,A,963,"Tunnel Hill, GA",0,306,0,0,Tunnel Hill city
+GA,1336024,Hagan,incorporated,25,A,959,"Hagan, GA",0,307,0,0,Hagan city
+GA,1363728,Ray City,incorporated,25,A,956,"Ray City, GA",0,308,0,0,Ray City city
+GA,1331292,Franklin,incorporated,25,A,950,"Franklin, GA",0,309,0,0,Franklin city
+GA,1311616,Buchanan,incorporated,25,A,938,"Buchanan, GA",0,310,0,0,Buchanan city
+GA,1344704,Lake Park,incorporated,25,A,932,"Lake Park, GA",0,311,0,0,Lake Park city
+GA,1350680,Meigs,incorporated,25,A,928,"Meigs, GA",0,312,0,0,Meigs city
+GA,1364876,Reynolds,incorporated,25,A,926,"Reynolds, GA",0,313,0,0,Reynolds city
+GA,1379948,Waleska,incorporated,25,A,921,"Waleska, GA",0,314,0,0,Waleska city
+GA,1383896,Woodbury,incorporated,25,A,908,"Woodbury, GA",0,315,0,0,Woodbury city
+GA,1353116,Mountain City,incorporated,43,A,904,"Mountain City, GA",0,316,0,0,Mountain City town
+GA,1347980,Lumpkin,incorporated,25,A,891,"Lumpkin, GA",0,317,0,0,Lumpkin city
+GA,1321744,Dasher,incorporated,43,A,890,"Dasher, GA",0,318,0,0,Dasher town
+GA,1339692,Homeland,incorporated,25,A,886,"Homeland, GA",0,319,0,0,Homeland city
+GA,1309712,Bowman,incorporated,25,A,872,"Bowman, GA",0,320,0,0,Bowman city
+GA,1367760,Rutledge,incorporated,25,A,871,"Rutledge, GA",0,321,0,0,Rutledge city
+GA,1370120,Shellman,incorporated,25,A,861,"Shellman, GA",0,322,0,0,Shellman city
+GA,1304840,Baconton,incorporated,25,A,856,"Baconton, GA",0,323,0,0,Baconton city
+GA,1333392,Glenwood,incorporated,25,A,850,"Glenwood, GA",0,324,0,0,Glenwood city
+GA,1330088,Flemington,incorporated,25,A,825,"Flemington, GA",0,325,0,0,Flemington city
+GA,1327932,Eton,incorporated,25,A,824,"Eton, GA",0,326,0,0,Eton city
+GA,1320288,Crawford,incorporated,25,A,821,"Crawford, GA",0,327,0,0,Crawford city
+GA,1301472,Allenhurst,incorporated,25,A,816,"Allenhurst, GA",0,328,0,0,Allenhurst city
+GA,1365856,Roberta,incorporated,25,A,813,"Roberta, GA",0,329,0,0,Roberta city
+GA,1335016,Greenville,incorporated,25,A,794,"Greenville, GA",0,330,0,0,Greenville city
+GA,1348008,Luthersville,incorporated,25,A,776,"Luthersville, GA",0,331,0,0,Luthersville city
+GA,1328492,Fairmount,incorporated,25,A,772,"Fairmount, GA",0,332,0,0,Fairmount city
+GA,1351604,Milner,incorporated,25,A,772,"Milner, GA",0,333,0,0,Milner city
+GA,1300996,Alamo,incorporated,43,A,771,"Alamo, GA",0,334,0,0,Alamo town
+GA,1369448,Screven,incorporated,25,A,769,"Screven, GA",0,335,0,0,Screven city
+GA,1317496,Cohutta,incorporated,25,A,764,"Cohutta, GA",0,336,0,0,Cohutta city
+GA,1362496,Poulan,incorporated,25,A,760,"Poulan, GA",0,337,0,0,Poulan city
+GA,1345936,Lenox,incorporated,43,A,752,"Lenox, GA",0,338,0,0,Lenox town
+GA,1361040,Pine Lake,incorporated,25,A,752,"Pine Lake, GA",0,339,0,0,Pine Lake city
+GA,1359500,Patterson,incorporated,25,A,749,"Patterson, GA",0,340,0,0,Patterson city
+GA,1309040,Blythe,incorporated,25,A,744,"Blythe, GA",0,341,0,0,Blythe city
+GA,1375244,Talbotton,incorporated,25,A,742,"Talbotton, GA",0,342,0,0,Talbotton city
+GA,1323284,Doerun,incorporated,25,A,738,"Doerun, GA",0,343,0,0,Doerun city
+GA,1343668,Kingston,incorporated,25,A,722,"Kingston, GA",0,344,0,0,Kingston city
+GA,1307612,Bethlehem,incorporated,43,A,715,"Bethlehem, GA",0,345,0,0,Bethlehem town
+GA,1313352,Carnesville,incorporated,25,A,713,"Carnesville, GA",0,346,0,0,Carnesville city
+GA,1375104,Sycamore,incorporated,25,A,692,"Sycamore, GA",0,347,0,0,Sycamore city
+GA,1383084,Williamson,incorporated,25,A,681,"Williamson, GA",0,348,0,0,Williamson city
+GA,1354656,Newborn,incorporated,43,A,676,"Newborn, GA",0,349,0,0,Newborn town
+GA,1357372,Ochlocknee,incorporated,43,A,672,"Ochlocknee, GA",0,350,0,0,Ochlocknee town
+GA,1382468,White,incorporated,25,A,661,"White, GA",0,351,0,0,White city
+GA,1322752,Dexter,incorporated,43,A,655,"Dexter, GA",0,352,0,0,Dexter town
+GA,1321632,Danielsville,incorporated,25,A,654,"Danielsville, GA",0,353,0,0,Danielsville city
+GA,1325356,East Ellijay,incorporated,25,A,650,"East Ellijay, GA",0,354,0,0,East Ellijay city
+GA,1312932,Canon,incorporated,25,A,643,"Canon, GA",0,355,0,0,Canon city
+GA,1330312,Flovilla,incorporated,25,A,643,"Flovilla, GA",0,356,0,0,Flovilla city
+GA,1378100,Ty Ty,incorporated,25,A,641,"Ty Ty, GA",0,357,0,0,Ty Ty city
+GA,1362216,Portal,incorporated,43,A,638,"Portal, GA",0,358,0,0,Portal town
+GA,1380844,Waverly Hall,incorporated,43,A,638,"Waverly Hall, GA",0,359,0,0,Waverly Hall town
+GA,1317552,Colbert,incorporated,25,A,630,"Colbert, GA",0,360,0,0,Colbert city
+GA,1332748,Gibson,incorporated,25,A,630,"Gibson, GA",0,361,0,0,Gibson city
+GA,1359556,Pavo,incorporated,25,A,622,"Pavo, GA",0,362,0,0,Pavo city
+GA,1308480,Blairsville,incorporated,25,A,616,"Blairsville, GA",0,363,0,0,Blairsville city
+GA,1364960,Riceboro,incorporated,25,A,615,"Riceboro, GA",0,364,0,0,Riceboro city
+GA,1351408,Milan,incorporated,25,A,613,"Milan, GA",0,365,0,0,Milan city
+GA,1355244,Newton,incorporated,25,A,602,"Newton, GA",0,366,0,0,Newton city
+GA,1382720,Whitesburg,incorporated,25,A,596,"Whitesburg, GA",0,367,0,0,Whitesburg city
+GA,1324488,Dudley,incorporated,25,A,593,"Dudley, GA",0,368,0,0,Dudley city
+GA,1371464,Smithville,incorporated,25,A,593,"Smithville, GA",0,369,0,0,Smithville city
+GA,1353172,Mountain Park,incorporated,25,A,583,"Mountain Park, GA",0,370,0,0,Mountain Park city
+GA,1348848,McIntyre,incorporated,43,A,575,"McIntyre, GA",0,371,0,0,McIntyre town
+GA,1361628,Plains,incorporated,25,A,573,"Plains, GA",0,372,0,0,Plains city
+GA,1311056,Brooks,incorporated,43,A,568,"Brooks, GA",0,373,0,0,Brooks town
+GA,1300660,Adrian,incorporated,25,A,552,"Adrian, GA",0,374,0,0,Adrian city
+GA,1356308,North High Shoals,incorporated,43,A,552,"North High Shoals, GA",0,375,0,0,North High Shoals town
+GA,1317832,Collins,incorporated,25,A,540,"Collins, GA",0,376,0,0,Collins city
+GA,1379808,Waco,incorporated,25,A,536,"Waco, GA",0,377,0,0,Waco city
+GA,1337788,Helen,incorporated,25,A,531,"Helen, GA",0,378,0,0,Helen city
+GA,1341400,Irwinton,incorporated,25,A,531,"Irwinton, GA",0,379,0,0,Irwinton city
+GA,1322024,Dearing,incorporated,43,A,529,"Dearing, GA",0,380,0,0,Dearing town
+GA,1319392,Coolidge,incorporated,25,A,528,"Coolidge, GA",0,381,0,0,Coolidge city
+GA,1315900,Chester,incorporated,43,A,525,"Chester, GA",0,382,0,0,Chester town
+GA,1345600,Leary,incorporated,25,A,524,"Leary, GA",0,383,0,0,Leary city
+GA,1300828,Ailey,incorporated,25,A,519,"Ailey, GA",0,384,0,0,Ailey city
+GA,1357232,Oak Park,incorporated,43,A,512,"Oak Park, GA",0,385,0,0,Oak Park town
+GA,1307304,Berlin,incorporated,25,A,511,"Berlin, GA",0,386,0,0,Berlin city
+GA,1353032,Morven,incorporated,25,A,506,"Morven, GA",0,387,0,0,Morven city
+GA,1380676,Warwick,incorporated,25,A,504,"Warwick, GA",0,388,0,0,Warwick city
+GA,1376532,Tignall,incorporated,43,A,485,"Tignall, GA",0,389,0,0,Tignall town
+GA,1371282,Sky Valley,incorporated,25,A,482,"Sky Valley, GA",0,390,0,0,Sky Valley city
+GA,1301024,Alapaha,incorporated,43,A,481,"Alapaha, GA",0,391,0,0,Alapaha town
+GA,1339216,Hoboken,incorporated,25,A,480,"Hoboken, GA",0,392,0,0,Hoboken city
+GA,1350848,Menlo,incorporated,25,A,480,"Menlo, GA",0,393,0,0,Menlo city
+GA,1320316,Crawfordville,incorporated,25,A,479,"Crawfordville, GA",0,394,0,0,Crawfordville city
+GA,1327708,Ephesus,incorporated,25,A,471,"Ephesus, GA",0,395,0,0,Ephesus city
+GA,1380480,Warm Springs,incorporated,25,A,465,"Warm Springs, GA",0,396,0,0,Warm Springs city
+GA,1357540,Odum,incorporated,25,A,463,"Odum, GA",0,397,0,0,Odum city
+GA,1304084,Attapulgus,incorporated,25,A,454,"Attapulgus, GA",0,398,0,0,Attapulgus city
+GA,1348092,Lyerly,incorporated,43,A,454,"Lyerly, GA",0,399,0,0,Lyerly town
+GA,1361320,Pineview,incorporated,43,A,454,"Pineview, GA",0,400,0,0,Pineview town
+GA,1357568,Offerman,incorporated,25,A,450,"Offerman, GA",0,401,0,0,Offerman city
+GA,1302564,Arabi,incorporated,43,A,447,"Arabi, GA",0,402,0,0,Arabi town
+GA,1374432,Sumner,incorporated,43,A,445,"Sumner, GA",0,403,0,0,Sumner town
+GA,1309656,Bowersville,incorporated,43,A,444,"Bowersville, GA",0,404,0,0,Bowersville town
+GA,1349616,Mansfield,incorporated,25,A,442,"Mansfield, GA",0,405,0,0,Mansfield city
+GA,1373620,Stillmore,incorporated,25,A,439,"Stillmore, GA",0,406,0,0,Stillmore city
+GA,1378744,Uvalda,incorporated,25,A,439,"Uvalda, GA",0,407,0,0,Uvalda city
+GA,1303124,Arnoldsville,incorporated,25,A,431,"Arnoldsville, GA",0,408,0,0,Arnoldsville city
+GA,1382412,Whigham,incorporated,25,A,428,"Whigham, GA",0,409,0,0,Whigham city
+GA,1312232,Byromville,incorporated,43,A,422,"Byromville, GA",0,410,0,0,Byromville town
+GA,1376504,Tiger,incorporated,43,A,422,"Tiger, GA",0,411,0,0,Tiger town
+GA,1340812,Ideal,incorporated,25,A,407,"Ideal, GA",0,412,0,0,Ideal city
+GA,1307640,Between,incorporated,43,A,402,"Between, GA",0,413,0,0,Between town
+GA,1331684,Funston,incorporated,25,A,402,"Funston, GA",0,414,0,0,Funston city
+GA,1370428,Shiloh,incorporated,25,A,402,"Shiloh, GA",0,415,0,0,Shiloh city
+GA,1373004,Stapleton,incorporated,25,A,402,"Stapleton, GA",0,416,0,0,Stapleton city
+GA,1384708,Yatesville,incorporated,43,A,394,"Yatesville, GA",0,417,0,0,Yatesville town
+GA,1352108,Molena,incorporated,25,A,392,"Molena, GA",0,418,0,0,Molena city
+GA,1342156,Jenkinsburg,incorporated,25,A,391,"Jenkinsburg, GA",0,419,0,0,Jenkinsburg city
+GA,1351240,Midville,incorporated,25,A,385,"Midville, GA",0,420,0,0,Midville city
+GA,1376952,Toomsboro,incorporated,25,A,383,"Toomsboro, GA",0,421,0,0,Toomsboro city
+GA,1352668,Moreland,incorporated,43,A,382,"Moreland, GA",0,422,0,0,Moreland town
+GA,1312344,Cadwell,incorporated,43,A,381,"Cadwell, GA",0,423,0,0,Cadwell town
+GA,1309488,Bostwick,incorporated,25,A,378,"Bostwick, GA",0,424,0,0,Bostwick city
+GA,1319168,Concord,incorporated,25,A,378,"Concord, GA",0,425,0,0,Concord city
+GA,1305708,Barwick,incorporated,25,A,363,"Barwick, GA",0,426,0,0,Barwick city
+GA,1361684,Plainville,incorporated,25,A,356,"Plainville, GA",0,427,0,0,Plainville city
+GA,1310104,Braswell,incorporated,43,A,355,"Braswell, GA",0,428,0,0,Braswell town
+GA,1368096,Sale City,incorporated,25,A,354,"Sale City, GA",0,429,0,0,Sale City city
+GA,1340840,Ila,incorporated,25,A,350,"Ila, GA",0,430,0,0,Ila city
+GA,1315026,Centralhatchee,incorporated,43,A,348,"Centralhatchee, GA",0,431,0,0,Centralhatchee town
+GA,1377764,Turin,incorporated,43,A,347,"Turin, GA",0,432,0,0,Turin town
+GA,1346020,Leslie,incorporated,25,A,344,"Leslie, GA",0,433,0,0,Leslie city
+GA,1317272,Cobbtown,incorporated,25,A,341,"Cobbtown, GA",0,434,0,0,Cobbtown city
+GA,1333896,Good Hope,incorporated,25,A,339,"Good Hope, GA",0,435,0,0,Good Hope city
+GA,1336920,Harrison,incorporated,43,A,339,"Harrison, GA",0,436,0,0,Harrison town
+GA,1322976,Dillard,incorporated,25,A,337,"Dillard, GA",0,437,0,0,Dillard city
+GA,1350008,Martin,incorporated,43,A,336,"Martin, GA",0,438,0,0,Martin town
+GA,1310860,Bronwood,incorporated,43,A,334,"Bronwood, GA",0,439,0,0,Bronwood town
+GA,1308200,Bishop,incorporated,43,A,332,"Bishop, GA",0,440,0,0,Bishop town
+GA,1302060,Ambrose,incorporated,25,A,327,"Ambrose, GA",0,441,0,0,Ambrose city
+GA,1369980,Sharpsburg,incorporated,43,A,327,"Sharpsburg, GA",0,442,0,0,Sharpsburg town
+GA,1338348,Higgston,incorporated,43,A,314,"Higgston, GA",0,443,0,0,Higgston town
+GA,1341344,Iron City,incorporated,43,A,312,"Iron City, GA",0,444,0,0,Iron City town
+GA,1364680,Rentz,incorporated,25,A,312,"Rentz, GA",0,445,0,0,Rentz city
+GA,1338920,Hiltonia,incorporated,43,A,310,"Hiltonia, GA",0,446,0,0,Hiltonia town
+GA,1360984,Pinehurst,incorporated,25,A,309,"Pinehurst, GA",0,447,0,0,Pinehurst city
+GA,1332860,Gillsville,incorporated,25,A,306,"Gillsville, GA",0,448,0,0,Gillsville city
+GA,1383952,Woodland,incorporated,25,A,305,"Woodland, GA",0,449,0,0,Woodland city
+GA,1343360,Keysville,incorporated,25,A,300,"Keysville, GA",0,450,0,0,Keysville city
+GA,1364932,Rhine,incorporated,43,A,295,"Rhine, GA",0,451,0,0,Rhine town
+GA,1354992,Newington,incorporated,43,A,290,"Newington, GA",0,452,0,0,Newington town
+GA,1315648,Chauncey,incorporated,25,A,289,"Chauncey, GA",0,453,0,0,Chauncey city
+GA,1368796,Sasser,incorporated,43,A,287,"Sasser, GA",0,454,0,0,Sasser town
+GA,1352724,Morganton,incorporated,25,A,285,"Morganton, GA",0,455,0,0,Morganton city
+GA,1314192,Cecil,incorporated,25,A,284,"Cecil, GA",0,456,0,0,Cecil city
+GA,1316908,Climax,incorporated,25,A,276,"Climax, GA",0,457,0,0,Climax city
+GA,1350596,Meansville,incorporated,25,A,266,"Meansville, GA",0,458,0,0,Meansville city
+GA,1384260,Woodville,incorporated,25,A,264,"Woodville, GA",0,459,0,0,Woodville city
+GA,1313212,Carlton,incorporated,25,A,263,"Carlton, GA",0,460,0,0,Carlton city
+GA,1334260,Graham,incorporated,25,A,263,"Graham, GA",0,461,0,0,Graham city
+GA,1332188,Garfield,incorporated,25,A,257,"Garfield, GA",0,462,0,0,Garfield city
+GA,1375412,Talmo,incorporated,43,A,257,"Talmo, GA",0,463,0,0,Talmo town
+GA,1361544,Pitts,incorporated,25,A,252,"Pitts, GA",0,464,0,0,Pitts city
+GA,1369784,Shady Dale,incorporated,43,A,252,"Shady Dale, GA",0,465,0,0,Shady Dale town
+GA,1375664,Taylorsville,incorporated,43,A,252,"Taylorsville, GA",0,466,0,0,Taylorsville town
+GA,1328744,Fargo,incorporated,25,A,250,"Fargo, GA",0,467,0,0,Fargo city
+GA,1382692,White Plains,incorporated,25,A,239,"White Plains, GA",0,468,0,0,White Plains city
+GA,1302256,Andersonville,incorporated,25,A,237,"Andersonville, GA",0,469,0,0,Andersonville city
+GA,1335800,Gumbranch,incorporated,25,A,235,"Gumbranch, GA",0,470,0,0,Gumbranch city
+GA,1304392,Avalon,incorporated,43,A,233,"Avalon, GA",0,471,0,0,Avalon town
+GA,1366696,Roopville,incorporated,43,A,231,"Roopville, GA",0,472,0,0,Roopville town
+GA,1340532,Hull,incorporated,25,A,230,"Hull, GA",0,473,0,0,Hull city
+GA,1304448,Avera,incorporated,25,A,223,"Avera, GA",0,474,0,0,Avera city
+GA,1358296,Orchard Hill,incorporated,43,A,219,"Orchard Hill, GA",0,475,0,0,Orchard Hill town
+GA,1310608,Brinson,incorporated,43,A,217,"Brinson, GA",0,476,0,0,Brinson town
+GA,1321436,Damascus,incorporated,25,A,212,"Damascus, GA",0,477,0,0,Damascus city
+GA,1363000,Pulaski,incorporated,43,A,211,"Pulaski, GA",0,478,0,0,Pulaski town
+GA,1327008,Ellenton,incorporated,43,A,210,"Ellenton, GA",0,479,0,0,Ellenton town
+GA,1358100,Oliver,incorporated,25,A,210,"Oliver, GA",0,480,0,0,Oliver city
+GA,1313184,Carl,incorporated,43,A,209,"Carl, GA",0,481,0,0,Carl town
+GA,1363840,Rebecca,incorporated,43,A,208,"Rebecca, GA",0,482,0,0,Rebecca town
+GA,1384288,Woolsey,incorporated,43,A,206,"Woolsey, GA",0,483,0,0,Woolsey town
+GA,1368600,Santa Claus,incorporated,25,A,204,"Santa Claus, GA",0,484,0,0,Santa Claus city
+GA,1346188,Lexington,incorporated,25,A,203,"Lexington, GA",0,485,0,0,Lexington city
+GA,1352500,Montrose,incorporated,43,A,203,"Montrose, GA",0,486,0,0,Montrose town
+GA,1356560,Norwood,incorporated,25,A,202,"Norwood, GA",0,487,0,0,Norwood city
+GA,1320848,Culloden,incorporated,25,A,200,"Culloden, GA",0,488,0,0,Culloden city
+GA,1375328,Tallulah Falls,incorporated,43,A,199,"Tallulah Falls, GA",0,489,0,0,Tallulah Falls town
+GA,1350260,Maxeys,incorporated,43,A,198,"Maxeys, GA",0,490,0,0,Maxeys town
+GA,1357456,Oconee,incorporated,25,A,197,"Oconee, GA",0,491,0,0,Oconee city
+GA,1301500,Allentown,incorporated,25,A,195,"Allentown, GA",0,492,0,0,Allentown city
+GA,1311672,Buckhead,incorporated,43,A,194,"Buckhead, GA",0,493,0,0,Buckhead town
+GA,1370932,Siloam,incorporated,43,A,194,"Siloam, GA",0,494,0,0,Siloam town
+GA,1374852,Surrency,incorporated,43,A,194,"Surrency, GA",0,495,0,0,Surrency town
+GA,1302844,Argyle,incorporated,43,A,190,"Argyle, GA",0,496,0,0,Argyle town
+GA,1322388,Denton,incorporated,25,A,189,"Denton, GA",0,497,0,0,Denton city
+GA,1305680,Bartow,incorporated,43,A,186,"Bartow, GA",0,498,0,0,Bartow town
+GA,1332916,Girard,incorporated,43,A,184,"Girard, GA",0,499,0,0,Girard town
+GA,1301808,Alston,incorporated,43,A,178,"Alston, GA",0,500,0,0,Alston town
+GA,1369336,Scotland,incorporated,25,A,173,"Scotland, GA",0,501,0,0,Scotland city
+GA,1336528,Haralson,incorporated,43,A,172,"Haralson, GA",0,502,0,0,Haralson town
+GA,1366444,Rocky Ford,incorporated,43,A,167,"Rocky Ford, GA",0,503,0,0,Rocky Ford town
+GA,1321688,Danville,incorporated,43,A,165,"Danville, GA",0,504,0,0,Danville town
+GA,1343892,Kite,incorporated,25,A,160,"Kite, GA",0,505,0,0,Kite city
+GA,1321268,Daisy,incorporated,25,A,159,"Daisy, GA",0,506,0,0,Daisy city
+GA,1363756,Rayle,incorporated,43,A,158,"Rayle, GA",0,507,0,0,Rayle town
+GA,1364372,Register,incorporated,43,A,157,"Register, GA",0,508,0,0,Register town
+GA,1351968,Mitchell,incorporated,43,A,153,"Mitchell, GA",0,509,0,0,Mitchell town
+GA,1342184,Jersey,incorporated,25,A,146,"Jersey, GA",0,510,0,0,Jersey city
+GA,1312512,Camak,incorporated,43,A,141,"Camak, GA",0,511,0,0,Camak town
+GA,1379164,Vernonburg,incorporated,43,A,139,"Vernonburg, GA",0,512,0,0,Vernonburg town
+GA,1342800,Junction City,incorporated,43,A,138,"Junction City, GA",0,513,0,0,Junction City town
+GA,1324796,Du Pont,incorporated,43,A,134,"Du Pont, GA",0,514,0,0,Du Pont town
+GA,1356644,Nunez,incorporated,25,A,134,"Nunez, GA",0,515,0,0,Nunez city
+GA,1341792,Jakin,incorporated,25,A,131,"Jakin, GA",0,516,0,0,Jakin city
+GA,1346384,Lilly,incorporated,25,A,129,"Lilly, GA",0,517,0,0,Lilly city
+GA,1306688,Bellville,incorporated,25,A,127,"Bellville, GA",0,518,0,0,Bellville city
+GA,1322472,De Soto,incorporated,25,A,124,"De Soto, GA",0,519,0,0,De Soto city
+GA,1374348,Summertown,incorporated,25,A,121,"Summertown, GA",0,520,0,0,Summertown city
+GA,1359416,Parrott,incorporated,43,A,120,"Parrott, GA",0,521,0,0,Parrott town
+GA,1322108,Deepstep,incorporated,43,A,117,"Deepstep, GA",0,522,0,0,Deepstep town
+GA,1347252,Lone Oak,incorporated,43,A,114,"Lone Oak, GA",0,523,0,0,Lone Oak town
+GA,1308956,Bluffton,incorporated,43,A,113,"Bluffton, GA",0,524,0,0,Bluffton town
+GA,1341708,Jacksonville,incorporated,25,A,111,"Jacksonville, GA",0,525,0,0,Jacksonville city
+GA,1332384,Gay,incorporated,43,A,110,"Gay, GA",0,526,0,0,Gay town
+GA,1369896,Sharon,incorporated,25,A,104,"Sharon, GA",0,527,0,0,Sharon city
+GA,1379416,Vidette,incorporated,25,A,103,"Vidette, GA",0,528,0,0,Vidette city
+GA,1375272,Talking Rock,incorporated,43,A,91,"Talking Rock, GA",0,529,0,0,Talking Rock town
+GA,1365156,Riddleville,incorporated,43,A,80,"Riddleville, GA",0,530,0,0,Riddleville town
+GA,1332412,Geneva,incorporated,43,A,75,"Geneva, GA",0,531,0,0,Geneva town
+GA,1323480,Dooling,incorporated,43,A,68,"Dooling, GA",0,532,0,0,Dooling town
+GA,1375496,Tarrytown,incorporated,43,A,66,"Tarrytown, GA",0,533,0,0,Tarrytown town
+GA,1349504,Manassas,incorporated,25,A,59,"Manassas, GA",0,534,0,0,Manassas city
+GA,1364792,Rest Haven,incorporated,43,A,45,"Rest Haven, GA",0,535,0,0,Rest Haven town
+GA,1326224,Edge Hill,incorporated,25,A,22,"Edge Hill, GA",0,536,0,0,Edge Hill city
+GA,1301248,Aldora,incorporated,43,A,0,"Aldora, GA",0,537,0,0,Aldora town
+GA,1303436,Athens-Clarke County,consolidated,UG,A,0,"Athens-Clarke County, GA",0,538,0,0,Athens-Clarke County unified government
+GA,1304200,Augusta-Richmond County,consolidated,CG,A,0,"Augusta-Richmond County, GA",0,539,0,0,Augusta-Richmond County consolidated government
+GA,1353706,Mulberry,incorporated,25,A,0,"Mulberry, GA",0,540,0,0,Mulberry city

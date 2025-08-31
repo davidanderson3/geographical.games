@@ -1,2 +1,628 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-KS,2028410,Greeley County,consolidated,UG,A,0,"Greeley County, KS",0,1,250,1,Greeley County unified government
+KS,2079000,Wichita,incorporated,25,A,397532,"Wichita, KS",0,1,27,0.27,Wichita city
+KS,2053775,Overland Park,incorporated,25,A,197238,"Overland Park, KS",0,2,12,0.12,Overland Park city
+KS,2036000,Kansas City,incorporated,25,A,156607,"Kansas City, KS",0,3,8,0.08,Kansas City city
+KS,2052575,Olathe,incorporated,25,A,141290,"Olathe, KS",0,4,6,0.06,Olathe city
+KS,2071000,Topeka,incorporated,25,A,126587,"Topeka, KS",0,5,5,0.05,Topeka city
+KS,2038900,Lawrence,incorporated,25,A,94934,"Lawrence, KS",0,6,4,0.04,Lawrence city
+KS,2064500,Shawnee,incorporated,25,A,67311,"Shawnee, KS",0,7,2,0.02,Shawnee city
+KS,2039350,Lenexa,incorporated,25,A,57434,"Lenexa, KS",0,8,3,0.03,Lenexa city
+KS,2044250,Manhattan,incorporated,25,A,54100,"Manhattan, KS",0,9,3,0.03,Manhattan city
+KS,2062700,Salina,incorporated,25,A,46889,"Salina, KS",0,10,2,0.02,Salina city
+KS,2033625,Hutchinson,incorporated,25,A,40006,"Hutchinson, KS",0,11,1,0.01,Hutchinson city
+KS,2039000,Leavenworth,incorporated,25,A,37351,"Leavenworth, KS",0,12,1,0.01,Leavenworth city
+KS,2039075,Leawood,incorporated,25,A,33902,"Leawood, KS",0,13,1,0.01,Leawood city
+KS,2025325,Garden City,incorporated,25,A,28151,"Garden City, KS",0,14,2,0.02,Garden City city
+KS,2018250,Dodge City,incorporated,25,A,27788,"Dodge City, KS",0,15,2,0.02,Dodge City city
+KS,2017800,Derby,incorporated,25,A,25625,"Derby, KS",0,16,2,0.02,Derby city
+KS,2021275,Emporia,incorporated,25,A,24139,"Emporia, KS",0,17,2,0.02,Emporia city
+KS,2025425,Gardner,incorporated,25,A,23287,"Gardner, KS",0,18,2,0.02,Gardner city
+KS,2057575,Prairie Village,incorporated,25,A,22957,"Prairie Village, KS",0,19,2,0.02,Prairie Village city
+KS,2035750,Junction City,incorporated,25,A,22932,"Junction City, KS",0,20,2,0.02,Junction City city
+KS,2031100,Hays,incorporated,25,A,21116,"Hays, KS",0,21,2,0.02,Hays city
+KS,2056025,Pittsburg,incorporated,25,A,20646,"Pittsburg, KS",0,22,2,0.02,Pittsburg city
+KS,2039825,Liberal,incorporated,25,A,19825,"Liberal, KS",0,23,2,0.02,Liberal city
+KS,2050475,Newton,incorporated,25,A,18602,"Newton, KS",0,24,1,0.01,Newton city
+KS,2001800,Andover,incorporated,25,A,14892,"Andover, KS",0,25,1,0.01,Andover city
+KS,2028300,Great Bend,incorporated,25,A,14733,"Great Bend, KS",0,26,1,0.01,Great Bend city
+KS,2043950,McPherson,incorporated,25,A,14082,"McPherson, KS",0,27,1,0.01,McPherson city
+KS,2020075,El Dorado,incorporated,25,A,12870,"El Dorado, KS",0,28,1,0.01,El Dorado city
+KS,2053550,Ottawa,incorporated,25,A,12625,"Ottawa, KS",0,29,0,0,Ottawa city
+KS,2002300,Arkansas City,incorporated,25,A,11974,"Arkansas City, KS",0,30,0,0,Arkansas City city
+KS,2079950,Winfield,incorporated,25,A,11777,"Winfield, KS",0,31,0,0,Winfield city
+KS,2031125,Haysville,incorporated,25,A,11262,"Haysville, KS",0,32,0,0,Haysville city
+KS,2038650,Lansing,incorporated,25,A,11239,"Lansing, KS",0,33,0,0,Lansing city
+KS,2046000,Merriam,incorporated,25,A,11098,"Merriam, KS",0,34,0,0,Merriam city
+KS,2002900,Atchison,incorporated,25,A,10885,"Atchison, KS",0,35,0,0,Atchison city
+KS,2047225,Mission,incorporated,25,A,9954,"Mission, KS",0,36,0,0,Mission city
+KS,2054675,Parsons,incorporated,25,A,9600,"Parsons, KS",0,37,0,0,Parsons city
+KS,2003300,Augusta,incorporated,25,A,9256,"Augusta, KS",0,38,0,0,Augusta city
+KS,2014600,Coffeyville,incorporated,25,A,8826,"Coffeyville, KS",0,39,0,0,Coffeyville city
+KS,2012500,Chanute,incorporated,25,A,8722,"Chanute, KS",0,40,0,0,Chanute city
+KS,2033875,Independence,incorporated,25,A,8548,"Independence, KS",0,41,0,0,Independence city
+KS,2054450,Park City,incorporated,25,A,8333,"Park City, KS",0,42,0,0,Park City city
+KS,2005337,Bel Aire,incorporated,25,A,8262,"Bel Aire, KS",0,43,0,0,Bel Aire city
+KS,2067625,Spring Hill,incorporated,25,A,7952,"Spring Hill, KS",0,44,0,0,Spring Hill city
+KS,2007975,Bonner Springs,incorporated,25,A,7837,"Bonner Springs, KS",0,45,0,0,Bonner Springs city
+KS,2076475,Wellington,incorporated,25,A,7715,"Wellington, KS",0,46,0,0,Wellington city
+KS,2024000,Fort Scott,incorporated,25,A,7552,"Fort Scott, KS",0,47,0,0,Fort Scott city
+KS,2073250,Valley Center,incorporated,25,A,7340,"Valley Center, KS",0,48,0,0,Valley Center city
+KS,2004400,Basehor,incorporated,25,A,6896,"Basehor, KS",0,49,0,0,Basehor city
+KS,2060825,Roeland Park,incorporated,25,A,6871,"Roeland Park, KS",0,50,0,0,Roeland Park city
+KS,2057625,Pratt,incorporated,25,A,6603,"Pratt, KS",0,51,0,0,Pratt city
+KS,2000125,Abilene,incorporated,25,A,6460,"Abilene, KS",0,52,0,0,Abilene city
+KS,2021675,Eudora,incorporated,25,A,6408,"Eudora, KS",0,53,0,0,Eudora city
+KS,2049100,Mulvane,incorporated,25,A,6286,"Mulvane, KS",0,54,0,0,Mulvane city
+KS,2017850,De Soto,incorporated,25,A,6118,"De Soto, KS",0,55,0,0,De Soto city
+KS,2071975,Ulysses,incorporated,25,A,5788,"Ulysses, KS",0,56,0,0,Ulysses city
+KS,2054250,Paola,incorporated,25,A,5768,"Paola, KS",0,57,0,0,Paola city
+KS,2044200,Maize,incorporated,25,A,5735,"Maize, KS",0,58,0,0,Maize city
+KS,2070800,Tonganoxie,incorporated,25,A,5573,"Tonganoxie, KS",0,59,0,0,Tonganoxie city
+KS,2014650,Colby,incorporated,25,A,5570,"Colby, KS",0,60,0,0,Colby city
+KS,2034300,Iola,incorporated,25,A,5396,"Iola, KS",0,61,0,0,Iola city
+KS,2015200,Concordia,incorporated,25,A,5111,"Concordia, KS",0,62,0,0,Concordia city
+KS,2026725,Goddard,incorporated,25,A,5084,"Goddard, KS",0,63,0,0,Goddard city
+KS,2042875,Louisburg,incorporated,25,A,4969,"Louisburg, KS",0,64,0,0,Louisburg city
+KS,2075325,Wamego,incorporated,25,A,4841,"Wamego, KS",0,65,0,0,Wamego city
+KS,2003900,Baldwin City,incorporated,25,A,4826,"Baldwin City, KS",0,66,0,0,Baldwin City city
+KS,2020000,Edwardsville,incorporated,25,A,4717,"Edwardsville, KS",0,67,0,0,Edwardsville city
+KS,2026875,Goodland,incorporated,25,A,4465,"Goodland, KS",0,68,0,0,Goodland city
+KS,2061825,Russell,incorporated,25,A,4401,"Russell, KS",0,69,0,0,Russell city
+KS,2053225,Osawatomie,incorporated,25,A,4255,"Osawatomie, KS",0,70,0,0,Osawatomie city
+KS,2013625,Clay Center,incorporated,25,A,4199,"Clay Center, KS",0,71,0,0,Clay Center city
+KS,2061250,Rose Hill,incorporated,25,A,4185,"Rose Hill, KS",0,72,0,0,Rose Hill city
+KS,2022700,Fairway,incorporated,25,A,4170,"Fairway, KS",0,73,0,0,Fairway city
+KS,2063600,Scott City,incorporated,25,A,4113,"Scott City, KS",0,74,0,0,Scott City city
+KS,2004625,Baxter Springs,incorporated,25,A,3888,"Baxter Springs, KS",0,75,0,0,Baxter Springs city
+KS,2041375,Lindsborg,incorporated,25,A,3776,"Lindsborg, KS",0,76,0,0,Lindsborg city
+KS,2038700,Larned,incorporated,25,A,3769,"Larned, KS",0,77,0,0,Larned city
+KS,2033425,Hugoton,incorporated,25,A,3747,"Hugoton, KS",0,78,0,0,Hugoton city
+KS,2043525,Lyons,incorporated,25,A,3611,"Lyons, KS",0,79,0,0,Lyons city
+KS,2047350,Mission Hills,incorporated,25,A,3594,"Mission Hills, KS",0,80,0,0,Mission Hills city
+KS,2031600,Hesston,incorporated,25,A,3505,"Hesston, KS",0,81,0,0,Hesston city
+KS,2045050,Marysville,incorporated,25,A,3447,"Marysville, KS",0,82,0,0,Marysville city
+KS,2005775,Beloit,incorporated,25,A,3404,"Beloit, KS",0,83,0,0,Beloit city
+KS,2032825,Holton,incorporated,25,A,3401,"Holton, KS",0,84,0,0,Holton city
+KS,2024850,Frontenac,incorporated,25,A,3382,"Frontenac, KS",0,85,0,0,Frontenac city
+KS,2031675,Hiawatha,incorporated,25,A,3280,"Hiawatha, KS",0,86,0,0,Hiawatha city
+KS,2025925,Garnett,incorporated,25,A,3242,"Garnett, KS",0,87,0,0,Garnett city
+KS,2036950,Kingman,incorporated,25,A,3105,"Kingman, KS",0,88,0,0,Kingman city
+KS,2020500,Ellsworth,incorporated,25,A,3066,"Ellsworth, KS",0,89,0,0,Ellsworth city
+KS,2015075,Columbus,incorporated,25,A,2929,"Columbus, KS",0,90,0,0,Columbus city
+KS,2053200,Osage City,incorporated,25,A,2861,"Osage City, KS",0,91,0,0,Osage City city
+KS,2025100,Galena,incorporated,25,A,2761,"Galena, KS",0,92,0,0,Galena city
+KS,2062400,St. Marys,incorporated,25,A,2759,"St. Marys, KS",0,93,0,0,St. Marys city
+KS,2051500,Norton,incorporated,25,A,2747,"Norton, KS",0,94,0,0,Norton city
+KS,2032275,Hillsboro,incorporated,25,A,2732,"Hillsboro, KS",0,95,0,0,Hillsboro city
+KS,2032550,Hoisington,incorporated,25,A,2699,"Hoisington, KS",0,96,0,0,Hoisington city
+KS,2013925,Clearwater,incorporated,25,A,2653,"Clearwater, KS",0,97,0,0,Clearwater city
+KS,2009400,Burlington,incorporated,25,A,2634,"Burlington, KS",0,98,0,0,Burlington city
+KS,2062025,Sabetha,incorporated,25,A,2545,"Sabetha, KS",0,99,0,0,Sabetha city
+KS,2066750,South Hutchinson,incorporated,25,A,2521,"South Hutchinson, KS",0,100,0,0,South Hutchinson city
+KS,2026300,Girard,incorporated,25,A,2496,"Girard, KS",0,101,0,0,Girard city
+KS,2055675,Phillipsburg,incorporated,25,A,2337,"Phillipsburg, KS",0,102,0,0,Phillipsburg city
+KS,2021800,Eureka,incorporated,25,A,2332,"Eureka, KS",0,103,0,0,Eureka city
+KS,2049650,Neodesha,incorporated,25,A,2275,"Neodesha, KS",0,104,0,0,Neodesha city
+KS,2068200,Sterling,incorporated,25,A,2248,"Sterling, KS",0,105,0,0,Sterling city
+KS,2032575,Holcomb,incorporated,25,A,2245,"Holcomb, KS",0,106,0,0,Holcomb city
+KS,2036225,Kechi,incorporated,25,A,2217,"Kechi, KS",0,107,0,0,Kechi city
+KS,2038175,Lakin,incorporated,25,A,2205,"Lakin, KS",0,108,0,0,Lakin city
+KS,2012925,Cherryvale,incorporated,25,A,2192,"Cherryvale, KS",0,109,0,0,Cherryvale city
+KS,2012775,Cheney,incorporated,25,A,2181,"Cheney, KS",0,110,0,0,Cheney city
+KS,2029600,Halstead,incorporated,25,A,2179,"Halstead, KS",0,111,0,0,Halstead city
+KS,2024575,Fredonia,incorporated,25,A,2151,"Fredonia, KS",0,112,0,0,Fredonia city
+KS,2015925,Council Grove,incorporated,25,A,2140,"Council Grove, KS",0,113,0,0,Council Grove city
+KS,2063950,Seneca,incorporated,25,A,2139,"Seneca, KS",0,114,0,0,Seneca city
+KS,2031400,Herington,incorporated,25,A,2109,"Herington, KS",0,115,0,0,Herington city
+KS,2001975,Anthony,incorporated,25,A,2108,"Anthony, KS",0,116,0,0,Anthony city
+KS,2051825,Oakley,incorporated,25,A,2046,"Oakley, KS",0,117,0,0,Oakley city
+KS,2020425,Ellinwood,incorporated,25,A,2011,"Ellinwood, KS",0,118,0,0,Ellinwood city
+KS,2005600,Belleville,incorporated,25,A,2007,"Belleville, KS",0,119,0,0,Belleville city
+KS,2013275,Cimarron,incorporated,25,A,1981,"Cimarron, KS",0,120,0,0,Cimarron city
+KS,2048800,Moundridge,incorporated,25,A,1974,"Moundridge, KS",0,121,0,0,Moundridge city
+KS,2020450,Ellis,incorporated,25,A,1958,"Ellis, KS",0,122,0,0,Ellis city
+KS,2076625,Wellsville,incorporated,25,A,1953,"Wellsville, KS",0,123,0,0,Wellsville city
+KS,2047075,Minneapolis,incorporated,25,A,1946,"Minneapolis, KS",0,124,0,0,Minneapolis city
+KS,2044750,Marion,incorporated,25,A,1922,"Marion, KS",0,125,0,0,Marion city
+KS,2020350,Elkhart,incorporated,25,A,1888,"Elkhart, KS",0,126,0,0,Elkhart city
+KS,2033450,Humboldt,incorporated,25,A,1847,"Humboldt, KS",0,127,0,0,Humboldt city
+KS,2069850,Syracuse,incorporated,25,A,1826,"Syracuse, KS",0,128,0,0,Syracuse city
+KS,2051225,North Newton,incorporated,25,A,1814,"North Newton, KS",0,129,0,0,North Newton city
+KS,2074450,WaKeeney,incorporated,25,A,1799,"WaKeeney, KS",0,130,0,0,WaKeeney city
+KS,2010375,Caney,incorporated,25,A,1788,"Caney, KS",0,131,0,0,Caney city
+KS,2045500,Medicine Lodge,incorporated,25,A,1781,"Medicine Lodge, KS",0,132,0,0,Medicine Lodge city
+KS,2077500,Westwood,incorporated,25,A,1750,"Westwood, KS",0,133,0,0,Westwood city
+KS,2019825,Edgerton,incorporated,25,A,1748,"Edgerton, KS",0,134,0,0,Edgerton city
+KS,2056150,Plainville,incorporated,25,A,1746,"Plainville, KS",0,135,0,0,Plainville city
+KS,2027425,Grandview Plaza,incorporated,25,A,1697,"Grandview Plaza, KS",0,136,0,0,Grandview Plaza city
+KS,2053450,Oswego,incorporated,25,A,1668,"Oswego, KS",0,137,0,0,Oswego city
+KS,2052275,Ogden,incorporated,25,A,1661,"Ogden, KS",0,138,0,0,Ogden city
+KS,2052000,Oberlin,incorporated,25,A,1644,"Oberlin, KS",0,139,0,0,Oberlin city
+KS,2063800,Sedgwick,incorporated,25,A,1603,"Sedgwick, KS",0,140,0,0,Sedgwick city
+KS,2065925,Smith Center,incorporated,25,A,1571,"Smith Center, KS",0,141,0,0,Smith Center city
+KS,2018400,Douglass,incorporated,25,A,1555,"Douglass, KS",0,142,0,0,Douglass city
+KS,2033200,Horton,incorporated,25,A,1523,"Horton, KS",0,143,0,0,Horton city
+KS,2045325,Meade,incorporated,25,A,1505,"Meade, KS",0,144,0,0,Meade city
+KS,2068350,Stockton,incorporated,25,A,1480,"Stockton, KS",0,145,0,0,Stockton city
+KS,2039550,Leoti,incorporated,25,A,1475,"Leoti, KS",0,146,0,0,Leoti city
+KS,2005500,Belle Plaine,incorporated,25,A,1467,"Belle Plaine, KS",0,147,0,0,Belle Plaine city
+KS,2035600,Johnson City,incorporated,25,A,1464,"Johnson City, KS",0,148,0,0,Johnson City city
+KS,2037075,Kinsley,incorporated,25,A,1456,"Kinsley, KS",0,149,0,0,Kinsley city
+KS,2015100,Colwich,incorporated,25,A,1455,"Colwich, KS",0,150,0,0,Colwich city
+KS,2071125,Towanda,incorporated,25,A,1447,"Towanda, KS",0,151,0,0,Towanda city
+KS,2068775,Sublette,incorporated,25,A,1413,"Sublette, KS",0,152,0,0,Sublette city
+KS,2002375,Arma,incorporated,25,A,1407,"Arma, KS",0,153,0,0,Arma city
+KS,2032175,Hill City,incorporated,25,A,1403,"Hill City, KS",0,154,0,0,Hill City city
+KS,2012550,Chapman,incorporated,25,A,1377,"Chapman, KS",0,155,0,0,Chapman city
+KS,2010600,Carbondale,incorporated,25,A,1352,"Carbondale, KS",0,156,0,0,Carbondale city
+KS,2080700,Yates Center,incorporated,25,A,1352,"Yates Center, KS",0,157,0,0,Yates Center city
+KS,2065600,Silver Lake,incorporated,25,A,1345,"Silver Lake, KS",0,158,0,0,Silver Lake city
+KS,2034275,Inman,incorporated,25,A,1341,"Inman, KS",0,159,0,0,Inman city
+KS,2053325,Osborne,incorporated,25,A,1335,"Osborne, KS",0,160,0,0,Osborne city
+KS,2049925,Ness City,incorporated,25,A,1329,"Ness City, KS",0,161,0,0,Ness City city
+KS,2009200,Buhler,incorporated,25,A,1325,"Buhler, KS",0,162,0,0,Buhler city
+KS,2030175,Harper,incorporated,25,A,1313,"Harper, KS",0,163,0,0,Harper city
+KS,2003150,Atwood,incorporated,25,A,1290,"Atwood, KS",0,164,0,0,Atwood city
+KS,2003250,Auburn,incorporated,25,A,1273,"Auburn, KS",0,165,0,0,Auburn city
+KS,2037500,La Crosse,incorporated,25,A,1266,"La Crosse, KS",0,166,0,0,La Crosse city
+KS,2062175,St. Francis,incorporated,25,A,1263,"St. Francis, KS",0,167,0,0,St. Francis city
+KS,2076000,Wathena,incorporated,25,A,1246,"Wathena, KS",0,168,0,0,Wathena city
+KS,2062275,St. John,incorporated,25,A,1228,"St. John, KS",0,169,0,0,St. John city
+KS,2033350,Hoxie,incorporated,25,A,1211,"Hoxie, KS",0,170,0,0,Hoxie city
+KS,2056450,Pleasanton,incorporated,25,A,1208,"Pleasanton, KS",0,171,0,0,Pleasanton city
+KS,2041300,Lincoln Center,incorporated,25,A,1171,"Lincoln Center, KS",0,172,0,0,Lincoln Center city
+KS,2030725,Haven,incorporated,25,A,1170,"Haven, KS",0,173,0,0,Haven city
+KS,2073775,Victoria,incorporated,25,A,1129,"Victoria, KS",0,174,0,0,Victoria city
+KS,2020950,Elwood,incorporated,25,A,1125,"Elwood, KS",0,175,0,0,Elwood city
+KS,2053375,Oskaloosa,incorporated,25,A,1110,"Oskaloosa, KS",0,176,0,0,Oskaloosa city
+KS,2061400,Rossville,incorporated,25,A,1105,"Rossville, KS",0,177,0,0,Rossville city
+KS,2063150,Satanta,incorporated,25,A,1092,"Satanta, KS",0,178,0,0,Satanta city
+KS,2073300,Valley Falls,incorporated,25,A,1092,"Valley Falls, KS",0,179,0,0,Valley Falls city
+KS,2015325,Conway Springs,incorporated,25,A,1086,"Conway Springs, KS",0,180,0,0,Conway Springs city
+KS,2075825,Washington,incorporated,25,A,1071,"Washington, KS",0,181,0,0,Washington city
+KS,2001550,Altamont,incorporated,25,A,1061,"Altamont, KS",0,182,0,0,Altamont city
+KS,2050525,Nickerson,incorporated,25,A,1058,"Nickerson, KS",0,183,0,0,Nickerson city
+KS,2062200,St. George,incorporated,25,A,1054,"St. George, KS",0,184,0,0,St. George city
+KS,2037575,La Cygne,incorporated,25,A,1050,"La Cygne, KS",0,185,0,0,La Cygne city
+KS,2053850,Oxford,incorporated,25,A,1048,"Oxford, KS",0,186,0,0,Oxford city
+KS,2021500,Erie,incorporated,25,A,1047,"Erie, KS",0,187,0,0,Erie city
+KS,2043350,Lyndon,incorporated,25,A,1037,"Lyndon, KS",0,188,0,0,Lyndon city
+KS,2056100,Plains,incorporated,25,A,1037,"Plains, KS",0,189,0,0,Plains city
+KS,2009900,Caldwell,incorporated,25,A,1025,"Caldwell, KS",0,190,0,0,Caldwell city
+KS,2037975,Lake Quivira,incorporated,25,A,1014,"Lake Quivira, KS",0,191,0,0,Lake Quivira city
+KS,2053725,Overbrook,incorporated,25,A,1005,"Overbrook, KS",0,192,0,0,Overbrook city
+KS,2063750,Sedan,incorporated,25,A,1000,"Sedan, KS",0,193,0,0,Sedan city
+KS,2066275,Solomon,incorporated,25,A,993,"Solomon, KS",0,194,0,0,Solomon city
+KS,2047875,Montezuma,incorporated,25,A,975,"Montezuma, KS",0,195,0,0,Montezuma city
+KS,2009350,Burlingame,incorporated,25,A,971,"Burlingame, KS",0,196,0,0,Burlingame city
+KS,2071575,Troy,incorporated,25,A,964,"Troy, KS",0,197,0,0,Troy city
+KS,2018050,Dighton,incorporated,25,A,960,"Dighton, KS",0,198,0,0,Dighton city
+KS,2067775,Stafford,incorporated,25,A,959,"Stafford, KS",0,199,0,0,Stafford city
+KS,2041465,Linn Valley,incorporated,25,A,956,"Linn Valley, KS",0,200,0,0,Linn Valley city
+KS,2025375,Garden Plain,incorporated,25,A,948,"Garden Plain, KS",0,201,0,0,Garden Plain city
+KS,2006175,Benton,incorporated,25,A,943,"Benton, KS",0,202,0,0,Benton city
+KS,2001775,Andale,incorporated,25,A,941,"Andale, KS",0,203,0,0,Andale city
+KS,2059875,Riley,incorporated,25,A,938,"Riley, KS",0,204,0,0,Riley city
+KS,2055100,Peabody,incorporated,25,A,937,"Peabody, KS",0,205,0,0,Peabody city
+KS,2012950,Chetopa,incorporated,25,A,929,"Chetopa, KS",0,206,0,0,Chetopa city
+KS,2058250,Quinter,incorporated,25,A,929,"Quinter, KS",0,207,0,0,Quinter city
+KS,2007650,Blue Rapids,incorporated,25,A,928,"Blue Rapids, KS",0,208,0,0,Blue Rapids city
+KS,2031850,Highland,incorporated,25,A,903,"Highland, KS",0,209,0,0,Highland city
+KS,2037125,Kiowa,incorporated,25,A,902,"Kiowa, KS",0,210,0,0,Kiowa city
+KS,2039125,Lebo,incorporated,25,A,885,"Lebo, KS",0,211,0,0,Lebo city
+KS,2057000,Pomona,incorporated,25,A,884,"Pomona, KS",0,212,0,0,Pomona city
+KS,2009575,Burrton,incorporated,25,A,861,"Burrton, KS",0,213,0,0,Burrton city
+KS,2043900,McLouth,incorporated,25,A,859,"McLouth, KS",0,214,0,0,McLouth city
+KS,2079675,Wilson,incorporated,25,A,859,"Wilson, KS",0,215,0,0,Wilson city
+KS,2074525,Wakefield,incorporated,25,A,858,"Wakefield, KS",0,216,0,0,Wakefield city
+KS,2055450,Perry,incorporated,25,A,852,"Perry, KS",0,217,0,0,Perry city
+KS,2015900,Cottonwood Falls,incorporated,25,A,851,"Cottonwood Falls, KS",0,218,0,0,Cottonwood Falls city
+KS,2044300,Mankato,incorporated,25,A,836,"Mankato, KS",0,219,0,0,Mankato city
+KS,2025200,Galva,incorporated,25,A,834,"Galva, KS",0,220,0,0,Galva city
+KS,2048900,Mount Hope,incorporated,25,A,806,"Mount Hope, KS",0,221,0,0,Mount Hope city
+KS,2001350,Alma,incorporated,25,A,802,"Alma, KS",0,222,0,0,Alma city
+KS,2018500,Downs,incorporated,25,A,800,"Downs, KS",0,223,0,0,Downs city
+KS,2067125,Spearville,incorporated,25,A,791,"Spearville, KS",0,224,0,0,Spearville city
+KS,2002675,Ashland,incorporated,25,A,783,"Ashland, KS",0,225,0,0,Ashland city
+KS,2001675,Americus,incorporated,25,A,776,"Americus, KS",0,226,0,0,Americus city
+KS,2071450,Tribune,incorporated,25,N,772,"Tribune, KS",0,227,0,0,Tribune city
+KS,2035450,Jetmore,incorporated,25,A,770,"Jetmore, KS",0,228,0,0,Jetmore city
+KS,2019300,Eastborough,incorporated,25,A,756,"Eastborough, KS",0,229,0,0,Eastborough city
+KS,2064375,Sharon Springs,incorporated,25,A,751,"Sharon Springs, KS",0,230,0,0,Sharon Springs city
+KS,2045950,Meriden,incorporated,25,A,744,"Meriden, KS",0,231,0,0,Meriden city
+KS,2028675,Greensburg,incorporated,25,A,740,"Greensburg, KS",0,232,0,0,Greensburg city
+KS,2077200,Westmoreland,incorporated,25,A,740,"Westmoreland, KS",0,233,0,0,Westmoreland city
+KS,2047150,Minneola,incorporated,25,A,738,"Minneola, KS",0,234,0,0,Minneola city
+KS,2024275,Frankfort,incorporated,25,A,730,"Frankfort, KS",0,235,0,0,Frankfort city
+KS,2009000,Bucklin,incorporated,25,A,727,"Bucklin, KS",0,236,0,0,Bucklin city
+KS,2017225,Deerfield,incorporated,25,A,711,"Deerfield, KS",0,237,0,0,Deerfield city
+KS,2021425,Enterprise,incorporated,25,A,708,"Enterprise, KS",0,238,0,0,Enterprise city
+KS,2014475,Clyde,incorporated,25,A,694,"Clyde, KS",0,239,0,0,Clyde city
+KS,2029875,Hanover,incorporated,25,A,690,"Hanover, KS",0,240,0,0,Hanover city
+KS,2044050,Madison,incorporated,25,A,689,"Madison, KS",0,241,0,0,Madison city
+KS,2014700,Coldwater,incorporated,25,A,687,"Coldwater, KS",0,242,0,0,Coldwater city
+KS,2010475,Canton,incorporated,25,A,685,"Canton, KS",0,243,0,0,Canton city
+KS,2052875,Onaga,incorporated,25,A,679,"Onaga, KS",0,244,0,0,Onaga city
+KS,2030825,Haviland,incorporated,25,A,678,"Haviland, KS",0,245,0,0,Haviland city
+KS,2039450,Leon,incorporated,25,A,669,"Leon, KS",0,246,0,0,Leon city
+KS,2071950,Udall,incorporated,25,A,661,"Udall, KS",0,247,0,0,Udall city
+KS,2078050,Whitewater,incorporated,25,A,661,"Whitewater, KS",0,248,0,0,Whitewater city
+KS,2057700,Pretty Prairie,incorporated,25,A,660,"Pretty Prairie, KS",0,249,0,0,Pretty Prairie city
+KS,2075950,Waterville,incorporated,25,A,658,"Waterville, KS",0,250,0,0,Waterville city
+KS,2063675,Scranton,incorporated,25,A,653,"Scranton, KS",0,251,0,0,Scranton city
+KS,2048750,Mound City,incorporated,25,A,647,"Mound City, KS",0,252,0,0,Mound City city
+KS,2053925,Ozawkie,incorporated,25,A,638,"Ozawkie, KS",0,253,0,0,Ozawkie city
+KS,2044500,Maple Hill,incorporated,25,A,631,"Maple Hill, KS",0,254,0,0,Maple Hill city
+KS,2006075,Bennington,incorporated,25,A,622,"Bennington, KS",0,255,0,0,Bennington city
+KS,2062500,St. Paul,incorporated,25,A,614,"St. Paul, KS",0,256,0,0,St. Paul city
+KS,2051525,Nortonville,incorporated,25,A,601,"Nortonville, KS",0,257,0,0,Nortonville city
+KS,2044925,Marquette,incorporated,25,A,599,"Marquette, KS",0,258,0,0,Marquette city
+KS,2033375,Hoyt,incorporated,25,A,593,"Hoyt, KS",0,259,0,0,Hoyt city
+KS,2012825,Cherokee,incorporated,25,A,590,"Cherokee, KS",0,260,0,0,Cherokee city
+KS,2039150,Lecompton,incorporated,25,A,588,"Lecompton, KS",0,261,0,0,Lecompton city
+KS,2076050,Waverly,incorporated,25,A,574,"Waverly, KS",0,262,0,0,Waverly city
+KS,2033250,Howard,incorporated,25,A,570,"Howard, KS",0,263,0,0,Howard city
+KS,2076350,Weir,incorporated,25,A,569,"Weir, KS",0,264,0,0,Weir city
+KS,2013425,Claflin,incorporated,25,A,562,"Claflin, KS",0,265,0,0,Claflin city
+KS,2006125,Bentley,incorporated,25,A,560,"Bentley, KS",0,266,0,0,Bentley city
+KS,2026750,Goessel,incorporated,25,A,556,"Goessel, KS",0,267,0,0,Goessel city
+KS,2024175,Fowler,incorporated,25,A,534,"Fowler, KS",0,268,0,0,Fowler city
+KS,2052800,Olpe,incorporated,25,A,519,"Olpe, KS",0,269,0,0,Olpe city
+KS,2003100,Attica,incorporated,25,A,516,"Attica, KS",0,270,0,0,Attica city
+KS,2009250,Burden,incorporated,25,A,512,"Burden, KS",0,271,0,0,Burden city
+KS,2057850,Protection,incorporated,25,A,498,"Protection, KS",0,272,0,0,Protection city
+KS,2020025,Effingham,incorporated,25,A,495,"Effingham, KS",0,273,0,0,Effingham city
+KS,2012425,Centralia,incorporated,25,A,485,"Centralia, KS",0,274,0,0,Centralia city
+KS,2037725,La Harpe,incorporated,25,A,480,"La Harpe, KS",0,275,0,0,La Harpe city
+KS,2011450,Cedar Vale,incorporated,25,A,476,"Cedar Vale, KS",0,276,0,0,Cedar Vale city
+KS,2025975,Gas,incorporated,25,A,475,"Gas, KS",0,277,0,0,Gas city
+KS,2041575,Little River,incorporated,25,A,472,"Little River, KS",0,278,0,0,Little River city
+KS,2043850,Macksville,incorporated,25,A,471,"Macksville, KS",0,279,0,0,Macksville city
+KS,2048125,Moran,incorporated,25,A,466,"Moran, KS",0,280,0,0,Moran city
+KS,2079800,Winchester,incorporated,25,A,461,"Winchester, KS",0,281,0,0,Winchester city
+KS,2042100,Logan,incorporated,25,A,460,"Logan, KS",0,282,0,0,Logan city
+KS,2059675,Richmond,incorporated,25,A,459,"Richmond, KS",0,283,0,0,Richmond city
+KS,2011175,Cawker City,incorporated,25,A,457,"Cawker City, KS",0,284,0,0,Cawker City city
+KS,2002250,Argonia,incorporated,25,A,456,"Argonia, KS",0,285,0,0,Argonia city
+KS,2014200,Clifton,incorporated,25,A,454,"Clifton, KS",0,286,0,0,Clifton city
+KS,2039650,LeRoy,incorporated,25,A,451,"LeRoy, KS",0,287,0,0,LeRoy city
+KS,2077825,White City,incorporated,25,A,447,"White City, KS",0,288,0,0,White City city
+KS,2016775,Cunningham,incorporated,25,A,444,"Cunningham, KS",0,289,0,0,Cunningham city
+KS,2051600,Norwich,incorporated,25,A,444,"Norwich, KS",0,290,0,0,Norwich city
+KS,2035950,Kanopolis,incorporated,25,A,443,"Kanopolis, KS",0,291,0,0,Kanopolis city
+KS,2026375,Glasco,incorporated,25,A,441,"Glasco, KS",0,292,0,0,Glasco city
+KS,2046950,Miltonvale,incorporated,25,A,440,"Miltonvale, KS",0,293,0,0,Miltonvale city
+KS,2021650,Eskridge,incorporated,25,A,439,"Eskridge, KS",0,294,0,0,Eskridge city
+KS,2006825,Bird City,incorporated,25,A,437,"Bird City, KS",0,295,0,0,Bird City city
+KS,2002325,Arlington,incorporated,25,A,435,"Arlington, KS",0,296,0,0,Arlington city
+KS,2039500,Leonardville,incorporated,25,A,432,"Leonardville, KS",0,297,0,0,Leonardville city
+KS,2070300,Thayer,incorporated,25,A,432,"Thayer, KS",0,298,0,0,Thayer city
+KS,2002850,Assaria,incorporated,25,A,428,"Assaria, KS",0,299,0,0,Assaria city
+KS,2057300,Potwin,incorporated,25,A,421,"Potwin, KS",0,300,0,0,Potwin city
+KS,2041475,Linwood,incorporated,25,A,415,"Linwood, KS",0,301,0,0,Linwood city
+KS,2050450,New Strawn,incorporated,25,A,414,"New Strawn, KS",0,302,0,0,New Strawn city
+KS,2028412,Greeley County unified government (balance),incorporated,00,F,410,"Greeley County unified government (balance), KS",0,303,0,0,Greeley County unified government (balance)
+KS,2001575,Alta Vista,incorporated,25,A,409,"Alta Vista, KS",0,304,0,0,Alta Vista city
+KS,2049025,Mulberry,incorporated,25,A,409,"Mulberry, KS",0,305,0,0,Mulberry city
+KS,2046525,Milford,incorporated,25,A,408,"Milford, KS",0,306,0,0,Milford city
+KS,2054560,Parkerfield,incorporated,25,A,406,"Parkerfield, KS",0,307,0,0,Parkerfield city
+KS,2032850,Holyrood,incorporated,25,A,403,"Holyrood, KS",0,308,0,0,Holyrood city
+KS,2029250,Gypsum,incorporated,25,A,400,"Gypsum, KS",0,309,0,0,Gypsum city
+KS,2039725,Lewis,incorporated,25,A,400,"Lewis, KS",0,310,0,0,Lewis city
+KS,2077525,Westwood Hills,incorporated,25,A,400,"Westwood Hills, KS",0,311,0,0,Westwood Hills city
+KS,2003600,Axtell,incorporated,25,A,399,"Axtell, KS",0,312,0,0,Axtell city
+KS,2036550,Kensington,incorporated,25,A,399,"Kensington, KS",0,313,0,0,Kensington city
+KS,2012650,Chase,incorporated,25,A,396,"Chase, KS",0,314,0,0,Chase city
+KS,2023600,Florence,incorporated,25,A,394,"Florence, KS",0,315,0,0,Florence city
+KS,2079300,Williamsburg,incorporated,25,A,390,"Williamsburg, KS",0,316,0,0,Williamsburg city
+KS,2019900,Edna,incorporated,25,A,388,"Edna, KS",0,317,0,0,Edna city
+KS,2041425,Linn,incorporated,25,A,387,"Linn, KS",0,318,0,0,Linn city
+KS,2068650,Strong City,incorporated,25,A,386,"Strong City, KS",0,319,0,0,Strong City city
+KS,2060900,Rolla,incorporated,25,A,384,"Rolla, KS",0,320,0,0,Rolla city
+KS,2017150,Dearing,incorporated,25,A,382,"Dearing, KS",0,321,0,0,Dearing city
+KS,2014950,Colony,incorporated,25,A,381,"Colony, KS",0,322,0,0,Colony city
+KS,2027000,Gorham,incorporated,25,A,376,"Gorham, KS",0,323,0,0,Gorham city
+KS,2063325,Scammon,incorporated,25,A,376,"Scammon, KS",0,324,0,0,Scammon city
+KS,2035475,Jewell,incorporated,25,A,370,"Jewell, KS",0,325,0,0,Jewell city
+KS,2043725,McCune,incorporated,25,A,370,"McCune, KS",0,326,0,0,McCune city
+KS,2001425,Almena,incorporated,25,A,363,"Almena, KS",0,327,0,0,Almena city
+KS,2026500,Glen Elder,incorporated,25,A,362,"Glen Elder, KS",0,328,0,0,Glen Elder city
+KS,2045700,Melvern,incorporated,25,A,356,"Melvern, KS",0,329,0,0,Melvern city
+KS,2030475,Hartford,incorporated,25,A,355,"Hartford, KS",0,330,0,0,Hartford city
+KS,2001625,Altoona,incorporated,25,A,354,"Altoona, KS",0,331,0,0,Altoona city
+KS,2028625,Greenleaf,incorporated,25,A,350,"Greenleaf, KS",0,332,0,0,Greenleaf city
+KS,2070357,The Highlands,incorporated,25,A,349,"The Highlands, KS",0,333,0,0,The Highlands city
+KS,2045250,Mayetta,incorporated,25,A,348,"Mayetta, KS",0,334,0,0,Mayetta city
+KS,2048825,Mound Valley,incorporated,25,A,348,"Mound Valley, KS",0,335,0,0,Mound Valley city
+KS,2077550,Wetmore,incorporated,25,A,348,"Wetmore, KS",0,336,0,0,Wetmore city
+KS,2047600,Moline,incorporated,25,A,345,"Moline, KS",0,337,0,0,Moline city
+KS,2063350,Scandia,incorporated,25,A,344,"Scandia, KS",0,338,0,0,Scandia city
+KS,2037325,Kismet,incorporated,25,A,340,"Kismet, KS",0,339,0,0,Kismet city
+KS,2043150,Lucas,incorporated,25,A,332,"Lucas, KS",0,340,0,0,Lucas city
+KS,2066650,South Haven,incorporated,25,A,324,"South Haven, KS",0,341,0,0,South Haven city
+KS,2027200,Grainfield,incorporated,25,A,322,"Grainfield, KS",0,342,0,0,Grainfield city
+KS,2033075,Hope,incorporated,25,A,317,"Hope, KS",0,343,0,0,Hope city
+KS,2028850,Gridley,incorporated,25,A,313,"Gridley, KS",0,344,0,0,Gridley city
+KS,2071800,Turon,incorporated,25,A,309,"Turon, KS",0,345,0,0,Turon city
+KS,2008475,Bronson,incorporated,25,A,304,"Bronson, KS",0,346,0,0,Bronson city
+KS,2017600,Delphos,incorporated,25,A,302,"Delphos, KS",0,347,0,0,Delphos city
+KS,2049425,Natoma,incorporated,25,A,302,"Natoma, KS",0,348,0,0,Natoma city
+KS,2053525,Otis,incorporated,25,A,296,"Otis, KS",0,349,0,0,Otis city
+KS,2016025,Courtland,incorporated,25,A,294,"Courtland, KS",0,350,0,0,Courtland city
+KS,2072525,Uniontown,incorporated,25,A,293,"Uniontown, KS",0,351,0,0,Uniontown city
+KS,2008425,Brewster,incorporated,25,A,291,"Brewster, KS",0,352,0,0,Brewster city
+KS,2069775,Sylvan Grove,incorporated,25,A,291,"Sylvan Grove, KS",0,353,0,0,Sylvan Grove city
+KS,2042650,Longton,incorporated,25,A,288,"Longton, KS",0,354,0,0,Longton city
+KS,2058100,Quenemo,incorporated,25,A,288,"Quenemo, KS",0,355,0,0,Quenemo city
+KS,2004775,Bazine,incorporated,25,A,282,"Bazine, KS",0,356,0,0,Bazine city
+KS,2028350,Greeley,incorporated,25,A,273,"Greeley, KS",0,357,0,0,Greeley city
+KS,2043775,McFarland,incorporated,25,A,272,"McFarland, KS",0,358,0,0,McFarland city
+KS,2048600,Moscow,incorporated,25,A,272,"Moscow, KS",0,359,0,0,Moscow city
+KS,2022025,Everest,incorporated,25,A,265,"Everest, KS",0,360,0,0,Everest city
+KS,2070250,Tescott,incorporated,25,A,265,"Tescott, KS",0,361,0,0,Tescott city
+KS,2020250,Elk City,incorporated,25,A,260,"Elk City, KS",0,362,0,0,Elk City city
+KS,2028900,Grinnell,incorporated,25,A,260,"Grinnell, KS",0,363,0,0,Grinnell city
+KS,2058500,Ransom,incorporated,25,A,260,"Ransom, KS",0,364,0,0,Ransom city
+KS,2029925,Hanston,incorporated,25,A,259,"Hanston, KS",0,365,0,0,Hanston city
+KS,2002175,Arcadia,incorporated,25,A,254,"Arcadia, KS",0,366,0,0,Arcadia city
+KS,2034225,Ingalls,incorporated,25,A,252,"Ingalls, KS",0,367,0,0,Ingalls city
+KS,2015475,Copeland,incorporated,25,A,251,"Copeland, KS",0,368,0,0,Copeland city
+KS,2057725,Princeton,incorporated,25,A,248,"Princeton, KS",0,369,0,0,Princeton city
+KS,2008575,Brookville,incorporated,25,A,247,"Brookville, KS",0,370,0,0,Brookville city
+KS,2038325,Lancaster,incorporated,25,A,246,"Lancaster, KS",0,371,0,0,Lancaster city
+KS,2038400,Lane,incorporated,25,A,241,"Lane, KS",0,372,0,0,Lane city
+KS,2054500,Parker,incorporated,25,A,241,"Parker, KS",0,373,0,0,Parker city
+KS,2022425,Fairview,incorporated,25,A,240,"Fairview, KS",0,374,0,0,Fairview city
+KS,2034975,Jamestown,incorporated,25,A,237,"Jamestown, KS",0,375,0,0,Jamestown city
+KS,2026075,Geneseo,incorporated,25,A,236,"Geneseo, KS",0,376,0,0,Geneseo city
+KS,2009450,Burns,incorporated,25,A,234,"Burns, KS",0,377,0,0,Burns city
+KS,2049875,Neosho Rapids,incorporated,25,A,229,"Neosho Rapids, KS",0,378,0,0,Neosho Rapids city
+KS,2009275,Burdett,incorporated,25,A,228,"Burdett, KS",0,379,0,0,Burdett city
+KS,2020050,Elbing,incorporated,25,A,226,"Elbing, KS",0,380,0,0,Elbing city
+KS,2017925,Dexter,incorporated,25,A,224,"Dexter, KS",0,381,0,0,Dexter city
+KS,2007600,Blue Mound,incorporated,25,A,219,"Blue Mound, KS",0,382,0,0,Blue Mound city
+KS,2075200,Walton,incorporated,25,A,219,"Walton, KS",0,383,0,0,Walton city
+KS,2048300,Morrill,incorporated,25,A,218,"Morrill, KS",0,384,0,0,Morrill city
+KS,2052825,Olsburg,incorporated,25,A,218,"Olsburg, KS",0,385,0,0,Olsburg city
+KS,2009150,Buffalo,incorporated,25,A,217,"Buffalo, KS",0,386,0,0,Buffalo city
+KS,2019125,Dwight,incorporated,25,A,217,"Dwight, KS",0,387,0,0,Dwight city
+KS,2069800,Sylvia,incorporated,25,A,215,"Sylvia, KS",0,388,0,0,Sylvia city
+KS,2019600,Easton,incorporated,25,A,213,"Easton, KS",0,389,0,0,Easton city
+KS,2015725,Corning,incorporated,25,A,212,"Corning, KS",0,390,0,0,Corning city
+KS,2023650,Fontana,incorporated,25,A,210,"Fontana, KS",0,391,0,0,Fontana city
+KS,2054950,Paxico,incorporated,25,A,210,"Paxico, KS",0,392,0,0,Paxico city
+KS,2054700,Partridge,incorporated,25,A,209,"Partridge, KS",0,393,0,0,Partridge city
+KS,2000550,Agra,incorporated,25,A,208,"Agra, KS",0,394,0,0,Agra city
+KS,2054125,Palco,incorporated,25,A,208,"Palco, KS",0,395,0,0,Palco city
+KS,2039400,Lenora,incorporated,25,A,207,"Lenora, KS",0,396,0,0,Lenora city
+KS,2057650,Prescott,incorporated,25,A,207,"Prescott, KS",0,397,0,0,Prescott city
+KS,2071050,Toronto,incorporated,25,A,206,"Toronto, KS",0,398,0,0,Toronto city
+KS,2064050,Severy,incorporated,25,A,205,"Severy, KS",0,399,0,0,Severy city
+KS,2009700,Bushton,incorporated,25,A,203,"Bushton, KS",0,400,0,0,Bushton city
+KS,2023725,Ford,incorporated,25,A,203,"Ford, KS",0,401,0,0,Ford city
+KS,2047425,Mission Woods,incorporated,25,A,203,"Mission Woods, KS",0,402,0,0,Mission Woods city
+KS,2004900,Beattie,incorporated,25,A,197,"Beattie, KS",0,403,0,0,Beattie city
+KS,2049075,Mullinville,incorporated,25,A,197,"Mullinville, KS",0,404,0,0,Mullinville city
+KS,2059125,Rexford,incorporated,25,A,197,"Rexford, KS",0,405,0,0,Rexford city
+KS,2054875,Pawnee Rock,incorporated,25,A,193,"Pawnee Rock, KS",0,406,0,0,Pawnee Rock city
+KS,2070675,Tipton,incorporated,25,A,193,"Tipton, KS",0,407,0,0,Tipton city
+KS,2080075,Winona,incorporated,25,A,193,"Winona, KS",0,408,0,0,Winona city
+KS,2078100,Whiting,incorporated,25,A,191,"Whiting, KS",0,409,0,0,Whiting city
+KS,2074950,Walnut,incorporated,25,A,187,"Walnut, KS",0,410,0,0,Walnut city
+KS,2063875,Selden,incorporated,25,A,184,"Selden, KS",0,411,0,0,Selden city
+KS,2060325,Robinson,incorporated,25,A,183,"Robinson, KS",0,412,0,0,Robinson city
+KS,2029675,Hamilton,incorporated,25,A,182,"Hamilton, KS",0,413,0,0,Hamilton city
+KS,2058600,Reading,incorporated,25,A,181,"Reading, KS",0,414,0,0,Reading city
+KS,2048225,Morganville,incorporated,25,A,180,"Morganville, KS",0,415,0,0,Morganville city
+KS,2006950,Bison,incorporated,25,A,179,"Bison, KS",0,416,0,0,Bison city
+KS,2052200,Offerle,incorporated,25,A,179,"Offerle, KS",0,417,0,0,Offerle city
+KS,2030575,Harveyville,incorporated,25,A,178,"Harveyville, KS",0,418,0,0,Harveyville city
+KS,2039100,Lebanon,incorporated,25,A,178,"Lebanon, KS",0,419,0,0,Lebanon city
+KS,2005925,Belvue,incorporated,25,A,177,"Belvue, KS",0,420,0,0,Belvue city
+KS,2071925,Tyro,incorporated,25,A,177,"Tyro, KS",0,421,0,0,Tyro city
+KS,2021100,Emmett,incorporated,25,A,170,"Emmett, KS",0,422,0,0,Emmett city
+KS,2063425,Schoenchen,incorporated,25,A,170,"Schoenchen, KS",0,423,0,0,Schoenchen city
+KS,2003050,Atlanta,incorporated,25,A,168,"Atlanta, KS",0,424,0,0,Atlanta city
+KS,2041325,Lincolnville,incorporated,25,A,168,"Lincolnville, KS",0,425,0,0,Lincolnville city
+KS,2030000,Hardtner,incorporated,25,A,167,"Hardtner, KS",0,426,0,0,Hardtner city
+KS,2021400,Ensign,incorporated,25,A,166,"Ensign, KS",0,427,0,0,Ensign city
+KS,2043250,Luray,incorporated,25,A,166,"Luray, KS",0,428,0,0,Luray city
+KS,2004250,Barnes,incorporated,25,A,165,"Barnes, KS",0,429,0,0,Barnes city
+KS,2024925,Fulton,incorporated,25,A,165,"Fulton, KS",0,430,0,0,Fulton city
+KS,2058525,Rantoul,incorporated,25,A,165,"Rantoul, KS",0,431,0,0,Rantoul city
+KS,2066100,Smolan,incorporated,25,A,162,"Smolan, KS",0,432,0,0,Smolan city
+KS,2006275,Bern,incorporated,25,A,161,"Bern, KS",0,433,0,0,Bern city
+KS,2039225,Lehigh,incorporated,25,A,161,"Lehigh, KS",0,434,0,0,Lehigh city
+KS,2001275,Allen,incorporated,25,A,160,"Allen, KS",0,435,0,0,Allen city
+KS,2050925,Norcatur,incorporated,25,A,159,"Norcatur, KS",0,436,0,0,Norcatur city
+KS,2058475,Randolph,incorporated,25,A,159,"Randolph, KS",0,437,0,0,Randolph city
+KS,2026200,Geuda Springs,incorporated,25,A,158,"Geuda Springs, KS",0,438,0,0,Geuda Springs city
+KS,2080350,Woodbine,incorporated,25,A,157,"Woodbine, KS",0,439,0,0,Woodbine city
+KS,2007825,Bogue,incorporated,25,A,155,"Bogue, KS",0,440,0,0,Bogue city
+KS,2049325,Muscotah,incorporated,25,A,155,"Muscotah, KS",0,441,0,0,Muscotah city
+KS,2077150,West Mineral,incorporated,25,A,154,"West Mineral, KS",0,442,0,0,West Mineral city
+KS,2013375,Circleville,incorporated,25,A,153,"Circleville, KS",0,443,0,0,Circleville city
+KS,2035975,Kanorado,incorporated,25,A,153,"Kanorado, KS",0,444,0,0,Kanorado city
+KS,2043700,McCracken,incorporated,25,A,152,"McCracken, KS",0,445,0,0,McCracken city
+KS,2017525,Delia,incorporated,25,A,151,"Delia, KS",0,446,0,0,Delia city
+KS,2025750,Garfield,incorporated,25,A,151,"Garfield, KS",0,447,0,0,Garfield city
+KS,2028800,Grenola,incorporated,25,A,151,"Grenola, KS",0,448,0,0,Grenola city
+KS,2034625,Iuka,incorporated,25,A,151,"Iuka, KS",0,449,0,0,Iuka city
+KS,2025150,Galesburg,incorporated,25,A,149,"Galesburg, KS",0,450,0,0,Galesburg city
+KS,2064325,Sharon,incorporated,25,A,147,"Sharon, KS",0,451,0,0,Sharon city
+KS,2017625,Denison,incorporated,25,A,146,"Denison, KS",0,452,0,0,Denison city
+KS,2018325,Dorrance,incorporated,25,A,146,"Dorrance, KS",0,453,0,0,Dorrance city
+KS,2061775,Rush Center,incorporated,25,A,141,"Rush Center, KS",0,454,0,0,Rush Center city
+KS,2009525,Burr Oak,incorporated,25,A,140,"Burr Oak, KS",0,455,0,0,Burr Oak city
+KS,2016625,Cuba,incorporated,25,A,140,"Cuba, KS",0,456,0,0,Cuba city
+KS,2037275,Kirwin,incorporated,25,A,139,"Kirwin, KS",0,457,0,0,Kirwin city
+KS,2049950,Netawaka,incorporated,25,A,139,"Netawaka, KS",0,458,0,0,Netawaka city
+KS,2079650,Wilsey,incorporated,25,A,139,"Wilsey, KS",0,459,0,0,Wilsey city
+KS,2042600,Long Island,incorporated,25,A,137,"Long Island, KS",0,460,0,0,Long Island city
+KS,2042800,Lorraine,incorporated,25,A,137,"Lorraine, KS",0,461,0,0,Lorraine city
+KS,2006500,Beverly,incorporated,25,A,135,"Beverly, KS",0,462,0,0,Beverly city
+KS,2049825,Neosho Falls,incorporated,25,A,134,"Neosho Falls, KS",0,463,0,0,Neosho Falls city
+KS,2000825,Albert,incorporated,25,A,132,"Albert, KS",0,464,0,0,Albert city
+KS,2044375,Manter,incorporated,25,A,132,"Manter, KS",0,465,0,0,Manter city
+KS,2022775,Fall River,incorporated,25,A,131,"Fall River, KS",0,466,0,0,Fall River city
+KS,2042925,Louisville,incorporated,25,A,131,"Louisville, KS",0,467,0,0,Louisville city
+KS,2000325,Admire,incorporated,25,A,130,"Admire, KS",0,468,0,0,Admire city
+KS,2017750,Denton,incorporated,25,A,130,"Denton, KS",0,469,0,0,Denton city
+KS,2077250,Westphalia,incorporated,25,A,128,"Westphalia, KS",0,470,0,0,Westphalia city
+KS,2054200,Palmer,incorporated,25,A,125,"Palmer, KS",0,471,0,0,Palmer city
+KS,2068950,Summerfield,incorporated,25,A,125,"Summerfield, KS",0,472,0,0,Summerfield city
+KS,2000950,Alden,incorporated,25,A,122,"Alden, KS",0,473,0,0,Alden city
+KS,2030775,Havensville,incorporated,25,A,119,"Havensville, KS",0,474,0,0,Havensville city
+KS,2031475,Herndon,incorporated,25,A,119,"Herndon, KS",0,475,0,0,Herndon city
+KS,2048275,Morland,incorporated,25,A,115,"Morland, KS",0,476,0,0,Morland city
+KS,2057675,Preston,incorporated,25,A,115,"Preston, KS",0,477,0,0,Preston city
+KS,2074025,Viola,incorporated,25,A,115,"Viola, KS",0,478,0,0,Viola city
+KS,2077850,White Cloud,incorporated,25,A,115,"White Cloud, KS",0,479,0,0,White Cloud city
+KS,2016700,Culver,incorporated,25,A,114,"Culver, KS",0,480,0,0,Culver city
+KS,2048450,Morrowville,incorporated,25,A,114,"Morrowville, KS",0,481,0,0,Morrowville city
+KS,2010925,Cassoday,incorporated,25,A,113,"Cassoday, KS",0,482,0,0,Cassoday city
+KS,2020300,Elk Falls,incorporated,25,A,113,"Elk Falls, KS",0,483,0,0,Elk Falls city
+KS,2043750,McDonald,incorporated,25,A,113,"McDonald, KS",0,484,0,0,McDonald city
+KS,2016975,Damar,incorporated,25,A,112,"Damar, KS",0,485,0,0,Damar city
+KS,2054400,Park,incorporated,25,A,112,"Park, KS",0,486,0,0,Park city
+KS,2029400,Haddam,incorporated,25,A,110,"Haddam, KS",0,487,0,0,Haddam city
+KS,2012675,Chautauqua,incorporated,25,A,108,"Chautauqua, KS",0,488,0,0,Chautauqua city
+KS,2026775,Goff,incorporated,25,A,106,"Goff, KS",0,489,0,0,Goff city
+KS,2050300,New Cambria,incorporated,25,A,106,"New Cambria, KS",0,490,0,0,New Cambria city
+KS,2057525,Prairie View,incorporated,25,A,106,"Prairie View, KS",0,491,0,0,Prairie View city
+KS,2070000,Tampa,incorporated,25,A,105,"Tampa, KS",0,492,0,0,Tampa city
+KS,2009225,Bunker Hill,incorporated,25,A,103,"Bunker Hill, KS",0,493,0,0,Bunker Hill city
+KS,2036875,Kincaid,incorporated,25,A,103,"Kincaid, KS",0,494,0,0,Kincaid city
+KS,2033150,Horace,incorporated,25,A,102,"Horace, KS",0,495,0,0,Horace city
+KS,2061600,Rozel,incorporated,25,A,102,"Rozel, KS",0,496,0,0,Rozel city
+KS,2066175,Soldier,incorporated,25,A,102,"Soldier, KS",0,497,0,0,Soldier city
+KS,2055525,Peru,incorporated,25,A,101,"Peru, KS",0,498,0,0,Peru city
+KS,2001600,Alton,incorporated,25,A,100,"Alton, KS",0,499,0,0,Alton city
+KS,2040250,Liberty,incorporated,25,A,99,"Liberty, KS",0,500,0,0,Liberty city
+KS,2072650,Utica,incorporated,25,A,99,"Utica, KS",0,501,0,0,Utica city
+KS,2026050,Gem,incorporated,25,A,98,"Gem, KS",0,502,0,0,Gem city
+KS,2077700,Wheaton,incorporated,25,A,98,"Wheaton, KS",0,503,0,0,Wheaton city
+KS,2005825,Belpre,incorporated,25,A,97,"Belpre, KS",0,504,0,0,Belpre city
+KS,2014900,Collyer,incorporated,25,A,97,"Collyer, KS",0,505,0,0,Collyer city
+KS,2038775,Latham,incorporated,25,A,96,"Latham, KS",0,506,0,0,Latham city
+KS,2044550,Mapleton,incorporated,25,A,96,"Mapleton, KS",0,507,0,0,Mapleton city
+KS,2049150,Munden,incorporated,25,A,96,"Munden, KS",0,508,0,0,Munden city
+KS,2028425,Green,incorporated,25,A,95,"Green, KS",0,509,0,0,Green city
+KS,2033400,Hudson,incorporated,25,A,95,"Hudson, KS",0,510,0,0,Hudson city
+KS,2023825,Formoso,incorporated,25,A,94,"Formoso, KS",0,511,0,0,Formoso city
+KS,2080450,Woodston,incorporated,25,A,94,"Woodston, KS",0,512,0,0,Woodston city
+KS,2010125,Cambridge,incorporated,25,A,92,"Cambridge, KS",0,513,0,0,Cambridge city
+KS,2040400,Liebenthal,incorporated,25,A,92,"Liebenthal, KS",0,514,0,0,Liebenthal city
+KS,2031375,Hepler,incorporated,25,A,90,"Hepler, KS",0,515,0,0,Hepler city
+KS,2050750,Niotaze,incorporated,25,A,90,"Niotaze, KS",0,516,0,0,Niotaze city
+KS,2052750,Olmitz,incorporated,25,A,90,"Olmitz, KS",0,517,0,0,Olmitz city
+KS,2058725,Redfield,incorporated,25,A,90,"Redfield, KS",0,518,0,0,Redfield city
+KS,2019050,Durham,incorporated,25,A,89,"Durham, KS",0,519,0,0,Durham city
+KS,2063275,Sawyer,incorporated,25,A,89,"Sawyer, KS",0,520,0,0,Sawyer city
+KS,2081025,Zurich,incorporated,25,A,89,"Zurich, KS",0,521,0,0,Zurich city
+KS,2026000,Gaylord,incorporated,25,A,87,"Gaylord, KS",0,522,0,0,Gaylord city
+KS,2057100,Portis,incorporated,25,A,86,"Portis, KS",0,523,0,0,Portis city
+KS,2056725,Plevna,incorporated,25,A,85,"Plevna, KS",0,524,0,0,Plevna city
+KS,2058550,Raymond,incorporated,25,A,85,"Raymond, KS",0,525,0,0,Raymond city
+KS,2079850,Windom,incorporated,25,A,85,"Windom, KS",0,526,0,0,Windom city
+KS,2030700,Havana,incorporated,25,A,84,"Havana, KS",0,527,0,0,Havana city
+KS,2000100,Abbyville,incorporated,25,A,83,"Abbyville, KS",0,528,0,0,Abbyville city
+KS,2016675,Cullison,incorporated,25,A,83,"Cullison, KS",0,529,0,0,Cullison city
+KS,2031150,Hazelton,incorporated,25,A,82,"Hazelton, KS",0,530,0,0,Hazelton city
+KS,2059000,Republic,incorporated,25,A,82,"Republic, KS",0,531,0,0,Republic city
+KS,2065650,Simpson,incorporated,25,A,82,"Simpson, KS",0,532,0,0,Simpson city
+KS,2035375,Jennings,incorporated,25,A,81,"Jennings, KS",0,533,0,0,Jennings city
+KS,2049350,Narka,incorporated,25,A,81,"Narka, KS",0,534,0,0,Narka city
+KS,2015400,Coolidge,incorporated,25,A,80,"Coolidge, KS",0,535,0,0,Coolidge city
+KS,2027125,Gove City,incorporated,25,A,80,"Gove City, KS",0,536,0,0,Gove City city
+KS,2058450,Randall,incorporated,25,A,79,"Randall, KS",0,537,0,0,Randall city
+KS,2058375,Ramona,incorporated,25,A,78,"Ramona, KS",0,538,0,0,Ramona city
+KS,2061275,Roseland,incorporated,25,A,76,"Roseland, KS",0,539,0,0,Roseland city
+KS,2064025,Severance,incorporated,25,A,76,"Severance, KS",0,540,0,0,Severance city
+KS,2073525,Vermillion,incorporated,25,A,76,"Vermillion, KS",0,541,0,0,Vermillion city
+KS,2045275,Mayfield,incorporated,25,A,75,"Mayfield, KS",0,542,0,0,Mayfield city
+KS,2033575,Huron,incorporated,25,A,74,"Huron, KS",0,543,0,0,Huron city
+KS,2063200,Savonburg,incorporated,25,A,74,"Savonburg, KS",0,544,0,0,Savonburg city
+KS,2079250,Willard,incorporated,25,A,74,"Willard, KS",0,545,0,0,Willard city
+KS,2042575,Longford,incorporated,25,A,73,"Longford, KS",0,546,0,0,Longford city
+KS,2052700,Olivet,incorporated,25,A,73,"Olivet, KS",0,547,0,0,Olivet city
+KS,2080925,Zenda,incorporated,25,A,72,"Zenda, KS",0,548,0,0,Zenda city
+KS,2079425,Willowbrook,incorporated,25,A,71,"Willowbrook, KS",0,549,0,0,Willowbrook city
+KS,2004350,Bartlett,incorporated,25,A,69,"Bartlett, KS",0,550,0,0,Bartlett city
+KS,2006000,Benedict,incorporated,25,A,69,"Benedict, KS",0,551,0,0,Benedict city
+KS,2021600,Esbon,incorporated,25,A,69,"Esbon, KS",0,552,0,0,Esbon city
+KS,2057350,Powhattan,incorporated,25,A,69,"Powhattan, KS",0,553,0,0,Powhattan city
+KS,2068025,Stark,incorporated,25,A,69,"Stark, KS",0,554,0,0,Stark city
+KS,2014525,Coats,incorporated,25,A,68,"Coats, KS",0,555,0,0,Coats city
+KS,2034550,Isabel,incorporated,25,A,68,"Isabel, KS",0,556,0,0,Isabel city
+KS,2059050,Reserve,incorporated,25,A,67,"Reserve, KS",0,557,0,0,Reserve city
+KS,2004225,Barnard,incorporated,25,A,64,"Barnard, KS",0,558,0,0,Barnard city
+KS,2052525,Oketo,incorporated,25,A,64,"Oketo, KS",0,559,0,0,Oketo city
+KS,2052900,Oneida,incorporated,25,A,61,"Oneida, KS",0,560,0,0,Oneida city
+KS,2067250,Spivey,incorporated,25,A,61,"Spivey, KS",0,561,0,0,Spivey city
+KS,2016150,Coyville,incorporated,25,A,60,"Coyville, KS",0,562,0,0,Coyville city
+KS,2019275,Earlton,incorporated,25,A,60,"Earlton, KS",0,563,0,0,Earlton city
+KS,2020125,Elgin,incorporated,25,A,60,"Elgin, KS",0,564,0,0,Elgin city
+KS,2021350,Englewood,incorporated,25,A,58,"Englewood, KS",0,565,0,0,Englewood city
+KS,2050150,New Albany,incorporated,25,A,57,"New Albany, KS",0,566,0,0,New Albany city
+KS,2003425,Aurora,incorporated,25,A,56,"Aurora, KS",0,567,0,0,Aurora city
+KS,2046450,Milan,incorporated,25,A,56,"Milan, KS",0,568,0,0,Milan city
+KS,2042825,Lost Springs,incorporated,25,A,55,"Lost Springs, KS",0,569,0,0,Lost Springs city
+KS,2001050,Alexander,incorporated,25,A,54,"Alexander, KS",0,570,0,0,Alexander city
+KS,2049400,Nashville,incorporated,25,A,54,"Nashville, KS",0,571,0,0,Nashville city
+KS,2026325,Glade,incorporated,25,A,52,"Glade, KS",0,572,0,0,Glade city
+KS,2033525,Hunter,incorporated,25,A,51,"Hunter, KS",0,573,0,0,Hunter city
+KS,2020875,Elsmore,incorporated,25,A,50,"Elsmore, KS",0,574,0,0,Elsmore city
+KS,2037375,Labette,incorporated,25,A,50,"Labette, KS",0,575,0,0,Labette city
+KS,2045150,Matfield Green,incorporated,25,A,49,"Matfield Green, KS",0,576,0,0,Matfield Green city
+KS,2074075,Virgil,incorporated,25,A,48,"Virgil, KS",0,577,0,0,Virgil city
+KS,2000475,Agenda,incorporated,25,A,47,"Agenda, KS",0,578,0,0,Agenda city
+KS,2044225,Manchester,incorporated,25,A,47,"Manchester, KS",0,579,0,0,Manchester city
+KS,2044150,Mahaska,incorporated,25,A,46,"Mahaska, KS",0,580,0,0,Mahaska city
+KS,2054575,Parkerville,incorporated,25,A,46,"Parkerville, KS",0,581,0,0,Parkerville city
+KS,2007775,Bluff City,incorporated,25,A,45,"Bluff City, KS",0,582,0,0,Bluff City city
+KS,2014275,Climax,incorporated,25,A,45,"Climax, KS",0,583,0,0,Climax city
+KS,2025050,Galatia,incorporated,25,A,45,"Galatia, KS",0,584,0,0,Galatia city
+KS,2013675,Clayton,incorporated,25,A,44,"Clayton, KS",0,585,0,0,Clayton city
+KS,2033500,Hunnewell,incorporated,25,A,44,"Hunnewell, KS",0,586,0,0,Hunnewell city
+KS,2018600,Dresden,incorporated,25,A,43,"Dresden, KS",0,587,0,0,Dresden city
+KS,2073950,Vining,incorporated,25,A,43,"Vining, KS",0,588,0,0,Vining city
+KS,2003025,Athol,incorporated,25,A,41,"Athol, KS",0,589,0,0,Athol city
+KS,2039475,Leona,incorporated,25,A,41,"Leona, KS",0,590,0,0,Leona city
+KS,2064100,Seward,incorporated,25,A,41,"Seward, KS",0,591,0,0,Seward city
+KS,2074750,Wallace,incorporated,25,A,41,"Wallace, KS",0,592,0,0,Wallace city
+KS,2010675,Carlton,incorporated,25,A,40,"Carlton, KS",0,593,0,0,Carlton city
+KS,2020675,Elmdale,incorporated,25,A,40,"Elmdale, KS",0,594,0,0,Elmdale city
+KS,2038500,Langdon,incorporated,25,A,39,"Langdon, KS",0,595,0,0,Langdon city
+KS,2009800,Byers,incorporated,25,A,38,"Byers, KS",0,596,0,0,Byers city
+KS,2070625,Timken,incorporated,25,A,38,"Timken, KS",0,597,0,0,Timken city
+KS,2067175,Speed,incorporated,25,A,37,"Speed, KS",0,598,0,0,Speed city
+KS,2069275,Sun City,incorporated,25,A,37,"Sun City, KS",0,599,0,0,Sun City city
+KS,2079550,Wilmore,incorporated,25,A,37,"Wilmore, KS",0,600,0,0,Wilmore city
+KS,2054325,Paradise,incorporated,25,A,35,"Paradise, KS",0,601,0,0,Paradise city
+KS,2045750,Menlo,incorporated,25,A,33,"Menlo, KS",0,602,0,0,Menlo city
+KS,2038800,Latimer,incorporated,25,A,31,"Latimer, KS",0,603,0,0,Latimer city
+KS,2069525,Susank,incorporated,25,A,31,"Susank, KS",0,604,0,0,Susank city
+KS,2059200,Richfield,incorporated,25,A,30,"Richfield, KS",0,605,0,0,Richfield city
+KS,2074575,Waldo,incorporated,25,A,30,"Waldo, KS",0,606,0,0,Waldo city
+KS,2076250,Webber,incorporated,25,A,30,"Webber, KS",0,607,0,0,Webber city
+KS,2017000,Danville,incorporated,25,A,29,"Danville, KS",0,608,0,0,Danville city
+KS,2019875,Edmond,incorporated,25,A,28,"Edmond, KS",0,609,0,0,Edmond city
+KS,2009675,Bushong,incorporated,25,A,27,"Bushong, KS",0,610,0,0,Bushong city
+KS,2018950,Dunlap,incorporated,25,A,27,"Dunlap, KS",0,611,0,0,Dunlap city
+KS,2042425,Lone Elm,incorporated,25,A,27,"Lone Elm, KS",0,612,0,0,Lone Elm city
+KS,2058300,Radium,incorporated,25,A,26,"Radium, KS",0,613,0,0,Radium city
+KS,2061875,Russell Springs,incorporated,25,A,26,"Russell Springs, KS",0,614,0,0,Russell Springs city
+KS,2063650,Scottsville,incorporated,25,A,26,"Scottsville, KS",0,615,0,0,Scottsville city
+KS,2029700,Hamlin,incorporated,25,A,25,"Hamlin, KS",0,616,0,0,Hamlin city
+KS,2051700,Oak Hill,incorporated,25,A,24,"Oak Hill, KS",0,617,0,0,Oak Hill city
+KS,2079400,Willis,incorporated,25,A,24,"Willis, KS",0,618,0,0,Willis city
+KS,2008675,Brownell,incorporated,25,A,23,"Brownell, KS",0,619,0,0,Brownell city
+KS,2011425,Cedar Point,incorporated,25,A,22,"Cedar Point, KS",0,620,0,0,Cedar Point city
+KS,2004450,Bassett,incorporated,25,A,20,"Bassett, KS",0,621,0,0,Bassett city
+KS,2055225,Penalosa,incorporated,25,A,18,"Penalosa, KS",0,622,0,0,Penalosa city
+KS,2011325,Cedar,incorporated,25,A,11,"Cedar, KS",0,623,0,0,Cedar city
+KS,2032650,Hollenberg,incorporated,25,A,10,"Hollenberg, KS",0,624,0,0,Hollenberg city
+KS,2074625,Waldron,incorporated,25,A,9,"Waldron, KS",0,625,0,0,Waldron city
+KS,2024550,Frederick,incorporated,25,I,8,"Frederick, KS",0,626,0,0,Frederick city
+KS,2028410,Greeley County,consolidated,UG,A,0,"Greeley County, KS",0,627,0,0,Greeley County unified government

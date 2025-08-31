@@ -1,51 +1,51 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-ID,1608830,Boise City,incorporated,25,A,235684,"Boise City, ID",0,1,93,0.372,Boise City city
-ID,1652120,Meridian,incorporated,25,A,117635,"Meridian, ID",0,2,26,0.104,Meridian city
-ID,1656260,Nampa,incorporated,25,A,100200,"Nampa, ID",0,3,17,0.068,Nampa city
-ID,1639700,Idaho Falls,incorporated,25,A,64818,"Idaho Falls, ID",0,4,12,0.048,Idaho Falls city
-ID,1612250,Caldwell,incorporated,25,A,59996,"Caldwell, ID",0,5,8,0.032,Caldwell city
-ID,1664090,Pocatello,incorporated,25,A,56320,"Pocatello, ID",0,6,8,0.032,Pocatello city
-ID,1616750,Coeur d'Alene,incorporated,25,A,54628,"Coeur d'Alene, ID",0,7,5,0.02,Coeur d'Alene city
-ID,1682810,Twin Falls,incorporated,25,A,51807,"Twin Falls, ID",0,8,6,0.024,Twin Falls city
-ID,1667420,Rexburg,incorporated,25,A,39409,"Rexburg, ID",0,9,5,0.02,Rexburg city
-ID,1664810,Post Falls,incorporated,25,A,38485,"Post Falls, ID",0,10,3,0.012,Post Falls city
-ID,1646540,Lewiston,incorporated,25,A,34203,"Lewiston, ID",0,11,3,0.012,Lewiston city
-ID,1623410,Eagle,incorporated,25,A,30346,"Eagle, ID",0,12,4,0.016,Eagle city
-ID,1654550,Moscow,incorporated,25,A,25435,"Moscow, ID",0,13,3,0.012,Moscow city
-ID,1644290,Kuna,incorporated,25,A,24011,"Kuna, ID",0,14,2,0.008,Kuna city
-ID,1601990,Ammon,incorporated,25,A,17694,"Ammon, ID",0,15,2,0.008,Ammon city
-ID,1654730,Mountain Home,incorporated,25,A,15979,"Mountain Home, ID",0,16,3,0.012,Mountain Home city
-ID,1614680,Chubbuck,incorporated,25,A,15570,"Chubbuck, ID",0,17,3,0.012,Chubbuck city
-ID,1636370,Hayden,incorporated,25,A,15570,"Hayden, ID",0,18,3,0.012,Hayden city
-ID,1641320,Jerome,incorporated,25,A,12349,"Jerome, ID",0,19,2,0.008,Jerome city
-ID,1607840,Blackfoot,incorporated,25,A,12346,"Blackfoot, ID",0,20,1,0.004,Blackfoot city
-ID,1629620,Garden City,incorporated,25,A,12316,"Garden City, ID",0,21,1,0.004,Garden City city
-ID,1611260,Burley,incorporated,25,A,11704,"Burley, ID",0,22,1,0.004,Burley city
-ID,1676870,Star,incorporated,25,A,11117,"Star, ID",0,23,1,0.004,Star city
-ID,1652660,Middleton,incorporated,25,A,9425,"Middleton, ID",0,24,1,0.004,Middleton city
-ID,1666340,Rathdrum,incorporated,25,A,9211,"Rathdrum, ID",0,25,1,0.004,Rathdrum city
-ID,1634390,Hailey,incorporated,25,A,9161,"Hailey, ID",0,26,1,0.004,Hailey city
-ID,1672100,Sandpoint,incorporated,25,A,8639,"Sandpoint, ID",0,27,1,0.004,Sandpoint city
-ID,1661300,Payette,incorporated,25,A,8127,"Payette, ID",0,28,2,0.008,Payette city
-ID,1625570,Emmett,incorporated,25,A,7647,"Emmett, ID",0,29,2,0.008,Emmett city
-ID,1670660,Rupert,incorporated,25,A,6082,"Rupert, ID",0,30,2,0.008,Rupert city
-ID,1628990,Fruitland,incorporated,25,A,6072,"Fruitland, ID",0,31,2,0.008,Fruitland city
-ID,1686140,Weiser,incorporated,25,A,5630,"Weiser, ID",0,32,2,0.008,Weiser city
-ID,1665260,Preston,incorporated,25,A,5591,"Preston, ID",0,33,2,0.008,Preston city
-ID,1667780,Rigby,incorporated,25,A,5038,"Rigby, ID",0,34,2,0.008,Rigby city
-ID,1673450,Shelley,incorporated,25,A,4785,"Shelley, ID",0,35,2,0.008,Shelley city
-ID,1643570,Kimberly,incorporated,25,A,4626,"Kimberly, ID",0,36,2,0.008,Kimberly city
-ID,1601900,American Falls,incorporated,25,A,4568,"American Falls, ID",0,37,2,0.008,American Falls city
-ID,1610810,Buhl,incorporated,25,A,4558,"Buhl, ID",0,38,2,0.008,Buhl city
-ID,1632140,Gooding,incorporated,25,A,3707,"Gooding, ID",0,39,2,0.008,Gooding city
-ID,1637360,Heyburn,incorporated,25,A,3700,"Heyburn, ID",0,40,2,0.008,Heyburn city
-ID,1648790,McCall,incorporated,25,A,3686,"McCall, ID",0,41,2,0.008,McCall city
-ID,1671020,St. Anthony,incorporated,25,A,3606,"St. Anthony, ID",0,42,1,0.004,St. Anthony city
-ID,1643030,Ketchum,incorporated,25,A,3555,"Ketchum, ID",0,43,1,0.004,Ketchum city
-ID,1632950,Grangeville,incorporated,25,A,3308,"Grangeville, ID",0,44,1,0.004,Grangeville city
-ID,1675195,Soda Springs,incorporated,25,A,3133,"Soda Springs, ID",0,45,1,0.004,Soda Springs city
-ID,1671650,Salmon,incorporated,25,A,3119,"Salmon, ID",0,46,1,0.004,Salmon city
-ID,1686320,Wendell,incorporated,25,A,2917,"Wendell, ID",0,47,1,0.004,Wendell city
+ID,1608830,Boise City,incorporated,25,A,235684,"Boise City, ID",0,1,37,0.37,Boise City city
+ID,1652120,Meridian,incorporated,25,A,117635,"Meridian, ID",0,2,11,0.11,Meridian city
+ID,1656260,Nampa,incorporated,25,A,100200,"Nampa, ID",0,3,6,0.06,Nampa city
+ID,1639700,Idaho Falls,incorporated,25,A,64818,"Idaho Falls, ID",0,4,4,0.04,Idaho Falls city
+ID,1612250,Caldwell,incorporated,25,A,59996,"Caldwell, ID",0,5,3,0.03,Caldwell city
+ID,1664090,Pocatello,incorporated,25,A,56320,"Pocatello, ID",0,6,4,0.04,Pocatello city
+ID,1616750,Coeur d'Alene,incorporated,25,A,54628,"Coeur d'Alene, ID",0,7,2,0.02,Coeur d'Alene city
+ID,1682810,Twin Falls,incorporated,25,A,51807,"Twin Falls, ID",0,8,3,0.03,Twin Falls city
+ID,1667420,Rexburg,incorporated,25,A,39409,"Rexburg, ID",0,9,3,0.03,Rexburg city
+ID,1664810,Post Falls,incorporated,25,A,38485,"Post Falls, ID",0,10,1,0.01,Post Falls city
+ID,1646540,Lewiston,incorporated,25,A,34203,"Lewiston, ID",0,11,1,0.01,Lewiston city
+ID,1623410,Eagle,incorporated,25,A,30346,"Eagle, ID",0,12,1,0.01,Eagle city
+ID,1654550,Moscow,incorporated,25,A,25435,"Moscow, ID",0,13,1,0.01,Moscow city
+ID,1644290,Kuna,incorporated,25,A,24011,"Kuna, ID",0,14,2,0.02,Kuna city
+ID,1601990,Ammon,incorporated,25,A,17694,"Ammon, ID",0,15,2,0.02,Ammon city
+ID,1654730,Mountain Home,incorporated,25,A,15979,"Mountain Home, ID",0,16,2,0.02,Mountain Home city
+ID,1614680,Chubbuck,incorporated,25,A,15570,"Chubbuck, ID",0,17,2,0.02,Chubbuck city
+ID,1636370,Hayden,incorporated,25,A,15570,"Hayden, ID",0,18,2,0.02,Hayden city
+ID,1641320,Jerome,incorporated,25,A,12349,"Jerome, ID",0,19,2,0.02,Jerome city
+ID,1607840,Blackfoot,incorporated,25,A,12346,"Blackfoot, ID",0,20,2,0.02,Blackfoot city
+ID,1629620,Garden City,incorporated,25,A,12316,"Garden City, ID",0,21,2,0.02,Garden City city
+ID,1611260,Burley,incorporated,25,A,11704,"Burley, ID",0,22,2,0.02,Burley city
+ID,1676870,Star,incorporated,25,A,11117,"Star, ID",0,23,1,0.01,Star city
+ID,1652660,Middleton,incorporated,25,A,9425,"Middleton, ID",0,24,1,0.01,Middleton city
+ID,1666340,Rathdrum,incorporated,25,A,9211,"Rathdrum, ID",0,25,1,0.01,Rathdrum city
+ID,1634390,Hailey,incorporated,25,A,9161,"Hailey, ID",0,26,1,0.01,Hailey city
+ID,1672100,Sandpoint,incorporated,25,A,8639,"Sandpoint, ID",0,27,1,0.01,Sandpoint city
+ID,1661300,Payette,incorporated,25,A,8127,"Payette, ID",0,28,0,0,Payette city
+ID,1625570,Emmett,incorporated,25,A,7647,"Emmett, ID",0,29,0,0,Emmett city
+ID,1670660,Rupert,incorporated,25,A,6082,"Rupert, ID",0,30,0,0,Rupert city
+ID,1628990,Fruitland,incorporated,25,A,6072,"Fruitland, ID",0,31,0,0,Fruitland city
+ID,1686140,Weiser,incorporated,25,A,5630,"Weiser, ID",0,32,0,0,Weiser city
+ID,1665260,Preston,incorporated,25,A,5591,"Preston, ID",0,33,0,0,Preston city
+ID,1667780,Rigby,incorporated,25,A,5038,"Rigby, ID",0,34,0,0,Rigby city
+ID,1673450,Shelley,incorporated,25,A,4785,"Shelley, ID",0,35,0,0,Shelley city
+ID,1643570,Kimberly,incorporated,25,A,4626,"Kimberly, ID",0,36,0,0,Kimberly city
+ID,1601900,American Falls,incorporated,25,A,4568,"American Falls, ID",0,37,0,0,American Falls city
+ID,1610810,Buhl,incorporated,25,A,4558,"Buhl, ID",0,38,0,0,Buhl city
+ID,1632140,Gooding,incorporated,25,A,3707,"Gooding, ID",0,39,0,0,Gooding city
+ID,1637360,Heyburn,incorporated,25,A,3700,"Heyburn, ID",0,40,0,0,Heyburn city
+ID,1648790,McCall,incorporated,25,A,3686,"McCall, ID",0,41,0,0,McCall city
+ID,1671020,St. Anthony,incorporated,25,A,3606,"St. Anthony, ID",0,42,0,0,St. Anthony city
+ID,1643030,Ketchum,incorporated,25,A,3555,"Ketchum, ID",0,43,0,0,Ketchum city
+ID,1632950,Grangeville,incorporated,25,A,3308,"Grangeville, ID",0,44,0,0,Grangeville city
+ID,1675195,Soda Springs,incorporated,25,A,3133,"Soda Springs, ID",0,45,0,0,Soda Springs city
+ID,1671650,Salmon,incorporated,25,A,3119,"Salmon, ID",0,46,0,0,Salmon city
+ID,1686320,Wendell,incorporated,25,A,2917,"Wendell, ID",0,47,0,0,Wendell city
 ID,1638170,Homedale,incorporated,25,A,2881,"Homedale, ID",0,48,0,0,Homedale city
 ID,1627730,Filer,incorporated,25,A,2738,"Filer, ID",0,49,0,0,Filer city
 ID,1640420,Iona,incorporated,25,A,2717,"Iona, ID",0,50,0,0,Iona city

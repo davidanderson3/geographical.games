@@ -14,6 +14,7 @@
   Options via env/flags:
     --step-deg=0.75   Spacing in degrees between lines (default 1.0)
     --both            Draw both parallels (lat) and meridians (lon) (default parallels only)
+    --force           Overwrite existing elevation.geojson
 */
 
 const fs = require('fs');
@@ -118,13 +119,14 @@ async function main(){
   const stepArg = argv.find(a=>a.startsWith('--step-deg='));
   const stepDeg = stepArg ? Math.max(0.1, Number(stepArg.split('=')[1])||1.0) : 1.0;
   const both = argv.includes('--both');
+  const force = argv.includes('--force');
   const targets = argv.filter(a=>/^[A-Z]{3}$/.test(a));
   const list = targets.length ? targets : getISO3List();
   console.log(`Generating topo lines for ${list.length} countries (step=${stepDeg}°, both=${both})`);
   for(const iso3 of list){
     try{
       const outPath = path.join(DATA_DIR, iso3, 'elevation.geojson');
-      if(fs.existsSync(outPath)) { console.log(`  ${iso3}: elevation exists — skipping`); continue; }
+      if(!force && fs.existsSync(outPath)) { console.log(`  ${iso3}: elevation exists — skipping (use --force to overwrite)`); continue; }
       const outline = getOutline(iso3);
       if(!outline){ console.warn(`  ${iso3}: no outline — skipping`); continue; }
       const mp = toMultiPolygon(outline);
@@ -141,4 +143,3 @@ async function main(){
 }
 
 main().catch(e=>{ console.error('FATAL', e && e.message || e); process.exit(1); });
-

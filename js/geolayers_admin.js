@@ -4,6 +4,13 @@ async function initGeolayersAdmin(){
   const frame = document.getElementById('geolayersFrame');
   if(!tabs || !controls || !frame) return;
 
+  const LS_KEYS = {
+    country: 'gl_admin_country',
+    layers: 'gl_admin_layers',
+    // Stores JSON: { ISO3: ["rivers","cities",...] }
+    approveByCountry: 'gl_admin_approve_by_country'
+  };
+
   // Populate countries list
   try{
     const res = await fetch('geolayers-game/public/countries.json');
@@ -29,6 +36,30 @@ async function initGeolayersAdmin(){
     return nameMap[n] || '';
   }
 
+  function getCurrentISO3(){
+    const input = document.getElementById('glCountry');
+    const iso = resolveISO3(input.value);
+    if(iso) return iso;
+    try{ return localStorage.getItem(LS_KEYS.country) || ''; }catch{ return ''; }
+  }
+
+  function readApproveMap(){
+    try{
+      const raw = localStorage.getItem(LS_KEYS.approveByCountry);
+      const obj = raw ? JSON.parse(raw) : {};
+      return (obj && typeof obj === 'object') ? obj : {};
+    }catch{ return {}; }
+  }
+  function writeApproveMap(map){
+    try{ localStorage.setItem(LS_KEYS.approveByCountry, JSON.stringify(map)); }catch{}
+  }
+  function updateApproveUIFromStorage(){
+    const iso3 = getCurrentISO3();
+    const map = readApproveMap();
+    const saved = Array.isArray(map[iso3]) ? map[iso3] : [];
+    document.querySelectorAll('.gl-approve').forEach(chk=>{ chk.checked = saved.includes(chk.value); });
+  }
+
   // Subtab switching
   tabs.querySelectorAll('.subtab-button').forEach(btn=>{
     btn.addEventListener('click', ()=>{
@@ -43,11 +74,16 @@ async function initGeolayersAdmin(){
       }catch{}
       if(mode==='admin'){
         controls.style.display='flex';
-        // Default admin view keeps current country, shows rivers
-        const url = new URL(frame.src, location.href);
+        // Build from saved state instead of forcing 'rivers'
+        const savedLayers = (localStorage.getItem(LS_KEYS.layers) || 'rivers');
+        const savedCountry = localStorage.getItem(LS_KEYS.country) || '';
+        const url = new URL('geolayers-game/public/index.v20250901.html', location.href);
         url.searchParams.set('admin','1');
-        url.searchParams.set('layers','rivers');
+        if(savedCountry) url.searchParams.set('country', savedCountry);
+        url.searchParams.set('layers', savedLayers);
         frame.src = url.toString();
+        // Reflect per-country approvals in the UI
+        updateApproveUIFromStorage();
       }else{
         controls.style.display='none';
         const url = new URL('geolayers-game/public/index.v20250901.html', location.href);
@@ -60,6 +96,8 @@ async function initGeolayersAdmin(){
   function updateFrame(){
     const iso3 = resolveISO3(document.getElementById('glCountry').value);
     const layers = Array.from(document.querySelectorAll('.gl-layer:checked')).map(i=>i.value).join(',');
+    try{ localStorage.setItem(LS_KEYS.layers, layers || 'rivers'); }catch{}
+    try{ if(iso3) localStorage.setItem(LS_KEYS.country, iso3); }catch{}
     const url = new URL('geolayers-game/public/index.v20250901.html', location.href);
     url.searchParams.set('admin','1');
     if(iso3) url.searchParams.set('country', iso3);
@@ -67,16 +105,66 @@ async function initGeolayersAdmin(){
     document.getElementById('geolayersFrame').src = url.toString();
   }
 
+  function sendLayerUpdate(){
+    const win = frame && frame.contentWindow;
+    if(!win) return;
+    const layers = Array.from(document.querySelectorAll('.gl-layer:checked')).map(i=>i.value);
+    try{ localStorage.setItem(LS_KEYS.layers, layers.join(',') || 'rivers'); }catch{}
+    try{
+      win.postMessage({ type:'geolayers:setLayers', layers }, '*');
+    }catch{}
+  }
+
+  let lastSentCountry = '';
+  function sendCountryUpdate(){
+    const iso3 = resolveISO3(document.getElementById('glCountry').value);
+    if(!iso3) return;
+    if(iso3 === lastSentCountry) return;
+    lastSentCountry = iso3;
+    try{ localStorage.setItem(LS_KEYS.country, iso3); }catch{}
+    const win = frame && frame.contentWindow;
+    if(!win) return;
+    try{ win.postMessage({ type:'geolayers:setCountry', country: iso3 }, '*'); }catch{}
+  }
+
   // Live update on layer checkbox change
   document.querySelectorAll('.gl-layer').forEach(chk=>{
-    chk.addEventListener('change', updateFrame);
+    chk.addEventListener('change', sendLayerUpdate);
   });
 
-  // Live update on country input (debounced)
+  // Live update on country input (debounced); use postMessage instead of reloading iframe
   const countryInput = document.getElementById('glCountry');
   let t=null;
-  countryInput.addEventListener('input', ()=>{ if(t) clearTimeout(t); t=setTimeout(updateFrame, 300); });
-  countryInput.addEventListener('change', updateFrame);
+  countryInput.addEventListener('input', ()=>{ if(t) clearTimeout(t); t=setTimeout(()=>{ sendCountryUpdate(); updateApproveUIFromStorage(); }, 700); });
+  countryInput.addEventListener('change', ()=>{ sendCountryUpdate(); updateApproveUIFromStorage(); });
+
+  // Restore saved state for country, layers, approvals
+  try{
+    const savedCountry = localStorage.getItem(LS_KEYS.country);
+    if(savedCountry){
+      // Try to set a friendly country name if present in datalist map
+      const nameMap = JSON.parse(document.getElementById('glCountry').dataset._codeMap || '{}');
+      const entry = Object.entries(nameMap).find(([,code])=>code===savedCountry);
+      if(entry){ countryInput.value = entry[0]; }
+      else { countryInput.value = savedCountry; }
+    }
+  }catch{}
+  try{
+    const savedLayers = (localStorage.getItem(LS_KEYS.layers) || 'rivers').split(',').map(s=>s.trim()).filter(Boolean);
+    document.querySelectorAll('.gl-layer').forEach(chk=>{ chk.checked = savedLayers.includes(chk.value); });
+  }catch{}
+  updateApproveUIFromStorage();
+
+  // Persist approvals when they change
+  document.querySelectorAll('.gl-approve').forEach(chk=>{
+    chk.addEventListener('change', ()=>{
+      const iso3 = getCurrentISO3();
+      const values = Array.from(document.querySelectorAll('.gl-approve:checked')).map(i=>i.value);
+      const map = readApproveMap();
+      map[iso3] = values;
+      writeApproveMap(map);
+    });
+  });
 
   // Initial update if admin tab active by default
   // Read gl=game|admin from URL

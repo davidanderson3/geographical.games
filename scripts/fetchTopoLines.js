@@ -70,7 +70,8 @@ async function fetchOverpass(bbox, includeSecondary, includeRail, opts={}, iso3)
   ].filter(Boolean);
   const hwBase = '^(motorway|trunk|primary' + (includeSecondary?'|secondary':'') + ')$';
   const alpha2 = iso3 ? (ALPHA2_BY_ALPHA3[iso3] || '') : '';
-  const areaBlock = iso3 ? `
+  const useArea = opts.useArea !== false && !!iso3;
+  const areaBlock = useArea ? `
   (
     area["ISO3166-1:alpha3"="${iso3}"];
     ${alpha2 ? `area["ISO3166-1"="${alpha2}"];` : ''}
@@ -80,11 +81,11 @@ async function fetchOverpass(bbox, includeSecondary, includeRail, opts={}, iso3)
   [out:json][timeout:${opts.timeoutSec||180}];
   ${areaBlock}
   (
-    way["highway"~"${hwBase}"]${iso3?'(area.a)':''}(${s},${w},${n},${e});
-    relation["highway"~"${hwBase}"]${iso3?'(area.a)':''}(${s},${w},${n},${e});
-    ${includeRail ? `way["railway"~"^(rail)$"]${iso3?'(area.a)':''}(${s},${w},${n},${e}); relation["railway"~"^(rail)$"]${iso3?'(area.a)':''}(${s},${w},${n},${e});` : ''}
+    way["highway"~"${hwBase}"]${useArea?'(area.a)':''}(${s},${w},${n},${e});
+    relation["highway"~"${hwBase}"]${useArea?'(area.a)':''}(${s},${w},${n},${e});
+    ${includeRail ? `way["railway"~"^(rail)$"]${useArea?'(area.a)':''}(${s},${w},${n},${e}); relation["railway"~"^(rail)$"]${useArea?'(area.a)':''}(${s},${w},${n},${e});` : ''}
   );
-  out body geom;
+  out geom;
   `;
   const attempts = opts.attempts || 5;
   let delay = opts.retryDelayMs || 2000;
@@ -92,7 +93,8 @@ async function fetchOverpass(bbox, includeSecondary, includeRail, opts={}, iso3)
   for(let i=0;i<attempts;i++){
     const endpoint = endpoints[i % endpoints.length];
     try{
-      const res = await fetch(endpoint, { method:'POST', body: q, headers:{ 'Content-Type':'text/plain' } });
+      const body = 'data=' + encodeURIComponent(q);
+      const res = await fetch(endpoint, { method:'POST', body, headers:{ 'Content-Type':'application/x-www-form-urlencoded; charset=UTF-8' } });
       if(!res.ok){
         const t=await res.text().catch(()=>res.statusText);
         if(res.status===429 || /rate_limited/i.test(t||'')) throw new Error(`429 Rate limited: ${t}`);
@@ -310,11 +312,53 @@ function subdivideBbox([s,w,n,e]){
 }
 
 async function processTile(bb, opts, depth=0){
-  const { includeSecondary, includeRail, simplifyKm, sleepMs, iso3, clipToOutlineMP } = opts;
+  const { includeSecondary, includeRail, simplifyKm, sleepMs, iso3, clipToOutlineMP, preferArea, debug, tileIndex, totalTiles } = opts;
   try{
-    const osm = await fetchOverpass(bb, includeSecondary, includeRail, { attempts: 6, retryDelayMs: 2500 }, iso3);
+    // First pass: try preferred mode (area+bbox or bbox-only)
+    let osm = await fetchOverpass(bb, includeSecondary, includeRail, { attempts: 6, retryDelayMs: 2500, useArea: !!preferArea }, iso3);
     const gj = osmToGeoJSON(osm, opts.seen);
     let feats = (gj && gj.features) ? gj.features : [];
+    if(debug){
+      const raw = Array.isArray(osm && osm.elements) ? osm.elements.length : 0;
+      console.log(`   ▶ tile${tileIndex?` ${tileIndex}/${totalTiles}`:''} ${preferArea?'area+bbox':'bbox'}: elements=${raw}, feats=${feats.length}`);
+    }
+    // If nothing returned, retry once with the opposite mode
+    if(!feats.length){
+      try{
+        osm = await fetchOverpass(bb, includeSecondary, includeRail, { attempts: 3, retryDelayMs: 2500, useArea: !preferArea }, iso3);
+        const gj2 = osmToGeoJSON(osm, opts.seen);
+        feats = (gj2 && gj2.features) ? gj2.features : [];
+        if(debug){
+          const raw2 = Array.isArray(osm && osm.elements) ? osm.elements.length : 0;
+          console.log(`     retry ${!preferArea?'area+bbox':'bbox'}: elements=${raw2}, feats=${feats.length}`);
+        }
+      }catch{}
+    }
+    // If still empty and depth < 1, subdivide once to reduce query size
+    if(!feats.length && depth < 1){
+      const subs = subdivideBbox(bb);
+      let out = [];
+      for(const sub of subs){
+        try{
+          const part = await processTile(sub, { includeSecondary, includeRail, simplifyKm, sleepMs, seen: opts.seen, iso3, clipToOutlineMP, preferArea, debug }, depth+1);
+          out = out.concat(part);
+        }catch(e){ /* swallow */ }
+        if(sleepMs) await sleep(sleepMs);
+      }
+      feats = out;
+    }
+    // If still empty and we didn't include secondary, try widening highways
+    if(!feats.length && !includeSecondary){
+      try{
+        const osm3 = await fetchOverpass(bb, true, includeRail, { attempts: 3, retryDelayMs: 2500, useArea: !!preferArea }, iso3);
+        const gj3 = osmToGeoJSON(osm3, opts.seen);
+        feats = (gj3 && gj3.features) ? gj3.features : [];
+        if(debug){
+          const raw3 = Array.isArray(osm3 && osm3.elements) ? osm3.elements.length : 0;
+          console.log(`     widen highway(+secondary): elements=${raw3}, feats=${feats.length}`);
+        }
+      }catch{}
+    }
     if (clipToOutlineMP) {
       const clipped=[];
       for(const f of feats){
@@ -367,10 +411,12 @@ async function main(){
   const argv = process.argv.slice(2);
   const includeSecondary = argv.includes('--include-secondary');
   const includeRail = argv.includes('--include-rail');
+  const preferNoArea = argv.includes('--no-area');
   const tileDegArg = argv.find(a=>a.startsWith('--tile-deg='));
   const tileDeg = tileDegArg ? Math.max(1, Math.min(20, Number(tileDegArg.split('=')[1])||10)) : 10;
   const sleepArg = argv.find(a=>a.startsWith('--sleep='));
   const sleepMs = sleepArg ? Math.max(0, Number(sleepArg.split('=')[1])||1500) : 1500;
+  const debug = argv.includes('--debug');
   const simpArg = argv.find(a=>a.startsWith('--simplify-km='));
   const simplifyKm = simpArg ? Math.max(0, Number(simpArg.split('=')[1])||0) : 0;
   const minBytesArg = argv.find(a=>a.startsWith('--min-bytes='));
@@ -382,6 +428,7 @@ async function main(){
   if(includeSecondary) banner += ' +secondary';
   if(includeRail) banner += ' +rail';
   if(simplifyKm) banner += ` simplify~${simplifyKm}km`;
+  if(preferNoArea) banner += ' (bbox-only preferred)';
   banner += force ? ' (force overwrite)' : ' (skip existing)';
   console.log(banner);
   for(const iso3 of list){
@@ -411,7 +458,7 @@ async function main(){
       const writer = createGeoJSONStreamWriter(outPath);
       for(let i=0;i<tiles.length;i++){
         const bb = tiles[i];
-        const feats = await processTile(bb, { includeSecondary, includeRail, simplifyKm, sleepMs, seen, iso3, clipToOutlineMP: clipMP });
+        const feats = await processTile(bb, { includeSecondary, includeRail, simplifyKm, sleepMs, seen, iso3, clipToOutlineMP: clipMP, preferArea: !preferNoArea, debug, tileIndex: i+1, totalTiles: tiles.length });
         writer.append(feats);
         total += feats.length;
         console.log(`   tile ${i+1}/${tiles.length}: +${feats.length} features`);

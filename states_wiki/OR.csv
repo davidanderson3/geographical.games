@@ -1,54 +1,54 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-OR,4159000,Portland,incorporated,25,A,652503,"Portland, OR",0,1,67,0.268,Portland city
-OR,4123850,Eugene,incorporated,25,A,176654,"Eugene, OR",0,2,28,0.112,Eugene city
-OR,4164900,Salem,incorporated,25,A,175535,"Salem, OR",0,3,27,0.108,Salem city
-OR,4131250,Gresham,incorporated,25,A,114247,"Gresham, OR",0,4,13,0.052,Gresham city
-OR,4134100,Hillsboro,incorporated,25,A,106447,"Hillsboro, OR",0,5,9,0.036,Hillsboro city
-OR,4105800,Bend,incorporated,25,A,99178,"Bend, OR",0,6,7,0.028,Bend city
-OR,4105350,Beaverton,incorporated,25,A,97494,"Beaverton, OR",0,7,7,0.028,Beaverton city
-OR,4147000,Medford,incorporated,25,A,85824,"Medford, OR",0,8,5,0.02,Medford city
-OR,4169600,Springfield,incorporated,25,A,61851,"Springfield, OR",0,9,4,0.016,Springfield city
-OR,4115800,Corvallis,incorporated,25,A,59922,"Corvallis, OR",0,10,5,0.02,Corvallis city
-OR,4101000,Albany,incorporated,25,A,56472,"Albany, OR",0,11,3,0.012,Albany city
-OR,4173650,Tigard,incorporated,25,A,54539,"Tigard, OR",0,12,3,0.012,Tigard city
-OR,4140550,Lake Oswego,incorporated,25,A,40731,"Lake Oswego, OR",0,13,4,0.016,Lake Oswego city
-OR,4138500,Keizer,incorporated,25,A,39376,"Keizer, OR",0,14,2,0.008,Keizer city
-OR,4130550,Grants Pass,incorporated,25,A,39189,"Grants Pass, OR",0,15,2,0.008,Grants Pass city
-OR,4155200,Oregon City,incorporated,25,A,37572,"Oregon City, OR",0,16,2,0.008,Oregon City city
-OR,4145000,McMinnville,incorporated,25,A,34319,"McMinnville, OR",0,17,3,0.012,McMinnville city
-OR,4161200,Redmond,incorporated,25,A,33274,"Redmond, OR",0,18,3,0.012,Redmond city
-OR,4174950,Tualatin,incorporated,25,A,27942,"Tualatin, OR",0,19,3,0.012,Tualatin city
-OR,4180150,West Linn,incorporated,25,A,27373,"West Linn, OR",0,20,3,0.012,West Linn city
-OR,4182800,Wilsonville,incorporated,25,A,26664,"Wilsonville, OR",0,21,2,0.008,Wilsonville city
-OR,4126200,Forest Grove,incorporated,25,A,26225,"Forest Grove, OR",0,22,1,0.004,Forest Grove city
-OR,4183750,Woodburn,incorporated,25,A,26013,"Woodburn, OR",0,23,1,0.004,Woodburn city
-OR,4152100,Newberg,incorporated,25,A,25138,"Newberg, OR",0,24,1,0.004,Newberg city
-OR,4132050,Happy Valley,incorporated,25,A,23733,"Happy Valley, OR",0,25,1,0.004,Happy Valley city
-OR,4163650,Roseburg,incorporated,25,A,23683,"Roseburg, OR",0,26,1,0.004,Roseburg city
-OR,4139700,Klamath Falls,incorporated,25,A,21813,"Klamath Falls, OR",0,27,1,0.004,Klamath Falls city
-OR,4103050,Ashland,incorporated,25,A,21360,"Ashland, OR",0,28,1,0.004,Ashland city
-OR,4148650,Milwaukie,incorporated,25,A,21119,"Milwaukie, OR",0,29,1,0.004,Milwaukie city
-OR,4167100,Sherwood,incorporated,25,A,20450,"Sherwood, OR",0,30,2,0.008,Sherwood city
-OR,4133700,Hermiston,incorporated,25,A,19354,"Hermiston, OR",0,31,2,0.008,Hermiston city
-OR,4112400,Central Point,incorporated,25,A,18997,"Central Point, OR",0,32,2,0.008,Central Point city
-OR,4141650,Lebanon,incorporated,25,A,18447,"Lebanon, OR",0,33,2,0.008,Lebanon city
-OR,4110750,Canby,incorporated,25,A,18171,"Canby, OR",0,34,2,0.008,Canby city
-OR,4157150,Pendleton,incorporated,25,A,17107,"Pendleton, OR",0,35,2,0.008,Pendleton city
-OR,4117700,Dallas,incorporated,25,A,16854,"Dallas, OR",0,36,2,0.008,Dallas city
-OR,4174850,Troutdale,incorporated,25,A,16300,"Troutdale, OR",0,37,2,0.008,Troutdale city
-OR,4172950,The Dalles,incorporated,25,A,16010,"The Dalles, OR",0,38,2,0.008,The Dalles city
-OR,4115250,Coos Bay,incorporated,25,A,15985,"Coos Bay, OR",0,39,2,0.008,Coos Bay city
-OR,4164600,St. Helens,incorporated,25,A,13817,"St. Helens, OR",0,40,2,0.008,St. Helens city
-OR,4140350,La Grande,incorporated,25,A,13026,"La Grande, OR",0,41,2,0.008,La Grande city
-OR,4115550,Cornelius,incorporated,25,A,12694,"Cornelius, OR",0,42,2,0.008,Cornelius city
-OR,4165250,Sandy,incorporated,25,A,12612,"Sandy, OR",0,43,2,0.008,Sandy city
-OR,4129000,Gladstone,incorporated,25,A,12017,"Gladstone, OR",0,44,2,0.008,Gladstone city
-OR,4154900,Ontario,incorporated,25,A,11645,"Ontario, OR",0,45,2,0.008,Ontario city
-OR,4149550,Monmouth,incorporated,25,A,11110,"Monmouth, OR",0,46,2,0.008,Monmouth city
-OR,4159850,Prineville,incorporated,25,A,10736,"Prineville, OR",0,47,2,0.008,Prineville city
-OR,4115950,Cottage Grove,incorporated,25,A,10574,"Cottage Grove, OR",0,48,2,0.008,Cottage Grove city
-OR,4167650,Silverton,incorporated,25,A,10484,"Silverton, OR",0,49,1,0.004,Silverton city
-OR,4124250,Fairview,incorporated,25,A,10424,"Fairview, OR",0,50,1,0.004,Fairview city
+OR,4159000,Portland,incorporated,25,A,652503,"Portland, OR",0,1,28,0.28,Portland city
+OR,4123850,Eugene,incorporated,25,A,176654,"Eugene, OR",0,2,11,0.11,Eugene city
+OR,4164900,Salem,incorporated,25,A,175535,"Salem, OR",0,3,10,0.1,Salem city
+OR,4131250,Gresham,incorporated,25,A,114247,"Gresham, OR",0,4,6,0.06,Gresham city
+OR,4134100,Hillsboro,incorporated,25,A,106447,"Hillsboro, OR",0,5,5,0.05,Hillsboro city
+OR,4105800,Bend,incorporated,25,A,99178,"Bend, OR",0,6,4,0.04,Bend city
+OR,4105350,Beaverton,incorporated,25,A,97494,"Beaverton, OR",0,7,2,0.02,Beaverton city
+OR,4147000,Medford,incorporated,25,A,85824,"Medford, OR",0,8,2,0.02,Medford city
+OR,4169600,Springfield,incorporated,25,A,61851,"Springfield, OR",0,9,3,0.03,Springfield city
+OR,4115800,Corvallis,incorporated,25,A,59922,"Corvallis, OR",0,10,3,0.03,Corvallis city
+OR,4101000,Albany,incorporated,25,A,56472,"Albany, OR",0,11,1,0.01,Albany city
+OR,4173650,Tigard,incorporated,25,A,54539,"Tigard, OR",0,12,1,0.01,Tigard city
+OR,4140550,Lake Oswego,incorporated,25,A,40731,"Lake Oswego, OR",0,13,1,0.01,Lake Oswego city
+OR,4138500,Keizer,incorporated,25,A,39376,"Keizer, OR",0,14,2,0.02,Keizer city
+OR,4130550,Grants Pass,incorporated,25,A,39189,"Grants Pass, OR",0,15,2,0.02,Grants Pass city
+OR,4155200,Oregon City,incorporated,25,A,37572,"Oregon City, OR",0,16,2,0.02,Oregon City city
+OR,4145000,McMinnville,incorporated,25,A,34319,"McMinnville, OR",0,17,2,0.02,McMinnville city
+OR,4161200,Redmond,incorporated,25,A,33274,"Redmond, OR",0,18,2,0.02,Redmond city
+OR,4174950,Tualatin,incorporated,25,A,27942,"Tualatin, OR",0,19,2,0.02,Tualatin city
+OR,4180150,West Linn,incorporated,25,A,27373,"West Linn, OR",0,20,2,0.02,West Linn city
+OR,4182800,Wilsonville,incorporated,25,A,26664,"Wilsonville, OR",0,21,2,0.02,Wilsonville city
+OR,4126200,Forest Grove,incorporated,25,A,26225,"Forest Grove, OR",0,22,2,0.02,Forest Grove city
+OR,4183750,Woodburn,incorporated,25,A,26013,"Woodburn, OR",0,23,2,0.02,Woodburn city
+OR,4152100,Newberg,incorporated,25,A,25138,"Newberg, OR",0,24,2,0.02,Newberg city
+OR,4132050,Happy Valley,incorporated,25,A,23733,"Happy Valley, OR",0,25,1,0.01,Happy Valley city
+OR,4163650,Roseburg,incorporated,25,A,23683,"Roseburg, OR",0,26,0,0,Roseburg city
+OR,4139700,Klamath Falls,incorporated,25,A,21813,"Klamath Falls, OR",0,27,0,0,Klamath Falls city
+OR,4103050,Ashland,incorporated,25,A,21360,"Ashland, OR",0,28,0,0,Ashland city
+OR,4148650,Milwaukie,incorporated,25,A,21119,"Milwaukie, OR",0,29,0,0,Milwaukie city
+OR,4167100,Sherwood,incorporated,25,A,20450,"Sherwood, OR",0,30,0,0,Sherwood city
+OR,4133700,Hermiston,incorporated,25,A,19354,"Hermiston, OR",0,31,0,0,Hermiston city
+OR,4112400,Central Point,incorporated,25,A,18997,"Central Point, OR",0,32,0,0,Central Point city
+OR,4141650,Lebanon,incorporated,25,A,18447,"Lebanon, OR",0,33,0,0,Lebanon city
+OR,4110750,Canby,incorporated,25,A,18171,"Canby, OR",0,34,0,0,Canby city
+OR,4157150,Pendleton,incorporated,25,A,17107,"Pendleton, OR",0,35,0,0,Pendleton city
+OR,4117700,Dallas,incorporated,25,A,16854,"Dallas, OR",0,36,0,0,Dallas city
+OR,4174850,Troutdale,incorporated,25,A,16300,"Troutdale, OR",0,37,0,0,Troutdale city
+OR,4172950,The Dalles,incorporated,25,A,16010,"The Dalles, OR",0,38,0,0,The Dalles city
+OR,4115250,Coos Bay,incorporated,25,A,15985,"Coos Bay, OR",0,39,0,0,Coos Bay city
+OR,4164600,St. Helens,incorporated,25,A,13817,"St. Helens, OR",0,40,0,0,St. Helens city
+OR,4140350,La Grande,incorporated,25,A,13026,"La Grande, OR",0,41,0,0,La Grande city
+OR,4115550,Cornelius,incorporated,25,A,12694,"Cornelius, OR",0,42,0,0,Cornelius city
+OR,4165250,Sandy,incorporated,25,A,12612,"Sandy, OR",0,43,0,0,Sandy city
+OR,4129000,Gladstone,incorporated,25,A,12017,"Gladstone, OR",0,44,0,0,Gladstone city
+OR,4154900,Ontario,incorporated,25,A,11645,"Ontario, OR",0,45,0,0,Ontario city
+OR,4149550,Monmouth,incorporated,25,A,11110,"Monmouth, OR",0,46,0,0,Monmouth city
+OR,4159850,Prineville,incorporated,25,A,10736,"Prineville, OR",0,47,0,0,Prineville city
+OR,4115950,Cottage Grove,incorporated,25,A,10574,"Cottage Grove, OR",0,48,0,0,Cottage Grove city
+OR,4167650,Silverton,incorporated,25,A,10484,"Silverton, OR",0,49,0,0,Silverton city
+OR,4124250,Fairview,incorporated,25,A,10424,"Fairview, OR",0,50,0,0,Fairview city
 OR,4153000,North Bend,incorporated,25,A,10317,"North Bend, OR",0,51,0,0,North Bend city
 OR,4152450,Newport,incorporated,25,A,10256,"Newport, OR",0,52,0,0,Newport city
 OR,4149450,Molalla,incorporated,25,A,10228,"Molalla, OR",0,53,0,0,Molalla city

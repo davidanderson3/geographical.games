@@ -1,50 +1,50 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-UT,4967000,Salt Lake City,incorporated,25,A,199723,"Salt Lake City, UT",0,1,93,0.372,Salt Lake City city
-UT,4983470,West Valley City,incorporated,25,A,140230,"West Valley City, UT",0,2,27,0.108,West Valley City city
-UT,4982950,West Jordan,incorporated,25,A,116961,"West Jordan, UT",0,3,15,0.06,West Jordan city
-UT,4962470,Provo,incorporated,25,A,115162,"Provo, UT",0,4,12,0.048,Provo city
-UT,4957300,Orem,incorporated,25,A,98129,"Orem, UT",0,5,8,0.032,Orem city
-UT,4967440,Sandy,incorporated,25,A,96904,"Sandy, UT",0,6,7,0.028,Sandy city
-UT,4965330,St. George,incorporated,25,A,95342,"St. George, UT",0,7,5,0.02,St. George city
-UT,4955980,Ogden,incorporated,25,A,87321,"Ogden, UT",0,8,5,0.02,Ogden city
-UT,4943660,Layton,incorporated,25,A,81773,"Layton, UT",0,9,5,0.02,Layton city
-UT,4970850,South Jordan,incorporated,25,A,77487,"South Jordan, UT",0,10,3,0.012,South Jordan city
-UT,4944320,Lehi,incorporated,25,A,75907,"Lehi, UT",0,11,3,0.012,Lehi city
-UT,4950150,Millcreek,incorporated,25,A,63380,"Millcreek, UT",0,12,4,0.016,Millcreek city
-UT,4975360,Taylorsville,incorporated,25,A,60448,"Taylorsville, UT",0,13,2,0.008,Taylorsville city
-UT,4934970,Herriman,incorporated,25,A,55144,"Herriman, UT",0,14,2,0.008,Herriman city
-UT,4945860,Logan,incorporated,25,A,52778,"Logan, UT",0,15,2,0.008,Logan city
-UT,4920120,Draper,incorporated,25,A,51017,"Draper, UT",0,16,3,0.012,Draper city
-UT,4953230,Murray,incorporated,25,A,50637,"Murray, UT",0,17,3,0.012,Murray city
-UT,4907690,Bountiful,incorporated,25,A,45762,"Bountiful, UT",0,18,3,0.012,Bountiful city
-UT,4964340,Riverton,incorporated,25,A,45285,"Riverton, UT",0,19,3,0.012,Riverton city
-UT,4920810,Eagle Mountain,incorporated,25,A,43623,"Eagle Mountain, UT",0,20,1,0.004,Eagle Mountain city
-UT,4971290,Spanish Fork,incorporated,25,A,42602,"Spanish Fork, UT",0,21,1,0.004,Spanish Fork city
-UT,4965110,Roy,incorporated,25,A,39306,"Roy, UT",0,22,1,0.004,Roy city
-UT,4960930,Pleasant Grove,incorporated,25,A,37726,"Pleasant Grove, UT",0,23,1,0.004,Pleasant Grove city
-UT,4967825,Saratoga Springs,incorporated,25,A,37696,"Saratoga Springs, UT",0,24,1,0.004,Saratoga Springs city
-UT,4940470,Kearns,incorporated,25,A,36723,"Kearns, UT",0,25,1,0.004,Kearns city
-UT,4949710,Midvale,incorporated,25,A,36028,"Midvale, UT",0,26,1,0.004,Midvale city
-UT,4976680,Tooele,incorporated,25,A,35742,"Tooele, UT",0,27,2,0.008,Tooele city
-UT,4972280,Springville,incorporated,25,A,35268,"Springville, UT",0,28,2,0.008,Springville city
-UT,4911320,Cedar City,incorporated,25,A,35235,"Cedar City, UT",0,29,2,0.008,Cedar City city
-UT,4916270,Cottonwood Heights,incorporated,25,A,33617,"Cottonwood Heights, UT",0,30,2,0.008,Cottonwood Heights city
-UT,4901310,American Fork,incorporated,25,A,33337,"American Fork, UT",0,31,2,0.008,American Fork city
-UT,4940360,Kaysville,incorporated,25,A,32945,"Kaysville, UT",0,32,2,0.008,Kaysville city
-UT,4974810,Syracuse,incorporated,25,A,32141,"Syracuse, UT",0,33,2,0.008,Syracuse city
-UT,4936070,Holladay,incorporated,25,A,31965,"Holladay, UT",0,34,2,0.008,Holladay city
-UT,4913850,Clearfield,incorporated,25,A,31909,"Clearfield, UT",0,35,2,0.008,Clearfield city
-UT,4947290,Magna,incorporated,25,A,29251,"Magna, UT",0,36,2,0.008,Magna city
-UT,4981960,Washington,incorporated,25,A,27993,"Washington, UT",0,37,2,0.008,Washington city
-UT,4971070,South Salt Lake,incorporated,25,A,26777,"South Salt Lake, UT",0,38,2,0.008,South Salt Lake city
-UT,4924740,Farmington,incorporated,25,A,24531,"Farmington, UT",0,39,2,0.008,Farmington city
-UT,4914290,Clinton,incorporated,25,A,23386,"Clinton, UT",0,40,2,0.008,Clinton city
-UT,4955210,North Salt Lake,incorporated,25,A,21907,"North Salt Lake, UT",0,41,2,0.008,North Salt Lake city
-UT,4958730,Payson,incorporated,25,A,21101,"Payson, UT",0,42,2,0.008,Payson city
-UT,4955100,North Ogden,incorporated,25,A,20916,"North Ogden, UT",0,43,2,0.008,North Ogden city
-UT,4937170,Hurricane,incorporated,25,A,20036,"Hurricane, UT",0,44,2,0.008,Hurricane city
-UT,4908460,Brigham City,incorporated,25,A,19650,"Brigham City, UT",0,45,1,0.004,Brigham City city
-UT,4935190,Highland,incorporated,25,A,19348,"Highland, UT",0,46,1,0.004,Highland city
+UT,4967000,Salt Lake City,incorporated,25,A,199723,"Salt Lake City, UT",0,1,38,0.38,Salt Lake City city
+UT,4983470,West Valley City,incorporated,25,A,140230,"West Valley City, UT",0,2,10,0.1,West Valley City city
+UT,4982950,West Jordan,incorporated,25,A,116961,"West Jordan, UT",0,3,6,0.06,West Jordan city
+UT,4962470,Provo,incorporated,25,A,115162,"Provo, UT",0,4,4,0.04,Provo city
+UT,4957300,Orem,incorporated,25,A,98129,"Orem, UT",0,5,3,0.03,Orem city
+UT,4967440,Sandy,incorporated,25,A,96904,"Sandy, UT",0,6,4,0.04,Sandy city
+UT,4965330,St. George,incorporated,25,A,95342,"St. George, UT",0,7,2,0.02,St. George city
+UT,4955980,Ogden,incorporated,25,A,87321,"Ogden, UT",0,8,3,0.03,Ogden city
+UT,4943660,Layton,incorporated,25,A,81773,"Layton, UT",0,9,3,0.03,Layton city
+UT,4970850,South Jordan,incorporated,25,A,77487,"South Jordan, UT",0,10,1,0.01,South Jordan city
+UT,4944320,Lehi,incorporated,25,A,75907,"Lehi, UT",0,11,1,0.01,Lehi city
+UT,4950150,Millcreek,incorporated,25,A,63380,"Millcreek, UT",0,12,1,0.01,Millcreek city
+UT,4975360,Taylorsville,incorporated,25,A,60448,"Taylorsville, UT",0,13,2,0.02,Taylorsville city
+UT,4934970,Herriman,incorporated,25,A,55144,"Herriman, UT",0,14,2,0.02,Herriman city
+UT,4945860,Logan,incorporated,25,A,52778,"Logan, UT",0,15,2,0.02,Logan city
+UT,4920120,Draper,incorporated,25,A,51017,"Draper, UT",0,16,2,0.02,Draper city
+UT,4953230,Murray,incorporated,25,A,50637,"Murray, UT",0,17,2,0.02,Murray city
+UT,4907690,Bountiful,incorporated,25,A,45762,"Bountiful, UT",0,18,2,0.02,Bountiful city
+UT,4964340,Riverton,incorporated,25,A,45285,"Riverton, UT",0,19,2,0.02,Riverton city
+UT,4920810,Eagle Mountain,incorporated,25,A,43623,"Eagle Mountain, UT",0,20,2,0.02,Eagle Mountain city
+UT,4971290,Spanish Fork,incorporated,25,A,42602,"Spanish Fork, UT",0,21,2,0.02,Spanish Fork city
+UT,4965110,Roy,incorporated,25,A,39306,"Roy, UT",0,22,2,0.02,Roy city
+UT,4960930,Pleasant Grove,incorporated,25,A,37726,"Pleasant Grove, UT",0,23,1,0.01,Pleasant Grove city
+UT,4967825,Saratoga Springs,incorporated,25,A,37696,"Saratoga Springs, UT",0,24,1,0.01,Saratoga Springs city
+UT,4940470,Kearns,incorporated,25,A,36723,"Kearns, UT",0,25,1,0.01,Kearns city
+UT,4949710,Midvale,incorporated,25,A,36028,"Midvale, UT",0,26,1,0.01,Midvale city
+UT,4976680,Tooele,incorporated,25,A,35742,"Tooele, UT",0,27,0,0,Tooele city
+UT,4972280,Springville,incorporated,25,A,35268,"Springville, UT",0,28,0,0,Springville city
+UT,4911320,Cedar City,incorporated,25,A,35235,"Cedar City, UT",0,29,0,0,Cedar City city
+UT,4916270,Cottonwood Heights,incorporated,25,A,33617,"Cottonwood Heights, UT",0,30,0,0,Cottonwood Heights city
+UT,4901310,American Fork,incorporated,25,A,33337,"American Fork, UT",0,31,0,0,American Fork city
+UT,4940360,Kaysville,incorporated,25,A,32945,"Kaysville, UT",0,32,0,0,Kaysville city
+UT,4974810,Syracuse,incorporated,25,A,32141,"Syracuse, UT",0,33,0,0,Syracuse city
+UT,4936070,Holladay,incorporated,25,A,31965,"Holladay, UT",0,34,0,0,Holladay city
+UT,4913850,Clearfield,incorporated,25,A,31909,"Clearfield, UT",0,35,0,0,Clearfield city
+UT,4947290,Magna,incorporated,25,A,29251,"Magna, UT",0,36,0,0,Magna city
+UT,4981960,Washington,incorporated,25,A,27993,"Washington, UT",0,37,0,0,Washington city
+UT,4971070,South Salt Lake,incorporated,25,A,26777,"South Salt Lake, UT",0,38,0,0,South Salt Lake city
+UT,4924740,Farmington,incorporated,25,A,24531,"Farmington, UT",0,39,0,0,Farmington city
+UT,4914290,Clinton,incorporated,25,A,23386,"Clinton, UT",0,40,0,0,Clinton city
+UT,4955210,North Salt Lake,incorporated,25,A,21907,"North Salt Lake, UT",0,41,0,0,North Salt Lake city
+UT,4958730,Payson,incorporated,25,A,21101,"Payson, UT",0,42,0,0,Payson city
+UT,4955100,North Ogden,incorporated,25,A,20916,"North Ogden, UT",0,43,0,0,North Ogden city
+UT,4937170,Hurricane,incorporated,25,A,20036,"Hurricane, UT",0,44,0,0,Hurricane city
+UT,4908460,Brigham City,incorporated,25,A,19650,"Brigham City, UT",0,45,0,0,Brigham City city
+UT,4935190,Highland,incorporated,25,A,19348,"Highland, UT",0,46,0,0,Highland city
 UT,4970960,South Ogden,incorporated,25,A,17488,"South Ogden, UT",0,47,0,0,South Ogden city
 UT,4906810,Bluffdale,incorporated,25,A,17014,"Bluffdale, UT",0,48,0,0,Bluffdale city
 UT,4911980,Centerville,incorporated,25,A,16884,"Centerville, UT",0,49,0,0,Centerville city

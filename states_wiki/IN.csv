@@ -1,2 +1,568 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-IN,1836000,Indianapolis,consolidated,25,A,0,"Indianapolis, IN",0,1,250,1,Indianapolis city
+IN,1836003,Indianapolis city (balance),incorporated,00,F,887642,"Indianapolis city (balance), IN",0,1,35,0.35,Indianapolis city (balance)
+IN,1825000,Fort Wayne,incorporated,25,A,263886,"Fort Wayne, IN",0,2,11,0.11,Fort Wayne city
+IN,1822000,Evansville,incorporated,25,A,117298,"Evansville, IN",0,3,7,0.07,Evansville city
+IN,1871000,South Bend,incorporated,25,A,103453,"South Bend, IN",0,4,4,0.04,South Bend city
+IN,1810342,Carmel,incorporated,25,A,99757,"Carmel, IN",0,5,3,0.03,Carmel city
+IN,1823278,Fishers,incorporated,25,A,98977,"Fishers, IN",0,6,3,0.03,Fishers city
+IN,1805860,Bloomington,incorporated,25,A,79168,"Bloomington, IN",0,7,2,0.02,Bloomington city
+IN,1831000,Hammond,incorporated,25,A,77879,"Hammond, IN",0,8,3,0.03,Hammond city
+IN,1840788,Lafayette,incorporated,25,A,70783,"Lafayette, IN",0,9,3,0.03,Lafayette city
+IN,1854180,Noblesville,incorporated,25,A,69604,"Noblesville, IN",0,10,1,0.01,Noblesville city
+IN,1827000,Gary,incorporated,25,A,69093,"Gary, IN",0,11,1,0.01,Gary city
+IN,1851876,Muncie,incorporated,25,A,65194,"Muncie, IN",0,12,1,0.01,Muncie city
+IN,1829898,Greenwood,incorporated,25,A,63830,"Greenwood, IN",0,13,2,0.02,Greenwood city
+IN,1840392,Kokomo,incorporated,25,A,59604,"Kokomo, IN",0,14,2,0.02,Kokomo city
+IN,1875428,Terre Haute,incorporated,25,A,58389,"Terre Haute, IN",0,15,2,0.02,Terre Haute city
+IN,1801468,Anderson,incorporated,25,A,54788,"Anderson, IN",0,16,2,0.02,Anderson city
+IN,1820728,Elkhart,incorporated,25,A,53923,"Elkhart, IN",0,17,2,0.02,Elkhart city
+IN,1849932,Mishawaka,incorporated,25,A,51063,"Mishawaka, IN",0,18,2,0.02,Mishawaka city
+IN,1814734,Columbus,incorporated,25,A,50474,"Columbus, IN",0,19,2,0.02,Columbus city
+IN,1838358,Jeffersonville,incorporated,25,A,49447,"Jeffersonville, IN",0,20,2,0.02,Jeffersonville city
+IN,1842426,Lawrence,incorporated,25,A,49370,"Lawrence, IN",0,21,2,0.02,Lawrence city
+IN,1882700,Westfield,incorporated,25,A,46410,"Westfield, IN",0,22,1,0.01,Westfield city
+IN,1882862,West Lafayette,incorporated,25,A,44595,"West Lafayette, IN",0,23,1,0.01,West Lafayette city
+IN,1861092,Portage,incorporated,25,A,37926,"Portage, IN",0,24,1,0.01,Portage city
+IN,1852326,New Albany,incorporated,25,A,37841,"New Albany, IN",0,25,1,0.01,New Albany city
+IN,1848528,Merrillville,incorporated,43,A,36444,"Merrillville, IN",0,26,1,0.01,Merrillville town
+IN,1864260,Richmond,incorporated,25,A,35720,"Richmond, IN",0,27,1,0.01,Richmond city
+IN,1860246,Plainfield,incorporated,43,A,34625,"Plainfield, IN",0,28,1,0.01,Plainfield town
+IN,1828386,Goshen,incorporated,25,A,34517,"Goshen, IN",0,29,1,0.01,Goshen city
+IN,1878326,Valparaiso,incorporated,25,A,34151,"Valparaiso, IN",0,30,0,0,Valparaiso city
+IN,1816138,Crown Point,incorporated,25,A,33899,"Crown Point, IN",0,31,0,0,Crown Point city
+IN,1848798,Michigan City,incorporated,25,A,32075,"Michigan City, IN",0,32,0,0,Michigan City city
+IN,1886372,Zionsville,incorporated,43,A,30603,"Zionsville, IN",0,33,0,0,Zionsville town
+IN,1834114,Hobart,incorporated,25,A,29752,"Hobart, IN",0,34,0,0,Hobart city
+IN,1868220,Schererville,incorporated,43,A,29646,"Schererville, IN",0,35,0,0,Schererville town
+IN,1808416,Brownsburg,incorporated,43,A,28973,"Brownsburg, IN",0,36,0,0,Brownsburg town
+IN,1846908,Marion,incorporated,25,A,28310,"Marion, IN",0,37,0,0,Marion city
+IN,1819486,East Chicago,incorporated,25,A,26370,"East Chicago, IN",0,38,0,0,East Chicago city
+IN,1825450,Franklin,incorporated,25,A,25313,"Franklin, IN",0,39,0,0,Franklin city
+IN,1833466,Highland,incorporated,43,A,23984,"Highland, IN",0,40,0,0,Highland town
+IN,1851912,Munster,incorporated,43,A,23894,"Munster, IN",0,41,0,0,Munster town
+IN,1829520,Greenfield,incorporated,25,A,23488,"Greenfield, IN",0,42,0,0,Greenfield city
+IN,1842246,La Porte,incorporated,25,A,22471,"La Porte, IN",0,43,0,0,La Porte city
+IN,1812934,Clarksville,incorporated,43,A,22333,"Clarksville, IN",0,44,0,0,Clarksville town
+IN,1868832,Seymour,incorporated,25,A,21569,"Seymour, IN",0,45,0,0,Seymour city
+IN,1802908,Avon,incorporated,43,A,21474,"Avon, IN",0,46,0,0,Avon town
+IN,1866852,St. John,incorporated,43,A,20303,"St. John, IN",0,47,0,0,St. John town
+IN,1869318,Shelbyville,incorporated,25,A,20067,"Shelbyville, IN",0,48,0,0,Shelbyville city
+IN,1844658,Logansport,incorporated,25,A,18366,"Logansport, IN",0,49,0,0,Logansport city
+IN,1852740,New Castle,incorporated,25,A,17396,"New Castle, IN",0,50,0,0,New Castle city
+IN,1835302,Huntington,incorporated,25,A,17022,"Huntington, IN",0,51,0,0,Huntington city
+IN,1879208,Vincennes,incorporated,25,A,16759,"Vincennes, IN",0,52,0,0,Vincennes city
+IN,1825324,Frankfort,incorporated,25,A,16715,"Frankfort, IN",0,53,0,0,Frankfort city
+IN,1837782,Jasper,incorporated,25,A,16703,"Jasper, IN",0,54,0,0,Jasper city
+IN,1842624,Lebanon,incorporated,25,A,16662,"Lebanon, IN",0,55,0,0,Lebanon city
+IN,1830042,Griffith,incorporated,43,A,16528,"Griffith, IN",0,56,0,0,Griffith town
+IN,1819270,Dyer,incorporated,43,A,16517,"Dyer, IN",0,57,0,0,Dyer town
+IN,1815742,Crawfordsville,incorporated,25,A,16306,"Crawfordsville, IN",0,58,0,0,Crawfordsville city
+IN,1880306,Warsaw,incorporated,25,A,15804,"Warsaw, IN",0,59,0,0,Warsaw city
+IN,1852992,New Haven,incorporated,25,A,15583,"New Haven, IN",0,60,0,0,New Haven city
+IN,1804204,Beech Grove,incorporated,25,A,14717,"Beech Grove, IN",0,61,0,0,Beech Grove city
+IN,1812412,Chesterton,incorporated,43,A,14241,"Chesterton, IN",0,62,0,0,Chesterton town
+IN,1811062,Cedar Lake,incorporated,43,A,14106,"Cedar Lake, IN",0,63,0,0,Cedar Lake town
+IN,1871828,Speedway,incorporated,43,A,13952,"Speedway, IN",0,64,0,0,Speedway town
+IN,1804114,Bedford,incorporated,25,A,13792,"Bedford, IN",0,65,0,0,Bedford city
+IN,1802674,Auburn,incorporated,25,A,13412,"Auburn, IN",0,66,0,0,Auburn city
+IN,1814932,Connersville,incorporated,25,A,13324,"Connersville, IN",0,67,0,0,Connersville city
+IN,1841535,Lake Station,incorporated,25,A,13235,"Lake Station, IN",0,68,0,0,Lake Station city
+IN,1845990,Madison,incorporated,25,A,12357,"Madison, IN",0,69,0,0,Madison city
+IN,1829718,Greensburg,incorporated,25,A,12312,"Greensburg, IN",0,70,0,0,Greensburg city
+IN,1880504,Washington,incorporated,25,A,12017,"Washington, IN",0,71,0,0,Washington city
+IN,1847448,Martinsville,incorporated,25,A,11932,"Martinsville, IN",0,72,0,0,Martinsville city
+IN,1886084,Yorktown,incorporated,43,A,11548,"Yorktown, IN",0,73,0,0,Yorktown town
+IN,1859328,Peru,incorporated,25,A,11073,"Peru, IN",0,74,0,0,Peru city
+IN,1845144,Lowell,incorporated,43,A,10680,"Lowell, IN",0,75,0,0,Lowell town
+IN,1816804,Danville,incorporated,43,A,10559,"Danville, IN",0,76,0,0,Danville town
+IN,1879370,Wabash,incorporated,25,A,10440,"Wabash, IN",0,77,0,0,Wabash city
+IN,1806220,Bluffton,incorporated,25,A,10308,"Bluffton, IN",0,78,0,0,Bluffton city
+IN,1839402,Kendallville,incorporated,25,A,10271,"Kendallville, IN",0,79,0,0,Kendallville city
+IN,1860822,Plymouth,incorporated,25,A,10214,"Plymouth, IN",0,80,0,0,Plymouth city
+IN,1884014,Whitestown,incorporated,43,A,10178,"Whitestown, IN",0,81,0,0,Whitestown town
+IN,1817074,Decatur,incorporated,25,A,9913,"Decatur, IN",0,82,0,0,Decatur city
+IN,1814716,Columbia City,incorporated,25,A,9892,"Columbia City, IN",0,83,0,0,Columbia City city
+IN,1829358,Greencastle,incorporated,25,A,9820,"Greencastle, IN",0,84,0,0,Greencastle city
+IN,1803394,Bargersville,incorporated,43,A,9560,"Bargersville, IN",0,85,0,0,Bargersville town
+IN,1850976,Mooresville,incorporated,43,A,9411,"Mooresville, IN",0,86,0,0,Mooresville town
+IN,1801666,Angola,incorporated,25,A,9340,"Angola, IN",0,87,0,0,Angola city
+IN,1868670,Sellersburg,incorporated,43,A,9310,"Sellersburg, IN",0,88,0,0,Sellersburg town
+IN,1835266,Huntertown,incorporated,43,A,9141,"Huntertown, IN",0,89,0,0,Huntertown town
+IN,1845648,McCordsville,incorporated,43,A,8503,"McCordsville, IN",0,90,0,0,McCordsville town
+IN,1821070,Elwood,incorporated,25,A,8410,"Elwood, IN",0,91,0,0,Elwood city
+IN,1862046,Princeton,incorporated,25,A,8301,"Princeton, IN",0,92,0,0,Princeton city
+IN,1807174,Brazil,incorporated,25,A,8181,"Brazil, IN",0,93,0,0,Brazil city
+IN,1812124,Charlestown,incorporated,25,A,7775,"Charlestown, IN",0,94,0,0,Charlestown city
+IN,1875248,Tell City,incorporated,25,A,7506,"Tell City, IN",0,95,0,0,Tell City city
+IN,1868526,Scottsburg,incorporated,25,A,7345,"Scottsburg, IN",0,96,0,0,Scottsburg city
+IN,1803664,Batesville,incorporated,25,A,7202,"Batesville, IN",0,97,0,0,Batesville city
+IN,1884878,Winfield,incorporated,43,A,7181,"Winfield, IN",0,98,0,0,Winfield town
+IN,1852020,Nappanee,incorporated,25,A,6949,"Nappanee, IN",0,99,0,0,Nappanee city
+IN,1806616,Boonville,incorporated,25,A,6712,"Boonville, IN",0,100,0,0,Boonville city
+IN,1820800,Ellettsville,incorporated,43,A,6655,"Ellettsville, IN",0,101,0,0,Ellettsville town
+IN,1855116,North Vernon,incorporated,25,A,6608,"North Vernon, IN",0,102,0,0,North Vernon city
+IN,1826386,Garrett,incorporated,25,A,6542,"Garrett, IN",0,103,0,0,Garrett city
+IN,1851732,Mount Vernon,incorporated,25,A,6493,"Mount Vernon, IN",0,104,0,0,Mount Vernon city
+IN,1867464,Salem,incorporated,25,A,6371,"Salem, IN",0,105,0,0,Salem city
+IN,1835284,Huntingburg,incorporated,25,A,6362,"Huntingburg, IN",0,106,0,0,Huntingburg city
+IN,1861236,Portland,incorporated,25,A,6320,"Portland, IN",0,107,0,0,Portland city
+IN,1865214,Rochester,incorporated,25,A,6270,"Rochester, IN",0,108,0,0,Rochester city
+IN,1866438,Rushville,incorporated,25,A,6208,"Rushville, IN",0,109,0,0,Rushville city
+IN,1827054,Gas City,incorporated,25,A,6157,"Gas City, IN",0,110,0,0,Gas City city
+IN,1832242,Hartford City,incorporated,25,A,6086,"Hartford City, IN",0,111,0,0,Hartford City city
+IN,1816336,Cumberland,incorporated,43,A,5954,"Cumberland, IN",0,112,0,0,Cumberland town
+IN,1863792,Rensselaer,incorporated,25,A,5733,"Rensselaer, IN",0,113,0,0,Rensselaer city
+IN,1853874,New Whiteland,incorporated,43,A,5550,"New Whiteland, IN",0,114,0,0,New Whiteland town
+IN,1850760,Monticello,incorporated,25,A,5508,"Monticello, IN",0,115,0,0,Monticello city
+IN,1812628,Cicero,incorporated,43,A,5301,"Cicero, IN",0,116,0,0,Cicero town
+IN,1854954,North Manchester,incorporated,43,A,5277,"North Manchester, IN",0,117,0,0,North Manchester town
+IN,1875986,Tipton,incorporated,25,A,5275,"Tipton, IN",0,118,0,0,Tipton city
+IN,1883420,Westville,incorporated,43,A,5257,"Westville, IN",0,119,0,0,Westville town
+IN,1861164,Porter,incorporated,43,A,5210,"Porter, IN",0,120,0,0,Porter town
+IN,1800910,Alexandria,incorporated,25,A,5149,"Alexandria, IN",0,121,0,0,Alexandria city
+IN,1844190,Linton,incorporated,25,A,5133,"Linton, IN",0,122,0,0,Linton city
+IN,1842462,Lawrenceburg,incorporated,25,A,5129,"Lawrenceburg, IN",0,123,0,0,Lawrenceburg city
+IN,1884950,Winona Lake,incorporated,43,A,5053,"Winona Lake, IN",0,124,0,0,Winona Lake town
+IN,1884752,Winchester,incorporated,25,A,4843,"Winchester, IN",0,125,0,0,Winchester city
+IN,1813780,Clinton,incorporated,25,A,4831,"Clinton, IN",0,126,0,0,Clinton city
+IN,1824286,Fortville,incorporated,43,A,4784,"Fortville, IN",0,127,0,0,Fortville town
+IN,1858662,Pendleton,incorporated,43,A,4717,"Pendleton, IN",0,128,0,0,Pendleton town
+IN,1807318,Bremen,incorporated,43,A,4696,"Bremen, IN",0,129,0,0,Bremen town
+IN,1829448,Greendale,incorporated,25,A,4602,"Greendale, IN",0,130,0,0,Greendale city
+IN,1883816,Whiteland,incorporated,43,A,4599,"Whiteland, IN",0,131,0,0,Whiteland town
+IN,1843686,Ligonier,incorporated,25,A,4568,"Ligonier, IN",0,132,0,0,Ligonier city
+IN,1884122,Whiting,incorporated,25,A,4559,"Whiting, IN",0,133,0,0,Whiting city
+IN,1820404,Edinburgh,incorporated,43,A,4435,"Edinburgh, IN",0,134,0,0,Edinburgh town
+IN,1874006,Sullivan,incorporated,25,A,4264,"Sullivan, IN",0,135,0,0,Sullivan city
+IN,1804888,Berne,incorporated,25,A,4173,"Berne, IN",0,136,0,0,Berne city
+IN,1802800,Austin,incorporated,25,A,4064,"Austin, IN",0,137,0,0,Austin city
+IN,1849950,Mitchell,incorporated,25,A,3933,"Mitchell, IN",0,138,0,0,Mitchell city
+IN,1877966,Upland,incorporated,43,A,3821,"Upland, IN",0,139,0,0,Upland town
+IN,1827324,Georgetown,incorporated,43,A,3805,"Georgetown, IN",0,140,0,0,Georgetown town
+IN,1832818,Hebron,incorporated,43,A,3755,"Hebron, IN",0,141,0,0,Hebron town
+IN,1831216,Hanover,incorporated,43,A,3743,"Hanover, IN",0,142,0,0,Hanover town
+IN,1812034,Chandler,incorporated,43,A,3693,"Chandler, IN",0,143,0,0,Chandler town
+IN,1860192,Pittsboro,incorporated,43,A,3682,"Pittsboro, IN",0,144,0,0,Pittsboro town
+IN,1857780,Paoli,incorporated,43,A,3666,"Paoli, IN",0,145,0,0,Paoli town
+IN,1840374,Knox,incorporated,25,A,3662,"Knox, IN",0,146,0,0,Knox city
+IN,1842861,Leo-Cedarville,incorporated,43,A,3624,"Leo-Cedarville, IN",0,147,0,0,Leo-Cedarville town
+IN,1802782,Aurora,incorporated,25,A,3479,"Aurora, IN",0,148,0,0,Aurora city
+IN,1848924,Middlebury,incorporated,43,A,3466,"Middlebury, IN",0,149,0,0,Middlebury town
+IN,1877768,Union City,incorporated,25,A,3454,"Union City, IN",0,150,0,0,Union City city
+IN,1852650,Newburgh,incorporated,43,A,3344,"Newburgh, IN",0,151,0,0,Newburgh town
+IN,1857168,Ossian,incorporated,43,A,3266,"Ossian, IN",0,152,0,0,Ossian town
+IN,1815256,Corydon,incorporated,43,A,3153,"Corydon, IN",0,153,0,0,Corydon town
+IN,1869354,Sheridan,incorporated,43,A,3106,"Sheridan, IN",0,154,0,0,Sheridan town
+IN,1874744,Syracuse,incorporated,43,A,3079,"Syracuse, IN",0,155,0,0,Syracuse town
+IN,1802620,Attica,incorporated,25,A,3036,"Attica, IN",0,156,0,0,Attica city
+IN,1805176,Bicknell,incorporated,25,A,3029,"Bicknell, IN",0,157,0,0,Bicknell city
+IN,1808470,Brownstown,incorporated,43,A,3025,"Brownstown, IN",0,158,0,0,Brownstown town
+IN,1824250,Fort Branch,incorporated,43,A,2965,"Fort Branch, IN",0,159,0,0,Fort Branch town
+IN,1817614,Delphi,incorporated,25,A,2961,"Delphi, IN",0,160,0,0,Delphi city
+IN,1811836,Centerville,incorporated,43,A,2748,"Centerville, IN",0,161,0,0,Centerville town
+IN,1853352,New Palestine,incorporated,43,A,2744,"New Palestine, IN",0,162,0,0,New Palestine town
+IN,1840860,Lagrange,incorporated,43,A,2715,"Lagrange, IN",0,163,0,0,Lagrange town
+IN,1822432,Fairmount,incorporated,43,A,2682,"Fairmount, IN",0,164,0,0,Fairmount town
+IN,1815490,Covington,incorporated,25,A,2668,"Covington, IN",0,165,0,0,Covington city
+IN,1809532,Butler,incorporated,25,A,2635,"Butler, IN",0,166,0,0,Butler city
+IN,1808182,Brookville,incorporated,43,A,2622,"Brookville, IN",0,167,0,0,Brookville town
+IN,1844910,Loogootee,incorporated,25,A,2601,"Loogootee, IN",0,168,0,0,Loogootee city
+IN,1857114,Osceola,incorporated,43,A,2590,"Osceola, IN",0,169,0,0,Osceola town
+IN,1868022,Santa Claus,incorporated,43,A,2586,"Santa Claus, IN",0,170,0,0,Santa Claus town
+IN,1808038,Brooklyn,incorporated,43,A,2511,"Brooklyn, IN",0,171,0,0,Brooklyn town
+IN,1865520,Rockville,incorporated,43,A,2510,"Rockville, IN",0,172,0,0,Rockville town
+IN,1812376,Chesterfield,incorporated,43,A,2490,"Chesterfield, IN",0,173,0,0,Chesterfield town
+IN,1871972,Spencer,incorporated,43,A,2454,"Spencer, IN",0,174,0,0,Spencer town
+IN,1802872,Avilla,incorporated,43,A,2438,"Avilla, IN",0,175,0,0,Avilla town
+IN,1829772,Greentown,incorporated,43,A,2370,"Greentown, IN",0,176,0,0,Greentown town
+IN,1825180,Fowler,incorporated,43,A,2337,"Fowler, IN",0,177,0,0,Fowler town
+IN,1842228,Lapel,incorporated,43,A,2325,"Lapel, IN",0,178,0,0,Lapel town
+IN,1884734,Winamac,incorporated,43,A,2318,"Winamac, IN",0,179,0,0,Winamac town
+IN,1859364,Petersburg,incorporated,25,A,2304,"Petersburg, IN",0,180,0,0,Petersburg city
+IN,1800802,Albany,incorporated,43,A,2295,"Albany, IN",0,181,0,0,Albany town
+IN,1805716,Bloomfield,incorporated,43,A,2289,"Bloomfield, IN",0,182,0,0,Bloomfield town
+IN,1855710,Oakland City,incorporated,25,A,2279,"Oakland City, IN",0,183,0,0,Oakland City city
+IN,1849014,Middletown,incorporated,43,A,2253,"Middletown, IN",0,184,0,0,Middletown town
+IN,1864674,Rising Sun,incorporated,25,A,2248,"Rising Sun, IN",0,185,0,0,Rising Sun city
+IN,1836342,Ingalls,incorporated,43,A,2223,"Ingalls, IN",0,186,0,0,Ingalls town
+IN,1800820,Albion,incorporated,43,A,2222,"Albion, IN",0,187,0,0,Albion town
+IN,1878974,Versailles,incorporated,43,A,2184,"Versailles, IN",0,188,0,0,Versailles town
+IN,1819054,Dunkirk,incorporated,25,A,2164,"Dunkirk, IN",0,189,0,0,Dunkirk city
+IN,1822990,Ferdinand,incorporated,43,A,2157,"Ferdinand, IN",0,190,0,0,Ferdinand town
+IN,1883384,West Terre Haute,incorporated,43,A,2157,"West Terre Haute, IN",0,191,0,0,West Terre Haute town
+IN,1840266,Knightstown,incorporated,43,A,2140,"Knightstown, IN",0,192,0,0,Knightstown town
+IN,1871486,Southport,incorporated,25,A,2123,"Southport, IN",0,193,0,0,Southport city
+IN,1881278,Waterloo,incorporated,43,A,2116,"Waterloo, IN",0,194,0,0,Waterloo town
+IN,1857024,Orleans,incorporated,43,A,2108,"Orleans, IN",0,195,0,0,Orleans town
+IN,1834744,Hope,incorporated,43,A,2099,"Hope, IN",0,196,0,0,Hope town
+IN,1878740,Veedersburg,incorporated,43,A,2098,"Veedersburg, IN",0,197,0,0,Veedersburg town
+IN,1879694,Walkerton,incorporated,43,A,2096,"Walkerton, IN",0,198,0,0,Walkerton town
+IN,1823692,Flora,incorporated,43,A,2094,"Flora, IN",0,199,0,0,Flora town
+IN,1813852,Cloverdale,incorporated,43,A,2060,"Cloverdale, IN",0,200,0,0,Cloverdale town
+IN,1876328,Trail Creek,incorporated,43,A,2060,"Trail Creek, IN",0,201,0,0,Trail Creek town
+IN,1809370,Burns Harbor,incorporated,43,A,2055,"Burns Harbor, IN",0,202,0,0,Burns Harbor town
+IN,1820332,Edgewood,incorporated,43,A,2053,"Edgewood, IN",0,203,0,0,Edgewood town
+IN,1825882,Fremont,incorporated,43,A,2034,"Fremont, IN",0,204,0,0,Fremont town
+IN,1840518,Kouts,incorporated,43,A,2028,"Kouts, IN",0,205,0,0,Kouts town
+IN,1843434,Liberty,incorporated,43,A,2000,"Liberty, IN",0,206,0,0,Liberty town
+IN,1852776,New Chicago,incorporated,43,A,1999,"New Chicago, IN",0,207,0,0,New Chicago town
+IN,1879478,Wakarusa,incorporated,43,A,1998,"Wakarusa, IN",0,208,0,0,Wakarusa town
+IN,1865484,Rockport,incorporated,25,A,1984,"Rockport, IN",0,209,0,0,Rockport city
+IN,1837764,Jasonville,incorporated,25,A,1983,"Jasonville, IN",0,210,0,0,Jasonville city
+IN,1884410,Williamsport,incorporated,43,A,1950,"Williamsport, IN",0,211,0,0,Williamsport town
+IN,1850148,Monon,incorporated,43,A,1919,"Monon, IN",0,212,0,0,Monon town
+IN,1852704,New Carlisle,incorporated,43,A,1891,"New Carlisle, IN",0,213,0,0,New Carlisle town
+IN,1812610,Churubusco,incorporated,43,A,1870,"Churubusco, IN",0,214,0,0,Churubusco town
+IN,1854900,North Judson,incorporated,43,A,1857,"North Judson, IN",0,215,0,0,North Judson town
+IN,1803718,Battle Ground,incorporated,43,A,1838,"Battle Ground, IN",0,216,0,0,Battle Ground town
+IN,1849266,Milan,incorporated,43,A,1823,"Milan, IN",0,217,0,0,Milan town
+IN,1871612,South Whitley,incorporated,43,A,1818,"South Whitley, IN",0,218,0,0,South Whitley town
+IN,1807750,Bristol,incorporated,43,A,1789,"Bristol, IN",0,219,0,0,Bristol town
+IN,1802044,Argos,incorporated,43,A,1777,"Argos, IN",0,220,0,0,Argos town
+IN,1825702,Frankton,incorporated,43,A,1775,"Frankton, IN",0,221,0,0,Frankton town
+IN,1848456,Meridian Hills,incorporated,43,A,1774,"Meridian Hills, IN",0,222,0,0,Meridian Hills town
+IN,1865016,Roanoke,incorporated,43,A,1762,"Roanoke, IN",0,223,0,0,Roanoke town
+IN,1868868,Shadeland,incorporated,43,A,1757,"Shadeland, IN",0,224,0,0,Shadeland town
+IN,1809874,Cambridge City,incorporated,43,A,1751,"Cambridge City, IN",0,225,0,0,Cambridge City town
+IN,1879010,Vevay,incorporated,43,A,1741,"Vevay, IN",0,226,0,0,Vevay town
+IN,1825972,French Lick,incorporated,43,A,1722,"French Lick, IN",0,227,0,0,French Lick town
+IN,1806760,Bourbon,incorporated,43,A,1698,"Bourbon, IN",0,228,0,0,Bourbon town
+IN,1830402,Hagerstown,incorporated,43,A,1681,"Hagerstown, IN",0,229,0,0,Hagerstown town
+IN,1816642,Daleville,incorporated,43,A,1651,"Daleville, IN",0,230,0,0,Daleville town
+IN,1850580,Monrovia,incorporated,43,A,1643,"Monrovia, IN",0,231,0,0,Monrovia town
+IN,1839546,Kentland,incorporated,43,A,1641,"Kentland, IN",0,232,0,0,Kentland town
+IN,1832512,Haubstadt,incorporated,43,A,1638,"Haubstadt, IN",0,233,0,0,Haubstadt town
+IN,1808146,Brookston,incorporated,43,A,1631,"Brookston, IN",0,234,0,0,Brookston town
+IN,1854918,North Liberty,incorporated,43,A,1623,"North Liberty, IN",0,235,0,0,North Liberty town
+IN,1849320,Milford,incorporated,43,A,1614,"Milford, IN",0,236,0,0,Milford town
+IN,1820080,Eaton,incorporated,43,A,1595,"Eaton, IN",0,237,0,0,Eaton town
+IN,1857132,Osgood,incorporated,43,A,1587,"Osgood, IN",0,238,0,0,Osgood town
+IN,1885184,Woodburn,incorporated,25,A,1551,"Woodburn, IN",0,239,0,0,Woodburn city
+IN,1816624,Dale,incorporated,43,A,1544,"Dale, IN",0,240,0,0,Dale town
+IN,1850796,Montpelier,incorporated,25,A,1540,"Montpelier, IN",0,241,0,0,Montpelier city
+IN,1830594,Hamilton,incorporated,43,A,1529,"Hamilton, IN",0,242,0,0,Hamilton town
+IN,1810108,Cannelton,incorporated,25,A,1524,"Cannelton, IN",0,243,0,0,Cannelton city
+IN,1838862,Jonesboro,incorporated,25,A,1516,"Jonesboro, IN",0,244,0,0,Jonesboro city
+IN,1801954,Arcadia,incorporated,43,A,1515,"Arcadia, IN",0,245,0,0,Arcadia town
+IN,1816084,Crothersville,incorporated,43,A,1509,"Crothersville, IN",0,246,0,0,Crothersville town
+IN,1866150,Rossville,incorporated,43,A,1508,"Rossville, IN",0,247,0,0,Rossville town
+IN,1880234,Warren Park,incorporated,43,A,1490,"Warren Park, IN",0,248,0,0,Warren Park town
+IN,1875626,Thorntown,incorporated,43,A,1432,"Thorntown, IN",0,249,0,0,Thorntown town
+IN,1876310,Trafalgar,incorporated,43,A,1422,"Trafalgar, IN",0,250,0,0,Trafalgar town
+IN,1822576,Fairview Park,incorporated,43,A,1409,"Fairview Park, IN",0,251,0,0,Fairview Park town
+IN,1856052,Odon,incorporated,43,A,1397,"Odon, IN",0,252,0,0,Odon town
+IN,1883276,Westport,incorporated,43,A,1393,"Westport, IN",0,253,0,0,Westport town
+IN,1885598,Worthington,incorporated,43,A,1393,"Worthington, IN",0,254,0,0,Worthington town
+IN,1813492,Clermont,incorporated,43,A,1384,"Clermont, IN",0,255,0,0,Clermont town
+IN,1816858,Darmstadt,incorporated,43,A,1373,"Darmstadt, IN",0,256,0,0,Darmstadt town
+IN,1862028,Prince's Lakes,incorporated,43,A,1372,"Prince's Lakes, IN",0,257,0,0,Prince's Lakes town
+IN,1829844,Greenville,incorporated,43,A,1365,"Greenville, IN",0,258,0,0,Greenville town
+IN,1818190,Dillsboro,incorporated,43,A,1360,"Dillsboro, IN",0,259,0,0,Dillsboro town
+IN,1863756,Remington,incorporated,43,A,1356,"Remington, IN",0,260,0,0,Remington town
+IN,1857528,Owensville,incorporated,43,A,1338,"Owensville, IN",0,261,0,0,Owensville town
+IN,1839852,Kingsford Heights,incorporated,43,A,1335,"Kingsford Heights, IN",0,262,0,0,Kingsford Heights town
+IN,1817002,Dayton,incorporated,43,A,1330,"Dayton, IN",0,263,0,0,Dayton town
+IN,1853388,New Pekin,incorporated,43,A,1323,"New Pekin, IN",0,264,0,0,New Pekin town
+IN,1865808,Rome City,incorporated,43,A,1322,"Rome City, IN",0,265,0,0,Rome City town
+IN,1866546,Russiaville,incorporated,43,A,1319,"Russiaville, IN",0,266,0,0,Russiaville town
+IN,1850562,Monroeville,incorporated,43,A,1294,"Monroeville, IN",0,267,0,0,Monroeville town
+IN,1826242,Galveston,incorporated,43,A,1288,"Galveston, IN",0,268,0,0,Galveston town
+IN,1857978,Parker City,incorporated,43,A,1278,"Parker City, IN",0,269,0,0,Parker City town
+IN,1822792,Farmland,incorporated,43,A,1270,"Farmland, IN",0,270,0,0,Farmland town
+IN,1827216,Geneva,incorporated,43,A,1257,"Geneva, IN",0,271,0,0,Geneva town
+IN,1852038,Nashville,incorporated,43,A,1256,"Nashville, IN",0,272,0,0,Nashville town
+IN,1851840,Mulberry,incorporated,43,A,1231,"Mulberry, IN",0,273,0,0,Mulberry town
+IN,1876184,Topeka,incorporated,43,A,1206,"Topeka, IN",0,274,0,0,Topeka town
+IN,1851192,Morristown,incorporated,43,A,1205,"Morristown, IN",0,275,0,0,Morristown town
+IN,1844784,Long Beach,incorporated,43,A,1189,"Long Beach, IN",0,276,0,0,Long Beach town
+IN,1880108,Warren,incorporated,43,A,1182,"Warren, IN",0,277,0,0,Warren town
+IN,1856088,Ogden Dunes,incorporated,43,A,1168,"Ogden Dunes, IN",0,278,0,0,Ogden Dunes town
+IN,1857546,Oxford,incorporated,43,A,1165,"Oxford, IN",0,279,0,0,Oxford town
+IN,1814986,Converse,incorporated,43,A,1161,"Converse, IN",0,280,0,0,Converse town
+IN,1857258,Otterbein,incorporated,43,A,1144,"Otterbein, IN",0,281,0,0,Otterbein town
+IN,1856682,Oolitic,incorporated,43,A,1137,"Oolitic, IN",0,282,0,0,Oolitic town
+IN,1816300,Culver,incorporated,43,A,1129,"Culver, IN",0,283,0,0,Culver town
+IN,1800748,Akron,incorporated,43,A,1125,"Akron, IN",0,284,0,0,Akron town
+IN,1828494,Grabill,incorporated,43,A,1112,"Grabill, IN",0,285,0,0,Grabill town
+IN,1869192,Shelburn,incorporated,43,A,1107,"Shelburn, IN",0,286,0,0,Shelburn town
+IN,1863450,Redkey,incorporated,43,A,1100,"Redkey, IN",0,287,0,0,Redkey town
+IN,1840698,Ladoga,incorporated,43,A,1081,"Ladoga, IN",0,288,0,0,Ladoga town
+IN,1851138,Morocco,incorporated,43,A,1081,"Morocco, IN",0,289,0,0,Morocco town
+IN,1874546,Sweetser,incorporated,43,A,1075,"Sweetser, IN",0,290,0,0,Sweetser town
+IN,1847160,Markle,incorporated,43,A,1071,"Markle, IN",0,291,0,0,Markle town
+IN,1822738,Farmersburg,incorporated,43,A,1069,"Farmersburg, IN",0,292,0,0,Farmersburg town
+IN,1801612,Andrews,incorporated,43,A,1048,"Andrews, IN",0,293,0,0,Andrews town
+IN,1802458,Ashley,incorporated,43,A,1026,"Ashley, IN",0,294,0,0,Ashley town
+IN,1851102,Morgantown,incorporated,43,A,1014,"Morgantown, IN",0,295,0,0,Morgantown town
+IN,1868652,Seelyville,incorporated,43,A,1012,"Seelyville, IN",0,296,0,0,Seelyville town
+IN,1880018,Wanatah,incorporated,43,A,1009,"Wanatah, IN",0,297,0,0,Wanatah town
+IN,1885076,Wolcottville,incorporated,43,A,1004,"Wolcottville, IN",0,298,0,0,Wolcottville town
+IN,1855134,North Webster,incorporated,43,A,998,"North Webster, IN",0,299,0,0,North Webster town
+IN,1874132,Summitville,incorporated,43,A,989,"Summitville, IN",0,300,0,0,Summitville town
+IN,1828332,Goodland,incorporated,43,A,980,"Goodland, IN",0,301,0,0,Goodland town
+IN,1861416,Poseyville,incorporated,43,A,966,"Poseyville, IN",0,302,0,0,Poseyville town
+IN,1879964,Walton,incorporated,43,A,962,"Walton, IN",0,303,0,0,Walton town
+IN,1867212,St. Paul,incorporated,43,A,960,"St. Paul, IN",0,304,0,0,St. Paul town
+IN,1882052,Waynetown,incorporated,43,A,960,"Waynetown, IN",0,305,0,0,Waynetown town
+IN,1872008,Spiceland,incorporated,43,A,958,"Spiceland, IN",0,306,0,0,Spiceland town
+IN,1849536,Millersburg,incorporated,43,A,957,"Millersburg, IN",0,307,0,0,Millersburg town
+IN,1845468,Lynn,incorporated,43,A,954,"Lynn, IN",0,308,0,0,Lynn town
+IN,1810954,Cayuga,incorporated,43,A,952,"Cayuga, IN",0,309,0,0,Cayuga town
+IN,1885058,Wolcott,incorporated,43,A,950,"Wolcott, IN",0,310,0,0,Wolcott town
+IN,1848402,Mentone,incorporated,43,A,943,"Mentone, IN",0,311,0,0,Mentone town
+IN,1837692,Jamestown,incorporated,43,A,942,"Jamestown, IN",0,312,0,0,Jamestown town
+IN,1807966,Brook,incorporated,43,A,939,"Brook, IN",0,313,0,0,Brook town
+IN,1842048,Lanesville,incorporated,43,A,935,"Lanesville, IN",0,314,0,0,Lanesville town
+IN,1859598,Pierceton,incorporated,43,A,928,"Pierceton, IN",0,315,0,0,Pierceton town
+IN,1850652,Montezuma,incorporated,43,A,921,"Montezuma, IN",0,316,0,0,Montezuma town
+IN,1810612,Carthage,incorporated,43,A,918,"Carthage, IN",0,317,0,0,Carthage town
+IN,1874510,Swayzee,incorporated,43,A,918,"Swayzee, IN",0,318,0,0,Swayzee town
+IN,1874168,Sunman,incorporated,43,A,914,"Sunman, IN",0,319,0,0,Sunman town
+IN,1813366,Clayton,incorporated,43,A,908,"Clayton, IN",0,320,0,0,Clayton town
+IN,1883528,Wheatfield,incorporated,43,A,904,"Wheatfield, IN",0,321,0,0,Wheatfield town
+IN,1857726,Palmyra,incorporated,43,A,898,"Palmyra, IN",0,322,0,0,Palmyra town
+IN,1850202,Monroe,incorporated,43,A,885,"Monroe, IN",0,323,0,0,Monroe town
+IN,1841670,Lakeville,incorporated,43,A,879,"Lakeville, IN",0,324,0,0,Lakeville town
+IN,1813276,Clay City,incorporated,43,A,878,"Clay City, IN",0,325,0,0,Clay City town
+IN,1869768,Silver Lake,incorporated,43,A,875,"Silver Lake, IN",0,326,0,0,Silver Lake town
+IN,1878110,Utica,incorporated,43,A,860,"Utica, IN",0,327,0,0,Utica town
+IN,1865988,Roseland,incorporated,43,A,854,"Roseland, IN",0,328,0,0,Roseland town
+IN,1825288,Francesville,incorporated,43,A,852,"Francesville, IN",0,329,0,0,Francesville town
+IN,1828440,Gosport,incorporated,43,A,842,"Gosport, IN",0,330,0,0,Gosport town
+IN,1864980,Roachdale,incorporated,43,A,840,"Roachdale, IN",0,331,0,0,Roachdale town
+IN,1869480,Shipshewana,incorporated,43,A,839,"Shipshewana, IN",0,332,0,0,Shipshewana town
+IN,1845486,Lynnville,incorporated,43,A,830,"Lynnville, IN",0,333,0,0,Lynnville town
+IN,1846746,Marengo,incorporated,43,A,829,"Marengo, IN",0,334,0,0,Marengo town
+IN,1869516,Shirley,incorporated,43,A,819,"Shirley, IN",0,335,0,0,Shirley town
+IN,1809136,Bunker Hill,incorporated,43,A,814,"Bunker Hill, IN",0,336,0,0,Bunker Hill town
+IN,1866222,Royal Center,incorporated,43,A,802,"Royal Center, IN",0,337,0,0,Royal Center town
+IN,1806706,Boswell,incorporated,43,A,800,"Boswell, IN",0,338,0,0,Boswell town
+IN,1840842,La Fontaine,incorporated,43,A,798,"La Fontaine, IN",0,339,0,0,La Fontaine town
+IN,1818892,Dugger,incorporated,43,A,797,"Dugger, IN",0,340,0,0,Dugger town
+IN,1827072,Gaston,incorporated,43,A,796,"Gaston, IN",0,341,0,0,Gaston town
+IN,1850688,Montgomery,incorporated,43,A,792,"Montgomery, IN",0,342,0,0,Montgomery town
+IN,1849716,Milltown,incorporated,43,A,790,"Milltown, IN",0,343,0,0,Milltown town
+IN,1878470,Van Buren,incorporated,43,A,790,"Van Buren, IN",0,344,0,0,Van Buren town
+IN,1806634,Borden,incorporated,43,A,786,"Borden, IN",0,345,0,0,Borden town
+IN,1830708,Hamlet,incorporated,43,A,773,"Hamlet, IN",0,346,0,0,Hamlet town
+IN,1884968,Winslow,incorporated,43,A,764,"Winslow, IN",0,347,0,0,Winslow town
+IN,1834420,Homecroft,incorporated,43,A,752,"Homecroft, IN",0,348,0,0,Homecroft town
+IN,1868706,Selma,incorporated,43,A,747,"Selma, IN",0,349,0,0,Selma town
+IN,1825090,Fountain City,incorporated,43,A,714,"Fountain City, IN",0,350,0,0,Fountain City town
+IN,1802602,Atlanta,incorporated,43,A,712,"Atlanta, IN",0,351,0,0,Atlanta town
+IN,1816840,Darlington,incorporated,43,A,711,"Darlington, IN",0,352,0,0,Darlington town
+IN,1844082,Linden,incorporated,43,A,711,"Linden, IN",0,353,0,0,Linden town
+IN,1839942,Kirklin,incorporated,43,A,710,"Kirklin, IN",0,354,0,0,Kirklin town
+IN,1858320,Patoka,incorporated,43,A,706,"Patoka, IN",0,355,0,0,Patoka town
+IN,1814284,Colfax,incorporated,43,A,702,"Colfax, IN",0,356,0,0,Colfax town
+IN,1840302,Knightsville,incorporated,43,A,702,"Knightsville, IN",0,357,0,0,Knightsville town
+IN,1828692,Grandview,incorporated,43,A,698,"Grandview, IN",0,358,0,0,Grandview town
+IN,1884806,Windfall City,incorporated,43,A,696,"Windfall City, IN",0,359,0,0,Windfall City town
+IN,1852974,New Harmony,incorporated,43,A,690,"New Harmony, IN",0,360,0,0,New Harmony town
+IN,1864422,Ridgeville,incorporated,43,A,688,"Ridgeville, IN",0,361,0,0,Ridgeville town
+IN,1821214,English,incorporated,43,A,685,"English, IN",0,362,0,0,English town
+IN,1803142,Bainbridge,incorporated,43,A,684,"Bainbridge, IN",0,363,0,0,Bainbridge town
+IN,1818766,Dublin,incorporated,43,A,679,"Dublin, IN",0,364,0,0,Dublin town
+IN,1882934,West Lebanon,incorporated,43,A,678,"West Lebanon, IN",0,365,0,0,West Lebanon town
+IN,1831486,Harmony,incorporated,43,A,677,"Harmony, IN",0,366,0,0,Harmony town
+IN,1869552,Shoals,incorporated,43,A,677,"Shoals, IN",0,367,0,0,Shoals town
+IN,1850958,Moores Hill,incorporated,43,A,675,"Moores Hill, IN",0,368,0,0,Moores Hill town
+IN,1866978,St. Leon,incorporated,43,A,660,"St. Leon, IN",0,369,0,0,St. Leon town
+IN,1865556,Rocky Ripple,incorporated,43,A,655,"Rocky Ripple, IN",0,370,0,0,Rocky Ripple town
+IN,1835500,Hymera,incorporated,43,A,653,"Hymera, IN",0,371,0,0,Hymera town
+IN,1856286,Oldenburg,incorporated,43,A,647,"Oldenburg, IN",0,372,0,0,Oldenburg town
+IN,1820638,Elberfeld,incorporated,43,A,644,"Elberfeld, IN",0,373,0,0,Elberfeld town
+IN,1865934,Rosedale,incorporated,43,A,636,"Rosedale, IN",0,374,0,0,Rosedale town
+IN,1848240,Medora,incorporated,43,A,635,"Medora, IN",0,375,0,0,Medora town
+IN,1820998,Elnora,incorporated,43,A,631,"Elnora, IN",0,376,0,0,Elnora town
+IN,1810270,Carlisle,incorporated,43,A,625,"Carlisle, IN",0,377,0,0,Carlisle town
+IN,1845504,Lyons,incorporated,43,A,625,"Lyons, IN",0,378,0,0,Lyons town
+IN,1858788,Pennville,incorporated,43,A,621,"Pennville, IN",0,379,0,0,Pennville town
+IN,1834294,Holland,incorporated,43,A,619,"Holland, IN",0,380,0,0,Holland town
+IN,1812898,Clarks Hill,incorporated,43,A,600,"Clarks Hill, IN",0,381,0,0,Clarks Hill town
+IN,1805158,Beverly Shores,incorporated,43,A,599,"Beverly Shores, IN",0,382,0,0,Beverly Shores town
+IN,1876256,Town of Pines,incorporated,43,A,594,"Town of Pines, IN",0,383,0,0,Town of Pines town
+IN,1809910,Camden,incorporated,43,A,593,"Camden, IN",0,384,0,0,Camden town
+IN,1835086,Hudson,incorporated,43,A,585,"Hudson, IN",0,385,0,0,Hudson town
+IN,1855800,Oaktown,incorporated,43,A,581,"Oaktown, IN",0,386,0,0,Oaktown town
+IN,1886318,Zanesville,incorporated,43,A,580,"Zanesville, IN",0,387,0,0,Zanesville town
+IN,1839618,Kewanna,incorporated,43,A,576,"Kewanna, IN",0,388,0,0,Kewanna town
+IN,1821502,Etna Green,incorporated,43,A,570,"Etna Green, IN",0,389,0,0,Etna Green town
+IN,1839798,Kingman,incorporated,43,A,559,"Kingman, IN",0,390,0,0,Kingman town
+IN,1848186,Medaryville,incorporated,43,A,559,"Medaryville, IN",0,391,0,0,Medaryville town
+IN,1853262,New Market,incorporated,43,A,559,"New Market, IN",0,392,0,0,New Market town
+IN,1857870,Paragon,incorporated,43,A,556,"Paragon, IN",0,393,0,0,Paragon town
+IN,1814050,Coatesville,incorporated,43,A,555,"Coatesville, IN",0,394,0,0,Coatesville town
+IN,1816732,Dana,incorporated,43,A,555,"Dana, IN",0,395,0,0,Dana town
+IN,1840662,La Crosse,incorporated,43,A,555,"La Crosse, IN",0,396,0,0,La Crosse town
+IN,1842678,Leesburg,incorporated,43,A,555,"Leesburg, IN",0,397,0,0,Leesburg town
+IN,1869048,Sharpsville,incorporated,43,A,553,"Sharpsville, IN",0,398,0,0,Sharpsville town
+IN,1816534,Cynthiana,incorporated,43,A,552,"Cynthiana, IN",0,399,0,0,Cynthiana town
+IN,1825306,Francisco,incorporated,43,A,545,"Francisco, IN",0,400,0,0,Francisco town
+IN,1882556,West College Corner,incorporated,43,A,545,"West College Corner, IN",0,401,0,0,West College Corner town
+IN,1822396,Fairland,incorporated,43,A,542,"Fairland, IN",0,402,0,0,Fairland town
+IN,1882376,West Baden Springs,incorporated,43,A,541,"West Baden Springs, IN",0,403,0,0,West Baden Springs town
+IN,1823188,Fillmore,incorporated,43,A,532,"Fillmore, IN",0,404,0,0,Fillmore town
+IN,1863918,Reynolds,incorporated,43,A,531,"Reynolds, IN",0,405,0,0,Reynolds town
+IN,1810000,Campbellsburg,incorporated,43,A,529,"Campbellsburg, IN",0,406,0,0,Campbellsburg town
+IN,1811944,Chalmers,incorporated,43,A,523,"Chalmers, IN",0,407,0,0,Chalmers town
+IN,1809244,Burlington,incorporated,43,A,517,"Burlington, IN",0,408,0,0,Burlington town
+IN,1844442,Lizton,incorporated,43,A,511,"Lizton, IN",0,409,0,0,Lizton town
+IN,1833862,Hillsboro,incorporated,43,A,508,"Hillsboro, IN",0,410,0,0,Hillsboro town
+IN,1800640,Advance,incorporated,43,A,503,"Advance, IN",0,411,0,0,Advance town
+IN,1850526,Monroe City,incorporated,43,A,502,"Monroe City, IN",0,412,0,0,Monroe City town
+IN,1860264,Plainville,incorporated,43,A,499,"Plainville, IN",0,413,0,0,Plainville town
+IN,1847592,Matthews,incorporated,43,A,494,"Matthews, IN",0,414,0,0,Matthews town
+IN,1815994,Cromwell,incorporated,43,A,487,"Cromwell, IN",0,415,0,0,Cromwell town
+IN,1847178,Markleville,incorporated,43,A,484,"Markleville, IN",0,416,0,0,Markleville town
+IN,1817776,Denver,incorporated,43,A,478,"Denver, IN",0,417,0,0,Denver town
+IN,1842192,La Paz,incorporated,43,A,475,"La Paz, IN",0,418,0,0,La Paz town
+IN,1872782,Staunton,incorporated,43,A,472,"Staunton, IN",0,419,0,0,Staunton town
+IN,1812574,Chrisney,incorporated,43,A,465,"Chrisney, IN",0,420,0,0,Chrisney town
+IN,1855080,North Salem,incorporated,43,A,464,"North Salem, IN",0,421,0,0,North Salem town
+IN,1859238,Perrysville,incorporated,43,A,456,"Perrysville, IN",0,422,0,0,Perrysville town
+IN,1849860,Milton,incorporated,43,A,455,"Milton, IN",0,423,0,0,Milton town
+IN,1839438,Kennard,incorporated,43,A,451,"Kennard, IN",0,424,0,0,Kennard town
+IN,1808578,Bruceville,incorporated,43,A,450,"Bruceville, IN",0,425,0,0,Bruceville town
+IN,1848816,Michigantown,incorporated,43,A,441,"Michigantown, IN",0,426,0,0,Michigantown town
+IN,1864998,Roann,incorporated,43,A,441,"Roann, IN",0,427,0,0,Roann town
+IN,1884374,Williams Creek,incorporated,43,A,430,"Williams Creek, IN",0,428,0,0,Williams Creek town
+IN,1881458,Waveland,incorporated,43,A,427,"Waveland, IN",0,429,0,0,Waveland town
+IN,1866834,St. Joe,incorporated,43,A,418,"St. Joe, IN",0,430,0,0,St. Joe town
+IN,1805374,Birdseye,incorporated,43,A,417,"Birdseye, IN",0,431,0,0,Birdseye town
+IN,1834366,Holton,incorporated,43,A,417,"Holton, IN",0,432,0,0,Holton town
+IN,1853496,Newport,incorporated,43,A,416,"Newport, IN",0,433,0,0,Newport town
+IN,1884302,Wilkinson,incorporated,43,A,414,"Wilkinson, IN",0,434,0,0,Wilkinson town
+IN,1801450,Amo,incorporated,43,A,408,"Amo, IN",0,435,0,0,Amo town
+IN,1820692,Elizabethtown,incorporated,43,A,406,"Elizabethtown, IN",0,436,0,0,Elizabethtown town
+IN,1842372,Laurel,incorporated,43,A,406,"Laurel, IN",0,437,0,0,Laurel town
+IN,1864206,Richland,incorporated,43,A,403,"Richland, IN",0,438,0,0,Richland town
+IN,1813312,Claypool,incorporated,43,A,396,"Claypool, IN",0,439,0,0,Claypool town
+IN,1809316,Burnettsville,incorporated,43,A,390,"Burnettsville, IN",0,440,0,0,Burnettsville town
+IN,1883564,Wheatland,incorporated,43,A,390,"Wheatland, IN",0,441,0,0,Wheatland town
+IN,1857006,Orland,incorporated,43,A,389,"Orland, IN",0,442,0,0,Orland town
+IN,1819450,Earl Park,incorporated,43,A,370,"Earl Park, IN",0,443,0,0,Earl Park town
+IN,1867698,Sandborn,incorporated,43,A,359,"Sandborn, IN",0,444,0,0,Sandborn town
+IN,1813438,Clear Lake,incorporated,43,A,354,"Clear Lake, IN",0,445,0,0,Clear Lake town
+IN,1840896,Lagro,incorporated,43,A,349,"Lagro, IN",0,446,0,0,Lagro town
+IN,1876634,Troy,incorporated,43,A,347,"Troy, IN",0,447,0,0,Troy town
+IN,1819180,Dupont,incorporated,43,A,343,"Dupont, IN",0,448,0,0,Dupont town
+IN,1851714,Mount Summit,incorporated,43,A,342,"Mount Summit, IN",0,449,0,0,Mount Summit town
+IN,1843074,Lewisville,incorporated,43,A,337,"Lewisville, IN",0,450,0,0,Lewisville town
+IN,1829754,Greens Fork,incorporated,43,A,335,"Greens Fork, IN",0,451,0,0,Greens Fork town
+IN,1850940,Mooreland,incorporated,43,A,335,"Mooreland, IN",0,452,0,0,Mooreland town
+IN,1872206,Spring Grove,incorporated,43,A,332,"Spring Grove, IN",0,453,0,0,Spring Grove town
+IN,1874060,Sulphur Springs,incorporated,43,A,331,"Sulphur Springs, IN",0,454,0,0,Sulphur Springs town
+IN,1856952,Orestes,incorporated,43,A,329,"Orestes, IN",0,455,0,0,Orestes town
+IN,1882790,West Harrison,incorporated,43,A,325,"West Harrison, IN",0,456,0,0,West Harrison town
+IN,1853478,New Point,incorporated,43,A,319,"New Point, IN",0,457,0,0,New Point town
+IN,1801360,Amboy,incorporated,43,A,317,"Amboy, IN",0,458,0,0,Amboy town
+IN,1832332,Hartsville,incorporated,43,A,317,"Hartsville, IN",0,459,0,0,Hartsville town
+IN,1853532,New Richmond,incorporated,43,A,309,"New Richmond, IN",0,460,0,0,New Richmond town
+IN,1853550,New Ross,incorporated,43,A,309,"New Ross, IN",0,461,0,0,New Ross town
+IN,1848744,Michiana Shores,incorporated,43,A,306,"Michiana Shores, IN",0,462,0,0,Michiana Shores town
+IN,1866510,Russellville,incorporated,43,A,306,"Russellville, IN",0,463,0,0,Russellville town
+IN,1826152,Fulton,incorporated,43,A,303,"Fulton, IN",0,464,0,0,Fulton town
+IN,1842606,Leavenworth,incorporated,43,A,289,"Leavenworth, IN",0,465,0,0,Leavenworth town
+IN,1839366,Kempton,incorporated,43,A,288,"Kempton, IN",0,466,0,0,Kempton town
+IN,1820458,Edwardsport,incorporated,43,A,286,"Edwardsport, IN",0,467,0,0,Edwardsport town
+IN,1877912,Universal,incorporated,43,A,283,"Universal, IN",0,468,0,0,Universal town
+IN,1847322,Marshall,incorporated,43,A,274,"Marshall, IN",0,469,0,0,Marshall town
+IN,1842282,Larwill,incorporated,43,A,273,"Larwill, IN",0,470,0,0,Larwill town
+IN,1877786,Uniondale,incorporated,43,A,271,"Uniondale, IN",0,471,0,0,Uniondale town
+IN,1805788,Bloomingdale,incorporated,43,A,269,"Bloomingdale, IN",0,472,0,0,Bloomingdale town
+IN,1868238,Schneider,incorporated,43,A,269,"Schneider, IN",0,473,0,0,Schneider town
+IN,1873178,Stilesville,incorporated,43,A,269,"Stilesville, IN",0,474,0,0,Stilesville town
+IN,1825198,Fowlerton,incorporated,43,A,268,"Fowlerton, IN",0,475,0,0,Fowlerton town
+IN,1874582,Switz City,incorporated,43,A,268,"Switz City, IN",0,476,0,0,Switz City town
+IN,1810198,Carbon,incorporated,43,A,263,"Carbon, IN",0,477,0,0,Carbon town
+IN,1848132,Mecca,incorporated,43,A,263,"Mecca, IN",0,478,0,0,Mecca town
+IN,1819756,East Germantown,incorporated,43,A,261,"East Germantown, IN",0,479,0,0,East Germantown town
+IN,1873664,Straughn,incorporated,43,A,259,"Straughn, IN",0,480,0,0,Straughn town
+IN,1870542,Somerville,incorporated,43,A,253,"Somerville, IN",0,481,0,0,Somerville town
+IN,1828062,Glenwood,incorporated,43,A,245,"Glenwood, IN",0,482,0,0,Glenwood town
+IN,1827270,Gentryville,incorporated,43,A,243,"Gentryville, IN",0,483,0,0,Gentryville town
+IN,1861470,Pottawattamie Park,incorporated,43,A,242,"Pottawattamie Park, IN",0,484,0,0,Pottawattamie Park town
+IN,1808704,Bryant,incorporated,43,A,239,"Bryant, IN",0,485,0,0,Bryant town
+IN,1864512,Riley,incorporated,43,A,238,"Riley, IN",0,486,0,0,Riley town
+IN,1884914,Wingate,incorporated,43,A,237,"Wingate, IN",0,487,0,0,Wingate town
+IN,1815220,Corunna,incorporated,43,A,236,"Corunna, IN",0,488,0,0,Corunna town
+IN,1852002,Napoleon,incorporated,43,A,236,"Napoleon, IN",0,489,0,0,Napoleon town
+IN,1878902,Vernon,incorporated,43,A,236,"Vernon, IN",0,490,0,0,Vernon town
+IN,1818982,Dune Acres,incorporated,43,A,234,"Dune Acres, IN",0,491,0,0,Dune Acres town
+IN,1868058,Saratoga,incorporated,43,A,231,"Saratoga, IN",0,492,0,0,Saratoga town
+IN,1801342,Ambia,incorporated,43,A,227,"Ambia, IN",0,493,0,0,Ambia town
+IN,1868976,Shamrock Lakes,incorporated,43,A,222,"Shamrock Lakes, IN",0,494,0,0,Shamrock Lakes town
+IN,1845000,Losantville,incorporated,43,A,221,"Losantville, IN",0,495,0,0,Losantville town
+IN,1853694,Newtown,incorporated,43,A,217,"Newtown, IN",0,496,0,0,Newtown town
+IN,1885742,Wynnedale,incorporated,43,A,215,"Wynnedale, IN",0,497,0,0,Wynnedale town
+IN,1801288,Altona,incorporated,43,A,213,"Altona, IN",0,498,0,0,Altona town
+IN,1811746,Center Point,incorporated,43,A,213,"Center Point, IN",0,499,0,0,Center Point town
+IN,1875302,Tennyson,incorporated,43,A,213,"Tennyson, IN",0,500,0,0,Tennyson town
+IN,1860084,Pine Village,incorporated,43,A,212,"Pine Village, IN",0,501,0,0,Pine Village town
+IN,1872296,Spring Lake,incorporated,43,A,210,"Spring Lake, IN",0,502,0,0,Spring Lake town
+IN,1848474,Merom,incorporated,43,A,208,"Merom, IN",0,503,0,0,Merom town
+IN,1813582,Clifford,incorporated,43,A,205,"Clifford, IN",0,504,0,0,Clifford town
+IN,1873232,Stinesville,incorporated,43,A,203,"Stinesville, IN",0,505,0,0,Stinesville town
+IN,1858392,Patriot,incorporated,43,A,201,"Patriot, IN",0,506,0,0,Patriot town
+IN,1817110,Decker,incorporated,43,A,199,"Decker, IN",0,507,0,0,Decker town
+IN,1820674,Elizabeth,incorporated,43,A,199,"Elizabeth, IN",0,508,0,0,Elizabeth town
+IN,1845864,Macy,incorporated,43,A,199,"Macy, IN",0,509,0,0,Macy town
+IN,1832728,Hazleton,incorporated,43,A,194,"Hazleton, IN",0,510,0,0,Hazleton town
+IN,1839816,Kingsbury,incorporated,43,A,190,"Kingsbury, IN",0,511,0,0,Kingsbury town
+IN,1844370,Little York,incorporated,43,A,189,"Little York, IN",0,512,0,0,Little York town
+IN,1850616,Monterey,incorporated,43,A,182,"Monterey, IN",0,513,0,0,Monterey town
+IN,1838916,Jonesville,incorporated,43,A,178,"Jonesville, IN",0,514,0,0,Jonesville town
+IN,1810090,Cannelburg,incorporated,43,A,176,"Cannelburg, IN",0,515,0,0,Cannelburg town
+IN,1848294,Mellott,incorporated,43,A,174,"Mellott, IN",0,516,0,0,Mellott town
+IN,1861020,Poneto,incorporated,43,A,173,"Poneto, IN",0,517,0,0,Poneto town
+IN,1872440,Spurgeon,incorporated,43,A,172,"Spurgeon, IN",0,518,0,0,Spurgeon town
+IN,1819162,Dunreith,incorporated,43,A,171,"Dunreith, IN",0,519,0,0,Dunreith town
+IN,1815652,Crane,incorporated,43,A,166,"Crane, IN",0,520,0,0,Crane town
+IN,1809712,Cadiz,incorporated,43,A,163,"Cadiz, IN",0,521,0,0,Cadiz town
+IN,1852524,Newberry,incorporated,43,A,159,"Newberry, IN",0,522,0,0,Newberry town
+IN,1850058,Modoc,incorporated,43,A,157,"Modoc, IN",0,523,0,0,Modoc town
+IN,1867302,Salamonia,incorporated,43,A,151,"Salamonia, IN",0,524,0,0,Salamonia town
+IN,1806652,Boston,incorporated,43,A,150,"Boston, IN",0,525,0,0,Boston town
+IN,1811044,Cedar Grove,incorporated,43,A,150,"Cedar Grove, IN",0,526,0,0,Cedar Grove town
+IN,1849662,Millhousen,incorporated,43,A,149,"Millhousen, IN",0,527,0,0,Millhousen town
+IN,1820152,Economy,incorporated,43,A,145,"Economy, IN",0,528,0,0,Economy town
+IN,1830024,Griffin,incorporated,43,A,143,"Griffin, IN",0,529,0,0,Griffin town
+IN,1815634,Crandall,incorporated,43,A,134,"Crandall, IN",0,530,0,0,Crandall town
+IN,1845774,Mackey,incorporated,43,A,131,"Mackey, IN",0,531,0,0,Mackey town
+IN,1869678,Sidney,incorporated,43,A,131,"Sidney, IN",0,532,0,0,Sidney town
+IN,1872332,Springport,incorporated,43,A,131,"Springport, IN",0,533,0,0,Springport town
+IN,1851318,Mount Auburn,incorporated,43,A,129,"Mount Auburn, IN",0,534,0,0,Mount Auburn town
+IN,1809226,Burket,incorporated,43,A,123,"Burket, IN",0,535,0,0,Burket town
+IN,1829682,Greensboro,incorporated,43,A,123,"Greensboro, IN",0,536,0,0,Greensboro town
+IN,1872764,State Line City,incorporated,43,A,120,"State Line City, IN",0,537,0,0,State Line City town
+IN,1836306,Indian Village,incorporated,43,A,118,"Indian Village, IN",0,538,0,0,Indian Village town
+IN,1851336,Mount Ayr,incorporated,43,A,117,"Mount Ayr, IN",0,539,0,0,Mount Ayr town
+IN,1885886,Yeoman,incorporated,43,A,116,"Yeoman, IN",0,540,0,0,Yeoman town
+IN,1877066,Ulen,incorporated,43,A,114,"Ulen, IN",0,541,0,0,Ulen town
+IN,1851408,Mount Etna,incorporated,43,A,111,"Mount Etna, IN",0,542,0,0,Mount Etna town
+IN,1844424,Livonia,incorporated,43,A,99,"Livonia, IN",0,543,0,0,Livonia town
+IN,1805896,Blountsville,incorporated,43,A,98,"Blountsville, IN",0,544,0,0,Blountsville town
+IN,1815364,Country Club Heights,incorporated,43,A,98,"Country Club Heights, IN",0,545,0,0,Country Club Heights town
+IN,1804978,Bethany,incorporated,43,A,95,"Bethany, IN",0,546,0,0,Bethany town
+IN,1872232,Spring Hill,incorporated,43,A,95,"Spring Hill, IN",0,547,0,0,Spring Hill town
+IN,1867626,Saltillo,incorporated,43,A,94,"Saltillo, IN",0,548,0,0,Saltillo town
+IN,1885400,Woodlawn Heights,incorporated,43,A,91,"Woodlawn Heights, IN",0,549,0,0,Woodlawn Heights town
+IN,1853298,New Middletown,incorporated,43,A,90,"New Middletown, IN",0,550,0,0,New Middletown town
+IN,1879730,Wallace,incorporated,43,A,79,"Wallace, IN",0,551,0,0,Wallace town
+IN,1851354,Mount Carmel,incorporated,43,A,76,"Mount Carmel, IN",0,552,0,0,Mount Carmel town
+IN,1856664,Onward,incorporated,43,A,76,"Onward, IN",0,553,0,0,Onward town
+IN,1840644,Laconia,incorporated,43,A,73,"Laconia, IN",0,554,0,0,Laconia town
+IN,1808092,Brooksburg,incorporated,43,A,72,"Brooksburg, IN",0,555,0,0,Brooksburg town
+IN,1878776,Vera Cruz,incorporated,43,A,72,"Vera Cruz, IN",0,556,0,0,Vera Cruz town
+IN,1884086,Whitewater,incorporated,43,A,71,"Whitewater, IN",0,557,0,0,Whitewater town
+IN,1816156,Crows Nest,incorporated,43,A,67,"Crows Nest, IN",0,558,0,0,Crows Nest town
+IN,1800784,Alamo,incorporated,43,A,66,"Alamo, IN",0,559,0,0,Alamo town
+IN,1800964,Alfordsville,incorporated,43,A,65,"Alfordsville, IN",0,560,0,0,Alfordsville town
+IN,1847628,Mauckport,incorporated,43,A,46,"Mauckport, IN",0,561,0,0,Mauckport town
+IN,1854612,North Crows Nest,incorporated,43,A,44,"North Crows Nest, IN",0,562,0,0,North Crows Nest town
+IN,1801270,Alton,incorporated,43,A,29,"Alton, IN",0,563,0,0,Alton town
+IN,1864728,River Forest,incorporated,43,A,26,"River Forest, IN",0,564,0,0,River Forest town
+IN,1852398,New Amsterdam,incorporated,43,A,12,"New Amsterdam, IN",0,565,0,0,New Amsterdam town
+IN,1817704,DeMotte,incorporated,43,A,0,"DeMotte, IN",0,566,0,0,DeMotte town
+IN,1836000,Indianapolis,consolidated,25,A,0,"Indianapolis, IN",0,567,0,0,Indianapolis city
