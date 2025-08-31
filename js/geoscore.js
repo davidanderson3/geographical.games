@@ -1,4 +1,6 @@
 const STORAGE_KEY = 'geoscoreQuestions';
+const ANSWER_OVERRIDES_KEY = 'geoscoreAnswerOverrides';
+const EXCLUSIONS_KEY = 'geoscoreExclusions'; // { CategoryName: { normalizedName: true } }
 
 export const DEFAULT_QUESTIONS = [
   {
@@ -33,22 +35,52 @@ export const DEFAULT_QUESTIONS = [
   }
 ];
 
+function readAnswerOverrides(){
+  try{ const raw = localStorage.getItem(ANSWER_OVERRIDES_KEY); const obj = raw?JSON.parse(raw):{}; return obj&&typeof obj==='object'?obj:{}; }catch{ return {}; }
+}
+function writeAnswerOverride(questionKey, originalAnswer, newValue){
+  const map = readAnswerOverrides();
+  if(!map[questionKey]) map[questionKey] = {};
+  if(newValue){ map[questionKey][originalAnswer] = newValue; }
+  else { if(map[questionKey]) delete map[questionKey][originalAnswer]; }
+  try{ localStorage.setItem(ANSWER_OVERRIDES_KEY, JSON.stringify(map)); }catch{}
+}
+function getAnswerOverride(questionKey, originalAnswer){
+  const map = readAnswerOverrides();
+  return (map[questionKey] && map[questionKey][originalAnswer]) || '';
+}
+
 export async function loadQuestions() {
+  // Prefer fresh file from server; fall back to cached localStorage or defaults
+  let cached = null;
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    const parsed = JSON.parse(raw);
-    if (Array.isArray(parsed) && parsed.length) {
-      return parsed;
-    }
+    cached = JSON.parse(raw);
   } catch {}
   try {
-    const res = await fetch('geoscore_questions.json');
+    const res = await fetch('geoscore_questions.json', { cache: 'no-store' });
     if (res.ok) {
       const data = await res.json();
+      // Apply answer overrides (persisted by admin editing)
+      const ov = readAnswerOverrides();
+      for(const q of (Array.isArray(data)?data:[])){
+        const qkey = String(q && q.question || '');
+        const amap = ov[qkey] || {};
+        if(Array.isArray(q && q.answers)){
+          for(const a of q.answers){
+            const orig = String(a && a.answer || '');
+            const repl = amap[orig];
+            if(repl){ a._orig = orig; a.answer = repl; } else { a._orig = orig; }
+          }
+        }
+      }
       saveQuestions(data);
       return data;
     }
   } catch {}
+  if (Array.isArray(cached) && cached.length) {
+    return cached;
+  }
   // If nothing stored, seed with defaults
   saveQuestions(DEFAULT_QUESTIONS);
   return JSON.parse(JSON.stringify(DEFAULT_QUESTIONS));
@@ -71,6 +103,7 @@ export async function initGeoScorePanel() {
     const suffixes = [
       'city municipality','town municipality',
       'unified government','metropolitan government','city-county',
+      'census designated place','cdp',
       'county','parish','borough','municipality','city','town','village','commune'
     ];
     let changed=true;
@@ -121,22 +154,124 @@ export async function initGeoScorePanel() {
 
   const all = await loadQuestions();
 
-  // Categorize questions from their text
-  function categorize(question){
-    const q = String(question||'').toLowerCase();
-    if(q.startsWith('name a city in')) return 'State Cities';
+  // US state names for categorization of state vs country questions
+  const US_STATE_SET = new Set([
+    'alabama','alaska','arizona','arkansas','california','colorado','connecticut','delaware','florida','georgia',
+    'hawaii','idaho','illinois','indiana','iowa','kansas','kentucky','louisiana','maine','maryland','massachusetts',
+    'michigan','minnesota','mississippi','missouri','montana','nebraska','nevada','new hampshire','new jersey',
+    'new mexico','new york','north carolina','north dakota','ohio','oklahoma','oregon','pennsylvania','rhode island',
+    'south carolina','south dakota','tennessee','texas','utah','vermont','virginia','washington','west virginia',
+    'wisconsin','wyoming','district of columbia'
+  ]);
+
+  // Normalize country display names to avoid duplicate variants in the list
+  function normalizeCountryName(raw){
+    let n = String(raw||'').trim();
+    n = n.replace(/^the\s+/i,'');
+    const key = n.toLowerCase();
+    const aliases = {
+      'united states of america':'United States', 'united states':'United States', 'usa':'United States', 'u.s.':'United States',
+      'united kingdom':'United Kingdom', 'u.k.':'United Kingdom', 'uk':'United Kingdom', 'great britain':'United Kingdom',
+      'czech republic':'Czechia', 'turkiye':'Turkey', 'türkiye':'Turkey',
+      'syrian arab republic':'Syria', 'iran (islamic republic of)':'Iran', 'viet nam':'Vietnam',
+      'lao people\'s democratic republic':'Laos', 'moldova, republic of':'Moldova',
+      'tanzania, united republic of':'Tanzania', 'united republic of tanzania':'Tanzania',
+      'china, taiwan province of':'Taiwan', 'china, hong kong sar':'Hong Kong', 'hong kong s.a.r.':'Hong Kong',
+      'china, macao sar':'Macao', 'macao s.a.r':'Macao', 'macau':'Macao',
+      'republic of serbia':'Serbia',
+      'cote d\'ivoire':'Ivory Coast', 'côte d\'ivoire':'Ivory Coast',
+      'sao tome and principe':'São Tomé and Principe', 'eswatini':'eSwatini', 'swaziland':'eSwatini',
+      'burma':'Myanmar'
+    };
+    if(aliases[key]) return aliases[key];
+    // Title-case fallback
+    return n.replace(/\w\S*/g, (w)=> w.charAt(0).toUpperCase()+w.slice(1));
+  }
+
+  // Exclusions (per-category)
+  function readExclusions(){
+    try{ const raw=localStorage.getItem(EXCLUSIONS_KEY); const obj=raw?JSON.parse(raw):{}; return obj&&typeof obj==='object'?obj:{}; }catch{ return {}; }
+  }
+  function writeExclusions(map){ try{ localStorage.setItem(EXCLUSIONS_KEY, JSON.stringify(map)); }catch{} }
+  function isExcluded(category, name){
+    const ex = readExclusions();
+    const set = (ex && ex[category]) || {};
+    const key = category==='Country Cities' ? normalizeCountryName(name) : String(name||'').trim();
+    return !!set[key];
+  }
+  function excludeItem(category, name){
+    const ex = readExclusions();
+    if(!ex[category]) ex[category]={};
+    const key = category==='Country Cities' ? normalizeCountryName(name) : String(name||'').trim();
+    ex[category][key]=true; writeExclusions(ex);
+  }
+  function includeItem(category, name){
+    const ex = readExclusions();
+    const key = category==='Country Cities' ? normalizeCountryName(name) : String(name||'').trim();
+    if(ex[category]){ delete ex[category][key]; writeExclusions(ex); }
+  }
+
+  // Categorize questions from their text (pass full question object to disambiguate)
+  function categorizeQ(qobj){
+    const question = qobj && qobj.question;
+    const qraw = String(question||'').trim();
+    const q = qraw.toLowerCase();
+    // Distinguish US state vs country city questions
+    const m = /^name a city in\s+(.+)$/i.exec(qraw);
+    if(m && m[1]){
+      const target = m[1].trim().replace(/^[Tt]he\s+/, '').replace(/[\s\.-]+$/,'');
+      const tnorm = target.toLowerCase();
+      if(US_STATE_SET.has(tnorm)){
+        // Special-case: "Georgia" can be a US state or the country. If the answers look like
+        // Georgian country cities, treat as Country Cities.
+        if(tnorm === 'georgia'){
+          const ans = ((qobj && qobj.answers) || []).map(a => String(a && a.answer || '').toLowerCase());
+          const geCountryHints = ['tbilisi','batumi','kutaisi','rustavi','poti','gori','zugdidi','samtredia','khashuri'];
+          const looksCountry = geCountryHints.some(h => ans.some(x => x.includes(h)));
+          if(looksCountry) return 'Country Cities';
+        }
+        return 'State Cities';
+      }
+      return 'Country Cities';
+    }
+    if(q.includes('european capital')) return 'European Capitals';
     if(q.includes('capital')) return 'Capital Cities';
     if(q.includes('u.s. state')) return 'US States';
     if(q.includes('country')) return 'Countries';
     return 'Other';
   }
 
+  // Build category map with country list de-duplicated by normalized country name
   const byCat = new Map();
+  const tmpByCat = new Map();
   all.forEach((q)=>{
-    const c = categorize(q.question);
-    if(!byCat.has(c)) byCat.set(c, []);
-    byCat.get(c).push(q);
+    const c = categorizeQ(q);
+    if(!tmpByCat.has(c)) tmpByCat.set(c, []);
+    tmpByCat.get(c).push(q);
   });
+  // Directly assign for non-country categories
+  for(const [cat, qs] of tmpByCat.entries()){
+    if(cat !== 'Country Cities'){ byCat.set(cat, qs); }
+  }
+  // Deduplicate Country Cities display by canonical name
+  if(tmpByCat.has('Country Cities')){
+    const list = tmpByCat.get('Country Cities');
+    const bestByName = new Map();
+    for(const q of list){
+      const m = /^\s*Name a city in\s+(.+)$/i.exec(String(q.question||''));
+      const target = m && m[1] ? m[1].trim() : '';
+      const key = normalizeCountryName(target);
+      if(isExcluded('Country Cities', key)) continue;
+      if(!bestByName.has(key)) bestByName.set(key, q);
+      else {
+        const prev = bestByName.get(key);
+        const lenA = Array.isArray(prev.answers)?prev.answers.length:0;
+        const lenB = Array.isArray(q.answers)?q.answers.length:0;
+        if(lenB > lenA) bestByName.set(key, q);
+      }
+    }
+    byCat.set('Country Cities', Array.from(bestByName.values()).sort((a,b)=> String(a.question).localeCompare(String(b.question))));
+  }
 
   // State
   let selectedCat = null;
@@ -173,7 +308,43 @@ export async function initGeoScorePanel() {
       const li = document.createElement('li');
       const sel = (selectedQuestion && selectedQuestion.question === q.question);
       li.className = 'geoscore-item' + (sel ? ' selected' : '');
-      li.textContent = q.question;
+      // Row content with optional Exclude button
+      const text = document.createElement('span');
+      text.textContent = q.question;
+      li.appendChild(text);
+      if(selectedCat === 'Country Cities'){
+        const btn = document.createElement('button');
+        btn.type='button'; btn.textContent='Exclude';
+        btn.style.marginLeft='8px'; btn.style.fontSize='12px';
+        btn.addEventListener('click', (e)=>{
+          e.stopPropagation();
+          const m = /^\s*Name a city in\s+(.+)$/i.exec(String(q.question||''));
+          const target = m && m[1] ? m[1].trim() : '';
+          excludeItem('Country Cities', target);
+          // Rebuild maps and re-render
+          // Reconstruct byCat for Country Cities only
+          const orig = tmpByCat.get('Country Cities')||[];
+          const bestByName = new Map();
+          for(const qq of orig){
+            const mm = /^\s*Name a city in\s+(.+)$/i.exec(String(qq.question||''));
+            const targ = mm && mm[1] ? mm[1].trim() : '';
+            const key = normalizeCountryName(targ);
+            if(isExcluded('Country Cities', key)) continue;
+            if(!bestByName.has(key)) bestByName.set(key, qq);
+            else{
+              const prev = bestByName.get(key);
+              const lenA = Array.isArray(prev.answers)?prev.answers.length:0;
+              const lenB = Array.isArray(qq.answers)?qq.answers.length:0;
+              if(lenB > lenA) bestByName.set(key, qq);
+            }
+          }
+          byCat.set('Country Cities', Array.from(bestByName.values()).sort((a,b)=> String(a.question).localeCompare(String(b.question))));
+          renderQuestions();
+          // If current selection got excluded, clear answers panel
+          if(selectedQuestion && selectedQuestion.question === q.question){ selectedQuestion = null; renderAnswers(); }
+        });
+        li.appendChild(btn);
+      }
       li.title = q.question;
       li.addEventListener('click', ()=>{
         selectedQuestion = q;
@@ -183,6 +354,45 @@ export async function initGeoScorePanel() {
       ul.appendChild(li);
     });
     qUI.body.appendChild(ul);
+
+    // Manage exclusions UI for Country Cities
+    if(selectedCat === 'Country Cities'){
+      const manage = document.createElement('div');
+      manage.style.marginTop='8px'; manage.style.fontSize='12px';
+      const btn = document.createElement('button'); btn.type='button'; btn.textContent='Manage Exclusions'; btn.style.fontSize='12px';
+      btn.addEventListener('click', ()=>{
+        const ex = readExclusions();
+        const cur = Object.keys((ex && ex['Country Cities'])||{}).join(', ');
+        const val = prompt('Excluded countries (comma-separated, by name):', cur);
+        if(val!==null){
+          const nextSet = {};
+          val.split(',').map(s=>normalizeCountryName(s.trim())).filter(Boolean).forEach(k=> nextSet[k]=true);
+          ex['Country Cities'] = nextSet;
+          writeExclusions(ex);
+          // Rebuild
+          const orig = tmpByCat.get('Country Cities')||[];
+          const bestByName = new Map();
+          for(const qq of orig){
+            const mm = /^\s*Name a city in\s+(.+)$/i.exec(String(qq.question||''));
+            const targ = mm && mm[1] ? mm[1].trim() : '';
+            const key = normalizeCountryName(targ);
+            if(isExcluded('Country Cities', key)) continue;
+            if(!bestByName.has(key)) bestByName.set(key, qq);
+            else{
+              const prev = bestByName.get(key);
+              const lenA = Array.isArray(prev.answers)?prev.answers.length:0;
+              const lenB = Array.isArray(qq.answers)?qq.answers.length:0;
+              if(lenB > lenA) bestByName.set(key, qq);
+            }
+          }
+          byCat.set('Country Cities', Array.from(bestByName.values()).sort((a,b)=> String(a.question).localeCompare(String(b.question))));
+          renderQuestions();
+          renderAnswers();
+        }
+      });
+      manage.appendChild(btn);
+      qUI.body.appendChild(manage);
+    }
   }
 
   function renderAnswers(){
@@ -195,9 +405,46 @@ export async function initGeoScorePanel() {
     }
     const ul = document.createElement('ul');
     ul.className = 'geoscore-list';
+    const qkey = String(selectedQuestion.question||'');
     (selectedQuestion.answers||[]).forEach(a => {
       const li = document.createElement('li');
-      li.textContent = `${formatPlaceName(a.answer)} (${a.count || 0})`;
+      const name = document.createElement('span');
+      name.style.cursor = 'pointer';
+      name.title = 'Click to edit';
+      const display = formatPlaceName(a.answer);
+      const count = a.count || 0;
+      name.textContent = display;
+      li.appendChild(name);
+      const cnt = document.createElement('span');
+      cnt.style.opacity='0.7'; cnt.style.marginLeft='6px';
+      cnt.textContent = `(${count})`;
+      li.appendChild(cnt);
+
+      const originalKey = String(a._orig || a.answer || '');
+      function beginEdit(){
+        const input = document.createElement('input');
+        input.type='text';
+        input.value = name.textContent || '';
+        input.style.minWidth='160px';
+        li.replaceChild(input, name);
+        input.focus(); input.select();
+        function finish(save){
+          const val = input.value.trim();
+          if(save && val && val !== display){
+            writeAnswerOverride(qkey, originalKey, val);
+            a.answer = val;
+            // keep original key stable for future merges
+          }
+          name.textContent = a.answer;
+          try{ li.replaceChild(name, input); }catch{}
+        }
+        input.addEventListener('keydown', (e)=>{
+          if(e.key==='Enter'){ finish(true); }
+          else if(e.key==='Escape'){ finish(false); }
+        });
+        input.addEventListener('blur', ()=> finish(true));
+      }
+      name.addEventListener('click', beginEdit);
       ul.appendChild(li);
     });
     ansUI.body.appendChild(ul);
@@ -211,6 +458,7 @@ export async function initGeoScorePanel() {
   renderCategories();
   renderQuestions();
   renderAnswers();
+
 }
 
 if (typeof window !== 'undefined') {

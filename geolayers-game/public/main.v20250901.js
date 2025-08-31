@@ -200,7 +200,7 @@ const urlParams = new URLSearchParams(location.search);
 const forcedCountry = urlParams.get('country');
 const adminMode = /^(1|true|yes)$/i.test(String(urlParams.get('admin')||''));
 const layerMode = (urlParams.get('layers')||'rivers').toLowerCase();
-const adminLayers = String(urlParams.get('layers')||'rivers').toLowerCase().split(',').map(s=>s.trim()).filter(Boolean);
+let adminLayers = String(urlParams.get('layers')||'rivers').toLowerCase().split(',').map(s=>s.trim()).filter(Boolean);
 
 fetch('countries.json').then(r=>r.json()).then(data=>{
   data.sort((a,b)=>a.name.localeCompare(b.name));
@@ -270,6 +270,31 @@ fetch('countries.json').then(r=>r.json()).then(data=>{
   guess.addEventListener('keydown', (e)=>{ if(e.key==='Enter') handleGuess(); });
 });
 
+// Allow parent admin UI to change visible layers without reloading the iframe
+try{
+  window.addEventListener('message', (e) => {
+    try{
+      const msg = e && e.data;
+      if(!msg || typeof msg !== 'object') return;
+      if(msg.type === 'geolayers:setLayers'){
+        const arr = Array.isArray(msg.layers) ? msg.layers : String(msg.layers||'').split(',');
+        adminLayers = arr.map(s=>String(s||'').toLowerCase().trim()).filter(Boolean);
+        if(adminMode) applyAdminLayers();
+      } else if (msg.type === 'geolayers:setCountry') {
+        const iso = String(msg.country||'').toUpperCase();
+        const list = Array.isArray(window.__countryCodes) ? window.__countryCodes : [];
+        if(list.includes(iso)){
+          locationId = iso;
+          finished = false;
+          round = 1;
+          triedSet = new Set();
+          loadCountry();
+        }
+      }
+    }catch{}
+  });
+}catch{}
+
 function updateGuessedUI(){
   try{
     const el = document.getElementById('guessed');
@@ -305,12 +330,17 @@ function applyAdminLayers(){
     for(const l of layersAll){ if(l && map.hasLayer(l)) map.removeLayer(l); }
   }catch{}
   const set = new Set(adminLayers);
+  // Safety: if no layers selected, default to showing outline to avoid a blank map
+  if(set.size === 0){ set.add('outline'); }
   if(set.has('all')){ set.clear(); ['rivers','cities','topo','roads','outline'].forEach(x=>set.add(x)); }
-  if(set.has('rivers') && riversLayer) riversLayer.addTo(map);
-  if(set.has('cities') && citiesLayer) citiesLayer.addTo(map);
-  if(set.has('topo') && topoLayer) topoLayer.addTo(map);
-  if(set.has('roads') && roadsLayer) roadsLayer.addTo(map);
-  if(set.has('outline') && outline) outline.addTo(map);
+  let any=false;
+  if(set.has('rivers') && riversLayer){ riversLayer.addTo(map); any=true; }
+  if(set.has('cities') && citiesLayer){ citiesLayer.addTo(map); any=true; }
+  if(set.has('topo') && topoLayer){ topoLayer.addTo(map); any=true; }
+  if(set.has('roads') && roadsLayer){ roadsLayer.addTo(map); any=true; }
+  if(set.has('outline') && outline){ outline.addTo(map); any=true; }
+  // If nothing got added (e.g., roads empty), ensure outline is visible
+  if(!any && outline){ outline.addTo(map); }
 }
 
 function rotateCountry(){
@@ -411,8 +441,29 @@ function loadCountry() {
     }
     try {
       const roadsSan0 = sanitizeGeoJSON(roadsGeo) || roadsGeo;
-      const roadsSan = limitRoads(roadsSan0, 30000);
-      roadsLayer = L.geoJSON(roadsSan, { style: { color: '#888', weight: 1, opacity: 0.7, lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
+      const roadsLimited = limitRoads(roadsSan0, 30000);
+      // Clip roads to outline geometry so neighbors (e.g., Chile/Uruguay) don't appear
+      const outlineMP = toMultiPolygonCoords(outlineSan);
+      const roadsClipped = outlineMP ? clipRoadsToMultiPolygon(roadsLimited, outlineMP) : roadsLimited;
+      roadsLayer = L.geoJSON(roadsClipped, { style: { color: '#888', weight: 1, opacity: 0.7, lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
+      // Heuristic: if roads bbox is far from outline bbox center, retry swapping [lng,lat] -> [lat,lng]
+      try{
+        const ob = outline && outline.getBounds && outline.getBounds();
+        const rb = roadsLayer && roadsLayer.getBounds && roadsLayer.getBounds();
+        if(ob && rb && ob.isValid && rb.isValid && ob.isValid() && rb.isValid()){
+          const oc = ob.getCenter(), rc = rb.getCenter();
+          const dlat = Math.abs(oc.lat - rc.lat);
+          const dlng = Math.abs(oc.lng - rc.lng);
+          if(dlat > 10 || dlng > 10){
+            const swapped = swapGeoJSONLonLat(roadsClipped);
+            const swappedLayer = L.geoJSON(swapped, { style: { color: '#888', weight: 1, opacity: 0.7, lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
+            const sb = swappedLayer.getBounds();
+            if(sb && sb.isValid && sb.isValid()){
+              roadsLayer = swappedLayer;
+            }
+          }
+        }
+      }catch{}
     } catch { roadsLayer = null; }
     try {
       const topoSan = capFeatureCount(sanitizeGeoJSON(elevationGeo) || elevationGeo, 30000);
@@ -462,6 +513,145 @@ function loadCountry() {
     }
     map.setView([20, 0], 2);
   });
+}
+
+// Swap [lng,lat] <-> [lat,lng] in GeoJSON for LineString/MultiLineString features
+function swapGeoJSONLonLat(fc){
+  try{
+    if(!fc || fc.type!=='FeatureCollection') return fc;
+    const out = { type:'FeatureCollection', features: [] };
+    for(const f of (fc.features||[])){
+      const g = f && f.geometry;
+      if(!g){ out.features.push(f); continue; }
+      if(g.type==='LineString'){
+        const coords = Array.isArray(g.coordinates) ? g.coordinates.map(c=> Array.isArray(c) && c.length>=2 ? [c[1], c[0]] : c) : g.coordinates;
+        out.features.push({ type:'Feature', properties: f.properties||{}, geometry: { type:'LineString', coordinates: coords } });
+      } else if(g.type==='MultiLineString'){
+        const ml = (Array.isArray(g.coordinates)? g.coordinates : []).map(ls => Array.isArray(ls) ? ls.map(c=> Array.isArray(c) && c.length>=2 ? [c[1], c[0]] : c) : ls);
+        out.features.push({ type:'Feature', properties: f.properties||{}, geometry: { type:'MultiLineString', coordinates: ml } });
+      } else {
+        out.features.push(f);
+      }
+    }
+    return out;
+  }catch{ return fc; }
+}
+
+// --- Client-side clipping of roads to outline ---
+function toMultiPolygonCoords(fc){
+  try{
+    if(!fc) return null;
+    const collect = [];
+    function addGeom(g){
+      if(!g || !g.type) return;
+      if(g.type==='Polygon') collect.push(g.coordinates);
+      else if(g.type==='MultiPolygon') collect.push(...g.coordinates);
+    }
+    if(fc.type==='FeatureCollection'){
+      for(const f of (fc.features||[])) addGeom(f && f.geometry);
+    } else if(fc.type==='Feature') addGeom(fc.geometry);
+    else addGeom(fc);
+    return collect.length ? collect : null;
+  }catch{ return null; }
+}
+
+function pointInRing(pt, ring){
+  let inside=false; const n=ring.length|0; if(n<4) return false;
+  for(let i=0,j=n-1;i<n;j=i++){
+    const xi=+ring[i][0], yi=+ring[i][1], xj=+ring[j][0], yj=+ring[j][1];
+    const intersect=((yi>pt[1])!==(yj>pt[1])) && (pt[0] < (xj-xi)*(pt[1]-yi)/((yj-yi)||1e-12)+xi);
+    if(intersect) inside=!inside;
+  }
+  return inside;
+}
+function pointInPolygon(pt, poly){
+  if(!Array.isArray(poly)||!poly.length) return false;
+  if(!pointInRing(pt, poly[0])) return false;
+  for(let k=1;k<poly.length;k++) if(pointInRing(pt, poly[k])) return false;
+  return true;
+}
+function pointInMultiPolygon(pt, mp){
+  const polys=Array.isArray(mp)?mp:[];
+  for(const poly of polys){ if(pointInPolygon(pt, poly)) return true; }
+  return false;
+}
+function clipLineStringToMultiPolygon(coords, mp){
+  const segs=[]; let cur=[];
+  for(let idx=0; idx<(coords||[]).length; idx++){
+    const c = coords[idx];
+    const inside = pointInMultiPolygon(c, mp);
+    if(inside){
+      cur.push(c);
+    } else {
+      if(cur.length>=2) segs.push(cur);
+      cur=[];
+    }
+  }
+  if(cur.length>=2) segs.push(cur);
+  if(!segs.length) return null;
+  if(segs.length===1) return { type:'LineString', coordinates: segs[0] };
+  return { type:'MultiLineString', coordinates: segs };
+}
+function clipRoadsToMultiPolygon(fc, mp){
+  try{
+    if(!fc || fc.type!=='FeatureCollection') return fc;
+    const out = { type:'FeatureCollection', features: [] };
+    for(const f of (fc.features||[])){
+      const g = f && f.geometry;
+      if(!g){ out.features.push(f); continue; }
+      if(g.type==='LineString'){
+        const cg = clipLineStringToMultiPolygon(g.coordinates||[], mp);
+        if(cg) out.features.push({ type:'Feature', properties: f.properties||{}, geometry: cg });
+      } else if(g.type==='MultiLineString'){
+        const segs=[];
+        for(const ls of (g.coordinates||[])){
+          const cg = clipLineStringToMultiPolygon(ls||[], mp);
+          if(cg){ if(cg.type==='LineString') segs.push(cg.coordinates); else segs.push(...(cg.coordinates||[])); }
+        }
+        if(segs.length===1) out.features.push({ type:'Feature', properties:f.properties||{}, geometry:{ type:'LineString', coordinates: segs[0] } });
+        else if(segs.length>1) out.features.push({ type:'Feature', properties:f.properties||{}, geometry:{ type:'MultiLineString', coordinates: segs } });
+      } else {
+        // Non-line features: keep as-is
+        out.features.push(f);
+      }
+    }
+    return out;
+  }catch{ return fc; }
+}
+
+// Rescale and translate roads GeoJSON to align with outline bounds.
+// Scales around source center, then recenters to target center.
+function scaleGeoJSONToBounds(fc, srcCenter, dstCenter, sx, sy){
+  try{
+    if(!fc || fc.type!=='FeatureCollection') return fc;
+    const out = { type:'FeatureCollection', features: [] };
+    const rcx = Number(srcCenter && srcCenter.cx);
+    const rcy = Number(srcCenter && srcCenter.cy);
+    const ocx = Number(dstCenter && dstCenter.cx);
+    const ocy = Number(dstCenter && dstCenter.cy);
+    const Sx = Number.isFinite(sx)?sx:1; const Sy = Number.isFinite(sy)?sy:1;
+    function scalePt(pt){
+      const x = Number(pt[0]); const y = Number(pt[1]);
+      if(!Number.isFinite(x) || !Number.isFinite(y)) return pt;
+      const nx = ocx + (x - rcx) * Sx;
+      const ny = ocy + (y - rcy) * Sy;
+      return [nx, ny];
+    }
+    for(const f of (fc.features||[])){
+      const g = f && f.geometry;
+      if(!g){ out.features.push(f); continue; }
+      if(g.type==='LineString'){
+        const coords = Array.isArray(g.coordinates) ? g.coordinates.map(scalePt) : g.coordinates;
+        out.features.push({ type:'Feature', properties: f.properties||{}, geometry: { type:'LineString', coordinates: coords } });
+      } else if(g.type==='MultiLineString'){
+        const ml = (Array.isArray(g.coordinates)? g.coordinates : []).map(ls => Array.isArray(ls) ? ls.map(scalePt) : ls);
+        out.features.push({ type:'Feature', properties: f.properties||{}, geometry: { type:'MultiLineString', coordinates: ml } });
+      } else {
+        out.features.push(f);
+      }
+    }
+    return out;
+  }catch{ return fc; }
 }
 
 // Clear timers and aborts on unload to avoid background work

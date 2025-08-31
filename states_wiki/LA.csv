@@ -1,53 +1,53 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-LA,2255000,New Orleans,incorporated,25,A,383997,"New Orleans, LA",0,1,66,0.264,New Orleans city
-LA,2205000,Baton Rouge,incorporated,25,B,227470,"Baton Rouge, LA",0,2,42,0.168,Baton Rouge city
-LA,2270000,Shreveport,incorporated,25,A,187593,"Shreveport, LA",0,3,16,0.064,Shreveport city
-LA,2240735,Lafayette,incorporated,25,B,121374,"Lafayette, LA",0,4,11,0.044,Lafayette city
-LA,2241155,Lake Charles,incorporated,25,A,84872,"Lake Charles, LA",0,5,10,0.04,Lake Charles city
-LA,2239475,Kenner,incorporated,25,A,66448,"Kenner, LA",0,6,8,0.032,Kenner city
-LA,2208920,Bossier City,incorporated,25,A,62701,"Bossier City, LA",0,7,7,0.028,Bossier City city
-LA,2251410,Monroe,incorporated,25,A,47702,"Monroe, LA",0,8,6,0.024,Monroe city
-LA,2200975,Alexandria,incorporated,25,A,45275,"Alexandria, LA",0,9,4,0.016,Alexandria city
-LA,2236255,Houma,incorporated,25,N,33406,"Houma, LA",0,10,5,0.02,Houma city
-LA,2213960,Central,incorporated,25,A,29565,"Central, LA",0,11,3,0.012,Central city
-LA,2270805,Slidell,incorporated,25,A,28781,"Slidell, LA",0,12,4,0.016,Slidell city
-LA,2254035,New Iberia,incorporated,25,A,28555,"New Iberia, LA",0,13,4,0.016,New Iberia city
-LA,2266655,Ruston,incorporated,25,A,22166,"Ruston, LA",0,14,2,0.008,Ruston city
-LA,2273640,Sulphur,incorporated,25,A,21809,"Sulphur, LA",0,15,2,0.008,Sulphur city
-LA,2232755,Hammond,incorporated,25,A,19584,"Hammond, LA",0,16,2,0.008,Hammond city
-LA,2283405,Zachary,incorporated,25,A,19316,"Zachary, LA",0,17,3,0.012,Zachary city
-LA,2253545,Natchitoches,incorporated,25,A,18039,"Natchitoches, LA",0,18,3,0.012,Natchitoches city
-LA,2231915,Gretna,incorporated,25,A,17814,"Gretna, LA",0,19,3,0.012,Gretna city
-LA,2275425,Thibodaux,incorporated,25,A,15948,"Thibodaux, LA",0,20,2,0.008,Thibodaux city
-LA,2283335,Youngsville,incorporated,25,A,15929,"Youngsville, LA",0,21,1,0.004,Youngsville city
-LA,2258045,Opelousas,incorporated,25,A,15786,"Opelousas, LA",0,22,1,0.004,Opelousas city
-LA,2260530,Pineville,incorporated,25,A,14384,"Pineville, LA",0,23,1,0.004,Pineville city
-LA,2210075,Broussard,incorporated,25,A,13417,"Broussard, LA",0,24,1,0.004,Broussard city
-LA,2248225,Mandeville,incorporated,25,A,13192,"Mandeville, LA",0,25,1,0.004,Mandeville city
-LA,2280955,West Monroe,incorporated,25,A,13103,"West Monroe, LA",0,26,1,0.004,West Monroe city
-LA,2203985,Baker,incorporated,25,A,12455,"Baker, LA",0,27,1,0.004,Baker city
-LA,2229850,Gonzales,incorporated,25,A,12231,"Gonzales, LA",0,28,1,0.004,Gonzales city
-LA,2250885,Minden,incorporated,25,A,11928,"Minden, LA",0,29,2,0.008,Minden city
-LA,2218650,Crowley,incorporated,25,A,11710,"Crowley, LA",0,30,2,0.008,Crowley city
-LA,2218125,Covington,incorporated,25,A,11564,"Covington, LA",0,31,2,0.008,Covington city
-LA,2252040,Morgan City,incorporated,25,A,11472,"Morgan City, LA",0,32,2,0.008,Morgan City city
-LA,2200100,Abbeville,incorporated,25,A,11186,"Abbeville, LA",0,33,2,0.008,Abbeville city
-LA,2208150,Bogalusa,incorporated,25,A,10659,"Bogalusa, LA",0,34,2,0.008,Bogalusa city
-LA,2220610,DeRidder,incorporated,25,A,9852,"DeRidder, LA",0,35,2,0.008,DeRidder city
-LA,2238355,Jennings,incorporated,25,A,9837,"Jennings, LA",0,36,2,0.008,Jennings city
-LA,2204685,Bastrop,incorporated,25,A,9691,"Bastrop, LA",0,37,2,0.008,Bastrop city
-LA,2224565,Eunice,incorporated,25,A,9422,"Eunice, LA",0,38,2,0.008,Eunice city
-LA,2220435,Denham Springs,incorporated,25,A,9286,"Denham Springs, LA",0,39,2,0.008,Denham Springs city
-LA,2212665,Carencro,incorporated,25,A,9272,"Carencro, LA",0,40,2,0.008,Carencro city
-LA,2232930,Harahan,incorporated,25,A,9116,"Harahan, LA",0,41,2,0.008,Harahan city
-LA,2281165,Westwego,incorporated,25,A,8568,"Westwego, LA",0,42,2,0.008,Westwego city
-LA,2268475,Scott,incorporated,25,A,8119,"Scott, LA",0,43,2,0.008,Scott city
-LA,2261615,Ponchatoula,incorporated,25,A,7822,"Ponchatoula, LA",0,44,2,0.008,Ponchatoula city
-LA,2209340,Breaux Bridge,incorporated,25,A,7513,"Breaux Bridge, LA",0,45,2,0.008,Breaux Bridge city
-LA,2263645,Rayne,incorporated,25,A,7236,"Rayne, LA",0,46,2,0.008,Rayne city
-LA,2200415,Addis,incorporated,43,A,6731,"Addis, LA",0,47,1,0.004,Addis town
-LA,2227155,Franklin,incorporated,25,A,6728,"Franklin, LA",0,48,1,0.004,Franklin city
-LA,2221240,Donaldsonville,incorporated,25,A,6695,"Donaldsonville, LA",0,49,1,0.004,Donaldsonville city
+LA,2255000,New Orleans,incorporated,25,A,383997,"New Orleans, LA",0,1,27,0.27,New Orleans city
+LA,2205000,Baton Rouge,incorporated,25,B,227470,"Baton Rouge, LA",0,2,16,0.16,Baton Rouge city
+LA,2270000,Shreveport,incorporated,25,A,187593,"Shreveport, LA",0,3,8,0.08,Shreveport city
+LA,2240735,Lafayette,incorporated,25,B,121374,"Lafayette, LA",0,4,6,0.06,Lafayette city
+LA,2241155,Lake Charles,incorporated,25,A,84872,"Lake Charles, LA",0,5,4,0.04,Lake Charles city
+LA,2239475,Kenner,incorporated,25,A,66448,"Kenner, LA",0,6,4,0.04,Kenner city
+LA,2208920,Bossier City,incorporated,25,A,62701,"Bossier City, LA",0,7,2,0.02,Bossier City city
+LA,2251410,Monroe,incorporated,25,A,47702,"Monroe, LA",0,8,3,0.03,Monroe city
+LA,2200975,Alexandria,incorporated,25,A,45275,"Alexandria, LA",0,9,3,0.03,Alexandria city
+LA,2236255,Houma,incorporated,25,N,33406,"Houma, LA",0,10,2,0.02,Houma city
+LA,2213960,Central,incorporated,25,A,29565,"Central, LA",0,11,1,0.01,Central city
+LA,2270805,Slidell,incorporated,25,A,28781,"Slidell, LA",0,12,1,0.01,Slidell city
+LA,2254035,New Iberia,incorporated,25,A,28555,"New Iberia, LA",0,13,1,0.01,New Iberia city
+LA,2266655,Ruston,incorporated,25,A,22166,"Ruston, LA",0,14,2,0.02,Ruston city
+LA,2273640,Sulphur,incorporated,25,A,21809,"Sulphur, LA",0,15,2,0.02,Sulphur city
+LA,2232755,Hammond,incorporated,25,A,19584,"Hammond, LA",0,16,2,0.02,Hammond city
+LA,2283405,Zachary,incorporated,25,A,19316,"Zachary, LA",0,17,2,0.02,Zachary city
+LA,2253545,Natchitoches,incorporated,25,A,18039,"Natchitoches, LA",0,18,2,0.02,Natchitoches city
+LA,2231915,Gretna,incorporated,25,A,17814,"Gretna, LA",0,19,2,0.02,Gretna city
+LA,2275425,Thibodaux,incorporated,25,A,15948,"Thibodaux, LA",0,20,2,0.02,Thibodaux city
+LA,2283335,Youngsville,incorporated,25,A,15929,"Youngsville, LA",0,21,2,0.02,Youngsville city
+LA,2258045,Opelousas,incorporated,25,A,15786,"Opelousas, LA",0,22,2,0.02,Opelousas city
+LA,2260530,Pineville,incorporated,25,A,14384,"Pineville, LA",0,23,2,0.02,Pineville city
+LA,2210075,Broussard,incorporated,25,A,13417,"Broussard, LA",0,24,1,0.01,Broussard city
+LA,2248225,Mandeville,incorporated,25,A,13192,"Mandeville, LA",0,25,1,0.01,Mandeville city
+LA,2280955,West Monroe,incorporated,25,A,13103,"West Monroe, LA",0,26,0,0,West Monroe city
+LA,2203985,Baker,incorporated,25,A,12455,"Baker, LA",0,27,0,0,Baker city
+LA,2229850,Gonzales,incorporated,25,A,12231,"Gonzales, LA",0,28,0,0,Gonzales city
+LA,2250885,Minden,incorporated,25,A,11928,"Minden, LA",0,29,0,0,Minden city
+LA,2218650,Crowley,incorporated,25,A,11710,"Crowley, LA",0,30,0,0,Crowley city
+LA,2218125,Covington,incorporated,25,A,11564,"Covington, LA",0,31,0,0,Covington city
+LA,2252040,Morgan City,incorporated,25,A,11472,"Morgan City, LA",0,32,0,0,Morgan City city
+LA,2200100,Abbeville,incorporated,25,A,11186,"Abbeville, LA",0,33,0,0,Abbeville city
+LA,2208150,Bogalusa,incorporated,25,A,10659,"Bogalusa, LA",0,34,0,0,Bogalusa city
+LA,2220610,DeRidder,incorporated,25,A,9852,"DeRidder, LA",0,35,0,0,DeRidder city
+LA,2238355,Jennings,incorporated,25,A,9837,"Jennings, LA",0,36,0,0,Jennings city
+LA,2204685,Bastrop,incorporated,25,A,9691,"Bastrop, LA",0,37,0,0,Bastrop city
+LA,2224565,Eunice,incorporated,25,A,9422,"Eunice, LA",0,38,0,0,Eunice city
+LA,2220435,Denham Springs,incorporated,25,A,9286,"Denham Springs, LA",0,39,0,0,Denham Springs city
+LA,2212665,Carencro,incorporated,25,A,9272,"Carencro, LA",0,40,0,0,Carencro city
+LA,2232930,Harahan,incorporated,25,A,9116,"Harahan, LA",0,41,0,0,Harahan city
+LA,2281165,Westwego,incorporated,25,A,8568,"Westwego, LA",0,42,0,0,Westwego city
+LA,2268475,Scott,incorporated,25,A,8119,"Scott, LA",0,43,0,0,Scott city
+LA,2261615,Ponchatoula,incorporated,25,A,7822,"Ponchatoula, LA",0,44,0,0,Ponchatoula city
+LA,2209340,Breaux Bridge,incorporated,25,A,7513,"Breaux Bridge, LA",0,45,0,0,Breaux Bridge city
+LA,2263645,Rayne,incorporated,25,A,7236,"Rayne, LA",0,46,0,0,Rayne city
+LA,2200415,Addis,incorporated,43,A,6731,"Addis, LA",0,47,0,0,Addis town
+LA,2227155,Franklin,incorporated,25,A,6728,"Franklin, LA",0,48,0,0,Franklin city
+LA,2221240,Donaldsonville,incorporated,25,A,6695,"Donaldsonville, LA",0,49,0,0,Donaldsonville city
 LA,2256540,Oakdale,incorporated,25,A,6692,"Oakdale, LA",0,50,0,0,Oakdale city
 LA,2267250,St. Gabriel,incorporated,25,A,6433,"St. Gabriel, LA",0,51,0,0,St. Gabriel city
 LA,2279240,Walker,incorporated,43,A,6374,"Walker, LA",0,52,0,0,Walker town

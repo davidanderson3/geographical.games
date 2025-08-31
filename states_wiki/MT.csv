@@ -1,2 +1,129 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-MT,3011390,Butte-Silver Bow,consolidated,00,A,0,"Butte-Silver Bow, MT",0,1,250,1,Butte-Silver Bow
+MT,3006550,Billings,incorporated,25,A,117116,"Billings, MT",0,1,30,0.3,Billings city
+MT,3050200,Missoula,incorporated,25,A,73489,"Missoula, MT",0,2,12,0.12,Missoula city
+MT,3032800,Great Falls,incorporated,25,A,60442,"Great Falls, MT",0,3,7,0.07,Great Falls city
+MT,3008950,Bozeman,incorporated,25,A,53293,"Bozeman, MT",0,4,5,0.05,Bozeman city
+MT,3011397,Butte-Silver Bow (balance),incorporated,00,F,34494,"Butte-Silver Bow (balance), MT",0,5,5,0.05,Butte-Silver Bow (balance)
+MT,3035600,Helena,incorporated,25,A,32091,"Helena, MT",0,6,6,0.06,Helena city
+MT,3040075,Kalispell,incorporated,25,A,24558,"Kalispell, MT",0,7,3,0.03,Kalispell city
+MT,3004975,Belgrade,incorporated,25,A,10460,"Belgrade, MT",0,8,2,0.02,Belgrade city
+MT,3001675,Anaconda-Deer Lodge County,incorporated,00,A,9421,"Anaconda-Deer Lodge County, MT",0,9,3,0.03,Anaconda-Deer Lodge County
+MT,3035050,Havre,incorporated,25,A,9362,"Havre, MT",0,10,3,0.03,Havre city
+MT,3049525,Miles City,incorporated,25,A,8354,"Miles City, MT",0,11,1,0.01,Miles City city
+MT,3043975,Livingston,incorporated,25,A,8040,"Livingston, MT",0,12,1,0.01,Livingston city
+MT,3079825,Whitefish,incorporated,25,A,7751,"Whitefish, MT",0,13,1,0.01,Whitefish city
+MT,3042700,Laurel,incorporated,25,A,7222,"Laurel, MT",0,14,1,0.01,Laurel city
+MT,3067900,Sidney,incorporated,25,A,6346,"Sidney, MT",0,15,2,0.02,Sidney city
+MT,3043375,Lewistown,incorporated,25,A,5952,"Lewistown, MT",0,16,2,0.02,Lewistown city
+MT,3016600,Columbia Falls,incorporated,25,A,5308,"Columbia Falls, MT",0,17,2,0.02,Columbia Falls city
+MT,3058750,Polson,incorporated,25,A,5148,"Polson, MT",0,18,2,0.02,Polson city
+MT,3031450,Glendive,incorporated,25,A,4873,"Glendive, MT",0,19,2,0.02,Glendive city
+MT,3033775,Hamilton,incorporated,25,A,4659,"Hamilton, MT",0,20,2,0.02,Hamilton city
+MT,3020800,Dillon,incorporated,25,A,3880,"Dillon, MT",0,21,2,0.02,Dillon city
+MT,3034225,Hardin,incorporated,25,A,3818,"Hardin, MT",0,22,2,0.02,Hardin city
+MT,3031075,Glasgow,incorporated,25,A,3202,"Glasgow, MT",0,23,2,0.02,Glasgow city
+MT,3067450,Shelby,incorporated,25,A,3169,"Shelby, MT",0,24,1,0.01,Shelby city
+MT,3018775,Cut Bank,incorporated,25,A,3056,"Cut Bank, MT",0,25,1,0.01,Cut Bank city
+MT,3019825,Deer Lodge,incorporated,25,A,2938,"Deer Lodge, MT",0,26,0,0,Deer Lodge city
+MT,3043450,Libby,incorporated,25,A,2775,"Libby, MT",0,27,0,0,Libby city
+MT,3081475,Wolf Point,incorporated,25,A,2517,"Wolf Point, MT",0,28,0,0,Wolf Point city
+MT,3017275,Conrad,incorporated,25,A,2318,"Conrad, MT",0,29,0,0,Conrad city
+MT,3061525,Red Lodge,incorporated,25,A,2257,"Red Lodge, MT",0,30,0,0,Red Lodge city
+MT,3016525,Colstrip,incorporated,25,A,2096,"Colstrip, MT",0,31,0,0,Colstrip city
+MT,3047575,Manhattan,incorporated,43,A,2086,"Manhattan, MT",0,32,0,0,Manhattan town
+MT,3071200,Stevensville,incorporated,43,A,2002,"Stevensville, MT",0,33,0,0,Stevensville town
+MT,3073975,Three Forks,incorporated,25,A,1989,"Three Forks, MT",0,34,0,0,Three Forks city
+MT,3064150,Ronan,incorporated,25,A,1955,"Ronan, MT",0,35,0,0,Ronan city
+MT,3023125,East Helena,incorporated,25,A,1944,"East Helena, MT",0,36,0,0,East Helena city
+MT,3047425,Malta,incorporated,25,A,1860,"Malta, MT",0,37,0,0,Malta city
+MT,3016825,Columbus,incorporated,43,A,1857,"Columbus, MT",0,38,0,0,Columbus town
+MT,3003475,Baker,incorporated,25,A,1802,"Baker, MT",0,39,0,0,Baker city
+MT,3074575,Townsend,incorporated,25,A,1787,"Townsend, MT",0,40,0,0,Townsend city
+MT,3064525,Roundup,incorporated,25,A,1742,"Roundup, MT",0,41,0,0,Roundup city
+MT,3014650,Choteau,incorporated,25,A,1721,"Choteau, MT",0,42,0,0,Choteau city
+MT,3058375,Plentywood,incorporated,25,A,1669,"Plentywood, MT",0,43,0,0,Plentywood city
+MT,3006475,Big Timber,incorporated,25,A,1650,"Big Timber, MT",0,44,0,0,Big Timber city
+MT,3027700,Forsyth,incorporated,25,A,1647,"Forsyth, MT",0,45,0,0,Forsyth city
+MT,3028000,Fort Benton,incorporated,25,A,1449,"Fort Benton, MT",0,46,0,0,Fort Benton city
+MT,3024850,Eureka,incorporated,43,A,1380,"Eureka, MT",0,47,0,0,Eureka town
+MT,3073825,Thompson Falls,incorporated,25,A,1336,"Thompson Falls, MT",0,48,0,0,Thompson Falls city
+MT,3079525,West Yellowstone,incorporated,43,A,1272,"West Yellowstone, MT",0,49,0,0,West Yellowstone town
+MT,3008575,Boulder,incorporated,25,A,1201,"Boulder, MT",0,50,0,0,Boulder city
+MT,3014575,Chinook,incorporated,25,A,1185,"Chinook, MT",0,51,0,0,Chinook city
+MT,3058150,Plains,incorporated,43,A,1106,"Plains, MT",0,52,0,0,Plains town
+MT,3079900,Whitehall,incorporated,43,A,1006,"Whitehall, MT",0,53,0,0,Whitehall town
+MT,3066925,Scobey,incorporated,25,A,999,"Scobey, MT",0,54,0,0,Scobey city
+MT,3034450,Harlowton,incorporated,25,A,955,"Harlowton, MT",0,55,0,0,Harlowton city
+MT,3080050,White Sulphur Springs,incorporated,25,A,955,"White Sulphur Springs, MT",0,56,0,0,White Sulphur Springs city
+MT,3024475,Ennis,incorporated,43,A,917,"Ennis, MT",0,57,0,0,Ennis town
+MT,3025300,Fairview,incorporated,43,A,896,"Fairview, MT",0,58,0,0,Fairview town
+MT,3014200,Chester,incorporated,43,A,847,"Chester, MT",0,59,0,0,Chester town
+MT,3057175,Philipsburg,incorporated,43,A,841,"Philipsburg, MT",0,60,0,0,Philipsburg town
+MT,3072625,Superior,incorporated,43,A,830,"Superior, MT",0,61,0,0,Superior town
+MT,3057700,Pinesdale,incorporated,43,A,805,"Pinesdale, MT",0,62,0,0,Pinesdale town
+MT,3075025,Troy,incorporated,25,A,797,"Troy, MT",0,63,0,0,Troy city
+MT,3019300,Darby,incorporated,43,A,783,"Darby, MT",0,64,0,0,Darby town
+MT,3034375,Harlem,incorporated,25,A,769,"Harlem, MT",0,65,0,0,Harlem city
+MT,3065275,St. Ignatius,incorporated,43,A,768,"St. Ignatius, MT",0,66,0,0,St. Ignatius town
+MT,3025225,Fairfield,incorporated,43,A,759,"Fairfield, MT",0,67,0,0,Fairfield town
+MT,3058975,Poplar,incorporated,25,A,758,"Poplar, MT",0,68,0,0,Poplar city
+MT,3018475,Culbertson,incorporated,43,A,753,"Culbertson, MT",0,69,0,0,Culbertson town
+MT,3067600,Sheridan,incorporated,43,A,694,"Sheridan, MT",0,70,0,0,Sheridan town
+MT,3009475,Bridger,incorporated,43,A,662,"Bridger, MT",0,71,0,0,Bridger town
+MT,3077650,Walkerville,incorporated,43,A,639,"Walkerville, MT",0,72,0,0,Walkerville town
+MT,3006250,Big Sandy,incorporated,43,A,605,"Big Sandy, MT",0,73,0,0,Big Sandy town
+MT,3012775,Cascade,incorporated,43,A,600,"Cascade, MT",0,74,0,0,Cascade town
+MT,3014950,Circle,incorporated,43,A,591,"Circle, MT",0,75,0,0,Circle town
+MT,3039700,Joliet,incorporated,43,A,577,"Joliet, MT",0,76,0,0,Joliet town
+MT,3073675,Terry,incorporated,43,A,562,"Terry, MT",0,77,0,0,Terry town
+MT,3037825,Hot Springs,incorporated,43,A,557,"Hot Springs, MT",0,78,0,0,Hot Springs town
+MT,3076225,Valier,incorporated,43,A,530,"Valier, MT",0,79,0,0,Valier town
+MT,3005275,Belt,incorporated,43,A,510,"Belt, MT",0,80,0,0,Belt town
+MT,3080350,Wibaux,incorporated,43,A,462,"Wibaux, MT",0,81,0,0,Wibaux town
+MT,3009700,Broadus,incorporated,43,A,456,"Broadus, MT",0,82,0,0,Broadus town
+MT,3000700,Alberton,incorporated,43,A,452,"Alberton, MT",0,83,0,0,Alberton town
+MT,3044275,Lodge Grass,incorporated,43,A,441,"Lodge Grass, MT",0,84,0,0,Lodge Grass town
+MT,3070675,Stanford,incorporated,43,A,403,"Stanford, MT",0,85,0,0,Stanford town
+MT,3023650,Ekalaka,incorporated,43,A,399,"Ekalaka, MT",0,86,0,0,Ekalaka town
+MT,3029575,Fromberg,incorporated,43,A,392,"Fromberg, MT",0,87,0,0,Fromberg town
+MT,3039925,Jordan,incorporated,43,A,356,"Jordan, MT",0,88,0,0,Jordan town
+MT,3072175,Sunburst,incorporated,43,A,333,"Sunburst, MT",0,89,0,0,Sunburst town
+MT,3015550,Clyde Park,incorporated,43,A,332,"Clyde Park, MT",0,90,0,0,Clyde Park town
+MT,3075475,Twin Bridges,incorporated,43,A,330,"Twin Bridges, MT",0,91,0,0,Twin Bridges town
+MT,3022600,Dutton,incorporated,43,A,303,"Dutton, MT",0,92,0,0,Dutton town
+MT,3052900,Nashua,incorporated,43,A,301,"Nashua, MT",0,93,0,0,Nashua town
+MT,3038350,Hysham,incorporated,43,A,276,"Hysham, MT",0,94,0,0,Hysham town
+MT,3021850,Drummond,incorporated,43,A,272,"Drummond, MT",0,95,0,0,Drummond town
+MT,3003400,Bainville,incorporated,43,A,271,"Bainville, MT",0,96,0,0,Bainville town
+MT,3048775,Medicine Lake,incorporated,43,A,244,"Medicine Lake, MT",0,97,0,0,Medicine Lake town
+MT,3028450,Fort Peck,incorporated,43,A,239,"Fort Peck, MT",0,98,0,0,Fort Peck town
+MT,3064975,Ryegate,incorporated,43,A,223,"Ryegate, MT",0,99,0,0,Ryegate town
+MT,3077125,Virginia City,incorporated,43,A,219,"Virginia City, MT",0,100,0,0,Virginia City town
+MT,3043525,Lima,incorporated,43,A,212,"Lima, MT",0,101,0,0,Lima town
+MT,3030400,Geraldine,incorporated,43,A,207,"Geraldine, MT",0,102,0,0,Geraldine town
+MT,3020425,Denton,incorporated,43,A,205,"Denton, MT",0,103,0,0,Denton town
+MT,3029500,Froid,incorporated,43,A,195,"Froid, MT",0,104,0,0,Froid town
+MT,3051550,Moore,incorporated,43,A,194,"Moore, MT",0,105,0,0,Moore town
+MT,3081100,Winnett,incorporated,43,A,188,"Winnett, MT",0,106,0,0,Winnett town
+MT,3036700,Hobson,incorporated,25,A,179,"Hobson, MT",0,107,0,0,Hobson city
+MT,3058450,Plevna,incorporated,43,A,179,"Plevna, MT",0,108,0,0,Plevna town
+MT,3081025,Winifred,incorporated,43,A,172,"Winifred, MT",0,109,0,0,Winifred town
+MT,3078925,Westby,incorporated,43,A,167,"Westby, MT",0,110,0,0,Westby town
+MT,3062275,Richey,incorporated,43,A,164,"Richey, MT",0,111,0,0,Richey town
+MT,3065050,Saco,incorporated,43,A,159,"Saco, MT",0,112,0,0,Saco town
+MT,3040525,Kevin,incorporated,43,A,154,"Kevin, MT",0,113,0,0,Kevin town
+MT,3009775,Broadview,incorporated,43,A,139,"Broadview, MT",0,114,0,0,Broadview town
+MT,3042850,Lavina,incorporated,43,A,136,"Lavina, MT",0,115,0,0,Lavina town
+MT,3036400,Hingham,incorporated,43,A,131,"Hingham, MT",0,116,0,0,Hingham town
+MT,3049000,Melstone,incorporated,43,A,126,"Melstone, MT",0,117,0,0,Melstone town
+MT,3021025,Dodson,incorporated,43,A,125,"Dodson, MT",0,118,0,0,Dodson town
+MT,3032575,Grass Range,incorporated,43,A,110,"Grass Range, MT",0,119,0,0,Grass Range town
+MT,3040000,Judith Gap,incorporated,25,A,110,"Judith Gap, MT",0,120,0,0,Judith Gap city
+MT,3004300,Bearcreek,incorporated,43,A,91,"Bearcreek, MT",0,121,0,0,Bearcreek town
+MT,3056050,Outlook,incorporated,43,A,84,"Outlook, MT",0,122,0,0,Outlook town
+MT,3062200,Rexford,incorporated,43,A,78,"Rexford, MT",0,123,0,0,Rexford town
+MT,3055525,Opheim,incorporated,43,A,75,"Opheim, MT",0,124,0,0,Opheim town
+MT,3026800,Flaxville,incorporated,43,A,63,"Flaxville, MT",0,125,0,0,Flaxville town
+MT,3053200,Neihart,incorporated,43,A,43,"Neihart, MT",0,126,0,0,Neihart town
+MT,3038950,Ismay,incorporated,43,A,17,"Ismay, MT",0,127,0,0,Ismay town
+MT,3011390,Butte-Silver Bow,consolidated,00,A,0,"Butte-Silver Bow, MT",0,128,0,0,Butte-Silver Bow

@@ -1,52 +1,52 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-MS,2836000,Jackson,incorporated,25,A,153701,"Jackson, MS",0,1,92,0.368,Jackson city
-MS,2829700,Gulfport,incorporated,25,A,72926,"Gulfport, MS",0,2,25,0.1,Gulfport city
-MS,2869280,Southaven,incorporated,25,A,54648,"Southaven, MS",0,3,15,0.06,Southaven city
-MS,2806220,Biloxi,incorporated,25,A,49449,"Biloxi, MS",0,4,12,0.048,Biloxi city
-MS,2831020,Hattiesburg,incorporated,25,A,48730,"Hattiesburg, MS",0,5,8,0.032,Hattiesburg city
-MS,2854040,Olive Branch,incorporated,25,A,39711,"Olive Branch, MS",0,6,6,0.024,Olive Branch city
-MS,2874840,Tupelo,incorporated,25,A,37923,"Tupelo, MS",0,7,5,0.02,Tupelo city
-MS,2846640,Meridian,incorporated,25,A,35052,"Meridian, MS",0,8,5,0.02,Meridian city
-MS,2829180,Greenville,incorporated,25,A,29670,"Greenville, MS",0,9,5,0.02,Greenville city
-MS,2814420,Clinton,incorporated,25,A,28100,"Clinton, MS",0,10,3,0.012,Clinton city
-MS,2844520,Madison,incorporated,25,A,27747,"Madison, MS",0,11,3,0.012,Madison city
-MS,2855760,Pearl,incorporated,25,A,27115,"Pearl, MS",0,12,4,0.016,Pearl city
-MS,2833700,Horn Lake,incorporated,25,A,26736,"Horn Lake, MS",0,13,2,0.008,Horn Lake city
-MS,2854840,Oxford,incorporated,25,A,25416,"Oxford, MS",0,14,2,0.008,Oxford city
-MS,2808300,Brandon,incorporated,25,A,25138,"Brandon, MS",0,15,2,0.008,Brandon city
-MS,2870240,Starkville,incorporated,25,A,24360,"Starkville, MS",0,16,3,0.012,Starkville city
-MS,2862520,Ridgeland,incorporated,25,A,24340,"Ridgeland, MS",0,17,3,0.012,Ridgeland city
-MS,2815380,Columbus,incorporated,25,A,24084,"Columbus, MS",0,18,3,0.012,Columbus city
-MS,2855360,Pascagoula,incorporated,25,A,22010,"Pascagoula, MS",0,19,3,0.012,Pascagoula city
-MS,2876720,Vicksburg,incorporated,25,A,21573,"Vicksburg, MS",0,20,1,0.004,Vicksburg city
-MS,2826860,Gautier,incorporated,25,A,19024,"Gautier, MS",0,21,1,0.004,Gautier city
-MS,2853520,Ocean Springs,incorporated,25,A,18429,"Ocean Springs, MS",0,22,1,0.004,Ocean Springs city
-MS,2839640,Laurel,incorporated,25,A,17161,"Laurel, MS",0,23,1,0.004,Laurel city
-MS,2831780,Hernando,incorporated,25,A,17138,"Hernando, MS",0,24,1,0.004,Hernando city
-MS,2841680,Long Beach,incorporated,25,A,16780,"Long Beach, MS",0,25,1,0.004,Long Beach city
-MS,2813820,Clarksdale,incorporated,25,A,14903,"Clarksdale, MS",0,26,1,0.004,Clarksdale city
-MS,2815700,Corinth,incorporated,25,A,14622,"Corinth, MS",0,27,2,0.008,Corinth city
-MS,2850440,Natchez,incorporated,25,A,14520,"Natchez, MS",0,28,2,0.008,Natchez city
-MS,2829340,Greenwood,incorporated,25,A,14490,"Greenwood, MS",0,29,2,0.008,Greenwood city
-MS,2819180,D'Iberville,incorporated,25,A,12721,"D'Iberville, MS",0,30,2,0.008,D'Iberville city
-MS,2829460,Grenada,incorporated,25,A,12700,"Grenada, MS",0,31,2,0.008,Grenada city
-MS,2810140,Byram,incorporated,25,A,12666,"Byram, MS",0,32,2,0.008,Byram city
-MS,2843280,McComb,incorporated,25,A,12413,"McComb, MS",0,33,2,0.008,McComb city
-MS,2849240,Moss Point,incorporated,25,A,12147,"Moss Point, MS",0,34,2,0.008,Moss Point city
-MS,2857160,Picayune,incorporated,25,A,11885,"Picayune, MS",0,35,2,0.008,Picayune city
-MS,2808820,Brookhaven,incorporated,25,A,11674,"Brookhaven, MS",0,36,2,0.008,Brookhaven city
-MS,2814260,Cleveland,incorporated,25,A,11199,"Cleveland, MS",0,37,2,0.008,Cleveland city
-MS,2856800,Petal,incorporated,25,A,11010,"Petal, MS",0,38,2,0.008,Petal city
-MS,2811100,Canton,incorporated,25,A,10948,"Canton, MS",0,39,2,0.008,Canton city
-MS,2881520,Yazoo City,incorporated,25,A,10316,"Yazoo City, MS",0,40,2,0.008,Yazoo City city
-MS,2825100,Flowood,incorporated,25,A,10202,"Flowood, MS",0,41,2,0.008,Flowood city
-MS,2879120,West Point,incorporated,25,A,10105,"West Point, MS",0,42,2,0.008,West Point city
-MS,2834740,Indianola,incorporated,25,A,9646,"Indianola, MS",0,43,2,0.008,Indianola city
-MS,2819100,Diamondhead,incorporated,25,A,9529,"Diamondhead, MS",0,44,2,0.008,Diamondhead city
-MS,2803980,Bay St. Louis,incorporated,25,A,9284,"Bay St. Louis, MS",0,45,2,0.008,Bay St. Louis city
-MS,2807780,Booneville,incorporated,25,A,9126,"Booneville, MS",0,46,2,0.008,Booneville city
-MS,2866440,Senatobia,incorporated,25,A,8354,"Senatobia, MS",0,47,1,0.004,Senatobia city
-MS,2851000,New Albany,incorporated,25,A,7626,"New Albany, MS",0,48,1,0.004,New Albany city
+MS,2836000,Jackson,incorporated,25,A,153701,"Jackson, MS",0,1,36,0.36,Jackson city
+MS,2829700,Gulfport,incorporated,25,A,72926,"Gulfport, MS",0,2,10,0.1,Gulfport city
+MS,2869280,Southaven,incorporated,25,A,54648,"Southaven, MS",0,3,6,0.06,Southaven city
+MS,2806220,Biloxi,incorporated,25,A,49449,"Biloxi, MS",0,4,4,0.04,Biloxi city
+MS,2831020,Hattiesburg,incorporated,25,A,48730,"Hattiesburg, MS",0,5,3,0.03,Hattiesburg city
+MS,2854040,Olive Branch,incorporated,25,A,39711,"Olive Branch, MS",0,6,4,0.04,Olive Branch city
+MS,2874840,Tupelo,incorporated,25,A,37923,"Tupelo, MS",0,7,2,0.02,Tupelo city
+MS,2846640,Meridian,incorporated,25,A,35052,"Meridian, MS",0,8,3,0.03,Meridian city
+MS,2829180,Greenville,incorporated,25,A,29670,"Greenville, MS",0,9,3,0.03,Greenville city
+MS,2814420,Clinton,incorporated,25,A,28100,"Clinton, MS",0,10,1,0.01,Clinton city
+MS,2844520,Madison,incorporated,25,A,27747,"Madison, MS",0,11,1,0.01,Madison city
+MS,2855760,Pearl,incorporated,25,A,27115,"Pearl, MS",0,12,1,0.01,Pearl city
+MS,2833700,Horn Lake,incorporated,25,A,26736,"Horn Lake, MS",0,13,2,0.02,Horn Lake city
+MS,2854840,Oxford,incorporated,25,A,25416,"Oxford, MS",0,14,2,0.02,Oxford city
+MS,2808300,Brandon,incorporated,25,A,25138,"Brandon, MS",0,15,2,0.02,Brandon city
+MS,2870240,Starkville,incorporated,25,A,24360,"Starkville, MS",0,16,2,0.02,Starkville city
+MS,2862520,Ridgeland,incorporated,25,A,24340,"Ridgeland, MS",0,17,2,0.02,Ridgeland city
+MS,2815380,Columbus,incorporated,25,A,24084,"Columbus, MS",0,18,2,0.02,Columbus city
+MS,2855360,Pascagoula,incorporated,25,A,22010,"Pascagoula, MS",0,19,2,0.02,Pascagoula city
+MS,2876720,Vicksburg,incorporated,25,A,21573,"Vicksburg, MS",0,20,2,0.02,Vicksburg city
+MS,2826860,Gautier,incorporated,25,A,19024,"Gautier, MS",0,21,2,0.02,Gautier city
+MS,2853520,Ocean Springs,incorporated,25,A,18429,"Ocean Springs, MS",0,22,2,0.02,Ocean Springs city
+MS,2839640,Laurel,incorporated,25,A,17161,"Laurel, MS",0,23,1,0.01,Laurel city
+MS,2831780,Hernando,incorporated,25,A,17138,"Hernando, MS",0,24,1,0.01,Hernando city
+MS,2841680,Long Beach,incorporated,25,A,16780,"Long Beach, MS",0,25,1,0.01,Long Beach city
+MS,2813820,Clarksdale,incorporated,25,A,14903,"Clarksdale, MS",0,26,1,0.01,Clarksdale city
+MS,2815700,Corinth,incorporated,25,A,14622,"Corinth, MS",0,27,1,0.01,Corinth city
+MS,2850440,Natchez,incorporated,25,A,14520,"Natchez, MS",0,28,1,0.01,Natchez city
+MS,2829340,Greenwood,incorporated,25,A,14490,"Greenwood, MS",0,29,0,0,Greenwood city
+MS,2819180,D'Iberville,incorporated,25,A,12721,"D'Iberville, MS",0,30,0,0,D'Iberville city
+MS,2829460,Grenada,incorporated,25,A,12700,"Grenada, MS",0,31,0,0,Grenada city
+MS,2810140,Byram,incorporated,25,A,12666,"Byram, MS",0,32,0,0,Byram city
+MS,2843280,McComb,incorporated,25,A,12413,"McComb, MS",0,33,0,0,McComb city
+MS,2849240,Moss Point,incorporated,25,A,12147,"Moss Point, MS",0,34,0,0,Moss Point city
+MS,2857160,Picayune,incorporated,25,A,11885,"Picayune, MS",0,35,0,0,Picayune city
+MS,2808820,Brookhaven,incorporated,25,A,11674,"Brookhaven, MS",0,36,0,0,Brookhaven city
+MS,2814260,Cleveland,incorporated,25,A,11199,"Cleveland, MS",0,37,0,0,Cleveland city
+MS,2856800,Petal,incorporated,25,A,11010,"Petal, MS",0,38,0,0,Petal city
+MS,2811100,Canton,incorporated,25,A,10948,"Canton, MS",0,39,0,0,Canton city
+MS,2881520,Yazoo City,incorporated,25,A,10316,"Yazoo City, MS",0,40,0,0,Yazoo City city
+MS,2825100,Flowood,incorporated,25,A,10202,"Flowood, MS",0,41,0,0,Flowood city
+MS,2879120,West Point,incorporated,25,A,10105,"West Point, MS",0,42,0,0,West Point city
+MS,2834740,Indianola,incorporated,25,A,9646,"Indianola, MS",0,43,0,0,Indianola city
+MS,2819100,Diamondhead,incorporated,25,A,9529,"Diamondhead, MS",0,44,0,0,Diamondhead city
+MS,2803980,Bay St. Louis,incorporated,25,A,9284,"Bay St. Louis, MS",0,45,0,0,Bay St. Louis city
+MS,2807780,Booneville,incorporated,25,A,9126,"Booneville, MS",0,46,0,0,Booneville city
+MS,2866440,Senatobia,incorporated,25,A,8354,"Senatobia, MS",0,47,0,0,Senatobia city
+MS,2851000,New Albany,incorporated,25,A,7626,"New Albany, MS",0,48,0,0,New Albany city
 MS,2803620,Batesville,incorporated,25,A,7523,"Batesville, MS",0,49,0,0,Batesville city
 MS,2878200,Waveland,incorporated,25,A,7210,"Waveland, MS",0,50,0,0,Waveland city
 MS,2862400,Richland,incorporated,25,A,7137,"Richland, MS",0,51,0,0,Richland city

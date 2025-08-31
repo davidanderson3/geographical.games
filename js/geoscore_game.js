@@ -6,7 +6,7 @@ function pickN(arr, n){
   return a.slice(0, n);
 }
 
-function createQuestionCard(q, idx){
+function createQuestionCard(q, idx, onAnswered){
   const wrap = document.createElement('div');
   wrap.className = 'geoscore-qcard';
   const title = document.createElement('div');
@@ -45,11 +45,15 @@ function createQuestionCard(q, idx){
       feedback.textContent = `✓ ${hit.raw.answer} (+${hit.raw.score})`;
       feedback.style.color = '#0a0';
       input.disabled = true;
-      return { correct: true, score: hit.raw.score||0 };
+      const res = { correct: true, score: hit.raw.score||0 };
+      try{ typeof onAnswered === 'function' && onAnswered(res); }catch{}
+      return res;
     }else{
       feedback.textContent = `✗ Not on the board`;
       feedback.style.color = '#a00';
-      return { correct: false, score: 0 };
+      const res = { correct: false, score: 0 };
+      try{ typeof onAnswered === 'function' && onAnswered(res); }catch{}
+      return res;
     }
   }
   input.addEventListener('keydown', (e)=>{ if(e.key==='Enter'){ const res=submit(); wrap.dispatchEvent(new CustomEvent('answered',{detail:res})); }});
@@ -65,6 +69,10 @@ export async function initGeoScoreGame(){
 
   const all = await loadQuestions();
   const picked = pickN(all, Math.min(6, all.length));
+  const maxPossible = picked.reduce((sum, q) => {
+    const max = Math.max(0, ...((q.answers||[]).map(a => Number(a.score)||0)));
+    return sum + (isFinite(max) ? max : 0);
+  }, 0);
 
   const header = document.createElement('div');
   const scoreEl = document.createElement('div');
@@ -73,7 +81,7 @@ export async function initGeoScoreGame(){
   const startBtn = document.createElement('button');
   startBtn.textContent = 'New Round';
   startBtn.addEventListener('click', ()=>{ initGeoScoreGame(); });
-  scoreEl.textContent = 'Score: 0 / 6';
+  scoreEl.textContent = `Score: 0 / ${maxPossible}`;
   header.append(scoreEl, startBtn);
   mount.appendChild(header);
 
@@ -82,15 +90,14 @@ export async function initGeoScoreGame(){
   mount.appendChild(grid);
 
   picked.forEach((q, i) =>{
-    const card = createQuestionCard(q, i);
-    card.addEventListener('answered', (e)=>{
-      if(!e.detail) return;
-      answered += 1; total += e.detail.score||0;
-      scoreEl.textContent = `Score: ${total} / ${picked.length}`;
+    const card = createQuestionCard(q, i, (res)=>{
+      if(!res) return;
+      answered += 1;
+      total += res.score||0;
+      scoreEl.textContent = `Score: ${total} / ${maxPossible}`;
     });
     grid.appendChild(card);
   });
 }
 
 if(typeof window!=='undefined') window.initGeoScoreGame = initGeoScoreGame;
-

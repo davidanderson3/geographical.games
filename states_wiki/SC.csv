@@ -1,53 +1,53 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-SC,4513330,Charleston,incorporated,25,A,150227,"Charleston, SC",0,1,65,0.26,Charleston city
-SC,4516000,Columbia,incorporated,25,A,136632,"Columbia, SC",0,2,41,0.164,Columbia city
-SC,4550875,North Charleston,incorporated,25,A,114852,"North Charleston, SC",0,3,17,0.068,North Charleston city
-SC,4548535,Mount Pleasant,incorporated,43,A,90801,"Mount Pleasant, SC",0,4,13,0.052,Mount Pleasant town
-SC,4561405,Rock Hill,incorporated,25,A,74372,"Rock Hill, SC",0,5,10,0.04,Rock Hill city
-SC,4530850,Greenville,incorporated,25,A,70720,"Greenville, SC",0,6,8,0.032,Greenville city
-SC,4570270,Summerville,incorporated,43,A,50915,"Summerville, SC",0,7,7,0.028,Summerville town
-SC,4529815,Goose Creek,incorporated,25,A,45946,"Goose Creek, SC",0,8,6,0.024,Goose Creek city
-SC,4570405,Sumter,incorporated,25,A,43463,"Sumter, SC",0,9,4,0.016,Sumter city
-SC,4525810,Florence,incorporated,25,A,39899,"Florence, SC",0,10,5,0.02,Florence city
-SC,4568290,Spartanburg,incorporated,25,A,38732,"Spartanburg, SC",0,11,3,0.012,Spartanburg city
-SC,4534045,Hilton Head Island,incorporated,43,A,37661,"Hilton Head Island, SC",0,12,4,0.016,Hilton Head Island town
-SC,4549075,Myrtle Beach,incorporated,25,A,35682,"Myrtle Beach, SC",0,13,4,0.016,Myrtle Beach city
-SC,4530985,Greer,incorporated,25,A,35308,"Greer, SC",0,14,2,0.008,Greer city
-SC,4500550,Aiken,incorporated,25,A,32025,"Aiken, SC",0,15,2,0.008,Aiken city
-SC,4501360,Anderson,incorporated,25,A,28106,"Anderson, SC",0,16,2,0.008,Anderson city
-SC,4507210,Bluffton,incorporated,43,A,27716,"Bluffton, SC",0,17,3,0.012,Bluffton town
-SC,4516405,Conway,incorporated,25,A,24849,"Conway, SC",0,18,3,0.012,Conway city
-SC,4545115,Mauldin,incorporated,25,A,24724,"Mauldin, SC",0,19,3,0.012,Mauldin city
-SC,4526890,Fort Mill,incorporated,43,A,24521,"Fort Mill, SC",0,20,2,0.008,Fort Mill town
-SC,4550695,North Augusta,incorporated,25,A,24379,"North Augusta, SC",0,21,1,0.004,North Augusta city
-SC,4541335,Lexington,incorporated,43,A,23568,"Lexington, SC",0,22,1,0.004,Lexington town
-SC,4566580,Simpsonville,incorporated,25,A,23354,"Simpsonville, SC",0,23,1,0.004,Simpsonville city
-SC,4521985,Easley,incorporated,25,A,22921,"Easley, SC",0,24,1,0.004,Easley city
-SC,4530895,Greenwood,incorporated,25,A,22545,"Greenwood, SC",0,25,1,0.004,Greenwood city
-SC,4532065,Hanahan,incorporated,25,A,20325,"Hanahan, SC",0,26,1,0.004,Hanahan city
-SC,4551280,North Myrtle Beach,incorporated,25,A,18790,"North Myrtle Beach, SC",0,27,1,0.004,North Myrtle Beach city
-SC,4514950,Clemson,incorporated,25,A,17681,"Clemson, SC",0,28,1,0.004,Clemson city
-SC,4575850,West Columbia,incorporated,25,A,17416,"West Columbia, SC",0,29,1,0.004,West Columbia city
-SC,4558030,Port Royal,incorporated,43,A,14220,"Port Royal, SC",0,30,2,0.008,Port Royal town
-SC,4512655,Cayce,incorporated,25,A,13781,"Cayce, SC",0,31,2,0.008,Cayce city
-SC,4504690,Beaufort,incorporated,25,A,13607,"Beaufort, SC",0,32,2,0.008,Beaufort city
-SC,4547275,Moncks Corner,incorporated,43,A,13297,"Moncks Corner, SC",0,33,2,0.008,Moncks Corner town
-SC,4553080,Orangeburg,incorporated,25,A,13240,"Orangeburg, SC",0,34,2,0.008,Orangeburg city
-SC,4571417,Tega Cay,incorporated,25,A,12832,"Tega Cay, SC",0,35,2,0.008,Tega Cay city
-SC,4528060,Gaffney,incorporated,25,A,12764,"Gaffney, SC",0,36,2,0.008,Gaffney city
-SC,4536430,James Island,incorporated,43,A,11621,"James Island, SC",0,37,2,0.008,James Island town
-SC,4535890,Irmo,incorporated,43,A,11569,"Irmo, SC",0,38,2,0.008,Irmo town
-SC,4549570,Newberry,incorporated,25,A,10691,"Newberry, SC",0,39,2,0.008,Newberry city
-SC,4526305,Forest Acres,incorporated,25,A,10617,"Forest Acres, SC",0,40,2,0.008,Forest Acres city
-SC,4527070,Fountain Inn,incorporated,25,A,10416,"Fountain Inn, SC",0,41,2,0.008,Fountain Inn city
-SC,4540615,Laurens,incorporated,25,A,9335,"Laurens, SC",0,42,2,0.008,Laurens city
-SC,4565095,Seneca,incorporated,25,A,8850,"Seneca, SC",0,43,2,0.008,Seneca city
-SC,4579630,York,incorporated,25,A,8503,"York, SC",0,44,2,0.008,York city
-SC,4539895,Lancaster,incorporated,25,A,8460,"Lancaster, SC",0,45,2,0.008,Lancaster city
-SC,4528870,Georgetown,incorporated,25,A,8403,"Georgetown, SC",0,46,2,0.008,Georgetown city
-SC,4573105,Union,incorporated,25,A,8174,"Union, SC",0,47,1,0.004,Union city
-SC,4510855,Camden,incorporated,25,A,7788,"Camden, SC",0,48,1,0.004,Camden city
-SC,4572430,Travelers Rest,incorporated,25,A,7788,"Travelers Rest, SC",0,49,1,0.004,Travelers Rest city
+SC,4513330,Charleston,incorporated,25,A,150227,"Charleston, SC",0,1,26,0.26,Charleston city
+SC,4516000,Columbia,incorporated,25,A,136632,"Columbia, SC",0,2,17,0.17,Columbia city
+SC,4550875,North Charleston,incorporated,25,A,114852,"North Charleston, SC",0,3,8,0.08,North Charleston city
+SC,4548535,Mount Pleasant,incorporated,43,A,90801,"Mount Pleasant, SC",0,4,6,0.06,Mount Pleasant town
+SC,4561405,Rock Hill,incorporated,25,A,74372,"Rock Hill, SC",0,5,4,0.04,Rock Hill city
+SC,4530850,Greenville,incorporated,25,A,70720,"Greenville, SC",0,6,4,0.04,Greenville city
+SC,4570270,Summerville,incorporated,43,A,50915,"Summerville, SC",0,7,2,0.02,Summerville town
+SC,4529815,Goose Creek,incorporated,25,A,45946,"Goose Creek, SC",0,8,3,0.03,Goose Creek city
+SC,4570405,Sumter,incorporated,25,A,43463,"Sumter, SC",0,9,3,0.03,Sumter city
+SC,4525810,Florence,incorporated,25,A,39899,"Florence, SC",0,10,1,0.01,Florence city
+SC,4568290,Spartanburg,incorporated,25,A,38732,"Spartanburg, SC",0,11,1,0.01,Spartanburg city
+SC,4534045,Hilton Head Island,incorporated,43,A,37661,"Hilton Head Island, SC",0,12,1,0.01,Hilton Head Island town
+SC,4549075,Myrtle Beach,incorporated,25,A,35682,"Myrtle Beach, SC",0,13,1,0.01,Myrtle Beach city
+SC,4530985,Greer,incorporated,25,A,35308,"Greer, SC",0,14,2,0.02,Greer city
+SC,4500550,Aiken,incorporated,25,A,32025,"Aiken, SC",0,15,2,0.02,Aiken city
+SC,4501360,Anderson,incorporated,25,A,28106,"Anderson, SC",0,16,2,0.02,Anderson city
+SC,4507210,Bluffton,incorporated,43,A,27716,"Bluffton, SC",0,17,2,0.02,Bluffton town
+SC,4516405,Conway,incorporated,25,A,24849,"Conway, SC",0,18,2,0.02,Conway city
+SC,4545115,Mauldin,incorporated,25,A,24724,"Mauldin, SC",0,19,2,0.02,Mauldin city
+SC,4526890,Fort Mill,incorporated,43,A,24521,"Fort Mill, SC",0,20,2,0.02,Fort Mill town
+SC,4550695,North Augusta,incorporated,25,A,24379,"North Augusta, SC",0,21,2,0.02,North Augusta city
+SC,4541335,Lexington,incorporated,43,A,23568,"Lexington, SC",0,22,2,0.02,Lexington town
+SC,4566580,Simpsonville,incorporated,25,A,23354,"Simpsonville, SC",0,23,2,0.02,Simpsonville city
+SC,4521985,Easley,incorporated,25,A,22921,"Easley, SC",0,24,1,0.01,Easley city
+SC,4530895,Greenwood,incorporated,25,A,22545,"Greenwood, SC",0,25,0,0,Greenwood city
+SC,4532065,Hanahan,incorporated,25,A,20325,"Hanahan, SC",0,26,0,0,Hanahan city
+SC,4551280,North Myrtle Beach,incorporated,25,A,18790,"North Myrtle Beach, SC",0,27,0,0,North Myrtle Beach city
+SC,4514950,Clemson,incorporated,25,A,17681,"Clemson, SC",0,28,0,0,Clemson city
+SC,4575850,West Columbia,incorporated,25,A,17416,"West Columbia, SC",0,29,2,0.02,West Columbia city
+SC,4558030,Port Royal,incorporated,43,A,14220,"Port Royal, SC",0,30,0,0,Port Royal town
+SC,4512655,Cayce,incorporated,25,A,13781,"Cayce, SC",0,31,0,0,Cayce city
+SC,4504690,Beaufort,incorporated,25,A,13607,"Beaufort, SC",0,32,0,0,Beaufort city
+SC,4547275,Moncks Corner,incorporated,43,A,13297,"Moncks Corner, SC",0,33,0,0,Moncks Corner town
+SC,4553080,Orangeburg,incorporated,25,A,13240,"Orangeburg, SC",0,34,0,0,Orangeburg city
+SC,4571417,Tega Cay,incorporated,25,A,12832,"Tega Cay, SC",0,35,0,0,Tega Cay city
+SC,4528060,Gaffney,incorporated,25,A,12764,"Gaffney, SC",0,36,0,0,Gaffney city
+SC,4536430,James Island,incorporated,43,A,11621,"James Island, SC",0,37,0,0,James Island town
+SC,4535890,Irmo,incorporated,43,A,11569,"Irmo, SC",0,38,0,0,Irmo town
+SC,4549570,Newberry,incorporated,25,A,10691,"Newberry, SC",0,39,0,0,Newberry city
+SC,4526305,Forest Acres,incorporated,25,A,10617,"Forest Acres, SC",0,40,0,0,Forest Acres city
+SC,4527070,Fountain Inn,incorporated,25,A,10416,"Fountain Inn, SC",0,41,0,0,Fountain Inn city
+SC,4540615,Laurens,incorporated,25,A,9335,"Laurens, SC",0,42,0,0,Laurens city
+SC,4565095,Seneca,incorporated,25,A,8850,"Seneca, SC",0,43,0,0,Seneca city
+SC,4579630,York,incorporated,25,A,8503,"York, SC",0,44,0,0,York city
+SC,4539895,Lancaster,incorporated,25,A,8460,"Lancaster, SC",0,45,0,0,Lancaster city
+SC,4528870,Georgetown,incorporated,25,A,8403,"Georgetown, SC",0,46,0,0,Georgetown city
+SC,4573105,Union,incorporated,25,A,8174,"Union, SC",0,47,0,0,Union city
+SC,4510855,Camden,incorporated,25,A,7788,"Camden, SC",0,48,0,0,Camden city
+SC,4572430,Travelers Rest,incorporated,25,A,7788,"Travelers Rest, SC",0,49,0,0,Travelers Rest city
 SC,4515295,Clinton,incorporated,25,A,7633,"Clinton, SC",0,50,0,0,Clinton city
 SC,4532245,Hardeeville,incorporated,25,A,7473,"Hardeeville, SC",0,51,0,0,Hardeeville city
 SC,4532560,Hartsville,incorporated,25,A,7446,"Hartsville, SC",0,52,0,0,Hartsville city

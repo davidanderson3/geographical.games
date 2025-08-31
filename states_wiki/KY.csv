@@ -1,2 +1,421 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-KY,2148003,Louisville/Jefferson County,consolidated,MT,A,0,"Louisville/Jefferson County, KY",0,1,250,1,Louisville/Jefferson County metro government
+KY,2148006,Louisville/Jefferson County metro government (balance),incorporated,00,F,386884,"Louisville/Jefferson County metro government (balance), KY",0,1,28,0.28,Louisville/Jefferson County metro government (balance)
+KY,2146027,Lexington-Fayette,incorporated,UC,A,322570,"Lexington-Fayette, KY",0,2,11,0.11,Lexington-Fayette urban county
+KY,2148000,Louisville,incorporated,25,N,246161,"Louisville, KY",0,3,8,0.08,Louisville city
+KY,2108902,Bowling Green,incorporated,25,A,72294,"Bowling Green, KY",0,4,6,0.06,Bowling Green city
+KY,2158620,Owensboro,incorporated,25,A,60183,"Owensboro, KY",0,5,5,0.05,Owensboro city
+KY,2117848,Covington,incorporated,25,A,40961,"Covington, KY",0,6,4,0.04,Covington city
+KY,2130700,Georgetown,incorporated,25,A,37086,"Georgetown, KY",0,7,2,0.02,Georgetown city
+KY,2165226,Richmond,incorporated,25,A,34585,"Richmond, KY",0,8,3,0.03,Richmond city
+KY,2127982,Florence,incorporated,25,A,31946,"Florence, KY",0,9,3,0.03,Florence city
+KY,2124274,Elizabethtown,incorporated,25,A,31394,"Elizabethtown, KY",0,10,3,0.03,Elizabethtown city
+KY,2137918,Hopkinsville,incorporated,25,A,31180,"Hopkinsville, KY",0,11,1,0.01,Hopkinsville city
+KY,2156136,Nicholasville,incorporated,25,A,31093,"Nicholasville, KY",0,12,1,0.01,Nicholasville city
+KY,2139142,Independence,incorporated,25,A,28676,"Independence, KY",0,13,1,0.01,Independence city
+KY,2128900,Frankfort,incorporated,25,A,28602,"Frankfort, KY",0,14,2,0.02,Frankfort city
+KY,2140222,Jeffersontown,incorporated,25,A,28474,"Jeffersontown, KY",0,15,2,0.02,Jeffersontown city
+KY,2135866,Henderson,incorporated,25,A,27981,"Henderson, KY",0,16,2,0.02,Henderson city
+KY,2158836,Paducah,incorporated,25,A,27137,"Paducah, KY",0,17,2,0.02,Paducah city
+KY,2163912,Radcliff,incorporated,25,A,23042,"Radcliff, KY",0,18,2,0.02,Radcliff city
+KY,2102368,Ashland,incorporated,25,A,21625,"Ashland, KY",0,19,2,0.02,Ashland city
+KY,2125300,Erlanger,incorporated,25,A,19611,"Erlanger, KY",0,20,2,0.02,Erlanger city
+KY,2149368,Madisonville,incorporated,25,A,19542,"Madisonville, KY",0,21,2,0.02,Madisonville city
+KY,2183676,Winchester,incorporated,25,A,19134,"Winchester, KY",0,22,2,0.02,Winchester city
+KY,2154228,Mount Washington,incorporated,25,A,18090,"Mount Washington, KY",0,23,2,0.02,Mount Washington city
+KY,2167944,St. Matthews,incorporated,25,A,17534,"St. Matthews, KY",0,24,2,0.02,St. Matthews city
+KY,2128594,Fort Thomas,incorporated,25,A,17438,"Fort Thomas, KY",0,25,1,0.01,Fort Thomas city
+KY,2154642,Murray,incorporated,25,A,17307,"Murray, KY",0,26,1,0.01,Murray city
+KY,2170050,Shelbyville,incorporated,25,A,17282,"Shelbyville, KY",0,27,0,0,Shelbyville city
+KY,2119882,Danville,incorporated,25,A,17234,"Danville, KY",0,28,0,0,Danville city
+KY,2170284,Shively,incorporated,25,A,15636,"Shively, KY",0,29,0,0,Shively city
+KY,2105842,Berea,incorporated,25,A,15539,"Berea, KY",0,30,0,0,Berea city
+KY,2131114,Glasgow,incorporated,25,A,15014,"Glasgow, KY",0,31,0,0,Glasgow city
+KY,2170086,Shepherdsville,incorporated,25,A,14201,"Shepherdsville, KY",0,32,0,0,Shepherdsville city
+KY,2155884,Newport,incorporated,25,A,14150,"Newport, KY",0,33,0,0,Newport city
+KY,2103628,Bardstown,incorporated,25,A,13567,"Bardstown, KY",0,34,0,0,Bardstown city
+KY,2171688,Somerset,incorporated,25,A,11924,"Somerset, KY",0,35,0,0,Somerset city
+KY,2144146,Lawrenceburg,incorporated,25,A,11728,"Lawrenceburg, KY",0,36,0,0,Lawrenceburg city
+KY,2112160,Campbellsville,incorporated,25,A,11426,"Campbellsville, KY",0,37,0,0,Campbellsville city
+KY,2148558,Lyndon,incorporated,25,A,11008,"Lyndon, KY",0,38,0,0,Lyndon city
+KY,2179482,Versailles,incorporated,25,A,10347,"Versailles, KY",0,39,0,0,Versailles city
+KY,2100802,Alexandria,incorporated,25,A,10341,"Alexandria, KY",0,40,0,0,Alexandria city
+KY,2128918,Franklin,incorporated,25,A,10176,"Franklin, KY",0,41,0,0,Franklin city
+KY,2159196,Paris,incorporated,25,A,10171,"Paris, KY",0,42,0,0,Paris city
+KY,2143480,La Grange,incorporated,25,A,10067,"La Grange, KY",0,43,0,0,La Grange city
+KY,2150898,Mayfield,incorporated,25,A,10017,"Mayfield, KY",0,44,0,0,Mayfield city
+KY,2151978,Middletown,incorporated,25,A,9706,"Middletown, KY",0,45,0,0,Middletown city
+KY,2151924,Middlesborough,incorporated,25,A,9405,"Middlesborough, KY",0,46,0,0,Middlesborough city
+KY,2124778,Elsmere,incorporated,25,A,9159,"Elsmere, KY",0,47,0,0,Elsmere city
+KY,2134966,Harrodsburg,incorporated,25,A,9064,"Harrodsburg, KY",0,48,0,0,Harrodsburg city
+KY,2151024,Maysville,incorporated,25,A,8873,"Maysville, KY",0,49,0,0,Maysville city
+KY,2128558,Fort Mitchell,incorporated,25,A,8702,"Fort Mitchell, KY",0,50,0,0,Fort Mitchell city
+KY,2136982,Hillview,incorporated,25,A,8622,"Hillview, KY",0,51,0,0,Hillview city
+KY,2123932,Edgewood,incorporated,25,A,8435,"Edgewood, KY",0,52,0,0,Edgewood city
+KY,2157090,Oak Grove,incorporated,25,A,7931,"Oak Grove, KY",0,53,0,0,Oak Grove city
+KY,2117362,Corbin,incorporated,25,A,7856,"Corbin, KY",0,54,0,0,Corbin city
+KY,2160852,Pikeville,incorporated,25,A,7754,"Pikeville, KY",0,55,0,0,Pikeville city
+KY,2147476,London,incorporated,25,A,7572,"London, KY",0,56,0,0,London city
+KY,2154084,Mount Sterling,incorporated,25,A,7558,"Mount Sterling, KY",0,57,0,0,Mount Sterling city
+KY,2178384,Union,incorporated,25,A,7416,"Union, KY",0,58,0,0,Union city
+KY,2127802,Flatwoods,incorporated,25,A,7325,"Flatwoods, KY",0,59,0,0,Flatwoods city
+KY,2179698,Villa Hills,incorporated,25,A,7310,"Villa Hills, KY",0,60,0,0,Villa Hills city
+KY,2167512,Russellville,incorporated,25,A,7164,"Russellville, KY",0,61,0,0,Russellville city
+KY,2153418,Morehead,incorporated,25,A,7151,"Morehead, KY",0,62,0,0,Morehead city
+KY,2175738,Taylor Mill,incorporated,25,A,6873,"Taylor Mill, KY",0,63,0,0,Taylor Mill city
+KY,2136604,Highland Heights,incorporated,25,A,6662,"Highland Heights, KY",0,64,0,0,Highland Heights city
+KY,2179734,Vine Grove,incorporated,25,A,6559,"Vine Grove, KY",0,65,0,0,Vine Grove city
+KY,2144686,Leitchfield,incorporated,25,A,6404,"Leitchfield, KY",0,66,0,0,Leitchfield city
+KY,2119432,Cynthiana,incorporated,25,A,6333,"Cynthiana, KY",0,67,0,0,Cynthiana city
+KY,2144344,Lebanon,incorporated,25,A,6274,"Lebanon, KY",0,68,0,0,Lebanon city
+KY,2163138,Princeton,incorporated,25,A,6270,"Princeton, KY",0,69,0,0,Princeton city
+KY,2116372,Cold Spring,incorporated,25,A,6216,"Cold Spring, KY",0,70,0,0,Cold Spring city
+KY,2118496,Crestwood,incorporated,25,A,6183,"Crestwood, KY",0,71,0,0,Crestwood city
+KY,2183550,Wilmore,incorporated,25,A,5999,"Wilmore, KY",0,72,0,0,Wilmore city
+KY,2128612,Fort Wright,incorporated,25,A,5851,"Fort Wright, KY",0,73,0,0,Fort Wright city
+KY,2113978,Central City,incorporated,25,A,5819,"Central City, KY",0,74,0,0,Central City city
+KY,2153130,Monticello,incorporated,25,A,5753,"Monticello, KY",0,75,0,0,Monticello city
+KY,2120350,Dayton,incorporated,25,A,5666,"Dayton, KY",0,76,0,0,Dayton city
+KY,2105446,Bellevue,incorporated,25,A,5548,"Bellevue, KY",0,77,0,0,Bellevue city
+KY,2180490,Walton,incorporated,25,A,5460,"Walton, KY",0,78,0,0,Walton city
+KY,2122204,Douglass Hills,incorporated,25,A,5456,"Douglass Hills, KY",0,79,0,0,Douglass Hills city
+KY,2183334,Williamsburg,incorporated,25,A,5326,"Williamsburg, KY",0,80,0,0,Williamsburg city
+KY,2135362,Hazard,incorporated,25,A,5263,"Hazard, KY",0,81,0,0,Hazard city
+KY,2116750,Columbia,incorporated,25,A,4845,"Columbia, KY",0,82,0,0,Columbia city
+KY,2105824,Benton,incorporated,25,A,4756,"Benton, KY",0,83,0,0,Benton city
+KY,2138814,Hurstbourne,incorporated,25,A,4683,"Hurstbourne, KY",0,84,0,0,Hurstbourne city
+KY,2163264,Prospect,incorporated,25,A,4592,"Prospect, KY",0,85,0,0,Prospect city
+KY,2133022,Greenville,incorporated,25,A,4492,"Greenville, KY",0,86,0,0,Greenville city
+KY,2148378,Ludlow,incorporated,25,A,4385,"Ludlow, KY",0,87,0,0,Ludlow city
+KY,2118352,Crescent Springs,incorporated,25,A,4319,"Crescent Springs, KY",0,88,0,0,Crescent Springs city
+KY,2158962,Paintsville,incorporated,25,A,4312,"Paintsville, KY",0,89,0,0,Paintsville city
+KY,2169114,Scottsville,incorporated,25,A,4299,"Scottsville, KY",0,90,0,0,Scottsville city
+KY,2118568,Crittenden,incorporated,25,A,4023,"Crittenden, KY",0,91,0,0,Crittenden city
+KY,2143840,Lancaster,incorporated,25,A,3899,"Lancaster, KY",0,92,0,0,Lancaster city
+KY,2183406,Williamstown,incorporated,25,A,3894,"Williamstown, KY",0,93,0,0,Williamstown city
+KY,2113024,Carrollton,incorporated,25,A,3890,"Carrollton, KY",0,94,0,0,Carrollton city
+KY,2132572,Grayson,incorporated,25,A,3834,"Grayson, KY",0,95,0,0,Grayson city
+KY,2167458,Russell,incorporated,25,A,3744,"Russell, KY",0,96,0,0,Russell city
+KY,2162940,Prestonsburg,incorporated,25,A,3681,"Prestonsburg, KY",0,97,0,0,Prestonsburg city
+KY,2171976,Southgate,incorporated,25,A,3648,"Southgate, KY",0,98,0,0,Southgate city
+KY,2173110,Stanford,incorporated,25,A,3640,"Stanford, KY",0,99,0,0,Stanford city
+KY,2104654,Beaver Dam,incorporated,25,A,3531,"Beaver Dam, KY",0,100,0,0,Beaver Dam city
+KY,2153472,Morganfield,incorporated,25,A,3256,"Morganfield, KY",0,101,0,0,Morganfield city
+KY,2173164,Stanton,incorporated,25,A,3251,"Stanton, KY",0,102,0,0,Stanton city
+KY,2118442,Crestview Hills,incorporated,25,A,3246,"Crestview Hills, KY",0,103,0,0,Crestview Hills city
+KY,2137396,Hodgenville,incorporated,25,A,3235,"Hodgenville, KY",0,104,0,0,Hodgenville city
+KY,2103574,Barbourville,incorporated,25,A,3222,"Barbourville, KY",0,105,0,0,Barbourville city
+KY,2181858,West Liberty,incorporated,25,A,3215,"West Liberty, KY",0,106,0,0,West Liberty city
+KY,2183172,Wilder,incorporated,25,A,3176,"Wilder, KY",0,107,0,0,Wilder city
+KY,2159255,Park Hills,incorporated,25,A,3162,"Park Hills, KY",0,108,0,0,Park Hills city
+KY,2170752,Simpsonville,incorporated,25,A,2990,"Simpsonville, KY",0,109,0,0,Simpsonville city
+KY,2127856,Flemingsburg,incorporated,25,A,2953,"Flemingsburg, KY",0,110,0,0,Flemingsburg city
+KY,2150034,Marion,incorporated,25,A,2916,"Marion, KY",0,111,0,0,Marion city
+KY,2109226,Brandenburg,incorporated,25,A,2894,"Brandenburg, KY",0,112,0,0,Brandenburg city
+KY,2163372,Providence,incorporated,25,A,2892,"Providence, KY",0,113,0,0,Providence city
+KY,2139304,Indian Hills,incorporated,25,A,2860,"Indian Hills, KY",0,114,0,0,Indian Hills city
+KY,2132523,Graymoor-Devondale,incorporated,25,A,2853,"Graymoor-Devondale, KY",0,115,0,0,Graymoor-Devondale city
+KY,2172660,Springfield,incorporated,25,A,2846,"Springfield, KY",0,116,0,0,Springfield city
+KY,2143606,Lakeside Park,incorporated,25,A,2841,"Lakeside Park, KY",0,117,0,0,Lakeside Park city
+KY,2167494,Russell Springs,incorporated,25,A,2715,"Russell Springs, KY",0,118,0,0,Russell Springs city
+KY,2124904,Eminence,incorporated,25,A,2705,"Eminence, KY",0,119,0,0,Eminence city
+KY,2147854,Louisa,incorporated,25,A,2679,"Louisa, KY",0,120,0,0,Louisa city
+KY,2161356,Pioneer Village,incorporated,25,A,2671,"Pioneer Village, KY",0,121,0,0,Pioneer Village city
+KY,2135020,Hartford,incorporated,25,A,2668,"Hartford, KY",0,122,0,0,Hartford city
+KY,2111692,Cadiz,incorporated,25,A,2540,"Cadiz, KY",0,123,0,0,Cadiz city
+KY,2112016,Calvert City,incorporated,25,A,2514,"Calvert City, KY",0,124,0,0,Calvert City city
+KY,2153490,Morgantown,incorporated,25,A,2505,"Morgantown, KY",0,125,0,0,Morgantown city
+KY,2101504,Anchorage,incorporated,25,A,2500,"Anchorage, KY",0,126,0,0,Anchorage city
+KY,2154174,Mount Vernon,incorporated,25,A,2453,"Mount Vernon, KY",0,127,0,0,Mount Vernon city
+KY,2120224,Dawson Springs,incorporated,25,A,2452,"Dawson Springs, KY",0,128,0,0,Dawson Springs city
+KY,2183784,Windy Hills,incorporated,25,A,2427,"Windy Hills, KY",0,129,0,0,Windy Hills city
+KY,2134552,Hardinsburg,incorporated,25,A,2385,"Hardinsburg, KY",0,130,0,0,Hardinsburg city
+KY,2123824,Eddyville,incorporated,25,A,2375,"Eddyville, KY",0,131,0,0,Eddyville city
+KY,2136298,Hickman,incorporated,25,A,2365,"Hickman, KY",0,132,0,0,Hickman city
+KY,2139646,Irvine,incorporated,25,A,2360,"Irvine, KY",0,133,0,0,Irvine city
+KY,2129566,Fulton,incorporated,25,A,2357,"Fulton, KY",0,134,0,0,Fulton city
+KY,2113492,Cave City,incorporated,25,A,2356,"Cave City, KY",0,135,0,0,Cave City city
+KY,2163858,Raceland,incorporated,25,A,2343,"Raceland, KY",0,136,0,0,Raceland city
+KY,2177160,Tompkinsville,incorporated,25,A,2309,"Tompkinsville, KY",0,137,0,0,Tompkinsville city
+KY,2141338,Junction City,incorporated,25,A,2268,"Junction City, KY",0,138,0,0,Junction City city
+KY,2139952,Jackson,incorporated,25,A,2237,"Jackson, KY",0,139,0,0,Jackson city
+KY,2126434,Falmouth,incorporated,25,A,2216,"Falmouth, KY",0,140,0,0,Falmouth city
+KY,2138008,Horse Cave,incorporated,25,A,2212,"Horse Cave, KY",0,141,0,0,Horse Cave city
+KY,2132968,Greensburg,incorporated,25,A,2179,"Greensburg, KY",0,142,0,0,Greensburg city
+KY,2104546,Beattyville,incorporated,25,A,2176,"Beattyville, KY",0,143,0,0,Beattyville city
+KY,2122582,Dry Ridge,incorporated,25,A,2102,"Dry Ridge, KY",0,144,0,0,Dry Ridge city
+KY,2112898,Carlisle,incorporated,25,A,2093,"Carlisle, KY",0,145,0,0,Carlisle city
+KY,2124400,Elkton,incorporated,25,A,2056,"Elkton, KY",0,146,0,0,Elkton city
+KY,2146072,Liberty,incorporated,25,A,2028,"Liberty, KY",0,147,0,0,Liberty city
+KY,2138818,Hurstbourne Acres,incorporated,25,A,1957,"Hurstbourne Acres, KY",0,148,0,0,Hurstbourne Acres city
+KY,2119108,Cumberland,incorporated,25,A,1947,"Cumberland, KY",0,149,0,0,Cumberland city
+KY,2140312,Jenkins,incorporated,25,A,1902,"Jenkins, KY",0,150,0,0,Jenkins city
+KY,2140114,Jamestown,incorporated,25,A,1867,"Jamestown, KY",0,151,0,0,Jamestown city
+KY,2113420,Catlettsburg,incorporated,25,A,1780,"Catlettsburg, KY",0,152,0,0,Catlettsburg city
+KY,2134732,Harlan,incorporated,25,A,1776,"Harlan, KY",0,153,0,0,Harlan city
+KY,2182776,Whitesburg,incorporated,25,A,1773,"Whitesburg, KY",0,154,0,0,Whitesburg city
+KY,2145136,Lewisport,incorporated,25,A,1767,"Lewisport, KY",0,155,0,0,Lewisport city
+KY,2180706,Warsaw,incorporated,25,A,1761,"Warsaw, KY",0,156,0,0,Warsaw city
+KY,2100694,Albany,incorporated,25,A,1760,"Albany, KY",0,157,0,0,Albany city
+KY,2144362,Lebanon Junction,incorporated,25,A,1746,"Lebanon Junction, KY",0,158,0,0,Lebanon Junction city
+KY,2174316,Sturgis,incorporated,25,A,1735,"Sturgis, KY",0,159,0,0,Sturgis city
+KY,2152140,Midway,incorporated,25,A,1718,"Midway, KY",0,160,0,0,Midway city
+KY,2140240,Jeffersonville,incorporated,25,A,1708,"Jeffersonville, KY",0,161,0,0,Jeffersonville city
+KY,2154570,Munfordville,incorporated,25,A,1686,"Munfordville, KY",0,162,0,0,Munfordville city
+KY,2158692,Owenton,incorporated,25,A,1682,"Owenton, KY",0,163,0,0,Owenton city
+KY,2161248,Pineville,incorporated,25,A,1678,"Pineville, KY",0,164,0,0,Pineville city
+KY,2123968,Edmonton,incorporated,25,A,1671,"Edmonton, KY",0,165,0,0,Edmonton city
+KY,2116110,Coal Run Village,incorporated,25,A,1669,"Coal Run Village, KY",0,166,0,0,Coal Run Village city
+KY,2158710,Owingsville,incorporated,25,A,1593,"Owingsville, KY",0,167,0,0,Owingsville city
+KY,2168232,Salyersville,incorporated,25,A,1591,"Salyersville, KY",0,168,0,0,Salyersville city
+KY,2102638,Auburn,incorporated,25,A,1589,"Auburn, KY",0,169,0,0,Auburn city
+KY,2160492,Pewee Valley,incorporated,25,A,1588,"Pewee Valley, KY",0,170,0,0,Pewee Valley city
+KY,2157918,Olive Hill,incorporated,25,A,1580,"Olive Hill, KY",0,171,0,0,Olive Hill city
+KY,2169222,Sebree,incorporated,25,A,1574,"Sebree, KY",0,172,0,0,Sebree city
+KY,2184891,Worthington Hills,incorporated,25,A,1563,"Worthington Hills, KY",0,173,0,0,Worthington Hills city
+KY,2158200,Orchard Grass Hills,incorporated,25,A,1536,"Orchard Grass Hills, KY",0,174,0,0,Orchard Grass Hills city
+KY,2149656,Manchester,incorporated,25,A,1512,"Manchester, KY",0,175,0,0,Manchester city
+KY,2184864,Worthington,incorporated,25,A,1501,"Worthington, KY",0,176,0,0,Worthington city
+KY,2167998,St. Regis Park,incorporated,25,A,1438,"St. Regis Park, KY",0,177,0,0,St. Regis Park city
+KY,2102656,Audubon Park,incorporated,25,A,1433,"Audubon Park, KY",0,178,0,0,Audubon Park city
+KY,2179068,Vanceburg,incorporated,25,A,1428,"Vanceburg, KY",0,179,0,0,Vanceburg city
+KY,2111098,Burkesville,incorporated,25,A,1388,"Burkesville, KY",0,180,0,0,Burkesville city
+KY,2181624,West Buechel,incorporated,25,A,1370,"West Buechel, KY",0,181,0,0,West Buechel city
+KY,2133562,Guthrie,incorporated,25,A,1330,"Guthrie, KY",0,182,0,0,Guthrie city
+KY,2116395,Coldstream,incorporated,25,A,1295,"Coldstream, KY",0,183,0,0,Coldstream city
+KY,2105068,Beechwood Village,incorporated,25,A,1280,"Beechwood Village, KY",0,184,0,0,Beechwood Village city
+KY,2123230,Earlington,incorporated,25,A,1257,"Earlington, KY",0,185,0,0,Earlington city
+KY,2175810,Taylorsville,incorporated,25,A,1256,"Taylorsville, KY",0,186,0,0,Taylorsville city
+KY,2139664,Irvington,incorporated,25,A,1231,"Irvington, KY",0,187,0,0,Irvington city
+KY,2147062,Livermore,incorporated,25,A,1230,"Livermore, KY",0,188,0,0,Livermore city
+KY,2115742,Clinton,incorporated,25,A,1222,"Clinton, KY",0,189,0,0,Clinton city
+KY,2103556,Barbourmeade,incorporated,25,A,1216,"Barbourmeade, KY",0,190,0,0,Barbourmeade city
+KY,2136102,Heritage Creek,incorporated,25,A,1209,"Heritage Creek, KY",0,191,0,0,Heritage Creek city
+KY,2115238,Clay City,incorporated,25,A,1193,"Clay City, KY",0,192,0,0,Clay City city
+KY,2170644,Silver Grove,incorporated,25,A,1154,"Silver Grove, KY",0,193,0,0,Silver Grove city
+KY,2115904,Cloverport,incorporated,25,A,1119,"Cloverport, KY",0,194,0,0,Cloverport city
+KY,2109838,Brodhead,incorporated,25,A,1117,"Brodhead, KY",0,195,0,0,Brodhead city
+KY,2102674,Augusta,incorporated,25,A,1096,"Augusta, KY",0,196,0,0,Augusta city
+KY,2133004,Greenup,incorporated,25,A,1095,"Greenup, KY",0,197,0,0,Greenup city
+KY,2172210,South Shore,incorporated,25,A,1066,"South Shore, KY",0,198,0,0,South Shore city
+KY,2154480,Muldraugh,incorporated,25,A,1040,"Muldraugh, KY",0,199,0,0,Muldraugh city
+KY,2124382,Elkhorn City,incorporated,25,A,1035,"Elkhorn City, KY",0,200,0,0,Elkhorn City city
+KY,2115202,Clay,incorporated,25,A,1031,"Clay, KY",0,201,0,0,Clay city
+KY,2135200,Hawesville,incorporated,25,A,1023,"Hawesville, KY",0,202,0,0,Hawesville city
+KY,2112052,Camargo,incorporated,25,A,1020,"Camargo, KY",0,203,0,0,Camargo city
+KY,2135545,Hebron Estates,incorporated,25,A,1014,"Hebron Estates, KY",0,204,0,0,Hebron Estates city
+KY,2180913,Watterson Park,incorporated,25,A,1004,"Watterson Park, KY",0,205,0,0,Watterson Park city
+KY,2156730,Northfield,incorporated,25,A,991,"Northfield, KY",0,206,0,0,Northfield city
+KY,2185008,Wurtland,incorporated,25,A,983,"Wurtland, KY",0,207,0,0,Wurtland city
+KY,2111044,Burgin,incorporated,25,A,979,"Burgin, KY",0,208,0,0,Burgin city
+KY,2156910,Nortonville,incorporated,25,A,977,"Nortonville, KY",0,209,0,0,Nortonville city
+KY,2107516,Bloomfield,incorporated,25,A,961,"Bloomfield, KY",0,210,0,0,Bloomfield city
+KY,2181930,West Point,incorporated,25,A,952,"West Point, KY",0,211,0,0,West Point city
+KY,2184576,Woodlawn Park,incorporated,25,A,947,"Woodlawn Park, KY",0,212,0,0,Woodlawn Park city
+KY,2148648,Lynnview,incorporated,25,A,945,"Lynnview, KY",0,213,0,0,Lynnview city
+KY,2166504,Rolling Hills,incorporated,25,A,934,"Rolling Hills, KY",0,214,0,0,Rolling Hills city
+KY,2115148,Clarkson,incorporated,25,A,933,"Clarkson, KY",0,215,0,0,Clarkson city
+KY,2121682,Dixon,incorporated,25,A,933,"Dixon, KY",0,216,0,0,Dixon city
+KY,2178492,Uniontown,incorporated,25,A,929,"Uniontown, KY",0,217,0,0,Uniontown city
+KY,2167602,Ryland Heights,incorporated,25,A,922,"Ryland Heights, KY",0,218,0,0,Ryland Heights city
+KY,2105374,Bellefonte,incorporated,25,A,920,"Bellefonte, KY",0,219,0,0,Bellefonte city
+KY,2105392,Bellemeade,incorporated,25,A,909,"Bellemeade, KY",0,220,0,0,Bellemeade city
+KY,2131960,Goshen,incorporated,25,A,892,"Goshen, KY",0,221,0,0,Goshen city
+KY,2127010,Ferguson,incorporated,25,A,886,"Ferguson, KY",0,222,0,0,Ferguson city
+KY,2155596,New Castle,incorporated,25,A,884,"New Castle, KY",0,223,0,0,New Castle city
+KY,2110324,Brownsville,incorporated,25,A,875,"Brownsville, KY",0,224,0,0,Brownsville city
+KY,2143336,La Center,incorporated,25,A,872,"La Center, KY",0,225,0,0,La Center city
+KY,2143900,Langdon Place,incorporated,25,A,870,"Langdon Place, KY",0,226,0,0,Langdon Place city
+KY,2159934,Pembroke,incorporated,25,A,865,"Pembroke, KY",0,227,0,0,Pembroke city
+KY,2125606,Evarts,incorporated,25,A,859,"Evarts, KY",0,228,0,0,Evarts city
+KY,2127262,Fincastle,incorporated,25,A,848,"Fincastle, KY",0,229,0,0,Fincastle city
+KY,2100298,Adairville,incorporated,25,A,837,"Adairville, KY",0,230,0,0,Adairville city
+KY,2112142,Campbellsburg,incorporated,25,A,836,"Campbellsburg, KY",0,231,0,0,Campbellsburg city
+KY,2182722,White Plains,incorporated,25,A,829,"White Plains, KY",0,232,0,0,White Plains city
+KY,2161554,Plantation,incorporated,25,A,826,"Plantation, KY",0,233,0,0,Plantation city
+KY,2149116,McKee,incorporated,25,A,803,"McKee, KY",0,234,0,0,McKee city
+KY,2137576,Hollow Creek,incorporated,25,A,799,"Hollow Creek, KY",0,235,0,0,Hollow Creek city
+KY,2155758,New Haven,incorporated,25,A,798,"New Haven, KY",0,236,0,0,New Haven city
+KY,2107858,Blue Ridge Manor,incorporated,25,A,791,"Blue Ridge Manor, KY",0,237,0,0,Blue Ridge Manor city
+KY,2162652,Powderly,incorporated,25,A,788,"Powderly, KY",0,238,0,0,Powderly city
+KY,2160258,Perryville,incorporated,25,A,782,"Perryville, KY",0,239,0,0,Perryville city
+KY,2173038,Stamping Ground,incorporated,25,A,780,"Stamping Ground, KY",0,240,0,0,Stamping Ground city
+KY,2161788,Pleasureville,incorporated,25,A,779,"Pleasureville, KY",0,241,0,0,Pleasureville city
+KY,2134390,Hanson,incorporated,25,A,758,"Hanson, KY",0,242,0,0,Hanson city
+KY,2171454,Smiths Grove,incorporated,25,A,752,"Smiths Grove, KY",0,243,0,0,Smiths Grove city
+KY,2145064,Lewisburg,incorporated,25,A,748,"Lewisburg, KY",0,244,0,0,Lewisburg city
+KY,2152302,Millersburg,incorporated,25,A,747,"Millersburg, KY",0,245,0,0,Millersburg city
+KY,2117956,Crab Orchard,incorporated,25,A,744,"Crab Orchard, KY",0,246,0,0,Crab Orchard city
+KY,2117686,Corydon,incorporated,25,A,737,"Corydon, KY",0,247,0,0,Corydon city
+KY,2184486,Woodland Hills,incorporated,25,A,736,"Woodland Hills, KY",0,248,0,0,Woodland Hills city
+KY,2151258,Meadow Vale,incorporated,25,A,730,"Meadow Vale, KY",0,249,0,0,Meadow Vale city
+KY,2153616,Mortons Gap,incorporated,25,A,728,"Mortons Gap, KY",0,250,0,0,Mortons Gap city
+KY,2111854,Calhoun,incorporated,25,A,725,"Calhoun, KY",0,251,0,0,Calhoun city
+KY,2109856,Bromley,incorporated,25,A,724,"Bromley, KY",0,252,0,0,Bromley city
+KY,2147710,Loretto,incorporated,25,A,723,"Loretto, KY",0,253,0,0,Loretto city
+KY,2168052,Salem,incorporated,25,A,722,"Salem, KY",0,254,0,0,Salem city
+KY,2166486,Rolling Fields,incorporated,25,A,720,"Rolling Fields, KY",0,255,0,0,Rolling Fields city
+KY,2103664,Bardwell,incorporated,25,A,714,"Bardwell, KY",0,256,0,0,Bardwell city
+KY,2132986,Green Spring,incorporated,25,A,711,"Green Spring, KY",0,257,0,0,Green Spring city
+KY,2178672,Upton,incorporated,25,A,704,"Upton, KY",0,258,0,0,Upton city
+KY,2137108,Hindman,incorporated,25,A,701,"Hindman, KY",0,259,0,0,Hindman city
+KY,2111278,Burnside,incorporated,25,A,694,"Burnside, KY",0,260,0,0,Burnside city
+KY,2174082,Strathmoor Village,incorporated,25,A,684,"Strathmoor Village, KY",0,261,0,0,Strathmoor Village city
+KY,2172790,Spring Valley,incorporated,25,A,675,"Spring Valley, KY",0,262,0,0,Spring Valley city
+KY,2169384,Seneca Gardens,incorporated,25,A,674,"Seneca Gardens, KY",0,263,0,0,Seneca Gardens city
+KY,2183064,Wickliffe,incorporated,25,A,670,"Wickliffe, KY",0,264,0,0,Wickliffe city
+KY,2148540,Lynch,incorporated,25,A,658,"Lynch, KY",0,265,0,0,Lynch city
+KY,2168952,Science Hill,incorporated,25,A,657,"Science Hill, KY",0,266,0,0,Science Hill city
+KY,2110000,Brooksville,incorporated,25,A,654,"Brooksville, KY",0,267,0,0,Brooksville city
+KY,2103718,Barlow,incorporated,25,A,653,"Barlow, KY",0,268,0,0,Barlow city
+KY,2118658,Crofton,incorporated,25,A,653,"Crofton, KY",0,269,0,0,Crofton city
+KY,2111530,Butler,incorporated,25,A,646,"Butler, KY",0,270,0,0,Butler city
+KY,2168556,Sandy Hook,incorporated,25,A,641,"Sandy Hook, KY",0,271,0,0,Sandy Hook city
+KY,2110162,Brownsboro Farm,incorporated,25,A,640,"Brownsboro Farm, KY",0,272,0,0,Brownsboro Farm city
+KY,2148288,Loyall,incorporated,25,A,638,"Loyall, KY",0,273,0,0,Loyall city
+KY,2143264,Kuttawa,incorporated,25,A,629,"Kuttawa, KY",0,274,0,0,Kuttawa city
+KY,2159322,Parkway Village,incorporated,25,A,623,"Parkway Village, KY",0,275,0,0,Parkway Village city
+KY,2159232,Park City,incorporated,25,A,614,"Park City, KY",0,276,0,0,Park City city
+KY,2156820,North Middletown,incorporated,25,A,610,"North Middletown, KY",0,277,0,0,North Middletown city
+KY,2129260,Frenchburg,incorporated,25,A,601,"Frenchburg, KY",0,278,0,0,Frenchburg city
+KY,2131348,Glenview,incorporated,25,A,596,"Glenview, KY",0,279,0,0,Glenview city
+KY,2142292,Kevil,incorporated,25,A,595,"Kevil, KY",0,280,0,0,Kevil city
+KY,2152590,Milton,incorporated,25,A,590,"Milton, KY",0,281,0,0,Milton city
+KY,2134534,Hardin,incorporated,25,A,580,"Hardin, KY",0,282,0,0,Hardin city
+KY,2182830,Whitesville,incorporated,25,A,580,"Whitesville, KY",0,283,0,0,Whitesville city
+KY,2183856,Wingo,incorporated,25,A,573,"Wingo, KY",0,284,0,0,Wingo city
+KY,2182164,Westwood,incorporated,25,A,571,"Westwood, KY",0,285,0,0,Westwood city
+KY,2164092,Ravenna,incorporated,25,A,568,"Ravenna, KY",0,286,0,0,Ravenna city
+KY,2154660,Murray Hill,incorporated,25,A,565,"Murray Hill, KY",0,287,0,0,Murray Hill city
+KY,2171724,Sonora,incorporated,25,A,565,"Sonora, KY",0,288,0,0,Sonora city
+KY,2181372,Wellington,incorporated,25,A,564,"Wellington, KY",0,289,0,0,Wellington city
+KY,2127846,Fleming-Neon,incorporated,25,A,548,"Fleming-Neon, KY",0,290,0,0,Fleming-Neon city
+KY,2139430,Inez,incorporated,25,A,546,"Inez, KY",0,291,0,0,Inez city
+KY,2112538,Caneyville,incorporated,25,A,529,"Caneyville, KY",0,292,0,0,Caneyville city
+KY,2104816,Bedford,incorporated,25,A,526,"Bedford, KY",0,293,0,0,Bedford city
+KY,2137630,Hollyvilla,incorporated,25,A,518,"Hollyvilla, KY",0,294,0,0,Hollyvilla city
+KY,2150286,Martin,incorporated,25,A,513,"Martin, KY",0,295,0,0,Martin city
+KY,2105662,Benham,incorporated,25,A,512,"Benham, KY",0,296,0,0,Benham city
+KY,2182272,Wheelwright,incorporated,25,A,509,"Wheelwright, KY",0,297,0,0,Wheelwright city
+KY,2103376,Bancroft,incorporated,25,A,503,"Bancroft, KY",0,298,0,0,Bancroft city
+KY,2161860,Plum Springs,incorporated,25,A,497,"Plum Springs, KY",0,299,0,0,Plum Springs city
+KY,2138170,Houston Acres,incorporated,25,A,492,"Houston Acres, KY",0,300,0,0,Houston Acres city
+KY,2165766,Riverwood,incorporated,25,A,492,"Riverwood, KY",0,301,0,0,Riverwood city
+KY,2122348,Drakesboro,incorporated,25,A,481,"Drakesboro, KY",0,302,0,0,Drakesboro city
+KY,2161374,Pippa Passes,incorporated,25,A,468,"Pippa Passes, KY",0,303,0,0,Pippa Passes city
+KY,2151438,Melbourne,incorporated,25,A,458,"Melbourne, KY",0,304,0,0,Melbourne city
+KY,2118424,Crestview,incorporated,25,A,452,"Crestview, KY",0,305,0,0,Crestview city
+KY,2165874,Robards,incorporated,25,A,449,"Robards, KY",0,306,0,0,Robards city
+KY,2128270,Fordsville,incorporated,25,A,446,"Fordsville, KY",0,307,0,0,Fordsville city
+KY,2109532,Briarwood,incorporated,25,A,445,"Briarwood, KY",0,308,0,0,Briarwood city
+KY,2128342,Forest Hills,incorporated,25,A,438,"Forest Hills, KY",0,309,0,0,Forest Hills city
+KY,2156550,Norbourne Estates,incorporated,25,A,437,"Norbourne Estates, KY",0,310,0,0,Norbourne Estates city
+KY,2128785,Fox Chase,incorporated,25,A,436,"Fox Chase, KY",0,311,0,0,Fox Chase city
+KY,2165559,River Bluff,incorporated,25,A,436,"River Bluff, KY",0,312,0,0,River Bluff city
+KY,2153328,Moorland,incorporated,25,A,433,"Moorland, KY",0,313,0,0,Moorland city
+KY,2139700,Island,incorporated,25,A,429,"Island, KY",0,314,0,0,Island city
+KY,2167638,Sacramento,incorporated,25,A,429,"Sacramento, KY",0,315,0,0,Sacramento city
+KY,2113870,Centertown,incorporated,25,A,416,"Centertown, KY",0,316,0,0,Centertown city
+KY,2165208,Richlawn,incorporated,25,A,415,"Richlawn, KY",0,317,0,0,Richlawn city
+KY,2142598,Kingsley,incorporated,25,A,397,"Kingsley, KY",0,318,0,0,Kingsley city
+KY,2129872,Gamaliel,incorporated,25,A,391,"Gamaliel, KY",0,319,0,0,Gamaliel city
+KY,2135380,Hazel,incorporated,25,A,390,"Hazel, KY",0,320,0,0,Hazel city
+KY,2181012,Wayland,incorporated,25,A,389,"Wayland, KY",0,321,0,0,Wayland city
+KY,2138836,Hustonville,incorporated,25,A,387,"Hustonville, KY",0,322,0,0,Hustonville city
+KY,2162370,Poplar Hills,incorporated,25,A,380,"Poplar Hills, KY",0,323,0,0,Poplar Hills city
+KY,2156928,Norwood,incorporated,25,A,379,"Norwood, KY",0,324,0,0,Norwood city
+KY,2131402,Glenview Hills,incorporated,25,A,377,"Glenview Hills, KY",0,325,0,0,Glenview Hills city
+KY,2157658,Old Brownsboro Place,incorporated,25,A,376,"Old Brownsboro Place, KY",0,326,0,0,Old Brownsboro Place city
+KY,2129080,Fredonia,incorporated,25,A,372,"Fredonia, KY",0,327,0,0,Fredonia city
+KY,2149098,McHenry,incorporated,25,A,369,"McHenry, KY",0,328,0,0,McHenry city
+KY,2169852,Sharpsburg,incorporated,25,A,365,"Sharpsburg, KY",0,329,0,0,Sharpsburg city
+KY,2130808,Ghent,incorporated,25,A,363,"Ghent, KY",0,330,0,0,Ghent city
+KY,2174064,Strathmoor Manor,incorporated,25,A,351,"Strathmoor Manor, KY",0,331,0,0,Strathmoor Manor city
+KY,2131204,Glencoe,incorporated,25,A,350,"Glencoe, KY",0,332,0,0,Glencoe city
+KY,2153976,Mount Olivet,incorporated,25,A,347,"Mount Olivet, KY",0,333,0,0,Mount Olivet city
+KY,2132212,Grand Rivers,incorporated,25,A,345,"Grand Rivers, KY",0,334,0,0,Grand Rivers city
+KY,2105464,Bellewood,incorporated,25,A,340,"Bellewood, KY",0,335,0,0,Bellewood city
+KY,2179590,Vicco,incorporated,25,A,327,"Vicco, KY",0,336,0,0,Vicco city
+KY,2177592,Trenton,incorporated,25,A,326,"Trenton, KY",0,337,0,0,Trenton city
+KY,2138670,Hunters Hollow,incorporated,25,A,324,"Hunters Hollow, KY",0,338,0,0,Hunters Hollow city
+KY,2167656,Sadieville,incorporated,25,A,320,"Sadieville, KY",0,339,0,0,Sadieville city
+KY,2112358,Campton,incorporated,25,A,316,"Campton, KY",0,340,0,0,Campton city
+KY,2125552,Eubank,incorporated,25,A,313,"Eubank, KY",0,341,0,0,Eubank city
+KY,2180958,Waverly,incorporated,25,A,311,"Waverly, KY",0,342,0,0,Waverly city
+KY,2110198,Brownsboro Village,incorporated,25,A,308,"Brownsboro Village, KY",0,343,0,0,Brownsboro Village city
+KY,2118270,Creekside,incorporated,25,A,305,"Creekside, KY",0,344,0,0,Creekside city
+KY,2131870,Goose Creek,incorporated,25,A,303,"Goose Creek, KY",0,345,0,0,Goose Creek city
+KY,2138908,Hyden,incorporated,25,A,303,"Hyden, KY",0,346,0,0,Hyden city
+KY,2184414,Woodburn,incorporated,25,A,303,"Woodburn, KY",0,347,0,0,Woodburn city
+KY,2183424,Willisburg,incorporated,25,A,300,"Willisburg, KY",0,348,0,0,Willisburg city
+KY,2122474,Druid Hills,incorporated,25,A,299,"Druid Hills, KY",0,349,0,0,Druid Hills city
+KY,2172770,Spring Mill,incorporated,25,A,294,"Spring Mill, KY",0,350,0,0,Spring Mill city
+KY,2183208,Wildwood,incorporated,25,A,281,"Wildwood, KY",0,351,0,0,Wildwood city
+KY,2143668,Lakeview Heights,incorporated,25,A,277,"Lakeview Heights, KY",0,352,0,0,Lakeview Heights city
+KY,2167710,St. Charles,incorporated,25,A,273,"St. Charles, KY",0,353,0,0,St. Charles city
+KY,2109100,Bradfordsville,incorporated,25,A,270,"Bradfordsville, KY",0,354,0,0,Bradfordsville city
+KY,2108488,Bonnieville,incorporated,25,A,269,"Bonnieville, KY",0,355,0,0,Bonnieville city
+KY,2102044,Arlington,incorporated,25,A,264,"Arlington, KY",0,356,0,0,Arlington city
+KY,2180616,Warfield,incorporated,25,A,264,"Warfield, KY",0,357,0,0,Warfield city
+KY,2166216,Rockport,incorporated,25,A,262,"Rockport, KY",0,358,0,0,Rockport city
+KY,2105968,Berry,incorporated,25,A,250,"Berry, KY",0,359,0,0,Berry city
+KY,2168160,Salt Lick,incorporated,25,A,247,"Salt Lick, KY",0,360,0,0,Salt Lick city
+KY,2109847,Broeck Pointe,incorporated,25,A,245,"Broeck Pointe, KY",0,361,0,0,Broeck Pointe city
+KY,2149800,Manor Creek,incorporated,25,A,240,"Manor Creek, KY",0,362,0,0,Manor Creek city
+KY,2171382,Smithland,incorporated,25,A,240,"Smithland, KY",0,363,0,0,Smithland city
+KY,2172372,Sparta,incorporated,25,A,236,"Sparta, KY",0,364,0,0,Sparta city
+KY,2125786,Ewing,incorporated,25,A,228,"Ewing, KY",0,365,0,0,Ewing city
+KY,2117434,Corinth,incorporated,25,A,226,"Corinth, KY",0,366,0,0,Corinth city
+KY,2118766,Crossgate,incorporated,25,A,221,"Crossgate, KY",0,367,0,0,Crossgate city
+KY,2122222,Dover,incorporated,25,A,221,"Dover, KY",0,368,0,0,Dover city
+KY,2151564,Mentor,incorporated,25,A,218,"Mentor, KY",0,369,0,0,Mentor city
+KY,2128666,Fountain Run,incorporated,25,A,216,"Fountain Run, KY",0,370,0,0,Fountain Run city
+KY,2184522,Woodlawn,incorporated,25,A,212,"Woodlawn, KY",0,371,0,0,Woodlawn city
+KY,2155092,Nebo,incorporated,25,A,211,"Nebo, KY",0,372,0,0,Nebo city
+KY,2149206,Mackville,incorporated,25,A,207,"Mackville, KY",0,373,0,0,Mackville city
+KY,2131420,Glenview Manor,incorporated,25,A,206,"Glenview Manor, KY",0,374,0,0,Glenview Manor city
+KY,2157144,Oakland,incorporated,25,A,198,"Oakland, KY",0,375,0,0,Oakland city
+KY,2168358,Sanders,incorporated,25,A,197,"Sanders, KY",0,376,0,0,Sanders city
+KY,2171130,Slaughters,incorporated,25,A,190,"Slaughters, KY",0,377,0,0,Slaughters city
+KY,2150412,Maryhill Estates,incorporated,25,A,185,"Maryhill Estates, KY",0,378,0,0,Maryhill Estates city
+KY,2176380,Thornhill,incorporated,25,A,185,"Thornhill, KY",0,379,0,0,Thornhill city
+KY,2100946,Allen,incorporated,25,A,182,"Allen, KY",0,380,0,0,Allen city
+KY,2184900,Worthville,incorporated,25,A,181,"Worthville, KY",0,381,0,0,Worthville city
+KY,2151294,Meadowview Estates,incorporated,25,A,178,"Meadowview Estates, KY",0,382,0,0,Meadowview Estates city
+KY,2143444,LaFayette,incorporated,25,A,177,"LaFayette, KY",0,383,0,0,LaFayette city
+KY,2124094,Ekron,incorporated,25,A,175,"Ekron, KY",0,384,0,0,Ekron city
+KY,2152842,Mockingbird Valley,incorporated,25,A,175,"Mockingbird Valley, KY",0,385,0,0,Mockingbird Valley city
+KY,2109406,Bremen,incorporated,25,A,172,"Bremen, KY",0,386,0,0,Bremen city
+KY,2162958,Prestonville,incorporated,25,A,171,"Prestonville, KY",0,387,0,0,Prestonville city
+KY,2108614,Booneville,incorporated,25,A,168,"Booneville, KY",0,388,0,0,Booneville city
+KY,2147098,Livingston,incorporated,25,A,166,"Livingston, KY",0,389,0,0,Livingston city
+KY,2175190,Sycamore,incorporated,25,A,166,"Sycamore, KY",0,390,0,0,Sycamore city
+KY,2112066,Cambridge,incorporated,25,A,162,"Cambridge, KY",0,391,0,0,Cambridge city
+KY,2164146,Raywick,incorporated,25,A,155,"Raywick, KY",0,392,0,0,Raywick city
+KY,2130718,Germantown,incorporated,25,A,146,"Germantown, KY",0,393,0,0,Germantown city
+KY,2136865,Hills and Dales,incorporated,25,A,146,"Hills and Dales, KY",0,394,0,0,Hills and Dales city
+KY,2126236,Fairview,incorporated,25,A,144,"Fairview, KY",0,395,0,0,Fairview city
+KY,2171814,South Carrollton,incorporated,25,A,141,"South Carrollton, KY",0,396,0,0,South Carrollton city
+KY,2116768,Columbus,incorporated,25,A,140,"Columbus, KY",0,397,0,0,Columbus city
+KY,2167890,St. Mary,incorporated,25,A,138,"St. Mary, KY",0,398,0,0,St. Mary city
+KY,2146540,Lincolnshire,incorporated,25,A,137,"Lincolnshire, KY",0,399,0,0,Lincolnshire city
+KY,2171364,Smithfield,incorporated,25,A,124,"Smithfield, KY",0,400,0,0,Smithfield city
+KY,2136374,Hickory Hill,incorporated,25,A,119,"Hickory Hill, KY",0,401,0,0,Hickory Hill city
+KY,2126020,Fairfield,incorporated,25,A,118,"Fairfield, KY",0,402,0,0,Fairfield city
+KY,2151193,Meadowbrook Farm,incorporated,25,A,117,"Meadowbrook Farm, KY",0,403,0,0,Meadowbrook Farm city
+KY,2165982,Rochester,incorporated,25,A,114,"Rochester, KY",0,404,0,0,Rochester city
+KY,2153076,Monterey,incorporated,25,A,112,"Monterey, KY",0,405,0,0,Monterey city
+KY,2142094,Kenton Vale,incorporated,25,A,105,"Kenton Vale, KY",0,406,0,0,Kenton Vale city
+KY,2182200,Wheatcroft,incorporated,25,A,105,"Wheatcroft, KY",0,407,0,0,Wheatcroft city
+KY,2141716,Keene,incorporated,25,A,99,"Keene, KY",0,408,0,0,Keene city
+KY,2175963,Ten Broeck,incorporated,25,A,99,"Ten Broeck, KY",0,409,0,0,Ten Broeck city
+KY,2110612,Buckhorn,incorporated,25,A,89,"Buckhorn, KY",0,410,0,0,Buckhorn city
+KY,2111872,California,incorporated,25,A,83,"California, KY",0,411,0,0,California city
+KY,2184432,Woodbury,incorporated,25,A,80,"Woodbury, KY",0,412,0,0,Woodbury city
+KY,2107390,Blandville,incorporated,25,A,73,"Blandville, KY",0,413,0,0,Blandville city
+KY,2132428,Gratz,incorporated,25,A,67,"Gratz, KY",0,414,0,0,Gratz city
+KY,2107264,Blaine,incorporated,25,A,66,"Blaine, KY",0,415,0,0,Blaine city
+KY,2168646,Sardis,incorporated,25,A,60,"Sardis, KY",0,416,0,0,Sardis city
+KY,2113060,Carrsville,incorporated,25,A,48,"Carrsville, KY",0,417,0,0,Carrsville city
+KY,2116894,Concord,incorporated,25,A,19,"Concord, KY",0,418,0,0,Concord city
+KY,2148003,Louisville/Jefferson County,consolidated,MT,A,0,"Louisville/Jefferson County, KY",0,419,0,0,Louisville/Jefferson County metro government
+KY,2172138,South Park View,incorporated,25,A,0,"South Park View, KY",0,420,0,0,South Park View city

@@ -1,63 +1,63 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-TX,4835000,Houston,incorporated,25,A,2304580,"Houston, TX",0,1,63,0.252,Houston city
-TX,4865000,San Antonio,incorporated,25,A,1434625,"San Antonio, TX",0,2,26,0.104,San Antonio city
-TX,4819000,Dallas,incorporated,25,A,1304379,"Dallas, TX",0,3,17,0.068,Dallas city
-TX,4805000,Austin,incorporated,25,A,961855,"Austin, TX",0,4,18,0.072,Austin city
-TX,4827000,Fort Worth,incorporated,25,A,918915,"Fort Worth, TX",0,5,8,0.032,Fort Worth city
-TX,4824000,El Paso,incorporated,25,A,678815,"El Paso, TX",0,6,8,0.032,El Paso city
-TX,4804000,Arlington,incorporated,25,A,394266,"Arlington, TX",0,7,6,0.024,Arlington city
-TX,4817000,Corpus Christi,incorporated,25,A,317863,"Corpus Christi, TX",0,8,6,0.024,Corpus Christi city
-TX,4858016,Plano,incorporated,25,A,285494,"Plano, TX",0,9,4,0.016,Plano city
-TX,4845000,Lubbock,incorporated,25,A,257141,"Lubbock, TX",0,10,5,0.02,Lubbock city
-TX,4837000,Irving,incorporated,25,A,256684,"Irving, TX",0,11,3,0.012,Irving city
-TX,4841464,Laredo,incorporated,25,A,255205,"Laredo, TX",0,12,4,0.016,Laredo city
-TX,4829000,Garland,incorporated,25,A,246018,"Garland, TX",0,13,4,0.016,Garland city
-TX,4827684,Frisco,incorporated,25,A,200509,"Frisco, TX",0,14,2,0.008,Frisco city
-TX,4803000,Amarillo,incorporated,25,A,200393,"Amarillo, TX",0,15,2,0.008,Amarillo city
-TX,4830464,Grand Prairie,incorporated,25,A,196100,"Grand Prairie, TX",0,16,3,0.012,Grand Prairie city
-TX,4845744,McKinney,incorporated,25,A,195308,"McKinney, TX",0,17,3,0.012,McKinney city
-TX,4810768,Brownsville,incorporated,25,A,186738,"Brownsville, TX",0,18,3,0.012,Brownsville city
-TX,4839148,Killeen,incorporated,25,A,153095,"Killeen, TX",0,19,3,0.012,Killeen city
-TX,4856000,Pasadena,incorporated,25,A,151950,"Pasadena, TX",0,20,2,0.008,Pasadena city
-TX,4847892,Mesquite,incorporated,25,A,150108,"Mesquite, TX",0,21,2,0.008,Mesquite city
-TX,4845384,McAllen,incorporated,25,A,142210,"McAllen, TX",0,22,1,0.004,McAllen city
-TX,4819972,Denton,incorporated,25,A,139869,"Denton, TX",0,23,1,0.004,Denton city
-TX,4876000,Waco,incorporated,25,A,138486,"Waco, TX",0,24,1,0.004,Waco city
-TX,4813024,Carrollton,incorporated,25,A,133434,"Carrollton, TX",0,25,1,0.004,Carrollton city
-TX,4848072,Midland,incorporated,25,A,132524,"Midland, TX",0,26,1,0.004,Midland city
-TX,4856348,Pearland,incorporated,25,A,125828,"Pearland, TX",0,27,1,0.004,Pearland city
-TX,4801000,Abilene,incorporated,25,A,125182,"Abilene, TX",0,28,2,0.008,Abilene city
-TX,4815976,College Station,incorporated,25,A,120511,"College Station, TX",0,29,2,0.008,College Station city
-TX,4861796,Richardson,incorporated,25,A,119469,"Richardson, TX",0,30,2,0.008,Richardson city
-TX,4863500,Round Rock,incorporated,25,A,119468,"Round Rock, TX",0,31,2,0.008,Round Rock city
-TX,4807000,Beaumont,incorporated,25,A,115282,"Beaumont, TX",0,32,2,0.008,Beaumont city
-TX,4853388,Odessa,incorporated,25,A,114428,"Odessa, TX",0,33,2,0.008,Odessa city
-TX,4841980,League City,incorporated,25,A,114392,"League City, TX",0,34,2,0.008,League City city
-TX,4842508,Lewisville,incorporated,25,A,111822,"Lewisville, TX",0,35,2,0.008,Lewisville city
-TX,4870808,Sugar Land,incorporated,25,A,111026,"Sugar Land, TX",0,36,2,0.008,Sugar Land city
-TX,4874144,Tyler,incorporated,25,A,105995,"Tyler, TX",0,37,2,0.008,Tyler city
-TX,4801924,Allen,incorporated,25,A,104627,"Allen, TX",0,38,2,0.008,Allen city
-TX,4879000,Wichita Falls,incorporated,25,A,102316,"Wichita Falls, TX",0,39,2,0.008,Wichita Falls city
-TX,4822660,Edinburg,incorporated,25,A,100243,"Edinburg, TX",0,40,2,0.008,Edinburg city
-TX,4864472,San Angelo,incorporated,25,A,99893,"San Angelo, TX",0,41,2,0.008,San Angelo city
-TX,4850820,New Braunfels,incorporated,25,A,90403,"New Braunfels, TX",0,42,2,0.008,New Braunfels city
-TX,4816432,Conroe,incorporated,25,A,89956,"Conroe, TX",0,43,2,0.008,Conroe city
-TX,4848768,Mission,incorporated,25,A,85778,"Mission, TX",0,44,2,0.008,Mission city
-TX,4810912,Bryan,incorporated,25,A,83980,"Bryan, TX",0,45,2,0.008,Bryan city
-TX,4806128,Baytown,incorporated,25,A,83701,"Baytown, TX",0,46,2,0.008,Baytown city
-TX,4872176,Temple,incorporated,25,A,82073,"Temple, TX",0,47,2,0.008,Temple city
-TX,4843888,Longview,incorporated,25,A,81638,"Longview, TX",0,48,1,0.004,Longview city
-TX,4857200,Pharr,incorporated,25,A,79715,"Pharr, TX",0,49,1,0.004,Pharr city
-TX,4813552,Cedar Park,incorporated,25,A,77595,"Cedar Park, TX",0,50,1,0.004,Cedar Park city
-TX,4826232,Flower Mound,incorporated,43,A,75956,"Flower Mound, TX",0,51,1,0.004,Flower Mound town
-TX,4848804,Missouri City,incorporated,25,A,74259,"Missouri City, TX",0,52,1,0.004,Missouri City city
-TX,4846452,Mansfield,incorporated,25,A,72602,"Mansfield, TX",0,53,1,0.004,Mansfield city
-TX,4832372,Harlingen,incorporated,25,A,71829,"Harlingen, TX",0,54,1,0.004,Harlingen city
-TX,4852356,North Richland Hills,incorporated,25,A,69917,"North Richland Hills, TX",0,55,1,0.004,North Richland Hills city
-TX,4865600,San Marcos,incorporated,25,A,67553,"San Marcos, TX",0,56,1,0.004,San Marcos city
-TX,4829336,Georgetown,incorporated,25,A,67176,"Georgetown, TX",0,57,1,0.004,Georgetown city
-TX,4875428,Victoria,incorporated,25,A,65534,"Victoria, TX",0,58,1,0.004,Victoria city
-TX,4857176,Pflugerville,incorporated,25,A,65191,"Pflugerville, TX",0,59,1,0.004,Pflugerville city
+TX,4835000,Houston,incorporated,25,A,2304580,"Houston, TX",0,1,26,0.26,Houston city
+TX,4865000,San Antonio,incorporated,25,A,1434625,"San Antonio, TX",0,2,11,0.11,San Antonio city
+TX,4819000,Dallas,incorporated,25,A,1304379,"Dallas, TX",0,3,6,0.06,Dallas city
+TX,4805000,Austin,incorporated,25,A,961855,"Austin, TX",0,4,8,0.08,Austin city
+TX,4827000,Fort Worth,incorporated,25,A,918915,"Fort Worth, TX",0,5,4,0.04,Fort Worth city
+TX,4824000,El Paso,incorporated,25,A,678815,"El Paso, TX",0,6,4,0.04,El Paso city
+TX,4804000,Arlington,incorporated,25,A,394266,"Arlington, TX",0,7,2,0.02,Arlington city
+TX,4817000,Corpus Christi,incorporated,25,A,317863,"Corpus Christi, TX",0,8,3,0.03,Corpus Christi city
+TX,4858016,Plano,incorporated,25,A,285494,"Plano, TX",0,9,3,0.03,Plano city
+TX,4845000,Lubbock,incorporated,25,A,257141,"Lubbock, TX",0,10,2,0.02,Lubbock city
+TX,4837000,Irving,incorporated,25,A,256684,"Irving, TX",0,11,1,0.01,Irving city
+TX,4841464,Laredo,incorporated,25,A,255205,"Laredo, TX",0,12,1,0.01,Laredo city
+TX,4829000,Garland,incorporated,25,A,246018,"Garland, TX",0,13,1,0.01,Garland city
+TX,4827684,Frisco,incorporated,25,A,200509,"Frisco, TX",0,14,2,0.02,Frisco city
+TX,4803000,Amarillo,incorporated,25,A,200393,"Amarillo, TX",0,15,2,0.02,Amarillo city
+TX,4830464,Grand Prairie,incorporated,25,A,196100,"Grand Prairie, TX",0,16,2,0.02,Grand Prairie city
+TX,4845744,McKinney,incorporated,25,A,195308,"McKinney, TX",0,17,2,0.02,McKinney city
+TX,4810768,Brownsville,incorporated,25,A,186738,"Brownsville, TX",0,18,2,0.02,Brownsville city
+TX,4839148,Killeen,incorporated,25,A,153095,"Killeen, TX",0,19,2,0.02,Killeen city
+TX,4856000,Pasadena,incorporated,25,A,151950,"Pasadena, TX",0,20,2,0.02,Pasadena city
+TX,4847892,Mesquite,incorporated,25,A,150108,"Mesquite, TX",0,21,2,0.02,Mesquite city
+TX,4845384,McAllen,incorporated,25,A,142210,"McAllen, TX",0,22,2,0.02,McAllen city
+TX,4819972,Denton,incorporated,25,A,139869,"Denton, TX",0,23,1,0.01,Denton city
+TX,4876000,Waco,incorporated,25,A,138486,"Waco, TX",0,24,1,0.01,Waco city
+TX,4813024,Carrollton,incorporated,25,A,133434,"Carrollton, TX",0,25,1,0.01,Carrollton city
+TX,4848072,Midland,incorporated,25,A,132524,"Midland, TX",0,26,1,0.01,Midland city
+TX,4856348,Pearland,incorporated,25,A,125828,"Pearland, TX",0,27,1,0.01,Pearland city
+TX,4801000,Abilene,incorporated,25,A,125182,"Abilene, TX",0,28,1,0.01,Abilene city
+TX,4815976,College Station,incorporated,25,A,120511,"College Station, TX",0,29,1,0.01,College Station city
+TX,4861796,Richardson,incorporated,25,A,119469,"Richardson, TX",0,30,1,0.01,Richardson city
+TX,4863500,Round Rock,incorporated,25,A,119468,"Round Rock, TX",0,31,1,0.01,Round Rock city
+TX,4807000,Beaumont,incorporated,25,A,115282,"Beaumont, TX",0,32,1,0.01,Beaumont city
+TX,4853388,Odessa,incorporated,25,A,114428,"Odessa, TX",0,33,0,0,Odessa city
+TX,4841980,League City,incorporated,25,A,114392,"League City, TX",0,34,0,0,League City city
+TX,4842508,Lewisville,incorporated,25,A,111822,"Lewisville, TX",0,35,0,0,Lewisville city
+TX,4870808,Sugar Land,incorporated,25,A,111026,"Sugar Land, TX",0,36,0,0,Sugar Land city
+TX,4874144,Tyler,incorporated,25,A,105995,"Tyler, TX",0,37,0,0,Tyler city
+TX,4801924,Allen,incorporated,25,A,104627,"Allen, TX",0,38,0,0,Allen city
+TX,4879000,Wichita Falls,incorporated,25,A,102316,"Wichita Falls, TX",0,39,0,0,Wichita Falls city
+TX,4822660,Edinburg,incorporated,25,A,100243,"Edinburg, TX",0,40,0,0,Edinburg city
+TX,4864472,San Angelo,incorporated,25,A,99893,"San Angelo, TX",0,41,0,0,San Angelo city
+TX,4850820,New Braunfels,incorporated,25,A,90403,"New Braunfels, TX",0,42,0,0,New Braunfels city
+TX,4816432,Conroe,incorporated,25,A,89956,"Conroe, TX",0,43,0,0,Conroe city
+TX,4848768,Mission,incorporated,25,A,85778,"Mission, TX",0,44,0,0,Mission city
+TX,4810912,Bryan,incorporated,25,A,83980,"Bryan, TX",0,45,0,0,Bryan city
+TX,4806128,Baytown,incorporated,25,A,83701,"Baytown, TX",0,46,0,0,Baytown city
+TX,4872176,Temple,incorporated,25,A,82073,"Temple, TX",0,47,0,0,Temple city
+TX,4843888,Longview,incorporated,25,A,81638,"Longview, TX",0,48,0,0,Longview city
+TX,4857200,Pharr,incorporated,25,A,79715,"Pharr, TX",0,49,0,0,Pharr city
+TX,4813552,Cedar Park,incorporated,25,A,77595,"Cedar Park, TX",0,50,0,0,Cedar Park city
+TX,4826232,Flower Mound,incorporated,43,A,75956,"Flower Mound, TX",0,51,0,0,Flower Mound town
+TX,4848804,Missouri City,incorporated,25,A,74259,"Missouri City, TX",0,52,0,0,Missouri City city
+TX,4846452,Mansfield,incorporated,25,A,72602,"Mansfield, TX",0,53,0,0,Mansfield city
+TX,4832372,Harlingen,incorporated,25,A,71829,"Harlingen, TX",0,54,0,0,Harlingen city
+TX,4852356,North Richland Hills,incorporated,25,A,69917,"North Richland Hills, TX",0,55,0,0,North Richland Hills city
+TX,4865600,San Marcos,incorporated,25,A,67553,"San Marcos, TX",0,56,0,0,San Marcos city
+TX,4829336,Georgetown,incorporated,25,A,67176,"Georgetown, TX",0,57,0,0,Georgetown city
+TX,4875428,Victoria,incorporated,25,A,65534,"Victoria, TX",0,58,0,0,Victoria city
+TX,4857176,Pflugerville,incorporated,25,A,65191,"Pflugerville, TX",0,59,0,0,Pflugerville city
 TX,4863572,Rowlett,incorporated,25,A,62535,"Rowlett, TX",0,60,0,0,Rowlett city
 TX,4824768,Euless,incorporated,25,A,61032,"Euless, TX",0,61,0,0,Euless city
 TX,4842016,Leander,incorporated,25,A,59202,"Leander, TX",0,62,0,0,Leander city

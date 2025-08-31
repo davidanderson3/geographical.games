@@ -1,54 +1,54 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-SD,4659020,Sioux Falls,incorporated,25,A,192517,"Sioux Falls, SD",0,1,69,0.276,Sioux Falls city
-SD,4652980,Rapid City,incorporated,25,A,74703,"Rapid City, SD",0,2,30,0.12,Rapid City city
-SD,4600100,Aberdeen,incorporated,25,A,28495,"Aberdeen, SD",0,3,17,0.068,Aberdeen city
-SD,4607580,Brookings,incorporated,25,A,23377,"Brookings, SD",0,4,12,0.048,Brookings city
-SD,4669300,Watertown,incorporated,25,A,22655,"Watertown, SD",0,5,9,0.036,Watertown city
-SD,4643100,Mitchell,incorporated,25,A,15660,"Mitchell, SD",0,6,7,0.028,Mitchell city
-SD,4673060,Yankton,incorporated,25,A,15411,"Yankton, SD",0,7,7,0.028,Yankton city
-SD,4631060,Huron,incorporated,25,A,14263,"Huron, SD",0,8,5,0.02,Huron city
-SD,4649600,Pierre,incorporated,25,A,14091,"Pierre, SD",0,9,8,0.032,Pierre city
-SD,4660020,Spearfish,incorporated,25,A,12193,"Spearfish, SD",0,10,5,0.02,Spearfish city
-SD,4606620,Box Elder,incorporated,25,A,11746,"Box Elder, SD",0,11,3,0.012,Box Elder city
-SD,4666700,Vermillion,incorporated,25,A,11695,"Vermillion, SD",0,12,3,0.012,Vermillion city
-SD,4606840,Brandon,incorporated,25,A,11048,"Brandon, SD",0,13,4,0.016,Brandon city
-SD,4662100,Sturgis,incorporated,25,A,7020,"Sturgis, SD",0,14,3,0.012,Sturgis city
-SD,4627260,Harrisburg,incorporated,25,A,6732,"Harrisburg, SD",0,15,2,0.008,Harrisburg city
-SD,4640220,Madison,incorporated,25,A,6191,"Madison, SD",0,16,2,0.008,Madison city
-SD,4604380,Belle Fourche,incorporated,25,A,5617,"Belle Fourche, SD",0,17,3,0.012,Belle Fourche city
-SD,4663100,Tea,incorporated,25,A,5598,"Tea, SD",0,18,3,0.012,Tea city
-SD,4615980,Dell Rapids,incorporated,25,A,3996,"Dell Rapids, SD",0,19,3,0.012,Dell Rapids city
-SD,4642260,Milbank,incorporated,25,A,3544,"Milbank, SD",0,20,3,0.012,Milbank city
-SD,4630220,Hot Springs,incorporated,25,A,3395,"Hot Springs, SD",0,21,3,0.012,Hot Springs city
-SD,4627540,Hartford,incorporated,25,A,3354,"Hartford, SD",0,22,1,0.004,Hartford city
-SD,4643180,Mobridge,incorporated,25,A,3261,"Mobridge, SD",0,23,1,0.004,Mobridge city
-SD,4609500,Canton,incorporated,25,A,3066,"Canton, SD",0,24,1,0.004,Canton city
-SD,4645700,North Sioux City,incorporated,25,A,3042,"North Sioux City, SD",0,25,1,0.004,North Sioux City city
-SD,4636220,Lead,incorporated,25,A,2982,"Lead, SD",0,26,1,0.004,Lead city
-SD,4662155,Summerset,incorporated,25,A,2972,"Summerset, SD",0,27,1,0.004,Summerset city
-SD,4672180,Winner,incorporated,25,A,2921,"Winner, SD",0,28,1,0.004,Winner city
-SD,4659260,Sisseton,incorporated,25,A,2479,"Sisseton, SD",0,29,1,0.004,Sisseton city
-SD,4611220,Chamberlain,incorporated,25,A,2473,"Chamberlain, SD",0,30,2,0.008,Chamberlain city
-SD,4636380,Lennox,incorporated,25,A,2423,"Lennox, SD",0,31,2,0.008,Lennox city
-SD,4621540,Flandreau,incorporated,25,A,2372,"Flandreau, SD",0,32,2,0.008,Flandreau city
-SD,4653460,Redfield,incorporated,25,A,2214,"Redfield, SD",0,33,2,0.008,Redfield city
-SD,4604980,Beresford,incorporated,25,A,2180,"Beresford, SD",0,34,2,0.008,Beresford city
-SD,4618620,Elk Point,incorporated,25,A,2149,"Elk Point, SD",0,35,2,0.008,Elk Point city
-SD,4622260,Fort Pierre,incorporated,25,A,2115,"Fort Pierre, SD",0,36,1,0.004,Fort Pierre city
-SD,4667700,Volga,incorporated,25,A,2113,"Volga, SD",0,37,2,0.008,Volga city
-SD,4615140,Custer,incorporated,25,A,1919,"Custer, SD",0,38,2,0.008,Custer city
-SD,4660660,Springfield,incorporated,25,A,1914,"Springfield, SD",0,39,2,0.008,Springfield city
-SD,4669780,Webster,incorporated,25,A,1728,"Webster, SD",0,40,2,0.008,Webster city
-SD,4648460,Parkston,incorporated,25,A,1567,"Parkston, SD",0,41,2,0.008,Parkston city
-SD,4668020,Wagner,incorporated,25,A,1490,"Wagner, SD",0,42,2,0.008,Wagner city
-SD,4626340,Groton,incorporated,25,A,1380,"Groton, SD",0,43,2,0.008,Groton city
-SD,4614740,Crooks,incorporated,25,A,1362,"Crooks, SD",0,44,2,0.008,Crooks city
-SD,4642460,Miller,incorporated,25,A,1349,"Miller, SD",0,45,2,0.008,Miller city
-SD,4623020,Freeman,incorporated,25,A,1329,"Freeman, SD",0,46,2,0.008,Freeman city
-SD,4657340,Salem,incorporated,25,A,1325,"Salem, SD",0,47,2,0.008,Salem city
-SD,4650260,Platte,incorporated,25,A,1296,"Platte, SD",0,48,2,0.008,Platte city
-SD,4617620,Eagle Butte,incorporated,25,A,1258,"Eagle Butte, SD",0,49,2,0.008,Eagle Butte city
-SD,4603380,Baltic,incorporated,25,A,1246,"Baltic, SD",0,50,2,0.008,Baltic city
+SD,4659020,Sioux Falls,incorporated,25,A,192517,"Sioux Falls, SD",0,1,27,0.27,Sioux Falls city
+SD,4652980,Rapid City,incorporated,25,A,74703,"Rapid City, SD",0,2,11,0.11,Rapid City city
+SD,4600100,Aberdeen,incorporated,25,A,28495,"Aberdeen, SD",0,3,8,0.08,Aberdeen city
+SD,4607580,Brookings,incorporated,25,A,23377,"Brookings, SD",0,4,6,0.06,Brookings city
+SD,4669300,Watertown,incorporated,25,A,22655,"Watertown, SD",0,5,5,0.05,Watertown city
+SD,4643100,Mitchell,incorporated,25,A,15660,"Mitchell, SD",0,6,4,0.04,Mitchell city
+SD,4673060,Yankton,incorporated,25,A,15411,"Yankton, SD",0,7,2,0.02,Yankton city
+SD,4631060,Huron,incorporated,25,A,14263,"Huron, SD",0,8,2,0.02,Huron city
+SD,4649600,Pierre,incorporated,25,A,14091,"Pierre, SD",0,9,4,0.04,Pierre city
+SD,4660020,Spearfish,incorporated,25,A,12193,"Spearfish, SD",0,10,3,0.03,Spearfish city
+SD,4606620,Box Elder,incorporated,25,A,11746,"Box Elder, SD",0,11,1,0.01,Box Elder city
+SD,4666700,Vermillion,incorporated,25,A,11695,"Vermillion, SD",0,12,1,0.01,Vermillion city
+SD,4606840,Brandon,incorporated,25,A,11048,"Brandon, SD",0,13,1,0.01,Brandon city
+SD,4662100,Sturgis,incorporated,25,A,7020,"Sturgis, SD",0,14,1,0.01,Sturgis city
+SD,4627260,Harrisburg,incorporated,25,A,6732,"Harrisburg, SD",0,15,2,0.02,Harrisburg city
+SD,4640220,Madison,incorporated,25,A,6191,"Madison, SD",0,16,2,0.02,Madison city
+SD,4604380,Belle Fourche,incorporated,25,A,5617,"Belle Fourche, SD",0,17,2,0.02,Belle Fourche city
+SD,4663100,Tea,incorporated,25,A,5598,"Tea, SD",0,18,2,0.02,Tea city
+SD,4615980,Dell Rapids,incorporated,25,A,3996,"Dell Rapids, SD",0,19,2,0.02,Dell Rapids city
+SD,4642260,Milbank,incorporated,25,A,3544,"Milbank, SD",0,20,2,0.02,Milbank city
+SD,4630220,Hot Springs,incorporated,25,A,3395,"Hot Springs, SD",0,21,2,0.02,Hot Springs city
+SD,4627540,Hartford,incorporated,25,A,3354,"Hartford, SD",0,22,2,0.02,Hartford city
+SD,4643180,Mobridge,incorporated,25,A,3261,"Mobridge, SD",0,23,2,0.02,Mobridge city
+SD,4609500,Canton,incorporated,25,A,3066,"Canton, SD",0,24,2,0.02,Canton city
+SD,4645700,North Sioux City,incorporated,25,A,3042,"North Sioux City, SD",0,25,1,0.01,North Sioux City city
+SD,4636220,Lead,incorporated,25,A,2982,"Lead, SD",0,26,1,0.01,Lead city
+SD,4662155,Summerset,incorporated,25,A,2972,"Summerset, SD",0,27,1,0.01,Summerset city
+SD,4672180,Winner,incorporated,25,A,2921,"Winner, SD",0,28,0,0,Winner city
+SD,4659260,Sisseton,incorporated,25,A,2479,"Sisseton, SD",0,29,0,0,Sisseton city
+SD,4611220,Chamberlain,incorporated,25,A,2473,"Chamberlain, SD",0,30,0,0,Chamberlain city
+SD,4636380,Lennox,incorporated,25,A,2423,"Lennox, SD",0,31,0,0,Lennox city
+SD,4621540,Flandreau,incorporated,25,A,2372,"Flandreau, SD",0,32,0,0,Flandreau city
+SD,4653460,Redfield,incorporated,25,A,2214,"Redfield, SD",0,33,0,0,Redfield city
+SD,4604980,Beresford,incorporated,25,A,2180,"Beresford, SD",0,34,0,0,Beresford city
+SD,4618620,Elk Point,incorporated,25,A,2149,"Elk Point, SD",0,35,0,0,Elk Point city
+SD,4622260,Fort Pierre,incorporated,25,A,2115,"Fort Pierre, SD",0,36,1,0.01,Fort Pierre city
+SD,4667700,Volga,incorporated,25,A,2113,"Volga, SD",0,37,0,0,Volga city
+SD,4615140,Custer,incorporated,25,A,1919,"Custer, SD",0,38,0,0,Custer city
+SD,4660660,Springfield,incorporated,25,A,1914,"Springfield, SD",0,39,0,0,Springfield city
+SD,4669780,Webster,incorporated,25,A,1728,"Webster, SD",0,40,0,0,Webster city
+SD,4648460,Parkston,incorporated,25,A,1567,"Parkston, SD",0,41,0,0,Parkston city
+SD,4668020,Wagner,incorporated,25,A,1490,"Wagner, SD",0,42,0,0,Wagner city
+SD,4626340,Groton,incorporated,25,A,1380,"Groton, SD",0,43,0,0,Groton city
+SD,4614740,Crooks,incorporated,25,A,1362,"Crooks, SD",0,44,0,0,Crooks city
+SD,4642460,Miller,incorporated,25,A,1349,"Miller, SD",0,45,0,0,Miller city
+SD,4623020,Freeman,incorporated,25,A,1329,"Freeman, SD",0,46,0,0,Freeman city
+SD,4657340,Salem,incorporated,25,A,1325,"Salem, SD",0,47,0,0,Salem city
+SD,4650260,Platte,incorporated,25,A,1296,"Platte, SD",0,48,0,0,Platte city
+SD,4617620,Eagle Butte,incorporated,25,A,1258,"Eagle Butte, SD",0,49,0,0,Eagle Butte city
+SD,4603380,Baltic,incorporated,25,A,1246,"Baltic, SD",0,50,0,0,Baltic city
 SD,4623820,Garretson,incorporated,25,A,1228,"Garretson, SD",0,51,0,0,Garretson city
 SD,4626180,Gregory,incorporated,25,A,1221,"Gregory, SD",0,52,0,0,Gregory city
 SD,4612540,Clear Lake,incorporated,25,A,1218,"Clear Lake, SD",0,53,0,0,Clear Lake city

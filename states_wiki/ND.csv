@@ -1,52 +1,52 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-ND,3825700,Fargo,incorporated,25,A,125990,"Fargo, ND",0,1,64,0.256,Fargo city
-ND,3807200,Bismarck,incorporated,25,A,73622,"Bismarck, ND",0,2,42,0.168,Bismarck city
-ND,3832060,Grand Forks,incorporated,25,A,59166,"Grand Forks, ND",0,3,16,0.064,Grand Forks city
-ND,3853380,Minot,incorporated,25,A,48377,"Minot, ND",0,4,11,0.044,Minot city
-ND,3884780,West Fargo,incorporated,25,A,38626,"West Fargo, ND",0,5,10,0.04,West Fargo city
-ND,3886220,Williston,incorporated,25,A,29160,"Williston, ND",0,6,8,0.032,Williston city
-ND,3819620,Dickinson,incorporated,25,A,25679,"Dickinson, ND",0,7,7,0.028,Dickinson city
-ND,3849900,Mandan,incorporated,25,A,24206,"Mandan, ND",0,8,6,0.024,Mandan city
-ND,3840580,Jamestown,incorporated,25,A,15849,"Jamestown, ND",0,9,4,0.016,Jamestown city
-ND,3882660,Wahpeton,incorporated,25,A,8007,"Wahpeton, ND",0,10,5,0.02,Wahpeton city
-ND,3819420,Devils Lake,incorporated,25,A,7192,"Devils Lake, ND",0,11,3,0.012,Devils Lake city
-ND,3881180,Valley City,incorporated,25,A,6575,"Valley City, ND",0,12,4,0.016,Valley City city
-ND,3883860,Watford City,incorporated,25,A,6207,"Watford City, ND",0,13,4,0.016,Watford City city
-ND,3846640,Lincoln,incorporated,25,A,4257,"Lincoln, ND",0,14,2,0.008,Lincoln city
-ND,3831820,Grafton,incorporated,25,A,4170,"Grafton, ND",0,15,2,0.008,Grafton city
-ND,3838900,Horace,incorporated,25,A,3085,"Horace, ND",0,16,2,0.008,Horace city
-ND,3806660,Beulah,incorporated,25,A,3058,"Beulah, ND",0,17,3,0.012,Beulah city
-ND,3856740,New Town,incorporated,25,A,2764,"New Town, ND",0,18,3,0.012,New Town city
-ND,3868860,Rugby,incorporated,25,A,2509,"Rugby, ND",0,19,3,0.012,Rugby city
-ND,3812700,Casselton,incorporated,25,A,2479,"Casselton, ND",0,20,3,0.012,Casselton city
-ND,3875380,Stanley,incorporated,25,A,2321,"Stanley, ND",0,21,1,0.004,Stanley city
-ND,3836780,Hazen,incorporated,25,A,2281,"Hazen, ND",0,22,1,0.004,Hazen city
-ND,3847100,Lisbon,incorporated,25,A,2204,"Lisbon, ND",0,23,1,0.004,Lisbon city
-ND,3878940,Tioga,incorporated,25,A,2202,"Tioga, ND",0,24,1,0.004,Tioga city
-ND,3808460,Bottineau,incorporated,25,A,2194,"Bottineau, ND",0,25,1,0.004,Bottineau city
-ND,3812340,Carrington,incorporated,25,A,2080,"Carrington, ND",0,26,1,0.004,Carrington city
-ND,3844780,Langdon,incorporated,25,A,1909,"Langdon, ND",0,27,1,0.004,Langdon city
-ND,3851500,Mayville,incorporated,25,A,1854,"Mayville, ND",0,28,2,0.008,Mayville city
-ND,3858740,Oakes,incorporated,25,A,1798,"Oakes, ND",0,29,2,0.008,Oakes city
-ND,3835900,Harvey,incorporated,25,A,1650,"Harvey, ND",0,30,2,0.008,Harvey city
-ND,3838100,Hillsboro,incorporated,25,A,1649,"Hillsboro, ND",0,31,2,0.008,Hillsboro city
-ND,3808700,Bowman,incorporated,25,A,1470,"Bowman, ND",0,32,2,0.008,Bowman city
-ND,3829460,Garrison,incorporated,25,A,1462,"Garrison, ND",0,33,2,0.008,Garrison city
-ND,3860900,Park River,incorporated,25,A,1424,"Park River, ND",0,34,2,0.008,Park River city
-ND,3856620,New Rockford,incorporated,25,A,1361,"New Rockford, ND",0,35,2,0.008,New Rockford city
-ND,3877180,Surrey,incorporated,25,A,1357,"Surrey, ND",0,36,2,0.008,Surrey city
-ND,3850580,Mapleton,incorporated,25,A,1320,"Mapleton, ND",0,37,2,0.008,Mapleton city
-ND,3883700,Washburn,incorporated,25,A,1300,"Washburn, ND",0,38,2,0.008,Washburn city
-ND,3810940,Burlington,incorporated,25,A,1291,"Burlington, ND",0,39,2,0.008,Burlington city
-ND,3845020,Larimore,incorporated,25,A,1260,"Larimore, ND",0,40,2,0.008,Larimore city
-ND,3812940,Cavalier,incorporated,25,A,1246,"Cavalier, ND",0,41,2,0.008,Cavalier city
-ND,3867820,Rolla,incorporated,25,A,1223,"Rolla, ND",0,42,2,0.008,Rolla city
-ND,3823220,Ellendale,incorporated,25,A,1125,"Ellendale, ND",0,43,2,0.008,Ellendale city
-ND,3811860,Cando,incorporated,25,A,1117,"Cando, ND",0,44,2,0.008,Cando city
-ND,3878660,Thompson,incorporated,25,A,1101,"Thompson, ND",0,45,2,0.008,Thompson city
-ND,3881620,Velva,incorporated,25,A,1086,"Velva, ND",0,46,2,0.008,Velva city
-ND,3837700,Hettinger,incorporated,25,A,1074,"Hettinger, ND",0,47,2,0.008,Hettinger city
-ND,3846980,Linton,incorporated,25,A,1071,"Linton, ND",0,48,1,0.004,Linton city
+ND,3825700,Fargo,incorporated,25,A,125990,"Fargo, ND",0,1,27,0.27,Fargo city
+ND,3807200,Bismarck,incorporated,25,A,73622,"Bismarck, ND",0,2,16,0.16,Bismarck city
+ND,3832060,Grand Forks,incorporated,25,A,59166,"Grand Forks, ND",0,3,8,0.08,Grand Forks city
+ND,3853380,Minot,incorporated,25,A,48377,"Minot, ND",0,4,6,0.06,Minot city
+ND,3884780,West Fargo,incorporated,25,A,38626,"West Fargo, ND",0,5,4,0.04,West Fargo city
+ND,3886220,Williston,incorporated,25,A,29160,"Williston, ND",0,6,4,0.04,Williston city
+ND,3819620,Dickinson,incorporated,25,A,25679,"Dickinson, ND",0,7,2,0.02,Dickinson city
+ND,3849900,Mandan,incorporated,25,A,24206,"Mandan, ND",0,8,3,0.03,Mandan city
+ND,3840580,Jamestown,incorporated,25,A,15849,"Jamestown, ND",0,9,3,0.03,Jamestown city
+ND,3882660,Wahpeton,incorporated,25,A,8007,"Wahpeton, ND",0,10,2,0.02,Wahpeton city
+ND,3819420,Devils Lake,incorporated,25,A,7192,"Devils Lake, ND",0,11,1,0.01,Devils Lake city
+ND,3881180,Valley City,incorporated,25,A,6575,"Valley City, ND",0,12,1,0.01,Valley City city
+ND,3883860,Watford City,incorporated,25,A,6207,"Watford City, ND",0,13,1,0.01,Watford City city
+ND,3846640,Lincoln,incorporated,25,A,4257,"Lincoln, ND",0,14,2,0.02,Lincoln city
+ND,3831820,Grafton,incorporated,25,A,4170,"Grafton, ND",0,15,2,0.02,Grafton city
+ND,3838900,Horace,incorporated,25,A,3085,"Horace, ND",0,16,2,0.02,Horace city
+ND,3806660,Beulah,incorporated,25,A,3058,"Beulah, ND",0,17,2,0.02,Beulah city
+ND,3856740,New Town,incorporated,25,A,2764,"New Town, ND",0,18,2,0.02,New Town city
+ND,3868860,Rugby,incorporated,25,A,2509,"Rugby, ND",0,19,2,0.02,Rugby city
+ND,3812700,Casselton,incorporated,25,A,2479,"Casselton, ND",0,20,2,0.02,Casselton city
+ND,3875380,Stanley,incorporated,25,A,2321,"Stanley, ND",0,21,2,0.02,Stanley city
+ND,3836780,Hazen,incorporated,25,A,2281,"Hazen, ND",0,22,2,0.02,Hazen city
+ND,3847100,Lisbon,incorporated,25,A,2204,"Lisbon, ND",0,23,2,0.02,Lisbon city
+ND,3878940,Tioga,incorporated,25,A,2202,"Tioga, ND",0,24,1,0.01,Tioga city
+ND,3808460,Bottineau,incorporated,25,A,2194,"Bottineau, ND",0,25,1,0.01,Bottineau city
+ND,3812340,Carrington,incorporated,25,A,2080,"Carrington, ND",0,26,0,0,Carrington city
+ND,3844780,Langdon,incorporated,25,A,1909,"Langdon, ND",0,27,0,0,Langdon city
+ND,3851500,Mayville,incorporated,25,A,1854,"Mayville, ND",0,28,0,0,Mayville city
+ND,3858740,Oakes,incorporated,25,A,1798,"Oakes, ND",0,29,0,0,Oakes city
+ND,3835900,Harvey,incorporated,25,A,1650,"Harvey, ND",0,30,0,0,Harvey city
+ND,3838100,Hillsboro,incorporated,25,A,1649,"Hillsboro, ND",0,31,0,0,Hillsboro city
+ND,3808700,Bowman,incorporated,25,A,1470,"Bowman, ND",0,32,0,0,Bowman city
+ND,3829460,Garrison,incorporated,25,A,1462,"Garrison, ND",0,33,0,0,Garrison city
+ND,3860900,Park River,incorporated,25,A,1424,"Park River, ND",0,34,0,0,Park River city
+ND,3856620,New Rockford,incorporated,25,A,1361,"New Rockford, ND",0,35,0,0,New Rockford city
+ND,3877180,Surrey,incorporated,25,A,1357,"Surrey, ND",0,36,0,0,Surrey city
+ND,3850580,Mapleton,incorporated,25,A,1320,"Mapleton, ND",0,37,0,0,Mapleton city
+ND,3883700,Washburn,incorporated,25,A,1300,"Washburn, ND",0,38,0,0,Washburn city
+ND,3810940,Burlington,incorporated,25,A,1291,"Burlington, ND",0,39,0,0,Burlington city
+ND,3845020,Larimore,incorporated,25,A,1260,"Larimore, ND",0,40,0,0,Larimore city
+ND,3812940,Cavalier,incorporated,25,A,1246,"Cavalier, ND",0,41,0,0,Cavalier city
+ND,3867820,Rolla,incorporated,25,A,1223,"Rolla, ND",0,42,0,0,Rolla city
+ND,3823220,Ellendale,incorporated,25,A,1125,"Ellendale, ND",0,43,0,0,Ellendale city
+ND,3811860,Cando,incorporated,25,A,1117,"Cando, ND",0,44,0,0,Cando city
+ND,3878660,Thompson,incorporated,25,A,1101,"Thompson, ND",0,45,0,0,Thompson city
+ND,3881620,Velva,incorporated,25,A,1086,"Velva, ND",0,46,0,0,Velva city
+ND,3837700,Hettinger,incorporated,25,A,1074,"Hettinger, ND",0,47,0,0,Hettinger city
+ND,3846980,Linton,incorporated,25,A,1071,"Linton, ND",0,48,0,0,Linton city
 ND,3816940,Crosby,incorporated,25,A,1065,"Crosby, ND",0,49,0,0,Crosby city
 ND,3805820,Belfield,incorporated,25,A,996,"Belfield, ND",0,50,0,0,Belfield city
 ND,3815900,Cooperstown,incorporated,25,A,983,"Cooperstown, ND",0,51,0,0,Cooperstown city

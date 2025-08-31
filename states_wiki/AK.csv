@@ -1,56 +1,56 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-AK,0203000,Anchorage,incorporated,37,A,291247,"Anchorage, AK",0,1,71,0.284,Anchorage municipality
-AK,0224230,Fairbanks,incorporated,25,A,32515,"Fairbanks, AK",0,2,29,0.116,Fairbanks city
-AK,0236400,Juneau,incorporated,53,A,32255,"Juneau, AK",0,3,27,0.108,Juneau city and borough
-AK,0283080,Wasilla,incorporated,25,A,9054,"Wasilla, AK",0,4,12,0.048,Wasilla city
-AK,0270540,Sitka,incorporated,53,A,8458,"Sitka, AK",0,5,9,0.036,Sitka city and borough
-AK,0238970,Ketchikan,incorporated,25,A,8192,"Ketchikan, AK",0,6,7,0.028,Ketchikan city
-AK,0238420,Kenai,incorporated,25,A,7424,"Kenai, AK",0,7,6,0.024,Kenai city
-AK,0206520,Bethel,incorporated,25,A,6325,"Bethel, AK",0,8,5,0.02,Bethel city
-AK,0258660,Palmer,incorporated,25,A,5888,"Palmer, AK",0,9,4,0.016,Palmer city
-AK,0240950,Kodiak,incorporated,25,A,5581,"Kodiak, AK",0,10,5,0.02,Kodiak city
-AK,0233140,Homer,incorporated,25,A,5522,"Homer, AK",0,11,3,0.012,Homer city
-AK,0281920,Utqiaġvik,incorporated,25,A,4927,"Utqiaġvik, AK",0,12,3,0.012,Utqiaġvik city
-AK,0271640,Soldotna,incorporated,25,A,4342,"Soldotna, AK",0,13,4,0.016,Soldotna city
-AK,0280770,Unalaska,incorporated,25,A,4254,"Unalaska, AK",0,14,3,0.012,Unalaska city
-AK,0282200,Valdez,incorporated,25,A,3985,"Valdez, AK",0,15,2,0.008,Valdez city
-AK,0254920,Nome,incorporated,25,A,3699,"Nome, AK",0,16,2,0.008,Nome city
-AK,0241830,Kotzebue,incorporated,25,A,3102,"Kotzebue, AK",0,17,2,0.008,Kotzebue city
-AK,0268560,Seward,incorporated,25,A,2717,"Seward, AK",0,18,3,0.012,Seward city
-AK,0217410,Cordova,incorporated,25,A,2609,"Cordova, AK",0,19,3,0.012,Cordova city
-AK,0218950,Dillingham,incorporated,25,A,2249,"Dillingham, AK",0,20,3,0.012,Dillingham city
-AK,0255910,North Pole,incorporated,25,A,2243,"North Pole, AK",0,21,2,0.008,North Pole city
-AK,0286380,Wrangell,incorporated,53,A,2127,"Wrangell, AK",0,22,1,0.004,Wrangell city and borough
-AK,0233800,Houston,incorporated,25,A,1975,"Houston, AK",0,23,1,0.004,Houston city
-AK,0201090,Akutan,incorporated,25,A,1589,"Akutan, AK",0,24,1,0.004,Akutan city
-AK,0233470,Hooper Bay,incorporated,25,A,1375,"Hooper Bay, AK",0,25,1,0.004,Hooper Bay city
-AK,0217740,Craig,incorporated,25,A,1036,"Craig, AK",0,26,1,0.004,Craig city
-AK,0213230,Chevak,incorporated,25,A,951,"Chevak, AK",0,27,1,0.004,Chevak city
-AK,0233360,Hoonah,incorporated,25,A,931,"Hoonah, AK",0,28,1,0.004,Hoonah city
-AK,0218620,Delta Junction,incorporated,25,A,918,"Delta Junction, AK",0,29,1,0.004,Delta Junction city
-AK,0267460,Savoonga,incorporated,25,A,835,"Savoonga, AK",0,30,2,0.008,Savoonga city
-AK,0261630,Point Hope,incorporated,25,A,830,"Point Hope, AK",0,31,2,0.008,Point Hope city
-AK,0222910,Emmonak,incorporated,25,A,825,"Emmonak, AK",0,32,2,0.008,Emmonak city
-AK,0277690,Togiak,incorporated,25,A,817,"Togiak, AK",0,33,2,0.008,Togiak city
-AK,0242380,Kwethluk,incorporated,25,A,812,"Kwethluk, AK",0,34,2,0.008,Kwethluk city
-AK,0268230,Selawik,incorporated,25,A,809,"Selawik, AK",0,35,2,0.008,Selawik city
-AK,0264600,Quinhagak,incorporated,25,A,776,"Quinhagak, AK",0,36,2,0.008,Quinhagak city
-AK,0280660,Unalakleet,incorporated,25,A,765,"Unalakleet, AK",0,37,2,0.008,Unalakleet city
-AK,0239410,King Cove,incorporated,25,A,757,"King Cove, AK",0,38,2,0.008,King Cove city
-AK,0201200,Alakanuk,incorporated,25,A,756,"Alakanuk, AK",0,39,2,0.008,Alakanuk city
-AK,0240400,Klawock,incorporated,25,A,720,"Klawock, AK",0,40,2,0.008,Klawock city
-AK,0255140,Noorvik,incorporated,25,A,694,"Noorvik, AK",0,41,2,0.008,Noorvik city
-AK,0278240,Toksook Bay,incorporated,25,A,658,"Toksook Bay, AK",0,42,2,0.008,Toksook Bay city
-AK,0230940,Gustavus,incorporated,25,A,655,"Gustavus, AK",0,43,2,0.008,Gustavus city
-AK,0241720,Kotlik,incorporated,25,A,655,"Kotlik, AK",0,44,1,0.004,Kotlik city
-AK,0227640,Gambell,incorporated,25,A,640,"Gambell, AK",0,45,1,0.004,Gambell city
-AK,0272960,Stebbins,incorporated,25,A,634,"Stebbins, AK",0,46,1,0.004,Stebbins city
-AK,0282750,Wainwright,incorporated,25,A,628,"Wainwright, AK",0,47,1,0.004,Wainwright city
-AK,0251180,Mountain Village,incorporated,25,A,621,"Mountain Village, AK",0,48,1,0.004,Mountain Village city
-AK,0260750,Pilot Station,incorporated,25,A,615,"Pilot Station, AK",0,49,1,0.004,Pilot Station city
-AK,0267680,Scammon Bay,incorporated,25,A,600,"Scammon Bay, AK",0,50,1,0.004,Scammon Bay city
-AK,0266140,St. Mary's,incorporated,25,A,599,"St. Mary's, AK",0,51,1,0.004,St. Mary's city
-AK,0256680,Nunapitchuk,incorporated,25,A,594,"Nunapitchuk, AK",0,52,1,0.004,Nunapitchuk city
+AK,0203000,Anchorage,incorporated,37,A,291247,"Anchorage, AK",0,1,29,0.29,Anchorage municipality
+AK,0224230,Fairbanks,incorporated,25,A,32515,"Fairbanks, AK",0,2,13,0.13,Fairbanks city
+AK,0236400,Juneau,incorporated,53,A,32255,"Juneau, AK",0,3,12,0.12,Juneau city and borough
+AK,0283080,Wasilla,incorporated,25,A,9054,"Wasilla, AK",0,4,6,0.06,Wasilla city
+AK,0270540,Sitka,incorporated,53,A,8458,"Sitka, AK",0,5,5,0.05,Sitka city and borough
+AK,0238970,Ketchikan,incorporated,25,A,8192,"Ketchikan, AK",0,6,4,0.04,Ketchikan city
+AK,0238420,Kenai,incorporated,25,A,7424,"Kenai, AK",0,7,2,0.02,Kenai city
+AK,0206520,Bethel,incorporated,25,A,6325,"Bethel, AK",0,8,2,0.02,Bethel city
+AK,0258660,Palmer,incorporated,25,A,5888,"Palmer, AK",0,9,3,0.03,Palmer city
+AK,0240950,Kodiak,incorporated,25,A,5581,"Kodiak, AK",0,10,2,0.02,Kodiak city
+AK,0233140,Homer,incorporated,25,A,5522,"Homer, AK",0,11,1,0.01,Homer city
+AK,0281920,Utqiaġvik,incorporated,25,A,4927,"Utqiaġvik, AK",0,12,1,0.01,Utqiaġvik city
+AK,0271640,Soldotna,incorporated,25,A,4342,"Soldotna, AK",0,13,1,0.01,Soldotna city
+AK,0280770,Unalaska,incorporated,25,A,4254,"Unalaska, AK",0,14,1,0.01,Unalaska city
+AK,0282200,Valdez,incorporated,25,A,3985,"Valdez, AK",0,15,2,0.02,Valdez city
+AK,0254920,Nome,incorporated,25,A,3699,"Nome, AK",0,16,2,0.02,Nome city
+AK,0241830,Kotzebue,incorporated,25,A,3102,"Kotzebue, AK",0,17,2,0.02,Kotzebue city
+AK,0268560,Seward,incorporated,25,A,2717,"Seward, AK",0,18,2,0.02,Seward city
+AK,0217410,Cordova,incorporated,25,A,2609,"Cordova, AK",0,19,2,0.02,Cordova city
+AK,0218950,Dillingham,incorporated,25,A,2249,"Dillingham, AK",0,20,2,0.02,Dillingham city
+AK,0255910,North Pole,incorporated,25,A,2243,"North Pole, AK",0,21,2,0.02,North Pole city
+AK,0286380,Wrangell,incorporated,53,A,2127,"Wrangell, AK",0,22,2,0.02,Wrangell city and borough
+AK,0233800,Houston,incorporated,25,A,1975,"Houston, AK",0,23,1,0.01,Houston city
+AK,0201090,Akutan,incorporated,25,A,1589,"Akutan, AK",0,24,1,0.01,Akutan city
+AK,0233470,Hooper Bay,incorporated,25,A,1375,"Hooper Bay, AK",0,25,0,0,Hooper Bay city
+AK,0217740,Craig,incorporated,25,A,1036,"Craig, AK",0,26,0,0,Craig city
+AK,0213230,Chevak,incorporated,25,A,951,"Chevak, AK",0,27,0,0,Chevak city
+AK,0233360,Hoonah,incorporated,25,A,931,"Hoonah, AK",0,28,0,0,Hoonah city
+AK,0218620,Delta Junction,incorporated,25,A,918,"Delta Junction, AK",0,29,0,0,Delta Junction city
+AK,0267460,Savoonga,incorporated,25,A,835,"Savoonga, AK",0,30,0,0,Savoonga city
+AK,0261630,Point Hope,incorporated,25,A,830,"Point Hope, AK",0,31,0,0,Point Hope city
+AK,0222910,Emmonak,incorporated,25,A,825,"Emmonak, AK",0,32,0,0,Emmonak city
+AK,0277690,Togiak,incorporated,25,A,817,"Togiak, AK",0,33,0,0,Togiak city
+AK,0242380,Kwethluk,incorporated,25,A,812,"Kwethluk, AK",0,34,0,0,Kwethluk city
+AK,0268230,Selawik,incorporated,25,A,809,"Selawik, AK",0,35,0,0,Selawik city
+AK,0264600,Quinhagak,incorporated,25,A,776,"Quinhagak, AK",0,36,0,0,Quinhagak city
+AK,0280660,Unalakleet,incorporated,25,A,765,"Unalakleet, AK",0,37,0,0,Unalakleet city
+AK,0239410,King Cove,incorporated,25,A,757,"King Cove, AK",0,38,0,0,King Cove city
+AK,0201200,Alakanuk,incorporated,25,A,756,"Alakanuk, AK",0,39,0,0,Alakanuk city
+AK,0240400,Klawock,incorporated,25,A,720,"Klawock, AK",0,40,0,0,Klawock city
+AK,0255140,Noorvik,incorporated,25,A,694,"Noorvik, AK",0,41,0,0,Noorvik city
+AK,0278240,Toksook Bay,incorporated,25,A,658,"Toksook Bay, AK",0,42,0,0,Toksook Bay city
+AK,0230940,Gustavus,incorporated,25,A,655,"Gustavus, AK",0,43,0,0,Gustavus city
+AK,0241720,Kotlik,incorporated,25,A,655,"Kotlik, AK",0,44,0,0,Kotlik city
+AK,0227640,Gambell,incorporated,25,A,640,"Gambell, AK",0,45,0,0,Gambell city
+AK,0272960,Stebbins,incorporated,25,A,634,"Stebbins, AK",0,46,0,0,Stebbins city
+AK,0282750,Wainwright,incorporated,25,A,628,"Wainwright, AK",0,47,0,0,Wainwright city
+AK,0251180,Mountain Village,incorporated,25,A,621,"Mountain Village, AK",0,48,0,0,Mountain Village city
+AK,0260750,Pilot Station,incorporated,25,A,615,"Pilot Station, AK",0,49,0,0,Pilot Station city
+AK,0267680,Scammon Bay,incorporated,25,A,600,"Scammon Bay, AK",0,50,0,0,Scammon Bay city
+AK,0266140,St. Mary's,incorporated,25,A,599,"St. Mary's, AK",0,51,0,0,St. Mary's city
+AK,0256680,Nunapitchuk,incorporated,25,A,594,"Nunapitchuk, AK",0,52,0,0,Nunapitchuk city
 AK,0267020,Sand Point,incorporated,25,A,578,"Sand Point, AK",0,53,0,0,Sand Point city
 AK,0236540,Kachemak,incorporated,25,A,576,"Kachemak, AK",0,54,0,0,Kachemak city
 AK,0269770,Shishmaref,incorporated,25,A,576,"Shishmaref, AK",0,55,0,0,Shishmaref city

@@ -1,57 +1,57 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-WI,5553000,Milwaukee,incorporated,25,A,577222,"Milwaukee, WI",0,1,64,0.256,Milwaukee city
-WI,5548000,Madison,incorporated,25,A,269840,"Madison, WI",0,2,39,0.156,Madison city
-WI,5531000,Green Bay,incorporated,25,A,107395,"Green Bay, WI",0,3,17,0.068,Green Bay city
-WI,5539225,Kenosha,incorporated,25,A,99986,"Kenosha, WI",0,4,11,0.044,Kenosha city
-WI,5566000,Racine,incorporated,25,A,77816,"Racine, WI",0,5,8,0.032,Racine city
-WI,5502375,Appleton,incorporated,25,A,75644,"Appleton, WI",0,6,8,0.032,Appleton city
-WI,5584250,Waukesha,incorporated,25,A,71158,"Waukesha, WI",0,7,6,0.024,Waukesha city
-WI,5522300,Eau Claire,incorporated,25,A,69421,"Eau Claire, WI",0,8,6,0.024,Eau Claire city
-WI,5560500,Oshkosh,incorporated,25,A,66816,"Oshkosh, WI",0,9,4,0.016,Oshkosh city
-WI,5537825,Janesville,incorporated,25,A,65615,"Janesville, WI",0,10,5,0.02,Janesville city
-WI,5585300,West Allis,incorporated,25,A,60325,"West Allis, WI",0,11,3,0.012,West Allis city
-WI,5540775,La Crosse,incorporated,25,A,52680,"La Crosse, WI",0,12,4,0.016,La Crosse city
-WI,5572975,Sheboygan,incorporated,25,A,49929,"Sheboygan, WI",0,13,4,0.016,Sheboygan city
-WI,5584675,Wauwatosa,incorporated,25,A,48387,"Wauwatosa, WI",0,14,2,0.008,Wauwatosa city
-WI,5526275,Fond du Lac,incorporated,25,A,44678,"Fond du Lac, WI",0,15,2,0.008,Fond du Lac city
-WI,5510025,Brookfield,incorporated,25,A,41464,"Brookfield, WI",0,16,3,0.012,Brookfield city
-WI,5556375,New Berlin,incorporated,25,A,40451,"New Berlin, WI",0,17,3,0.012,New Berlin city
-WI,5584475,Wausau,incorporated,25,A,39994,"Wausau, WI",0,18,3,0.012,Wausau city
-WI,5551000,Menomonee Falls,incorporated,47,A,38527,"Menomonee Falls, WI",0,19,3,0.012,Menomonee Falls village
-WI,5531175,Greenfield,incorporated,25,A,37803,"Greenfield, WI",0,20,2,0.008,Greenfield city
-WI,5527300,Franklin,incorporated,25,A,36816,"Franklin, WI",0,21,1,0.004,Franklin city
-WI,5506500,Beloit,incorporated,25,A,36657,"Beloit, WI",0,22,1,0.004,Beloit city
-WI,5558800,Oak Creek,incorporated,25,A,36497,"Oak Creek, WI",0,23,1,0.004,Oak Creek city
-WI,5578600,Sun Prairie,incorporated,25,A,35967,"Sun Prairie, WI",0,24,1,0.004,Sun Prairie city
-WI,5548500,Manitowoc,incorporated,25,A,34626,"Manitowoc, WI",0,25,1,0.004,Manitowoc city
-WI,5585350,West Bend,incorporated,25,A,31752,"West Bend, WI",0,26,1,0.004,West Bend city
-WI,5525950,Fitchburg,incorporated,25,A,29609,"Fitchburg, WI",0,27,1,0.004,Fitchburg city
-WI,5554875,Mount Pleasant,incorporated,47,A,27732,"Mount Pleasant, WI",0,28,2,0.008,Mount Pleasant village
-WI,5555750,Neenah,incorporated,25,A,27319,"Neenah, WI",0,29,2,0.008,Neenah city
-WI,5578650,Superior,incorporated,25,A,26751,"Superior, WI",0,30,2,0.008,Superior city
-WI,5577200,Stevens Point,incorporated,25,A,25666,"Stevens Point, WI",0,31,2,0.008,Stevens Point city
-WI,5519775,De Pere,incorporated,25,A,25410,"De Pere, WI",0,32,2,0.008,De Pere city
-WI,5511950,Caledonia,incorporated,47,A,25361,"Caledonia, WI",0,33,2,0.008,Caledonia village
-WI,5551150,Mequon,incorporated,25,A,25142,"Mequon, WI",0,34,2,0.008,Mequon city
-WI,5555275,Muskego,incorporated,25,A,25032,"Muskego, WI",0,35,2,0.008,Muskego city
-WI,5583975,Watertown,incorporated,25,A,22926,"Watertown, WI",0,36,2,0.008,Watertown city
-WI,5551575,Middleton,incorporated,25,A,21827,"Middleton, WI",0,37,2,0.008,Middleton city
-WI,5563300,Pleasant Prairie,incorporated,47,A,21250,"Pleasant Prairie, WI",0,38,2,0.008,Pleasant Prairie village
-WI,5528875,Germantown,incorporated,47,A,20917,"Germantown, WI",0,39,2,0.008,Germantown village
-WI,5575125,South Milwaukee,incorporated,25,A,20795,"South Milwaukee, WI",0,40,2,0.008,South Milwaukee city
-WI,5535950,Howard,incorporated,47,A,19950,"Howard, WI",0,41,2,0.008,Howard village
-WI,5526982,Fox Crossing,incorporated,47,A,18974,"Fox Crossing, WI",0,42,2,0.008,Fox Crossing village
-WI,5549675,Marshfield,incorporated,25,A,18929,"Marshfield, WI",0,43,2,0.008,Marshfield city
-WI,5588200,Wisconsin Rapids,incorporated,25,A,18877,"Wisconsin Rapids, WI",0,44,2,0.008,Wisconsin Rapids city
-WI,5559925,Onalaska,incorporated,25,A,18803,"Onalaska, WI",0,45,2,0.008,Onalaska city
-WI,5550825,Menasha,incorporated,25,A,18268,"Menasha, WI",0,46,2,0.008,Menasha city
-WI,5517975,Cudahy,incorporated,25,A,18204,"Cudahy, WI",0,47,2,0.008,Cudahy city
-WI,5559250,Oconomowoc,incorporated,25,A,18203,"Oconomowoc, WI",0,48,1,0.004,Oconomowoc city
-WI,5538800,Kaukauna,incorporated,25,A,17089,"Kaukauna, WI",0,49,1,0.004,Kaukauna city
-WI,5503425,Ashwaubenon,incorporated,47,A,16991,"Ashwaubenon, WI",0,50,1,0.004,Ashwaubenon village
-WI,5551025,Menomonie,incorporated,25,A,16843,"Menomonie, WI",0,51,1,0.004,Menomonie city
-WI,5505900,Beaver Dam,incorporated,25,A,16708,"Beaver Dam, WI",0,52,1,0.004,Beaver Dam city
-WI,5568275,River Falls,incorporated,25,A,16182,"River Falls, WI",0,53,1,0.004,River Falls city
+WI,5553000,Milwaukee,incorporated,25,A,577222,"Milwaukee, WI",0,1,25,0.25,Milwaukee city
+WI,5548000,Madison,incorporated,25,A,269840,"Madison, WI",0,2,17,0.17,Madison city
+WI,5531000,Green Bay,incorporated,25,A,107395,"Green Bay, WI",0,3,6,0.06,Green Bay city
+WI,5539225,Kenosha,incorporated,25,A,99986,"Kenosha, WI",0,4,5,0.05,Kenosha city
+WI,5566000,Racine,incorporated,25,A,77816,"Racine, WI",0,5,4,0.04,Racine city
+WI,5502375,Appleton,incorporated,25,A,75644,"Appleton, WI",0,6,4,0.04,Appleton city
+WI,5584250,Waukesha,incorporated,25,A,71158,"Waukesha, WI",0,7,2,0.02,Waukesha city
+WI,5522300,Eau Claire,incorporated,25,A,69421,"Eau Claire, WI",0,8,3,0.03,Eau Claire city
+WI,5560500,Oshkosh,incorporated,25,A,66816,"Oshkosh, WI",0,9,3,0.03,Oshkosh city
+WI,5537825,Janesville,incorporated,25,A,65615,"Janesville, WI",0,10,2,0.02,Janesville city
+WI,5585300,West Allis,incorporated,25,A,60325,"West Allis, WI",0,11,1,0.01,West Allis city
+WI,5540775,La Crosse,incorporated,25,A,52680,"La Crosse, WI",0,12,1,0.01,La Crosse city
+WI,5572975,Sheboygan,incorporated,25,A,49929,"Sheboygan, WI",0,13,1,0.01,Sheboygan city
+WI,5584675,Wauwatosa,incorporated,25,A,48387,"Wauwatosa, WI",0,14,2,0.02,Wauwatosa city
+WI,5526275,Fond du Lac,incorporated,25,A,44678,"Fond du Lac, WI",0,15,2,0.02,Fond du Lac city
+WI,5510025,Brookfield,incorporated,25,A,41464,"Brookfield, WI",0,16,2,0.02,Brookfield city
+WI,5556375,New Berlin,incorporated,25,A,40451,"New Berlin, WI",0,17,2,0.02,New Berlin city
+WI,5584475,Wausau,incorporated,25,A,39994,"Wausau, WI",0,18,2,0.02,Wausau city
+WI,5551000,Menomonee Falls,incorporated,47,A,38527,"Menomonee Falls, WI",0,19,2,0.02,Menomonee Falls village
+WI,5531175,Greenfield,incorporated,25,A,37803,"Greenfield, WI",0,20,2,0.02,Greenfield city
+WI,5527300,Franklin,incorporated,25,A,36816,"Franklin, WI",0,21,2,0.02,Franklin city
+WI,5506500,Beloit,incorporated,25,A,36657,"Beloit, WI",0,22,2,0.02,Beloit city
+WI,5558800,Oak Creek,incorporated,25,A,36497,"Oak Creek, WI",0,23,1,0.01,Oak Creek city
+WI,5578600,Sun Prairie,incorporated,25,A,35967,"Sun Prairie, WI",0,24,1,0.01,Sun Prairie city
+WI,5548500,Manitowoc,incorporated,25,A,34626,"Manitowoc, WI",0,25,1,0.01,Manitowoc city
+WI,5585350,West Bend,incorporated,25,A,31752,"West Bend, WI",0,26,1,0.01,West Bend city
+WI,5525950,Fitchburg,incorporated,25,A,29609,"Fitchburg, WI",0,27,1,0.01,Fitchburg city
+WI,5554875,Mount Pleasant,incorporated,47,A,27732,"Mount Pleasant, WI",0,28,1,0.01,Mount Pleasant village
+WI,5555750,Neenah,incorporated,25,A,27319,"Neenah, WI",0,29,1,0.01,Neenah city
+WI,5578650,Superior,incorporated,25,A,26751,"Superior, WI",0,30,1,0.01,Superior city
+WI,5577200,Stevens Point,incorporated,25,A,25666,"Stevens Point, WI",0,31,0,0,Stevens Point city
+WI,5519775,De Pere,incorporated,25,A,25410,"De Pere, WI",0,32,0,0,De Pere city
+WI,5511950,Caledonia,incorporated,47,A,25361,"Caledonia, WI",0,33,0,0,Caledonia village
+WI,5551150,Mequon,incorporated,25,A,25142,"Mequon, WI",0,34,0,0,Mequon city
+WI,5555275,Muskego,incorporated,25,A,25032,"Muskego, WI",0,35,0,0,Muskego city
+WI,5583975,Watertown,incorporated,25,A,22926,"Watertown, WI",0,36,0,0,Watertown city
+WI,5551575,Middleton,incorporated,25,A,21827,"Middleton, WI",0,37,0,0,Middleton city
+WI,5563300,Pleasant Prairie,incorporated,47,A,21250,"Pleasant Prairie, WI",0,38,0,0,Pleasant Prairie village
+WI,5528875,Germantown,incorporated,47,A,20917,"Germantown, WI",0,39,0,0,Germantown village
+WI,5575125,South Milwaukee,incorporated,25,A,20795,"South Milwaukee, WI",0,40,0,0,South Milwaukee city
+WI,5535950,Howard,incorporated,47,A,19950,"Howard, WI",0,41,0,0,Howard village
+WI,5526982,Fox Crossing,incorporated,47,A,18974,"Fox Crossing, WI",0,42,0,0,Fox Crossing village
+WI,5549675,Marshfield,incorporated,25,A,18929,"Marshfield, WI",0,43,0,0,Marshfield city
+WI,5588200,Wisconsin Rapids,incorporated,25,A,18877,"Wisconsin Rapids, WI",0,44,0,0,Wisconsin Rapids city
+WI,5559925,Onalaska,incorporated,25,A,18803,"Onalaska, WI",0,45,0,0,Onalaska city
+WI,5550825,Menasha,incorporated,25,A,18268,"Menasha, WI",0,46,0,0,Menasha city
+WI,5517975,Cudahy,incorporated,25,A,18204,"Cudahy, WI",0,47,0,0,Cudahy city
+WI,5559250,Oconomowoc,incorporated,25,A,18203,"Oconomowoc, WI",0,48,0,0,Oconomowoc city
+WI,5538800,Kaukauna,incorporated,25,A,17089,"Kaukauna, WI",0,49,0,0,Kaukauna city
+WI,5503425,Ashwaubenon,incorporated,47,A,16991,"Ashwaubenon, WI",0,50,0,0,Ashwaubenon village
+WI,5551025,Menomonie,incorporated,25,A,16843,"Menomonie, WI",0,51,0,0,Menomonie city
+WI,5505900,Beaver Dam,incorporated,25,A,16708,"Beaver Dam, WI",0,52,0,0,Beaver Dam city
+WI,5568275,River Falls,incorporated,25,A,16182,"River Falls, WI",0,53,0,0,River Falls city
 WI,5506350,Bellevue,incorporated,47,A,15935,"Bellevue, WI",0,54,0,0,Bellevue village
 WI,5562240,Pewaukee,incorporated,25,A,15914,"Pewaukee, WI",0,55,0,0,Pewaukee city
 WI,5586025,Weston,incorporated,47,A,15723,"Weston, WI",0,56,0,0,Weston village

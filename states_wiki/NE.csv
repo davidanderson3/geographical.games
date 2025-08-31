@@ -1,54 +1,54 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-NE,3137000,Omaha,incorporated,25,A,486051,"Omaha, NE",0,1,64,0.256,Omaha city
-NE,3128000,Lincoln,incorporated,25,A,291082,"Lincoln, NE",0,2,41,0.164,Lincoln city
-NE,3103950,Bellevue,incorporated,25,A,64176,"Bellevue, NE",0,3,17,0.068,Bellevue city
-NE,3119595,Grand Island,incorporated,25,A,53131,"Grand Island, NE",0,4,11,0.044,Grand Island city
-NE,3125055,Kearney,incorporated,25,A,33790,"Kearney, NE",0,5,8,0.032,Kearney city
-NE,3117670,Fremont,incorporated,25,A,27141,"Fremont, NE",0,6,8,0.032,Fremont city
-NE,3121415,Hastings,incorporated,25,A,25152,"Hastings, NE",0,7,7,0.028,Hastings city
-NE,3134615,Norfolk,incorporated,25,A,24955,"Norfolk, NE",0,8,6,0.024,Norfolk city
-NE,3138295,Papillion,incorporated,25,A,24159,"Papillion, NE",0,9,4,0.016,Papillion city
-NE,3110110,Columbus,incorporated,25,A,24028,"Columbus, NE",0,10,5,0.02,Columbus city
-NE,3135000,North Platte,incorporated,25,A,23390,"North Platte, NE",0,11,3,0.012,North Platte city
-NE,3126385,La Vista,incorporated,25,A,16746,"La Vista, NE",0,12,4,0.016,La Vista city
-NE,3144245,Scottsbluff,incorporated,25,A,14436,"Scottsbluff, NE",0,13,4,0.016,Scottsbluff city
-NE,3146030,South Sioux City,incorporated,25,A,14043,"South Sioux City, NE",0,14,2,0.008,South Sioux City city
-NE,3103390,Beatrice,incorporated,25,A,12261,"Beatrice, NE",0,15,2,0.008,Beatrice city
-NE,3126910,Lexington,incorporated,25,A,10348,"Lexington, NE",0,16,3,0.012,Lexington city
-NE,3118580,Gering,incorporated,25,A,8564,"Gering, NE",0,17,3,0.012,Gering city
-NE,3100905,Alliance,incorporated,25,A,8151,"Alliance, NE",0,18,3,0.012,Alliance city
-NE,3154045,York,incorporated,25,A,8066,"York, NE",0,19,3,0.012,York city
-NE,3105350,Blair,incorporated,25,A,7790,"Blair, NE",0,20,2,0.008,Blair city
-NE,3144420,Seward,incorporated,25,A,7643,"Seward, NE",0,21,1,0.004,Seward city
-NE,3129925,McCook,incorporated,25,A,7446,"McCook, NE",0,22,1,0.004,McCook city
-NE,3133705,Nebraska City,incorporated,25,A,7222,"Nebraska City, NE",0,23,1,0.004,Nebraska City city
-NE,3111370,Crete,incorporated,25,A,7099,"Crete, NE",0,24,1,0.004,Crete city
-NE,3144035,Schuyler,incorporated,25,A,6547,"Schuyler, NE",0,25,1,0.004,Schuyler city
-NE,3139345,Plattsmouth,incorporated,25,A,6544,"Plattsmouth, NE",0,26,1,0.004,Plattsmouth city
-NE,3140605,Ralston,incorporated,25,A,6494,"Ralston, NE",0,27,1,0.004,Ralston city
-NE,3145295,Sidney,incorporated,25,A,6410,"Sidney, NE",0,28,2,0.008,Sidney city
-NE,3151840,Wayne,incorporated,25,A,5973,"Wayne, NE",0,29,2,0.008,Wayne city
-NE,3122640,Holdrege,incorporated,25,A,5515,"Holdrege, NE",0,30,2,0.008,Holdrege city
-NE,3108605,Chadron,incorporated,25,A,5206,"Chadron, NE",0,31,2,0.008,Chadron city
-NE,3120260,Gretna,incorporated,25,A,5083,"Gretna, NE",0,32,2,0.008,Gretna city
-NE,3135980,Ogallala,incorporated,25,A,4878,"Ogallala, NE",0,33,2,0.008,Ogallala city
-NE,3150965,Wahoo,incorporated,25,A,4818,"Wahoo, NE",0,34,2,0.008,Wahoo city
-NE,3102690,Aurora,incorporated,25,A,4678,"Aurora, NE",0,35,2,0.008,Aurora city
-NE,3151770,Waverly,incorporated,25,A,4279,"Waverly, NE",0,36,2,0.008,Waverly city
-NE,3116655,Falls City,incorporated,25,A,4133,"Falls City, NE",0,37,2,0.008,Falls City city
-NE,3111020,Cozad,incorporated,25,A,3988,"Cozad, NE",0,38,2,0.008,Cozad city
-NE,3116410,Fairbury,incorporated,25,A,3970,"Fairbury, NE",0,39,2,0.008,Fairbury city
-NE,3137105,O'Neill,incorporated,25,A,3581,"O'Neill, NE",0,40,2,0.008,O'Neill city
-NE,3106610,Broken Bow,incorporated,25,A,3506,"Broken Bow, NE",0,41,2,0.008,Broken Bow city
-NE,3152575,West Point,incorporated,25,A,3500,"West Point, NE",0,42,2,0.008,West Point city
-NE,3119385,Gothenburg,incorporated,25,A,3478,"Gothenburg, NE",0,43,2,0.008,Gothenburg city
-NE,3102655,Auburn,incorporated,25,A,3470,"Auburn, NE",0,44,2,0.008,Auburn city
-NE,3132340,Minden,incorporated,25,A,3118,"Minden, NE",0,45,2,0.008,Minden city
-NE,3102305,Ashland,incorporated,25,A,3086,"Ashland, NE",0,46,2,0.008,Ashland city
-NE,3108535,Central City,incorporated,25,A,3039,"Central City, NE",0,47,2,0.008,Central City city
-NE,3150020,Valley,incorporated,25,A,3037,"Valley, NE",0,48,1,0.004,Valley city
-NE,3112315,David City,incorporated,25,A,2995,"David City, NE",0,49,1,0.004,David City city
-NE,3149950,Valentine,incorporated,25,A,2633,"Valentine, NE",0,50,1,0.004,Valentine city
+NE,3137000,Omaha,incorporated,25,A,486051,"Omaha, NE",0,1,25,0.25,Omaha city
+NE,3128000,Lincoln,incorporated,25,A,291082,"Lincoln, NE",0,2,17,0.17,Lincoln city
+NE,3103950,Bellevue,incorporated,25,A,64176,"Bellevue, NE",0,3,7,0.07,Bellevue city
+NE,3119595,Grand Island,incorporated,25,A,53131,"Grand Island, NE",0,4,5,0.05,Grand Island city
+NE,3125055,Kearney,incorporated,25,A,33790,"Kearney, NE",0,5,4,0.04,Kearney city
+NE,3117670,Fremont,incorporated,25,A,27141,"Fremont, NE",0,6,4,0.04,Fremont city
+NE,3121415,Hastings,incorporated,25,A,25152,"Hastings, NE",0,7,2,0.02,Hastings city
+NE,3134615,Norfolk,incorporated,25,A,24955,"Norfolk, NE",0,8,3,0.03,Norfolk city
+NE,3138295,Papillion,incorporated,25,A,24159,"Papillion, NE",0,9,3,0.03,Papillion city
+NE,3110110,Columbus,incorporated,25,A,24028,"Columbus, NE",0,10,2,0.02,Columbus city
+NE,3135000,North Platte,incorporated,25,A,23390,"North Platte, NE",0,11,1,0.01,North Platte city
+NE,3126385,La Vista,incorporated,25,A,16746,"La Vista, NE",0,12,1,0.01,La Vista city
+NE,3144245,Scottsbluff,incorporated,25,A,14436,"Scottsbluff, NE",0,13,1,0.01,Scottsbluff city
+NE,3146030,South Sioux City,incorporated,25,A,14043,"South Sioux City, NE",0,14,2,0.02,South Sioux City city
+NE,3103390,Beatrice,incorporated,25,A,12261,"Beatrice, NE",0,15,2,0.02,Beatrice city
+NE,3126910,Lexington,incorporated,25,A,10348,"Lexington, NE",0,16,2,0.02,Lexington city
+NE,3118580,Gering,incorporated,25,A,8564,"Gering, NE",0,17,2,0.02,Gering city
+NE,3100905,Alliance,incorporated,25,A,8151,"Alliance, NE",0,18,2,0.02,Alliance city
+NE,3154045,York,incorporated,25,A,8066,"York, NE",0,19,2,0.02,York city
+NE,3105350,Blair,incorporated,25,A,7790,"Blair, NE",0,20,2,0.02,Blair city
+NE,3144420,Seward,incorporated,25,A,7643,"Seward, NE",0,21,2,0.02,Seward city
+NE,3129925,McCook,incorporated,25,A,7446,"McCook, NE",0,22,2,0.02,McCook city
+NE,3133705,Nebraska City,incorporated,25,A,7222,"Nebraska City, NE",0,23,1,0.01,Nebraska City city
+NE,3111370,Crete,incorporated,25,A,7099,"Crete, NE",0,24,1,0.01,Crete city
+NE,3144035,Schuyler,incorporated,25,A,6547,"Schuyler, NE",0,25,1,0.01,Schuyler city
+NE,3139345,Plattsmouth,incorporated,25,A,6544,"Plattsmouth, NE",0,26,1,0.01,Plattsmouth city
+NE,3140605,Ralston,incorporated,25,A,6494,"Ralston, NE",0,27,1,0.01,Ralston city
+NE,3145295,Sidney,incorporated,25,A,6410,"Sidney, NE",0,28,1,0.01,Sidney city
+NE,3151840,Wayne,incorporated,25,A,5973,"Wayne, NE",0,29,1,0.01,Wayne city
+NE,3122640,Holdrege,incorporated,25,A,5515,"Holdrege, NE",0,30,0,0,Holdrege city
+NE,3108605,Chadron,incorporated,25,A,5206,"Chadron, NE",0,31,0,0,Chadron city
+NE,3120260,Gretna,incorporated,25,A,5083,"Gretna, NE",0,32,0,0,Gretna city
+NE,3135980,Ogallala,incorporated,25,A,4878,"Ogallala, NE",0,33,0,0,Ogallala city
+NE,3150965,Wahoo,incorporated,25,A,4818,"Wahoo, NE",0,34,0,0,Wahoo city
+NE,3102690,Aurora,incorporated,25,A,4678,"Aurora, NE",0,35,0,0,Aurora city
+NE,3151770,Waverly,incorporated,25,A,4279,"Waverly, NE",0,36,0,0,Waverly city
+NE,3116655,Falls City,incorporated,25,A,4133,"Falls City, NE",0,37,0,0,Falls City city
+NE,3111020,Cozad,incorporated,25,A,3988,"Cozad, NE",0,38,0,0,Cozad city
+NE,3116410,Fairbury,incorporated,25,A,3970,"Fairbury, NE",0,39,0,0,Fairbury city
+NE,3137105,O'Neill,incorporated,25,A,3581,"O'Neill, NE",0,40,0,0,O'Neill city
+NE,3106610,Broken Bow,incorporated,25,A,3506,"Broken Bow, NE",0,41,0,0,Broken Bow city
+NE,3152575,West Point,incorporated,25,A,3500,"West Point, NE",0,42,0,0,West Point city
+NE,3119385,Gothenburg,incorporated,25,A,3478,"Gothenburg, NE",0,43,0,0,Gothenburg city
+NE,3102655,Auburn,incorporated,25,A,3470,"Auburn, NE",0,44,0,0,Auburn city
+NE,3132340,Minden,incorporated,25,A,3118,"Minden, NE",0,45,0,0,Minden city
+NE,3102305,Ashland,incorporated,25,A,3086,"Ashland, NE",0,46,0,0,Ashland city
+NE,3108535,Central City,incorporated,25,A,3039,"Central City, NE",0,47,0,0,Central City city
+NE,3150020,Valley,incorporated,25,A,3037,"Valley, NE",0,48,0,0,Valley city
+NE,3112315,David City,incorporated,25,A,2995,"David City, NE",0,49,0,0,David City city
+NE,3149950,Valentine,incorporated,25,A,2633,"Valentine, NE",0,50,0,0,Valentine city
 NE,3122325,Hickman,incorporated,25,A,2607,"Hickman, NE",0,51,0,0,Hickman city
 NE,3143265,St. Paul,incorporated,25,A,2416,"St. Paul, NE",0,52,0,0,St. Paul city
 NE,3125475,Kimball,incorporated,25,A,2290,"Kimball, NE",0,53,0,0,Kimball city

@@ -2,39 +2,32 @@
 const fs = require("fs");
 const path = require("path");
 const admin = require("firebase-admin");
-
-const SERVICE_ACCOUNT_PATH = "./serviceAccountKey.json";
-if (!fs.existsSync(SERVICE_ACCOUNT_PATH)) {
-  console.error(`\u2717 Missing service account key at ${SERVICE_ACCOUNT_PATH}`);
-  process.exit(1);
-}
-const serviceAccount = require(SERVICE_ACCOUNT_PATH);
-
-const isEmulator = !!process.env.FIRESTORE_EMULATOR_HOST;
-if (isEmulator) {
-  console.warn(`\u26A0\uFE0F FIRESTORE_EMULATOR_HOST=${process.env.FIRESTORE_EMULATOR_HOST}`);
-} else {
-  console.log("\uD83D\uDD12 Connecting to Firestore");
-}
-
-const projectId =
-  serviceAccount.project_id ||
-  process.env.GCLOUD_PROJECT ||
-  process.env.GOOGLE_CLOUD_PROJECT;
-
-try {
-  admin.initializeApp({
-    credential: admin.credential.cert(serviceAccount),
-    projectId,
-  });
-} catch (err) {
-  console.error("Failed to initialize Firebase Admin SDK:", err.message);
-  process.exit(1);
+// Optional Firestore: only if invoked with --firestore
+let db = null;
+if (process.argv.includes('--firestore')) {
+  const SERVICE_ACCOUNT_PATH = "./serviceAccountKey.json";
+  if (!fs.existsSync(SERVICE_ACCOUNT_PATH)) {
+    console.error(`\u2717 Missing service account key at ${SERVICE_ACCOUNT_PATH} (required for --firestore)`);
+    process.exit(1);
+  }
+  const serviceAccount = require(SERVICE_ACCOUNT_PATH);
+  const isEmulator = !!process.env.FIRESTORE_EMULATOR_HOST;
+  if (isEmulator) {
+    console.warn(`\u26A0\uFE0F FIRESTORE_EMULATOR_HOST=${process.env.FIRESTORE_EMULATOR_HOST}`);
+  } else {
+    console.log("\uD83D\uDD12 Connecting to Firestore");
+  }
+  const projectId = serviceAccount.project_id || process.env.GCLOUD_PROJECT || process.env.GOOGLE_CLOUD_PROJECT;
+  try {
+    admin.initializeApp({ credential: admin.credential.cert(serviceAccount), projectId });
+    db = admin.firestore();
+  } catch (err) {
+    console.error("Failed to initialize Firebase Admin SDK:", err.message);
+    process.exit(1);
+  }
 }
 
-const db = admin.firestore();
-
-const TOT_MENTIONS_PER_STATE = 250;
+const TOT_MENTIONS_PER_STATE = 100;
 const ZIPF_S = 1.25;
 const CAPITAL_BOOST = 1.5;
 const WP_ALPHA = 0.25;
@@ -165,8 +158,8 @@ async function wikiQueryTitles(titles){
   return res;
 }
 
-function computeMentionsForState(rows, st){
-  const cap = CAPITAL_BY_USPS[st];
+function computeMentionsForState(rows, st, capitalByUSPS){
+  const cap = capitalByUSPS[st];
   rows.sort((a,b)=> (b.pop2020-a.pop2020) || a.basename.localeCompare(b.basename));
   rows.forEach((r,i)=> r.pop_rank = i+1);
   const hasPop = rows.reduce((s,r)=>s+r.pop2020,0) > 0;
@@ -209,37 +202,54 @@ function computeMentionsForState(rows, st){
 }
 
 async function main(){
-  console.log("Fetching Incorporated Places (national)...");
+  // CLI filter: --states=HI,CA (USPS codes), and optional --merge-json
+  const argv = process.argv.slice(2);
+  const statesArg = argv.find(a=>a.startsWith('--states='));
+  const mergeJson = argv.includes('--merge-json');
+  const onlyStates = statesArg ? statesArg.split('=')[1].split(',').map(s=>s.trim().toUpperCase()).filter(s=>/^([A-Z]{2})$/.test(s)) : null;
+  const SELECTED = onlyStates ? STATES.filter(([usps])=> onlyStates.includes(usps)) : STATES;
+  const USPS_BY_FIPS_LOCAL = Object.fromEntries(SELECTED.map(([usps,fips])=>[fips,usps]));
+  const CAPITAL_BY_USPS_LOCAL = Object.fromEntries(SELECTED.map(([usps,_,cap])=>[usps,cap]));
+  const FIPS_SET_LOCAL = new Set(SELECTED.map(([,f])=>f));
+
+  console.log(`Fetching Incorporated Places (${onlyStates?onlyStates.join(', '):'national'})...`);
   const inc = await arcgisPaginatedQuery(LAYER_INC, ["STATE","PLACE","GEOID","BASENAME","NAME","LSADC","FUNCSTAT"]);
-  const dfInc = inc.filter(r=>FIPS_SET.has(String(r.STATE))).map(r=>({
+  const dfInc = inc.filter(r=>FIPS_SET_LOCAL.has(String(r.STATE))).map(r=>({
     STATE:String(r.STATE), PLACE:String(r.PLACE), geoid:String(r.GEOID), basename:String(r.BASENAME),
-    NAME:String(r.NAME), LSADC:r.LSADC, FUNCSTAT:r.FUNCSTAT, type:"incorporated", stusps: USPS_BY_FIPS[String(r.STATE)]
+    NAME:String(r.NAME), LSADC:r.LSADC, FUNCSTAT:r.FUNCSTAT, type:"incorporated", stusps: USPS_BY_FIPS_LOCAL[String(r.STATE)]
   }));
 
-  console.log("Fetching Consolidated Cities (national)...");
+  console.log(`Fetching Consolidated Cities (${onlyStates?onlyStates.join(', '):'national'})...`);
   const conc = await arcgisPaginatedQuery(LAYER_CONC, ["STATE","CONCITY","GEOID","BASENAME","NAME","LSADC","FUNCSTAT"]);
-  const dfConc = conc.filter(r=>FIPS_SET.has(String(r.STATE))).map(r=>({
+  const dfConc = conc.filter(r=>FIPS_SET_LOCAL.has(String(r.STATE))).map(r=>({
     STATE:String(r.STATE), PLACE:String(r.CONCITY), geoid:String(r.GEOID), basename:String(r.BASENAME),
-    NAME:String(r.NAME), LSADC:r.LSADC, FUNCSTAT:r.FUNCSTAT, type:"consolidated", stusps: USPS_BY_FIPS[String(r.STATE)]
+    NAME:String(r.NAME), LSADC:r.LSADC, FUNCSTAT:r.FUNCSTAT, type:"consolidated", stusps: USPS_BY_FIPS_LOCAL[String(r.STATE)]
   }));
 
   const byGeo = new Map();
   for(const r of [...dfInc, ...dfConc]) if(!byGeo.has(r.geoid)) byGeo.set(r.geoid, r);
   const places = Array.from(byGeo.values());
 
-  console.log("Fetching 2020 population by place via Census API...");
+  console.log(`Fetching 2020 population by place via Census API (${onlyStates?onlyStates.join(', '):'all states'})...`);
   const popByGeo = new Map();
-  for(const [st,fips] of STATES){
+  // Also collect fallback place names directly from Census for states that lack incorporated/consolidated entries (e.g., HI CDPs)
+  const fallbackPlacesByState = new Map();
+  for(const [st,fips] of SELECTED){
     const data = await fetchJson(CENSUS_PL_BASE, { get:`NAME,${POP_VAR}`, for:"place:*", in:`state:${fips}` });
     const cols = data[0]; const rows = data.slice(1);
     const idxState = cols.indexOf("state");
     const idxPlace = cols.indexOf("place");
+    const idxName = cols.indexOf("NAME");
     const idxPop = cols.indexOf(POP_VAR);
+    const fallbacks = [];
     for(const row of rows){
       const geoid = String(row[idxState]) + String(row[idxPlace]);
       const pop = parseInt(row[idxPop]||"0",10) || 0;
       popByGeo.set(geoid, pop);
+      const fullName = String(row[idxName]||"");
+      fallbacks.push({ stusps: st, geoid, NAME: fullName });
     }
+    fallbackPlacesByState.set(st, fallbacks);
     await sleep(SLEEP_BETWEEN_CALLS);
   }
 
@@ -248,10 +258,40 @@ async function main(){
   }
 
   const cache = loadCache();
+  // Optional min population filter for state cities (applies to pop2020)
+  const minPopArg = argv.find(a=>a.startsWith('--min-pop='));
+  const minPop = minPopArg ? Math.max(0, Number(minPopArg.split('=')[1])||0) : 0;
   const outputRows = [];
-  const statesSet = new Set(places.map(r=>r.stusps));
-  for(const st of Array.from(statesSet).sort()){
-    const subset = places.filter(r=>r.stusps===st).map(r=>({...r}));
+  // Iterate selected states; if a state has no incorporated/consolidated places, fall back to Census places (e.g., CDPs)
+  const allStates = SELECTED.map(([usps])=>usps);
+  function normalizeFromCensusName(full){
+    let s = String(full||"");
+    // Drop trailing ", State"
+    s = s.replace(/,\s*[A-Za-z ]+$/, "");
+    // Pull out basename by removing common legal descriptors at the end
+    const base = s.replace(/\s+(city and county|city-county|consolidated city|city municipality|town municipality|municipality|city|town|village|borough|CDP)\.?$/i, "").trim();
+    return { basename: base || s, display: s };
+  }
+  for(const st of allStates){
+    let subset = places.filter(r=>r.stusps===st).map(r=>({...r}));
+    if(subset.length===0){
+      // Build fallback rows from Census names (will include CDPs for HI)
+      const fb = fallbackPlacesByState.get(st) || [];
+      subset = fb.map(r=>{
+        const nm = normalizeFromCensusName(r.NAME);
+        return {
+          stusps: st,
+          geoid: r.geoid,
+          basename: nm.basename,
+          NAME: nm.display,
+          LSADC: 'CDP',
+          FUNCSTAT: null,
+          type: 'cdp'
+        };
+      });
+    }
+    // attach population if missing
+    subset.forEach(r=>{ if(r.pop2020===undefined) r.pop2020 = popByGeo.get(r.geoid) || 0; });
     const titles = buildWikiTitles(subset, st);
     const wikiLens = new Array(titles.length).fill(0);
     const toFetchIdx = [];
@@ -285,7 +325,7 @@ async function main(){
       subset[i].wiki_title = titles[i];
       subset[i].wiki_len = wikiLens[i];
     }
-    const scored = computeMentionsForState(subset, st);
+    const scored = computeMentionsForState(subset, st, CAPITAL_BY_USPS_LOCAL);
     outputRows.push(...scored);
   }
 
@@ -306,14 +346,19 @@ async function main(){
   console.log(`Per-state CSVs in ./states_wiki/ (e.g., states_wiki/KS.csv)`);
 
   const questions = [];
-  const batch = db.batch();
-  const coll = db.collection("geoscoreQuestions");
+  const batch = db ? db.batch() : null;
+  const coll = db ? db.collection("geoscoreQuestions") : null;
   for(const [st,rows] of byState.entries()){
-    const answers = rows
+    const filtered = rows.filter(r => (Number(r.pop2020)||0) >= minPop);
+    if(filtered.length === 0){
+      console.log(`Skipping ${st}: no places with pop >= ${minPop}`);
+      continue;
+    }
+    const answers = filtered
       .slice()
       .sort((a,b)=>b.est_mentions - a.est_mentions)
       .map(r=>({
-        answer: r.NAME,
+        answer: r.basename || r.NAME,
         score: r.est_mentions,
         count: r.est_mentions
       }));
@@ -322,13 +367,27 @@ async function main(){
       answers
     };
     questions.push(doc);
-    const docRef = coll.doc(st);
-    batch.set(docRef, doc);
+    if (batch && coll) {
+      const docRef = coll.doc(st);
+      batch.set(docRef, doc);
+    }
   }
-  await batch.commit();
-  console.log(`Synced ${questions.length} questions to Firestore collection geoscoreQuestions`);
-  fs.writeFileSync("geoscore_questions.json", JSON.stringify(questions, null, 2), "utf8");
-  console.log(`Wrote geoscore_questions.json with ${questions.length} questions`);
+  if (batch) {
+    await batch.commit();
+    console.log(`Synced ${questions.length} question(s) to Firestore collection geoscoreQuestions`);
+  }
+
+  // Write JSON: merge into existing if --merge-json; otherwise overwrite with selected only
+  let writeQuestions = questions;
+  if(mergeJson && fs.existsSync("geoscore_questions.json")){
+    try{
+      const existing = JSON.parse(fs.readFileSync("geoscore_questions.json","utf8"));
+      // Preserve existing entries (e.g., Country Cities) and append state questions
+      writeQuestions = (Array.isArray(existing)?existing:[]).concat(questions);
+    }catch{}
+  }
+  fs.writeFileSync("geoscore_questions.json", JSON.stringify(writeQuestions, null, 2), "utf8");
+  console.log(`Wrote geoscore_questions.json with ${writeQuestions.length} question(s)`);
 }
 
 main().catch(e=>{ console.error("ERROR:", e.message||e); process.exit(1); });

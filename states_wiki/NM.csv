@@ -1,57 +1,57 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-NM,3502000,Albuquerque,incorporated,25,A,564559,"Albuquerque, NM",0,1,74,0.296,Albuquerque city
-NM,3539380,Las Cruces,incorporated,25,A,111385,"Las Cruces, NM",0,2,31,0.124,Las Cruces city
-NM,3563460,Rio Rancho,incorporated,25,A,104046,"Rio Rancho, NM",0,3,18,0.072,Rio Rancho city
-NM,3570500,Santa Fe,incorporated,25,A,87505,"Santa Fe, NM",0,4,19,0.076,Santa Fe city
-NM,3564930,Roswell,incorporated,25,A,48422,"Roswell, NM",0,5,10,0.04,Roswell city
-NM,3525800,Farmington,incorporated,25,A,46624,"Farmington, NM",0,6,8,0.032,Farmington city
-NM,3532520,Hobbs,incorporated,25,A,40508,"Hobbs, NM",0,7,6,0.024,Hobbs city
-NM,3516420,Clovis,incorporated,25,A,38567,"Clovis, NM",0,8,5,0.02,Clovis city
-NM,3512150,Carlsbad,incorporated,25,A,32238,"Carlsbad, NM",0,9,5,0.02,Carlsbad city
-NM,3501780,Alamogordo,incorporated,25,A,30898,"Alamogordo, NM",0,10,4,0.016,Alamogordo city
-NM,3528460,Gallup,incorporated,25,A,21899,"Gallup, NM",0,11,4,0.016,Gallup city
-NM,3543370,Los Lunas,incorporated,47,A,17242,"Los Lunas, NM",0,12,3,0.012,Los Lunas village
-NM,3575640,Sunland Park,incorporated,25,A,16702,"Sunland Park, NM",0,13,4,0.016,Sunland Park city
-NM,3520270,Deming,incorporated,25,A,14758,"Deming, NM",0,14,3,0.012,Deming city
-NM,3539940,Las Vegas,incorporated,25,A,13166,"Las Vegas, NM",0,15,2,0.008,Las Vegas city
-NM,3505220,Artesia,incorporated,25,A,12875,"Artesia, NM",0,16,2,0.008,Artesia city
-NM,3559260,Portales,incorporated,25,A,12137,"Portales, NM",0,17,2,0.008,Portales city
-NM,3544490,Lovington,incorporated,25,A,11668,"Lovington, NM",0,18,3,0.012,Lovington city
-NM,3525170,Española,incorporated,25,A,10526,"Española, NM",0,19,3,0.012,Española city
-NM,3573260,Silver City,incorporated,43,A,9704,"Silver City, NM",0,20,2,0.008,Silver City town
-NM,3530490,Grants,incorporated,25,A,9163,"Grants, NM",0,21,2,0.008,Grants city
-NM,3506970,Bernalillo,incorporated,43,A,8977,"Bernalillo, NM",0,22,2,0.008,Bernalillo town
-NM,3573540,Socorro,incorporated,25,A,8707,"Socorro, NM",0,23,1,0.004,Socorro city
-NM,3503820,Anthony,incorporated,25,A,8693,"Anthony, NM",0,24,1,0.004,Anthony city
-NM,3517960,Corrales,incorporated,47,A,8493,"Corrales, NM",0,25,1,0.004,Corrales village
-NM,3565210,Ruidoso,incorporated,47,A,7679,"Ruidoso, NM",0,26,1,0.004,Ruidoso village
-NM,3507880,Bloomfield,incorporated,25,A,7421,"Bloomfield, NM",0,27,1,0.004,Bloomfield city
-NM,3506480,Belen,incorporated,25,A,7360,"Belen, NM",0,28,1,0.004,Belen city
-NM,3576200,Taos,incorporated,43,A,6474,"Taos, NM",0,29,1,0.004,Taos town
-NM,3505780,Aztec,incorporated,25,A,6201,"Aztec, NM",0,30,1,0.004,Aztec city
-NM,3522380,Edgewood,incorporated,43,A,6174,"Edgewood, NM",0,31,2,0.008,Edgewood town
-NM,3579840,Truth or Consequences,incorporated,25,A,6052,"Truth or Consequences, NM",0,32,2,0.008,Truth or Consequences city
-NM,3562060,Raton,incorporated,25,A,6041,"Raton, NM",0,33,2,0.008,Raton city
-NM,3543930,Los Ranchos de Albuquerque,incorporated,47,A,5874,"Los Ranchos de Albuquerque, NM",0,34,2,0.008,Los Ranchos de Albuquerque village
-NM,3579910,Tucumcari,incorporated,25,A,5278,"Tucumcari, NM",0,35,2,0.008,Tucumcari city
-NM,3563145,Rio Communities,incorporated,25,A,4926,"Rio Communities, NM",0,36,2,0.008,Rio Communities city
-NM,3508580,Bosque Farms,incorporated,47,A,4020,"Bosque Farms, NM",0,37,2,0.008,Bosque Farms village
-NM,3556180,Peralta,incorporated,43,A,3342,"Peralta, NM",0,38,1,0.004,Peralta town
-NM,3525450,Eunice,incorporated,25,A,3056,"Eunice, NM",0,39,1,0.004,Eunice city
-NM,3570670,Santa Rosa,incorporated,25,A,2850,"Santa Rosa, NM",0,40,1,0.004,Santa Rosa city
-NM,3515720,Clayton,incorporated,43,A,2643,"Clayton, NM",0,41,1,0.004,Clayton town
-NM,3565280,Ruidoso Downs,incorporated,25,A,2620,"Ruidoso Downs, NM",0,42,1,0.004,Ruidoso Downs city
-NM,3579980,Tularosa,incorporated,47,A,2553,"Tularosa, NM",0,43,1,0.004,Tularosa village
-NM,3548620,Milan,incorporated,47,A,2456,"Milan, NM",0,44,1,0.004,Milan village
-NM,3542180,Lordsburg,incorporated,25,A,2335,"Lordsburg, NM",0,45,1,0.004,Lordsburg city
-NM,3535040,Jal,incorporated,25,A,2202,"Jal, NM",0,46,1,0.004,Jal city
-NM,3506270,Bayard,incorporated,25,A,2116,"Bayard, NM",0,47,1,0.004,Bayard city
-NM,3550160,Moriarty,incorporated,25,A,1946,"Moriarty, NM",0,48,1,0.004,Moriarty city
-NM,3548060,Mesilla,incorporated,43,A,1797,"Mesilla, NM",0,49,1,0.004,Mesilla town
-NM,3560870,Questa,incorporated,47,A,1742,"Questa, NM",0,50,1,0.004,Questa village
-NM,3570270,Santa Clara,incorporated,47,A,1637,"Santa Clara, NM",0,51,1,0.004,Santa Clara village
-NM,3531820,Hatch,incorporated,47,A,1539,"Hatch, NM",0,52,1,0.004,Hatch village
-NM,3522720,Elephant Butte,incorporated,25,A,1447,"Elephant Butte, NM",0,53,1,0.004,Elephant Butte city
+NM,3502000,Albuquerque,incorporated,25,A,564559,"Albuquerque, NM",0,1,29,0.29,Albuquerque city
+NM,3539380,Las Cruces,incorporated,25,A,111385,"Las Cruces, NM",0,2,12,0.12,Las Cruces city
+NM,3563460,Rio Rancho,incorporated,25,A,104046,"Rio Rancho, NM",0,3,7,0.07,Rio Rancho city
+NM,3570500,Santa Fe,incorporated,25,A,87505,"Santa Fe, NM",0,4,9,0.09,Santa Fe city
+NM,3564930,Roswell,incorporated,25,A,48422,"Roswell, NM",0,5,5,0.05,Roswell city
+NM,3525800,Farmington,incorporated,25,A,46624,"Farmington, NM",0,6,3,0.03,Farmington city
+NM,3532520,Hobbs,incorporated,25,A,40508,"Hobbs, NM",0,7,3,0.03,Hobbs city
+NM,3516420,Clovis,incorporated,25,A,38567,"Clovis, NM",0,8,2,0.02,Clovis city
+NM,3512150,Carlsbad,incorporated,25,A,32238,"Carlsbad, NM",0,9,3,0.03,Carlsbad city
+NM,3501780,Alamogordo,incorporated,25,A,30898,"Alamogordo, NM",0,10,3,0.03,Alamogordo city
+NM,3528460,Gallup,incorporated,25,A,21899,"Gallup, NM",0,11,1,0.01,Gallup city
+NM,3543370,Los Lunas,incorporated,47,A,17242,"Los Lunas, NM",0,12,1,0.01,Los Lunas village
+NM,3575640,Sunland Park,incorporated,25,A,16702,"Sunland Park, NM",0,13,1,0.01,Sunland Park city
+NM,3520270,Deming,incorporated,25,A,14758,"Deming, NM",0,14,1,0.01,Deming city
+NM,3539940,Las Vegas,incorporated,25,A,13166,"Las Vegas, NM",0,15,2,0.02,Las Vegas city
+NM,3505220,Artesia,incorporated,25,A,12875,"Artesia, NM",0,16,2,0.02,Artesia city
+NM,3559260,Portales,incorporated,25,A,12137,"Portales, NM",0,17,2,0.02,Portales city
+NM,3544490,Lovington,incorporated,25,A,11668,"Lovington, NM",0,18,2,0.02,Lovington city
+NM,3525170,Española,incorporated,25,A,10526,"Española, NM",0,19,2,0.02,Española city
+NM,3573260,Silver City,incorporated,43,A,9704,"Silver City, NM",0,20,2,0.02,Silver City town
+NM,3530490,Grants,incorporated,25,A,9163,"Grants, NM",0,21,2,0.02,Grants city
+NM,3506970,Bernalillo,incorporated,43,A,8977,"Bernalillo, NM",0,22,2,0.02,Bernalillo town
+NM,3573540,Socorro,incorporated,25,A,8707,"Socorro, NM",0,23,2,0.02,Socorro city
+NM,3503820,Anthony,incorporated,25,A,8693,"Anthony, NM",0,24,1,0.01,Anthony city
+NM,3517960,Corrales,incorporated,47,A,8493,"Corrales, NM",0,25,1,0.01,Corrales village
+NM,3565210,Ruidoso,incorporated,47,A,7679,"Ruidoso, NM",0,26,0,0,Ruidoso village
+NM,3507880,Bloomfield,incorporated,25,A,7421,"Bloomfield, NM",0,27,0,0,Bloomfield city
+NM,3506480,Belen,incorporated,25,A,7360,"Belen, NM",0,28,0,0,Belen city
+NM,3576200,Taos,incorporated,43,A,6474,"Taos, NM",0,29,0,0,Taos town
+NM,3505780,Aztec,incorporated,25,A,6201,"Aztec, NM",0,30,0,0,Aztec city
+NM,3522380,Edgewood,incorporated,43,A,6174,"Edgewood, NM",0,31,0,0,Edgewood town
+NM,3579840,Truth or Consequences,incorporated,25,A,6052,"Truth or Consequences, NM",0,32,0,0,Truth or Consequences city
+NM,3562060,Raton,incorporated,25,A,6041,"Raton, NM",0,33,0,0,Raton city
+NM,3543930,Los Ranchos de Albuquerque,incorporated,47,A,5874,"Los Ranchos de Albuquerque, NM",0,34,0,0,Los Ranchos de Albuquerque village
+NM,3579910,Tucumcari,incorporated,25,A,5278,"Tucumcari, NM",0,35,0,0,Tucumcari city
+NM,3563145,Rio Communities,incorporated,25,A,4926,"Rio Communities, NM",0,36,0,0,Rio Communities city
+NM,3508580,Bosque Farms,incorporated,47,A,4020,"Bosque Farms, NM",0,37,0,0,Bosque Farms village
+NM,3556180,Peralta,incorporated,43,A,3342,"Peralta, NM",0,38,0,0,Peralta town
+NM,3525450,Eunice,incorporated,25,A,3056,"Eunice, NM",0,39,0,0,Eunice city
+NM,3570670,Santa Rosa,incorporated,25,A,2850,"Santa Rosa, NM",0,40,0,0,Santa Rosa city
+NM,3515720,Clayton,incorporated,43,A,2643,"Clayton, NM",0,41,0,0,Clayton town
+NM,3565280,Ruidoso Downs,incorporated,25,A,2620,"Ruidoso Downs, NM",0,42,0,0,Ruidoso Downs city
+NM,3579980,Tularosa,incorporated,47,A,2553,"Tularosa, NM",0,43,0,0,Tularosa village
+NM,3548620,Milan,incorporated,47,A,2456,"Milan, NM",0,44,0,0,Milan village
+NM,3542180,Lordsburg,incorporated,25,A,2335,"Lordsburg, NM",0,45,0,0,Lordsburg city
+NM,3535040,Jal,incorporated,25,A,2202,"Jal, NM",0,46,0,0,Jal city
+NM,3506270,Bayard,incorporated,25,A,2116,"Bayard, NM",0,47,0,0,Bayard city
+NM,3550160,Moriarty,incorporated,25,A,1946,"Moriarty, NM",0,48,0,0,Moriarty city
+NM,3548060,Mesilla,incorporated,43,A,1797,"Mesilla, NM",0,49,0,0,Mesilla town
+NM,3560870,Questa,incorporated,47,A,1742,"Questa, NM",0,50,0,0,Questa village
+NM,3570270,Santa Clara,incorporated,47,A,1637,"Santa Clara, NM",0,51,0,0,Santa Clara village
+NM,3531820,Hatch,incorporated,47,A,1539,"Hatch, NM",0,52,0,0,Hatch village
+NM,3522720,Elephant Butte,incorporated,25,A,1447,"Elephant Butte, NM",0,53,0,0,Elephant Butte city
 NM,3517050,Columbus,incorporated,47,A,1442,"Columbus, NM",0,54,0,0,Columbus village
 NM,3555620,Pecos,incorporated,47,A,1392,"Pecos, NM",0,55,0,0,Pecos village
 NM,3511800,Capitan,incorporated,47,A,1391,"Capitan, NM",0,56,0,0,Capitan village

@@ -1,55 +1,55 @@
 stusps,geoid,basename,type,LSADC,FUNCSTAT,pop2020,wiki_title,wiki_len,pop_rank,est_mentions,est_share,NAME
-NJ,3451000,Newark,incorporated,25,A,311549,"Newark, NJ",0,1,67,0.268,Newark city
-NJ,3436000,Jersey City,incorporated,25,A,292449,"Jersey City, NJ",0,2,28,0.112,Jersey City city
-NJ,3457000,Paterson,incorporated,25,A,159732,"Paterson, NJ",0,3,17,0.068,Paterson city
-NJ,3421000,Elizabeth,incorporated,25,A,137298,"Elizabeth, NJ",0,4,13,0.052,Elizabeth city
-NJ,3474000,Trenton,incorporated,25,A,90871,"Trenton, NJ",0,5,14,0.056,Trenton city
-NJ,3413690,Clifton,incorporated,25,A,90296,"Clifton, NJ",0,6,7,0.028,Clifton city
-NJ,3410000,Camden,incorporated,25,A,71791,"Camden, NJ",0,7,7,0.028,Camden city
-NJ,3403580,Bayonne,incorporated,25,A,71686,"Bayonne, NJ",0,8,6,0.024,Bayonne city
-NJ,3456550,Passaic,incorporated,25,A,70537,"Passaic, NJ",0,9,4,0.016,Passaic city
-NJ,3419390,East Orange,incorporated,25,A,69612,"East Orange, NJ",0,10,5,0.02,East Orange city
-NJ,3474630,Union City,incorporated,25,A,68589,"Union City, NJ",0,11,3,0.012,Union City city
-NJ,3476070,Vineland,incorporated,25,A,60780,"Vineland, NJ",0,12,3,0.012,Vineland city
-NJ,3432250,Hoboken,incorporated,25,A,60419,"Hoboken, NJ",0,13,4,0.016,Hoboken city
-NJ,3458200,Perth Amboy,incorporated,25,A,55436,"Perth Amboy, NJ",0,14,2,0.008,Perth Amboy city
-NJ,3451210,New Brunswick,incorporated,25,A,55266,"New Brunswick, NJ",0,15,2,0.008,New Brunswick city
-NJ,3459190,Plainfield,incorporated,25,A,54586,"Plainfield, NJ",0,16,2,0.008,Plainfield city
-NJ,3479610,West New York,incorporated,43,A,52912,"West New York, NJ",0,17,3,0.012,West New York town
-NJ,3428680,Hackensack,incorporated,25,A,46030,"Hackensack, NJ",0,18,3,0.012,Hackensack city
-NJ,3465790,Sayreville,incorporated,21,A,45345,"Sayreville, NJ",0,19,3,0.012,Sayreville borough
-NJ,3440350,Linden,incorporated,25,A,43738,"Linden, NJ",0,20,3,0.012,Linden city
-NJ,3436510,Kearny,incorporated,43,A,41999,"Kearny, NJ",0,21,2,0.008,Kearny town
-NJ,3424420,Fort Lee,incorporated,21,A,40191,"Fort Lee, NJ",0,22,1,0.004,Fort Lee borough
-NJ,3402080,Atlantic City,incorporated,25,A,38497,"Atlantic City, NJ",0,23,1,0.004,Atlantic City city
-NJ,3422470,Fair Lawn,incorporated,21,A,34927,"Fair Lawn, NJ",0,24,1,0.004,Fair Lawn borough
-NJ,3425770,Garfield,incorporated,25,A,32655,"Garfield, NJ",0,25,1,0.004,Garfield city
-NJ,3441310,Long Branch,incorporated,25,A,31667,"Long Branch, NJ",0,26,1,0.004,Long Branch city
-NJ,3479040,Westfield,incorporated,43,A,31032,"Westfield, NJ",0,27,1,0.004,Westfield town
-NJ,3460900,Princeton,incorporated,00,A,30681,"Princeton, NJ",0,28,1,0.004,Princeton
-NJ,3461530,Rahway,incorporated,25,A,29556,"Rahway, NJ",0,29,2,0.008,Rahway city
-NJ,3421480,Englewood,incorporated,25,A,29308,"Englewood, NJ",0,30,2,0.008,Englewood city
-NJ,3405170,Bergenfield,incorporated,21,A,28321,"Bergenfield, NJ",0,31,2,0.008,Bergenfield borough
-NJ,3446680,Millville,incorporated,25,A,27491,"Millville, NJ",0,32,2,0.008,Millville city
-NJ,3407600,Bridgeton,incorporated,25,A,27263,"Bridgeton, NJ",0,33,2,0.008,Bridgeton city
-NJ,3455950,Paramus,incorporated,21,A,26698,"Paramus, NJ",0,34,2,0.008,Paramus borough
-NJ,3441100,Lodi,incorporated,21,A,26206,"Lodi, NJ",0,35,2,0.008,Lodi borough
-NJ,3463000,Ridgewood,incorporated,47,A,25979,"Ridgewood, NJ",0,36,2,0.008,Ridgewood village
-NJ,3413570,Cliffside Park,incorporated,21,A,25693,"Cliffside Park, NJ",0,37,2,0.008,Cliffside Park borough
-NJ,3410750,Carteret,incorporated,21,A,25326,"Carteret, NJ",0,38,2,0.008,Carteret borough
-NJ,3469390,South Plainfield,incorporated,21,A,24338,"South Plainfield, NJ",0,39,2,0.008,South Plainfield borough
-NJ,3426340,Glassboro,incorporated,21,A,23149,"Glassboro, NJ",0,40,2,0.008,Glassboro borough
-NJ,3453280,North Plainfield,incorporated,21,A,22808,"North Plainfield, NJ",0,41,2,0.008,North Plainfield borough
-NJ,3471430,Summit,incorporated,25,A,22719,"Summit, NJ",0,42,2,0.008,Summit city
-NJ,3464620,Roselle,incorporated,21,A,22695,"Roselle, NJ",0,43,2,0.008,Roselle borough
-NJ,3466570,Secaucus,incorporated,43,A,22181,"Secaucus, NJ",0,44,2,0.008,Secaucus town
-NJ,3440440,Lindenwold,incorporated,21,A,21641,"Lindenwold, NJ",0,45,2,0.008,Lindenwold borough
-NJ,3421300,Elmwood Park,incorporated,21,A,21422,"Elmwood Park, NJ",0,46,2,0.008,Elmwood Park borough
-NJ,3459640,Pleasantville,incorporated,25,A,20629,"Pleasantville, NJ",0,47,2,0.008,Pleasantville city
-NJ,3455770,Palisades Park,incorporated,21,A,20292,"Palisades Park, NJ",0,48,2,0.008,Palisades Park borough
-NJ,3448300,Morristown,incorporated,43,A,20180,"Morristown, NJ",0,49,2,0.008,Morristown town
-NJ,3430570,Hawthorne,incorporated,21,A,19637,"Hawthorne, NJ",0,50,2,0.008,Hawthorne borough
-NJ,3430210,Harrison,incorporated,43,A,19450,"Harrison, NJ",0,51,1,0.004,Harrison town
+NJ,3451000,Newark,incorporated,25,A,311549,"Newark, NJ",0,1,28,0.28,Newark city
+NJ,3436000,Jersey City,incorporated,25,A,292449,"Jersey City, NJ",0,2,11,0.11,Jersey City city
+NJ,3457000,Paterson,incorporated,25,A,159732,"Paterson, NJ",0,3,8,0.08,Paterson city
+NJ,3421000,Elizabeth,incorporated,25,A,137298,"Elizabeth, NJ",0,4,6,0.06,Elizabeth city
+NJ,3474000,Trenton,incorporated,25,A,90871,"Trenton, NJ",0,5,5,0.05,Trenton city
+NJ,3413690,Clifton,incorporated,25,A,90296,"Clifton, NJ",0,6,4,0.04,Clifton city
+NJ,3410000,Camden,incorporated,25,A,71791,"Camden, NJ",0,7,2,0.02,Camden city
+NJ,3403580,Bayonne,incorporated,25,A,71686,"Bayonne, NJ",0,8,3,0.03,Bayonne city
+NJ,3456550,Passaic,incorporated,25,A,70537,"Passaic, NJ",0,9,3,0.03,Passaic city
+NJ,3419390,East Orange,incorporated,25,A,69612,"East Orange, NJ",0,10,3,0.03,East Orange city
+NJ,3474630,Union City,incorporated,25,A,68589,"Union City, NJ",0,11,1,0.01,Union City city
+NJ,3476070,Vineland,incorporated,25,A,60780,"Vineland, NJ",0,12,1,0.01,Vineland city
+NJ,3432250,Hoboken,incorporated,25,A,60419,"Hoboken, NJ",0,13,1,0.01,Hoboken city
+NJ,3458200,Perth Amboy,incorporated,25,A,55436,"Perth Amboy, NJ",0,14,2,0.02,Perth Amboy city
+NJ,3451210,New Brunswick,incorporated,25,A,55266,"New Brunswick, NJ",0,15,2,0.02,New Brunswick city
+NJ,3459190,Plainfield,incorporated,25,A,54586,"Plainfield, NJ",0,16,2,0.02,Plainfield city
+NJ,3479610,West New York,incorporated,43,A,52912,"West New York, NJ",0,17,2,0.02,West New York town
+NJ,3428680,Hackensack,incorporated,25,A,46030,"Hackensack, NJ",0,18,2,0.02,Hackensack city
+NJ,3465790,Sayreville,incorporated,21,A,45345,"Sayreville, NJ",0,19,2,0.02,Sayreville borough
+NJ,3440350,Linden,incorporated,25,A,43738,"Linden, NJ",0,20,2,0.02,Linden city
+NJ,3436510,Kearny,incorporated,43,A,41999,"Kearny, NJ",0,21,2,0.02,Kearny town
+NJ,3424420,Fort Lee,incorporated,21,A,40191,"Fort Lee, NJ",0,22,2,0.02,Fort Lee borough
+NJ,3402080,Atlantic City,incorporated,25,A,38497,"Atlantic City, NJ",0,23,2,0.02,Atlantic City city
+NJ,3422470,Fair Lawn,incorporated,21,A,34927,"Fair Lawn, NJ",0,24,2,0.02,Fair Lawn borough
+NJ,3425770,Garfield,incorporated,25,A,32655,"Garfield, NJ",0,25,1,0.01,Garfield city
+NJ,3441310,Long Branch,incorporated,25,A,31667,"Long Branch, NJ",0,26,1,0.01,Long Branch city
+NJ,3479040,Westfield,incorporated,43,A,31032,"Westfield, NJ",0,27,0,0,Westfield town
+NJ,3460900,Princeton,incorporated,00,A,30681,"Princeton, NJ",0,28,0,0,Princeton
+NJ,3461530,Rahway,incorporated,25,A,29556,"Rahway, NJ",0,29,0,0,Rahway city
+NJ,3421480,Englewood,incorporated,25,A,29308,"Englewood, NJ",0,30,0,0,Englewood city
+NJ,3405170,Bergenfield,incorporated,21,A,28321,"Bergenfield, NJ",0,31,0,0,Bergenfield borough
+NJ,3446680,Millville,incorporated,25,A,27491,"Millville, NJ",0,32,0,0,Millville city
+NJ,3407600,Bridgeton,incorporated,25,A,27263,"Bridgeton, NJ",0,33,0,0,Bridgeton city
+NJ,3455950,Paramus,incorporated,21,A,26698,"Paramus, NJ",0,34,0,0,Paramus borough
+NJ,3441100,Lodi,incorporated,21,A,26206,"Lodi, NJ",0,35,0,0,Lodi borough
+NJ,3463000,Ridgewood,incorporated,47,A,25979,"Ridgewood, NJ",0,36,0,0,Ridgewood village
+NJ,3413570,Cliffside Park,incorporated,21,A,25693,"Cliffside Park, NJ",0,37,0,0,Cliffside Park borough
+NJ,3410750,Carteret,incorporated,21,A,25326,"Carteret, NJ",0,38,0,0,Carteret borough
+NJ,3469390,South Plainfield,incorporated,21,A,24338,"South Plainfield, NJ",0,39,0,0,South Plainfield borough
+NJ,3426340,Glassboro,incorporated,21,A,23149,"Glassboro, NJ",0,40,0,0,Glassboro borough
+NJ,3453280,North Plainfield,incorporated,21,A,22808,"North Plainfield, NJ",0,41,0,0,North Plainfield borough
+NJ,3471430,Summit,incorporated,25,A,22719,"Summit, NJ",0,42,0,0,Summit city
+NJ,3464620,Roselle,incorporated,21,A,22695,"Roselle, NJ",0,43,0,0,Roselle borough
+NJ,3466570,Secaucus,incorporated,43,A,22181,"Secaucus, NJ",0,44,0,0,Secaucus town
+NJ,3440440,Lindenwold,incorporated,21,A,21641,"Lindenwold, NJ",0,45,0,0,Lindenwold borough
+NJ,3421300,Elmwood Park,incorporated,21,A,21422,"Elmwood Park, NJ",0,46,0,0,Elmwood Park borough
+NJ,3459640,Pleasantville,incorporated,25,A,20629,"Pleasantville, NJ",0,47,0,0,Pleasantville city
+NJ,3455770,Palisades Park,incorporated,21,A,20292,"Palisades Park, NJ",0,48,0,0,Palisades Park borough
+NJ,3448300,Morristown,incorporated,43,A,20180,"Morristown, NJ",0,49,0,0,Morristown town
+NJ,3430570,Hawthorne,incorporated,21,A,19637,"Hawthorne, NJ",0,50,0,0,Hawthorne borough
+NJ,3430210,Harrison,incorporated,43,A,19450,"Harrison, NJ",0,51,0,0,Harrison town
 NJ,3473020,Tinton Falls,incorporated,21,A,19181,"Tinton Falls, NJ",0,52,0,0,Tinton Falls borough
 NJ,3459880,Point Pleasant,incorporated,21,A,18941,"Point Pleasant, NJ",0,53,0,0,Point Pleasant borough
 NJ,3465280,Rutherford,incorporated,21,A,18834,"Rutherford, NJ",0,54,0,0,Rutherford borough
