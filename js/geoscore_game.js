@@ -16,6 +16,9 @@ function createQuestionCard(q, idx, onAnswered){
   input.type = 'text';
   input.placeholder = 'Type answer (5+ letters for suggestions)';
   input.autocomplete = 'off';
+  const skipBtn = document.createElement('button');
+  skipBtn.textContent = "I don't know";
+  skipBtn.style.marginLeft = '6px';
   const listId = `gs-suggest-${idx}`;
   const datalist = document.createElement('datalist');
   datalist.id = listId;
@@ -36,6 +39,8 @@ function createQuestionCard(q, idx, onAnswered){
   }
   input.addEventListener('input', () => updateSuggestions(input.value));
 
+  let locked = false;
+  function lock(){ input.disabled = true; skipBtn.disabled = true; locked = true; }
   function submit(){
     const key = norm(input.value);
     if(!key) return;
@@ -44,60 +49,118 @@ function createQuestionCard(q, idx, onAnswered){
       const hit = answers.find(a=>a.key===key);
       feedback.textContent = `✓ ${hit.raw.answer} (+${hit.raw.score})`;
       feedback.style.color = '#0a0';
-      input.disabled = true;
+      lock();
       const res = { correct: true, score: hit.raw.score||0 };
       try{ typeof onAnswered === 'function' && onAnswered(res); }catch{}
       return res;
     }else{
       feedback.textContent = `✗ Not on the board`;
       feedback.style.color = '#a00';
+      lock();
       const res = { correct: false, score: 0 };
       try{ typeof onAnswered === 'function' && onAnswered(res); }catch{}
       return res;
     }
   }
   input.addEventListener('keydown', (e)=>{ if(e.key==='Enter'){ const res=submit(); wrap.dispatchEvent(new CustomEvent('answered',{detail:res})); }});
+  skipBtn.addEventListener('click', ()=>{
+    if(locked) return;
+    feedback.textContent = '— Skipped';
+    feedback.style.color = '#555';
+    lock();
+    const res = { correct: false, score: 0, skipped: true };
+    try{ typeof onAnswered === 'function' && onAnswered(res); }catch{}
+    wrap.dispatchEvent(new CustomEvent('answered',{detail:res}));
+  });
 
-  wrap.append(title, input, datalist, feedback);
+  const inputRow = document.createElement('div');
+  inputRow.append(input, skipBtn, datalist);
+  wrap.append(title, inputRow, feedback);
   return wrap;
+}
+
+let currentGameType = 'country';
+function isUSStateName(name){
+  const n = String(name||'').toLowerCase();
+  const set = new Set([
+    'alabama','alaska','arizona','arkansas','california','colorado','connecticut','delaware','florida','georgia',
+    'hawaii','idaho','illinois','indiana','iowa','kansas','kentucky','louisiana','maine','maryland','massachusetts',
+    'michigan','minnesota','mississippi','missouri','montana','nebraska','nevada','new hampshire','new jersey',
+    'new mexico','new york','north carolina','north dakota','ohio','oklahoma','oregon','pennsylvania','rhode island',
+    'south carolina','south dakota','tennessee','texas','utah','vermont','virginia','washington','west virginia',
+    'wisconsin','wyoming','district of columbia'
+  ]);
+  return set.has(n);
+}
+function categorizeQuestion(q){
+  const qraw = String(q && q.question || '');
+  const m = /^\s*Name a city in\s+(.+)$/i.exec(qraw);
+  if(m && m[1]){
+    const target = m[1].trim().replace(/^[Tt]he\s+/, '').replace(/[\s\.-]+$/,'');
+    const tnorm = target.toLowerCase();
+    if(isUSStateName(tnorm)){
+      if(tnorm==='georgia'){
+        const ans = ((q && q.answers) || []).map(a=> String(a && a.answer || '').toLowerCase());
+        const hints=['tbilisi','batumi','kutaisi','rustavi','poti','gori'];
+        const looksCountry = hints.some(h=> ans.some(x=> x.includes(h)));
+        return looksCountry ? 'country' : 'state';
+      }
+      return 'state';
+    }
+    return 'country';
+  }
+  return 'other';
 }
 
 export async function initGeoScoreGame(){
   const mount = document.getElementById('geoscoreGame');
   if(!mount) return;
+  if(mount.dataset.initialized === '1') return; // don't auto-refresh when opening tab
   mount.innerHTML='';
 
   const all = await loadQuestions();
-  const picked = pickN(all, Math.min(6, all.length));
-  const maxPossible = picked.reduce((sum, q) => {
-    const max = Math.max(0, ...((q.answers||[]).map(a => Number(a.score)||0)));
-    return sum + (isFinite(max) ? max : 0);
-  }, 0);
+  const byType = { country: [], state: [] };
+  all.forEach(q=>{ const t=categorizeQuestion(q); if(t==='country') byType.country.push(q); else if(t==='state') byType.state.push(q); });
 
   const header = document.createElement('div');
   const scoreEl = document.createElement('div');
   let total = 0; let answered = 0;
-  header.style.display='flex'; header.style.justifyContent='space-between'; header.style.alignItems='center';
-  const startBtn = document.createElement('button');
-  startBtn.textContent = 'New Round';
-  startBtn.addEventListener('click', ()=>{ initGeoScoreGame(); });
-  scoreEl.textContent = `Score: 0 / ${maxPossible}`;
-  header.append(scoreEl, startBtn);
+  header.style.display='flex'; header.style.justifyContent='space-between'; header.style.alignItems='center'; header.style.gap='8px';
+  const left = document.createElement('div'); left.style.display='flex'; left.style.gap='6px'; left.style.alignItems='center';
+  const countryBtn = document.createElement('button'); countryBtn.textContent='Country';
+  const stateBtn = document.createElement('button'); stateBtn.textContent='State';
+  function refreshToggle(){ countryBtn.classList.toggle('active', currentGameType==='country'); stateBtn.classList.toggle('active', currentGameType==='state'); }
+  countryBtn.addEventListener('click', ()=>{ currentGameType='country'; refreshToggle(); });
+  stateBtn.addEventListener('click', ()=>{ currentGameType='state'; refreshToggle(); });
+  left.append(countryBtn, stateBtn);
+  const startBtn = document.createElement('button'); startBtn.textContent='New Round';
+  header.append(left, scoreEl, startBtn);
   mount.appendChild(header);
 
   const grid = document.createElement('div');
   grid.style.display='grid'; grid.style.gridTemplateColumns='1fr'; grid.style.gap='10px';
   mount.appendChild(grid);
-
-  picked.forEach((q, i) =>{
-    const card = createQuestionCard(q, i, (res)=>{
-      if(!res) return;
-      answered += 1;
-      total += res.score||0;
-      scoreEl.textContent = `Score: ${total} / ${maxPossible}`;
+  function buildRound(){
+    const pool = byType[currentGameType] || [];
+    const picked = pickN(pool, Math.min(6, pool.length));
+    const maxPossible = picked.reduce((sum, q) => {
+      const max = Math.max(0, ...((q.answers||[]).map(a => Number(a.score)||0)));
+      return sum + (isFinite(max) ? max : 0);
+    }, 0);
+    grid.innerHTML=''; total=0; answered=0; scoreEl.textContent = `Score: 0 / ${maxPossible}`;
+    picked.forEach((q, i) =>{
+      const card = createQuestionCard(q, i, (res)=>{
+        if(!res) return;
+        answered += 1;
+        total += res.score||0;
+        scoreEl.textContent = `Score: ${total} / ${maxPossible}`;
+      });
+      grid.appendChild(card);
     });
-    grid.appendChild(card);
-  });
+  }
+  startBtn.addEventListener('click', buildRound);
+  refreshToggle();
+  mount.dataset.initialized = '1';
 }
 
 if(typeof window!=='undefined') window.initGeoScoreGame = initGeoScoreGame;
