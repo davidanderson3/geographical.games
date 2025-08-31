@@ -79,9 +79,15 @@ async function main(){
     // Rank within state by pop2020
     const sorted = filtered.slice().sort((a,b)=> (Number(b.pop2020)||0) - (Number(a.pop2020)||0));
     const rankMap = new Map(); sorted.forEach((r,i)=> rankMap.set(r.geoid, i+1));
-    // Normalize wiki_len to [0,1] via 95th percentile
+    // Wiki length distribution cut points for fame
     const lens = filtered.map(r=> Number(r.wiki_len)||0).sort((a,b)=>a-b);
-    const p95 = lens.length ? lens[Math.max(0, Math.min(lens.length-1, Math.floor(lens.length*0.95)))] : 0;
+    const idx = (p)=> Math.max(0, Math.min(lens.length-1, Math.floor(lens.length*p)));
+    const p20 = lens.length ? lens[idx(0.20)] : 0;
+    const p40 = lens.length ? lens[idx(0.40)] : 0;
+    const p60 = lens.length ? lens[idx(0.60)] : 0;
+    const p80 = lens.length ? lens[idx(0.80)] : 0;
+    const p95 = lens.length ? lens[idx(0.95)] : 0;
+    const p99 = lens.length ? lens[idx(0.99)] : 0;
     const stateName = STATE_NAMES[st];
     // Capital mapping; object keys differ for spaced names; build lookup
     const capitalKey = stateName.replace(/\s+/g,'_');
@@ -96,14 +102,25 @@ async function main(){
       if(len<=7) ease += 0.2; else if(len<=11) ease += 0.1;
       return Math.min(1.2, ease);
     }
-    const A=1.0, B=2.2, C=0.4, E=0.5, K=0.6, D=-8.3;
+    // Coefficients: increase global fame (wiki E), reduce population (A) and rank (B)
+    // Tuned to push globally famous cities higher even if city-proper pop is smaller
+    // Heavily weight global fame; reduce pop+rank so tail cities collapse toward 0
+    const A=0.05, B=0.15, C=0.15, K=0.1, D=-2.0;
     const answers = filtered.map((r)=>{
       const pop = Math.max(1, Number(r.pop2020)||1);
       const rr = 1/Math.sqrt(Math.max(1, rankMap.get(r.geoid)||1));
       const title = String(r.basename || r.NAME || '');
-      const wiki = Math.min(1, (Number(r.wiki_len)||0) / (p95||1));
+      const wlen = Number(r.wiki_len)||0;
+      // Fame curve: below p40 -> near zero, above p95 -> near one; steep gamma to separate head/tail
+      let fameFrac = 0;
+      if(p95>p40){ fameFrac = Math.max(0, Math.min(1, (wlen - p40) / (p95 - p40))); }
+      const wiki = Math.pow(fameFrac, 3.5);
       const isCapital = capitalName && title.toLowerCase()===capitalName.toLowerCase();
-      const z = A*Math.log10(pop) + B*rr + C*nameEase(title) + E*wiki + (isCapital?K:0) + D;
+      // Bonus spike for ultra-famous pages
+      const fameSpike = (p99 && wlen >= p99) ? 1.2 : 0;
+      // Penalty for obscure: very low wiki length and small population
+      const obscurePenalty = (wlen <= p20 && pop < 80000) ? 2.0 : 0;
+      const z = A*Math.log10(pop) + B*rr + C*nameEase(title) + 4.5*wiki + fameSpike + (isCapital?K:0) + D - obscurePenalty;
       const p = Math.max(0, Math.min(100, Math.round(100*sigmoid(z))));
       return { answer: title, score: p, count: p };
     });
