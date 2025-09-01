@@ -2,7 +2,60 @@ const STORAGE_KEY = 'geoscoreQuestions';
 const ANSWER_OVERRIDES_KEY = 'geoscoreAnswerOverrides';
 const EXCLUSIONS_KEY = 'geoscoreExclusions'; // { CategoryName: { normalizedName: true } }
 
-export const DEFAULT_QUESTIONS = [
+function generateCountryLetterQuestions(){
+  const countries = [
+    'Afghanistan','Albania','Algeria','Andorra','Angola','Antigua and Barbuda','Argentina','Armenia','Australia','Austria','Azerbaijan',
+    'Bahamas','Bahrain','Bangladesh','Barbados','Belarus','Belgium','Belize','Benin','Bhutan','Bolivia','Bosnia and Herzegovina','Botswana','Brazil','Brunei','Bulgaria','Burkina Faso','Burundi',
+    'Cambodia','Cameroon','Canada','Cape Verde','Central African Republic','Chad','Chile','China','Colombia','Comoros','Congo (Congo-Brazzaville)','Costa Rica','Côte d\'Ivoire','Croatia','Cuba','Cyprus','Czechia',
+    'Democratic Republic of the Congo','Denmark','Djibouti','Dominica','Dominican Republic',
+    'Ecuador','Egypt','El Salvador','Equatorial Guinea','Eritrea','Estonia','Eswatini','Ethiopia',
+    'Fiji','Finland','France',
+    'Gabon','Gambia','Georgia','Germany','Ghana','Greece','Grenada','Guatemala','Guinea','Guinea-Bissau','Guyana',
+    'Haiti','Honduras','Hungary',
+    'Iceland','India','Indonesia','Iran','Iraq','Ireland','Israel','Italy',
+    'Jamaica','Japan','Jordan',
+    'Kazakhstan','Kenya','Kiribati','Kuwait','Kyrgyzstan',
+    'Laos','Latvia','Lebanon','Lesotho','Liberia','Libya','Liechtenstein','Lithuania','Luxembourg',
+    'Madagascar','Malawi','Malaysia','Maldives','Mali','Malta','Marshall Islands','Mauritania','Mauritius','Mexico','Micronesia','Moldova','Monaco','Mongolia','Montenegro','Morocco','Mozambique','Myanmar',
+    'Namibia','Nauru','Nepal','Netherlands','New Zealand','Nicaragua','Niger','Nigeria','North Korea','North Macedonia','Norway',
+    'Oman',
+    'Pakistan','Palau','Palestine','Panama','Papua New Guinea','Paraguay','Peru','Philippines','Poland','Portugal',
+    'Qatar',
+    'Romania','Russia','Rwanda',
+    'Saint Kitts and Nevis','Saint Lucia','Saint Vincent and the Grenadines','Samoa','San Marino','Sao Tome and Principe','Saudi Arabia','Senegal','Serbia','Seychelles','Sierra Leone','Singapore','Slovakia','Slovenia','Solomon Islands','Somalia','South Africa','South Korea','South Sudan','Spain','Sri Lanka','Sudan','Suriname','Sweden','Switzerland','Syria',
+    'Taiwan','Tajikistan','Tanzania','Thailand','Timor-Leste','Togo','Tonga','Trinidad and Tobago','Tunisia','Turkey','Turkmenistan','Tuvalu',
+    'Uganda','Ukraine','United Arab Emirates','United Kingdom','United States','Uruguay','Uzbekistan',
+    'Vanuatu','Vatican City','Venezuela','Vietnam',
+    'Yemen',
+    'Zambia','Zimbabwe'
+  ];
+  const byLetter = {};
+  countries.forEach(c => {
+    const letter = c[0].toUpperCase();
+    if(!byLetter[letter]) byLetter[letter] = [];
+    byLetter[letter].push(c);
+  });
+  const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+  const questions = [];
+  for(const letter of letters){
+    const list = (byLetter[letter] || []).sort();
+    const answers = list.slice(0,5).map((name,i)=>({
+      answer: name,
+      score: Math.max(1,10-i),
+      count: Math.max(1,10-i)
+    }));
+    if(!answers.length){
+      answers.push({ answer: 'None', score: 10, count: 10 });
+    }
+    questions.push({
+      question: `Name a country that starts with ${letter}`,
+      answers
+    });
+  }
+  return questions;
+}
+
+const BASE_DEFAULT_QUESTIONS = [
   {
     question: 'Name a country in South America',
     answers: [
@@ -32,8 +85,55 @@ export const DEFAULT_QUESTIONS = [
       { answer: 'Rome', score: 7, count: 18 },
       { answer: 'Madrid', score: 6, count: 12 }
     ]
+  },
+  {
+    question: 'Name a mountain with an elevation over 8,000 meters',
+    answers: [
+      { answer: 'Mount Everest', score: 10, count: 30 },
+      { answer: 'K2', score: 9, count: 25 },
+      { answer: 'Kangchenjunga', score: 8, count: 20 },
+      { answer: 'Lhotse', score: 7, count: 15 },
+      { answer: 'Makalu', score: 6, count: 10 }
+    ]
   }
 ];
+
+export const DEFAULT_QUESTIONS = BASE_DEFAULT_QUESTIONS.concat(generateCountryLetterQuestions());
+const US_STATE_SET = new Set([
+  'alabama','alaska','arizona','arkansas','california','colorado','connecticut','delaware','florida','georgia',
+  'hawaii','idaho','illinois','indiana','iowa','kansas','kentucky','louisiana','maine','maryland','massachusetts',
+  'michigan','minnesota','mississippi','missouri','montana','nebraska','nevada','new hampshire','new jersey',
+  'new mexico','new york','north carolina','north dakota','ohio','oklahoma','oregon','pennsylvania','rhode island',
+  'south carolina','south dakota','tennessee','texas','utah','vermont','virginia','washington','west virginia',
+  'wisconsin','wyoming','district of columbia'
+]);
+
+export function categorizeQuestion(qobj){
+  const question = qobj && qobj.question;
+  const qraw = String(question||'').trim();
+  const q = qraw.toLowerCase();
+  const m = /^name a city in\s+(.+)$/i.exec(qraw);
+  if(m && m[1]){
+    const target = m[1].trim().replace(/^[Tt]he\s+/, '').replace(/[\s\.-]+$/, '');
+    const tnorm = target.toLowerCase();
+    if(US_STATE_SET.has(tnorm)){
+      if(tnorm === 'georgia'){
+        const ans = ((qobj && qobj.answers) || []).map(a => String(a && a.answer || '').toLowerCase());
+        const geCountryHints = ['tbilisi','batumi','kutaisi','rustavi','poti','gori','zugdidi','samtredia','khashuri'];
+        const looksCountry = geCountryHints.some(h => ans.some(x => x.includes(h)));
+        if(looksCountry) return 'Country Cities';
+      }
+      return 'State Cities';
+    }
+    return 'Country Cities';
+  }
+  if(q.includes('elevation') || q.includes('altitude') || q.includes('highest point') || q.includes('lowest point')) return 'Elevation';
+  if(q.includes('european capital')) return 'European Capitals';
+  if(q.includes('capital')) return 'Capital Cities';
+  if(q.includes('u.s. state')) return 'US States';
+  if(q.includes('country')) return 'Countries';
+  return 'Other';
+}
 
 function readAnswerOverrides(){
   try{ const raw = localStorage.getItem(ANSWER_OVERRIDES_KEY); const obj = raw?JSON.parse(raw):{}; return obj&&typeof obj==='object'?obj:{}; }catch{ return {}; }
@@ -48,6 +148,13 @@ function writeAnswerOverride(questionKey, originalAnswer, newValue){
 function getAnswerOverride(questionKey, originalAnswer){
   const map = readAnswerOverrides();
   return (map[questionKey] && map[questionKey][originalAnswer]) || '';
+}
+
+function augmentWithCountryLetterQuestions(list){
+  const existing = new Set((Array.isArray(list)?list:[]).map(q=>q && q.question));
+  for(const q of generateCountryLetterQuestions()){
+    if(!existing.has(q.question)) list.push(q);
+  }
 }
 
 export async function loadQuestions() {
@@ -74,11 +181,13 @@ export async function loadQuestions() {
           }
         }
       }
+      augmentWithCountryLetterQuestions(data);
       saveQuestions(data);
       return data;
     }
   } catch {}
   if (Array.isArray(cached) && cached.length) {
+    augmentWithCountryLetterQuestions(cached);
     return cached;
   }
   // If nothing stored, seed with defaults
@@ -154,16 +263,6 @@ export async function initGeoScorePanel() {
 
   const all = await loadQuestions();
 
-  // US state names for categorization of state vs country questions
-  const US_STATE_SET = new Set([
-    'alabama','alaska','arizona','arkansas','california','colorado','connecticut','delaware','florida','georgia',
-    'hawaii','idaho','illinois','indiana','iowa','kansas','kentucky','louisiana','maine','maryland','massachusetts',
-    'michigan','minnesota','mississippi','missouri','montana','nebraska','nevada','new hampshire','new jersey',
-    'new mexico','new york','north carolina','north dakota','ohio','oklahoma','oregon','pennsylvania','rhode island',
-    'south carolina','south dakota','tennessee','texas','utah','vermont','virginia','washington','west virginia',
-    'wisconsin','wyoming','district of columbia'
-  ]);
-
   // Normalize country display names to avoid duplicate variants in the list
   function normalizeCountryName(raw){
     let n = String(raw||'').trim();
@@ -210,7 +309,6 @@ export async function initGeoScorePanel() {
     const key = category==='Country Cities' ? normalizeCountryName(name) : String(name||'').trim();
     if(ex[category]){ delete ex[category][key]; writeExclusions(ex); }
   }
-
   // Categorize questions from their text (pass full question object to disambiguate)
   function categorizeQ(qobj){
     const question = qobj && qobj.question;
@@ -234,6 +332,7 @@ export async function initGeoScorePanel() {
       }
       return 'Country Cities';
     }
+    if(/name a country that starts with/i.test(qraw)) return 'Countries by Letter';
     if(q.includes('european capital')) return 'European Capitals';
     if(q.includes('capital')) return 'Capital Cities';
     if(q.includes('u.s. state')) return 'US States';
@@ -245,7 +344,7 @@ export async function initGeoScorePanel() {
   const byCat = new Map();
   const tmpByCat = new Map();
   all.forEach((q)=>{
-    const c = categorizeQ(q);
+    const c = categorizeQuestion(q);
     if(!tmpByCat.has(c)) tmpByCat.set(c, []);
     tmpByCat.get(c).push(q);
   });
