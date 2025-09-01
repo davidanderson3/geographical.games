@@ -131,6 +131,8 @@ function writeCSV(file, rows, headers){
 function loadCache(){
   if(fs.existsSync(CACHE_FILE)){
     try{ return JSON.parse(fs.readFileSync(CACHE_FILE,"utf8")); }catch{ return {}; }
+  } else {
+    fs.writeFileSync(CACHE_FILE, "{}", "utf8");
   }
   return {};
 }
