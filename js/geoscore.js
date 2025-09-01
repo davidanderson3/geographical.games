@@ -6,8 +6,9 @@ function normalizeQuestionScores(q){
   const answers = Array.isArray(q && q.answers) ? q.answers : [];
   answers.forEach(a => {
     let s = Number(a && a.score);
-    if(!isFinite(s)) s = 100;
-    s = Math.round(Math.max(0, Math.min(100, s)));
+    if(!isFinite(s)) s = 95;
+    // Clamp scores between 0 (unknown) and 95 (very common)
+    s = Math.round(Math.max(0, Math.min(95, s)));
     a.score = s;
     a.count = s;
   });
