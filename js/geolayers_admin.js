@@ -8,17 +8,28 @@ async function initGeolayersAdmin(){
     country: 'gl_admin_country',
     layers: 'gl_admin_layers',
     // Stores JSON: { ISO3: ["rivers","cities",...] }
-    approveByCountry: 'gl_admin_approve_by_country'
+    approveByCountry: 'gl_admin_approve_by_country',
+    excluded: 'gl_admin_excluded_countries'
   };
 
-  // Populate countries list
-  try{
-    const res = await fetch('geolayers-game/public/countries.json');
-    const data = await res.json();
+  let countriesData = [];
+  function readExcluded(){
+    try{
+      const raw = localStorage.getItem(LS_KEYS.excluded);
+      const arr = raw ? JSON.parse(raw) : [];
+      return Array.isArray(arr) ? arr : [];
+    }catch{ return []; }
+  }
+  function writeExcluded(arr){
+    try{ localStorage.setItem(LS_KEYS.excluded, JSON.stringify(arr)); }catch{}
+  }
+  function buildCountryList(){
     const list = document.getElementById('glList');
     const input = document.getElementById('glCountry');
-    data.sort((a,b)=>a.name.localeCompare(b.name));
-    for(const c of data){
+    list.innerHTML = '';
+    const excluded = readExcluded();
+    for(const c of countriesData){
+      if(excluded.includes(c.code)) continue;
       const btn = document.createElement('button');
       btn.textContent = c.name;
       btn.dataset.iso3 = c.code;
@@ -31,14 +42,20 @@ async function initGeolayersAdmin(){
       });
       list.appendChild(btn);
     }
-    try{
-      const saved = localStorage.getItem(LS_KEYS.country);
-      if(saved){
-        input.value = saved;
-        const btn = list.querySelector(`button[data-iso3="${saved}"]`);
-        if(btn) btn.classList.add('active');
-      }
-    }catch{}
+    const saved = getCurrentISO3();
+    if(saved){
+      input.value = saved;
+      const btn = list.querySelector(`button[data-iso3="${saved}"]`);
+      if(btn) btn.classList.add('active');
+    }
+  }
+
+  // Populate countries list
+  try{
+    const res = await fetch('geolayers-game/public/countries.json');
+    countriesData = await res.json();
+    countriesData.sort((a,b)=>a.name.localeCompare(b.name));
+    buildCountryList();
   }catch{}
 
   function resolveISO3(val){
@@ -161,6 +178,33 @@ async function initGeolayersAdmin(){
       writeApproveMap(map);
     });
   });
+
+  // Exclusion controls
+  const excludeBtn = document.getElementById('glExcludeCountry');
+  if(excludeBtn){
+    excludeBtn.addEventListener('click', ()=>{
+      const iso3 = getCurrentISO3();
+      if(!iso3) return;
+      const ex = readExcluded();
+      if(!ex.includes(iso3)){
+        ex.push(iso3);
+        writeExcluded(ex);
+      }
+      document.getElementById('glCountry').value = '';
+      try{ localStorage.removeItem(LS_KEYS.country); }catch{}
+      lastSentCountry = '';
+      buildCountryList();
+      updateApproveUIFromStorage();
+      updateFrame();
+    });
+  }
+  const resetBtn = document.getElementById('glResetExcluded');
+  if(resetBtn){
+    resetBtn.addEventListener('click', ()=>{
+      writeExcluded([]);
+      buildCountryList();
+    });
+  }
 
   // Initial update if admin tab active by default
   // Read gl=game|admin from URL
