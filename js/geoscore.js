@@ -32,8 +32,54 @@ export const DEFAULT_QUESTIONS = [
       { answer: 'Rome', score: 7, count: 18 },
       { answer: 'Madrid', score: 6, count: 12 }
     ]
+  },
+  {
+    question: 'Name a mountain with an elevation over 8,000 meters',
+    answers: [
+      { answer: 'Mount Everest', score: 10, count: 30 },
+      { answer: 'K2', score: 9, count: 25 },
+      { answer: 'Kangchenjunga', score: 8, count: 20 },
+      { answer: 'Lhotse', score: 7, count: 15 },
+      { answer: 'Makalu', score: 6, count: 10 }
+    ]
   }
 ];
+
+const US_STATE_SET = new Set([
+  'alabama','alaska','arizona','arkansas','california','colorado','connecticut','delaware','florida','georgia',
+  'hawaii','idaho','illinois','indiana','iowa','kansas','kentucky','louisiana','maine','maryland','massachusetts',
+  'michigan','minnesota','mississippi','missouri','montana','nebraska','nevada','new hampshire','new jersey',
+  'new mexico','new york','north carolina','north dakota','ohio','oklahoma','oregon','pennsylvania','rhode island',
+  'south carolina','south dakota','tennessee','texas','utah','vermont','virginia','washington','west virginia',
+  'wisconsin','wyoming','district of columbia'
+]);
+
+export function categorizeQuestion(qobj){
+  const question = qobj && qobj.question;
+  const qraw = String(question||'').trim();
+  const q = qraw.toLowerCase();
+  const m = /^name a city in\s+(.+)$/i.exec(qraw);
+  if(m && m[1]){
+    const target = m[1].trim().replace(/^[Tt]he\s+/, '').replace(/[\s\.-]+$/, '');
+    const tnorm = target.toLowerCase();
+    if(US_STATE_SET.has(tnorm)){
+      if(tnorm === 'georgia'){
+        const ans = ((qobj && qobj.answers) || []).map(a => String(a && a.answer || '').toLowerCase());
+        const geCountryHints = ['tbilisi','batumi','kutaisi','rustavi','poti','gori','zugdidi','samtredia','khashuri'];
+        const looksCountry = geCountryHints.some(h => ans.some(x => x.includes(h)));
+        if(looksCountry) return 'Country Cities';
+      }
+      return 'State Cities';
+    }
+    return 'Country Cities';
+  }
+  if(q.includes('elevation') || q.includes('altitude') || q.includes('highest point') || q.includes('lowest point')) return 'Elevation';
+  if(q.includes('european capital')) return 'European Capitals';
+  if(q.includes('capital')) return 'Capital Cities';
+  if(q.includes('u.s. state')) return 'US States';
+  if(q.includes('country')) return 'Countries';
+  return 'Other';
+}
 
 function readAnswerOverrides(){
   try{ const raw = localStorage.getItem(ANSWER_OVERRIDES_KEY); const obj = raw?JSON.parse(raw):{}; return obj&&typeof obj==='object'?obj:{}; }catch{ return {}; }
@@ -154,16 +200,6 @@ export async function initGeoScorePanel() {
 
   const all = await loadQuestions();
 
-  // US state names for categorization of state vs country questions
-  const US_STATE_SET = new Set([
-    'alabama','alaska','arizona','arkansas','california','colorado','connecticut','delaware','florida','georgia',
-    'hawaii','idaho','illinois','indiana','iowa','kansas','kentucky','louisiana','maine','maryland','massachusetts',
-    'michigan','minnesota','mississippi','missouri','montana','nebraska','nevada','new hampshire','new jersey',
-    'new mexico','new york','north carolina','north dakota','ohio','oklahoma','oregon','pennsylvania','rhode island',
-    'south carolina','south dakota','tennessee','texas','utah','vermont','virginia','washington','west virginia',
-    'wisconsin','wyoming','district of columbia'
-  ]);
-
   // Normalize country display names to avoid duplicate variants in the list
   function normalizeCountryName(raw){
     let n = String(raw||'').trim();
@@ -211,41 +247,11 @@ export async function initGeoScorePanel() {
     if(ex[category]){ delete ex[category][key]; writeExclusions(ex); }
   }
 
-  // Categorize questions from their text (pass full question object to disambiguate)
-  function categorizeQ(qobj){
-    const question = qobj && qobj.question;
-    const qraw = String(question||'').trim();
-    const q = qraw.toLowerCase();
-    // Distinguish US state vs country city questions
-    const m = /^name a city in\s+(.+)$/i.exec(qraw);
-    if(m && m[1]){
-      const target = m[1].trim().replace(/^[Tt]he\s+/, '').replace(/[\s\.-]+$/,'');
-      const tnorm = target.toLowerCase();
-      if(US_STATE_SET.has(tnorm)){
-        // Special-case: "Georgia" can be a US state or the country. If the answers look like
-        // Georgian country cities, treat as Country Cities.
-        if(tnorm === 'georgia'){
-          const ans = ((qobj && qobj.answers) || []).map(a => String(a && a.answer || '').toLowerCase());
-          const geCountryHints = ['tbilisi','batumi','kutaisi','rustavi','poti','gori','zugdidi','samtredia','khashuri'];
-          const looksCountry = geCountryHints.some(h => ans.some(x => x.includes(h)));
-          if(looksCountry) return 'Country Cities';
-        }
-        return 'State Cities';
-      }
-      return 'Country Cities';
-    }
-    if(q.includes('european capital')) return 'European Capitals';
-    if(q.includes('capital')) return 'Capital Cities';
-    if(q.includes('u.s. state')) return 'US States';
-    if(q.includes('country')) return 'Countries';
-    return 'Other';
-  }
-
   // Build category map with country list de-duplicated by normalized country name
   const byCat = new Map();
   const tmpByCat = new Map();
   all.forEach((q)=>{
-    const c = categorizeQ(q);
+    const c = categorizeQuestion(q);
     if(!tmpByCat.has(c)) tmpByCat.set(c, []);
     tmpByCat.get(c).push(q);
   });
