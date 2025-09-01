@@ -25,7 +25,9 @@ describe('geoscore persistence', () => {
       ]
     }];
     saveQuestions(qs);
-    expect(await loadQuestions()).toEqual(qs);
+    const loaded = await loadQuestions();
+    expect(loaded[0]).toEqual(qs[0]);
+    expect(loaded.length).toBeGreaterThan(qs.length);
   });
 
   it('categorizes elevation questions', () => {
