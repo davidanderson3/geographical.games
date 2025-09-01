@@ -443,8 +443,16 @@ function loadCountry() {
     try {
       const roadsSan0 = sanitizeGeoJSON(roadsGeo) || roadsGeo;
       const roadsLimited = limitRoads(roadsSan0, 30000);
-      // Clip roads to outline geometry so neighbors (e.g., Chile/Uruguay) don't appear
-      const roadsClipped = outlineMP ? clipRoadsToMultiPolygon(roadsLimited, outlineMP) : roadsLimited;
+      let roadsPreClip = roadsLimited;
+      let roadsClipped = outlineMP ? clipRoadsToMultiPolygon(roadsPreClip, outlineMP) : roadsPreClip;
+      if((!roadsClipped.features || roadsClipped.features.length===0) && roadsPreClip && roadsPreClip.features && roadsPreClip.features.length){
+        const swapped = swapGeoJSONLonLat(roadsPreClip);
+        const swappedClipped = outlineMP ? clipRoadsToMultiPolygon(swapped, outlineMP) : swapped;
+        if(swappedClipped && swappedClipped.features && swappedClipped.features.length){
+          roadsPreClip = swapped;
+          roadsClipped = swappedClipped;
+        }
+      }
       roadsLayer = L.geoJSON(roadsClipped, { style: { color: '#888', weight: 1, opacity: 0.7, lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
       // Heuristic: if roads bbox is far from outline bbox center, retry swapping [lng,lat] -> [lat,lng]
       try{
