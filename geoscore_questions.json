@@ -1,4 +1,3 @@
-  },
   {
     "question": "Name a mountain with an elevation over 8,000 meters",
     "answers": [
@@ -7,4 +6,1188 @@
       { "answer": "Kangchenjunga", "score": 30, "count": 30 },
       { "answer": "Lhotse", "score": 20, "count": 20 },
       { "answer": "Makalu", "score": 10, "count": 10 }
+  },
+  {
+    "question": "Name a world capital city beginning with the letter A",
+    "answers": [
+      {
+        "answer": "Abu Dhabi",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Abuja",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Accra",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Adamstown",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Addis Ababa",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Algiers",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Alofi",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Amman",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Amsterdam",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Andorra la Vella",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Ankara",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Antananarivo",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Apia",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Ashgabat",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Asmara",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Astana",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Asuncion",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Athens",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Avarua",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter B",
+    "answers": [
+      {
+        "answer": "Baghdad",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Baku",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bamako",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bandar Seri Begawan",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bangkok",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bangui",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Banjul",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Basse-Terre",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Basseterre",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Beijing",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Beirut",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Belgrade",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Belmopan",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Berlin",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bern",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bishkek",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bissau",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bogota",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Brasilia",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bratislava",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Brazzaville",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bridgetown",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Brussels",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bucharest",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Budapest",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Buenos Aires",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Bujumbura",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter C",
+    "answers": [
+      {
+        "answer": "Cairo",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Canberra",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Caracas",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Castries",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Cayenne",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Charlotte Amalie",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Chisinau",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Cockburn Town",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Colombo",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Conakry",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Copenhagen",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter D",
+    "answers": [
+      {
+        "answer": "Dakar",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Damascus",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Dhaka",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Diego Garcia",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Dili",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Djibouti",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Dodoma",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Doha",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Douglas",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Dublin",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Dushanbe",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter G",
+    "answers": [
+      {
+        "answer": "Gaborone",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "George Town",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Georgetown",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Gibraltar",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Grytviken",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Guatemala City",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Gustavia",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter H",
+    "answers": [
+      {
+        "answer": "Hagatna",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Hamilton",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Hanoi",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Harare",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Havana",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Helsinki",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Hong Kong",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Honiara",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter K",
+    "answers": [
+      {
+        "answer": "Kabul",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Kampala",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Kathmandu",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Khartoum",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Kiev",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Kigali",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Kingston",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Kingstown",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Kinshasa",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Kuala Lumpur",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Kuwait City",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter L",
+    "answers": [
+      {
+        "answer": "Libreville",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Lilongwe",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Lima",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Lisbon",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Ljubljana",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Lome",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "London",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Longyearbyen",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Luanda",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Lusaka",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Luxembourg",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter M",
+    "answers": [
+      {
+        "answer": "Macao",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Madrid",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Majuro",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Malabo",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Male",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Mamoudzou",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Managua",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Manama",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Manila",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Maputo",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Mariehamn",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Marigot",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Maseru",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Mata Utu",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Mbabane",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Melekeok",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Mexico City",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Minsk",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Mogadishu",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Monaco",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Monrovia",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Montevideo",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Moroni",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Moscow",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Muscat",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter N",
+    "answers": [
+      {
+        "answer": "N'Djamena",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Nairobi",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Nassau",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Nay Pyi Taw",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "New Delhi",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Niamey",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Nicosia",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Nouakchott",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Noumea",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Nuku'alofa",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Nuuk",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter P",
+    "answers": [
+      {
+        "answer": "Pago Pago",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Palikir",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Panama City",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Papeete",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Paramaribo",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Paris",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Philipsburg",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Phnom Penh",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Plymouth",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Podgorica",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Port Louis",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Port Moresby",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Port of Spain",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Port Vila",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Port-au-Prince",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Port-aux-Francais",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Porto-Novo",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Prague",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Praia",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Pretoria",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Pristina",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Pyongyang",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter R",
+    "answers": [
+      {
+        "answer": "Rabat",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Reykjavik",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Riga",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Riyadh",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Road Town",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Rome",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Roseau",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter S",
+    "answers": [
+      {
+        "answer": "Saint Helier",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Saint-Denis",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Saint-Pierre",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Saipan",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "San Jose",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "San Juan",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "San Marino",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "San Salvador",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Sanaa",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Santiago",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Santo Domingo",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Sao Tome",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Sarajevo",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Seoul",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Singapore",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Skopje",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Sofia",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "St Peter Port",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "St. George's",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "St. John's",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Stanley",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Stockholm",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Sucre",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Suva",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter T",
+    "answers": [
+      {
+        "answer": "Taipei",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Tallinn",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Tarawa",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Tashkent",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Tbilisi",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Tegucigalpa",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Tehran",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "The Valley",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Thimphu",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Tirana",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Tokyo",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Torshavn",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Tripoli",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Tunis",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter V",
+    "answers": [
+      {
+        "answer": "Vaduz",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Valletta",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Vatican City",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Victoria",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Vienna",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Vientiane",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Vilnius",
+        "score": 1,
+        "count": 1
+      }
+    ]
+  },
+  {
+    "question": "Name a world capital city beginning with the letter W",
+    "answers": [
+      {
+        "answer": "Warsaw",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Washington",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Wellington",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "West Island",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Willemstad",
+        "score": 1,
+        "count": 1
+      },
+      {
+        "answer": "Windhoek",
+        "score": 1,
+        "count": 1
+      }
     ]
