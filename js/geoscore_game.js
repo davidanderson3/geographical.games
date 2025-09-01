@@ -105,6 +105,38 @@ function createQuestionCard(q, idx, onAnswered, suggestList){
 }
 
 let currentGameType = 'country';
+function isUSStateName(name){
+  const n = String(name||'').toLowerCase();
+  const set = new Set([
+    'alabama','alaska','arizona','arkansas','california','colorado','connecticut','delaware','florida','georgia',
+    'hawaii','idaho','illinois','indiana','iowa','kansas','kentucky','louisiana','maine','maryland','massachusetts',
+    'michigan','minnesota','mississippi','missouri','montana','nebraska','nevada','new hampshire','new jersey',
+    'new mexico','new york','north carolina','north dakota','ohio','oklahoma','oregon','pennsylvania','rhode island',
+    'south carolina','south dakota','tennessee','texas','utah','vermont','virginia','washington','west virginia',
+    'wisconsin','wyoming','district of columbia'
+  ]);
+  return set.has(n);
+}
+export function categorizeQuestion(q){
+  const qraw = String(q && q.question || '');
+  const m = /^\s*Name a city in\s+(.+)$/i.exec(qraw);
+  if(m && m[1]){
+    const target = m[1].trim().replace(/^[Tt]he\s+/, '').replace(/[\s\.-]+$/,'');
+    const tnorm = target.toLowerCase();
+    if(isUSStateName(tnorm)){
+      if(tnorm==='georgia'){
+        const ans = ((q && q.answers) || []).map(a=> String(a && a.answer || '').toLowerCase());
+        const hints=['tbilisi','batumi','kutaisi','rustavi','poti','gori'];
+        const looksCountry = hints.some(h=> ans.some(x=> x.includes(h)));
+        return looksCountry ? 'country' : 'state';
+      }
+      return 'state';
+    }
+    return 'country';
+  }
+  if(/^\s*Name a world capital city beginning with the letter [a-z]/i.test(qraw)) return 'capital';
+  return 'other';
+}
 
 export async function initGeoScoreGame(){
   const mount = document.getElementById('geoscoreGame');
@@ -115,12 +147,10 @@ export async function initGeoScoreGame(){
   const tabs = document.getElementById('geoscoreGameSubtabs');
 
   const all = await loadQuestions();
-  const byType = { country: [], state: [] };
-  all.forEach(q => {
-    const cat = categorizeQuestion(q);
-    if(cat === 'State Cities' || cat === 'US States') byType.state.push(q);
-    else byType.country.push(q);
-  });
+
+  const byType = { country: [], state: [], capital: [] };
+  all.forEach(q=>{ const t=categorizeQuestion(q); if(t==='country') byType.country.push(q); else if(t==='state') byType.state.push(q); else if(t==='capital') byType.capital.push(q); });
+
 
   const header = document.createElement('div');
   const scoreEl = document.createElement('div');
@@ -161,7 +191,7 @@ export async function initGeoScoreGame(){
           tabs.querySelectorAll('.tab-button').forEach(b=>{ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
           btn.classList.add('active');
           btn.setAttribute('aria-selected','true');
-          currentGameType = (btn.dataset.mode==='us') ? 'state' : 'country';
+          currentGameType = (btn.dataset.mode==='us') ? 'state' : (btn.dataset.mode==='capitals' ? 'capital' : 'country');
           grid.innerHTML=''; total=0; answered=0; scoreEl.textContent='Score: 0';
           try{
             const url = new URL(location.href);
@@ -178,7 +208,7 @@ export async function initGeoScoreGame(){
           tabs.querySelectorAll('.tab-button').forEach(b=>{ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
           initBtn.classList.add('active');
           initBtn.setAttribute('aria-selected','true');
-          currentGameType = (initBtn.dataset.mode==='us') ? 'state' : 'country';
+          currentGameType = (initBtn.dataset.mode==='us') ? 'state' : (initBtn.dataset.mode==='capitals' ? 'capital' : 'country');
         }
       }catch{}
     }
