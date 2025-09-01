@@ -163,31 +163,33 @@ export async function initGeoScoreGame(){
   startBtn.addEventListener('click', buildRound);
   scoreEl.textContent = 'Score: 0';
 
-  if(tabs){
-    tabs.querySelectorAll('.subtab-button').forEach(btn=>{
-      btn.addEventListener('click', ()=>{
-        tabs.querySelectorAll('.subtab-button').forEach(b=>b.classList.remove('active'));
-        btn.classList.add('active');
-        currentGameType = (btn.dataset.mode==='us') ? 'state' : 'country';
-        grid.innerHTML=''; total=0; answered=0; scoreEl.textContent='Score: 0';
-        try{
-          const url = new URL(location.href);
-          url.searchParams.set('gs', btn.dataset.mode);
-          history.replaceState({ tab:'geoscoreGame', gs: btn.dataset.mode }, '', url);
-        }catch{}
+    if(tabs){
+      tabs.querySelectorAll('.tab-button').forEach(btn=>{
+        btn.addEventListener('click', ()=>{
+          tabs.querySelectorAll('.tab-button').forEach(b=>{ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
+          btn.classList.add('active');
+          btn.setAttribute('aria-selected','true');
+          currentGameType = (btn.dataset.mode==='us') ? 'state' : 'country';
+          grid.innerHTML=''; total=0; answered=0; scoreEl.textContent='Score: 0';
+          try{
+            const url = new URL(location.href);
+            url.searchParams.set('gs', btn.dataset.mode);
+            history.replaceState({ tab:'geoscoreGame', gs: btn.dataset.mode }, '', url);
+          }catch{}
+        });
       });
-    });
-    try{
-      const params = new URLSearchParams(location.search);
-      const gs = params.get('gs');
-      const initBtn = tabs.querySelector(`.subtab-button[data-mode="${gs}"]`) || tabs.querySelector('.subtab-button[data-mode="world"]');
-      if(initBtn){
-        tabs.querySelectorAll('.subtab-button').forEach(b=>b.classList.remove('active'));
-        initBtn.classList.add('active');
-        currentGameType = (initBtn.dataset.mode==='us') ? 'state' : 'country';
-      }
-    }catch{}
-  }
+      try{
+        const params = new URLSearchParams(location.search);
+        const gs = params.get('gs');
+        const initBtn = tabs.querySelector(`.tab-button[data-mode="${gs}"]`) || tabs.querySelector('.tab-button[data-mode="world"]');
+        if(initBtn){
+          tabs.querySelectorAll('.tab-button').forEach(b=>{ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
+          initBtn.classList.add('active');
+          initBtn.setAttribute('aria-selected','true');
+          currentGameType = (initBtn.dataset.mode==='us') ? 'state' : 'country';
+        }
+      }catch{}
+    }
 
   mount.dataset.initialized = '1';
 }

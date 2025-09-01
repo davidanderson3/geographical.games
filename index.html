@@ -37,9 +37,9 @@
       <div class="panel-header">
         <h2>GeoScore Game</h2>
       </div>
-      <div id="geoscoreGameSubtabs" style="display:flex; gap:8px; margin-bottom:8px;">
-        <button class="subtab-button active" data-mode="world">GeoScore World</button>
-        <button class="subtab-button" data-mode="us">GeoScore US</button>
+      <div id="geoscoreGameSubtabs" class="tabs" role="tablist">
+        <button role="tab" aria-selected="true" class="tab-button active" data-mode="world">World</button>
+        <button role="tab" aria-selected="false" class="tab-button" data-mode="us">US</button>
       </div>
       <div id="geoscoreGame"></div>
     </div>
