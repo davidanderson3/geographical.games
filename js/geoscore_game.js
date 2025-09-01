@@ -1,4 +1,4 @@
-import { loadQuestions } from './geoscore.js';
+import { loadQuestions, categorizeQuestion } from './geoscore.js';
 
 let usCitiesPromise;
 async function getUsCities(){
@@ -105,37 +105,6 @@ function createQuestionCard(q, idx, onAnswered, suggestList){
 }
 
 let currentGameType = 'country';
-function isUSStateName(name){
-  const n = String(name||'').toLowerCase();
-  const set = new Set([
-    'alabama','alaska','arizona','arkansas','california','colorado','connecticut','delaware','florida','georgia',
-    'hawaii','idaho','illinois','indiana','iowa','kansas','kentucky','louisiana','maine','maryland','massachusetts',
-    'michigan','minnesota','mississippi','missouri','montana','nebraska','nevada','new hampshire','new jersey',
-    'new mexico','new york','north carolina','north dakota','ohio','oklahoma','oregon','pennsylvania','rhode island',
-    'south carolina','south dakota','tennessee','texas','utah','vermont','virginia','washington','west virginia',
-    'wisconsin','wyoming','district of columbia'
-  ]);
-  return set.has(n);
-}
-function categorizeQuestion(q){
-  const qraw = String(q && q.question || '');
-  const m = /^\s*Name a city in\s+(.+)$/i.exec(qraw);
-  if(m && m[1]){
-    const target = m[1].trim().replace(/^[Tt]he\s+/, '').replace(/[\s\.-]+$/,'');
-    const tnorm = target.toLowerCase();
-    if(isUSStateName(tnorm)){
-      if(tnorm==='georgia'){
-        const ans = ((q && q.answers) || []).map(a=> String(a && a.answer || '').toLowerCase());
-        const hints=['tbilisi','batumi','kutaisi','rustavi','poti','gori'];
-        const looksCountry = hints.some(h=> ans.some(x=> x.includes(h)));
-        return looksCountry ? 'country' : 'state';
-      }
-      return 'state';
-    }
-    return 'country';
-  }
-  return 'other';
-}
 
 export async function initGeoScoreGame(){
   const mount = document.getElementById('geoscoreGame');
@@ -147,7 +116,11 @@ export async function initGeoScoreGame(){
 
   const all = await loadQuestions();
   const byType = { country: [], state: [] };
-  all.forEach(q=>{ const t=categorizeQuestion(q); if(t==='country') byType.country.push(q); else if(t==='state') byType.state.push(q); });
+  all.forEach(q => {
+    const cat = categorizeQuestion(q);
+    if(cat === 'State Cities' || cat === 'US States') byType.state.push(q);
+    else byType.country.push(q);
+  });
 
   const header = document.createElement('div');
   const scoreEl = document.createElement('div');
