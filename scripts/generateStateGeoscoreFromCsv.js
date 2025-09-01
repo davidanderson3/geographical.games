@@ -61,9 +61,14 @@ function parseCSV(text){
 
 const sigmoid = (z)=> 1/(1+Math.exp(-z));
 
+// Scale question scores to cover the full 0–100 range regardless of the
+// number of answers for a given state.  Previously this function capped the
+// maximum score around the 70–95 range which caused the generated city scores
+// to peak in the low twenties after later normalization.  Returning a constant
+// 100 ensures top cities are valued at 100 and others are distributed
+// proportionally beneath.
 function maxScoreForCount(n){
-  const capped = Math.min(Math.max(n, 0), 10);
-  return 70 + Math.round((capped / 10) * 25);
+  return 100;
 }
 
 async function main(){
