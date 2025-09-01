@@ -1,5 +1,13 @@
 import { loadQuestions } from './geoscore.js';
 
+export function normalizeAnswer(s){
+  return String(s || '')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .trim()
+    .toLowerCase();
+}
+
 function pickN(arr, n){
   const a = arr.slice();
   for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; }
@@ -26,23 +34,22 @@ function createQuestionCard(q, idx, onAnswered){
   const feedback = document.createElement('div');
   feedback.className = 'geoscore-feedback';
 
-  const norm = s => String(s||'').trim().toLowerCase();
-  const answers = (q.answers||[]).map(a => ({ raw:a, key: norm(a.answer) }));
+  const answers = (q.answers||[]).map(a => ({ raw:a, key: normalizeAnswer(a.answer) }));
   const answerSet = new Set(answers.map(a=>a.key));
 
   function updateSuggestions(val){
     while(datalist.firstChild) datalist.firstChild.remove();
-    const v = norm(val);
+    const v = normalizeAnswer(val);
     if(v.length < 5) return;
     const hits = answers.filter(a=> a.key.includes(v)).slice(0,20);
-    for(const h of hits){ const opt=document.createElement('option'); opt.value=h.raw.answer; datalist.appendChild(opt);}    
+    for(const h of hits){ const opt=document.createElement('option'); opt.value=h.raw.answer; datalist.appendChild(opt);}
   }
   input.addEventListener('input', () => updateSuggestions(input.value));
 
   let locked = false;
   function lock(){ input.disabled = true; skipBtn.disabled = true; locked = true; }
   function submit(){
-    const key = norm(input.value);
+    const key = normalizeAnswer(input.value);
     if(!key) return;
     input.value='';
     if(answerSet.has(key)){
