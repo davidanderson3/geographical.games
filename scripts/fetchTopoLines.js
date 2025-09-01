@@ -3,13 +3,10 @@
   Fetch a light "topo lines" layer per country from OpenStreetMap (Overpass)
   and write to geolayers-game/public/data/<ISO3>/roads.geojson.
 
-  Focus: only major highways by default (motorway, trunk, primary). Optional
-  flags allow adding secondary and railways. Includes rate-limit handling,
-  tiling, and optional line simplification to keep files small.
+  Focus: only major highways (motorway, trunk, primary). Includes rate-limit
+  handling, tiling, and optional line simplification to keep files small.
 
   Flags:
-    --include-secondary    Include highway=secondary
-    --include-rail         Include railway=rail
     --tile-deg=N           Tile size in degrees (default 10)
     --sleep=MS             Delay between tiles (default 1500)
     --simplify-km=K        RDP simplify tolerance in kilometers (e.g., 0.5)
@@ -61,14 +58,14 @@ const ALPHA2_BY_ALPHA3 = {
   KOR:'KR', ESP:'ES', SWE:'SE', CHE:'CH', TUR:'TR', GBR:'GB', USA:'US'
 };
 
-async function fetchOverpass(bbox, includeSecondary, includeRail, opts={}, iso3){
+async function fetchOverpass(bbox, opts={}, iso3){
   const [s,w,n,e] = bbox;
   const defaultEndpoints = [
     process.env.OVERPASS_URL,
     'https://overpass-api.de/api/interpreter',
     'https://overpass.kumi.systems/api/interpreter'
   ].filter(Boolean);
-  const hwBase = '^(motorway|trunk|primary' + (includeSecondary?'|secondary':'') + ')$';
+  const hwBase = '^(motorway|trunk|primary)$';
   const alpha2 = iso3 ? (ALPHA2_BY_ALPHA3[iso3] || '') : '';
   const useArea = opts.useArea !== false && !!iso3;
   const areaBlock = useArea ? `
@@ -83,7 +80,6 @@ async function fetchOverpass(bbox, includeSecondary, includeRail, opts={}, iso3)
   (
     way["highway"~"${hwBase}"]${useArea?'(area.a)':''}(${s},${w},${n},${e});
     relation["highway"~"${hwBase}"]${useArea?'(area.a)':''}(${s},${w},${n},${e});
-    ${includeRail ? `way["railway"~"^(rail)$"]${useArea?'(area.a)':''}(${s},${w},${n},${e}); relation["railway"~"^(rail)$"]${useArea?'(area.a)':''}(${s},${w},${n},${e});` : ''}
   );
   out geom;
   `;
@@ -113,8 +109,7 @@ function simplifyProps(tags){
   tags = tags || {};
   const name = tags.name || tags['name:en'] || null;
   const highway = tags.highway || null;
-  const railway = tags.railway || null;
-  return { name, highway, railway };
+  return { name, highway };
 }
 
 function osmToGeoJSON(osm, seen){
@@ -312,10 +307,10 @@ function subdivideBbox([s,w,n,e]){
 }
 
 async function processTile(bb, opts, depth=0){
-  const { includeSecondary, includeRail, simplifyKm, sleepMs, iso3, clipToOutlineMP, preferArea, debug, tileIndex, totalTiles } = opts;
+  const { simplifyKm, sleepMs, iso3, clipToOutlineMP, preferArea, debug, tileIndex, totalTiles } = opts;
   try{
     // First pass: try preferred mode (area+bbox or bbox-only)
-    let osm = await fetchOverpass(bb, includeSecondary, includeRail, { attempts: 6, retryDelayMs: 2500, useArea: !!preferArea }, iso3);
+    let osm = await fetchOverpass(bb, { attempts: 6, retryDelayMs: 2500, useArea: !!preferArea }, iso3);
     const gj = osmToGeoJSON(osm, opts.seen);
     let feats = (gj && gj.features) ? gj.features : [];
     if(debug){
@@ -325,7 +320,7 @@ async function processTile(bb, opts, depth=0){
     // If nothing returned, retry once with the opposite mode
     if(!feats.length){
       try{
-        osm = await fetchOverpass(bb, includeSecondary, includeRail, { attempts: 3, retryDelayMs: 2500, useArea: !preferArea }, iso3);
+        osm = await fetchOverpass(bb, { attempts: 3, retryDelayMs: 2500, useArea: !preferArea }, iso3);
         const gj2 = osmToGeoJSON(osm, opts.seen);
         feats = (gj2 && gj2.features) ? gj2.features : [];
         if(debug){
@@ -340,24 +335,12 @@ async function processTile(bb, opts, depth=0){
       let out = [];
       for(const sub of subs){
         try{
-          const part = await processTile(sub, { includeSecondary, includeRail, simplifyKm, sleepMs, seen: opts.seen, iso3, clipToOutlineMP, preferArea, debug }, depth+1);
+          const part = await processTile(sub, { simplifyKm, sleepMs, seen: opts.seen, iso3, clipToOutlineMP, preferArea, debug }, depth+1);
           out = out.concat(part);
         }catch(e){ /* swallow */ }
         if(sleepMs) await sleep(sleepMs);
       }
       feats = out;
-    }
-    // If still empty and we didn't include secondary, try widening highways
-    if(!feats.length && !includeSecondary){
-      try{
-        const osm3 = await fetchOverpass(bb, true, includeRail, { attempts: 3, retryDelayMs: 2500, useArea: !!preferArea }, iso3);
-        const gj3 = osmToGeoJSON(osm3, opts.seen);
-        feats = (gj3 && gj3.features) ? gj3.features : [];
-        if(debug){
-          const raw3 = Array.isArray(osm3 && osm3.elements) ? osm3.elements.length : 0;
-          console.log(`     widen highway(+secondary): elements=${raw3}, feats=${feats.length}`);
-        }
-      }catch{}
     }
     if (clipToOutlineMP) {
       const clipped=[];
@@ -378,17 +361,17 @@ async function processTile(bb, opts, depth=0){
       let out = [];
       for(const sub of subs){
         try{
-          const part = await processTile(sub, opts, depth+1);
+          const part = await processTile(sub, { simplifyKm, sleepMs, seen: opts.seen, iso3, clipToOutlineMP, preferArea, debug }, depth+1);
           out = out.concat(part);
         }catch(e){ /* swallow */ }
         if(sleepMs) await sleep(sleepMs);
       }
       if(out.length) return out;
     }
-    // Last resort: retry with stricter filters (no secondary/rail) and stronger simplify
+    // Last resort: retry with stronger simplify
     try{
-      const fallback = { includeSecondary:false, includeRail:false, simplifyKm: Math.max(simplifyKm, 1), sleepMs, seen: opts.seen, iso3, clipToOutlineMP };
-      const osm2 = await fetchOverpass(bb, false, false, { attempts: 4, retryDelayMs: 3000 }, iso3);
+      const fallbackSimplify = Math.max(simplifyKm, 1);
+      const osm2 = await fetchOverpass(bb, { attempts: 4, retryDelayMs: 3000 }, iso3);
       const gj2 = osmToGeoJSON(osm2, opts.seen);
       let feats2 = (gj2 && gj2.features) ? gj2.features : [];
       if (clipToOutlineMP) {
@@ -399,7 +382,7 @@ async function processTile(bb, opts, depth=0){
         }
         feats2 = clipped;
       }
-      feats2 = feats2.map(f=> ({ ...f, geometry: simplifyGeometry(f.geometry, fallback.simplifyKm) }));
+      feats2 = feats2.map(f=> ({ ...f, geometry: simplifyGeometry(f.geometry, fallbackSimplify) }));
       return feats2;
     }catch{
       return [];
@@ -409,8 +392,6 @@ async function processTile(bb, opts, depth=0){
 
 async function main(){
   const argv = process.argv.slice(2);
-  const includeSecondary = argv.includes('--include-secondary');
-  const includeRail = argv.includes('--include-rail');
   const preferNoArea = argv.includes('--no-area');
   const tileDegArg = argv.find(a=>a.startsWith('--tile-deg='));
   const tileDeg = tileDegArg ? Math.max(1, Math.min(20, Number(tileDegArg.split('=')[1])||10)) : 10;
@@ -425,8 +406,6 @@ async function main(){
   const targets = argv.filter(a=>/^[A-Z]{3}$/.test(a));
   const list = targets.length ? targets : getCountryList();
   let banner = `Fetching topo lines for ${list.length} countries...`;
-  if(includeSecondary) banner += ' +secondary';
-  if(includeRail) banner += ' +rail';
   if(simplifyKm) banner += ` simplify~${simplifyKm}km`;
   if(preferNoArea) banner += ' (bbox-only preferred)';
   banner += force ? ' (force overwrite)' : ' (skip existing)';
@@ -458,7 +437,7 @@ async function main(){
       const writer = createGeoJSONStreamWriter(outPath);
       for(let i=0;i<tiles.length;i++){
         const bb = tiles[i];
-        const feats = await processTile(bb, { includeSecondary, includeRail, simplifyKm, sleepMs, seen, iso3, clipToOutlineMP: clipMP, preferArea: !preferNoArea, debug, tileIndex: i+1, totalTiles: tiles.length });
+        const feats = await processTile(bb, { simplifyKm, sleepMs, seen, iso3, clipToOutlineMP: clipMP, preferArea: !preferNoArea, debug, tileIndex: i+1, totalTiles: tiles.length });
         writer.append(feats);
         total += feats.length;
         console.log(`   tile ${i+1}/${tiles.length}: +${feats.length} features`);
