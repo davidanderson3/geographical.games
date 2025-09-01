@@ -1,3 +1,6 @@
 node_modules/
 serviceAccountKey.json
 package-lock.json
+
+# heavy game data (kept out of git)
+geolayers-game/public/data/
