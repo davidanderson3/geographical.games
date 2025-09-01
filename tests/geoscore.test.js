@@ -1,5 +1,5 @@
 import { describe, it, expect, beforeEach } from 'vitest';
-import { loadQuestions, saveQuestions, DEFAULT_QUESTIONS } from '../js/geoscore.js';
+import { loadQuestions, saveQuestions, DEFAULT_QUESTIONS, categorizeQuestion } from '../js/geoscore.js';
 
 describe('geoscore persistence', () => {
   beforeEach(() => {
@@ -28,5 +28,10 @@ describe('geoscore persistence', () => {
     const loaded = await loadQuestions();
     expect(loaded[0]).toEqual(qs[0]);
     expect(loaded.length).toBeGreaterThan(qs.length);
+  });
+
+  it('categorizes elevation questions', () => {
+    const cat = categorizeQuestion({ question: 'What is the highest elevation point on Earth?' });
+    expect(cat).toBe('Elevation');
   });
 });
