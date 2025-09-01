@@ -50,4 +50,9 @@ describe('geoscore persistence', () => {
     const cat = categorizeQuestion({ question: 'What is the highest elevation point on Earth?' });
     expect(cat).toBe('Elevation');
   });
+
+  it('categorizes world capital letter questions', () => {
+    const cat = categorizeQuestion({ question: 'Name a world capital city beginning with the letter B' });
+    expect(cat).toBe('Country Capitals');
+  });
 });
