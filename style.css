@@ -1190,6 +1190,47 @@ h2 {
   color: #333;
 }
 
+#geoscoreGamePanel.main-layout {
+  justify-content: flex-start !important;
+  max-width: none !important;
+  margin: 0 !important;
+  width: 100% !important;
+}
+
+#geoscoreGamePanel .full-column {
+  flex: 1 1 100%;
+}
+
+#geoscoreGameSubtabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 8px;
+  border-bottom: 1px solid #cccccc;
+}
+
+#geoscoreGameSubtabs .tab-button {
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  border-radius: 0;
+  padding: 6px 12px;
+  font-size: 0.9rem;
+  color: #555;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+#geoscoreGameSubtabs .tab-button.active {
+  color: #000;
+  border-bottom-color: #7aa68c;
+  font-weight: 600;
+}
+
+#geoscoreGameSubtabs .tab-button:hover:not(.active) {
+  color: #000;
+  background: none;
+}
+
 #metricsPanel.main-layout {
   justify-content: flex-start !important;
   max-width: none !important;
