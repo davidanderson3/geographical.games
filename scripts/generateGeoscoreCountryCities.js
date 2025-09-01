@@ -82,39 +82,45 @@ function maxScoreForCount(n){
 
 function allocateMentions(cities){
   if(!cities.length){ return []; }
-  // Recall-like independent probabilities (per 100 guesses), not normalized to sum
+  // Initial weights based on population and name ease
   const sorted = cities.slice().sort((a,b)=> (Number(b.population)||0) - (Number(a.population)||0));
   const rankMap = new Map(); sorted.forEach((c,i)=> rankMap.set(c.name, i+1));
   const sigmoid = (z)=> 1/(1+Math.exp(-z));
   const nameEase = (n)=>{
-    const s=String(n||'');
+    const s = String(n||'');
     const letters = s.replace(/[^\p{L}]/gu,'');
     const ascii = letters.replace(/[^A-Za-z]/g,'');
-    const asciiRatio = letters.length? (ascii.length/letters.length) : 1;
+    const asciiRatio = letters.length ? (ascii.length/letters.length) : 1;
     const len = letters.length || s.length;
     let ease = 0.5 + 0.5*asciiRatio;
     if(len<=7) ease += 0.2; else if(len<=11) ease += 0.1;
     return Math.min(1.2, ease);
   };
   const A = 1.0, B = 2.5, C = 0.5, D = -8.0;
-  let results = cities.map(c => {
+  const raw = cities.map(c => {
     const pop = Math.max(1, Number(c.population)||1);
     const rr = 1/Math.sqrt(Math.max(1, rankMap.get(c.name)||1));
     const z = A*Math.log10(pop) + B*rr + C*nameEase(c.name) + D;
-    const p = Math.max(0, Math.min(100, Math.round(100*sigmoid(z))));
-    return { name: cleanName(c.name), score: p };
+    const p = Math.max(0, sigmoid(z)); // 0..1 weight
+    return { name: cleanName(c.name), weight: p };
   });
-  if(results.length){
-    const maxRaw = Math.max(...results.map(r=>r.score));
-    const minRaw = Math.min(...results.map(r=>r.score));
-    const range = maxRaw - minRaw || 1;
-    const maxScore = maxScoreForCount(results.length);
-    results = results.map(r=>{
-      const s = Math.round(((r.score - minRaw) / range) * maxScore);
-      return { name: r.name, score: s, count: s };
-    });
+  const totalW = raw.reduce((s,r)=>s+r.weight,0) || 1;
+  let alloc = raw.map(r=>({ name:r.name, count:(r.weight/totalW)*TOT_MENTIONS_PER_COUNTRY }));
+  // Round counts and adjust to ensure total equals TOT_MENTIONS_PER_COUNTRY
+  alloc = alloc.map(r=>({ name:r.name, count:Math.round(r.count) }));
+  let diff = TOT_MENTIONS_PER_COUNTRY - alloc.reduce((s,r)=>s+r.count,0);
+  while(diff!==0 && alloc.length){
+    const step = diff>0 ? 1 : -1;
+    const idx = diff>0 ? alloc.findIndex(()=>true) : alloc.findIndex(r=>r.count>0);
+    if(idx<0) break;
+    alloc[idx].count += step;
+    diff -= step;
   }
-  return results;
+  // Remove zero-count entries
+  alloc = alloc.filter(r=>r.count>0);
+  const maxCount = Math.max(...alloc.map(r=>r.count),0) || 1;
+  const maxScore = maxScoreForCount(alloc.length);
+  return alloc.map(r=>({ name:r.name, count:r.count, score: Math.round((r.count/maxCount)*maxScore) }));
 }
 
 function mergeIntoFile(existing, newQs){
