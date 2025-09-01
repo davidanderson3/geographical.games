@@ -1265,6 +1265,7 @@ h2 {
   text-align: left;
   border: none;
   background: transparent;
+  color: #000;
   padding: 4px;
   cursor: pointer;
 }
