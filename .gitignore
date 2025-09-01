@@ -3,3 +3,4 @@ serviceAccountKey.json
 geolayers-game/public/data/*
 wiki_cache.json
 backup.json
+states_wiki/*
