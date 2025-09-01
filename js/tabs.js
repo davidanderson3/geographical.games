@@ -1,5 +1,6 @@
 function initTabs() {
-  const buttons = Array.from(document.querySelectorAll('.tab-button'));
+  // Only select top-level tab buttons that control main panels
+  const buttons = Array.from(document.querySelectorAll('.tab-button[data-target]'));
   const panels = {
     geoscorePanel: document.getElementById('geoscorePanel'),
     geoscoreGamePanel: document.getElementById('geoscoreGamePanel'),
@@ -19,6 +20,7 @@ function initTabs() {
   const paramToId = (p) => (p === 'geolayers' ? 'geolayersPanel' : (p==='geoscoreGame'?'geoscoreGamePanel':'geoscorePanel'));
 
   function setActive(targetId, push) {
+    if (!panels[targetId]) return;
     // Update tab styles and panels
     buttons.forEach(b => b.classList.toggle('active', b.dataset.target === targetId));
     Object.entries(panels).forEach(([id, el]) => {
