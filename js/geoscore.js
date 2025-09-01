@@ -75,6 +75,49 @@ function generateCountryLetterQuestions(){
   return questions;
 }
 
+function generateCapitalLetterQuestions(){
+  const capitals = [
+    'Abu Dhabi','Abuja','Accra','Addis Ababa','Algiers','Amman','Amsterdam','Ankara','Antananarivo','Apia','Ashgabat','Asmara','Astana','Asuncion','Athens',
+    'Bangkok','Beijing','Beirut','Belgrade','Belmopan','Berlin','Bern','Bishkek','Bissau','Bogota','Brasilia','Bratislava','Brazzaville','Bridgetown','Brussels','Bucharest','Budapest','Buenos Aires','Bujumbura',
+    'Cairo','Canberra','Caracas','Castries','Cayenne','Charlotte Amalie','Chisinau','Conakry','Copenhagen',
+    'Damascus','Dhaka','Dili','Djibouti','Dodoma','Doha','Dublin','Dushanbe',
+    'Gaborone','George Town','Georgetown','Gitega','Guatemala City','Gustavia',
+    'Hanoi','Harare','Havana','Helsinki','Honiara',
+    'Kabul','Kampala','Kathmandu','Khartoum','Kigali','Kingston','Kingstown','Kinshasa','Kuala Lumpur','Kuwait City',
+    'La Paz','Libreville','Lilongwe','Lima','Lisbon','Ljubljana','Lomé','London','Luxembourg','Lusaka',
+    'Madrid','Majuro','Malabo','Male','Manila','Maputo','Maseru','Mbabane','Mexico City','Minsk','Mogadishu','Monaco','Monrovia','Montevideo','Moroni','Moscow','Muscat',
+    'Nairobi','Nassau','Naypyidaw','Ngerulmud','Niamey','Nicosia','Nouakchott','Noumea','Nuku\'alofa','Nuuk',
+    'Panama City','Paramaribo','Paris','Phnom Penh','Podgorica','Port-au-Prince','Port Louis','Port Moresby','Porto-Novo','Prague','Praia','Pretoria','Pristina','Pyongyang','Palikir',
+    'Rabat','Reykjavik','Riga','Riyadh','Rome','Roseau',
+    'San Jose','San Marino','San Salvador','Sana\'a','Santiago','Santo Domingo','Sao Tome','Sarajevo','Seoul','Singapore','Skopje','Sofia','South Tarawa','Sri Jayawardenepura Kotte','Stockholm','Sucre','Suva',
+    'Tallinn','Tashkent','Tbilisi','Tegucigalpa','Tehran','Thimphu','Tirana','Tokyo','Tripoli','Tunis','Torshavn','Taipei',
+    'Vaduz','Valletta','Vatican City','Victoria','Vienna','Vientiane','Vilnius',
+    'Warsaw','Washington','Wellington','West Island','Willemstad','Windhoek'
+  ];
+  const byLetter = {};
+  capitals.forEach(c => {
+    const letter = c[0].toUpperCase();
+    if(!byLetter[letter]) byLetter[letter] = [];
+    byLetter[letter].push(c);
+  });
+  const questions = [];
+  for(const [letter, list] of Object.entries(byLetter)){
+    const sorted = list.sort();
+    if(sorted.length >= 5){
+      const answers = sorted.map((name,i)=>({
+        answer: name,
+        score: Math.max(1,10-i),
+        count: Math.max(1,10-i)
+      }));
+      questions.push({
+        question: `Name a world capital city beginning with the letter ${letter}`,
+        answers
+      });
+    }
+  }
+  return questions;
+}
+
 const BASE_DEFAULT_QUESTIONS = [
   {
     question: 'Name a country in South America',
@@ -118,7 +161,8 @@ const BASE_DEFAULT_QUESTIONS = [
   }
 ];
 
-export const DEFAULT_QUESTIONS = BASE_DEFAULT_QUESTIONS.concat(generateCountryLetterQuestions());
+export const DEFAULT_QUESTIONS = BASE_DEFAULT_QUESTIONS
+  .concat(generateCountryLetterQuestions(), generateCapitalLetterQuestions());
 normalizeAllQuestions(DEFAULT_QUESTIONS);
 const US_STATE_SET = new Set([
   'alabama','alaska','arizona','arkansas','california','colorado','connecticut','delaware','florida','georgia',
@@ -149,6 +193,7 @@ export function categorizeQuestion(qobj){
     return 'Country Cities';
   }
   if(q.includes('elevation') || q.includes('altitude') || q.includes('highest point') || q.includes('lowest point')) return 'Elevation';
+  if(/^name a world capital city beginning with the letter [a-z]/i.test(qraw)) return 'Country Capitals';
   if(q.includes('european capital')) return 'European Capitals';
   if(q.includes('capital')) return 'Capital Cities';
   if(q.includes('u.s. state')) return 'US States';
@@ -174,6 +219,13 @@ function getAnswerOverride(questionKey, originalAnswer){
 function augmentWithCountryLetterQuestions(list){
   const existing = new Set((Array.isArray(list)?list:[]).map(q=>q && q.question));
   for(const q of generateCountryLetterQuestions()){
+    if(!existing.has(q.question)) list.push(q);
+  }
+}
+
+function augmentWithCapitalLetterQuestions(list){
+  const existing = new Set((Array.isArray(list)?list:[]).map(q=>q && q.question));
+  for(const q of generateCapitalLetterQuestions()){
     if(!existing.has(q.question)) list.push(q);
   }
 }
@@ -204,6 +256,7 @@ export async function loadQuestions() {
       }
       normalizeAllQuestions(data);
       augmentWithCountryLetterQuestions(data);
+      augmentWithCapitalLetterQuestions(data);
       saveQuestions(data);
       return data;
     }
@@ -211,6 +264,7 @@ export async function loadQuestions() {
   if (Array.isArray(cached) && cached.length) {
     normalizeAllQuestions(cached);
     augmentWithCountryLetterQuestions(cached);
+    augmentWithCapitalLetterQuestions(cached);
     return cached;
   }
   // If nothing stored, seed with defaults
