@@ -140,6 +140,29 @@ function saveCache(cache){
   fs.writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2), "utf8");
 }
 
+function validateRows(rows){
+  for(const [i,row] of rows.entries()){
+    if(typeof row.stusps !== "string" || row.stusps.length !== 2){
+      throw new Error(`Row ${i} invalid stusps: ${row.stusps}`);
+    }
+    if(!/^\d+$/.test(String(row.geoid||""))){
+      throw new Error(`Row ${i} invalid geoid: ${row.geoid}`);
+    }
+    if(typeof row.basename !== "string" || row.basename.trim()===""){
+      throw new Error(`Row ${i} missing basename`);
+    }
+    if(typeof row.pop2020 !== "number" || isNaN(row.pop2020)){
+      throw new Error(`Row ${i} invalid pop2020`);
+    }
+    if(typeof row.est_mentions !== "number" || isNaN(row.est_mentions)){
+      throw new Error(`Row ${i} invalid est_mentions`);
+    }
+    if(typeof row.est_share !== "number" || isNaN(row.est_share)){
+      throw new Error(`Row ${i} invalid est_share`);
+    }
+  }
+}
+
 function buildWikiTitles(stateRows, st){
   return stateRows.map(r=>`${r.basename.trim()}, ${st}`);
 }
@@ -332,6 +355,8 @@ async function main(){
   }
 
   outputRows.sort((a,b)=> a.stusps.localeCompare(b.stusps) || a.pop_rank-b.pop_rank);
+
+  validateRows(outputRows);
 
   const headers = ["stusps","geoid","basename","type","LSADC","FUNCSTAT","pop2020","wiki_title","wiki_len","pop_rank","est_mentions","est_share","NAME"];
   if(!fs.existsSync("states_wiki")) fs.mkdirSync("states_wiki",{recursive:true});
