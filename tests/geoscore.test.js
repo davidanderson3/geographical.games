@@ -16,18 +16,18 @@ describe('geoscore persistence', () => {
     expect(await loadQuestions()).toEqual(DEFAULT_QUESTIONS);
   });
 
-  it('clamps answer scores to 0-100 range', async () => {
+  it('clamps answer scores to 0-95 range', async () => {
     const qs = [{
       question: 'Capital of France?',
       answers: [
-        { answer: 'Paris', score: 1, count: 2 },
-        { answer: 'Lyon', score: 0, count: 1 }
+        { answer: 'Paris', score: 200, count: 200 },
+        { answer: 'Lyon', score: -5, count: -5 }
       ]
     }];
     saveQuestions(qs);
     const loaded = await loadQuestions();
     const q = loaded.find(x => x.question === 'Capital of France?');
-    expect(q.answers[0]).toEqual({ answer: 'Paris', score: 1, count: 1 });
+    expect(q.answers[0]).toEqual({ answer: 'Paris', score: 95, count: 95 });
     expect(q.answers[1]).toEqual({ answer: 'Lyon', score: 0, count: 0 });
     expect(loaded.length).toBeGreaterThan(qs.length);
   });
