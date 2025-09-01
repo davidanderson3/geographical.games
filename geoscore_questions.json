@@ -1,3 +1,11 @@
+  {
+    "question": "Name a mountain with an elevation over 8,000 meters",
+    "answers": [
+      { "answer": "Mount Everest", "score": 50, "count": 50 },
+      { "answer": "K2", "score": 40, "count": 40 },
+      { "answer": "Kangchenjunga", "score": 30, "count": 30 },
+      { "answer": "Lhotse", "score": 20, "count": 20 },
+      { "answer": "Makalu", "score": 10, "count": 10 }
   },
   {
     "question": "Name a world capital city beginning with the letter A",
