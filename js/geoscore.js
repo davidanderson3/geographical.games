@@ -2,6 +2,33 @@ const STORAGE_KEY = 'geoscoreQuestions';
 const ANSWER_OVERRIDES_KEY = 'geoscoreAnswerOverrides';
 const EXCLUSIONS_KEY = 'geoscoreExclusions'; // { CategoryName: { normalizedName: true } }
 
+function normalizeQuestionScores(q){
+  const answers = Array.isArray(q && q.answers) ? q.answers : [];
+  const scores = answers.map(a => Number(a && a.score));
+  const valid = scores.filter(s => !isNaN(s));
+  if(!valid.length){
+    answers.forEach(a => { a.score = 100; a.count = 100; });
+    return q;
+  }
+  const min = Math.min(...valid);
+  const max = Math.max(...valid);
+  const range = max - min;
+  answers.forEach(a => {
+    let s = Number(a && a.score);
+    if(isNaN(s)) s = 100;
+    else if(range > 0) s = ((s - min) / range) * 100;
+    else s = 100;
+    s = Math.round(Math.max(0, Math.min(100, s)));
+    a.score = s;
+    a.count = s;
+  });
+  return q;
+}
+
+function normalizeAllQuestions(list){
+  (Array.isArray(list)?list:[]).forEach(normalizeQuestionScores);
+}
+
 function generateCountryLetterQuestions(){
   const countries = [
     'Afghanistan','Albania','Algeria','Andorra','Angola','Antigua and Barbuda','Argentina','Armenia','Australia','Austria','Azerbaijan',
@@ -99,6 +126,7 @@ const BASE_DEFAULT_QUESTIONS = [
 ];
 
 export const DEFAULT_QUESTIONS = BASE_DEFAULT_QUESTIONS.concat(generateCountryLetterQuestions());
+normalizeAllQuestions(DEFAULT_QUESTIONS);
 const US_STATE_SET = new Set([
   'alabama','alaska','arizona','arkansas','california','colorado','connecticut','delaware','florida','georgia',
   'hawaii','idaho','illinois','indiana','iowa','kansas','kentucky','louisiana','maine','maryland','massachusetts',
@@ -181,12 +209,14 @@ export async function loadQuestions() {
           }
         }
       }
+      normalizeAllQuestions(data);
       augmentWithCountryLetterQuestions(data);
       saveQuestions(data);
       return data;
     }
   } catch {}
   if (Array.isArray(cached) && cached.length) {
+    normalizeAllQuestions(cached);
     augmentWithCountryLetterQuestions(cached);
     return cached;
   }
