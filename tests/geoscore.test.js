@@ -13,7 +13,9 @@ describe('geoscore persistence', () => {
   });
 
   it('provides default questions when storage is empty', async () => {
-    expect(await loadQuestions()).toEqual(DEFAULT_QUESTIONS);
+    const qs = await loadQuestions();
+    expect(qs).toEqual(DEFAULT_QUESTIONS);
+    expect(qs.some(q => /^Name a world capital city beginning with the letter /i.test(q.question))).toBe(true);
   });
 
   it('clamps answer scores to 0-100 range', async () => {

@@ -267,9 +267,13 @@ export async function loadQuestions() {
     augmentWithCapitalLetterQuestions(cached);
     return cached;
   }
-  // If nothing stored, seed with defaults
-  saveQuestions(DEFAULT_QUESTIONS);
-  return JSON.parse(JSON.stringify(DEFAULT_QUESTIONS));
+  // If nothing stored, seed with defaults and generated questions
+  const seeded = JSON.parse(JSON.stringify(DEFAULT_QUESTIONS));
+  normalizeAllQuestions(seeded);
+  augmentWithCountryLetterQuestions(seeded);
+  augmentWithCapitalLetterQuestions(seeded);
+  saveQuestions(seeded);
+  return seeded;
 }
 
 export function saveQuestions(qs) {
