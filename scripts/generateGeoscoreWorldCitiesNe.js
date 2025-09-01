@@ -92,13 +92,23 @@ function allocScoresRecall(cities){
   };
   // Calibrated coefficients: interpret as expected recalls per 100 guesses
   const A = 1.0, B = 2.5, C = 0.5, D = -8.0; // z = A*log10(pop) + B*(1/sqrt(rank)) + C*nameEase + D
-  return cities.map(c => {
+  let results = cities.map(c => {
     const pop = Math.max(1, Number(c.population)||1);
     const rr = 1/Math.sqrt(Math.max(1, rankMap.get(c.name)||1));
     const z = A*Math.log10(pop) + B*rr + C*nameEase(c.name) + D;
     const p = Math.max(0, Math.min(100, Math.round(100*sigmoid(z))));
-    return { answer: cleanName(c.name), score: p, count: p };
+    return { answer: cleanName(c.name), score: p };
   });
+  if(results.length){
+    const maxScore = Math.max(...results.map(r=>r.score));
+    const minScore = Math.min(...results.map(r=>r.score));
+    const range = maxScore - minScore || 1;
+    results = results.map(r=>{
+      const s = Math.round(((r.score - minScore) / range) * 100);
+      return { answer: r.answer, score: s, count: s };
+    });
+  }
+  return results;
 }
 
 function mergeInto(existing, newQs){
