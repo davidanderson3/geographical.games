@@ -1,4 +1,4 @@
-import { loadQuestions, categorizeQuestion } from './geoscore.js';
+import { loadQuestions } from './geoscore.js';
 
 let usCitiesPromise;
 async function getUsCities(){
@@ -134,6 +134,7 @@ export function categorizeQuestion(q){
     }
     return 'country';
   }
+  if(/^\s*Name a country\b/i.test(qraw)) return 'country';
   if(/^\s*Name a world capital city beginning with the letter [a-z]/i.test(qraw)) return 'capital';
   return 'other';
 }
