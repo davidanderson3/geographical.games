@@ -39,13 +39,17 @@ function generateCountryLetterQuestions(){
   const questions = [];
   for(const letter of letters){
     const list = (byLetter[letter] || []).sort();
-    const answers = list.slice(0,5).map((name,i)=>({
+    const answers = list.map((name,i)=>({
       answer: name,
       score: Math.max(1,10-i),
       count: Math.max(1,10-i)
     }));
     if(!answers.length){
       answers.push({ answer: 'None', score: 10, count: 10 });
+    }
+    while(answers.length < 5){
+      const i = answers.length;
+      answers.push({ answer: 'None', score: Math.max(1,10-i), count: Math.max(1,10-i) });
     }
     questions.push({
       question: `Name a country that starts with ${letter}`,
