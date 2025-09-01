@@ -15,25 +15,35 @@ async function initGeolayersAdmin(){
   try{
     const res = await fetch('geolayers-game/public/countries.json');
     const data = await res.json();
-    const dl = document.getElementById('glCountries');
+    const list = document.getElementById('glList');
     const input = document.getElementById('glCountry');
-    const codeByName = new Map();
-    const codeSet = new Set();
     data.sort((a,b)=>a.name.localeCompare(b.name));
     for(const c of data){
-      const opt = document.createElement('option');
-      opt.value = c.name; dl.appendChild(opt);
-      codeByName.set(c.name.toLowerCase(), c.code); codeSet.add(c.code.toLowerCase());
+      const btn = document.createElement('button');
+      btn.textContent = c.name;
+      btn.dataset.iso3 = c.code;
+      btn.addEventListener('click', ()=>{
+        input.value = c.code;
+        list.querySelectorAll('button').forEach(b=>b.classList.remove('active'));
+        btn.classList.add('active');
+        sendCountryUpdate();
+        updateApproveUIFromStorage();
+      });
+      list.appendChild(btn);
     }
-    input.dataset._codeMap = JSON.stringify(Object.fromEntries(codeByName));
+    try{
+      const saved = localStorage.getItem(LS_KEYS.country);
+      if(saved){
+        input.value = saved;
+        const btn = list.querySelector(`button[data-iso3="${saved}"]`);
+        if(btn) btn.classList.add('active');
+      }
+    }catch{}
   }catch{}
 
   function resolveISO3(val){
-    const nameMap = JSON.parse(document.getElementById('glCountry').dataset._codeMap || '{}');
-    const n = String(val||'').trim().toLowerCase();
-    if(!n) return '';
-    if(n.length===3) return n.toUpperCase();
-    return nameMap[n] || '';
+    const n = String(val||'').trim().toUpperCase();
+    return n.length === 3 ? n : '';
   }
 
   function getCurrentISO3(){
@@ -74,6 +84,7 @@ async function initGeolayersAdmin(){
       }catch{}
       if(mode==='admin'){
         controls.style.display='flex';
+        document.getElementById('glList').style.display='block';
         // Build from saved state instead of forcing 'rivers'
         const savedLayers = (localStorage.getItem(LS_KEYS.layers) || 'rivers');
         const savedCountry = localStorage.getItem(LS_KEYS.country) || '';
@@ -86,6 +97,7 @@ async function initGeolayersAdmin(){
         updateApproveUIFromStorage();
       }else{
         controls.style.display='none';
+        document.getElementById('glList').style.display='none';
         const url = new URL('geolayers-game/public/index.v20250901.html', location.href);
         url.searchParams.set('layers','rivers');
         frame.src = url.toString();
@@ -132,23 +144,7 @@ async function initGeolayersAdmin(){
     chk.addEventListener('change', sendLayerUpdate);
   });
 
-  // Live update on country input (debounced); use postMessage instead of reloading iframe
-  const countryInput = document.getElementById('glCountry');
-  let t=null;
-  countryInput.addEventListener('input', ()=>{ if(t) clearTimeout(t); t=setTimeout(()=>{ sendCountryUpdate(); updateApproveUIFromStorage(); }, 700); });
-  countryInput.addEventListener('change', ()=>{ sendCountryUpdate(); updateApproveUIFromStorage(); });
-
-  // Restore saved state for country, layers, approvals
-  try{
-    const savedCountry = localStorage.getItem(LS_KEYS.country);
-    if(savedCountry){
-      // Try to set a friendly country name if present in datalist map
-      const nameMap = JSON.parse(document.getElementById('glCountry').dataset._codeMap || '{}');
-      const entry = Object.entries(nameMap).find(([,code])=>code===savedCountry);
-      if(entry){ countryInput.value = entry[0]; }
-      else { countryInput.value = savedCountry; }
-    }
-  }catch{}
+  // Restore saved state for layers, approvals
   try{
     const savedLayers = (localStorage.getItem(LS_KEYS.layers) || 'rivers').split(',').map(s=>s.trim()).filter(Boolean);
     document.querySelectorAll('.gl-layer').forEach(chk=>{ chk.checked = savedLayers.includes(chk.value); });
