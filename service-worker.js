@@ -6,7 +6,7 @@ const OFFLINE_URLS = [
   './js/geoscore.js',
   './js/tabs.js',
   // GeoLayers entry (assets within load dynamically)
-  './geolayers-game/public/index.html',
+  './geolayers-game/public/index.v20250901.html',
   './geolayers-game/public/style.css'
 ];
 
