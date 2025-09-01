@@ -1,5 +1,19 @@
 import { loadQuestions } from './geoscore.js';
 
+let usCitiesPromise;
+async function getUsCities(){
+  if(!usCitiesPromise){
+    try{
+      usCitiesPromise = fetch('us_cities.json', { cache: 'no-store' })
+        .then(res => res.ok ? res.json() : [])
+        .catch(()=>[]);
+    }catch{
+      usCitiesPromise = Promise.resolve([]);
+    }
+  }
+  return usCitiesPromise;
+}
+
 export function normalizeAnswer(s){
   return String(s || '')
     .normalize('NFD')
@@ -14,7 +28,7 @@ function pickN(arr, n){
   return a.slice(0, n);
 }
 
-function createQuestionCard(q, idx, onAnswered){
+function createQuestionCard(q, idx, onAnswered, suggestList){
   const wrap = document.createElement('div');
   wrap.className = 'geoscore-qcard';
   const title = document.createElement('div');
@@ -36,12 +50,16 @@ function createQuestionCard(q, idx, onAnswered){
 
   const answers = (q.answers||[]).map(a => ({ raw:a, key: normalizeAnswer(a.answer) }));
   const answerSet = new Set(answers.map(a=>a.key));
+  const suggestions = (suggestList || q.answers || []).map(a => {
+    const raw = typeof a === 'string' ? { answer: a } : a;
+    return { raw, key: normalizeAnswer(raw.answer) };
+  });
 
   function updateSuggestions(val){
     while(datalist.firstChild) datalist.firstChild.remove();
     const v = normalizeAnswer(val);
     if(v.length < 5) return;
-    const hits = answers.filter(a=> a.key.includes(v)).slice(0,20);
+    const hits = suggestions.filter(a=> a.key.includes(v)).slice(0,20);
     for(const h of hits){ const opt=document.createElement('option'); opt.value=h.raw.answer; datalist.appendChild(opt);}
   }
   input.addEventListener('input', () => updateSuggestions(input.value));
@@ -142,7 +160,7 @@ export async function initGeoScoreGame(){
   const grid = document.createElement('div');
   grid.style.display='grid'; grid.style.gridTemplateColumns='1fr'; grid.style.gap='10px';
   mount.appendChild(grid);
-  function buildRound(){
+  async function buildRound(){
     const pool = byType[currentGameType] || [];
     const picked = pickN(pool, Math.min(6, pool.length));
     const maxPossible = picked.reduce((sum, q) => {
@@ -150,17 +168,18 @@ export async function initGeoScoreGame(){
       return sum + (isFinite(max) ? max : 0);
     }, 0);
     grid.innerHTML=''; total=0; answered=0; scoreEl.textContent = `Score: 0 / ${maxPossible}`;
+    const sugg = currentGameType === 'state' ? await getUsCities() : null;
     picked.forEach((q, i) =>{
       const card = createQuestionCard(q, i, (res)=>{
         if(!res) return;
         answered += 1;
         total += res.score||0;
         scoreEl.textContent = `Score: ${total} / ${maxPossible}`;
-      });
+      }, sugg);
       grid.appendChild(card);
     });
   }
-  startBtn.addEventListener('click', buildRound);
+  startBtn.addEventListener('click', () => { buildRound(); });
   scoreEl.textContent = 'Score: 0';
 
     if(tabs){
