@@ -61,6 +61,11 @@ function parseCSV(text){
 
 const sigmoid = (z)=> 1/(1+Math.exp(-z));
 
+function maxScoreForCount(n){
+  const capped = Math.min(Math.max(n, 0), 10);
+  return 70 + Math.round((capped / 10) * 25);
+}
+
 async function main(){
   const argv = process.argv.slice(2);
   const minPopArg = argv.find(a=>a.startsWith('--min-pop='));
@@ -125,11 +130,12 @@ async function main(){
       return { answer: title, score: p, count: p };
     });
     if(answers.length){
-      const maxScore = Math.max(...answers.map(a=>a.score));
-      const minScore = Math.min(...answers.map(a=>a.score));
-      const range = maxScore - minScore || 1;
+      const maxRaw = Math.max(...answers.map(a=>a.score));
+      const minRaw = Math.min(...answers.map(a=>a.score));
+      const range = maxRaw - minRaw || 1;
+      const maxScore = maxScoreForCount(answers.length);
       answers = answers.map(a=>{
-        const s = Math.round(((a.score - minScore) / range) * 100);
+        const s = Math.round(((a.score - minRaw) / range) * maxScore);
         return { answer: a.answer, score: s, count: s };
       });
     }
