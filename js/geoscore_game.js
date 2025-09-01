@@ -1,4 +1,4 @@
-import { loadQuestions } from './geoscore.js';
+import { loadQuestions, categorizeQuestion } from './geoscore.js';
 
 let usCitiesPromise;
 async function getUsCities(){
@@ -147,8 +147,10 @@ export async function initGeoScoreGame(){
   const tabs = document.getElementById('geoscoreGameSubtabs');
 
   const all = await loadQuestions();
+
   const byType = { country: [], state: [], capital: [] };
   all.forEach(q=>{ const t=categorizeQuestion(q); if(t==='country') byType.country.push(q); else if(t==='state') byType.state.push(q); else if(t==='capital') byType.capital.push(q); });
+
 
   const header = document.createElement('div');
   const scoreEl = document.createElement('div');
