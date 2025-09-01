@@ -9,6 +9,8 @@
   Usage:
     node scripts/fetchRiversToGeoJSON.js [ISO3 ...]
   If no ISO3 args are given, it processes all countries in geolayers-game/public/countries.json
+  Rivers are clipped to each country's outline by default. Pass --no-clip to keep
+  original geometries.
 */
 
 const fs = require('fs');
@@ -273,7 +275,9 @@ async function main(){
   const minKmArg = argv.find(a=>a.startsWith('--min-km='));
   const minKm = minKmArg ? Math.max(0, Number(minKmArg.split('=')[1])||0) : 0;
   const namedOnly = argv.includes('--named-only');
-  const clipToOutline = argv.includes('--clip-to-outline');
+  // Rivers are clipped to the country's outline by default to avoid
+  // stray segments leaking across borders. Use --no-clip to disable.
+  const clipToOutline = !argv.includes('--no-clip');
   const minBytesArg = argv.find(a=>a.startsWith('--min-bytes='));
   const minBytes = minBytesArg ? Math.max(1, Number(minBytesArg.split('=')[1])||1024) : 1024;
   const force = argv.includes('--force');
@@ -284,7 +288,7 @@ async function main(){
   if (includeIntermittent) banner += ' +intermittent';
   if (minKm) banner += ' min ' + minKm + 'km';
   if (namedOnly) banner += ' named-only';
-  banner += clipToOutline ? ' clip-to-outline' : '';
+  banner += clipToOutline ? '' : ' no-clip';
   banner += force ? ' (force overwrite)' : ' (skip existing)';
   console.log(banner);
   for(const iso3 of list){
