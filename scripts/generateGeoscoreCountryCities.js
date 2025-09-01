@@ -75,6 +75,11 @@ function cleanName(name){
   return n;
 }
 
+function maxScoreForCount(n){
+  const capped = Math.min(Math.max(n, 0), 10);
+  return 70 + Math.round((capped / 10) * 25);
+}
+
 function allocateMentions(cities){
   if(!cities.length){ return []; }
   // Recall-like independent probabilities (per 100 guesses), not normalized to sum
@@ -100,11 +105,12 @@ function allocateMentions(cities){
     return { name: cleanName(c.name), score: p };
   });
   if(results.length){
-    const maxScore = Math.max(...results.map(r=>r.score));
-    const minScore = Math.min(...results.map(r=>r.score));
-    const range = maxScore - minScore || 1;
+    const maxRaw = Math.max(...results.map(r=>r.score));
+    const minRaw = Math.min(...results.map(r=>r.score));
+    const range = maxRaw - minRaw || 1;
+    const maxScore = maxScoreForCount(results.length);
     results = results.map(r=>{
-      const s = Math.round(((r.score - minScore) / range) * 100);
+      const s = Math.round(((r.score - minRaw) / range) * maxScore);
       return { name: r.name, score: s, count: s };
     });
   }
