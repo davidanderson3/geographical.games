@@ -1259,6 +1259,20 @@ h2 {
   background: transparent !important;
 }
 
+#glList button {
+  display: block;
+  width: 100%;
+  text-align: left;
+  border: none;
+  background: transparent;
+  padding: 4px;
+  cursor: pointer;
+}
+
+#glList button.active {
+  background: #eee;
+}
+
 #metricsPanel .full-column {
   flex: 1 1 100%;
 }
