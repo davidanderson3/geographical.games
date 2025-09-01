@@ -106,7 +106,7 @@ async function main(){
     // Tuned to push globally famous cities higher even if city-proper pop is smaller
     // Heavily weight global fame; reduce pop+rank so tail cities collapse toward 0
     const A=0.05, B=0.15, C=0.15, K=0.1, D=-2.0;
-    const answers = filtered.map((r)=>{
+    let answers = filtered.map((r)=>{
       const pop = Math.max(1, Number(r.pop2020)||1);
       const rr = 1/Math.sqrt(Math.max(1, rankMap.get(r.geoid)||1));
       const title = String(r.basename || r.NAME || '');
@@ -124,6 +124,15 @@ async function main(){
       const p = Math.max(0, Math.min(100, Math.round(100*sigmoid(z))));
       return { answer: title, score: p, count: p };
     });
+    if(answers.length){
+      const maxScore = Math.max(...answers.map(a=>a.score));
+      const minScore = Math.min(...answers.map(a=>a.score));
+      const range = maxScore - minScore || 1;
+      answers = answers.map(a=>{
+        const s = Math.round(((a.score - minScore) / range) * 100);
+        return { answer: a.answer, score: s, count: s };
+      });
+    }
     const doc = { question: `Name a city in ${STATE_NAMES[st]}`, answers };
     questions.push(doc);
   }
