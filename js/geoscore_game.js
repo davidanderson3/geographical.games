@@ -125,6 +125,8 @@ export async function initGeoScoreGame(){
   if(mount.dataset.initialized === '1') return; // don't auto-refresh when opening tab
   mount.innerHTML='';
 
+  const tabs = document.getElementById('geoscoreGameSubtabs');
+
   const all = await loadQuestions();
   const byType = { country: [], state: [] };
   all.forEach(q=>{ const t=categorizeQuestion(q); if(t==='country') byType.country.push(q); else if(t==='state') byType.state.push(q); });
@@ -133,15 +135,8 @@ export async function initGeoScoreGame(){
   const scoreEl = document.createElement('div');
   let total = 0; let answered = 0;
   header.style.display='flex'; header.style.justifyContent='space-between'; header.style.alignItems='center'; header.style.gap='8px';
-  const left = document.createElement('div'); left.style.display='flex'; left.style.gap='6px'; left.style.alignItems='center';
-  const countryBtn = document.createElement('button'); countryBtn.textContent='Country';
-  const stateBtn = document.createElement('button'); stateBtn.textContent='State';
-  function refreshToggle(){ countryBtn.classList.toggle('active', currentGameType==='country'); stateBtn.classList.toggle('active', currentGameType==='state'); }
-  countryBtn.addEventListener('click', ()=>{ currentGameType='country'; refreshToggle(); });
-  stateBtn.addEventListener('click', ()=>{ currentGameType='state'; refreshToggle(); });
-  left.append(countryBtn, stateBtn);
   const startBtn = document.createElement('button'); startBtn.textContent='New Round';
-  header.append(left, scoreEl, startBtn);
+  header.append(scoreEl, startBtn);
   mount.appendChild(header);
 
   const grid = document.createElement('div');
@@ -166,7 +161,34 @@ export async function initGeoScoreGame(){
     });
   }
   startBtn.addEventListener('click', buildRound);
-  refreshToggle();
+  scoreEl.textContent = 'Score: 0';
+
+  if(tabs){
+    tabs.querySelectorAll('.subtab-button').forEach(btn=>{
+      btn.addEventListener('click', ()=>{
+        tabs.querySelectorAll('.subtab-button').forEach(b=>b.classList.remove('active'));
+        btn.classList.add('active');
+        currentGameType = (btn.dataset.mode==='us') ? 'state' : 'country';
+        grid.innerHTML=''; total=0; answered=0; scoreEl.textContent='Score: 0';
+        try{
+          const url = new URL(location.href);
+          url.searchParams.set('gs', btn.dataset.mode);
+          history.replaceState({ tab:'geoscoreGame', gs: btn.dataset.mode }, '', url);
+        }catch{}
+      });
+    });
+    try{
+      const params = new URLSearchParams(location.search);
+      const gs = params.get('gs');
+      const initBtn = tabs.querySelector(`.subtab-button[data-mode="${gs}"]`) || tabs.querySelector('.subtab-button[data-mode="world"]');
+      if(initBtn){
+        tabs.querySelectorAll('.subtab-button').forEach(b=>b.classList.remove('active'));
+        initBtn.classList.add('active');
+        currentGameType = (initBtn.dataset.mode==='us') ? 'state' : 'country';
+      }
+    }catch{}
+  }
+
   mount.dataset.initialized = '1';
 }
 
