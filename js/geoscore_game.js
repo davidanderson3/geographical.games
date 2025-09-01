@@ -1,4 +1,4 @@
-import { loadQuestions } from './geoscore.js';
+import { loadQuestions, categorizeQuestion } from './geoscore.js';
 
 let usCitiesPromise;
 async function getUsCities(){
@@ -117,7 +117,7 @@ function isUSStateName(name){
   ]);
   return set.has(n);
 }
-function categorizeQuestion(q){
+export function categorizeQuestion(q){
   const qraw = String(q && q.question || '');
   const m = /^\s*Name a city in\s+(.+)$/i.exec(qraw);
   if(m && m[1]){
@@ -134,6 +134,7 @@ function categorizeQuestion(q){
     }
     return 'country';
   }
+  if(/^\s*Name a world capital city beginning with the letter [a-z]/i.test(qraw)) return 'capital';
   return 'other';
 }
 
@@ -146,8 +147,10 @@ export async function initGeoScoreGame(){
   const tabs = document.getElementById('geoscoreGameSubtabs');
 
   const all = await loadQuestions();
-  const byType = { country: [], state: [] };
-  all.forEach(q=>{ const t=categorizeQuestion(q); if(t==='country') byType.country.push(q); else if(t==='state') byType.state.push(q); });
+
+  const byType = { country: [], state: [], capital: [] };
+  all.forEach(q=>{ const t=categorizeQuestion(q); if(t==='country') byType.country.push(q); else if(t==='state') byType.state.push(q); else if(t==='capital') byType.capital.push(q); });
+
 
   const header = document.createElement('div');
   const scoreEl = document.createElement('div');
@@ -188,7 +191,7 @@ export async function initGeoScoreGame(){
           tabs.querySelectorAll('.tab-button').forEach(b=>{ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
           btn.classList.add('active');
           btn.setAttribute('aria-selected','true');
-          currentGameType = (btn.dataset.mode==='us') ? 'state' : 'country';
+          currentGameType = (btn.dataset.mode==='us') ? 'state' : (btn.dataset.mode==='capitals' ? 'capital' : 'country');
           grid.innerHTML=''; total=0; answered=0; scoreEl.textContent='Score: 0';
           try{
             const url = new URL(location.href);
@@ -205,7 +208,7 @@ export async function initGeoScoreGame(){
           tabs.querySelectorAll('.tab-button').forEach(b=>{ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
           initBtn.classList.add('active');
           initBtn.setAttribute('aria-selected','true');
-          currentGameType = (initBtn.dataset.mode==='us') ? 'state' : 'country';
+          currentGameType = (initBtn.dataset.mode==='us') ? 'state' : (initBtn.dataset.mode==='capitals' ? 'capital' : 'country');
         }
       }catch{}
     }
