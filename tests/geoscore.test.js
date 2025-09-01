@@ -16,7 +16,7 @@ describe('geoscore persistence', () => {
     expect(await loadQuestions()).toEqual(DEFAULT_QUESTIONS);
   });
 
-  it('normalizes answer scores to 0-100 range', async () => {
+  it('clamps answer scores to 0-100 range', async () => {
     const qs = [{
       question: 'Capital of France?',
       answers: [
@@ -27,12 +27,12 @@ describe('geoscore persistence', () => {
     saveQuestions(qs);
     const loaded = await loadQuestions();
     const q = loaded.find(x => x.question === 'Capital of France?');
-    expect(q.answers[0]).toEqual({ answer: 'Paris', score: 100, count: 100 });
+    expect(q.answers[0]).toEqual({ answer: 'Paris', score: 1, count: 1 });
     expect(q.answers[1]).toEqual({ answer: 'Lyon', score: 0, count: 0 });
     expect(loaded.length).toBeGreaterThan(qs.length);
   });
 
-  it('defaults to 100 when all scores are equal or missing', async () => {
+  it('retains scores when all are equal', async () => {
     const qs = [{
       question: 'Test uniform',
       answers: [
@@ -43,7 +43,7 @@ describe('geoscore persistence', () => {
     saveQuestions(qs);
     const loaded = await loadQuestions();
     const q = loaded.find(x => x.question === 'Test uniform');
-    expect(q.answers.every(a => a.score === 100 && a.count === 100)).toBe(true);
+    expect(q.answers.every(a => a.score === 5 && a.count === 5)).toBe(true);
   });
 
   it('categorizes elevation questions', () => {

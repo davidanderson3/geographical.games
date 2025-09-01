@@ -4,20 +4,9 @@ const EXCLUSIONS_KEY = 'geoscoreExclusions'; // { CategoryName: { normalizedName
 
 function normalizeQuestionScores(q){
   const answers = Array.isArray(q && q.answers) ? q.answers : [];
-  const scores = answers.map(a => Number(a && a.score));
-  const valid = scores.filter(s => !isNaN(s));
-  if(!valid.length){
-    answers.forEach(a => { a.score = 100; a.count = 100; });
-    return q;
-  }
-  const min = Math.min(...valid);
-  const max = Math.max(...valid);
-  const range = max - min;
   answers.forEach(a => {
     let s = Number(a && a.score);
-    if(isNaN(s)) s = 100;
-    else if(range > 0) s = ((s - min) / range) * 100;
-    else s = 100;
+    if(!isFinite(s)) s = 100;
     s = Math.round(Math.max(0, Math.min(100, s)));
     a.score = s;
     a.count = s;
