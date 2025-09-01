@@ -15,6 +15,7 @@
     "generate:geoscore:countries": "node scripts/generateGeoscoreCountryCities.js",
     "generate:countries": "node scripts/generateCountriesJsonFromNE.js",
     "generate:geoscore:eurocapitals": "node scripts/generateEuropeanCapitals.js --merge-json",
+    "generate:geoscore:worldcapitals:letters": "node scripts/generateWorldCapitalLetters.js --merge-json",
     "filter:cities": "node scripts/filterCitiesByPopulation.js",
     "clean:cities": "node scripts/cleanCities.js",
     "reset:cities:10k": "node scripts/cleanCities.js && node scripts/fetchCitiesSimple.js --limit=all --min-pop=10000 --refresh-ne",
