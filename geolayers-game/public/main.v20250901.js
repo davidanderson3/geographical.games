@@ -428,6 +428,7 @@ function loadCountry() {
     citiesLayer = null;
 
     const outlineSan = sanitizeGeoJSON(outlineGeo) || outlineGeo;
+    const outlineMP = toMultiPolygonCoords(outlineSan);
     const riversSan = capFeatureCount(sanitizeGeoJSON(riversGeo) || riversGeo, 40000);
     try {
       outline = L.geoJSON(outlineSan, { coordsToLatLng: safeCoordsToLatLng });
@@ -443,7 +444,6 @@ function loadCountry() {
       const roadsSan0 = sanitizeGeoJSON(roadsGeo) || roadsGeo;
       const roadsLimited = limitRoads(roadsSan0, 30000);
       // Clip roads to outline geometry so neighbors (e.g., Chile/Uruguay) don't appear
-      const outlineMP = toMultiPolygonCoords(outlineSan);
       const roadsClipped = outlineMP ? clipRoadsToMultiPolygon(roadsLimited, outlineMP) : roadsLimited;
       roadsLayer = L.geoJSON(roadsClipped, { style: { color: '#888', weight: 1, opacity: 0.7, lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
       // Heuristic: if roads bbox is far from outline bbox center, retry swapping [lng,lat] -> [lat,lng]
@@ -467,7 +467,8 @@ function loadCountry() {
     } catch { roadsLayer = null; }
     try {
       const topoSan = capFeatureCount(sanitizeGeoJSON(elevationGeo) || elevationGeo, 30000);
-      topoLayer = L.geoJSON(topoSan, { style: { color: '#aaa', weight: 0.8, opacity: 0.6, dashArray: '2,2', lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
+      const topoClipped = outlineMP ? clipRoadsToMultiPolygon(topoSan, outlineMP) : topoSan;
+      topoLayer = L.geoJSON(topoClipped, { style: { color: '#aaa', weight: 0.8, opacity: 0.6, dashArray: '2,2', lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
     } catch { topoLayer = null; }
     try {
       const citiesSan = sanitizeGeoJSON(citiesGeo) || citiesGeo;
