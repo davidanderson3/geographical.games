@@ -1,39 +1,18 @@
 #!/usr/bin/env node
 /*
   Fetch high‑detail river layers from Overpass (OpenStreetMap)
-  and store them in Firestore (chunked), plus write a local high‑res GeoJSON.
+  and write a local high‑resolution GeoJSON file.
 
   Prereqs:
   - Node 18+ (global fetch available)
-  - serviceAccountKey.json in ./scripts (Firebase Admin creds)
-  - npm i firebase-admin
 
   Usage:
-    node scripts/fetchRiversToFirestore.js [ISO3 ...]
+    node scripts/fetchRiversToGeoJSON.js [ISO3 ...]
   If no ISO3 args are given, it processes all countries in geolayers-game/public/countries.json
 */
 
 const fs = require('fs');
 const path = require('path');
-const admin = require('firebase-admin');
-
-const SERVICE_ACCOUNT_PATH = path.join(__dirname, 'serviceAccountKey.json');
-if (!fs.existsSync(SERVICE_ACCOUNT_PATH)) {
-  console.error(`Missing service account key at ${SERVICE_ACCOUNT_PATH}`);
-  process.exit(1);
-}
-const serviceAccount = require(SERVICE_ACCOUNT_PATH);
-
-try {
-  admin.initializeApp({
-    credential: admin.credential.cert(serviceAccount),
-    projectId: serviceAccount.project_id,
-  });
-} catch (e) {
-  console.error('Failed to init Firebase Admin SDK:', e && e.message);
-  process.exit(1);
-}
-const db = admin.firestore();
 
 function sleep(ms){ return new Promise(r=>setTimeout(r, ms)); }
 
@@ -282,87 +261,11 @@ function clipGeometryToOutline(geom, outlineFeature){
   return geom;
 }
 
-function estimateSize(obj){ return Buffer.byteLength(JSON.stringify(obj)); }
-
-function chunkFeatures(features, maxBytes=250_000){
-  const chunks = [];
-  let cur = [];
-  let curSize = 2; // []
-  for(const f of features){
-    const s = estimateSize(f);
-    if(cur.length && (curSize + s + 1) > maxBytes){ // ,
-      chunks.push(cur);
-      cur = [];
-      curSize = 2;
-    }
-    cur.push(f);
-    curSize += s + 1;
-  }
-  if(cur.length) chunks.push(cur);
-  return chunks;
-}
-
-async function storeInFirestore(iso3, features, opts={}){
-  if(opts.noFirestore) return { chunks: 0 };
-  const root = db.collection('riverLayers').doc(iso3);
-  await root.set({ updatedAt: admin.firestore.FieldValue.serverTimestamp(), featureCount: features.length }, { merge:true });
-  const chunks = chunkFeatures(features);
-  const chunksColl = root.collection('chunks');
-  // Delete previous chunks
-  const prev = await chunksColl.listDocuments();
-  for(let i=0;i<prev.length;i+=400){
-    const batch = db.batch();
-    prev.slice(i,i+400).forEach(d => batch.delete(d));
-    await batch.commit();
-    if(opts.throttleMs) await sleep(opts.throttleMs);
-  }
-  // Write in waves
-  let written = 0;
-  for(let i=0;i<chunks.length;i+=400){
-    const batch = db.batch();
-    const part = chunks.slice(i,i+400);
-    part.forEach((arr, idx) => {
-      const index = i + idx;
-      const id = `chunk_${String(index+1).padStart(4,'0')}`;
-      batch.set(chunksColl.doc(id), { index, count: arr.length, features: arr });
-    });
-    let tries=0, backoff=opts.backoffMs||1000;
-    for(;;){
-      try { await batch.commit(); break; }
-      catch(e){
-        const msg = (e && e.message) || '';
-        if(/RESOURCE_EXHAUSTED|Quota exceeded|deadline exceeded/i.test(msg) && tries < (opts.maxCommitRetries||5)){
-          await sleep(backoff);
-          backoff = Math.min(backoff*2, 20000);
-          tries++;
-          continue;
-        }
-        throw e;
-      }
-    }
-    written += part.length;
-    if(opts.throttleMs) await sleep(opts.throttleMs);
-  }
-  return { chunks: chunks.length };
-}
-
-async function writeLocalStreamed(iso3, features){
-  const dir = path.join(DATA_DIR, iso3);
-  fs.mkdirSync(dir, { recursive:true });
-  const file = path.join(dir, 'rivers_highres.geojson');
-  const writer = createGeoJSONStreamWriter(file);
-  writer.append(features);
-  writer.end();
-  return file;
-}
-
 async function main(){
   const all = getCountryList();
   const argv = process.argv.slice(2);
   const includeStreams = argv.includes('--streams');
   const includeIntermittent = argv.includes('--include-intermittent');
-  // Default: do NOT write to Firestore unless --firestore is explicitly passed
-  const noFirestore = argv.includes('--no-firestore') || !argv.includes('--firestore');
   const tileDegArg = argv.find(a=>a.startsWith('--tile-deg='));
   const tileDeg = tileDegArg ? Math.max(1, Math.min(20, Number(tileDegArg.split('=')[1])||10)) : 10;
   const sleepArg = argv.find(a=>a.startsWith('--sleep='));
@@ -376,8 +279,7 @@ async function main(){
   const force = argv.includes('--force');
   const targets = argv.filter(a=>/^[A-Z]{3}$/.test(a));
   const list = targets.length ? targets : all;
-  let banner = 'Fetching high‑res rivers for ' + list.length + ' countries... ';
-  banner += noFirestore ? '(file output only)' : '(also writing to Firestore)';
+  let banner = 'Fetching high‑res rivers for ' + list.length + ' countries... (file output only)';
   if (includeStreams) banner += ' +streams';
   if (includeIntermittent) banner += ' +intermittent';
   if (minKm) banner += ' min ' + minKm + 'km';
@@ -391,7 +293,6 @@ async function main(){
       const bbox = geojsonBbox(outline);
       console.log(`→ ${iso3} bbox:`, bbox.map(n=>+n.toFixed(4)).join(','), includeStreams ? '(with streams)' : '(rivers/canals only)');
       const tiles = splitBbox(bbox, includeStreams ? Math.min(6, tileDeg) : tileDeg);
-      const seen = new Set();
       const dir = path.join(DATA_DIR, iso3);
       fs.mkdirSync(dir, { recursive:true });
       const file = path.join(dir, 'rivers_highres.geojson');
@@ -405,13 +306,13 @@ async function main(){
         }catch{}
       }
       const writer = createGeoJSONStreamWriter(file);
-      const allFeatures = [];
+      const seen = new Set();
+      let featureCount = 0;
       for(let t=0;t<tiles.length;t++){
         const bb = tiles[t];
         try{
           const osm = await fetchOverpass(bb, includeStreams, includeIntermittent, { attempts: 6, retryDelayMs: 2500 }, iso3);
-          const gj = osmToGeoJSON(osm, seen);
-          let feats = (gj && gj.features) ? gj.features : [];
+          let feats = (osmToGeoJSON(osm, seen).features) || [];
           if (clipToOutline) {
             const clipped = [];
             const outlineGeom = outline && outline.features ? outline.features[0] : outline;
@@ -424,7 +325,7 @@ async function main(){
           if(namedOnly) feats = feats.filter(f => f && f.properties && f.properties.name);
           if(minKm>0) feats = feats.filter(f => lineLengthKm(f.geometry) >= minKm);
           writer.append(feats);
-          for (const f of feats) allFeatures.push(f);
+          featureCount += feats.length;
           console.log(`   tile ${t+1}/${tiles.length}: +${feats.length} features`);
         }catch(tileErr){
           console.warn(`   tile ${t+1}/${tiles.length} failed:`, tileErr && tileErr.message || tileErr);
@@ -432,11 +333,8 @@ async function main(){
         await sleep(sleepMs);
       }
       writer.end();
-      console.log(`   wrote ${file}`);
-      const meta = await storeInFirestore(iso3, allFeatures, { noFirestore, throttleMs: 500, maxCommitRetries: 6 });
-      console.log(`   stored in Firestore (${meta.chunks} chunks)`);
-      // be kind to Overpass
-      await sleep(1000);
+      console.log(`   wrote ${file} (${featureCount} features)`);
+      await sleep(1000); // be kind to Overpass
     }catch(err){
       console.error(`× ${iso3} failed:`, err && err.message || err);
     }
