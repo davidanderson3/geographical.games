@@ -210,57 +210,41 @@ function lineLengthKm(geom){
 // ------------------------
 // In-outline clipping utils
 // ------------------------
-function pointInRing(pt, ring){
-  // ray-casting; pt: [lon,lat]
-  let inside = false;
-  const n = ring.length;
-  for(let i=0, j=n-1; i<n; j=i++){
-    const xi = ring[i][0], yi = ring[i][1];
-    const xj = ring[j][0], yj = ring[j][1];
-    const intersect = ((yi>pt[1]) !== (yj>pt[1])) &&
-      (pt[0] < (xj - xi) * (pt[1] - yi) / ((yj - yi) || 1e-12) + xi);
-    if (intersect) inside = !inside;
+// Clip a LineString's coordinates to the given polygon feature.
+function clipLineStringToPolygon(coords, polyFeature){
+  if(!Array.isArray(coords) || coords.length < 2) return null;
+  // Convert to turf features for splitting
+  const line = turf.lineString(coords);
+  const poly = polyFeature.geometry.type === 'Polygon'
+    ? turf.polygon(polyFeature.geometry.coordinates)
+    : turf.multiPolygon(polyFeature.geometry.coordinates);
+  const boundary = turf.polygonToLine(poly);
+  const split = turf.lineSplit(line, boundary);
+  const kept = [];
+  for(const seg of split.features){
+    const len = turf.length(seg, { units: 'kilometers' });
+    const mid = turf.along(seg, len/2, { units: 'kilometers' });
+    if(turf.booleanPointInPolygon(mid, poly)) kept.push(seg.geometry.coordinates);
   }
-  return inside;
-}
-function pointInPolygon(pt, poly){
-  if(!Array.isArray(poly) || !poly.length) return false;
-  if(!pointInRing(pt, poly[0])) return false; // outside outer ring
-  for(let k=1;k<poly.length;k++) if(pointInRing(pt, poly[k])) return false; // in a hole
-  return true;
-}
-function pointInMultiPolygon(pt, mp){
-  const polys = Array.isArray(mp) ? mp : [];
-  for(const poly of polys){ if(pointInPolygon(pt, poly)) return true; }
-  return false;
-}
-function clipLineStringToMultiPolygon(coords, mp){
-  const segs = [];
-  let cur = [];
-  for(const c of (coords||[])){
-    if(pointInMultiPolygon(c, mp)) cur.push(c); else { if(cur.length>=2) segs.push(cur); cur=[]; }
-  }
-  if(cur.length>=2) segs.push(cur);
-  if(!segs.length) return null;
-  if(segs.length===1) return { type:'LineString', coordinates: segs[0] };
-  return { type:'MultiLineString', coordinates: segs };
+  if(!kept.length) return null;
+  if(kept.length === 1) return { type:'LineString', coordinates: kept[0] };
+  return { type:'MultiLineString', coordinates: kept };
 }
 function clipGeometryToOutline(geom, outlineFeature){
   if(!geom || !outlineFeature || !outlineFeature.geometry) return geom;
   const g = outlineFeature.geometry;
-  const mp = g.type==='MultiPolygon' ? g.coordinates : (g.type==='Polygon' ? [g.coordinates] : null);
-  if(!mp) return geom;
-  if(geom.type==='LineString') return clipLineStringToMultiPolygon(geom.coordinates||[], mp);
-  if(geom.type==='MultiLineString'){
+  if(g.type !== 'Polygon' && g.type !== 'MultiPolygon') return geom;
+  if(geom.type === 'LineString') return clipLineStringToPolygon(geom.coordinates||[], outlineFeature);
+  if(geom.type === 'MultiLineString'){
     const out = [];
     for(const ls of (geom.coordinates||[])){
-      const clipped = clipLineStringToMultiPolygon(ls||[], mp);
+      const clipped = clipLineStringToPolygon(ls||[], outlineFeature);
       if(!clipped) continue;
-      if(clipped.type==='LineString') out.push(clipped.coordinates);
-      else if(clipped.type==='MultiLineString') out.push(...clipped.coordinates);
+      if(clipped.type === 'LineString') out.push(clipped.coordinates);
+      else if(clipped.type === 'MultiLineString') out.push(...clipped.coordinates);
     }
     if(!out.length) return null;
-    if(out.length===1) return { type:'LineString', coordinates: out[0] };
+    if(out.length === 1) return { type:'LineString', coordinates: out[0] };
     return { type:'MultiLineString', coordinates: out };
   }
   return geom;
