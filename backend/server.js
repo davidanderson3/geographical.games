@@ -7,6 +7,7 @@ const util = require('util');
 const { Configuration, PlaidApi, PlaidEnvironments } = require('plaid');
 const cors = require('cors');
 let nodemailer;
+const MBTiles = require('@mapbox/mbtiles');
 try {
   nodemailer = require('nodemailer');
 } catch {
@@ -20,6 +21,21 @@ const PORT = process.env.PORT || 3002;
 // Enable CORS for all routes so the frontend can reach the API
 app.use(cors());
 app.use(compression());
+
+// Load vector tile set if available
+const tilePath = path.join(__dirname, '../tiles/geodata.mbtiles');
+let mbtiles = null;
+if (fs.existsSync(tilePath)) {
+  new MBTiles(tilePath, (err, mb) => {
+    if (err) {
+      console.error('Failed to open MBTiles', err);
+    } else {
+      mbtiles = mb;
+    }
+  });
+} else {
+  console.warn('MBTiles not found; run "npm run generate:tiles"');
+}
 
 const CONTACT_EMAIL = Buffer.from('ZHZkbmRyc25AZ21haWwuY29t', 'base64').toString('utf8');
 const mailer = (() => {
@@ -65,6 +81,18 @@ app.use(express.static(path.resolve(__dirname, '../'), {
     }
   }
 }));
+
+// Serve vector tiles from MBTiles
+app.get('/tiles/:z/:x/:y.pbf', (req, res) => {
+  if (!mbtiles) return res.status(503).send('tile service unavailable');
+  const { z, x, y } = req.params;
+  mbtiles.getTile(+z, +x, +y, (err, data) => {
+    if (err || !data) return res.status(404).send('Tile not found');
+    res.setHeader('Content-Type', 'application/x-protobuf');
+    res.setHeader('Content-Encoding', 'gzip');
+    res.send(data);
+  });
+});
 
 app.post('/contact', async (req, res) => {
   const { name, from, message } = req.body || {};
