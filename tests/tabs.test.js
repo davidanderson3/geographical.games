@@ -17,7 +17,6 @@ describe('main tab behavior', () => {
         <div id="geoscoreGameSubtabs">
           <button class="tab-button" data-mode="world">World</button>
           <button class="tab-button" data-mode="us">US</button>
-          <button class="tab-button" data-mode="capitals">World Capitals</button>
         </div>
       </section>
       <section id="geolayersPanel" style="display:none;"></section>
