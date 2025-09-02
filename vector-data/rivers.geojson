@@ -1,0 +1,6 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "name": "Sample River" }, "geometry": { "type": "LineString", "coordinates": [[-1,0], [0,1], [1,0]] } }
+  ]
+}
