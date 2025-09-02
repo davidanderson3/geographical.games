@@ -5,4 +5,7 @@ wiki_cache.json
 backup.json
 states_wiki/*
 geoscore_questions.json
+
+# Generated vector tiles
+tiles/*.mbtiles
 .DS_Store
