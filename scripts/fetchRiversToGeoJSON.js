@@ -17,6 +17,8 @@
 
 const fs = require('fs');
 const path = require('path');
+const topojsonServer = require('topojson-server');
+const topojsonSimplify = require('topojson-simplify');
 const turf = require('@turf/turf');
 
 function sleep(ms){ return new Promise(r=>setTimeout(r, ms)); }
@@ -177,6 +179,20 @@ function createGeoJSONStreamWriter(file){
     },
     end(){ ws.write(']}'); ws.end(); }
   };
+}
+
+function writeTopoJSON(geoPath, topoPath){
+  try{
+    const fc = JSON.parse(fs.readFileSync(geoPath, 'utf8'));
+    let topo = topojsonServer.topology({ collection: fc });
+    topojsonSimplify.quantize(topo, 1e5);
+    topojsonSimplify.presimplify(topo);
+    topojsonSimplify.simplify(topo, topojsonSimplify.quantile(topo, 0.15));
+    fs.writeFileSync(topoPath, JSON.stringify(topo));
+    console.log(`   wrote ${topoPath}`);
+  }catch(err){
+    console.warn('   topo conversion failed:', err && err.message || err);
+  }
 }
 
 // Haversine distance between two lon/lat points in km
@@ -343,6 +359,8 @@ async function main(){
       }
       writer.end();
       console.log(`   wrote ${file} (${featureCount} features)`);
+      const topoOut = path.join(dir, 'rivers_highres.topo.json');
+      writeTopoJSON(file, topoOut);
       if(simplifyTol > 0){
         try{
           const raw = readJson(file);

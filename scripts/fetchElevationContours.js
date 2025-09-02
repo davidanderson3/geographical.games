@@ -31,6 +31,8 @@ const fs = require('fs');
 const path = require('path');
 const { PNG } = require('pngjs');
 const d3c = require('d3-contour');
+const topojsonServer = require('topojson-server');
+const topojsonSimplify = require('topojson-simplify');
 const turf = require('@turf/turf');
 
 const ROOT = path.resolve(__dirname, '..');
@@ -163,6 +165,20 @@ function contoursToGeoJSON(contours, z, minX, minY){
   return { type:'FeatureCollection', features: feats };
 }
 
+function writeTopoJSON(geoPath, topoPath){
+  try{
+    const fc = JSON.parse(fs.readFileSync(geoPath, 'utf8'));
+    let topo = topojsonServer.topology({ collection: fc });
+    topojsonSimplify.quantize(topo, 1e5);
+    topojsonSimplify.presimplify(topo);
+    topojsonSimplify.simplify(topo, topojsonSimplify.quantile(topo, 0.15));
+    fs.writeFileSync(topoPath, JSON.stringify(topo));
+    console.log(`  wrote ${topoPath}`);
+  }catch(err){
+    console.warn('  topo conversion failed:', err && err.message || err);
+  }
+}
+
 async function main(){
   const argv = process.argv.slice(2);
   const zArg = argv.find(a=>a.startsWith('--zoom='));
@@ -198,6 +214,11 @@ async function main(){
       thresholds.sort((a,b)=>a-b);
       const contours = d3c.contours().size([width, height]).thresholds(thresholds)(values);
       const fc = contoursToGeoJSON(contours, zoom, minX, minY);
+      fs.mkdirSync(path.join(DATA_DIR, iso3), { recursive:true });
+      fs.writeFileSync(outPath, JSON.stringify(fc));
+      console.log(`  ${iso3}: wrote ${fc.features.length} lines to ${outPath}`);
+      const topoOut = path.join(DATA_DIR, iso3, 'elevation.topo.json');
+      writeTopoJSON(outPath, topoOut);
       const dir = path.join(DATA_DIR, iso3);
       fs.mkdirSync(dir, { recursive:true });
       if(keepHighRes){

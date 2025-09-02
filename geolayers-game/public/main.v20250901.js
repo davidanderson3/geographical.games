@@ -153,6 +153,25 @@ function sanitizeGeoJSON(fc){
   return g ? g : null;
 }
 
+async function loadTopoJSON(url, signal){
+  try{
+    const res = await fetch(url, { signal });
+    if(!res.ok) return null;
+    const topo = await res.json();
+    let topoClient = window.topojson;
+    if(!topoClient){
+      topoClient = await import('https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js');
+      topoClient = topoClient.feature ? topoClient : (topoClient.default || topoClient);
+      window.topojson = topoClient;
+    }
+    const objName = topo && topo.objects ? Object.keys(topo.objects)[0] : null;
+    if(objName){
+      return topoClient.feature(topo, topo.objects[objName]);
+    }
+  }catch{}
+  return null;
+}
+
 // Prefer major roads across the entire country instead of early-file bias.
 function limitRoads(fc, max=30000){
   try{
@@ -385,10 +404,14 @@ function loadCountry() {
   Promise.all([
     fetch(`data/${locationId}/outline.geojson`, { signal }).then(r => r.ok ? r.json() : { type:'FeatureCollection', features: [] }).catch(() => ({ type:'FeatureCollection', features: [] })),
     (async () => {
+      let gj = await loadTopoJSON(`data/${locationId}/rivers_highres.topo.json`, signal);
+      if (gj) return gj;
       try {
         const r1 = await fetch(`data/${locationId}/rivers_highres.geojson`, { signal });
         if (r1.ok) return r1.json();
       } catch {}
+      gj = await loadTopoJSON(`data/${locationId}/rivers.topo.json`, signal);
+      if (gj) return gj;
       try {
         const r2 = await fetch(`data/${locationId}/rivers.geojson`, { signal });
         if (r2.ok) return r2.json();
@@ -403,6 +426,8 @@ function loadCountry() {
       return { type:'FeatureCollection', features: [] };
     })(),
     (async () => {
+      let gj = await loadTopoJSON(`data/${locationId}/elevation.topo.json`, signal);
+      if (gj) return gj;
       try {
         const r1 = await fetch(`data/${locationId}/elevation.geojson`, { signal });
         if (r1.ok) return r1.json();

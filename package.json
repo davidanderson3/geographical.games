@@ -38,6 +38,8 @@
     "nodemailer": "^6.9.8",
     "plaid": "^37.0.0",
     "pngjs": "^7.0.0",
+    "topojson-server": "^3.0.1",
+    "topojson-simplify": "^3.0.3",
     "twilio": "^4.21.0"
   },
   "devDependencies": {

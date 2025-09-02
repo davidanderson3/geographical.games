@@ -318,10 +318,13 @@ app.get('/countries', (req, res) => {
 app.get('/layer/:loc/:name', async (req, res) => {
   const { loc, name } = req.params;
   const baseDir = path.join(__dirname, '../geolayers-game/public/data', loc);
-  let file = path.join(baseDir, `${name}.geojson`);
+  let file = path.join(baseDir, `${name}.topo.json`);
+  if (!fs.existsSync(file)) file = path.join(baseDir, `${name}.geojson`);
   if (name === 'rivers') {
-    const hi = path.join(baseDir, 'rivers_highres.geojson');
-    if (fs.existsSync(hi)) file = hi;
+    const hiTopo = path.join(baseDir, 'rivers_highres.topo.json');
+    const hiGeo = path.join(baseDir, 'rivers_highres.geojson');
+    if (fs.existsSync(hiTopo)) file = hiTopo;
+    else if (fs.existsSync(hiGeo)) file = hiGeo;
   }
   if (name === 'cities' && !fs.existsSync(file)) {
     try {
