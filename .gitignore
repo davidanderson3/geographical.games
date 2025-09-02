@@ -5,3 +5,4 @@ wiki_cache.json
 backup.json
 states_wiki/*
 geoscore_questions.json
+.DS_Store
