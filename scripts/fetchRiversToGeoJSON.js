@@ -10,11 +10,14 @@
     node scripts/fetchRiversToGeoJSON.js [ISO3 ...]
   If no ISO3 args are given, it processes all countries in geolayers-game/public/countries.json
   Rivers are clipped to each country's outline by default. Pass --no-clip to keep
-  original geometries.
+  original geometries. Output is simplified with turf.simplify; adjust tolerance
+  via --simplify=<degrees> (default 0.0005). A high-res copy is saved as
+  rivers_highres.geojson.
 */
 
 const fs = require('fs');
 const path = require('path');
+const turf = require('@turf/turf');
 
 function sleep(ms){ return new Promise(r=>setTimeout(r, ms)); }
 
@@ -280,6 +283,8 @@ async function main(){
   const clipToOutline = !argv.includes('--no-clip');
   const minBytesArg = argv.find(a=>a.startsWith('--min-bytes='));
   const minBytes = minBytesArg ? Math.max(1, Number(minBytesArg.split('=')[1])||1024) : 1024;
+  const simplifyArg = argv.find(a=>a.startsWith('--simplify='));
+  const simplifyTol = simplifyArg ? Math.max(0, Number(simplifyArg.split('=')[1])||0) : 0.0005;
   const force = argv.includes('--force');
   const targets = argv.filter(a=>/^[A-Z]{3}$/.test(a));
   const list = targets.length ? targets : all;
@@ -338,6 +343,17 @@ async function main(){
       }
       writer.end();
       console.log(`   wrote ${file} (${featureCount} features)`);
+      if(simplifyTol > 0){
+        try{
+          const raw = readJson(file);
+          const simplified = turf.simplify(raw, { tolerance: simplifyTol, highQuality: true });
+          const simpleFile = path.join(dir, 'rivers.geojson');
+          fs.writeFileSync(simpleFile, JSON.stringify(simplified));
+          console.log(`   simplified to ${simpleFile} (tolerance=${simplifyTol})`);
+        }catch(e){
+          console.warn(`   simplification failed:`, e && e.message || e);
+        }
+      }
       await sleep(1000); // be kind to Overpass
     }catch(err){
       console.error(`× ${iso3} failed:`, err && err.message || err);
