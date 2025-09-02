@@ -4,6 +4,8 @@
   (elevation-tiles-prod) and extracting contour lines via d3-contour.
 
   Output: geolayers-game/public/data/<ISO3>/elevation.geojson (LineString/MultiLineString)
+  Simplified with turf.simplify (tolerance adjustable via --simplify). Use
+  --keep-highres to retain the unsimplified elevation_highres.geojson.
 
   Sustainable: runs offline at build time; serves static GeoJSON at runtime.
   Recognizable: produces actual elevation isolines (e.g., every 500m).
@@ -17,6 +19,8 @@
     --interval=500      Elevation interval in meters (default 500)
     --both              Generate both positive and negative contours
     --force             Overwrite existing elevation.geojson
+    --simplify=0.0005   Simplification tolerance in degrees (default 0.0005)
+    --keep-highres      Also save unsimplified elevation_highres.geojson
 
   Notes:
     - Uses AWS elevation-tiles Terrarium: https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png
@@ -29,6 +33,7 @@ const { PNG } = require('pngjs');
 const d3c = require('d3-contour');
 const topojsonServer = require('topojson-server');
 const topojsonSimplify = require('topojson-simplify');
+const turf = require('@turf/turf');
 
 const ROOT = path.resolve(__dirname, '..');
 const DATA_DIR = path.join(ROOT, 'geolayers-game', 'public', 'data');
@@ -182,6 +187,9 @@ async function main(){
   const interval = intervalArg ? Math.max(50, Number(intervalArg.split('=')[1])||500) : 500;
   const both = argv.includes('--both');
   const force = argv.includes('--force');
+  const simplifyArg = argv.find(a=>a.startsWith('--simplify='));
+  const simplifyTol = simplifyArg ? Math.max(0, Number(simplifyArg.split('=')[1])||0) : 0.0005;
+  const keepHighRes = argv.includes('--keep-highres');
   const targets = argv.filter(a=>/^[A-Z]{3}$/.test(a));
   const list = targets.length ? targets : getISO3List();
 
@@ -211,6 +219,14 @@ async function main(){
       console.log(`  ${iso3}: wrote ${fc.features.length} lines to ${outPath}`);
       const topoOut = path.join(DATA_DIR, iso3, 'elevation.topo.json');
       writeTopoJSON(outPath, topoOut);
+      const dir = path.join(DATA_DIR, iso3);
+      fs.mkdirSync(dir, { recursive:true });
+      if(keepHighRes){
+        fs.writeFileSync(path.join(dir, 'elevation_highres.geojson'), JSON.stringify(fc));
+      }
+      const simplified = simplifyTol > 0 ? turf.simplify(fc, { tolerance: simplifyTol, highQuality: true }) : fc;
+      fs.writeFileSync(outPath, JSON.stringify(simplified));
+      console.log(`  ${iso3}: wrote ${simplified.features.length} lines to ${outPath}` + (keepHighRes ? ' (highres saved)' : ''));
       await sleep(200);
     }catch(e){
       console.error(`  ${iso3}: failed:`, e && e.message || e);
