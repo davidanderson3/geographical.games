@@ -386,25 +386,7 @@ function loadCountry() {
     fetch(`data/${locationId}/outline.geojson`, { signal }).then(r => r.ok ? r.json() : { type:'FeatureCollection', features: [] }).catch(() => ({ type:'FeatureCollection', features: [] })),
     (async () => {
       try {
-        const r1 = await fetch(`data/${locationId}/rivers_highres.geojson`, { signal });
-        if (r1.ok) return r1.json();
-      } catch {}
-      try {
-        const r2 = await fetch(`data/${locationId}/rivers.geojson`, { signal });
-        if (r2.ok) return r2.json();
-      } catch {}
-      return { type:'FeatureCollection', features: [] };
-    })(),
-    (async () => {
-      try {
         const r1 = await fetch(`data/${locationId}/roads.geojson`, { signal });
-        if (r1.ok) return r1.json();
-      } catch {}
-      return { type:'FeatureCollection', features: [] };
-    })(),
-    (async () => {
-      try {
-        const r1 = await fetch(`data/${locationId}/elevation.geojson`, { signal });
         if (r1.ok) return r1.json();
       } catch {}
       return { type:'FeatureCollection', features: [] };
@@ -416,7 +398,7 @@ function loadCountry() {
       } catch {}
       return { type:'FeatureCollection', features: [] };
     })()
-  ]).then(([outlineGeo, riversGeo, roadsGeo, elevationGeo, citiesGeo]) => {
+  ]).then(([outlineGeo, roadsGeo, citiesGeo]) => {
     if (!map) {
       // Initialize with a safe default view so resize/getCenter never sees undefined zoom
       map = L.map('map', { zoomControl: false, attributionControl: false, center: [20, 0], zoom: 2, preferCanvas: true });
@@ -429,17 +411,19 @@ function loadCountry() {
 
     const outlineSan = sanitizeGeoJSON(outlineGeo) || outlineGeo;
     const outlineMP = toMultiPolygonCoords(outlineSan);
-    const riversSan = capFeatureCount(sanitizeGeoJSON(riversGeo) || riversGeo, 40000);
     try {
       outline = L.geoJSON(outlineSan, { coordsToLatLng: safeCoordsToLatLng });
     } catch {
       outline = L.geoJSON({ type:'FeatureCollection', features: [] });
     }
     try {
-      riversLayer = L.geoJSON(riversSan, { style: { color: '#0ff', weight: 1, opacity: 0.9, lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
-    } catch {
-      riversLayer = L.geoJSON({ type:'FeatureCollection', features: [] });
-    }
+      riversLayer = L.vectorGrid.protobuf('/tiles/{z}/{x}/{y}.pbf', {
+        vectorTileLayerStyles: {
+          rivers: { color: '#0ff', weight: 1, opacity: 0.9, lineCap: 'round', lineJoin: 'round' }
+        },
+        maxZoom: 14
+      });
+    } catch { riversLayer = null; }
     try {
       const roadsSan0 = sanitizeGeoJSON(roadsGeo) || roadsGeo;
       const roadsLimited = limitRoads(roadsSan0, 30000);
@@ -474,9 +458,12 @@ function loadCountry() {
       }catch{}
     } catch { roadsLayer = null; }
     try {
-      const topoSan = capFeatureCount(sanitizeGeoJSON(elevationGeo) || elevationGeo, 30000);
-      const topoClipped = outlineMP ? clipRoadsToMultiPolygon(topoSan, outlineMP) : topoSan;
-      topoLayer = L.geoJSON(topoClipped, { style: { color: '#aaa', weight: 0.8, opacity: 0.6, dashArray: '2,2', lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
+      topoLayer = L.vectorGrid.protobuf('/tiles/{z}/{x}/{y}.pbf', {
+        vectorTileLayerStyles: {
+          elevation: { color: '#aaa', weight: 0.8, opacity: 0.6, dashArray: '2,2', lineCap: 'round', lineJoin: 'round' }
+        },
+        maxZoom: 14
+      });
     } catch { topoLayer = null; }
     try {
       const citiesSan = sanitizeGeoJSON(citiesGeo) || citiesGeo;

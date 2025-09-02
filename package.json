@@ -19,12 +19,14 @@
     "fetch:elevation": "node scripts/fetchElevationContours.js --zoom=8 --interval=500",
     "fetch:rivers": "node scripts/fetchRiversToGeoJSON.js",
     "prepare": "husky install",
-    "start": "node backend/server.js"
+    "start": "node backend/server.js",
+    "generate:tiles": "node scripts/generateVectorTiles.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@mapbox/mbtiles": "^0.12.1",
     "@rollup/rollup-linux-x64-gnu": "^4.50.0",
     "compression": "^1.7.4",
     "cors": "^2.8.5",
