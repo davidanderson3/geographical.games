@@ -149,8 +149,12 @@ export async function initGeoScoreGame(){
 
   const all = await loadQuestions();
 
-  const byType = { country: [], state: [], capital: [] };
-  all.forEach(q=>{ const t=categorizeQuestion(q); if(t==='country') byType.country.push(q); else if(t==='state') byType.state.push(q); else if(t==='capital') byType.capital.push(q); });
+  const byType = { country: [], state: [] };
+  all.forEach(q=>{
+    const t = categorizeQuestion(q);
+    if(t === 'state') byType.state.push(q);
+    else if(t === 'country' || t === 'capital') byType.country.push(q);
+  });
 
 
   const header = document.createElement('div');
@@ -192,7 +196,7 @@ export async function initGeoScoreGame(){
           tabs.querySelectorAll('.tab-button').forEach(b=>{ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
           btn.classList.add('active');
           btn.setAttribute('aria-selected','true');
-          currentGameType = (btn.dataset.mode==='us') ? 'state' : (btn.dataset.mode==='capitals' ? 'capital' : 'country');
+          currentGameType = (btn.dataset.mode==='us') ? 'state' : 'country';
           grid.innerHTML=''; total=0; answered=0; scoreEl.textContent='Score: 0';
           try{
             const url = new URL(location.href);
@@ -209,7 +213,7 @@ export async function initGeoScoreGame(){
           tabs.querySelectorAll('.tab-button').forEach(b=>{ b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
           initBtn.classList.add('active');
           initBtn.setAttribute('aria-selected','true');
-          currentGameType = (initBtn.dataset.mode==='us') ? 'state' : (initBtn.dataset.mode==='capitals' ? 'capital' : 'country');
+          currentGameType = (initBtn.dataset.mode==='us') ? 'state' : 'country';
         }
       }catch{}
     }
