@@ -22,12 +22,20 @@
   <script>
     (function(){
       try { console.log('GeoLayers HTML version 20250901'); } catch(e){}
-      if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.getRegistrations().then(rs => rs.forEach(r => r.unregister()));
-      }
-      if (window.caches && caches.keys) {
-        caches.keys().then(keys => keys.forEach(k => caches.delete(k))).catch(()=>{});
-      }
+      // Only purge caches/unregister SW in dev
+      try {
+        const params = new URLSearchParams(location.search);
+        const devParam = String(params.get('dev')||'');
+        const DEV = /^(1|true|yes)$/i.test(devParam) || location.hostname === 'localhost' || location.hostname === '127.0.0.1';
+        if (DEV) {
+          if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.getRegistrations().then(rs => rs.forEach(r => r.unregister()));
+          }
+          if (window.caches && caches.keys) {
+            caches.keys().then(keys => keys.forEach(k => caches.delete(k))).catch(()=>{});
+          }
+        }
+      } catch {}
     })();
 
     // Dev: auto-reload when assets change

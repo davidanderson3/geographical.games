@@ -75,7 +75,8 @@ function formatCityName(name){
   const suffixes = [
     'city municipality',
     'town municipality',
-    'city', 'town', 'village', 'municipality', 'borough', 'commune'
+    // Do NOT strip plain 'city' to preserve names like 'Guatemala City'
+    'town', 'village', 'municipality', 'borough', 'commune'
   ];
   let changed = true;
   while(changed){
@@ -417,12 +418,38 @@ function loadCountry() {
       outline = L.geoJSON({ type:'FeatureCollection', features: [] });
     }
     try {
-      riversLayer = L.vectorGrid.protobuf('/tiles/{z}/{x}/{y}.pbf', {
-        vectorTileLayerStyles: {
-          rivers: { color: '#0ff', weight: 1, opacity: 0.9, lineCap: 'round', lineJoin: 'round' }
-        },
-        maxZoom: 14
-      });
+      // Probe tile service; fall back to per-country GeoJSON if unavailable
+      let useTiles = true;
+      fetch('/tiles/0/0/0.pbf', { method: 'HEAD', cache: 'no-store' })
+        .then(res => { if (!res.ok) useTiles = false; })
+        .catch(() => { useTiles = false; })
+        .finally(() => {
+          if (useTiles) {
+            try {
+              riversLayer = L.vectorGrid.protobuf('/tiles/{z}/{x}/{y}.pbf', {
+                vectorTileLayerStyles: {
+                  rivers: { color: '#0ff', weight: 1, opacity: 0.9, lineCap: 'round', lineJoin: 'round' }
+                },
+                maxZoom: 14
+              });
+              // If layer should be visible at this point, add it now
+              try { if(map && riversLayer && (!adminMode || (adminMode && (new Set(adminLayers)).has('rivers')))) riversLayer.addTo(map); } catch{}
+            } catch { riversLayer = null; }
+          } else {
+            // Fallback to country rivers GeoJSON
+            fetch(`data/${locationId}/rivers_highres.geojson`, { cache: 'no-store' })
+              .then(r => r.ok ? r.json() : null)
+              .then(gj => gj || fetch(`data/${locationId}/rivers.geojson`, { cache: 'no-store' }).then(r2 => r2.ok ? r2.json() : null))
+              .then(gj => {
+                if (!gj) { riversLayer = null; return; }
+                const san = sanitizeGeoJSON(gj) || gj;
+                const clipped = outlineMP ? clipRoadsToMultiPolygon(san, outlineMP) : san;
+                riversLayer = L.geoJSON(clipped, { style: { color: '#0ff', weight: 1, opacity: 0.9 }, coordsToLatLng: safeCoordsToLatLng });
+                try { if(map && riversLayer && (!adminMode || (adminMode && (new Set(adminLayers)).has('rivers')))) riversLayer.addTo(map); } catch{}
+              })
+              .catch(() => { riversLayer = null; });
+          }
+        });
     } catch { riversLayer = null; }
     try {
       const roadsSan0 = sanitizeGeoJSON(roadsGeo) || roadsGeo;
@@ -457,13 +484,55 @@ function loadCountry() {
         }
       }catch{}
     } catch { roadsLayer = null; }
+    // If roads layer is empty, try vector tiles 'roads' layer as fallback (when tile service is up)
     try {
-      topoLayer = L.vectorGrid.protobuf('/tiles/{z}/{x}/{y}.pbf', {
-        vectorTileLayerStyles: {
-          elevation: { color: '#aaa', weight: 0.8, opacity: 0.6, dashArray: '2,2', lineCap: 'round', lineJoin: 'round' }
-        },
-        maxZoom: 14
-      });
+      let needRoadsFallback = false;
+      try { needRoadsFallback = !roadsLayer; } catch { needRoadsFallback = true; }
+      if (needRoadsFallback) {
+        fetch('/tiles/0/0/0.pbf', { method: 'HEAD', cache: 'no-store' })
+          .then(res => { if (!res.ok) throw new Error('no tiles'); return true; })
+          .then(() => {
+            try{
+              roadsLayer = L.vectorGrid.protobuf('/tiles/{z}/{x}/{y}.pbf', {
+                vectorTileLayerStyles: {
+                  roads: { color: '#888', weight: 1, opacity: 0.7, lineCap: 'round', lineJoin: 'round' }
+                },
+                maxZoom: 14
+              });
+              try { if(map && roadsLayer && (!adminMode || (adminMode && (new Set(adminLayers)).has('roads')))) roadsLayer.addTo(map); } catch{}
+            }catch{ roadsLayer = null; }
+          })
+          .catch(()=>{});
+      }
+    } catch {}
+    // Topo: prefer tiles; if unavailable, fall back to country elevation.geojson
+    try {
+      topoLayer = null;
+      fetch('/tiles/0/0/0.pbf', { method: 'HEAD', cache: 'no-store' })
+        .then(res => { if (!res.ok) throw new Error('no tiles'); return true; })
+        .then(() => {
+          try{
+            topoLayer = L.vectorGrid.protobuf('/tiles/{z}/{x}/{y}.pbf', {
+              vectorTileLayerStyles: {
+                elevation: { color: '#aaa', weight: 0.8, opacity: 0.6, dashArray: '2,2', lineCap: 'round', lineJoin: 'round' }
+              },
+              maxZoom: 14
+            });
+            try { if(map && topoLayer && (!adminMode || (adminMode && (new Set(adminLayers)).has('topo')))) topoLayer.addTo(map); } catch{}
+          }catch{ topoLayer = null; }
+        })
+        .catch(() => {
+          // Fallback to per-country elevation lines
+          fetch(`data/${locationId}/elevation.geojson`, { cache: 'no-store' })
+            .then(r => r.ok ? r.json() : null)
+            .then(gj => {
+              if(!gj){ topoLayer = null; return; }
+              const san = sanitizeGeoJSON(gj) || gj;
+              topoLayer = L.geoJSON(san, { style: { color: '#aaa', weight: 0.8, opacity: 0.6, dashArray: '2,2', lineCap: 'round', lineJoin: 'round' }, coordsToLatLng: safeCoordsToLatLng });
+              try { if(map && topoLayer && (!adminMode || (adminMode && (new Set(adminLayers)).has('topo')))) topoLayer.addTo(map); } catch{}
+            })
+            .catch(()=>{ topoLayer = null; });
+        });
     } catch { topoLayer = null; }
     try {
       const citiesSan = sanitizeGeoJSON(citiesGeo) || citiesGeo;

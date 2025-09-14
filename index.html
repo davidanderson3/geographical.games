@@ -15,10 +15,15 @@
   <nav class="navbar">
     <div class="container navbar-inner">
       <div class="navbar-left site-name">Geo Geo</div>
+      <div class="navbar-right" style="margin-left:auto; display:flex; align-items:center; gap:8px;">
+        <span id="userInfo" style="font-size:0.9em; opacity:0.85;"></span>
+        <button id="authBtn" type="button">Sign in with Google</button>
+      </div>
     </div>
     <div class="tabs scroll-tabs" id="tabsContainer">
       <button class="tab-button active" data-target="geoscorePanel">GeoScore Admin</button>
-      <button class="tab-button" data-target="geoscoreGamePanel">GeoScore Game</button>
+      <button class="tab-button" data-target="geoscoreWorldPanel">GeoScore World</button>
+      <button class="tab-button" data-target="geoscoreUSPanel">GeoScore US</button>
       <button class="tab-button" data-target="geolayersPanel">GeoLayers</button>
     </div>
   </nav>
@@ -32,16 +37,20 @@
     </div>
   </section>
 
-  <section id="geoscoreGamePanel" class="main-layout" style="display:none;">
+  <section id="geoscoreWorldPanel" class="main-layout" style="display:none;">
     <div class="full-column">
       <div class="panel-header">
-        <h2>GeoScore Game</h2>
+        <h2>GeoScore World</h2>
       </div>
-      <div id="geoscoreGameSubtabs" class="tabs" role="tablist">
-        <button role="tab" aria-selected="true" class="tab-button active" data-mode="world">World</button>
-        <button role="tab" aria-selected="false" class="tab-button" data-mode="us">US</button>
+      <div id="geoscoreWorld"></div>
+    </div>
+  </section>
+  <section id="geoscoreUSPanel" class="main-layout" style="display:none;">
+    <div class="full-column">
+      <div class="panel-header">
+        <h2>GeoScore US</h2>
       </div>
-      <div id="geoscoreGame"></div>
+      <div id="geoscoreUS"></div>
     </div>
   </section>
 
@@ -82,10 +91,11 @@
     </div>
   </section>
 
-  <script type="module" src="js/geoscore.js?v=20250901"></script>
-  <script type="module" src="js/tabs.js?v=20250901"></script>
-  <script type="module" src="js/geoscore_game.js?v=20250901"></script>
+  <script type="module" src="js/geoscore.js?v=20250914"></script>
+  <script type="module" src="js/tabs.js?v=20250914"></script>
+  <script type="module" src="js/geoscore_game.js?v=20250914"></script>
   <script type="module" src="js/geolayers_admin.js?v=20250901"></script>
+  <script type="module" src="js/auth.js?v=20250914"></script>
   <script>
     // Dev: auto-reload on changes served by backend/server.js
     (function(){
@@ -96,6 +106,12 @@
           location.reload();
         };
       } catch {}
+    })();
+  </script>
+  <script>
+    // Init auth UI on load
+    (function(){
+      if(window.initAuthUI){ window.initAuthUI(); }
     })();
   </script>
   <script>

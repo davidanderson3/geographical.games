@@ -8,10 +8,16 @@ const { Configuration, PlaidApi, PlaidEnvironments } = require('plaid');
 const cors = require('cors');
 let nodemailer;
 const MBTiles = require('@mapbox/mbtiles');
+let admin;
 try {
   nodemailer = require('nodemailer');
 } catch {
   nodemailer = null;
+}
+try {
+  admin = require('firebase-admin');
+} catch {
+  admin = null;
 }
 
 const execFileAsync = util.promisify(execFile);
@@ -191,6 +197,123 @@ app.get('/api/spotify-client-id', (req, res) => {
   res.json({ clientId });
 });
 
+// --- Geoscore overrides (persist answer text + weights on disk) ---
+const geoscoreOvFile = path.join(__dirname, 'geoscore-overrides.json');
+function readGeoscoreOverrides() {
+  try {
+    const txt = fs.readFileSync(geoscoreOvFile, 'utf8');
+    const obj = JSON.parse(txt);
+    return (obj && typeof obj === 'object') ? obj : {};
+  } catch {
+    return {};
+  }
+}
+function writeGeoscoreOverrides(data) {
+  const safe = (data && typeof data === 'object') ? data : {};
+  fs.writeFileSync(geoscoreOvFile, JSON.stringify(safe, null, 2));
+}
+
+app.get('/api/geoscore-overrides', (req, res) => {
+  const ov = readGeoscoreOverrides();
+  const out = {
+    answerOverrides: ov.answerOverrides || {},
+    weightOverrides: ov.weightOverrides || {},
+    removedAnswers: ov.removedAnswers || {},
+    weightByCountry: ov.weightByCountry || {},
+    weightByCity: ov.weightByCity || {}
+  };
+  res.json(out);
+});
+
+app.post('/api/geoscore/answer-override', (req, res) => {
+  const { questionKey, originalAnswer, newValue } = req.body || {};
+  if (typeof questionKey !== 'string' || typeof originalAnswer !== 'string' || typeof newValue !== 'string') {
+    return res.status(400).json({ error: 'invalid' });
+  }
+  const data = readGeoscoreOverrides();
+  data.answerOverrides = data.answerOverrides || {};
+  data.answerOverrides[questionKey] = data.answerOverrides[questionKey] || {};
+  if (newValue) {
+    data.answerOverrides[questionKey][originalAnswer] = newValue;
+  } else {
+    delete data.answerOverrides[questionKey][originalAnswer];
+  }
+  writeGeoscoreOverrides(data);
+  res.json({ status: 'ok' });
+});
+
+app.post('/api/geoscore/weight-override', (req, res) => {
+  const { questionKey, originalAnswer, weight } = req.body || {};
+  const w = Number(weight);
+  if (typeof questionKey !== 'string' || typeof originalAnswer !== 'string' || !Number.isFinite(w)) {
+    return res.status(400).json({ error: 'invalid' });
+  }
+  const clamped = Math.max(0, Math.min(100, Math.round(w)));
+  const data = readGeoscoreOverrides();
+  data.weightOverrides = data.weightOverrides || {};
+  data.weightOverrides[questionKey] = data.weightOverrides[questionKey] || {};
+  data.weightOverrides[questionKey][originalAnswer] = clamped;
+  writeGeoscoreOverrides(data);
+  res.json({ status: 'ok', weight: clamped });
+});
+
+app.post('/api/geoscore/weight-country', (req, res) => {
+  const { name, weight } = req.body || {};
+  const w = Number(weight);
+  if (typeof name !== 'string' || !Number.isFinite(w)) {
+    return res.status(400).json({ error: 'invalid' });
+  }
+  const clamped = Math.max(0, Math.min(100, Math.round(w)));
+  const data = readGeoscoreOverrides();
+  data.weightByCountry = data.weightByCountry || {};
+  data.weightByCountry[name] = clamped;
+  writeGeoscoreOverrides(data);
+  res.json({ status: 'ok' });
+});
+
+app.post('/api/geoscore/weight-city', (req, res) => {
+  const { name, weight } = req.body || {};
+  const w = Number(weight);
+  if (typeof name !== 'string' || !Number.isFinite(w)) {
+    return res.status(400).json({ error: 'invalid' });
+  }
+  const clamped = Math.max(0, Math.min(100, Math.round(w)));
+  const data = readGeoscoreOverrides();
+  data.weightByCity = data.weightByCity || {};
+  data.weightByCity[name] = clamped;
+  writeGeoscoreOverrides(data);
+  res.json({ status: 'ok' });
+});
+
+app.post('/api/geoscore/remove-answer', (req, res) => {
+  const { questionKey, originalAnswer } = req.body || {};
+  if (typeof questionKey !== 'string' || typeof originalAnswer !== 'string') {
+    return res.status(400).json({ error: 'invalid' });
+  }
+  const data = readGeoscoreOverrides();
+  data.removedAnswers = data.removedAnswers || {};
+  data.removedAnswers[questionKey] = data.removedAnswers[questionKey] || {};
+  data.removedAnswers[questionKey][originalAnswer] = true;
+  writeGeoscoreOverrides(data);
+  res.json({ status: 'ok' });
+});
+
+app.post('/api/geoscore/restore-answer', (req, res) => {
+  const { questionKey, originalAnswer } = req.body || {};
+  if (typeof questionKey !== 'string' || typeof originalAnswer !== 'string') {
+    return res.status(400).json({ error: 'invalid' });
+  }
+  const data = readGeoscoreOverrides();
+  if (data.removedAnswers && data.removedAnswers[questionKey]) {
+    delete data.removedAnswers[questionKey][originalAnswer];
+    if (Object.keys(data.removedAnswers[questionKey]).length === 0) {
+      delete data.removedAnswers[questionKey];
+    }
+  }
+  writeGeoscoreOverrides(data);
+  res.json({ status: 'ok' });
+});
+
 // --- Ticketmaster proxy ---
 app.get('/api/ticketmaster', async (req, res) => {
   const { apiKey, keyword } = req.query || {};
@@ -345,11 +468,14 @@ app.get('/countries', (req, res) => {
 
 app.get('/layer/:loc/:name', async (req, res) => {
   const { loc, name } = req.params;
+  const hiParam = String(req.query.hi || req.query.highres || '').toLowerCase();
+  const wantHi = hiParam === '1' || hiParam === 'true' || hiParam === 'yes';
   const baseDir = path.join(__dirname, '../geolayers-game/public/data', loc);
   let file = path.join(baseDir, `${name}.geojson`);
   if (name === 'rivers') {
+    // Prefer standard-resolution rivers by default. Only serve high-res when explicitly requested.
     const hi = path.join(baseDir, 'rivers_highres.geojson');
-    if (fs.existsSync(hi)) file = hi;
+    if (wantHi && fs.existsSync(hi)) file = hi;
   }
   if (name === 'cities' && !fs.existsSync(file)) {
     try {
@@ -457,5 +583,51 @@ function setupWatch(dir){
 
 setupWatch(path.resolve(__dirname, '../'));
 setupWatch(path.resolve(__dirname, '../geolayers-game/public'));
+
+// --- Firebase Admin for auth verification (optional) ---
+let firebaseAdminReady = false;
+try {
+  if (admin) {
+    const keyPathEnv = process.env.FIREBASE_SERVICE_ACCOUNT;
+    const defaultPath = path.join(__dirname, 'serviceAccountKey.json');
+    const altPath = path.join(__dirname, '../scripts/serviceAccountKey.json');
+    let credJson = null;
+    if (keyPathEnv && fs.existsSync(keyPathEnv)) {
+      credJson = JSON.parse(fs.readFileSync(keyPathEnv, 'utf8'));
+    } else if (fs.existsSync(defaultPath)) {
+      credJson = JSON.parse(fs.readFileSync(defaultPath, 'utf8'));
+    } else if (fs.existsSync(altPath)) {
+      credJson = JSON.parse(fs.readFileSync(altPath, 'utf8'));
+    }
+    if (credJson) {
+      admin.initializeApp({ credential: admin.credential.cert(credJson) });
+      firebaseAdminReady = true;
+      console.log('✅ Firebase Admin initialized for auth verification');
+    } else {
+      console.warn('Firebase service account not found; auth verification disabled');
+    }
+  }
+} catch (err) {
+  console.warn('Failed to initialize Firebase Admin:', err && err.message);
+}
+
+app.post('/api/auth/verify', async (req, res) => {
+  if (!firebaseAdminReady) return res.status(503).json({ error: 'auth disabled' });
+  const { idToken } = req.body || {};
+  if (!idToken) return res.status(400).json({ error: 'missing token' });
+  try {
+    const decoded = await admin.auth().verifyIdToken(idToken);
+    const user = {
+      uid: decoded.uid,
+      email: decoded.email || null,
+      name: decoded.name || null,
+      picture: decoded.picture || null,
+      provider: decoded.firebase && decoded.firebase.sign_in_provider || null
+    };
+    res.json({ user });
+  } catch (err) {
+    res.status(401).json({ error: 'invalid token' });
+  }
+});
 
 module.exports = server;

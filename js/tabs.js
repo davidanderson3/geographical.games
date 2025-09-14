@@ -3,7 +3,8 @@ function initTabs() {
   const buttons = Array.from(document.querySelectorAll('.tab-button[data-target]'));
   const panels = {
     geoscorePanel: document.getElementById('geoscorePanel'),
-    geoscoreGamePanel: document.getElementById('geoscoreGamePanel'),
+    geoscoreWorldPanel: document.getElementById('geoscoreWorldPanel'),
+    geoscoreUSPanel: document.getElementById('geoscoreUSPanel'),
     geolayersPanel: document.getElementById('geolayersPanel')
   };
 
@@ -16,20 +17,31 @@ function initTabs() {
     frame.style.height = available + 'px';
   }
 
-  const idToParam = (id) => (id === 'geolayersPanel' ? 'geolayers' : (id==='geoscoreGamePanel'?'geoscoreGame':'geoscoreAdmin'));
-  const paramToId = (p) => (p === 'geolayers' ? 'geolayersPanel' : (p==='geoscoreGame'?'geoscoreGamePanel':'geoscorePanel'));
+  const idToParam = (id) => (
+    id === 'geolayersPanel' ? 'geolayers' :
+    id === 'geoscoreWorldPanel' ? 'geoscoreWorld' :
+    id === 'geoscoreUSPanel' ? 'geoscoreUS' : 'geoscoreAdmin'
+  );
+  const paramToId = (p) => (
+    p === 'geolayers' ? 'geolayersPanel' :
+    p === 'geoscoreWorld' ? 'geoscoreWorldPanel' :
+    p === 'geoscoreUS' ? 'geoscoreUSPanel' : 'geoscorePanel'
+  );
 
   function setActive(targetId, push) {
     if (!panels[targetId]) return;
     // Update tab styles and panels
     buttons.forEach(b => b.classList.toggle('active', b.dataset.target === targetId));
     Object.entries(panels).forEach(([id, el]) => {
+      if (!el) return; // tolerate missing panels gracefully
       el.style.display = id === targetId ? 'flex' : 'none';
     });
     if (targetId === 'geoscorePanel') {
       window.initGeoScorePanel && window.initGeoScorePanel();
-    } else if (targetId === 'geoscoreGamePanel') {
-      window.initGeoScoreGame && window.initGeoScoreGame();
+    } else if (targetId === 'geoscoreWorldPanel') {
+      window.initGeoScoreGame && window.initGeoScoreGame('geoscoreWorld','world');
+    } else if (targetId === 'geoscoreUSPanel') {
+      window.initGeoScoreGame && window.initGeoScoreGame('geoscoreUS','us');
     } else if (targetId === 'geolayersPanel') {
       adjustGeolayersFrame();
       window.initGeolayersAdmin && window.initGeolayersAdmin();
