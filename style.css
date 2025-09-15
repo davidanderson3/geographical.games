@@ -344,6 +344,17 @@ body.mild-glow {
   background-color: #d1d5db;
 }
 
+#geoscoreWorldPanel .gs-tip,
+#geoscoreUSPanel .gs-tip {
+  margin: 6px 0 10px;
+  font-size: 0.95rem;
+  color: #374151;
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  padding: 6px 10px;
+  border-radius: 8px;
+}
+
 /* ------------------------------
    Headings and Inputs
 ------------------------------ */
@@ -2559,4 +2570,9 @@ h2 {
 @keyframes gs-fall {
   from { transform: translateY(0) rotate(0deg); opacity: 1; }
   to { transform: translateY(80vh) rotate(360deg); opacity: 0; }
+}
+#geoscoreWorldPanel .gs-solved-row,
+#geoscoreUSPanel .gs-solved-row,
+.gs-solved-row {
+  margin-top: 10px;
 }

@@ -67,13 +67,15 @@ function buildNameToIso3(countries){
   return map;
 }
 
-function createFlagTypingCard(options, onAnswered, allSuggestions, getScore){
+function createFlagTypingCard(options, onAnswered, allSuggestions, getScore, qIndexForTitle=null, entity='country'){
   // options: [{ name, flagSvg, flagPng }...]
   const wrap = document.createElement('div');
   wrap.className = 'geoscore-qcard';
   const title = document.createElement('div');
   title.className = 'geoscore-qtitle';
-  title.textContent = 'Pick a flag: type the country name of any one shown';
+  const qTitlePrefix = (Number.isFinite(qIndexForTitle) ? `Q${(qIndexForTitle+1)}. ` : '');
+  const noun = entity === 'state' ? 'state' : 'country';
+  title.textContent = qTitlePrefix + `Pick a flag: type the ${noun} name of any one shown`;
   const flagsRow = document.createElement('div');
   flagsRow.style.display='grid'; flagsRow.style.gridTemplateColumns='repeat(auto-fit,minmax(100px,1fr))'; flagsRow.style.gap='12px'; flagsRow.style.alignItems='center';
   const cellByName = new Map();
@@ -102,20 +104,21 @@ function createFlagTypingCard(options, onAnswered, allSuggestions, getScore){
     try { cellByName.set(normCountryName(opt.name), cell); } catch {}
     try { labelByName.set(normCountryName(opt.name), label); } catch {}
   }
-  const input = document.createElement('input'); input.type='text'; input.placeholder='Type country name'; input.autocomplete='off';
+  const input = document.createElement('input'); input.type='text'; input.placeholder='Type country name'; input.autocomplete='new-password'; input.setAttribute('autocapitalize','off'); input.spellcheck=false;
   const submitBtn = document.createElement('button'); submitBtn.type='button'; submitBtn.textContent='Submit'; submitBtn.className='gs-btn';
   const skipBtn = document.createElement('button'); skipBtn.type='button'; skipBtn.textContent="I don't know"; skipBtn.className='gs-btn gs-btn-secondary';
-  const listId = `gs-flag-suggest-${Math.random().toString(36).slice(2)}`;
+  const listId = `gs-flag-suggest-${Date.now()}-${Math.random().toString(36).slice(2)}`;
   const datalist = document.createElement('datalist'); datalist.id=listId; input.setAttribute('list', listId);
   const feedback = document.createElement('div'); feedback.className='geoscore-feedback';
 
   function norm(s){ return String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase(); }
-  const valid = new Set(options.map(o=> norm(o.name)));
+  const optionNames = options.map(o => String(o && o.name || ''));
+  const valid = new Set(optionNames.map(n=> norm(n)));
   function updateSuggestions(val){
     while(datalist.firstChild) datalist.firstChild.remove();
     const v = norm(val);
-    if(v.length < 2) return;
-    const hits = (allSuggestions||[]).filter(n=> norm(n).includes(v)).slice(0, 30);
+    if(v.length < 3) return;
+    const hits = optionNames.filter(n=> norm(n).includes(v)).slice(0, 30);
     for(const h of hits){ const opt=document.createElement('option'); opt.value=h; datalist.appendChild(opt); }
   }
   input.addEventListener('input', ()=> updateSuggestions(input.value));
@@ -150,23 +153,12 @@ function createFlagTypingCard(options, onAnswered, allSuggestions, getScore){
       // Reveal labels for all flags
       try{ for(const opt of options){ const lbl = labelByName.get(normCountryName(opt.name)); if(lbl) lbl.style.opacity = '1'; } }catch{}
       try{ onAnswered && onAnswered({ correct:true, score: sc }); }catch{}
-      try{ wrap.dispatchEvent(new CustomEvent('answered',{ detail: { correct:true, score: sc } })); }catch{}
     }else{
-      // Show incorrect and reveal labels, keep the selection visible
-      try{
-        const solved = document.createElement('div');
-        solved.className = 'gs-solved-row';
-        const txt = document.createElement('span');
-        txt.style.color = '#a00'; txt.style.fontWeight='700';
-        txt.textContent = '✗ Incorrect';
-        if(controls && controls.parentNode===wrap) wrap.replaceChild(solved, controls), solved.appendChild(txt);
-      }catch{}
-      feedback.textContent='';
-      lock();
-      // Reveal labels for all flags
-      try{ for(const opt of options){ const lbl = labelByName.get(normCountryName(opt.name)); if(lbl) lbl.style.opacity = '1'; } }catch{}
-      try{ onAnswered && onAnswered({ correct:false, score:0 }); }catch{}
-      try{ wrap.dispatchEvent(new CustomEvent('answered',{ detail: { correct:false, score: 0 } })); }catch{}
+      // Block non-suggested inputs; require selecting one of the shown flags
+      feedback.textContent = 'Please choose one of the shown flags.';
+      feedback.style.color = '#a00';
+      try{ input.focus(); input.select(); }catch{}
+      return;
     }
   }
   input.addEventListener('keydown',(e)=>{ if(e.key==='Enter') submit(); });
@@ -174,14 +166,15 @@ function createFlagTypingCard(options, onAnswered, allSuggestions, getScore){
   skipBtn.addEventListener('click', ()=>{
     if(locked) return;
     lock();
-    // Replace the controls with "Don't know (100)"
+    // Replace the controls with "Don't know (+100)"
     try{
       const solvedRow = document.createElement('div');
       solvedRow.className = 'gs-solved-row';
+      solvedRow.style.marginTop = '6px';
       const solvedText = document.createElement('span');
-      solvedText.style.color = '#111827';
+      solvedText.style.color = '#a00';
       solvedText.style.fontWeight = '700';
-      solvedText.textContent = `Don't know (100)`;
+      solvedText.textContent = `Don't know (+100)`;
       solvedRow.appendChild(solvedText);
       if(controls && controls.parentNode === wrap){ wrap.replaceChild(solvedRow, controls); }
     }catch{}
@@ -201,7 +194,7 @@ function createFlagTypingCard(options, onAnswered, allSuggestions, getScore){
   return wrap;
 }
 
-function createQuestionCard(q, idx, onAnswered, suggestList, isState=false){
+function createQuestionCard(q, idx, onAnswered, suggestList, isState=false, globalCitySet=null){
   const wrap = document.createElement('div');
   wrap.className = 'geoscore-qcard';
   const title = document.createElement('div');
@@ -218,14 +211,14 @@ function createQuestionCard(q, idx, onAnswered, suggestList, isState=false){
   input.type = 'text';
   // Leave placeholder blank per request
   input.placeholder = '';
-  input.autocomplete = 'off';
+  input.autocomplete = 'new-password'; input.setAttribute('autocapitalize','off'); input.spellcheck=false;
   const submitBtn = document.createElement('button');
   submitBtn.type = 'button';
   submitBtn.textContent = 'Submit';
   const skipBtn = document.createElement('button');
   skipBtn.type = 'button';
   skipBtn.textContent = "I don't know";
-  const listId = `gs-suggest-${idx}`;
+  const listId = `gs-suggest-${Date.now()}-${idx}-${Math.random().toString(36).slice(2)}`;
   const datalist = document.createElement('datalist');
   datalist.id = listId;
   input.setAttribute('list', listId);
@@ -235,7 +228,8 @@ function createQuestionCard(q, idx, onAnswered, suggestList, isState=false){
   const answers = (q.answers||[]).map(a => ({ raw:a, key: normalizeAnswer(a.answer) }));
   const answerSet = new Set(answers.map(a=>a.key));
   const CITY_SUGGEST_MIN_POP = 5000;
-  const suggestionsSource = isState ? (q.answers || []) : ((suggestList && suggestList.length ? suggestList : q.answers) || []);
+  // Prefer provided suggestList (e.g., global US cities in state mode); fallback to this question's answers
+  const suggestionsSource = ((suggestList && suggestList.length ? suggestList : q.answers) || []);
   const suggestionsAll = (suggestionsSource)
     .map(a => {
       const raw = typeof a === 'string' ? { answer: a } : a;
@@ -253,7 +247,7 @@ function createQuestionCard(q, idx, onAnswered, suggestList, isState=false){
   function updateSuggestions(val){
     while(datalist.firstChild) datalist.firstChild.remove();
     const v = normalizeAnswer(val);
-    if(v.length < 5) return;
+    if(v.length < 3) return;
     const hits = suggestions.filter(a=> a.key.includes(v)).slice(0,20);
     for(const h of hits){ const opt=document.createElement('option'); opt.value=h.raw.answer; datalist.appendChild(opt);}
   }
@@ -275,16 +269,13 @@ function createQuestionCard(q, idx, onAnswered, suggestList, isState=false){
         submitKey = normalizeAnswer(chosen.raw.answer);
       }
     }
-    // Validate the city exists in our known list
+    // Validate the city exists in our question's suggestion pool; if not, block submission
     const chosenAll = suggestionsAll.find(e => e.key === submitKey) || null;
     if(!chosenAll){
-      // Treat as incorrect (e.g., valid city from another country/state or an invalid entry)
-      feedback.textContent = '✗ Incorrect';
+      feedback.textContent = 'Please choose a city from the suggestions for this question.';
       feedback.style.color = '#a00';
-      lock();
-      const res = { correct: false, score: 0 };
-      try{ typeof onAnswered === 'function' && onAnswered(res); }catch{}
-      return res;
+      try{ input.focus(); input.select(); }catch{}
+      return;
     }
     // If we know population and it is below threshold, allow retry
     const popVal = chosenAll.raw && chosenAll.raw.meta && Number(chosenAll.raw.meta.population);
@@ -295,7 +286,7 @@ function createQuestionCard(q, idx, onAnswered, suggestList, isState=false){
       return;
     }
 
-    input.value='';
+    // Do not clear input before we render feedback; preserve for display
     if(answerSet.has(submitKey)){
       const hit = answers.find(a=>a.key===submitKey);
       // Replace the input row with the solved answer and score
@@ -318,34 +309,45 @@ function createQuestionCard(q, idx, onAnswered, suggestList, isState=false){
       try{ typeof onAnswered === 'function' && onAnswered(res); }catch{}
       return res;
     }else{
-      // Valid city but not on this card's accepted list — explain clearly
-      const m = /^\s*Name a city in\s+(.+)$/i.exec(String(q && q.question || ''));
-      const region = m && m[1] ? m[1].trim() : '';
-      feedback.textContent = region
-        ? `City recognized, but this card only accepts a curated list for ${region}. Try a larger or more well‑known city in ${region}.`
-        : `City recognized, but this card only accepts a curated list of answers. Try a larger or more well‑known city.`;
-      feedback.style.color = '#a00';
-      try{ input.focus(); input.select(); }catch{}
-      return;
+      // Recognized city, but not valid for this question's region -> mark incorrect (+100) and note region
+      lock();
+      try {
+        if (inputRow && inputRow.parentNode === wrap) {
+          const solvedRow = document.createElement('div');
+          solvedRow.className = 'gs-solved-row';
+          solvedRow.style.marginTop = '6px';
+          const solvedText = document.createElement('span');
+          solvedText.style.color = '#a00';
+          solvedText.style.fontWeight = '700';
+          const userTyped = String(input.value || '').trim();
+          const m = /^\s*Name a city in\s+(.+)$/i.exec(String(q && q.question || ''));
+          const region = m && m[1] ? m[1].trim() : '';
+          solvedText.textContent = `✗ ${userTyped} (+100${region ? ` — not in ${region}` : ''})`;
+          solvedRow.appendChild(solvedText);
+          wrap.replaceChild(solvedRow, inputRow);
+        }
+      } catch {}
+      feedback.textContent = '';
+      const res = { correct: false, score: 100 };
+      try{ typeof onAnswered === 'function' && onAnswered(res); }catch{}
+      return res;
     }
   }
-  input.addEventListener('keydown', (e)=>{ if(e.key==='Enter'){ const res=submit(); wrap.dispatchEvent(new CustomEvent('answered',{detail:res})); }});
-  submitBtn.addEventListener('click', ()=>{
-    const res = submit();
-    wrap.dispatchEvent(new CustomEvent('answered',{detail:res}));
-  });
+  input.addEventListener('keydown', (e)=>{ if(e.key==='Enter'){ submit(); }});
+  submitBtn.addEventListener('click', ()=>{ submit(); });
   skipBtn.addEventListener('click', ()=>{
     if(locked) return;
     lock();
-    // Replace input row with "Don't know (100)"
+    // Replace input row with "Don't know (+100)"
     try {
       if (inputRow && inputRow.parentNode === wrap) {
         const solvedRow = document.createElement('div');
         solvedRow.className = 'gs-solved-row';
+        solvedRow.style.marginTop = '6px';
         const solvedText = document.createElement('span');
-        solvedText.style.color = '#111827';
+        solvedText.style.color = '#a00';
         solvedText.style.fontWeight = '700';
-        solvedText.textContent = `Don't know (100)`;
+        solvedText.textContent = `Don't know (+100)`;
         solvedRow.appendChild(solvedText);
         wrap.replaceChild(solvedRow, inputRow);
       }
@@ -353,7 +355,6 @@ function createQuestionCard(q, idx, onAnswered, suggestList, isState=false){
     feedback.textContent = '';
     const res = { correct: false, score: 100, skipped: true };
     try{ typeof onAnswered === 'function' && onAnswered(res); }catch{}
-    wrap.dispatchEvent(new CustomEvent('answered',{detail:res}));
   });
 
   // Single row layout: input | Submit | I don't know
@@ -423,6 +424,22 @@ export async function initGeoScoreGame(mountId='geoscoreGame', initialMode=null)
     if(t === 'state') byType.state.push(q);
     else if(t === 'country' || t === 'capital') byType.country.push(q);
   });
+  // Build a global set of known city names across all questions for validation
+  const globalCitySet = new Set();
+  const globalCityListArr = [];
+  try{
+    for(const q of (Array.isArray(all)?all:[])){
+      for(const a of (q && q.answers) || []){
+        const nm = String(a && a.answer || '');
+        const key = normalizeAnswer(nm);
+        if(key){
+          if(!globalCitySet.has(key)) globalCityListArr.push(nm);
+          globalCitySet.add(key);
+        }
+      }
+    }
+  }catch{}
+  const globalCityList = globalCityListArr;
 
   // Build country answer pool for flags mode from Countries category answers
   const countryAnswerSet = new Map(); // name -> max score
@@ -458,6 +475,16 @@ export async function initGeoScoreGame(mountId='geoscoreGame', initialMode=null)
     const rec = flagsMeta && flagsMeta.countries && flagsMeta.countries[c.code];
     return !!(rec && (rec.flagSvg || rec.flagPng || (rec.iso2 && String(rec.iso2).length === 2)));
   }).map(c => c.name);
+  // Build a pool of US state names that have a flag (svg available)
+  const allStateFlagNames = (()=>{
+    try{
+      const byName = flagsMeta && flagsMeta.states && flagsMeta.states.byName || {};
+      return Object.keys(byName || {}).filter(name => {
+        const rec = byName[name];
+        return !!(rec && (rec.flagSvg));
+      });
+    }catch{ return []; }
+  })();
 
 
   const header = document.createElement('div');
@@ -475,6 +502,14 @@ export async function initGeoScoreGame(mountId='geoscoreGame', initialMode=null)
   scoreWrap.appendChild(scoreEl);
   header.append(controlsWrap, scoreWrap);
   mount.appendChild(header);
+
+  // Tip banner
+  try{
+    const tip = document.createElement('div');
+    tip.className = 'gs-tip';
+    tip.textContent = 'Choose the rarest answer for a better score.';
+    mount.appendChild(tip);
+  }catch{}
 
   function showRoundComplete(finalScore, maxScore){
     try{ document.body.classList.add('mild-glow'); setTimeout(()=>document.body.classList.remove('mild-glow'), 1500);}catch{}
@@ -535,23 +570,36 @@ export async function initGeoScoreGame(mountId='geoscoreGame', initialMode=null)
   async function buildRound(){
     grid.innerHTML=''; total=0; answered=0;
     const pool = byType[currentGameType] || [];
-    const includeFlagCard = (currentGameType === 'country');
+    const includeFlagCard = (currentGameType === 'country' || currentGameType === 'state');
 
-    // Build flags options if applicable and available
-    let flagCard = null;
-    if(includeFlagCard){
-      // Use the full country list with flags to ensure variety across the whole world
-      const poolNames = allFlagNames;
-      if(poolNames.length >= 5){
-        const targets = pickN(poolNames, 5);
-        const opts = targets.map(n=>{
-          const iso3 = nameToIso3.get(String(n).toLowerCase());
-          const m = (flagsMeta.countries && flagsMeta.countries[iso3]) || {};
-          // Fallback to flagcdn using iso2 if svg/png missing
-          const iso2 = (m.iso2||'').toLowerCase();
-          const fallback = iso2 ? `https://flagcdn.com/w320/${iso2}.png` : '';
-          return { name:n, flagSvg:(m.flagSvg||''), flagPng:(m.flagPng||fallback) };
-        });
+    // Determine if a flag card can be included (country mode and have enough options)
+    const poolNames = (currentGameType === 'country') ? allFlagNames : (currentGameType === 'state' ? allStateFlagNames : []);
+    const canIncludeFlag = includeFlagCard && poolNames.length >= 1;
+
+    // Determine how many normal questions to pick so total cards = 6 with flag as last
+    const normalCount = Math.min((canIncludeFlag?5:6), pool.length);
+    const picked = pickN(pool, normalCount);
+
+    const roundMax = 600; // always 6 cards * 100
+    scoreEl.textContent = `Score: 0`;
+    const sugg = currentGameType === 'state' ? await getUsCities() : globalCityList;
+
+    // Build ordered list of cards: first text questions, then flag last
+    const cards = [];
+    picked.forEach((q)=>{ cards.push({ type:'text', q }); });
+    if(canIncludeFlag) cards.push({ type:'flag' });
+
+    const targetCount = cards.length;
+
+    function renderAt(index){
+      // Do not clear the grid here; we want previously answered cards to remain visible.
+      if(index >= targetCount){
+        showRoundComplete(total, roundMax);
+        return;
+      }
+      const item = cards[index];
+      if(item.type === 'flag'){
+        // Build a fresh flag card for this index so the title shows correct Q#
         const onAns = (res)=>{
           if(!res) return;
           answered += 1;
@@ -559,52 +607,49 @@ export async function initGeoScoreGame(mountId='geoscoreGame', initialMode=null)
           total += s;
           scoreEl.textContent = `Score: ${total}`;
           if(answered >= targetCount){ showRoundComplete(total, roundMax); }
+          else { renderAt(index+1); }
         };
-        const getScore = (name)=> (flagScoreMap.get(normCountryName(name)) || 0);
-        flagCard = createFlagTypingCard(opts, onAns, allFlagNames, getScore);
-      }
-    }
-
-    // Determine how many normal questions to pick so total cards = 6 with flag as last
-    const normalCount = Math.min((flagCard?5:6), pool.length);
-    const picked = pickN(pool, normalCount);
-
-    const roundMax = 600; // always 6 cards * 100
-    scoreEl.textContent = `Score: 0`;
-    const sugg = currentGameType === 'state' ? await getUsCities() : null;
-
-    // Interleave: start with a flag card if present, then distribute roughly evenly
-    const cards = [];
-    picked.forEach((q)=>{ cards.push({ type:'text', q }); });
-    if(flagCard) cards.push({ type:'flag', el: flagCard });
-
-    const targetCount = cards.length;
-    cards.forEach((item, idx) =>{
-      if(item.type==='flag'){
-        // Wrap onAns to detect completion
-        const el = item.el;
-        const origHandler = el.__onAnsweredFlag;
+        const isCountryMode = (currentGameType === 'country');
+        const getScore = (name)=> isCountryMode ? (flagScoreMap.get(normCountryName(name)) || 0) : 0;
+        // Create options with proper flag assets
+        const targets = pickN(poolNames, Math.min(5, poolNames.length));
+        let opts;
+        if(isCountryMode){
+          opts = targets.map(n=>{
+            const iso3 = nameToIso3.get(String(n).toLowerCase());
+            const m = (flagsMeta.countries && flagsMeta.countries[iso3]) || {};
+            const iso2 = (m.iso2||'').toLowerCase();
+            const fallback = iso2 ? `https://flagcdn.com/w320/${iso2}.png` : '';
+            return { name:n, flagSvg:(m.flagSvg||''), flagPng:(m.flagPng||fallback) };
+          });
+        } else {
+          const byName = flagsMeta && flagsMeta.states && flagsMeta.states.byName || {};
+          opts = targets.map(n=>{
+            const m = byName[n] || {};
+            return { name:n, flagSvg:(m.flagSvg||''), flagPng:'' };
+          });
+        }
+        const el = createFlagTypingCard(opts, onAns, poolNames, getScore, index, isCountryMode ? 'country' : 'state');
         grid.appendChild(el);
       } else {
         const q = item.q;
-        const perQMax = Math.max(0, ...((q.answers||[]).map(a => Number(a.score)||0)));
-        const normDen = perQMax > 0 ? perQMax : 100;
         const onAnswered = (res)=>{
           if(!res) return;
           answered += 1;
           const raw = Number(res.score)||0;
-          const norm = Math.max(0, Math.min(100, Math.round((raw / normDen) * 100)));
-          total += norm;
-          const pct = Math.round((total / roundMax) * 100);
+          const s = Math.max(0, Math.min(100, Math.round(raw)));
+          total += s;
           scoreEl.textContent = `Score: ${total}`;
           if(answered >= targetCount){ showRoundComplete(total, roundMax); }
+          else { renderAt(index+1); }
         };
-        const card = createQuestionCard(q, idx, onAnswered, sugg, currentGameType === 'state');
+        const card = createQuestionCard(q, index, onAnswered, sugg, currentGameType === 'state', globalCitySet);
         grid.appendChild(card);
       }
-    });
+    }
 
-    // Flag completion handled in onAns
+    // Start with the first card
+    renderAt(0);
   }
   startBtn.addEventListener('click', () => { buildRound(); });
   scoreEl.textContent = 'Score: 0';

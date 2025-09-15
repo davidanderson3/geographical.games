@@ -646,8 +646,8 @@ export async function initGeoScorePanel() {
   const ansUI = makeCol('Answers');
   countryUI.col.style.width = '240px';
   realmUI.col.style.width = '160px';
-  // Swap Questions and Answers column order
-  shell.append(realmUI.col, countryUI.col, catUI.col, ansUI.col, qUI.col);
+  // Categories column removed; order: World/US | Countries/States | Questions | Answers
+  shell.append(realmUI.col, countryUI.col, qUI.col, ansUI.col);
 
   const all = await loadQuestions();
   // Load countries list
@@ -666,7 +666,9 @@ export async function initGeoScorePanel() {
     const aliases = {
       'united states of america':'United States', 'united states':'United States', 'usa':'United States', 'u.s.':'United States',
       'united kingdom':'United Kingdom', 'u.k.':'United Kingdom', 'uk':'United Kingdom', 'great britain':'United Kingdom',
-      'czech republic':'Czechia', 'turkiye':'Turkey', 'türkiye':'Turkey',
+      'czech republic':'Czechia',
+      // Türkiye canonical
+      'turkey':'Türkiye', 'turkiye':'Türkiye', 'türkiye':'Türkiye',
       'syrian arab republic':'Syria', 'iran (islamic republic of)':'Iran', 'viet nam':'Vietnam',
       'lao people\'s democratic republic':'Laos', 'moldova, republic of':'Moldova',
       'tanzania, united republic of':'Tanzania', 'united republic of tanzania':'Tanzania',
@@ -676,7 +678,8 @@ export async function initGeoScorePanel() {
       'congo (kinshasa)':'Democratic Republic of the Congo', 'democratic republic of the congo':'Democratic Republic of the Congo',
       'congo, democratic republic of the':'Democratic Republic of the Congo',
       'congo (congo-brazzaville)':'Republic of the Congo', 'republic of the congo':'Republic of the Congo',
-      'cote d\'ivoire':'Ivory Coast', 'côte d\'ivoire':'Ivory Coast',
+      // Côte d'Ivoire canonical
+      'ivory coast':"Côte d'Ivoire", 'cote d\'ivoire':"Côte d'Ivoire", 'côte d\'ivoire':"Côte d'Ivoire",
       'sao tome and principe':'São Tomé and Principe', 'eswatini':'eSwatini', 'swaziland':'eSwatini',
       'burma':'Myanmar'
     };
@@ -793,12 +796,24 @@ export async function initGeoScorePanel() {
 
   function questionInvolvesCountry(q, countryObj){
     if(!q || !countryObj) return false;
+    const qtext = String(q.question||'');
     const cname = String(countryObj.name||'');
-    const mm = /^\s*Name a city in\s+(.+)$/i.exec(String(q.question||''));
-    if(mm && mm[1] && normalizeCountryName(mm[1].trim()) === normalizeCountryName(cname)) return true;
-    // Country questions: include if answers contain this country name
-    const answers = Array.isArray(q.answers)? q.answers : [];
-    return answers.some(a => normalizeCountryName(a && a.answer) === normalizeCountryName(cname));
+    const isState = !!countryObj.isState;
+    const mm = /^\s*Name a city in\s+(.+)$/i.exec(qtext);
+    if(mm && mm[1]){
+      // City questions must match the exact target only (country or state), never by city answers
+      const target = mm[1].trim();
+      if(isState){
+        return target.toLowerCase() === cname.toLowerCase();
+      }
+      return normalizeCountryName(target).toLowerCase() === normalizeCountryName(cname).toLowerCase();
+    }
+    // For country questions (e.g., starts with, length), include if answers contain this country name
+    if(/\bcountry\b/i.test(qtext)){
+      const answers = Array.isArray(q.answers)? q.answers : [];
+      return answers.some(a => normalizeCountryName(a && a.answer).toLowerCase() === normalizeCountryName(cname).toLowerCase());
+    }
+    return false;
   }
 
   function renderCountries(){
@@ -821,42 +836,13 @@ export async function initGeoScorePanel() {
       li.textContent = c.name;
       li.addEventListener('click', ()=>{
         selectedCountry = c;
-        // Pick first category that has questions involving this country
-        const cats = Array.from(byCat.keys()).filter(cat => realmForCategory(cat)===selectedRealm)
-          .filter(cat => (byCat.get(cat)||[]).some(q => (function(qx){
-            const mm = /^\s*Name a city in\s+(.+)$/i.exec(String(qx.question||''));
-            if(mm && mm[1]){
-              const name = String(c.name||'');
-              const targetNorm = String(mm[1]).trim().toLowerCase();
-              return targetNorm === name.toLowerCase() || normalizeCountryName(mm[1].trim()).toLowerCase() === normalizeCountryName(name).toLowerCase();
-            }
-            if(!c.isState){
-              const answers = Array.isArray(qx.answers)? qx.answers : [];
-              return answers.some(a => normalizeCountryName(a && a.answer).toLowerCase() === normalizeCountryName(c.name).toLowerCase());
-            }
-            return false;
-          })(q)))
-          .sort();
-        selectedCat = cats[0] || null;
-        // Select first question in that cat
-        if(selectedCat){
-          const qs = (byCat.get(selectedCat)||[]).filter(q=>{
-            const name = c.name;
-            const mm = /^\s*Name a city in\s+(.+)$/i.exec(String(q.question||''));
-            if(mm && mm[1]){
-              const targetNorm = String(mm[1]).trim().toLowerCase();
-              return targetNorm === name.toLowerCase() || normalizeCountryName(mm[1].trim()).toLowerCase() === normalizeCountryName(name).toLowerCase();
-            }
-            if(!c.isState){
-              const answers = Array.isArray(q.answers)? q.answers : [];
-              return answers.some(a => normalizeCountryName(a && a.answer).toLowerCase() === normalizeCountryName(name).toLowerCase());
-            }
-            return false;
-          })
-            .sort((a,b)=> String(a.question).localeCompare(String(b.question)));
-          selectedQuestion = qs[0] || null;
-        } else { selectedQuestion = null; }
-        renderCountries(); renderRealms(); renderCategories(); renderQuestions(); renderAnswers();
+        // Select first relevant question across all categories
+        const pooled = [];
+        for(const arr of byCat.values()){ Array.isArray(arr) && pooled.push(...arr); }
+        const qs = pooled.filter(q => questionInvolvesCountry(q, c))
+          .sort((a,b)=> String(a.question).localeCompare(String(b.question)));
+        selectedQuestion = qs[0] || null;
+        renderCountries(); renderRealms(); renderQuestions(); renderAnswers();
       });
       ul.appendChild(li);
     }
@@ -929,8 +915,10 @@ export async function initGeoScorePanel() {
     }
     const ul = document.createElement('ul');
     ul.className = 'geoscore-list';
-    const qsAll = selectedCat ? byCat.get(selectedCat) : [];
-    const qs = (qsAll || [])
+    // Pool all questions across categories (since Categories column is removed)
+    const pooled = [];
+    for(const arr of byCat.values()){ Array.isArray(arr) && pooled.push(...arr); }
+    const qs = pooled
       .filter(q=> !selectedCountry || questionInvolvesCountry(q, selectedCountry))
       .filter(q=> !selectedAnswerFilter || (Array.isArray(q.answers) && q.answers.some(a=> String(a && a.answer||'') === selectedAnswerFilter)))
       .slice().sort((a,b)=> String(a.question).localeCompare(String(b.question)));
@@ -1157,12 +1145,10 @@ export async function initGeoScorePanel() {
     selectedQuestion = initQs[0] || null;
   }
 
-  renderCountries();
   renderRealms();
-  renderCategories();
+  renderCountries();
   renderQuestions();
   renderAnswers();
-  updateMap();
 
 }
 
