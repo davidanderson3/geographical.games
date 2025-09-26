@@ -219,6 +219,7 @@ app.get('/api/geoscore-overrides', (req, res) => {
     answerOverrides: ov.answerOverrides || {},
     weightOverrides: ov.weightOverrides || {},
     removedAnswers: ov.removedAnswers || {},
+    removedQuestions: ov.removedQuestions || {},
     weightByCountry: ov.weightByCountry || {},
     weightByCity: ov.weightByCity || {}
   };
@@ -309,6 +310,33 @@ app.post('/api/geoscore/restore-answer', (req, res) => {
     if (Object.keys(data.removedAnswers[questionKey]).length === 0) {
       delete data.removedAnswers[questionKey];
     }
+  }
+  writeGeoscoreOverrides(data);
+  res.json({ status: 'ok' });
+});
+
+// Remove a question entirely by its exact question text
+app.post('/api/geoscore/remove-question', (req, res) => {
+  const { questionKey } = req.body || {};
+  if (typeof questionKey !== 'string' || !questionKey.trim()) {
+    return res.status(400).json({ error: 'invalid' });
+  }
+  const data = readGeoscoreOverrides();
+  data.removedQuestions = data.removedQuestions || {};
+  data.removedQuestions[questionKey] = true;
+  writeGeoscoreOverrides(data);
+  res.json({ status: 'ok' });
+});
+
+// Restore a previously removed question
+app.post('/api/geoscore/restore-question', (req, res) => {
+  const { questionKey } = req.body || {};
+  if (typeof questionKey !== 'string' || !questionKey.trim()) {
+    return res.status(400).json({ error: 'invalid' });
+  }
+  const data = readGeoscoreOverrides();
+  if (data.removedQuestions) {
+    delete data.removedQuestions[questionKey];
   }
   writeGeoscoreOverrides(data);
   res.json({ status: 'ok' });

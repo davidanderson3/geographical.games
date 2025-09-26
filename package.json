@@ -22,6 +22,7 @@
     "fetch:elevation": "node scripts/fetchElevationContours.js --zoom=8 --interval=500",
     "fetch:rivers": "node scripts/fetchRiversToGeoJSON.js",
     "generate:flags": "node scripts/generateFlagsMetadata.js",
+    "generate:world-cities": "node scripts/generateWorldCitiesList.js",
     "generate": "npm run generate:countries && npm run generate:flags && npm run generate:tiles",
     "prepare": "husky install",
     "start": "node backend/server.js",

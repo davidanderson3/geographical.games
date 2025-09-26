@@ -61,14 +61,18 @@ function generateCapitalLetterQuestions(){
     'Hanoi','Harare','Havana','Helsinki','Honiara',
     'Kabul','Kampala','Kathmandu','Khartoum','Kigali','Kingston','Kingstown','Kinshasa','Kuala Lumpur','Kuwait City',
     'La Paz','Libreville','Lilongwe','Lima','Lisbon','Ljubljana','Lomé','London','Luxembourg','Lusaka',
-    'Madrid','Majuro','Malabo','Male','Manila','Maputo','Maseru','Mbabane','Mexico City','Minsk','Mogadishu','Monaco','Monrovia','Montevideo','Moroni','Moscow','Muscat',
+    'Madrid','Majuro','Malabo','Male','Managua','Manila','Maputo','Maseru','Mbabane','Mexico City','Minsk','Mogadishu','Monaco','Monrovia','Montevideo','Moroni','Moscow','Muscat',
     'Nairobi','Nassau','Naypyidaw','Ngerulmud','Niamey','Nicosia','Nouakchott','Noumea','Nuku\'alofa','Nuuk',
     'Panama City','Paramaribo','Paris','Phnom Penh','Podgorica','Port-au-Prince','Port Louis','Port Moresby','Porto-Novo','Prague','Praia','Pretoria','Pristina','Pyongyang','Palikir',
     'Rabat','Reykjavik','Riga','Riyadh','Rome','Roseau',
     'San Jose','San Marino','San Salvador','Sana\'a','Santiago','Santo Domingo','Sao Tome','Sarajevo','Seoul','Singapore','Skopje','Sofia','South Tarawa','Sri Jayawardenepura Kotte','Stockholm','Sucre','Suva',
     'Tallinn','Tashkent','Tbilisi','Tegucigalpa','Tehran','Thimphu','Tirana','Tokyo','Tripoli','Tunis','Torshavn','Taipei',
     'Vaduz','Valletta','Vatican City','Victoria','Vienna','Vientiane','Vilnius',
-    'Warsaw','Washington','Wellington','West Island','Willemstad','Windhoek'
+    'Warsaw','Washington','Wellington','West Island','Willemstad','Windhoek',
+    // Added to complete set
+    'Andorra la Vella','Baghdad','Baku','Bamako','Bandar Seri Begawan','Bangui','Banjul','Basseterre','Freetown','Funafuti',
+    'Islamabad','Jakarta','Jerusalem','Juba','Luanda','N\'Djamena','Oslo','Ottawa','Ouagadougou','Papeete',
+    'Port of Spain','Port Vila','Quito','Saint George\'s','Saint John\'s','Ulaanbaatar','Yamoussoukro','Yaounde','Yerevan','Zagreb'
   ];
   const byLetter = {};
   capitals.forEach(c => {
@@ -98,14 +102,18 @@ function generateCapitalEndingQuestions(){
     'Hanoi','Harare','Havana','Helsinki','Honiara',
     'Kabul','Kampala','Kathmandu','Khartoum','Kigali','Kingston','Kingstown','Kinshasa','Kuala Lumpur','Kuwait City',
     'La Paz','Libreville','Lilongwe','Lima','Lisbon','Ljubljana','Lomé','London','Luxembourg','Lusaka',
-    'Madrid','Majuro','Malabo','Male','Manila','Maputo','Maseru','Mbabane','Mexico City','Minsk','Mogadishu','Monaco','Monrovia','Montevideo','Moroni','Moscow','Muscat',
+    'Madrid','Majuro','Malabo','Male','Managua','Manila','Maputo','Maseru','Mbabane','Mexico City','Minsk','Mogadishu','Monaco','Monrovia','Montevideo','Moroni','Moscow','Muscat',
     'Nairobi','Nassau','Naypyidaw','Ngerulmud','Niamey','Nicosia','Nouakchott','Noumea','Nuku\'alofa','Nuuk',
     'Panama City','Paramaribo','Paris','Phnom Penh','Podgorica','Port-au-Prince','Port Louis','Port Moresby','Porto-Novo','Prague','Praia','Pretoria','Pristina','Pyongyang','Palikir',
     'Rabat','Reykjavik','Riga','Riyadh','Rome','Roseau',
     'San Jose','San Marino','San Salvador','Sana\'a','Santiago','Santo Domingo','Sao Tome','Sarajevo','Seoul','Singapore','Skopje','Sofia','South Tarawa','Sri Jayawardenepura Kotte','Stockholm','Sucre','Suva',
     'Tallinn','Tashkent','Tbilisi','Tegucigalpa','Tehran','Thimphu','Tirana','Tokyo','Tripoli','Tunis','Torshavn','Taipei',
     'Vaduz','Valletta','Vatican City','Victoria','Vienna','Vientiane','Vilnius',
-    'Warsaw','Washington','Wellington','West Island','Willemstad','Windhoek'
+    'Warsaw','Washington','Wellington','West Island','Willemstad','Windhoek',
+    // Added to complete set
+    'Andorra la Vella','Baghdad','Baku','Bamako','Bandar Seri Begawan','Bangui','Banjul','Basseterre','Freetown','Funafuti',
+    'Islamabad','Jakarta','Jerusalem','Juba','Luanda','N\'Djamena','Oslo','Ottawa','Ouagadougou','Papeete',
+    'Port of Spain','Port Vila','Quito','Saint George\'s','Saint John\'s','Ulaanbaatar','Yamoussoukro','Yaounde','Yerevan','Zagreb'
   ];
   const byEnd = new Map();
   function lastLetter(name){
@@ -242,6 +250,7 @@ async function fetchServerOverrides(){
     answerOverrides: readAnswerOverrides(),
     weightOverrides: readAnswerWeightOverrides(),
     removedAnswers: {},
+    removedQuestions: {},
     weightByCountry: {},
     weightByCity: {}
   };
@@ -406,6 +415,113 @@ function augmentWithCountryLengthQuestions(list){
   }
 }
 
+// Build country-derived letter and length questions from countries.json to ensure completeness
+async function buildCountryDerivedQuestions(list){
+  const existing = new Set((Array.isArray(list)?list:[]).map(q=> String(q && q.question || '')));
+  const namesSet = await getCountryNameSet();
+  const names = Array.from(namesSet || []).filter(Boolean).sort((a,b)=> String(a).localeCompare(String(b)));
+  // Letters
+  const byLetter = new Map();
+  for(const name of names){
+    const L = String(name).trim()[0]?.toUpperCase();
+    if(!L) continue;
+    if(!byLetter.has(L)) byLetter.set(L, []);
+    byLetter.get(L).push(name);
+  }
+  for(const [L, arr] of byLetter.entries()){
+    const listSorted = arr.slice().sort((a,b)=> String(a).localeCompare(String(b)));
+    if(listSorted.length < 5) continue;
+    const qtext = `Name a country that starts with ${L}`;
+    if(!existing.has(qtext)){
+      const answers = listSorted.map(name => ({ answer: name, score: 0, count: 0 }));
+      list.push({ question: qtext, answers });
+      existing.add(qtext);
+    }
+  }
+  // Lengths
+  const byLen = new Map();
+  for(const name of names){
+    const n = String(name || '').replace(/^the\s+/i,'').trim();
+    const L = n.length;
+    if(!byLen.has(L)) byLen.set(L, []);
+    byLen.get(L).push(name);
+  }
+  const lens = Array.from(byLen.keys()).sort((a,b)=>a-b);
+  for(const n of lens){
+    if(n >= 12) continue;
+    const listN = (byLen.get(n)||[]).slice().sort((a,b)=> String(a).localeCompare(String(b)));
+    if(listN.length < 5) continue;
+    const qtext = `Name a country with ${n} letters`;
+    if(!existing.has(qtext)){
+      const answers = listN.map(name => ({ answer: name, score: 0, count: 0 }));
+      list.push({ question: qtext, answers });
+      existing.add(qtext);
+    }
+  }
+  const many = lens.filter(n=> n>=12).flatMap(n => (byLen.get(n)||[]));
+  if(many.length){
+    const uniq = Array.from(new Set(many)).sort((a,b)=> String(a).localeCompare(String(b)));
+    const qtext = `Name a country with 12 or more letters`;
+    if(!existing.has(qtext)){
+      const answers = uniq.map(name => ({ answer: name, score: 0, count: 0 }));
+      list.push({ question: qtext, answers });
+      existing.add(qtext);
+    }
+  }
+}
+
+// Build capital-derived letter and ending questions using capitals present in dataset; fallback to static list
+function buildCapitalDerivedQuestions(list){
+  const existing = new Set((Array.isArray(list)?list:[]).map(q=> String(q && q.question || '')));
+  // Collect capitals from explicit Qs
+  const caps = new Set();
+  for(const q of (Array.isArray(list)?list:[])){
+    const qt = String(q && q.question || '');
+    const m = /^\s*What is the capital of\s+(.+?)\?\s*$/i.exec(qt);
+    if(m && m[1]){
+      const ans = Array.isArray(q && q.answers) && q.answers[0] && q.answers[0].answer ? String(q.answers[0].answer) : '';
+      if(ans) caps.add(ans);
+    }
+  }
+  if(caps.size === 0){
+    // Fallback to static list
+    for(const name of generateCapitalLetterQuestions().flatMap(q=> q.answers.map(a=>a.answer))){ caps.add(name); }
+  }
+  const capList = Array.from(caps).filter(Boolean);
+  // By starting letter (min 5)
+  const byStart = new Map();
+  for(const c of capList){ const L = String(c).trim()[0]?.toUpperCase(); if(!L) continue; if(!byStart.has(L)) byStart.set(L,[]); byStart.get(L).push(c); }
+  for(const [L, arr] of byStart.entries()){
+    const listSorted = arr.slice().sort((a,b)=> String(a).localeCompare(String(b)));
+    if(listSorted.length < 5) continue;
+    const qtext = `Name a world capital city beginning with the letter ${L}`;
+    if(!existing.has(qtext)){
+      const answers = listSorted.map(name => ({ answer: name, score: 0, count: 0 }));
+      list.push({ question: qtext, answers });
+      existing.add(qtext);
+    }
+  }
+  // By ending letter (min 3)
+  const byEnd = new Map();
+  function lastLetter(name){
+    const s = String(name||'').trim();
+    const m = /([A-Za-z])[^A-Za-z]*$/.exec(s);
+    return m ? m[1].toUpperCase() : '';
+  }
+  for(const c of capList){ const L = lastLetter(c); if(!L) continue; if(!byEnd.has(L)) byEnd.set(L,[]); byEnd.get(L).push(c); }
+  const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+  for(const L of letters){
+    const listSorted = (byEnd.get(L)||[]).slice().sort((a,b)=> String(a).localeCompare(String(b)));
+    if(listSorted.length < 3) continue;
+    const qtext = `Name a world capital city ending with the letter ${L}`;
+    if(!existing.has(qtext)){
+      const answers = listSorted.map(name => ({ answer: name, score: 0, count: 0 }));
+      list.push({ question: qtext, answers });
+      existing.add(qtext);
+    }
+  }
+}
+
 export async function loadQuestions() {
   // Prefer fresh file from server; fall back to cached localStorage or defaults
   let cached = null;
@@ -421,14 +537,15 @@ export async function loadQuestions() {
       if (!Array.isArray(data) && data && Array.isArray(data.questions)) {
         data = data.questions;
       }
-      // First, augment with generated sets
-      augmentWithCountryLetterQuestions(data);
-      augmentWithCapitalLetterQuestions(data);
-      augmentWithCountryLengthQuestions(data);
-      augmentWithCapitalEndingQuestions(data);
+      // First, augment with generated sets (derive country-based lists from countries.json)
+      await buildCountryDerivedQuestions(data);
+      buildCapitalDerivedQuestions(data);
+      // Drop fully removed questions
+      const ovAll = await fetchServerOverrides();
+      const removedQs = (ovAll && ovAll.removedQuestions) || {};
+      data = (Array.isArray(data)?data:[]).filter(q => !(removedQs && removedQs[String(q && q.question || '')]));
       // Then apply server-side answer + weight overrides (persisted by admin editing) so augmented items get their persisted edits
       {
-        const ovAll = await fetchServerOverrides();
         const ov = ovAll && ovAll.answerOverrides ? ovAll.answerOverrides : {};
         const wov = ovAll && ovAll.weightOverrides ? ovAll.weightOverrides : {};
         const rm = ovAll && ovAll.removedAnswers ? ovAll.removedAnswers : {};
@@ -477,12 +594,13 @@ export async function loadQuestions() {
     }
   } catch {}
   if (Array.isArray(cached) && cached.length) {
-    augmentWithCountryLetterQuestions(cached);
-    augmentWithCapitalLetterQuestions(cached);
-    augmentWithCountryLengthQuestions(cached);
-    augmentWithCapitalEndingQuestions(cached);
-    // Apply overrides to cached+augmented
+    await buildCountryDerivedQuestions(cached);
+    buildCapitalDerivedQuestions(cached);
+    // Drop fully removed questions
     const ovAll = await fetchServerOverrides();
+    const removedQs = (ovAll && ovAll.removedQuestions) || {};
+    cached = (Array.isArray(cached)?cached:[]).filter(q => !(removedQs && removedQs[String(q && q.question || '')]));
+    // Apply overrides to cached+augmented
     const ov = ovAll && ovAll.answerOverrides ? ovAll.answerOverrides : {};
     const wov = ovAll && ovAll.weightOverrides ? ovAll.weightOverrides : {};
     const rm = ovAll && ovAll.removedAnswers ? ovAll.removedAnswers : {};
@@ -528,15 +646,15 @@ export async function loadQuestions() {
   }
   // If nothing stored, seed with defaults and generated questions
   const seeded = JSON.parse(JSON.stringify(DEFAULT_QUESTIONS));
-  augmentWithCountryLetterQuestions(seeded);
-  augmentWithCapitalLetterQuestions(seeded);
-  augmentWithCountryLengthQuestions(seeded);
-  augmentWithCapitalEndingQuestions(seeded);
+  await buildCountryDerivedQuestions(seeded);
+  buildCapitalDerivedQuestions(seeded);
   const ovAll = await fetchServerOverrides();
+  const removedQs = (ovAll && ovAll.removedQuestions) || {};
+  const seededFiltered = (Array.isArray(seeded)?seeded:[]).filter(q => !(removedQs && removedQs[String(q && q.question || '')]));
   const ov = ovAll && ovAll.answerOverrides ? ovAll.answerOverrides : {};
   const wov = ovAll && ovAll.weightOverrides ? ovAll.weightOverrides : {};
   const rm = ovAll && ovAll.removedAnswers ? ovAll.removedAnswers : {};
-  for(const q of (Array.isArray(seeded)?seeded:[])){
+  for(const q of (Array.isArray(seededFiltered)?seededFiltered:[])){
     const qkey = String(q && q.question || '');
     const amap = ov[qkey] || {};
     if(Array.isArray(q && q.answers)){
@@ -573,9 +691,9 @@ export async function loadQuestions() {
       });
     }
   }
-  await applyGlobalWeights(seeded, ovAll);
-  saveQuestions(seeded);
-  return seeded;
+  await applyGlobalWeights(seededFiltered, ovAll);
+  saveQuestions(seededFiltered);
+  return seededFiltered;
 }
 
 export function saveQuestions(qs) {
@@ -650,6 +768,19 @@ export async function initGeoScorePanel() {
   shell.append(realmUI.col, countryUI.col, qUI.col, ansUI.col);
 
   const all = await loadQuestions();
+  // Build a map of country -> capital (from explicit capital questions in dataset)
+  const capitalByCountry = new Map(); // key: normalized country name -> canonical capital string
+  try{
+    for(const q of (Array.isArray(all)?all:[])){
+      const qt = String(q && q.question || '');
+      const m = /^\s*What is the capital of\s+(.+?)\?\s*$/i.exec(qt);
+      if(m && m[1]){
+        const countryName = normalizeCountryName(m[1].trim());
+        const ans = Array.isArray(q && q.answers) && q.answers[0] && q.answers[0].answer ? String(q.answers[0].answer) : '';
+        if(countryName && ans){ capitalByCountry.set(countryName.toLowerCase(), ans); }
+      }
+    }
+  }catch{}
   // Load countries list
   let countriesData = [];
   try{
@@ -808,10 +939,28 @@ export async function initGeoScorePanel() {
       }
       return normalizeCountryName(target).toLowerCase() === normalizeCountryName(cname).toLowerCase();
     }
+    // Explicit country-capital question: include if it targets this country
+    {
+      const m = /^\s*What is the capital of\s+(.+?)\?\s*$/i.exec(qtext);
+      if(m && m[1]){
+        const target = normalizeCountryName(m[1].trim());
+        return target.toLowerCase() === normalizeCountryName(cname).toLowerCase();
+      }
+    }
     // For country questions (e.g., starts with, length), include if answers contain this country name
     if(/\bcountry\b/i.test(qtext)){
       const answers = Array.isArray(q.answers)? q.answers : [];
       return answers.some(a => normalizeCountryName(a && a.answer).toLowerCase() === normalizeCountryName(cname).toLowerCase());
+    }
+    // For world capital letter questions, include if this country's capital matches the letter constraint
+    {
+      const cap = capitalByCountry.get(normalizeCountryName(cname).toLowerCase()) || '';
+      if(cap){
+        let m = /^\s*Name a world capital city beginning with the letter\s+([A-Za-z])\s*$/i.exec(qtext);
+        if(m && m[1]){ return cap.toLowerCase().startsWith(m[1].toLowerCase()); }
+        m = /^\s*Name a world capital city ending with the letter\s+([A-Za-z])\s*$/i.exec(qtext);
+        if(m && m[1]){ return cap.toLowerCase().replace(/[^a-z]$/i,'').endsWith(m[1].toLowerCase()); }
+      }
     }
     return false;
   }
@@ -971,6 +1120,40 @@ export async function initGeoScorePanel() {
           if(selectedQuestion && selectedQuestion.question === q.question){ selectedQuestion = null; renderAnswers(); }
         });
         li.appendChild(btn);
+      }
+
+      // Remove a single question (applies globally). Only show if a country/state is selected
+      if(selectedCountry && questionInvolvesCountry(q, selectedCountry)){
+        const rmQBtn = document.createElement('button');
+        rmQBtn.type='button'; rmQBtn.textContent='Remove';
+        rmQBtn.style.marginLeft='8px'; rmQBtn.style.fontSize='12px';
+        rmQBtn.addEventListener('click', async (e)=>{
+          e.stopPropagation();
+          const ok = confirm(`Remove this question globally?\n\n${q.question}`);
+          if(!ok) return;
+          try{
+            await fetch('/api/geoscore/remove-question', {
+              method:'POST', headers:{ 'Content-Type':'application/json' },
+              body: JSON.stringify({ questionKey: q.question })
+            });
+          }catch{}
+          // Remove from category maps locally
+          try{
+            for(const [cat, arr] of byCat.entries()){
+              const idx = arr.indexOf(q);
+              if(idx>=0) arr.splice(idx,1);
+            }
+            for(const [cat, arr] of tmpByCat.entries()){
+              const idx = arr.indexOf(q);
+              if(idx>=0) arr.splice(idx,1);
+            }
+          }catch{}
+          // Update selection and re-render
+          if(selectedQuestion && selectedQuestion.question === q.question){ selectedQuestion = null; }
+          renderQuestions();
+          renderAnswers();
+        });
+        li.appendChild(rmQBtn);
       }
       li.title = q.question;
       li.addEventListener('click', ()=>{

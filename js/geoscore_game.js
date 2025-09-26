@@ -44,6 +44,32 @@ async function loadCountryList(){
   return [];
 }
 
+let __worldCitiesCache = null;
+async function loadWorldCityList(){
+  if(__worldCitiesCache) return __worldCitiesCache;
+  try{
+    const res = await fetch('world_cities_5k.json', { cache: 'no-store' });
+    if(res.ok){
+      const arr = await res.json();
+      __worldCitiesCache = Array.isArray(arr) ? arr : [];
+      return __worldCitiesCache;
+    }
+  }catch{}
+  // Fallback: build from questions at runtime (less comprehensive)
+  try{
+    const all = await loadQuestions();
+    const set = new Set();
+    for(const q of (Array.isArray(all)?all:[])){
+      for(const a of (q && q.answers) || []){
+        const nm = String(a && a.answer || '').trim();
+        if(nm) set.add(nm);
+      }
+    }
+    __worldCitiesCache = Array.from(set);
+    return __worldCitiesCache;
+  }catch{ return []; }
+}
+
 async function fetchOverridesForFlags(){
   // Try API first, then static file, else empty
   try{ const r=await fetch('/api/geoscore-overrides',{cache:'no-store'}); if(r.ok) return r.json(); }catch{}
@@ -582,7 +608,7 @@ export async function initGeoScoreGame(mountId='geoscoreGame', initialMode=null)
 
     const roundMax = 600; // always 6 cards * 100
     scoreEl.textContent = `Score: 0`;
-    const sugg = currentGameType === 'state' ? await getUsCities() : globalCityList;
+    const sugg = currentGameType === 'state' ? await getUsCities() : await loadWorldCityList();
 
     // Build ordered list of cards: first text questions, then flag last
     const cards = [];
