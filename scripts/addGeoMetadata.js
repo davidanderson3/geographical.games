@@ -1,12 +1,13 @@
-const fs = require('fs');
 const admin = require('firebase-admin');
+const { loadFirebaseServiceAccount } = require('../backend/loadFirebaseServiceAccount');
 
-const SERVICE_ACCOUNT_PATH = './serviceAccountKey.json';
-if (!fs.existsSync(SERVICE_ACCOUNT_PATH)) {
-  console.error(`\u2717 Missing service account key at ${SERVICE_ACCOUNT_PATH}`);
+let serviceAccount;
+try {
+  serviceAccount = loadFirebaseServiceAccount();
+} catch (err) {
+  console.error(`\u2717 ${err.message}`);
   process.exit(1);
 }
-const serviceAccount = require(SERVICE_ACCOUNT_PATH);
 
 const isEmulator = !!process.env.FIRESTORE_EMULATOR_HOST;
 if (isEmulator) {
@@ -94,4 +95,3 @@ main().catch(err => {
   console.error('\u2717 Unhandled error:', err.message);
   process.exit(1);
 });
-

@@ -4,15 +4,29 @@ const path = require('path');
 const fs = require('fs');
 const { execFile } = require('child_process');
 const util = require('util');
-const { Configuration, PlaidApi, PlaidEnvironments } = require('plaid');
+let Configuration;
+let PlaidApi;
+let PlaidEnvironments;
 const cors = require('cors');
 let nodemailer;
-const MBTiles = require('@mapbox/mbtiles');
+let MBTiles;
 let admin;
+try {
+  ({ Configuration, PlaidApi, PlaidEnvironments } = require('plaid'));
+} catch {
+  Configuration = null;
+  PlaidApi = null;
+  PlaidEnvironments = null;
+}
 try {
   nodemailer = require('nodemailer');
 } catch {
   nodemailer = null;
+}
+try {
+  MBTiles = require('@mapbox/mbtiles');
+} catch {
+  MBTiles = null;
 }
 try {
   admin = require('firebase-admin');
@@ -20,9 +34,11 @@ try {
   admin = null;
 }
 
+const { loadFirebaseServiceAccount } = require('./loadFirebaseServiceAccount');
+
 const execFileAsync = util.promisify(execFile);
 const app = express();
-const PORT = process.env.PORT || 3002;
+const DEFAULT_PORT = Number(process.env.PORT || 3002);
 
 // Enable CORS for all routes so the frontend can reach the API
 app.use(cors());
@@ -31,7 +47,7 @@ app.use(compression());
 // Load vector tile set if available
 const tilePath = path.join(__dirname, '../tiles/geodata.mbtiles');
 let mbtiles = null;
-if (fs.existsSync(tilePath)) {
+if (MBTiles && fs.existsSync(tilePath)) {
   new MBTiles(tilePath, (err, mb) => {
     if (err) {
       console.error('Failed to open MBTiles', err);
@@ -39,6 +55,8 @@ if (fs.existsSync(tilePath)) {
       mbtiles = mb;
     }
   });
+} else if (!MBTiles) {
+  console.warn('MBTiles module not available; tile service disabled');
 } else {
   console.warn('MBTiles not found; run "npm run generate:tiles"');
 }
@@ -60,6 +78,7 @@ const mailer = (() => {
 app.use(express.json());
 
 const plaidClient = (() => {
+  if (!Configuration || !PlaidApi || !PlaidEnvironments) return null;
   const clientID = process.env.PLAID_CLIENT_ID;
   const secret = process.env.PLAID_SECRET;
   const env = process.env.PLAID_ENV || 'sandbox';
@@ -572,10 +591,6 @@ app.get('/api/transactions', async (req, res) => {
   }
 });
 
-const server = app.listen(PORT, () => {
-  console.log(`✅ Serving static files at http://localhost:${PORT}`);
-});
-
 // --- Simple SSE live-reload for static asset changes (dev convenience) ---
 const sseClients = new Set();
 app.get('/livereload', (req, res) => {
@@ -609,38 +624,60 @@ function setupWatch(dir){
   }
 }
 
-setupWatch(path.resolve(__dirname, '../'));
-setupWatch(path.resolve(__dirname, '../geolayers-game/public'));
+function startServer({ port = DEFAULT_PORT, enableFileWatch = true } = {}) {
+  const server = app.listen(port, () => {
+    console.log(`✅ Serving static files at http://localhost:${port}`);
+  });
+
+  if (enableFileWatch) {
+    setupWatch(path.resolve(__dirname, '../'));
+    setupWatch(path.resolve(__dirname, '../geolayers-game/public'));
+  }
+
+  return server;
+}
+
+if (require.main === module) {
+  const shouldWatch = process.env.ENABLE_FILE_WATCH !== '0';
+  startServer({ enableFileWatch: shouldWatch });
+}
 
 // --- Firebase Admin for auth verification (optional) ---
 let firebaseAdminReady = false;
-try {
-  if (admin) {
-    const keyPathEnv = process.env.FIREBASE_SERVICE_ACCOUNT;
-    const defaultPath = path.join(__dirname, 'serviceAccountKey.json');
-    const altPath = path.join(__dirname, '../scripts/serviceAccountKey.json');
-    let credJson = null;
-    if (keyPathEnv && fs.existsSync(keyPathEnv)) {
-      credJson = JSON.parse(fs.readFileSync(keyPathEnv, 'utf8'));
-    } else if (fs.existsSync(defaultPath)) {
-      credJson = JSON.parse(fs.readFileSync(defaultPath, 'utf8'));
-    } else if (fs.existsSync(altPath)) {
-      credJson = JSON.parse(fs.readFileSync(altPath, 'utf8'));
-    }
-    if (credJson) {
-      admin.initializeApp({ credential: admin.credential.cert(credJson) });
-      firebaseAdminReady = true;
-      console.log('✅ Firebase Admin initialized for auth verification');
-    } else {
-      console.warn('Firebase service account not found; auth verification disabled');
-    }
+
+function initFirebaseAdmin({ logWarnings = true } = {}) {
+  if (!admin || firebaseAdminReady) {
+    return firebaseAdminReady;
   }
-} catch (err) {
-  console.warn('Failed to initialize Firebase Admin:', err && err.message);
+  try {
+    const credJson = loadFirebaseServiceAccount();
+    if (!admin.apps.length) {
+      admin.initializeApp({ credential: admin.credential.cert(credJson) });
+    }
+    firebaseAdminReady = true;
+    if (logWarnings) {
+      console.log('✅ Firebase Admin initialized for auth verification');
+    }
+    return true;
+  } catch (err) {
+    const message = err && err.message ? err.message : 'unknown error';
+    if (logWarnings) {
+      if (/not found/i.test(message)) {
+        console.warn('Firebase service account not found; auth verification disabled');
+      } else {
+        console.warn('Failed to initialize Firebase Admin:', message);
+      }
+    }
+    return false;
+  }
 }
 
+initFirebaseAdmin();
+
 app.post('/api/auth/verify', async (req, res) => {
-  if (!firebaseAdminReady) return res.status(503).json({ error: 'auth disabled' });
+  if (!firebaseAdminReady && !initFirebaseAdmin({ logWarnings: false })) {
+    return res.status(503).json({ error: 'auth disabled' });
+  }
   const { idToken } = req.body || {};
   if (!idToken) return res.status(400).json({ error: 'missing token' });
   try {
@@ -658,4 +695,7 @@ app.post('/api/auth/verify', async (req, res) => {
   }
 });
 
-module.exports = server;
+module.exports = {
+  app,
+  startServer
+};

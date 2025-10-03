@@ -1,6 +1,7 @@
 // Client-side Google Sign-In via Firebase Auth (modular SDK via ESM CDN)
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/11.8.1/firebase-app.js';
 import { getAuth, onAuthStateChanged, signInWithPopup, GoogleAuthProvider, signOut } from 'https://www.gstatic.com/firebasejs/11.8.1/firebase-auth.js';
+import { apiFetch } from './apiClient.js';
 
 let app = null;
 let auth = null;
@@ -15,7 +16,7 @@ async function loadFirebaseConfig(){
 
 async function verifyWithBackend(idToken){
   try {
-    const res = await fetch('/api/auth/verify', {
+    const res = await apiFetch('/api/auth/verify', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ idToken })
@@ -84,4 +85,3 @@ export async function initAuthUI(){
 }
 
 if(typeof window !== 'undefined') window.initAuthUI = initAuthUI;
-

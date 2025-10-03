@@ -1,4 +1,5 @@
 import { loadQuestions } from './geoscore.js';
+import { apiFetch } from './apiClient.js';
 
 let usCitiesPromise;
 async function getUsCities(){
@@ -72,7 +73,7 @@ async function loadWorldCityList(){
 
 async function fetchOverridesForFlags(){
   // Try API first, then static file, else empty
-  try{ const r=await fetch('/api/geoscore-overrides',{cache:'no-store'}); if(r.ok) return r.json(); }catch{}
+  try{ const r=await apiFetch('/api/geoscore-overrides',{cache:'no-store'}); if(r.ok) return r.json(); }catch{}
   try{ const r=await fetch('/backend/geoscore-overrides.json',{cache:'no-store'}); if(r.ok) return r.json(); }catch{}
   return { weightByCountry:{}, weightByCity:{} };
 }

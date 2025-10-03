@@ -1,13 +1,15 @@
 const fs = require('fs');
 const { XMLParser } = require('fast-xml-parser');
 const admin = require('firebase-admin');
+const { loadFirebaseServiceAccount } = require('../backend/loadFirebaseServiceAccount');
 
-const SERVICE_ACCOUNT_PATH = './serviceAccountKey.json';
-if (!fs.existsSync(SERVICE_ACCOUNT_PATH)) {
-  console.error(`✗ Missing service account key at ${SERVICE_ACCOUNT_PATH}`);
+let serviceAccount;
+try {
+  serviceAccount = loadFirebaseServiceAccount();
+} catch (err) {
+  console.error(`✗ ${err.message}`);
   process.exit(1);
 }
-const serviceAccount = require(SERVICE_ACCOUNT_PATH);
 
 // Detect emulator vs. prod
 const isEmulator = !!process.env.FIRESTORE_EMULATOR_HOST;

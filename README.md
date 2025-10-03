@@ -46,3 +46,13 @@ npm test
 ### Spoonacular proxy
 
 The backend exposes a `/api/spoonacular` route that forwards recipe searches to the Spoonacular API without revealing your key. Define a `SPOONACULAR_KEY` environment variable before running the server when deploying (e.g., on Render).
+
+### Firebase service account secret
+
+The backend server and several maintenance scripts rely on a Firebase service account. Credentials are now loaded via `backend/loadFirebaseServiceAccount.js`, which first checks the environment for `FIREBASE_SERVICE_ACCOUNT_JSON`, `FIREBASE_SERVICE_ACCOUNT_BASE64`, or `FIREBASE_SERVICE_ACCOUNT` before falling back to local files. To keep the secret out of the repository, store it in Firebase:
+
+1. Log in and pick your project: `firebase login` then `firebase use <project-id>`.
+2. Upload the JSON as a secret: `firebase functions:secrets:set FIREBASE_SERVICE_ACCOUNT_JSON --data-file serviceAccountKey.json`.
+3. When you need the credentials locally, access them with `firebase functions:secrets:access FIREBASE_SERVICE_ACCOUNT_JSON --project <project-id>` and export the output to the `FIREBASE_SERVICE_ACCOUNT_JSON` environment variable for your session. If you prefer, you can store a base64-encoded copy instead and populate `FIREBASE_SERVICE_ACCOUNT_BASE64`.
+
+Any deployment target (Render, Cloud Run, etc.) only needs one of the supported environment variables defined—no files are required. The legacy `serviceAccountKey.json` fallback still works for now but should be avoided once the secret is managed in Firebase.

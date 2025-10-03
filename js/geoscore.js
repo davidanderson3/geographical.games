@@ -1,3 +1,5 @@
+import { apiFetch } from './apiClient.js';
+
 const STORAGE_KEY = 'geoscoreQuestions';
 const ANSWER_OVERRIDES_KEY = 'geoscoreAnswerOverrides';
 const ANSWER_WEIGHT_OVERRIDES_KEY = 'geoscoreAnswerWeightOverrides';
@@ -237,7 +239,7 @@ function readAnswerWeightOverrides(){
 }
 async function fetchServerOverrides(){
   try{
-    const res = await fetch('/api/geoscore-overrides', { cache: 'no-store' });
+    const res = await apiFetch('/api/geoscore-overrides', { cache: 'no-store' });
     if(res.ok){ return await res.json(); }
   }catch{}
   // Try static fallback if API route not available
@@ -297,7 +299,7 @@ async function applyGlobalWeights(list, ovAll){
 async function writeAnswerWeightOverride(questionKey, originalAnswer, newWeight){
   const clamped = Math.max(0, Math.min(100, Math.round(Number(newWeight)||0)));
   try{
-    await fetch('/api/geoscore/weight-override', {
+    await apiFetch('/api/geoscore/weight-override', {
       method:'POST', headers:{ 'Content-Type':'application/json' },
       body: JSON.stringify({ questionKey, originalAnswer, weight: clamped })
     });
@@ -315,7 +317,7 @@ function getAnswerWeightOverride(questionKey, originalAnswer){
 }
 async function writeAnswerOverride(questionKey, originalAnswer, newValue){
   try{
-    await fetch('/api/geoscore/answer-override', {
+    await apiFetch('/api/geoscore/answer-override', {
       method:'POST', headers:{ 'Content-Type':'application/json' },
       body: JSON.stringify({ questionKey, originalAnswer, newValue })
     });
@@ -1132,7 +1134,7 @@ export async function initGeoScorePanel() {
           const ok = confirm(`Remove this question globally?\n\n${q.question}`);
           if(!ok) return;
           try{
-            await fetch('/api/geoscore/remove-question', {
+            await apiFetch('/api/geoscore/remove-question', {
               method:'POST', headers:{ 'Content-Type':'application/json' },
               body: JSON.stringify({ questionKey: q.question })
             });
@@ -1274,7 +1276,7 @@ export async function initGeoScorePanel() {
         const ok = confirm(`Remove "${a.answer}" from this question? This persists on the server.`);
         if(!ok) return;
         try{
-          await fetch('/api/geoscore/remove-answer', {
+          await apiFetch('/api/geoscore/remove-answer', {
             method:'POST', headers:{ 'Content-Type':'application/json' },
             body: JSON.stringify({ questionKey: qkey, originalAnswer: originalKey })
           });
