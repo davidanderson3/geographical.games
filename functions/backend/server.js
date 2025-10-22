@@ -40,12 +40,48 @@ const execFileAsync = util.promisify(execFile);
 const app = express();
 const DEFAULT_PORT = Number(process.env.PORT || 3002);
 
+const DEFAULT_ALLOWED_ORIGINS = [`http://localhost:${DEFAULT_PORT}`];
+const ALLOWED_ORIGINS = (() => {
+  const raw = String(process.env.ALLOWED_ORIGINS || '').split(',').map(s => s.trim()).filter(Boolean);
+  if(raw.length) return raw;
+  return DEFAULT_ALLOWED_ORIGINS;
+})();
+
+function detectProjectRoot(){
+  const candidates = [
+    path.resolve(__dirname, '..'), // functions/ or project root (symlink target)
+    path.resolve(__dirname, '../..'),
+    path.resolve(__dirname, '../../..')
+  ];
+  for(const dir of candidates){
+    try{
+      if(fs.existsSync(path.join(dir, 'index.html'))) return dir;
+      if(fs.existsSync(path.join(dir, 'geolayers-game'))) return dir;
+      if(fs.existsSync(path.join(dir, 'package.json')) && fs.existsSync(path.join(dir, 'js'))) return dir;
+    }catch{}
+  }
+  return candidates[0];
+}
+
+const PROJECT_ROOT = detectProjectRoot();
+const GEO_PUBLIC_ROOT = path.join(PROJECT_ROOT, 'geolayers-game', 'public');
+const STATIC_ROOT = fs.existsSync(path.join(PROJECT_ROOT, 'index.html')) ? PROJECT_ROOT : path.resolve(__dirname, '..');
+
 // Enable CORS for all routes so the frontend can reach the API
-app.use(cors());
+app.use(cors({
+  origin(origin, callback){
+    if(!origin) return callback(null, true); // Same-origin or curl
+    if(ALLOWED_ORIGINS.includes(origin)) return callback(null, true);
+    return callback(new Error(`CORS blocked for origin ${origin}`));
+  },
+  credentials: true,
+  allowedHeaders: ['Content-Type', 'Authorization'],
+  methods: ['GET','POST','PUT','PATCH','DELETE','OPTIONS']
+}));
 app.use(compression());
 
 // Load vector tile set if available
-const tilePath = path.join(__dirname, '../tiles/geodata.mbtiles');
+const tilePath = path.join(PROJECT_ROOT, 'tiles/geodata.mbtiles');
 let mbtiles = null;
 if (MBTiles && fs.existsSync(tilePath)) {
   new MBTiles(tilePath, (err, mb) => {
@@ -96,7 +132,7 @@ const plaidClient = (() => {
 })();
 
 // Serve static files (like index.html, style.css, script.js)
-app.use(express.static(path.resolve(__dirname, '../'), {
+app.use(express.static(STATIC_ROOT, {
   setHeaders: (res, p) => {
     // Strong caching for static assets and large GeoJSONs; versioned URLs bust cache
     if (/\.(?:geojson|json|js|css|png|jpe?g|svg|ico|woff2?)$/i.test(p)) {
@@ -407,7 +443,7 @@ app.get('/api/spoonacular', async (req, res) => {
 
 // --- GeoLayers game endpoints ---
 const layerOrder = ['rivers','lakes','elevation','roads','outline','cities','label'];
-const countriesPath = path.join(__dirname, '../geolayers-game/public/countries.json');
+const countriesPath = path.join(GEO_PUBLIC_ROOT, 'countries.json');
 let countryData = [];
 try {
   countryData = JSON.parse(fs.readFileSync(countriesPath, 'utf8'));
@@ -461,7 +497,7 @@ LIMIT 10`;
 }
 
 async function ensureCitiesForCountry(code) {
-  const dir = path.join(__dirname, '../geolayers-game/public/data', code);
+  const dir = path.join(GEO_PUBLIC_ROOT, 'data', code);
   const file = path.join(dir, 'cities.geojson');
   if (!fs.existsSync(file)) {
     const geo = await fetchCitiesForCountry(code);
@@ -517,7 +553,7 @@ app.get('/layer/:loc/:name', async (req, res) => {
   const { loc, name } = req.params;
   const hiParam = String(req.query.hi || req.query.highres || '').toLowerCase();
   const wantHi = hiParam === '1' || hiParam === 'true' || hiParam === 'yes';
-  const baseDir = path.join(__dirname, '../geolayers-game/public/data', loc);
+  const baseDir = path.join(GEO_PUBLIC_ROOT, 'data', loc);
   let file = path.join(baseDir, `${name}.geojson`);
   if (name === 'rivers') {
     // Prefer standard-resolution rivers by default. Only serve high-res when explicitly requested.
@@ -611,6 +647,7 @@ function broadcastReload(reason){
 }
 
 function setupWatch(dir){
+  if(!dir || !fs.existsSync(dir)) return;
   try {
     fs.watch(dir, { recursive: true }, (eventType, filename) => {
       if (!filename) return;
@@ -627,11 +664,17 @@ function setupWatch(dir){
 function startServer({ port = DEFAULT_PORT, enableFileWatch = true } = {}) {
   const server = app.listen(port, () => {
     console.log(`✅ Serving static files at http://localhost:${port}`);
+    if(STATIC_ROOT){
+      console.log('📁 Static root:', STATIC_ROOT);
+    }
+    if(ALLOWED_ORIGINS && ALLOWED_ORIGINS.length){
+      console.log('🌐 CORS allowed origins:', ALLOWED_ORIGINS.join(', '));
+    }
   });
 
   if (enableFileWatch) {
-    setupWatch(path.resolve(__dirname, '../'));
-    setupWatch(path.resolve(__dirname, '../geolayers-game/public'));
+    setupWatch(PROJECT_ROOT);
+    setupWatch(GEO_PUBLIC_ROOT);
   }
 
   return server;

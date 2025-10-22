@@ -1,19 +1,21 @@
 import { loadQuestions } from './geoscore.js';
 import { apiFetch } from './apiClient.js';
 
+const STATE_NAME_TO_CODE = {
+  'alabama': 'AL', 'alaska': 'AK', 'arizona': 'AZ', 'arkansas': 'AR', 'california': 'CA', 'colorado': 'CO',
+  'connecticut': 'CT', 'delaware': 'DE', 'florida': 'FL', 'georgia': 'GA', 'hawaii': 'HI', 'idaho': 'ID',
+  'illinois': 'IL', 'indiana': 'IN', 'iowa': 'IA', 'kansas': 'KS', 'kentucky': 'KY', 'louisiana': 'LA',
+  'maine': 'ME', 'maryland': 'MD', 'massachusetts': 'MA', 'michigan': 'MI', 'minnesota': 'MN',
+  'mississippi': 'MS', 'missouri': 'MO', 'montana': 'MT', 'nebraska': 'NE', 'nevada': 'NV',
+  'new hampshire': 'NH', 'new jersey': 'NJ', 'new mexico': 'NM', 'new york': 'NY',
+  'north carolina': 'NC', 'north dakota': 'ND', 'ohio': 'OH', 'oklahoma': 'OK', 'oregon': 'OR',
+  'pennsylvania': 'PA', 'rhode island': 'RI', 'south carolina': 'SC', 'south dakota': 'SD',
+  'tennessee': 'TN', 'texas': 'TX', 'utah': 'UT', 'vermont': 'VT', 'virginia': 'VA', 'washington': 'WA',
+  'west virginia': 'WV', 'wisconsin': 'WI', 'wyoming': 'WY', 'district of columbia': 'DC', 'puerto rico': 'PR'
+};
+
 let usCitiesPromise;
-async function getUsCities(){
-  if(!usCitiesPromise){
-    try{
-      usCitiesPromise = fetch('us_cities.json', { cache: 'no-store' })
-        .then(res => res.ok ? res.json() : [])
-        .catch(()=>[]);
-    }catch{
-      usCitiesPromise = Promise.resolve([]);
-    }
-  }
-  return usCitiesPromise;
-}
+let usCitiesMetaByKey = null;
 
 export function normalizeAnswer(s){
   return String(s || '')
@@ -21,6 +23,87 @@ export function normalizeAnswer(s){
     .replace(/[\u0300-\u036f]/g, '')
     .trim()
     .toLowerCase();
+}
+
+function normalizeCityRecord(item){
+  if(!item) return null;
+  if(typeof item === 'string'){
+    return { name: item, states: [], maxPopulation: null };
+  }
+  if(typeof item === 'object'){
+    if(typeof item.name === 'string'){
+      return {
+        name: item.name,
+        states: Array.isArray(item.states) ? item.states : [],
+        maxPopulation: item.maxPopulation
+      };
+    }
+    if(typeof item.answer === 'string'){
+      return {
+        name: item.answer,
+        states: [],
+        maxPopulation: item.meta && item.meta.population
+      };
+    }
+  }
+  return null;
+}
+
+function buildUsCitiesMeta(list){
+  const meta = new Map();
+  for(const item of (Array.isArray(list)?list:[])){
+    const record = normalizeCityRecord(item);
+    if(!record || !record.name) continue;
+    const key = normalizeAnswer(record.name);
+    const states = Array.isArray(record.states) ? record.states.map(state => ({
+      stateCode: state && state.stateCode ? String(state.stateCode).toUpperCase() : null,
+      stateName: state && state.stateName ? String(state.stateName) : null,
+      population: Number(state && state.population)
+    })) : [];
+    const byState = new Map();
+    let maxPopulation = Number(record.maxPopulation);
+    if(!Number.isFinite(maxPopulation)) maxPopulation = 0;
+    for(const state of states){
+      if(!Number.isFinite(state.population)) state.population = 0;
+      if(state.stateCode) byState.set(state.stateCode, state);
+      if(state.population > maxPopulation) maxPopulation = state.population;
+    }
+    meta.set(key, {
+      name: record.name,
+      maxPopulation,
+      states,
+      byState
+    });
+  }
+  return meta;
+}
+
+async function getUsCities(){
+  if(!usCitiesPromise){
+    usCitiesPromise = (async () => {
+      try{
+        const res = await fetch('us_cities.json', { cache: 'no-store' });
+        if(res && res.ok){
+          const data = await res.json();
+          usCitiesMetaByKey = buildUsCitiesMeta(data);
+          return Array.from(usCitiesMetaByKey.values()).map(entry => ({
+            name: entry.name,
+            states: entry.states,
+            maxPopulation: entry.maxPopulation
+          }));
+        }
+      }catch{}
+      usCitiesMetaByKey = new Map();
+      return [];
+    })();
+  }
+  return usCitiesPromise;
+}
+
+function getUsCityMeta(key){
+  if(!key) return null;
+  const norm = normalizeAnswer(key);
+  return usCitiesMetaByKey && usCitiesMetaByKey.get(norm) || null;
 }
 
 function pickN(arr, n){
@@ -140,12 +223,19 @@ function createFlagTypingCard(options, onAnswered, allSuggestions, getScore, qIn
 
   function norm(s){ return String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase(); }
   const optionNames = options.map(o => String(o && o.name || ''));
+  const suggestionPool = (()=>{
+    if(Array.isArray(allSuggestions) && allSuggestions.length){
+      const arr = Array.from(new Set(allSuggestions.concat(optionNames)));
+      return arr.map(n => String(n || ''));
+    }
+    return optionNames;
+  })();
   const valid = new Set(optionNames.map(n=> norm(n)));
   function updateSuggestions(val){
     while(datalist.firstChild) datalist.firstChild.remove();
     const v = norm(val);
     if(v.length < 3) return;
-    const hits = optionNames.filter(n=> norm(n).includes(v)).slice(0, 30);
+    const hits = suggestionPool.filter(n=> norm(n).includes(v)).slice(0, 30);
     for(const h of hits){ const opt=document.createElement('option'); opt.value=h; datalist.appendChild(opt); }
   }
   input.addEventListener('input', ()=> updateSuggestions(input.value));
@@ -153,12 +243,13 @@ function createFlagTypingCard(options, onAnswered, allSuggestions, getScore, qIn
   let locked=false; function lock(){ locked=true; input.disabled=true; submitBtn.disabled=true; skipBtn.disabled=true; }
   function submit(){
     if(locked) return;
-    const v = norm(input.value);
+    const raw = input.value;
+    const v = norm(raw);
     if(!v) return;
-    if(valid.has(v)){
+    const match = options.find(o => norm(o.name) === v);
+    if(match){
       // Resolve canonical option name to compute score
-      const match = options.find(o => norm(o.name) === v);
-      const chosenName = match ? match.name : '';
+      const chosenName = match.name;
       const sc = typeof getScore === 'function' ? (getScore(chosenName) || 0) : 100;
       // Replace controls with solved row showing country and score
       try{
@@ -181,11 +272,23 @@ function createFlagTypingCard(options, onAnswered, allSuggestions, getScore, qIn
       try{ for(const opt of options){ const lbl = labelByName.get(normCountryName(opt.name)); if(lbl) lbl.style.opacity = '1'; } }catch{}
       try{ onAnswered && onAnswered({ correct:true, score: sc }); }catch{}
     }else{
-      // Block non-suggested inputs; require selecting one of the shown flags
-      feedback.textContent = 'Please choose one of the shown flags.';
+      // Treat any non-option answer as an incorrect guess worth 100 points
+      feedback.textContent = '';
       feedback.style.color = '#a00';
-      try{ input.focus(); input.select(); }catch{}
-      return;
+      lock();
+      try{
+        const solved = document.createElement('div');
+        solved.className = 'gs-solved-row';
+        const txt = document.createElement('span');
+        txt.style.color = '#a00'; txt.style.fontWeight='700';
+        const shownName = raw && raw.trim() ? raw.trim() : 'Incorrect';
+        txt.textContent = `✗ ${shownName} (+100)`;
+        solved.appendChild(txt);
+        if(controls && controls.parentNode===wrap) wrap.replaceChild(solved, controls);
+      }catch{}
+      // Reveal labels so the player can see the available options
+      try{ for(const opt of options){ const lbl = labelByName.get(normCountryName(opt.name)); if(lbl) lbl.style.opacity = '1'; } }catch{}
+      try{ onAnswered && onAnswered({ correct:false, score:100, invalidGuess:true, guess:raw }); }catch{}
     }
   }
   input.addEventListener('keydown',(e)=>{ if(e.key==='Enter') submit(); });
@@ -252,24 +355,92 @@ function createQuestionCard(q, idx, onAnswered, suggestList, isState=false, glob
   const feedback = document.createElement('div');
   feedback.className = 'geoscore-feedback';
 
+  const isStateMode = Boolean(isState);
+  const locationLabelMatch = isStateMode ? /^Name a city in\s+(.+)$/.exec(String(q.question||'')) : null;
+  const locationLabel = locationLabelMatch ? locationLabelMatch[1] : null;
+  const locationKey = locationLabel ? normalizeAnswer(locationLabel) : '';
+  const stateCode = locationKey ? (STATE_NAME_TO_CODE[locationKey] || null) : null;
+
   const answers = (q.answers||[]).map(a => ({ raw:a, key: normalizeAnswer(a.answer) }));
   const answerSet = new Set(answers.map(a=>a.key));
+  const answerLookup = new Map();
+  for(const entry of answers){
+    try{ answerLookup.set(entry.key, entry.raw); }catch{}
+  }
+  function populationForKey(key, overrideStateCode = stateCode){
+    if(!isStateMode) return null;
+    const raw = answerLookup.get(key);
+    const popFromAnswer = extractPopulation(raw);
+    if(Number.isFinite(popFromAnswer)) return popFromAnswer;
+    const globalMeta = getUsCityMeta(key);
+    if(globalMeta){
+      const targetCode = overrideStateCode || null;
+      if(targetCode && globalMeta.byState && globalMeta.byState.has(targetCode)){
+        const byState = globalMeta.byState.get(targetCode);
+        if(byState && Number.isFinite(byState.population)) return byState.population;
+      }
+      if(Number.isFinite(globalMeta.maxPopulation)) return globalMeta.maxPopulation;
+    }
+    return null;
+  }
+  function extractPopulation(raw){
+    if(!raw) return null;
+    const metaPop = raw && raw.meta && Number(raw.meta.population);
+    if(Number.isFinite(metaPop)) return metaPop;
+    const direct = Number(raw.population);
+    if(Number.isFinite(direct)) return direct;
+    return null;
+  }
+  function describeCityLocation(meta, fallbackLabel=null){
+    if(!isStateMode) return fallbackLabel ? ` in ${fallbackLabel}` : '';
+    if(meta && stateCode && meta.byState && meta.byState.has(stateCode)){
+      const info = meta.byState.get(stateCode);
+      if(info && info.stateName) return ` in ${info.stateName}`;
+    }
+    if(meta && Array.isArray(meta.states) && meta.states.length){
+      const info = meta.states.find(s => s && s.stateName) || meta.states[0];
+      if(info && info.stateName) return ` in ${info.stateName}`;
+    }
+    if(fallbackLabel) return ` in ${fallbackLabel}`;
+    return '';
+  }
   const CITY_SUGGEST_MIN_POP = 5000;
   // Prefer provided suggestList (e.g., global US cities in state mode); fallback to this question's answers
   const suggestionsSource = ((suggestList && suggestList.length ? suggestList : q.answers) || []);
-  const suggestionsAll = (suggestionsSource)
-    .map(a => {
-      const raw = typeof a === 'string' ? { answer: a } : a;
-      return { raw, key: normalizeAnswer(raw.answer) };
-    });
-  const suggestions = suggestionsAll
-    .filter(entry => {
-      const raw = entry.raw || {};
-      // If population metadata exists, enforce threshold; otherwise allow
-      const pop = raw && raw.meta && Number(raw.meta.population);
-      if (Number.isFinite(pop)) return pop >= CITY_SUGGEST_MIN_POP;
-      return true;
-    });
+  const suggestionsAll = suggestionsSource
+    .map(item => {
+      if(item == null) return null;
+      let raw;
+      if(typeof item === 'string'){
+        raw = { answer: item };
+      }else if(typeof item === 'object'){
+        if(typeof item.answer === 'string'){
+          raw = item;
+        }else if(typeof item.name === 'string'){
+          raw = { answer: item.name, meta: item.meta };
+        }else{
+          return null;
+        }
+      }else{
+        return null;
+      }
+      const key = normalizeAnswer(raw.answer);
+      if(!key) return null;
+      const globalMeta = isStateMode ? getUsCityMeta(key) : null;
+      return { raw, key, globalMeta };
+    })
+    .filter(Boolean);
+  const suggestions = isStateMode
+    ? suggestionsAll.filter(entry => {
+        const pop = populationForKey(entry.key);
+        if(Number.isFinite(pop)) return pop >= CITY_SUGGEST_MIN_POP;
+        const meta = entry.globalMeta;
+        if(!meta || !stateCode || !meta.byState) return false;
+        const info = meta.byState.get ? meta.byState.get(stateCode) : null;
+        if(!info || !Number.isFinite(info.population)) return false;
+        return info.population >= CITY_SUGGEST_MIN_POP;
+      })
+    : suggestionsAll;
 
   function updateSuggestions(val){
     while(datalist.firstChild) datalist.firstChild.remove();
@@ -296,26 +467,68 @@ function createQuestionCard(q, idx, onAnswered, suggestList, isState=false, glob
         submitKey = normalizeAnswer(chosen.raw.answer);
       }
     }
-    // Validate the city exists in our question's suggestion pool; if not, block submission
+    const isValidAnswer = answerSet.has(submitKey);
+    const answerPop = isStateMode ? populationForKey(submitKey) : null;
+    // Validate the city exists in our suggestion pool unless it is a known valid answer
+    const chosenFiltered = suggestions.find(e => e.key === submitKey) || null;
     const chosenAll = suggestionsAll.find(e => e.key === submitKey) || null;
-    if(!chosenAll){
+    if(!chosenAll && !isValidAnswer){
       feedback.textContent = 'Please choose a city from the suggestions for this question.';
       feedback.style.color = '#a00';
       try{ input.focus(); input.select(); }catch{}
       return;
     }
-    // If we know population and it is below threshold, allow retry
-    const popVal = chosenAll.raw && chosenAll.raw.meta && Number(chosenAll.raw.meta.population);
-    if(Number.isFinite(popVal) && popVal < CITY_SUGGEST_MIN_POP){
-      feedback.textContent = `City found but population ${popVal.toLocaleString()} < ${CITY_SUGGEST_MIN_POP}. Try another.`;
-      feedback.style.color = '#a00';
-      try{ input.focus(); input.select(); }catch{}
-      return;
+    if(isStateMode && !chosenFiltered){
+      const popVal = populationForKey(submitKey);
+      const globalMeta = chosenAll.globalMeta || getUsCityMeta(submitKey);
+      const fallbackPop = Number.isFinite(popVal) ? popVal : (globalMeta && Number.isFinite(globalMeta.maxPopulation) ? globalMeta.maxPopulation : null);
+      if(isValidAnswer && Number.isFinite(answerPop) && answerPop < CITY_SUGGEST_MIN_POP){
+        const hitLabel = answerLookup.get(submitKey)?.answer || input.value;
+        const where = locationLabel ? ` in ${locationLabel}` : '';
+        feedback.textContent = `${hitLabel}${where} has a population of ${answerPop.toLocaleString()} (< ${CITY_SUGGEST_MIN_POP}). Try another.`;
+        feedback.style.color = '#a00';
+        try{ input.focus(); input.select(); }catch{}
+        return;
+      }
+      if(!isValidAnswer && Number.isFinite(fallbackPop) && fallbackPop < CITY_SUGGEST_MIN_POP){
+        const cityLabel = chosenAll.raw && chosenAll.raw.answer ? chosenAll.raw.answer : input.value;
+        const where = describeCityLocation(globalMeta, locationLabel);
+        feedback.textContent = `${cityLabel}${where} has a population of ${fallbackPop.toLocaleString()} (< ${CITY_SUGGEST_MIN_POP}). Try another.`;
+        feedback.style.color = '#a00';
+        try{ input.focus(); input.select(); }catch{}
+        return;
+      }
+      if(!isValidAnswer){
+        feedback.textContent = 'Please choose a city from the suggestions for this question.';
+        feedback.style.color = '#a00';
+        try{ input.focus(); input.select(); }catch{}
+        return;
+      }
+    }
+    if(isStateMode){
+      let popVal = populationForKey(submitKey);
+      if(Number.isFinite(popVal) && popVal < CITY_SUGGEST_MIN_POP){
+        const cityLabel = chosenFiltered && chosenFiltered.raw && chosenFiltered.raw.answer ? chosenFiltered.raw.answer : input.value;
+        const where = locationLabel ? ` in ${locationLabel}` : '';
+        feedback.textContent = `${cityLabel}${where} has a population of ${popVal.toLocaleString()} (< ${CITY_SUGGEST_MIN_POP}). Try another.`;
+        feedback.style.color = '#a00';
+        try{ input.focus(); input.select(); }catch{}
+        return;
+      }
     }
 
     // Do not clear input before we render feedback; preserve for display
     if(answerSet.has(submitKey)){
       const hit = answers.find(a=>a.key===submitKey);
+      const hitPop = populationForKey(submitKey);
+      if(isStateMode && Number.isFinite(hitPop) && hitPop < CITY_SUGGEST_MIN_POP){
+        const cityLabel = hit && hit.raw && hit.raw.answer ? hit.raw.answer : input.value;
+        const where = locationLabel ? ` in ${locationLabel}` : '';
+        feedback.textContent = `${cityLabel}${where} has a population of ${hitPop.toLocaleString()} (< ${CITY_SUGGEST_MIN_POP}). Try another.`;
+        feedback.style.color = '#a00';
+        try{ input.focus(); input.select(); }catch{}
+        return;
+      }
       // Replace the input row with the solved answer and score
       lock();
       try {
