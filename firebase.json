@@ -3,11 +3,24 @@
     "source": "functions"
   },
   "hosting": {
-    "public": "geolayers-game/public",
+    "public": ".",
     "ignore": [
       "firebase.json",
       "**/.*",
-      "**/node_modules/**"
+      "**/node_modules/**",
+      "backend/**",
+      "functions/**",
+      "scripts/**",
+      "tests/**",
+      "tiles/**",
+      "vector-data/**",
+      "venv/**",
+      "PRODUCTION_DEPLOYMENT_PLAN.md",
+      "firebase-debug.log"
+    ],
+    "rewrites": [
+      { "source": "/api/**", "function": "app" },
+      { "source": "**", "destination": "/index.html" }
     ]
   }
 }

@@ -678,7 +678,7 @@ function startServer({ port = DEFAULT_PORT, enableFileWatch = true } = {}) {
     if(STATIC_ROOT){
       console.log('📁 Static root:', STATIC_ROOT);
     }
-    if(ALLOWED_ORIGINS && ALLOWED_ORIGINS.length){
+    if(ALLOWED_ORIGIN_SET && ALLOWED_ORIGIN_SET.size){
       console.log('🌐 CORS allowed origins:', Array.from(ALLOWED_ORIGIN_SET).join(', '));
     }
   });
