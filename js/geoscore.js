@@ -5,6 +5,26 @@ const ANSWER_OVERRIDES_KEY = 'geoscoreAnswerOverrides';
 const ANSWER_WEIGHT_OVERRIDES_KEY = 'geoscoreAnswerWeightOverrides';
 const EXCLUSIONS_KEY = 'geoscoreExclusions'; // { CategoryName: { normalizedName: true } }
 
+function clampMetric(val, max = 100) {
+  const num = Number(val);
+  if (!Number.isFinite(num)) return 0;
+  if (num < 0) return 0;
+  if (num > max) return max;
+  return num;
+}
+
+function normalizeAnswerMetrics(list, { maxScore = 100 } = {}) {
+  if (!Array.isArray(list)) return;
+  for (const q of list) {
+    if (!q || !Array.isArray(q.answers)) continue;
+    for (const a of q.answers) {
+      if (!a || typeof a !== 'object') continue;
+      if ('score' in a) a.score = clampMetric(a.score, maxScore);
+      if ('count' in a) a.count = clampMetric(a.count, maxScore);
+    }
+  }
+}
+
 // Discard algorithmic weighting: we no longer normalize scores globally.
 function normalizeAllQuestions(list){ /* no-op by design */ }
 
@@ -591,6 +611,7 @@ export async function loadQuestions() {
       }
       // Apply global by-country/by-city weights
       await applyGlobalWeights(data, ovAll);
+      normalizeAnswerMetrics(data);
       saveQuestions(data);
       return data;
     }
@@ -644,6 +665,7 @@ export async function loadQuestions() {
       }
     }
     await applyGlobalWeights(cached, ovAll);
+    normalizeAnswerMetrics(cached);
     return cached;
   }
   // If nothing stored, seed with defaults and generated questions
@@ -694,6 +716,7 @@ export async function loadQuestions() {
     }
   }
   await applyGlobalWeights(seededFiltered, ovAll);
+  normalizeAnswerMetrics(seededFiltered);
   saveQuestions(seededFiltered);
   return seededFiltered;
 }

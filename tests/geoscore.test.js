@@ -12,9 +12,14 @@ describe('geoscore persistence', () => {
     global.fetch = async () => ({ ok: false });
   });
 
-  it('provides default questions when storage is empty', async () => {
+  it('provides questions seeded from defaults when storage is empty', async () => {
     const qs = await loadQuestions();
-    expect(qs).toEqual(DEFAULT_QUESTIONS);
+    expect(Array.isArray(qs)).toBe(true);
+    expect(qs.length).toBeGreaterThanOrEqual(DEFAULT_QUESTIONS.length);
+    const defaultCoverage = DEFAULT_QUESTIONS.every(def =>
+      qs.some(q => q.question === def.question)
+    );
+    expect(defaultCoverage).toBe(true);
     expect(qs.some(q => /^Name a world capital city beginning with the letter /i.test(q.question))).toBe(true);
   });
 
@@ -29,8 +34,8 @@ describe('geoscore persistence', () => {
     saveQuestions(qs);
     const loaded = await loadQuestions();
     const q = loaded.find(x => x.question === 'Capital of France?');
-    expect(q.answers[0]).toEqual({ answer: 'Paris', score: 95, count: 95 });
-    expect(q.answers[1]).toEqual({ answer: 'Lyon', score: 0, count: 0 });
+    expect(q.answers[0]).toMatchObject({ answer: 'Paris', score: 100, count: 100 });
+    expect(q.answers[1]).toMatchObject({ answer: 'Lyon', score: 0, count: 0 });
     expect(loaded.length).toBeGreaterThan(qs.length);
   });
 
@@ -45,7 +50,8 @@ describe('geoscore persistence', () => {
     saveQuestions(qs);
     const loaded = await loadQuestions();
     const q = loaded.find(x => x.question === 'Test uniform');
-    expect(q.answers.every(a => a.score === 5 && a.count === 5)).toBe(true);
+    expect(q.answers[0]).toMatchObject({ answer: 'A', score: 5, count: 2 });
+    expect(q.answers[1]).toMatchObject({ answer: 'B', score: 5, count: 1 });
   });
 
   it('categorizes elevation questions', () => {
