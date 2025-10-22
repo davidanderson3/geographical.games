@@ -9,3 +9,4 @@ geoscore_questions.json
 # Generated vector tiles
 tiles/*.mbtiles
 .DS_Store
+geogeo.json
