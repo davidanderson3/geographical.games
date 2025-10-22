@@ -38,14 +38,24 @@ const { loadFirebaseServiceAccount } = require('./loadFirebaseServiceAccount');
 
 const execFileAsync = util.promisify(execFile);
 const app = express();
-const DEFAULT_PORT = Number(process.env.PORT || 3002);
+const DEFAULT_PORT = Number(process.env.PORT || 3005);
 
-const DEFAULT_ALLOWED_ORIGINS = [`http://localhost:${DEFAULT_PORT}`];
-const ALLOWED_ORIGINS = (() => {
-  const raw = String(process.env.ALLOWED_ORIGINS || '').split(',').map(s => s.trim()).filter(Boolean);
-  if(raw.length) return raw;
-  return DEFAULT_ALLOWED_ORIGINS;
-})();
+const DEFAULT_ALLOWED_ORIGINS = [
+  `http://localhost:${DEFAULT_PORT}`,
+  'http://localhost:3000',
+  'http://localhost:3005',
+  'http://localhost:5173',
+  'https://geographical.games',
+  'https://www.geographical.games'
+];
+
+const envAllowedOrigins = String(process.env.ALLOWED_ORIGINS || '')
+  .split(',')
+  .map(s => s.trim())
+  .filter(Boolean);
+
+const ALLOWED_ORIGIN_SET = new Set([...DEFAULT_ALLOWED_ORIGINS, ...envAllowedOrigins]);
+const LOCALHOST_PATTERN = /^https?:\/\/localhost(?::\d+)?$/i;
 
 function detectProjectRoot(){
   const candidates = [
@@ -71,7 +81,8 @@ const STATIC_ROOT = fs.existsSync(path.join(PROJECT_ROOT, 'index.html')) ? PROJE
 app.use(cors({
   origin(origin, callback){
     if(!origin) return callback(null, true); // Same-origin or curl
-    if(ALLOWED_ORIGINS.includes(origin)) return callback(null, true);
+    if(LOCALHOST_PATTERN.test(origin)) return callback(null, true);
+    if(ALLOWED_ORIGIN_SET.has(origin)) return callback(null, true);
     return callback(new Error(`CORS blocked for origin ${origin}`));
   },
   credentials: true,
@@ -668,7 +679,7 @@ function startServer({ port = DEFAULT_PORT, enableFileWatch = true } = {}) {
       console.log('📁 Static root:', STATIC_ROOT);
     }
     if(ALLOWED_ORIGINS && ALLOWED_ORIGINS.length){
-      console.log('🌐 CORS allowed origins:', ALLOWED_ORIGINS.join(', '));
+      console.log('🌐 CORS allowed origins:', Array.from(ALLOWED_ORIGIN_SET).join(', '));
     }
   });
 

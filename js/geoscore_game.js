@@ -25,6 +25,107 @@ export function normalizeAnswer(s){
     .toLowerCase();
 }
 
+const DONT_KNOW_KEYS = new Set(['i dont know', 'dont know', 'idk', 'i do not know']);
+
+function isDontKnowValue(value){
+  if(value == null) return false;
+  return DONT_KNOW_KEYS.has(normalizeAnswer(value));
+}
+
+function normalizeSuggestionEntry(entry, idx){
+  if(!entry) return null;
+  let label = '';
+  let score = 0;
+  let count = 0;
+  if(typeof entry === 'string'){
+    label = entry;
+  } else if(entry && typeof entry === 'object'){
+    if(entry.answer){
+      label = String(entry.answer);
+      score = Number(entry.score) || 0;
+      count = Number(entry.count) || 0;
+    } else if(entry.name){
+      label = String(entry.name);
+      score = Number(entry.score) || 0;
+      count = Number(entry.count) || 0;
+    } else if(entry._orig){
+      label = String(entry._orig);
+      score = Number(entry.score) || 0;
+      count = Number(entry.count) || 0;
+    }
+  }
+  if(!label) return null;
+  return { label, score, count, idx };
+}
+
+function computeTopAnswerEntries(list, limit = 5){
+  const normalized = [];
+  if(Array.isArray(list)){
+    list.forEach((entry, idx)=>{
+      const norm = normalizeSuggestionEntry(entry, idx);
+      if(norm) normalized.push(norm);
+    });
+  }
+  normalized.sort((a, b)=>{
+    if(b.score !== a.score) return b.score - a.score;
+    if(b.count !== a.count) return b.count - a.count;
+    return a.idx - b.idx;
+  });
+  return normalized.slice(0, limit);
+}
+
+function renderDontKnowSuggestions(parent, answers){
+  if(!parent) return;
+  const topEntries = computeTopAnswerEntries(answers, 5);
+  if(!topEntries.length) return;
+  const existing = parent.querySelector('.gs-suggestion-panel');
+  if(existing) existing.remove();
+  const panel = document.createElement('div');
+  panel.className = 'gs-suggestion-panel';
+  panel.style.marginTop = '8px';
+  panel.style.padding = '10px';
+  panel.style.border = '1px solid #dbeafe';
+  panel.style.borderRadius = '6px';
+  panel.style.background = '#f8fafc';
+  panel.style.fontSize = '0.95rem';
+
+  const could = document.createElement('div');
+  could.style.fontWeight = '600';
+  could.style.marginBottom = '4px';
+  could.textContent = 'You could have said:';
+  panel.appendChild(could);
+
+  const sampleList = document.createElement('ul');
+  sampleList.style.margin = '0 0 8px 18px';
+  sampleList.style.padding = '0';
+  const sampleEntries = topEntries.slice(0, Math.min(3, topEntries.length));
+  sampleEntries.forEach(entry=>{
+    const li = document.createElement('li');
+    li.textContent = entry.label;
+    sampleList.appendChild(li);
+  });
+  panel.appendChild(sampleList);
+
+  const topLabel = document.createElement('div');
+  topLabel.style.fontWeight = '600';
+  topLabel.style.marginBottom = '4px';
+  topLabel.textContent = 'Top answers:';
+  panel.appendChild(topLabel);
+
+  const topList = document.createElement('ol');
+  topList.style.margin = '0';
+  topList.style.padding = '0 0 0 18px';
+  topEntries.forEach(entry=>{
+    const li = document.createElement('li');
+    const scoreText = entry.score > 0 ? ` (score ${entry.score})` : '';
+    li.textContent = `${entry.label}${scoreText}`;
+    topList.appendChild(li);
+  });
+  panel.appendChild(topList);
+
+  parent.appendChild(panel);
+}
+
 function normalizeCityRecord(item){
   if(!item) return null;
   if(typeof item === 'string'){
@@ -241,11 +342,34 @@ function createFlagTypingCard(options, onAnswered, allSuggestions, getScore, qIn
   input.addEventListener('input', ()=> updateSuggestions(input.value));
 
   let locked=false; function lock(){ locked=true; input.disabled=true; submitBtn.disabled=true; skipBtn.disabled=true; }
+  function presentDontKnow(labelText){
+    if(locked) return;
+    lock();
+    try{
+      const solved = document.createElement('div');
+      solved.className = 'gs-solved-row';
+      solved.style.marginTop = '6px';
+      const txt = document.createElement('span');
+      txt.style.color = '#a00';
+      txt.style.fontWeight='700';
+      txt.textContent = labelText || `Don't know (+100)`;
+      solved.appendChild(txt);
+      if(controls && controls.parentNode===wrap) wrap.replaceChild(solved, controls);
+    }catch{}
+    try{ for(const opt of options){ const lbl = labelByName.get(normCountryName(opt.name)); if(lbl) lbl.style.opacity = '1'; } }catch{}
+    feedback.textContent = '';
+    renderDontKnowSuggestions(wrap, options);
+    try{ onAnswered && onAnswered({ correct:false, score:100, skipped:true, dontKnow:true }); }catch{}
+  }
   function submit(){
     if(locked) return;
     const raw = input.value;
     const v = norm(raw);
     if(!v) return;
+    if(isDontKnowValue(raw)){
+      presentDontKnow(raw && raw.trim() ? `${raw.trim()} (+100)` : `Don't know (+100)`);
+      return;
+    }
     const match = options.find(o => norm(o.name) === v);
     if(match){
       // Resolve canonical option name to compute score
@@ -295,23 +419,7 @@ function createFlagTypingCard(options, onAnswered, allSuggestions, getScore, qIn
   submitBtn.addEventListener('click', submit);
   skipBtn.addEventListener('click', ()=>{
     if(locked) return;
-    lock();
-    // Replace the controls with "Don't know (+100)"
-    try{
-      const solvedRow = document.createElement('div');
-      solvedRow.className = 'gs-solved-row';
-      solvedRow.style.marginTop = '6px';
-      const solvedText = document.createElement('span');
-      solvedText.style.color = '#a00';
-      solvedText.style.fontWeight = '700';
-      solvedText.textContent = `Don't know (+100)`;
-      solvedRow.appendChild(solvedText);
-      if(controls && controls.parentNode === wrap){ wrap.replaceChild(solvedRow, controls); }
-    }catch{}
-    // Reveal labels for all flags so user learns the set
-    try{ for(const opt of options){ const lbl = labelByName.get(normCountryName(opt.name)); if(lbl) lbl.style.opacity = '1'; } }catch{}
-    feedback.textContent = '';
-    try{ onAnswered && onAnswered({correct:false, score:100, skipped:true}); }catch{}
+    presentDontKnow(`Don't know (+100)`);
   });
 
   const controls = document.createElement('div');
@@ -453,7 +561,34 @@ function createQuestionCard(q, idx, onAnswered, suggestList, isState=false, glob
 
   let locked = false;
   function lock(){ input.disabled = true; skipBtn.disabled = true; locked = true; }
+  function completeDontKnow(labelText){
+    if(locked) return;
+    lock();
+    try {
+      if (inputRow && inputRow.parentNode === wrap) {
+        const solvedRow = document.createElement('div');
+        solvedRow.className = 'gs-solved-row';
+        solvedRow.style.marginTop = '6px';
+        const solvedText = document.createElement('span');
+        solvedText.style.color = '#a00';
+        solvedText.style.fontWeight = '700';
+        solvedText.textContent = labelText || `Don't know (+100)`;
+        solvedRow.appendChild(solvedText);
+        wrap.replaceChild(solvedRow, inputRow);
+      }
+    } catch {}
+    feedback.textContent = '';
+    renderDontKnowSuggestions(wrap, q && q.answers);
+    const res = { correct: false, score: 100, skipped: true, dontKnow: true };
+    try{ typeof onAnswered === 'function' && onAnswered(res); }catch{}
+    return res;
+  }
   function submit(){
+    if(isDontKnowValue(input.value)){
+      const label = input.value && input.value.trim() ? `${input.value.trim()} (+100)` : `Don't know (+100)`;
+      completeDontKnow(label);
+      return;
+    }
     const key = normalizeAnswer(input.value);
     if(!key) return;
     // If not an exact match, try to resolve a single suggestion match (prefix or contains)
@@ -577,24 +712,7 @@ function createQuestionCard(q, idx, onAnswered, suggestList, isState=false, glob
   submitBtn.addEventListener('click', ()=>{ submit(); });
   skipBtn.addEventListener('click', ()=>{
     if(locked) return;
-    lock();
-    // Replace input row with "Don't know (+100)"
-    try {
-      if (inputRow && inputRow.parentNode === wrap) {
-        const solvedRow = document.createElement('div');
-        solvedRow.className = 'gs-solved-row';
-        solvedRow.style.marginTop = '6px';
-        const solvedText = document.createElement('span');
-        solvedText.style.color = '#a00';
-        solvedText.style.fontWeight = '700';
-        solvedText.textContent = `Don't know (+100)`;
-        solvedRow.appendChild(solvedText);
-        wrap.replaceChild(solvedRow, inputRow);
-      }
-    } catch {}
-    feedback.textContent = '';
-    const res = { correct: false, score: 100, skipped: true };
-    try{ typeof onAnswered === 'function' && onAnswered(res); }catch{}
+    completeDontKnow(`Don't know (+100)`);
   });
 
   // Single row layout: input | Submit | I don't know
