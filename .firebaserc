@@ -1,5 +1,12 @@
 {
   "projects": {
     "default": "geogeo-8008a"
+  },
+  "targets": {
+    "geogeo-8008a": {
+      "hosting": {
+        "default": ["geogeo-8008a"]
+      }
+    }
   }
 }

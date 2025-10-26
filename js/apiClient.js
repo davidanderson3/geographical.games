@@ -1,5 +1,5 @@
-const DEFAULT_PROD_BASE = 'https://us-central1-geogeo-8008a.cloudfunctions.net/app';
-const DEFAULT_LOCAL_BASE = 'http://localhost:3002';
+const DEFAULT_PROD_BASE = '';
+const DEFAULT_LOCAL_BASE = 'http://localhost:3005';
 
 function resolveApiBase(){
   if (typeof window === 'undefined') {

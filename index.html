@@ -96,7 +96,14 @@
   -->
 
   <script>
-    window.GEO_API_BASE = 'https://us-central1-geogeo-8008a.cloudfunctions.net/app';
+    (function(){
+      const host = location.hostname;
+      if(host === 'localhost' || host === '127.0.0.1'){
+        window.GEO_API_BASE = 'http://localhost:3005';
+      }else{
+        window.GEO_API_BASE = '';
+      }
+    })();
   </script>
   <script type="module" src="js/geoscore.js?v=20250914"></script>
   <script type="module" src="js/tabs.js?v=20250914"></script>
@@ -106,6 +113,8 @@
   <script>
     // Dev: auto-reload on changes served by backend/server.js
     (function(){
+      const isLocal = /^localhost$|^127\.0\.0\.1$/.test(location.hostname);
+      if(!isLocal) return;
       try {
         const es = new EventSource('/livereload');
         es.onmessage = (e) => {

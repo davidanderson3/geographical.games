@@ -40,6 +40,8 @@
 
     // Dev: auto-reload when assets change
     (function(){
+      const isLocal = /^localhost$|^127\.0\.0\.1$/.test(location.hostname);
+      if(!isLocal) return;
       try {
         const es = new EventSource('/livereload');
         es.onmessage = (e) => {

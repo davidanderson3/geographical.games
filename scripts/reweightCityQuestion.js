@@ -121,12 +121,10 @@ function loadCountryFamiliarity(overrides) {
       map.set(key, Math.max(0, Math.min(100, score)));
     }
   }
-  const scoreFiles = ['country-scores.json', 'country_scores.json'];
-  for (const file of scoreFiles) {
-    const p = path.join(ROOT, file);
-    if (!fs.existsSync(p)) continue;
+  const scoresPath = path.join(ROOT, 'country-scores.json');
+  if (fs.existsSync(scoresPath)) {
     try {
-      const rows = readJson(p);
+      const rows = readJson(scoresPath);
       if (Array.isArray(rows)) {
         for (const row of rows) {
           if (!row || typeof row.country !== 'string') continue;
@@ -137,7 +135,7 @@ function loadCountryFamiliarity(overrides) {
         }
       }
     } catch (err) {
-      console.warn(`Failed to read ${file}:`, err.message);
+      console.warn(`Failed to read country-scores.json:`, err.message);
     }
   }
   return map;

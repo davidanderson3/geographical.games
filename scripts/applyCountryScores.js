@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /*
-  Apply country weight scores from country_scores.json to all relevant country questions.
+  Apply country weight scores from country-scores.json to all relevant country questions.
   - Reads geoscore_questions.json (array or {questions})
   - For each question, if any answer matches a country in the provided list,
     set weightOverrides[questionKey][originalAnswer] = score
@@ -12,9 +12,7 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const QUESTIONS = path.join(ROOT, 'geoscore_questions.json');
-// Prefer hyphenated filename if present, fallback to underscore
-const SCORES_HYPHEN = path.join(ROOT, 'country-scores.json');
-const SCORES_UNDERSCORE = path.join(ROOT, 'country_scores.json');
+const SCORES_PATH = path.join(ROOT, 'country-scores.json');
 const OV_FILE = path.join(ROOT, 'backend', 'geoscore-overrides.json');
 
 function readJson(p){ return JSON.parse(fs.readFileSync(p, 'utf8')); }
@@ -50,12 +48,11 @@ function aliasNormalize(s){
 function main(){
   const rawQs = readJson(QUESTIONS);
   const questions = Array.isArray(rawQs) ? rawQs : (rawQs.questions || []);
-  const scoresPath = fs.existsSync(SCORES_HYPHEN) ? SCORES_HYPHEN : SCORES_UNDERSCORE;
-  if(!fs.existsSync(scoresPath)){
-    console.error('Scores file not found:', SCORES_HYPHEN, 'or', SCORES_UNDERSCORE);
+  if(!fs.existsSync(SCORES_PATH)){
+    console.error('Scores file not found:', SCORES_PATH);
     process.exit(1);
   }
-  const scores = readJson(scoresPath);
+  const scores = readJson(SCORES_PATH);
 
   // Build a set of normalized country -> score
   const scoreMap = new Map();
@@ -73,7 +70,6 @@ function main(){
   ov.weightByCountry = ov.weightByCountry || {};
 
   let applied = 0;
-  let touchedQuestions = 0;
   // Populate global weightByCountry map so countries get consistent weights across questions
   for(const [k, sc] of scoreMap.entries()){
     ov.weightByCountry[k] = sc;
@@ -98,7 +94,7 @@ function main(){
   const qCount = Object.keys(ov.weightOverrides).length;
   writeJson(OV_FILE, ov);
   console.log(`Applied ${applied} weight overrides across ~${qCount} questions.`);
-  console.log(`Scores source: ${path.relative(ROOT, scoresPath)}`);
+  console.log(`Scores source: ${path.relative(ROOT, SCORES_PATH)}`);
   console.log(`Wrote ${path.relative(ROOT, OV_FILE)}`);
 }
 
