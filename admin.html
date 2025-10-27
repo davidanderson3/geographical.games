@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Geo Geo Admin</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css?v=20250901" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon.png">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="container navbar-inner">
+      <div class="navbar-left site-name">Geo Geo Admin</div>
+      <div class="navbar-right" style="margin-left:auto; display:flex; align-items:center; gap:8px;">
+        <span id="userInfo" style="font-size:0.9em; opacity:0.85;"></span>
+        <button id="authBtn" type="button">Sign in with Google</button>
+      </div>
+    </div>
+  </nav>
+
+  <section class="main-layout">
+    <div class="full-column">
+      <div class="panel-header">
+        <h2>GeoScore Admin</h2>
+      </div>
+      <div id="geoscoreAdmin"></div>
+    </div>
+  </section>
+
+  <script>
+    (function(){
+      const host = location.hostname;
+      const isProd = host === 'geographical.games';
+      const isDev = host === 'geographical-games.web.app';
+      window.FIREBASE_CONFIG = isProd ? {
+        apiKey: "AIzaSyAz6uO0jUjOPWHXXwh_qMwvG-c55dv-zmI",
+        authDomain: "geographical-games.firebaseapp.com",
+        projectId: "geographical-games",
+      } : {
+        apiKey: "AIzaSyBvDwwYH9OaaeqSz0sIyi3zMjXzuij_4Pg",
+        authDomain: "geographical-games-dev.firebaseapp.com",
+        projectId: "geographical-games-dev",
+      };
+    })();
+  </script>
+  <script src="js/auth.js?v=20250901"></script>
+  <script src="js/apiClient.js?v=20250901"></script>
+  <script src="js/geoscore.js?v=20250901"></script>
+</body>
+</html>
