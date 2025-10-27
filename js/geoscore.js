@@ -259,7 +259,7 @@ function readAnswerWeightOverrides(){
 }
 async function fetchServerOverrides(){
   try{
-    const res = await apiFetch('/api/geoscore-overrides', { cache: 'no-store' });
+    const res = await apiFetch('/geoscore-overrides', { cache: 'no-store' });
     if(res.ok){ return await res.json(); }
   }catch{}
   // Try static fallback if API route not available

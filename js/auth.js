@@ -17,21 +17,8 @@ async function loadFirebaseConfig(){
 }
 
 async function verifyWithBackend(idToken){
-  try {
-    const res = await apiFetch('/api/auth/verify', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ idToken })
-    });
-    if(res.ok){
-      const data = await res.json();
-      console.log('Auth verified by backend:', data && data.user);
-    } else {
-      console.warn('Backend auth verify failed', res.status);
-    }
-  } catch (e) {
-    console.warn('Backend auth verify error', e && e.message);
-  }
+  // Temporarily disabled until backend functions are deployed
+  return;
 }
 
 async function initAuthUI(){

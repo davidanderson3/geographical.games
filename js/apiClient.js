@@ -1,4 +1,4 @@
-const DEFAULT_PROD_BASE = '';
+const DEFAULT_PROD_BASE = 'https://app-lweooccrmq-uc.a.run.app';
 const DEFAULT_LOCAL_BASE = 'http://localhost:3005';
 
 function resolveApiBase(){
@@ -17,10 +17,19 @@ function resolveApiBase(){
 
 export const API_BASE = resolveApiBase();
 
-export function apiFetch(path, options){
+export function apiFetch(path, options = {}){
   if (!path) {
     throw new Error('apiFetch requires a path');
   }
+  
+  // Default to caching for 1 hour unless explicitly disabled
+  if (options.cache !== 'no-store' && !options.headers?.['Cache-Control']) {
+    options.headers = {
+      ...options.headers,
+      'Cache-Control': 'max-age=3600'
+    };
+  }
+  
   if (/^https?:\/\//i.test(path)) {
     return fetch(path, options);
   }

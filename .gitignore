@@ -10,3 +10,4 @@ geoscore_questions.json
 tiles/*.mbtiles
 .DS_Store
 geogeo.json
+package-lock.json

@@ -74,7 +74,7 @@ function computeTopAnswerEntries(list, limit = 5){
   return normalized.slice(0, limit);
 }
 
-function renderDontKnowSuggestions(parent, answers){
+function renderDontKnowSuggestions(parent, answers, questionText = ''){
   if(!parent) return;
   const topEntries = computeTopAnswerEntries(answers, 5);
   if(!topEntries.length) return;
@@ -88,6 +88,16 @@ function renderDontKnowSuggestions(parent, answers){
   panel.style.borderRadius = '6px';
   panel.style.background = '#f8fafc';
   panel.style.fontSize = '0.95rem';
+  
+  // Add population note for city questions
+  if (questionText.toLowerCase().includes('city')) {
+    const note = document.createElement('div');
+    note.style.marginBottom = '8px';
+    note.style.fontStyle = 'italic';
+    note.style.color = '#666';
+    note.textContent = 'Note: Cities must have a population of at least 5,000';
+    panel.appendChild(note);
+  }
 
   const could = document.createElement('div');
   could.style.fontWeight = '600';
@@ -99,9 +109,23 @@ function renderDontKnowSuggestions(parent, answers){
   sampleList.style.margin = '0 0 8px 18px';
   sampleList.style.padding = '0';
   const sampleEntries = topEntries.slice(0, Math.min(3, topEntries.length));
-  sampleEntries.forEach(entry=>{
+  sampleEntries.forEach(async entry => {
     const li = document.createElement('li');
-    li.textContent = entry.label;
+    const cityName = toTitleCase(entry.label);
+    // Check if it's a US city
+    const cityMeta = getUsCityMeta(entry.label);
+    if (cityMeta && cityMeta.states && cityMeta.states.length > 0) {
+      const stateNames = cityMeta.states.map(s => s.stateName).join(', ');
+      li.textContent = `${cityName} (${stateNames})`;
+    } else {
+      // Try to find country for non-US cities
+      const countries = await getCountryNameSet();
+      if (countries.has(entry.label.toLowerCase())) {
+        li.textContent = toTitleCase(entry.label);
+      } else {
+        li.textContent = cityName;
+      }
+    }
     sampleList.appendChild(li);
   });
   panel.appendChild(sampleList);
@@ -115,15 +139,54 @@ function renderDontKnowSuggestions(parent, answers){
   const topList = document.createElement('ol');
   topList.style.margin = '0';
   topList.style.padding = '0 0 0 18px';
-  topEntries.forEach(entry=>{
+  topEntries.forEach(async entry => {
     const li = document.createElement('li');
+    const cityName = toTitleCase(entry.label);
     const scoreText = entry.score > 0 ? ` (score ${entry.score})` : '';
-    li.textContent = `${entry.label}${scoreText}`;
+    
+    // Check if it's a US city
+    const cityMeta = getUsCityMeta(entry.label);
+    if (cityMeta && cityMeta.states && cityMeta.states.length > 0) {
+      const stateNames = cityMeta.states.map(s => s.stateName).join(', ');
+      li.textContent = `${cityName} (${stateNames})${scoreText}`;
+    } else {
+      // Try to find country for non-US cities
+      const countries = await getCountryNameSet();
+      if (countries.has(entry.label.toLowerCase())) {
+        li.textContent = `${toTitleCase(entry.label)}${scoreText}`;
+      } else {
+        li.textContent = `${cityName}${scoreText}`;
+      }
+    }
     topList.appendChild(li);
   });
   panel.appendChild(topList);
 
   parent.appendChild(panel);
+}
+
+function capitalizeWord(word) {
+  return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+}
+
+function toTitleCase(str) {
+  // Special cases for country names
+  const special = {
+    'and': 'and',
+    'of': 'of',
+    'the': 'the',
+    'da': 'da',
+    'de': 'de',
+    'du': 'du',
+    'des': 'des'
+  };
+  
+  return str.split(/[\s-]+/).map((word, index, arr) => {
+    // Always capitalize first and last word
+    if (index === 0 || index === arr.length - 1) return capitalizeWord(word);
+    // Use special case or capitalize
+    return special[word.toLowerCase()] || capitalizeWord(word);
+  }).join(' ');
 }
 
 function normalizeCityRecord(item){
@@ -183,7 +246,7 @@ async function getUsCities(){
   if(!usCitiesPromise){
     usCitiesPromise = (async () => {
       try{
-        const res = await fetch('us_cities.json', { cache: 'no-store' });
+        const res = await fetch('us_cities.json');
         if(res && res.ok){
           const data = await res.json();
           usCitiesMetaByKey = buildUsCitiesMeta(data);
@@ -215,7 +278,7 @@ function pickN(arr, n){
 
 async function loadFlagsMetadata(){
   try{
-    const res = await fetch('flags/flags.metadata.json', { cache: 'no-store' });
+    const res = await fetch('flags/flags.metadata.json');
     if(res.ok) return res.json();
   }catch{}
   return { countries:{}, states:{ byCode:{}, byName:{} } };
@@ -223,7 +286,7 @@ async function loadFlagsMetadata(){
 
 async function loadCountryList(){
   try{
-    const res = await fetch('geolayers-game/public/countries.json', { cache: 'no-store' });
+    const res = await fetch('geolayers-game/public/countries.json');
     if(res.ok) return res.json();
   }catch{}
   return [];
@@ -233,7 +296,7 @@ let __worldCitiesCache = null;
 async function loadWorldCityList(){
   if(__worldCitiesCache) return __worldCitiesCache;
   try{
-    const res = await fetch('world_cities_5k.json', { cache: 'no-store' });
+    const res = await fetch('world_cities_5k.json');
     if(res.ok){
       const arr = await res.json();
       __worldCitiesCache = Array.isArray(arr) ? arr : [];
@@ -257,7 +320,7 @@ async function loadWorldCityList(){
 
 async function fetchOverridesForFlags(){
   // Try API first, then static file, else empty
-  try{ const r=await apiFetch('/api/geoscore-overrides',{cache:'no-store'}); if(r.ok) return r.json(); }catch{}
+  try{ const r=await apiFetch('/geoscore-overrides',{cache:'no-store'}); if(r.ok) return r.json(); }catch{}
   try{ const r=await fetch('/backend/geoscore-overrides.json',{cache:'no-store'}); if(r.ok) return r.json(); }catch{}
   return { weightByCountry:{}, weightByCity:{} };
 }
