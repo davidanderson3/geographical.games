@@ -93,6 +93,20 @@
       }else{
         window.GEO_API_BASE = '';
       }
+
+      // Initialize Firebase configuration
+      const isProd = host === 'geographical.games';
+      window.FIREBASE_CONFIG = isProd ? {
+        apiKey: "AIzaSyDBzPRsmdP37-a5psl9Gw0H4XFCHxMJ_w0",
+        authDomain: "geogeo-8008a.firebaseapp.com",
+        projectId: "geogeo-8008a",
+      } : {
+        apiKey: "AIzaSyDBzPRsmdP37-a5psl9Gw0H4XFCHxMJ_w0",
+        authDomain: "geogeo-8008a.firebaseapp.com",
+        projectId: "geogeo-8008a",
+      };
+
+      console.log('Firebase Config initialized for:', isProd ? 'production' : 'development');
     })();
   </script>
   <script type="module" src="js/geoscore.js?v=20250914"></script>

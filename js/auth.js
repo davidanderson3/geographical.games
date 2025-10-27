@@ -1,4 +1,6 @@
 // Client-side Google Sign-In via Firebase Auth (modular SDK via ESM CDN)
+console.log('auth.js loaded');
+  console.log('initAuthUI called');
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/11.8.1/firebase-app.js';
 import { getAuth, onAuthStateChanged, signInWithPopup, GoogleAuthProvider, signOut } from 'https://www.gstatic.com/firebasejs/11.8.1/firebase-auth.js';
 import { apiFetch } from './apiClient.js';
@@ -32,21 +34,32 @@ async function verifyWithBackend(idToken){
   }
 }
 
-export async function initAuthUI(){
-  const cfg = await loadFirebaseConfig();
+async function initAuthUI(){
+  const cfg = window.FIREBASE_CONFIG || await loadFirebaseConfig();
+  console.log('Firebase config:', JSON.stringify(cfg));
+  if (!cfg.apiKey || !cfg.authDomain || !cfg.projectId) {
+    console.error('Firebase config missing required fields:', cfg);
+  }
   const btn = document.getElementById('authBtn');
   const userInfo = document.getElementById('userInfo');
-  if(!btn || !userInfo){ return; }
+  console.log('Auth button:', btn);
+  if(!btn || !userInfo){
+    console.error('Auth button or user info element not found');
+    return;
+  }
+  btn.textContent = 'Sign in with Google (ready)';
 
   if(!cfg){
     btn.disabled = true;
     btn.textContent = 'Auth not configured';
     userInfo.textContent = '';
+    console.error('No Firebase config found');
     return;
   }
 
   if(!app) app = initializeApp(cfg);
   if(!auth) auth = getAuth(app);
+  console.log('Firebase Auth initialized');
   const provider = new GoogleAuthProvider();
 
   function updateUI(user){
@@ -71,17 +84,34 @@ export async function initAuthUI(){
   });
 
   btn.addEventListener('click', async () => {
+    console.log('Sign-in button clicked');
     const user = auth.currentUser;
     if(user){
       try { await signOut(auth); } catch {}
       return;
     }
     try {
+      console.log('Attempting sign in with config:', JSON.stringify(cfg));
       await signInWithPopup(auth, provider);
+      console.log('Sign in successful');
     } catch (e) {
-      console.warn('Sign-in failed:', e && e.message);
+      console.error('Sign-in failed:', e);
+      btn.textContent = 'Sign in failed';
+      btn.style.background = '#c00';
+      btn.style.color = '#fff';
+      userInfo.textContent = e.message || 'Sign-in error';
     }
   });
 }
 
-if(typeof window !== 'undefined') window.initAuthUI = initAuthUI;
+
+if(typeof window !== 'undefined') {
+  window.initAuthUI = initAuthUI;
+  if(document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+      window.initAuthUI();
+    });
+  } else {
+    window.initAuthUI();
+  }
+}
